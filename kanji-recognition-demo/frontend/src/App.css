@@ -398,6 +398,78 @@ body {
   opacity: 0.8;
 }
 
+/* Kanji Details Styles */
+.kanji-details {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 2px solid rgba(255, 255, 255, 0.3);
+  text-align: left;
+}
+
+.details-section {
+  margin-bottom: 16px;
+}
+
+.details-section:last-child {
+  margin-bottom: 0;
+}
+
+.details-label {
+  font-size: 12px;
+  font-weight: 700;
+  opacity: 0.9;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 6px;
+  display: block;
+}
+
+.details-content {
+  font-size: 14px;
+  font-weight: 500;
+  opacity: 0.95;
+  word-wrap: break-word;
+  line-height: 1.4;
+}
+
+.details-content.meanings {
+  font-style: italic;
+}
+
+.details-content.readings {
+  font-family: 'Hiragino Kaku Gothic Pro', 'Hiragino Sans', sans-serif;
+  letter-spacing: 0.5px;
+}
+
+/* Candidate Details */
+.candidate-details {
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px solid #ecf0f1;
+  font-size: 11px;
+  color: #2c3e50;
+  text-align: left;
+}
+
+.candidate-detail-row {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 4px;
+  word-break: break-word;
+}
+
+.detail-type {
+  font-weight: 600;
+  color: #667eea;
+  min-width: 50px;
+}
+
+.detail-value {
+  flex: 1;
+  color: #34495e;
+  font-size: 10px;
+}
+
 /* Top 5 predictions */
 .top5-section {
   margin-top: 30px;

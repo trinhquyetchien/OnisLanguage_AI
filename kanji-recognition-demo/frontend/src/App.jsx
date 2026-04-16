@@ -513,6 +513,53 @@ function App() {
                     <div className="top1-id">
                       (ID: {predictions.top1.label_id})
                     </div>
+                    
+                    {predictions.top1.details && !predictions.top1.details.error && (
+                      <div className="kanji-details">
+                        <div className="details-section">
+                          <div className="details-label">📖 Meanings</div>
+                          <div className="details-content meanings">
+                            {predictions.top1.details.meanings && predictions.top1.details.meanings.length > 0
+                              ? predictions.top1.details.meanings.join(', ')
+                              : 'N/A'}
+                          </div>
+                        </div>
+                        
+                        <div className="details-section">
+                          <div className="details-label">🔴 On-Yomi (音読み)</div>
+                          <div className="details-content readings">
+                            {predictions.top1.details.on_yomi && predictions.top1.details.on_yomi.length > 0
+                              ? predictions.top1.details.on_yomi.join(', ')
+                              : 'N/A'}
+                          </div>
+                        </div>
+                        
+                        <div className="details-section">
+                          <div className="details-label">🔵 Kun-Yomi (訓読み)</div>
+                          <div className="details-content readings">
+                            {predictions.top1.details.kun_yomi && predictions.top1.details.kun_yomi.length > 0
+                              ? predictions.top1.details.kun_yomi.join(', ')
+                              : 'N/A'}
+                          </div>
+                        </div>
+                        
+                        <div className="details-section">
+                          <div className="details-label">✒️ Stroke Count</div>
+                          <div className="details-content">
+                            {predictions.top1.details.stroke_count || 'N/A'}
+                          </div>
+                        </div>
+
+                        {predictions.top1.details.grade && (
+                          <div className="details-section">
+                            <div className="details-label">📚 Grade</div>
+                            <div className="details-content">
+                              {predictions.top1.details.grade}
+                            </div>
+                          </div>
+                        )}
+                      </div>
+                    )}
                   </div>
 
                   <div className="top5-section">
@@ -534,6 +581,29 @@ function App() {
                           <div className="candidate-id">
                             ID: {item.label_id}
                           </div>
+                          
+                          {item.details && !item.details.error && (
+                            <div className="candidate-details">
+                              {item.details.meanings && item.details.meanings.length > 0 && (
+                                <div className="candidate-detail-row">
+                                  <span className="detail-type">Meaning:</span>
+                                  <span className="detail-value">{item.details.meanings.slice(0, 2).join(', ')}</span>
+                                </div>
+                              )}
+                              {item.details.on_yomi && item.details.on_yomi.length > 0 && (
+                                <div className="candidate-detail-row">
+                                  <span className="detail-type">On:</span>
+                                  <span className="detail-value">{item.details.on_yomi.join(', ')}</span>
+                                </div>
+                              )}
+                              {item.details.kun_yomi && item.details.kun_yomi.length > 0 && (
+                                <div className="candidate-detail-row">
+                                  <span className="detail-type">Kun:</span>
+                                  <span className="detail-value">{item.details.kun_yomi.join(', ')}</span>
+                                </div>
+                              )}
+                            </div>
+                          )}
                         </div>
                       ))}
                     </div>
