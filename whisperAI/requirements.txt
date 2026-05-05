@@ -1,0 +1,7 @@
+setuptools>=69.0.0,<81
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+openai-whisper==20240930
+SudachiPy==0.6.10
+SudachiDict-core==20241021

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.7.3" type="incidents">
+
+    <incident
+        id="OldTargetApi"
+        severity="warning"
+        message="Not targeting the latest versions of Android; compatibility modes apply. Consider testing and updating this version. Consult the `android.os.Build.VERSION_CODES` javadoc for details.">
+        <fix-replace
+            description="Update targetSdkVersion to 36"
+            oldString="35"
+            replacement="36"
+            priority="0"/>
+        <location
+            file="${:app*projectDir}/build.gradle.kts"
+            line="13"
+            column="9"
+            startOffset="249"
+            endLine="13"
+            endColumn="23"
+            endOffset="263"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.compose:compose-bom than 2024.12.01 is available: 2026.04.01">
+        <fix-replace
+            description="Change to 2026.04.01"
+            family="Update versions"
+            oldString="2024.12.01"
+            replacement="2026.04.01"
+            priority="0"/>
+        <location
+            file="${:app*projectDir}/build.gradle.kts"
+            line="37"
+            column="20"
+            startOffset="673"
+            endLine="37"
+            endColumn="71"
+            endOffset="724"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.activity:activity-compose than 1.9.3 is available: 1.13.0">
+        <fix-replace
+            description="Change to 1.13.0"
+            family="Update versions"
+            oldString="1.9.3"
+            replacement="1.13.0"
+            priority="0"/>
+        <location
+            file="${:app*projectDir}/build.gradle.kts"
+            line="38"
+            column="20"
+            startOffset="745"
+            endLine="38"
+            endColumn="62"
+            endOffset="787"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.core:core-ktx than 1.15.0 is available: 1.18.0">
+        <fix-replace
+            description="Change to 1.18.0"
+            family="Update versions"
+            oldString="1.15.0"
+            replacement="1.18.0"
+            priority="0"/>
+        <location
+            file="${:app*projectDir}/build.gradle.kts"
+            line="43"
+            column="20"
+            startOffset="1034"
+            endLine="43"
+            endColumn="51"
+            endOffset="1065"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.lifecycle:lifecycle-runtime-ktx than 2.8.7 is available: 2.10.0">
+        <fix-replace
+            description="Change to 2.10.0"
+            family="Update versions"
+            oldString="2.8.7"
+            replacement="2.10.0"
+            priority="0"/>
+        <location
+            file="${:app*projectDir}/build.gradle.kts"
+            line="44"
+            column="20"
+            startOffset="1086"
+            endLine="44"
+            endColumn="68"
+            endOffset="1134"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.media3:media3-exoplayer than 1.5.1 is available: 1.10.0">
+        <fix-replace
+            description="Change to 1.10.0"
+            family="Update versions"
+            oldString="1.5.1"
+            replacement="1.10.0"
+            priority="0"/>
+        <location
+            file="${:app*projectDir}/build.gradle.kts"
+            line="45"
+            column="20"
+            startOffset="1155"
+            endLine="45"
+            endColumn="60"
+            endOffset="1195"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of androidx.media3:media3-ui than 1.5.1 is available: 1.10.0">
+        <fix-replace
+            description="Change to 1.10.0"
+            family="Update versions"
+            oldString="1.5.1"
+            replacement="1.10.0"
+            priority="0"/>
+        <location
+            file="${:app*projectDir}/build.gradle.kts"
+            line="46"
+            column="20"
+            startOffset="1216"
+            endLine="46"
+            endColumn="53"
+            endOffset="1249"/>
+    </incident>
+
+</incidents>

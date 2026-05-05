@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/home/trinhquyetchien/whisperAI/android/app"
+    name=":app"
+    type="APP"
+    maven="WhisperAiMobile:app:unspecified"
+    agpVersion="8.7.3"
+    buildFolder="build"
+    bootClassPath="/home/trinhquyetchien/Android/Sdk/platforms/android-35/android.jar:/home/trinhquyetchien/Android/Sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-35"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>
