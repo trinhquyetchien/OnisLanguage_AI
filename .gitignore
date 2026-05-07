@@ -1,34 +1,40 @@
+# Environment
 .env
-__MACOSX/
 .venv/
+__pycache__/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Backend
+backend/.venv/
+backend/__pycache__/
+backend/storage/uploads/*
+!backend/storage/uploads/.gitkeep
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Legacy and Data (Keeping some patterns just in case)
 ETL9G/
-kanjicanvas_data/
-unpack_etlcdb/
-kanjicanvas/
 dataset/
-kanji-recognition-demo/dataset/
-train.py
-train_finetune.py
-test_preprocess.py
-train.py
-train_stroke_finetune_fixed.py
 merged_data/
-kanji-recognition-demo/frontend/node_modules/
-kanji-recognition-demo/backend/__pycache__/
-kanji-recognition-demo/backend/user_data/
+whisper-tiny-ja-best/
+common-voice/
+model-transcribe-v1/
+
+# Specific files
 api_key.docx
 api_whisper.py
 clear_vram.py
 infer_whisper.py
 prepare_dataset.py
-whisper-tiny-ja-best/
+train.py
+train_finetune.py
+test_preprocess.py
+train_stroke_finetune_fixed.py
 train_stroke_finetune.py
 train_whisper_tiny.py
-common-voice/
-__pycache__/
-audio-transcribe-demo/backend/storage/uploads/
-audio-transcribe-demo/frontend/node_modules/
-audio-transcribe-demo/frontend/dist/
-frontend/node_modules/
-frontend/dist/
-model-transcribe-v1/

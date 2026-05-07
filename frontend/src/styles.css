@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --halo-gradient: radial-gradient(circle at 50% 0%, rgba(56, 189, 248, 0.08) 0%, transparent 50%);
+  }
+}
+
+.bg-halo {
+  background-image: var(--halo-gradient);
+}
+
+.shadow-soft {
+  box-shadow: 0 12px 48px -12px rgba(0, 0, 0, 0.08);
+}
+
+.dark .shadow-soft {
+  box-shadow: 0 12px 48px -12px rgba(0, 0, 0, 0.4);
+}
+
+/* Custom scrollbar for better look */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply rounded-full bg-slate-200 dark:bg-slate-800;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-slate-300 dark:bg-slate-700;
+}
