@@ -1,65 +1,53 @@
-# OnisUnifiedAI - Japanese Language Learning Suite
+# OnisLanguage Backend
 
-A unified platform consolidating multiple AI-powered tools for Japanese language learners.
+Backend API cho app học tiếng Nhật. Repo này chỉ còn phần backend, được tổ chức theo FastAPI với Swagger/OpenAPI sẵn có tại `/docs`.
 
-## Features
-- **OCR (Image to Text)**: Extract Japanese text from images using PaddleOCR.
-- **Transcription**: Convert audio and video files into timestamped Japanese transcripts using OpenAI Whisper.
-- **Kanji Recognition**: Recognize handwritten Kanji characters using a custom ResNet18 model.
+## Chức năng chính
+- `image-to-text` cho OCR tiếng Nhật.
+- `speech-to-text` cho file audio.
+- `media-to-text` cho file audio hoặc video.
+- `draw-and-recognize` cho nhận dạng kanji từ ảnh vẽ.
+- `practice exams` để tạo và chấm đề thi thử.
+- `flashcards` để quản lý thư viện flashcard.
 
-## Architecture
-- **Backend**: FastAPI (Python) implementing Service and Facade patterns for AI inference.
-- **Frontend**: React (TypeScript) SPA with Vite and TailwindCSS, featuring a unified dashboard.
-- **Client-Server**: Communication via REST API with a shared storage system for media.
+## Cấu trúc
+- `backend/app/main.py`: FastAPI entrypoint.
+- `backend/app/api/v1/endpoints/`: routes theo nhóm chức năng.
+- `backend/app/services/`: logic xử lý AI và nghiệp vụ.
+- `backend/app/schemas/`: schema request/response.
+- `backend/models/`: model weights và label map.
+- `backend/storage/`: file upload tạm.
 
-## Project Structure
-- `backend/`: Unified Python backend with modular services.
-- `frontend/`: Integrated React application with feature-based routing.
-- `models/`: Shared storage for machine learning weights and metadata.
+## Chạy local
+```bash
+cd backend
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+```
 
-## Getting Started
+## Swagger
+- OpenAPI JSON: `/openapi.json`
+- Swagger UI: `/docs`
+- ReDoc: `/redoc`
 
-### Prerequisites
-- Python 3.10+
-- Node.js 18+
-- CUDA (optional, for GPU acceleration)
+## PostgreSQL schema
+Schema tạo database nằm tại `backend/db/schema.sql`.
 
-### Backend Setup
-1. Navigate to `backend/`:
-   ```bash
-   cd backend
-   ```
-2. Create and activate a virtual environment:
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Start the server:
-   ```bash
-   uvicorn app.main:app --reload
-   ```
+Ví dụ chạy local:
+```bash
+createdb onis_language
+psql -d onis_language -f backend/db/schema.sql
+```
 
-### Frontend Setup
-1. Navigate to `frontend/`:
-   ```bash
-   cd frontend
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
+Các bảng chính:
+- `users`, `auth_sessions`: đăng ký, đăng nhập, token.
+- `flashcard_decks`, `flashcards`, `flashcard_reviews`: bộ thẻ, thẻ học, lịch ôn.
+- `practice_exams`, `practice_questions`, `practice_submissions`: đề thi, câu hỏi, bài nộp.
+- `sync_events`, `sync_cursors`: đồng bộ client/backend theo cursor.
 
-## Development
-This project was consolidated from several experimental demos:
-- `audio-transcribe-demo`
-- `kanji-recognition-demo`
-- `ImageToTextAI`
-- `whisperAI`
+API sync trên Swagger:
+- `POST /api/v1/sync/push`: client đẩy thay đổi local lên server.
+- `GET /api/v1/sync/pull?user_id=...&since=...`: client kéo thay đổi mới từ server.
+- `GET /api/v1/sync/snapshot?user_id=...`: lấy snapshot dữ liệu để bootstrap thiết bị mới.
