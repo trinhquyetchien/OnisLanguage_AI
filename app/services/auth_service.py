@@ -23,6 +23,9 @@ from app.schemas.auth import (
     OtpResponse,
     ProfileUpdateRequest,
     EmailChangeVerifyRequest
+    ,
+    PasswordChangeRequest,
+    PasswordChangeVerifyRequest,
 )
 from app.services.email_service import email_service
 
@@ -32,6 +35,10 @@ class AuthService:
     def __init__(self) -> None:
         # Stores OTPs: {email: {"otp": code, "expires": datetime, "data": pending_user_data, "type": str, "user_id": str}}
         self._pending_otps: Dict[str, dict] = {}
+
+    @staticmethod
+    def _password_change_key(user_id: str) -> str:
+        return f"password_change:{user_id}"
 
     async def initiate_register(self, request: AuthRegisterRequest) -> OtpResponse:
         db = SessionLocal()
@@ -187,6 +194,60 @@ class AuthService:
         finally:
             db.close()
 
+    async def initiate_password_change(self, user_id: str, request: PasswordChangeRequest) -> OtpResponse:
+        db = SessionLocal()
+        try:
+            user = db.query(User).filter(User.user_id == user_id).first()
+            if not user:
+                raise HTTPException(status_code=404, detail="User not found")
+            if not self._verify_password(request.current_password, user.password_hash):
+                raise HTTPException(status_code=400, detail="Current password is incorrect")
+
+            otp = self._generate_otp()
+            expiry = datetime.now(timezone.utc) + timedelta(minutes=10)
+            key = self._password_change_key(user_id)
+            self._pending_otps[key] = {
+                "otp": otp,
+                "expires": expiry,
+                "type": "password_change",
+                "user_id": user_id,
+                "new_password": request.new_password,
+            }
+
+            await email_service.send_otp_email(user.email, otp)
+            return OtpResponse(
+                message="Mã OTP đổi mật khẩu đã được gửi vào email của bạn.",
+                email=user.email,
+            )
+        finally:
+            db.close()
+
+    def verify_password_change(self, user_id: str, request: PasswordChangeVerifyRequest) -> UserResponse:
+        key = self._password_change_key(user_id)
+        pending = self._pending_otps.get(key)
+        if not pending or pending.get("type") != "password_change" or pending.get("user_id") != user_id:
+            raise HTTPException(status_code=400, detail="No pending password change found")
+
+        if datetime.now(timezone.utc) > pending["expires"]:
+            del self._pending_otps[key]
+            raise HTTPException(status_code=400, detail="OTP expired")
+
+        if pending["otp"] != request.otp:
+            raise HTTPException(status_code=400, detail="Invalid OTP")
+
+        db = SessionLocal()
+        try:
+            user = db.query(User).filter(User.user_id == user_id).first()
+            if not user:
+                raise HTTPException(status_code=404, detail="User not found")
+            user.password_hash = self._hash_password(pending["new_password"])
+            db.commit()
+            db.refresh(user)
+            del self._pending_otps[key]
+            return UserResponse(user_id=str(user.user_id), email=user.email, display_name=user.display_name)
+        finally:
+            db.close()
+
     def create_access_token(self, data: dict, expires_delta: Optional[timedelta] = None):
         to_encode = data.copy()
         if expires_delta:
@@ -224,4 +285,3 @@ class AuthService:
             db.close()
 
 auth_service = AuthService()
-auth_service.seed_dummy_user()

@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+from typing import Optional
+
 from pydantic import BaseModel, Field, field_validator, model_validator
 
 
@@ -65,4 +67,20 @@ class ProfileUpdateRequest(BaseModel):
 
 class EmailChangeVerifyRequest(BaseModel):
     new_email: str
+    otp: str
+
+
+class PasswordChangeRequest(BaseModel):
+    current_password: str = Field(min_length=1, max_length=128)
+    new_password: str = Field(min_length=6, max_length=128)
+    confirm_new_password: str = Field(min_length=6, max_length=128)
+
+    @model_validator(mode="after")
+    def validate_passwords(self) -> "PasswordChangeRequest":
+        if self.new_password != self.confirm_new_password:
+            raise ValueError("Passwords do not match")
+        return self
+
+
+class PasswordChangeVerifyRequest(BaseModel):
     otp: str

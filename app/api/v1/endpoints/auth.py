@@ -11,7 +11,9 @@ from app.schemas.auth import (
     OtpResponse,
     ProfileUpdateRequest,
     EmailChangeVerifyRequest,
-    UserResponse
+    UserResponse,
+    PasswordChangeRequest,
+    PasswordChangeVerifyRequest,
 )
 from app.services.auth_service import auth_service
 
@@ -47,3 +49,19 @@ async def verify_email_change(
     current_user: User = Depends(deps.get_current_user)
 ):
     return auth_service.verify_email_change(str(current_user.user_id), request)
+
+
+@router.post("/profile/change-password", response_model=OtpResponse)
+async def initiate_password_change(
+    request: PasswordChangeRequest,
+    current_user: User = Depends(deps.get_current_user)
+):
+    return await auth_service.initiate_password_change(str(current_user.user_id), request)
+
+
+@router.post("/profile/verify-password", response_model=UserResponse)
+async def verify_password_change(
+    request: PasswordChangeVerifyRequest,
+    current_user: User = Depends(deps.get_current_user)
+):
+    return auth_service.verify_password_change(str(current_user.user_id), request)
