@@ -1,0 +1,88 @@
+{
+  "kanji": "辰",
+  "meta": {
+    "weight": 2628,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン",
+      "ジン"
+    ],
+    "kun": [
+      "たつ"
+    ],
+    "am_han": "THẦN, THÌN"
+  },
+  "meaning": {
+    "vi": "Dấu hiệu của rồng, 7-9AM, dấu hiệu thứ năm của hoàng đạo Trung Quốc, chân rồng gốc (số 161)",
+    "en": "sign of the dragon, 7-9AM, fifth sign of Chinese zodiac, shin dragon radical (no. 161)"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/辰.svg"
+  },
+  "frequency": 1600,
+  "examples": [
+    "辰",
+    "辰巳"
+  ],
+  "explanation": {
+    "id": "5078",
+    "text": "辰 (đọc là \"tatsu\" hoặc \"shin\") có nghĩa là \"thìn\", chỉ con rồng trong văn hóa và các khái niệm liên quan đến thời gian, đặc biệt là giờ Thìn trong lịch Trung Quốc. \n\nVí dụ:\n- 辰年 (tatsunen): "
+  },
+  "comments": [
+    {
+      "id": "157259",
+      "lang": "vi",
+      "content_html": "<p>Thần thay y phục trên sườn núi</p>",
+      "content_text": "Thần thay y phục trên sườn núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157260",
+      "lang": "vi",
+      "content_html": "<p>Cuộc chia ly (レＹ）của 2 二 vị thần 辰 dưới sườn núi 厂.</p>",
+      "content_text": "Cuộc chia ly (レＹ）của 2 二 vị thần 辰 dưới sườn núi 厂.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157261",
+      "lang": "vi",
+      "content_html": "<p>Dưới sườn núi có hình dáng 1 con rồng THẦN</p>",
+      "content_text": "Dưới sườn núi có hình dáng 1 con rồng THẦN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

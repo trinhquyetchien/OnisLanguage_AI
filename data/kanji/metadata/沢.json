@@ -1,0 +1,110 @@
+{
+  "kanji": "沢",
+  "meta": {
+    "weight": 1505,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タク"
+    ],
+    "kun": [
+      "さわ",
+      "うるお.い",
+      "うるお.す",
+      "つや"
+    ],
+    "am_han": "TRẠCH"
+  },
+  "meaning": {
+    "vi": "đầm lầy, rực rỡ, duyên dáng",
+    "en": "swamp, marsh, brilliance, grace"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/沢.svg"
+  },
+  "frequency": 296,
+  "examples": [
+    "沢山",
+    "贅沢",
+    "金沢",
+    "沢",
+    "光沢"
+  ],
+  "explanation": {
+    "id": "5038",
+    "text": "沢 (đọc là \"taku\") có nghĩa là \"nước\" hoặc \"đầm lầy\", thường chỉ nơi có nước, như ao hồ hay vùng đất ẩm ướt.  \nVí dụ:  \n- 沢山 (takusan): Nhiều, nhiều lắm.  \n- 湾沢 (wantaku): Vùng đầm lầy, ao hồ"
+  },
+  "comments": [
+    {
+      "id": "154802",
+      "lang": "vi",
+      "content_html": "<p>cá TRẠCH sống trong đầm lầy dài cả THƯỚC</p>",
+      "content_text": "cá TRẠCH sống trong đầm lầy dài cả THƯỚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154803",
+      "lang": "vi",
+      "content_html": "<p>con trạch bị xích trong đầm lầy đầy nuớc</p>",
+      "content_text": "con trạch bị xích trong đầm lầy đầy nuớc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154804",
+      "lang": "vi",
+      "content_html": "<p>THỦY 氵đã mua xúc XÍCH 尺 ở nhơn TRẠCH 沢 sau đó bị té xuống ĐẦM LẦY...</p>",
+      "content_text": "THỦY 氵đã mua xúc XÍCH 尺 ở nhơn TRẠCH 沢 sau đó bị té xuống ĐẦM LẦY...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221635",
+      "lang": "vi",
+      "content_html": "<p>沢 (đọc là \"sawa\" hoặc \"taku\") có nghĩa là \"đầm lầy\", \"ao\" hoặc \"trạch\". Chữ này thường xuất hiện trong tên địa danh hoặc tên người, và nó cũng có thể mang ý nghĩa là \"phong phú\" hay \"nhiều\" trong một số ngữ cảnh.</p><p>Ví dụ:</p><ol><li><strong>沢山 (takusan)</strong>: Nhiều, phong phú.</li><li><strong>沢 (sawa)</strong>: Đầm lầy, thung lũng.</li><li><strong>金沢 (Kanazawa)</strong>: Thành phố Kanazawa, tỉnh Ishikawa.</li><li><strong>山沢 (Yamasawa)</strong>: Họ Yamasawa.</li></ol><p>Chữ Hán 沢 thường được sử dụng trong các từ vựng liên quan đến địa lý, thiên nhiên, hoặc khi nói về sự phong phú, nhiều.</p>",
+      "content_text": "沢 (đọc là \"sawa\" hoặc \"taku\") có nghĩa là \"đầm lầy\", \"ao\" hoặc \"trạch\". Chữ này thường xuất hiện trong tên địa danh hoặc tên người, và nó cũng có thể mang ý nghĩa là \"phong phú\" hay \"nhiều\" trong một số ngữ cảnh.\nVí dụ:\n沢山 (takusan)\n: Nhiều, phong phú.\n沢 (sawa)\n: Đầm lầy, thung lũng.\n金沢 (Kanazawa)\n: Thành phố Kanazawa, tỉnh Ishikawa.\n山沢 (Yamasawa)\n: Họ Yamasawa.\nChữ Hán 沢 thường được sử dụng trong các từ vựng liên quan đến địa lý, thiên nhiên, hoặc khi nói về sự phong phú, nhiều.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

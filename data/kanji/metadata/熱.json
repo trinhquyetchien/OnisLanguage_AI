@@ -1,0 +1,90 @@
+{
+  "kanji": "熱",
+  "meta": {
+    "weight": 1672,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ネツ"
+    ],
+    "kun": [
+      "あつ.い"
+    ],
+    "am_han": "NHIỆT"
+  },
+  "meaning": {
+    "vi": "nhiệt độ",
+    "en": "heat, temperature, fever, mania, passion"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/熱.svg"
+  },
+  "frequency": 700,
+  "examples": [
+    "熱",
+    "熱心",
+    "熱い",
+    "情熱",
+    "断熱"
+  ],
+  "explanation": {
+    "id": "6155",
+    "text": "熱 (đọc là \"netsu\" hoặc \"atsu\") có nghĩa là \"nhiệt\", \"sự nóng\", liên quan đến nhiệt độ hoặc cảm giác nóng.  \nVí dụ:  \n- 熱心 (nesshin): Nhiệt tâm, nhiệt huyết.  \n- 熱帯 (nettai): Nhiệt đới.  \n- 熱"
+  },
+  "comments": [
+    {
+      "id": "36992",
+      "lang": "vi",
+      "content_html": "<p>Tôi cuộn tròn (丸) mình lại để giữ <strong>nhiệt</strong>.</p>",
+      "content_text": "Tôi cuộn tròn (丸) mình lại để giữ\nnhiệt\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4e3633d10.jpg",
+      "image_path": "assets/images/熱_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155202",
+      "lang": "vi",
+      "content_html": "<p>TRƯỚC khi chết trở về với ĐẤT bị đôt HOÀN Toàn dưới NHIỆT Độ cao</p>",
+      "content_text": "TRƯỚC khi chết trở về với ĐẤT bị đôt HOÀN Toàn dưới NHIỆT Độ cao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191107",
+      "lang": "vi",
+      "content_html": "<p><strong>nhiệt</strong></p>",
+      "content_text": "nhiệt",
+      "image_url": "https://jpdictionary.com/upload/images/648ac1a010a9d.jpg",
+      "image_path": "assets/images/熱_3.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

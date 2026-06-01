@@ -1,0 +1,87 @@
+{
+  "kanji": "寡",
+  "meta": {
+    "weight": 743,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [],
+    "am_han": "QUẢ"
+  },
+  "meaning": {
+    "vi": "góa phụ, thiểu số, ít người",
+    "en": "widow, minority, few"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/寡.svg"
+  },
+  "frequency": 2035,
+  "examples": [
+    "寡占",
+    "寡黙",
+    "多寡",
+    "寡婦"
+  ],
+  "explanation": {
+    "id": "639",
+    "text": "寡 (đọc là \"ka\") có nghĩa là \"ít\", \"không đủ\", thường chỉ sự thiếu thốn hoặc cô đơn. \n\nVí dụ:\n- 寡婦 (kafu): Quả phụ, người phụ nữ mất chồng.\n- 寡聞 (kabun): Thiếu hiểu biết, ít thông tin.\n- 寡占 ("
+  },
+  "comments": [
+    {
+      "id": "153016",
+      "lang": "vi",
+      "content_html": "<p>Quả phụ là người phân chia hàng trăm công việc trong nhà</p>",
+      "content_text": "Quả phụ là người phân chia hàng trăm công việc trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153017",
+      "lang": "vi",
+      "content_html": "<p>QUẢ phụ là người sống trong nhà 1 mình</p>",
+      "content_text": "QUẢ phụ là người sống trong nhà 1 mình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153018",
+      "lang": "vi",
+      "content_html": "<p>Từ khi chồng mất - Quả phụ phải Phân chia Hàng Trăm công việc trong Nhà thay cho Chồng.</p>",
+      "content_text": "Từ khi chồng mất - Quả phụ phải Phân chia Hàng Trăm công việc trong Nhà thay cho Chồng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

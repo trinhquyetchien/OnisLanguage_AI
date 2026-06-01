@@ -1,0 +1,110 @@
+{
+  "kanji": "連",
+  "meta": {
+    "weight": 2663,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レン"
+    ],
+    "kun": [
+      "つら.なる",
+      "つら.ねる",
+      "つ.れる",
+      "-づ.れ"
+    ],
+    "am_han": "LIÊN"
+  },
+  "meaning": {
+    "vi": "liên tục, liên lạc",
+    "en": "take along, lead, join, connect, party, gang, clique"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/連.svg"
+  },
+  "frequency": 30,
+  "examples": [
+    "関連",
+    "連絡",
+    "連れ",
+    "連続",
+    "国連"
+  ],
+  "explanation": {
+    "id": "8295",
+    "text": "連 (đọc là \"ren\") có nghĩa là \"nối\", \"liên kết\", để chỉ các hành động liên quan đến việc kết nối hoặc kéo dài giữa các đối tượng.  \nVí dụ:  \n- 連絡 (renraku): Liên lạc, thông báo.  \n- 連続 (renzo"
+  },
+  "comments": [
+    {
+      "id": "37174",
+      "lang": "vi",
+      "content_html": "<p><strong>Liên tục</strong> lái xe (車) về nhà.</p>",
+      "content_text": "Liên tục\nlái xe (車) về nhà.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd181f26a3.jpg",
+      "image_path": "assets/images/連_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157342",
+      "lang": "vi",
+      "content_html": "<p>ngày xưa dùng XE ngựa chạy khắp nơi để LIÊN lạc với nhau</p>",
+      "content_text": "ngày xưa dùng XE ngựa chạy khắp nơi để LIÊN lạc với nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157343",
+      "lang": "vi",
+      "content_html": "<p>xe và đường có mối LIÊN hệ mật thiết với nhau</p>",
+      "content_text": "xe và đường có mối LIÊN hệ mật thiết với nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157344",
+      "lang": "vi",
+      "content_html": "<p>Xe chạy trên Đường để LIÊN lạc</p>",
+      "content_text": "Xe chạy trên Đường để LIÊN lạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

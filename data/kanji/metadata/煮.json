@@ -1,0 +1,93 @@
+{
+  "kanji": "煮",
+  "meta": {
+    "weight": 1667,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "に.る",
+      "-に",
+      "に.える",
+      "に.やす"
+    ],
+    "am_han": "CHỬ"
+  },
+  "meaning": {
+    "vi": "đun sôi, nấu ăn",
+    "en": "boil, cook"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/煮.svg"
+  },
+  "frequency": 1565,
+  "examples": [
+    "煮",
+    "煮込み",
+    "煮物",
+    "煮る",
+    "雑煮"
+  ],
+  "explanation": {
+    "id": "3339",
+    "text": "煮 (đọc là \"ni\") có nghĩa là \"nấu\" để chỉ các hành động liên quan đến việc nấu ăn hoặc chế biến thực phẩm.  \nVí dụ:  \n- 煮物 (nimono): Món hầm, món nấu.  \n- 煮卵 (nitamago): Trứng luộc.  \n- 煮込む ("
+  },
+  "comments": [
+    {
+      "id": "155193",
+      "lang": "vi",
+      "content_html": "<p>dùng lửa để nấu những thằng học giả trong đầu không có chữ</p>",
+      "content_text": "dùng lửa để nấu những thằng học giả trong đầu không có chữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155194",
+      "lang": "vi",
+      "content_html": "<p>khán GIẢ bị ngọn LỬA thiêu. thật khinh khủng...</p>",
+      "content_text": "khán GIẢ bị ngọn LỬA thiêu. thật khinh khủng...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155195",
+      "lang": "vi",
+      "content_html": "<p>học Giả nhóm Lửa để Nấu CHỬ</p>",
+      "content_text": "học Giả nhóm Lửa để Nấu CHỬ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

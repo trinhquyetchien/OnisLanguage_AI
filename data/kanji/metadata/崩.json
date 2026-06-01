@@ -1,0 +1,92 @@
+{
+  "kanji": "崩",
+  "meta": {
+    "weight": 806,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "くず.れる",
+      "-くず.れ",
+      "くず.す"
+    ],
+    "am_han": "BĂNG"
+  },
+  "meaning": {
+    "vi": "sụp đổ, chết, phá hủy, san lấp mặt bằng",
+    "en": "crumble, die, demolish, level"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/崩.svg"
+  },
+  "frequency": 778,
+  "examples": [
+    "崩壊",
+    "崩れ",
+    "崩し",
+    "崩れる",
+    "崩す"
+  ],
+  "explanation": {
+    "id": "7168",
+    "text": "崩 (đọc là \"hō\" hoặc \"bō\") có nghĩa là \"sụp đổ\", \"tan vỡ\", thường chỉ sự phá hủy hoặc rối loạn. \n\nVí dụ:\n- 崩壊 (hōkai): Sự sụp đổ, tan vỡ.\n- 崩れる (kuzureru): Đổ, sụp đổ.\n- 崩し (kuzushi): Sự phá "
+  },
+  "comments": [
+    {
+      "id": "153175",
+      "lang": "vi",
+      "content_html": "<p>Mất 2 tháng để PHÁ núi tạo thành đường Băng</p>",
+      "content_text": "Mất 2 tháng để PHÁ núi tạo thành đường Băng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153176",
+      "lang": "vi",
+      "content_html": "<p>MẤT 2 Tháng để BĂNG qua Núi</p>",
+      "content_text": "MẤT 2 Tháng để BĂNG qua Núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153177",
+      "lang": "vi",
+      "content_html": "<p>BĂNG trên NÚI lở xuống do lực hút từ 2 mặt TRĂNG</p>",
+      "content_text": "BĂNG trên NÚI lở xuống do lực hút từ 2 mặt TRĂNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

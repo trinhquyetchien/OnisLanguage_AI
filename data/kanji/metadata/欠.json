@@ -1,0 +1,92 @@
+{
+  "kanji": "欠",
+  "meta": {
+    "weight": 1439,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケツ",
+      "ケン"
+    ],
+    "kun": [
+      "か.ける",
+      "か.く"
+    ],
+    "am_han": "KHIẾM"
+  },
+  "meaning": {
+    "vi": "khiếm khuyết, thiếu",
+    "en": "lack, gap, fail, yawning radical (no. 76)"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/欠.svg"
+  },
+  "frequency": 860,
+  "examples": [
+    "不可欠",
+    "欠け",
+    "欠陥",
+    "欠点",
+    "欠如"
+  ],
+  "explanation": {
+    "id": "2069",
+    "text": "欠 (đọc là \"ken\" hoặc \"ka\") có nghĩa là \"thiếu hụt\", \"khiếm khuyết\" để chỉ tình trạng không đầy đủ hoặc thiếu sót trong một cái gì đó.\n\nVí dụ:\n- 欠席 (kesseki): Vắng mặt.\n- 欠点 (ketten): Khuyết "
+  },
+  "comments": [
+    {
+      "id": "154640",
+      "lang": "vi",
+      "content_html": "<p>Khuyết là chữ 缺, (hình thanh) đồng âm với Quyết 決 nhé. 欠 Khiếm là hoàn toàn đúng.<br>ngoài ra ⺈ là giản thể của 刀.<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Khuyết là chữ 缺, (hình thanh) đồng âm với Quyết 決 nhé. 欠 Khiếm là hoàn toàn đúng.\nngoài ra ⺈ là giản thể của 刀.\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154641",
+      "lang": "vi",
+      "content_html": "<p>người bị khiếm khuyết đội khăn chữ N</p>",
+      "content_text": "người bị khiếm khuyết đội khăn chữ N",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154642",
+      "lang": "vi",
+      "content_html": "<p>Người bị kề Đao trên đầu là Thiếu Nợ (khiếm)</p>",
+      "content_text": "Người bị kề Đao trên đầu là Thiếu Nợ (khiếm)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

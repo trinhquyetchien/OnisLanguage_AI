@@ -1,0 +1,91 @@
+{
+  "kanji": "瓦",
+  "meta": {
+    "weight": 1762,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガ"
+    ],
+    "kun": [
+      "かわら",
+      "ぐらむ"
+    ],
+    "am_han": "NGÕA"
+  },
+  "meaning": {
+    "vi": "ngói, gam",
+    "en": "tile, gram"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/瓦.svg"
+  },
+  "frequency": 1850,
+  "examples": [
+    "瓦",
+    "煉瓦",
+    "瓦礫",
+    "瓦解",
+    "青瓦台"
+  ],
+  "explanation": {
+    "id": "1051",
+    "text": "瓦 (đọc là \"ka\") có nghĩa là \"ngói\", chỉ các vật liệu lợp mái nhà.  \nVí dụ:  \n- 瓦屋根 (kawagane): Mái ngói.  \n- 瓦職人 (kawashokunin): Thợ lợp ngói.  \n- 陶器の瓦 (tōki no kawa): Ngói gốm."
+  },
+  "comments": [
+    {
+      "id": "155366",
+      "lang": "vi",
+      "content_html": "<p>lật ngược chữ lại..  21 Công trường  đều lợp ngói</p>",
+      "content_text": "lật ngược chữ lại..  21 Công trường  đều lợp ngói",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155367",
+      "lang": "vi",
+      "content_html": "<p>Viên ngói gạch có lõi bên trong</p>",
+      "content_text": "Viên ngói gạch có lõi bên trong",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155368",
+      "lang": "vi",
+      "content_html": "<p>lật ngược chữ lại..  21 Công trường  đều lợp ngói</p>",
+      "content_text": "lật ngược chữ lại..  21 Công trường  đều lợp ngói",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

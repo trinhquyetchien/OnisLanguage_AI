@@ -1,0 +1,111 @@
+{
+  "kanji": "取",
+  "meta": {
+    "weight": 425,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ"
+    ],
+    "kun": [
+      "と.る",
+      "と.り",
+      "と.り-",
+      "とり",
+      "-ど.り"
+    ],
+    "am_han": "THỦ"
+  },
+  "meaning": {
+    "vi": "lấy",
+    "en": "take, fetch, take up"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/取.svg"
+  },
+  "frequency": 122,
+  "examples": [
+    "取引",
+    "取っ",
+    "取材",
+    "取り",
+    "取得"
+  ],
+  "explanation": {
+    "id": "3406",
+    "text": "取 (đọc là \"shuu\" hoặc \"toru\") có nghĩa là \"lấy\", \"thu nhận\", chỉ các hành động liên quan đến việc lấy hoặc thu thập cái gì đó.\n\nVí dụ:\n- 取得 (shutoku): Đạt được, thu được.\n- 取り出す (toridasu): "
+  },
+  "comments": [
+    {
+      "id": "37220",
+      "lang": "vi",
+      "content_html": "<p>Đừng <strong>lấy </strong>tai (耳) tôi!</p>",
+      "content_text": "Đừng\nlấy\ntai (耳) tôi!",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd629c4464.jpg",
+      "image_path": "assets/images/取_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152256",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: [kiểm tra nghe tiếng Nhật] vểnh Tai (耳) Lại (又) 1 lần nữa. <br>==&#62; để Lấy (取 THỦ) thêm thông tin.<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Góc Nhìn: [kiểm tra nghe tiếng Nhật] vểnh Tai (耳) Lại (又) 1 lần nữa.\n==> để Lấy (取 THỦ) thêm thông tin.\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152257",
+      "lang": "vi",
+      "content_html": "<p>Giết được mỗi (又) tên địch là lấy cái tai (耳) của nó</p>",
+      "content_text": "Giết được mỗi (又) tên địch là lấy cái tai (耳) của nó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152258",
+      "lang": "vi",
+      "content_html": "<p>nếu bạn lắng nghe đi nghe lại người khác, bạn sẽ lấy được nhiều thứ</p>",
+      "content_text": "nếu bạn lắng nghe đi nghe lại người khác, bạn sẽ lấy được nhiều thứ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

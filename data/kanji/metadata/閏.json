@@ -1,0 +1,67 @@
+{
+  "kanji": "閏",
+  "meta": {
+    "weight": 2805,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュン"
+    ],
+    "kun": [
+      "うるう"
+    ],
+    "am_han": "NHUẬN"
+  },
+  "meaning": {
+    "vi": "xen kẽ, ngai vàng bất hợp pháp",
+    "en": "intercalation, illegitimate throne"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/閏.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "340",
+    "text": "閏 (đọc là \"run\") có nghĩa là \"thêm\" hoặc \"khoảng thời gian thêm vào\", thường được dùng để chỉ tháng nhuận trong lịch.  \nVí dụ:  \n- 閏月 (rungetsu): Tháng nhuận.  \n- 閏年 (runen): Năm nhuận.  \n- "
+  },
+  "comments": [
+    {
+      "id": "220938",
+      "lang": "vi",
+      "content_html": "<p>Vua ra cửa đón thêm năm mới</p>",
+      "content_text": "Vua ra cửa đón thêm năm mới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220939",
+      "lang": "vi",
+      "content_html": "<p>Vua đứng ở cổng đón năm NHUẬN</p>",
+      "content_text": "Vua đứng ở cổng đón năm NHUẬN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "願",
+  "meta": {
+    "weight": 2919,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガン"
+    ],
+    "kun": [
+      "ねが.う",
+      "-ねがい"
+    ],
+    "am_han": "NGUYỆN"
+  },
+  "meaning": {
+    "vi": "nguyện vọng",
+    "en": "petition, request, vow, wish, hope"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/願.svg"
+  },
+  "frequency": 894,
+  "examples": [
+    "お願い",
+    "願い",
+    "願う",
+    "出願",
+    "願望"
+  ],
+  "explanation": {
+    "id": "1238",
+    "text": "願 (đọc là \"gan\") có nghĩa là \"mong muốn\", \"nguyện vọng\" để chỉ các hành động liên quan đến việc cầu nguyện, ước ao hoặc biểu đạt sự mong mỏi.\n\nVí dụ:\n- 願い (negai): Mong muốn, ước nguyện.\n- 願"
+  },
+  "comments": [
+    {
+      "id": "191235",
+      "lang": "vi",
+      "content_html": "<p>cầu <strong>nguyện </strong>- 願う (ねがう)</p>",
+      "content_text": "cầu\nnguyện\n- 願う (ねがう)",
+      "image_url": "https://jpdictionary.com/upload/images/648adf3a0da8f.jpg",
+      "image_path": "assets/images/願_1.jpg",
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "157913",
+      "lang": "vi",
+      "content_html": "<p>Nguyên viết ước NGUYỆN vào tờ Giấy</p>",
+      "content_text": "Nguyên viết ước NGUYỆN vào tờ Giấy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157914",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: Tờ Giấy (頁 HIỆT) ghi các NGUYÊN liệu (原) nấu ăn.<br>==&#62; NHỜ thằng con, hoặc ông chồng đi mua, お願いします.<br>..性..</p>",
+      "content_text": "Góc Nhìn: Tờ Giấy (頁 HIỆT) ghi các NGUYÊN liệu (原) nấu ăn.\n==> NHỜ thằng con, hoặc ông chồng đi mua, お願いします.\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157915",
+      "lang": "vi",
+      "content_html": "<p>treo 2 cái đèn lên để cầu Nguyện 願</p>",
+      "content_text": "treo 2 cái đèn lên để cầu Nguyện 願",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

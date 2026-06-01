@@ -1,0 +1,91 @@
+{
+  "kanji": "有",
+  "meta": {
+    "weight": 1268,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ",
+      "ウ"
+    ],
+    "kun": [
+      "あ.る"
+    ],
+    "am_han": "HỮU"
+  },
+  "meaning": {
+    "vi": "sở hữu, có",
+    "en": "possess, have, exist, happen, occur, approx"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/有.svg"
+  },
+  "frequency": 282,
+  "examples": [
+    "有名",
+    "有効",
+    "所有",
+    "共有",
+    "保有"
+  ],
+  "explanation": {
+    "id": "7762",
+    "text": "有 (đọc là \"yuu\" hoặc \"aru\") có nghĩa là \"có\", \" tồn tại\" để chỉ sự hiện hữu hoặc sở hữu.  \nVí dụ:  \n- 有名 (yuumei): Nổi tiếng.  \n- 所有 (shoyuu): Sở hữu, quyền sở hữu.  \n- 有力 (yuuryoku): Có ảnh"
+  },
+  "comments": [
+    {
+      "id": "191057",
+      "lang": "vi",
+      "content_html": "<p><strong>sở hữu </strong>- 所有</p>",
+      "content_text": "sở hữu\n- 所有",
+      "image_url": "https://jpdictionary.com/upload/images/648a92c50c9f7.jpg",
+      "image_path": "assets/images/有_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36872",
+      "lang": "vi",
+      "content_html": "<p>Mặt trăng (月) <strong>hiện hữu </strong>nhưng không thể chạm đến nó.</p>",
+      "content_text": "Mặt trăng (月)\nhiện hữu\nnhưng không thể chạm đến nó.",
+      "image_url": "https://jpdictionary.com/upload/images/62addd64b8ff2.jpg",
+      "image_path": "assets/images/有_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154328",
+      "lang": "vi",
+      "content_html": "<p>nguyệt sở hữu quả na</p>",
+      "content_text": "nguyệt sở hữu quả na",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

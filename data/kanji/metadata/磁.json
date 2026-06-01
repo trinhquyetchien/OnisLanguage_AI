@@ -1,0 +1,88 @@
+{
+  "kanji": "磁",
+  "meta": {
+    "weight": 1890,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ"
+    ],
+    "kun": [],
+    "am_han": "TỪ"
+  },
+  "meaning": {
+    "vi": "nam châm, sứ",
+    "en": "magnet, porcelain"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/磁.svg"
+  },
+  "frequency": 1686,
+  "examples": [
+    "電磁波",
+    "磁気",
+    "磁石",
+    "電磁",
+    "磁場"
+  ],
+  "explanation": {
+    "id": "3219",
+    "text": "磁 (đọc là \"ji\") có nghĩa là \"từ tính\", chỉ các thuộc tính liên quan đến nam châm hoặc từ trường.  \nVí dụ:  \n- 磁石 (jishaku): Nam châm.  \n- 磁気 (jiki): Từ trường, từ tính.  \n- 磁場 (jiba): Từ trư"
+  },
+  "comments": [
+    {
+      "id": "155661",
+      "lang": "vi",
+      "content_html": "<p>Lòng nhân từ của mama đủ sức hút đá</p>",
+      "content_text": "Lòng nhân từ của mama đủ sức hút đá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155662",
+      "lang": "vi",
+      "content_html": "<p>Từ viên đá phát ra từ trường, như 2 đôi đang đội mũ yêu nhau</p>",
+      "content_text": "Từ viên đá phát ra từ trường, như 2 đôi đang đội mũ yêu nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155663",
+      "lang": "vi",
+      "content_html": "<p>Viên ĐÁ TỪ trường chính là thỏi nam châm</p>",
+      "content_text": "Viên ĐÁ TỪ trường chính là thỏi nam châm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

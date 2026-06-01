@@ -1,0 +1,54 @@
+{
+  "kanji": "帖",
+  "meta": {
+    "weight": 833,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ",
+      "ジョウ"
+    ],
+    "kun": [
+      "かきもの"
+    ],
+    "am_han": "THIẾP"
+  },
+  "meaning": {
+    "vi": "quire (bằng giấy), bó rong biển, quầy cho màn hình, sổ ghi chép",
+    "en": "quire (of paper), bundle of seaweed, counter for screens, notebook"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/帖.svg"
+  },
+  "frequency": 2208,
+  "examples": [
+    "帖",
+    "手帖"
+  ],
+  "explanation": {
+    "id": "5337",
+    "text": "帖 (đọc là \"te\" hoặc \"chō\") có nghĩa là \"tấm bưu thiếp\", \"mảnh giấy\" thường dùng để viết thư hoặc ghi chú. \n\nVí dụ:\n- 帖子 (chōshi): Bưu thiếp, thông điệp viết tay.\n- 和帖 (wajō): Sổ ghi chép kiể"
+  },
+  "comments": [
+    {
+      "id": "153244",
+      "lang": "vi",
+      "content_html": "<p>những giấc Chiêm (占) bao về cô gái với chiếc khăn (巾) màu đỏ năm nào đã được ta viết lên mặt giấy (帖)</p>",
+      "content_text": "những giấc Chiêm (占) bao về cô gái với chiếc khăn (巾) màu đỏ năm nào đã được ta viết lên mặt giấy (帖)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

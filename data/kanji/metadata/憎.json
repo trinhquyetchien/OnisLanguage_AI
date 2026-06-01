@@ -1,0 +1,93 @@
+{
+  "kanji": "憎",
+  "meta": {
+    "weight": 1016,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゾウ"
+    ],
+    "kun": [
+      "にく.む",
+      "にく.い",
+      "にく.らしい",
+      "にく.しみ"
+    ],
+    "am_han": "TĂNG"
+  },
+  "meaning": {
+    "vi": "ghét, hận",
+    "en": "hate, detest"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/憎.svg"
+  },
+  "frequency": 1808,
+  "examples": [
+    "憎しみ",
+    "憎悪",
+    "憎む",
+    "憎い",
+    "生憎"
+  ],
+  "explanation": {
+    "id": "20311",
+    "text": "Chữ Hán 憎 có nghĩa là \"trảm\", chỉ hành động chém hoặc cắt, thường liên quan đến việc tách rời hay tiêu diệt.\n\nVí dụ:\n- 憎 (tự đọc là \"zan\" trong từ điển): Chém, cắt.\n- 憎る (zaru): Tước đi, cắt"
+  },
+  "comments": [
+    {
+      "id": "153709",
+      "lang": "vi",
+      "content_html": "<p>Bắt con tim trèo lên nhà nhiều tằng dẽ khiến nó căm giận đến nỗi TĂNG huyết áp</p>",
+      "content_text": "Bắt con tim trèo lên nhà nhiều tằng dẽ khiến nó căm giận đến nỗi TĂNG huyết áp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153710",
+      "lang": "vi",
+      "content_html": "<p>曽：TẰNG làm 2 RUỘNG 1 NGÀY<br>憎：Cao TĂNG TẰNG tựu với TÂM nên bị oán ghét</p>",
+      "content_text": "曽：TẰNG làm 2 RUỘNG 1 NGÀY\n憎：Cao TĂNG TẰNG tựu với TÂM nên bị oán ghét",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153711",
+      "lang": "vi",
+      "content_html": "<p>Tăng thí chủ Tằng tịu với chị Tâm nên bị oán Ghét.</p>",
+      "content_text": "Tăng thí chủ Tằng tịu với chị Tâm nên bị oán Ghét.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

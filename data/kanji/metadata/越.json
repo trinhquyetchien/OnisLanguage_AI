@@ -1,0 +1,95 @@
+{
+  "kanji": "越",
+  "meta": {
+    "weight": 2587,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エツ",
+      "オツ"
+    ],
+    "kun": [
+      "こ.す",
+      "-こ.す",
+      "-ご.し",
+      "こ.える",
+      "-ご.え"
+    ],
+    "am_han": "VIỆT"
+  },
+  "meaning": {
+    "vi": "vượt qua, việt vị",
+    "en": "surpass, cross over, move to, exceed, Vietnam"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/越.svg"
+  },
+  "frequency": 897,
+  "examples": [
+    "引越し",
+    "引っ越し",
+    "越し",
+    "越える",
+    "お越し"
+  ],
+  "explanation": {
+    "id": "425",
+    "text": "越 (đọc là \"etsu\" hoặc \"yue\") có nghĩa là \"vượt qua\", \"trải qua\" để chỉ việc vượt qua biên giới, đạt được điều gì đó cao hơn, hoặc các hành động liên quan đến sự phát triển và tiến bộ.\n\nVí dụ"
+  },
+  "comments": [
+    {
+      "id": "157161",
+      "lang": "vi",
+      "content_html": "<p>Qua(戈) nước Hán(厂) là tới nước Việt(越)</p>",
+      "content_text": "Qua(戈) nước Hán(厂) là tới nước Việt(越)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157162",
+      "lang": "vi",
+      "content_html": "<p>Chạy sang nhà thằng thành để tìm thằng việt</p>",
+      "content_text": "Chạy sang nhà thằng thành để tìm thằng việt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157163",
+      "lang": "vi",
+      "content_html": "<p>越南 là Việt nam trong tiếng trung</p>",
+      "content_text": "越南 là Việt nam trong tiếng trung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

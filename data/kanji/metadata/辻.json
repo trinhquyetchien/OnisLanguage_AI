@@ -1,0 +1,51 @@
+{
+  "kanji": "辻",
+  "meta": {
+    "weight": 2632,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "つじ"
+    ],
+    "am_han": "THẬP, MỜI, MƯỜI"
+  },
+  "meaning": {
+    "vi": "băng qua, ngã tư, góc phố, (kokuji)",
+    "en": "crossing, crossroad, street corners, (kokuji)"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/辻.svg"
+  },
+  "frequency": 1614,
+  "examples": [
+    "辻",
+    "辻褄"
+  ],
+  "explanation": {
+    "id": "5487",
+    "text": "辻 (đọc là \"tsuji\") có nghĩa là \"ngã tư\", \"giao lộ\", chỉ các điểm giao nhau của đường phố.  \nVí dụ:  \n- 辻褄 (tsujitsuma): Sự hợp lý, sự nhất quán trong lập luận.  \n- 辻馬車 (tsujibasha): Xe ngựa "
+  },
+  "comments": [
+    {
+      "id": "157271",
+      "lang": "vi",
+      "content_html": "<p>băng qua đường thập tử nhất sinh</p>",
+      "content_text": "băng qua đường thập tử nhất sinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

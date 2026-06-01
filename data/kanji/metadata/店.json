@@ -1,0 +1,91 @@
+{
+  "kanji": "店",
+  "meta": {
+    "weight": 865,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テン"
+    ],
+    "kun": [
+      "みせ",
+      "たな"
+    ],
+    "am_han": "ĐIẾM"
+  },
+  "meaning": {
+    "vi": "cửa hàng",
+    "en": "store, shop"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/店.svg"
+  },
+  "frequency": 378,
+  "examples": [
+    "店",
+    "店舗",
+    "書店",
+    "商店",
+    "店員"
+  ],
+  "explanation": {
+    "id": "5660",
+    "text": "店 (đọc là \"ten\") có nghĩa là \"cửa hàng\", \"tiệm\" để chỉ nơi buôn bán hoặc kinh doanh.\n\nVí dụ:\n- 店員 (ten'in): Nhân viên cửa hàng.\n- 書店 (shoten): Hiệu sách.\n- 飲食店 (inshokuten): Nhà hàng, quán ă"
+  },
+  "comments": [
+    {
+      "id": "191004",
+      "lang": "vi",
+      "content_html": "<p><strong>cửa hàng</strong></p>",
+      "content_text": "cửa hàng",
+      "image_url": "https://jpdictionary.com/upload/images/648a8ce2509da.jpg",
+      "image_path": "assets/images/店_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "633",
+      "lang": "vi",
+      "content_html": "<p>Cà chua (<strong>ト</strong>マト) được chất trên gian hàng trước <strong>cửa hàng</strong>.</p>",
+      "content_text": "Cà chua (\nト\nマト) được chất trên gian hàng trước\ncửa hàng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/6316c7b45c6c3.jpg",
+      "image_path": "assets/images/店_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158487",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>店 (みせ): cửa tiệm</p><p>喫茶店 (きっさてん): quán cà phê<br>店員 (てんいん): nhân viên cửa hàng</p>",
+      "content_text": "JLPT N4\n店 (みせ): cửa tiệm\n喫茶店 (きっさてん): quán cà phê\n店員 (てんいん): nhân viên cửa hàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

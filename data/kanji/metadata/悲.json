@@ -1,0 +1,108 @@
+{
+  "kanji": "悲",
+  "meta": {
+    "weight": 981,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "かな.しい",
+      "かな.しむ"
+    ],
+    "am_han": "BI"
+  },
+  "meaning": {
+    "vi": "buồn, bi quan",
+    "en": "grieve, sad, deplore, regret"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/悲.svg"
+  },
+  "frequency": 1014,
+  "examples": [
+    "悲しい",
+    "悲劇",
+    "悲しみ",
+    "悲惨",
+    "悲鳴"
+  ],
+  "explanation": {
+    "id": "6544",
+    "text": "悲 (đọc là \"bi\") có nghĩa là \"buồn\", \"đau khổ\" để chỉ cảm xúc tiêu cực liên quan đến sự mất mát hoặc bất hạnh.\nVí dụ:\n- 悲しい (kanashii): Buồn bã, đau lòng.\n- 悲劇 (higeki): Bi kịch, thảm kịch.\n-"
+  },
+  "comments": [
+    {
+      "id": "37030",
+      "lang": "vi",
+      "content_html": "<p>Vì anh ấy đang ở trong nhà giam nên tim (心) tôi rất <strong>buồn</strong>.</p>",
+      "content_text": "Vì anh ấy đang ở trong nhà giam nên tim (心) tôi rất\nbuồn\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc5187690c8.jpg",
+      "image_path": "assets/images/悲_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153614",
+      "lang": "vi",
+      "content_html": "<p>tâm mà đầy thị phi thì buồn</p>",
+      "content_text": "tâm mà đầy thị phi thì buồn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153615",
+      "lang": "vi",
+      "content_html": "<p>Cảm giác Sầu BI như mũi tên PHI vào TIM</p>",
+      "content_text": "Cảm giác Sầu BI như mũi tên PHI vào TIM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153616",
+      "lang": "vi",
+      "content_html": "<p>Trái tim (心) tôi thấy buồn đau<br>Bởi vì anh ấy đứng sau cửa tù.</p>",
+      "content_text": "Trái tim (心) tôi thấy buồn đau\nBởi vì anh ấy đứng sau cửa tù.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "kanji": "遁",
+  "meta": {
+    "weight": 2669,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トン",
+      "シュン"
+    ],
+    "kun": [
+      "のが.れる"
+    ],
+    "am_han": "ĐỘN, TUẦN"
+  },
+  "meaning": {
+    "vi": "chạy trốn, trốn thoát, trốn tránh, thả tự do",
+    "en": "flee, escape, shirk, evade, set free"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/遁.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6020",
+    "text": "遁 (đọc là \"ton\") có nghĩa là \"trốn thoát\", \"lẩn trốn\" để chỉ các hành động liên quan đến việc rút lui hoặc ẩn nấp.  \nVí dụ:  \n- 遁走 (tonsou): Trốn chạy, bỏ trốn.  \n- 遁辞 (tonji): Lời biện hộ, "
+  },
+  "comments": [
+    {
+      "id": "220851",
+      "lang": "vi",
+      "content_html": "<p>ĐI TUẦN tra MƯỜI con MẮT ở SƯỜN NÚI</p>",
+      "content_text": "ĐI TUẦN tra MƯỜI con MẮT ở SƯỜN NÚI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "潔",
+  "meta": {
+    "weight": 1618,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケツ"
+    ],
+    "kun": [
+      "いさぎよ.い"
+    ],
+    "am_han": "KHIẾT"
+  },
+  "meaning": {
+    "vi": "không ô uế, tinh khiết, trong sạch, chính trực, hào hiệp",
+    "en": "undefiled, pure, clean, righteous, gallant"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/潔.svg"
+  },
+  "frequency": 1595,
+  "examples": [
+    "簡潔",
+    "清潔",
+    "不潔",
+    "高潔",
+    "潔癖"
+  ],
+  "explanation": {
+    "id": "2074",
+    "text": "潔 (đọc là \"ketsu\") có nghĩa là \"trong sạch\", \"thanh khiết\" để chỉ sự thuần khiết, sạch sẽ hoặc tinh khiết trong tâm hồn và hành động.\nVí dụ:\n- 潔癖症 (keppakushou): Chứng ám ảnh về sự sạch sẽ.\n"
+  },
+  "comments": [
+    {
+      "id": "155091",
+      "lang": "vi",
+      "content_html": "<p>Ông Chú Rót nước 注 lên cây đao 刀 nước chảy thành những sợi tơ 糸 thanh Khiết 清潔(せいけつ)</p>",
+      "content_text": "Ông Chú Rót nước 注 lên cây đao 刀 nước chảy thành những sợi tơ 糸 thanh Khiết 清潔(せいけつ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155092",
+      "lang": "vi",
+      "content_html": "<p>Dưới nước ông chủ cầm đao cắt sợi chỉ thanh khiết</p>",
+      "content_text": "Dưới nước ông chủ cầm đao cắt sợi chỉ thanh khiết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155093",
+      "lang": "vi",
+      "content_html": "<p>Ông chủ cầm Dao bắt chị Mịch ra nước tinh khiết</p>",
+      "content_text": "Ông chủ cầm Dao bắt chị Mịch ra nước tinh khiết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

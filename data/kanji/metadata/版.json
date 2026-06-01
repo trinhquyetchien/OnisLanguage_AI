@@ -1,0 +1,88 @@
+{
+  "kanji": "版",
+  "meta": {
+    "weight": 1688,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン"
+    ],
+    "kun": [],
+    "am_han": "BẢN"
+  },
+  "meaning": {
+    "vi": "bản, phiên bản",
+    "en": "printing block, printing plate, edition, impression, label"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/版.svg"
+  },
+  "frequency": 802,
+  "examples": [
+    "版",
+    "出版",
+    "初版",
+    "絶版",
+    "版元"
+  ],
+  "explanation": {
+    "id": "6469",
+    "text": "版 (đọc là \"han\") có nghĩa là \"bản in\", \"phiên bản\", thường liên quan đến việc xuất bản, in ấn hoặc số lượng bản sao của một tác phẩm.  \nVí dụ:  \n- 版画 (hanga): Khắc gỗ, tranh in.  \n- 版権 (hank"
+  },
+  "comments": [
+    {
+      "id": "155225",
+      "lang": "vi",
+      "content_html": "<p>xuất BẢN cuốn sách về bọn Phiến quân Phản<br>động</p>",
+      "content_text": "xuất BẢN cuốn sách về bọn Phiến quân Phản\nđộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155226",
+      "lang": "vi",
+      "content_html": "<p>Cái Phiến ( tấm ván ) phản đổi sự xuất BẢN của nó.</p>",
+      "content_text": "Cái Phiến ( tấm ván ) phản đổi sự xuất BẢN của nó.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155227",
+      "lang": "vi",
+      "content_html": "<p>Phản đối việc xuất Bản giấy quá mỏng (Phiến)</p>",
+      "content_text": "Phản đối việc xuất Bản giấy quá mỏng (Phiến)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

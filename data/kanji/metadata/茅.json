@@ -1,0 +1,90 @@
+{
+  "kanji": "茅",
+  "meta": {
+    "weight": 2274,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ",
+      "ミョウ"
+    ],
+    "kun": [
+      "かや",
+      "ちがや"
+    ],
+    "am_han": "MAO"
+  },
+  "meaning": {
+    "vi": "cây sậy miscanthus",
+    "en": "miscanthus reed"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/茅.svg"
+  },
+  "frequency": 1895,
+  "examples": [
+    "茅",
+    "茅場",
+    "茅葺き"
+  ],
+  "explanation": {
+    "id": "1040",
+    "text": "茅 (đọc là \"ばう\" hay \"ちょう\") có nghĩa là \"cỏ mọc\" hoặc chỉ loại cỏ dùng để làm mái nhà. Nó thường liên quan đến những thứ tự nhiên hoặc truyền thống.\n\nVí dụ:\n- 茅葺き (かやぶき, kayabuki): Mái lợp bằn"
+  },
+  "comments": [
+    {
+      "id": "156503",
+      "lang": "vi",
+      "content_html": "<p>Loại cỏ này rất cứng có cảm giác như cây giáo ⽭<br>đâm vào chân (khi đi qua đám cỏ này).</p>",
+      "content_text": "Loại cỏ này rất cứng có cảm giác như cây giáo ⽭\nđâm vào chân (khi đi qua đám cỏ này).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156504",
+      "lang": "vi",
+      "content_html": "<p>Mâu Thảo là Mao Thẩu EZ game</p>",
+      "content_text": "Mâu Thảo là Mao Thẩu EZ game",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156505",
+      "lang": "vi",
+      "content_html": "<p>Cỏ nhọn giống cỏ mâu hay còn gọi cỏ MAO - cỏ tranh</p>",
+      "content_text": "Cỏ nhọn giống cỏ mâu hay còn gọi cỏ MAO - cỏ tranh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

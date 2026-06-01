@@ -1,0 +1,90 @@
+{
+  "kanji": "攻",
+  "meta": {
+    "weight": 1168,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "せ.める"
+    ],
+    "am_han": "CÔNG"
+  },
+  "meaning": {
+    "vi": "gây hấn, tấn công, chỉ trích, đánh bóng",
+    "en": "aggression, attack, criticize, polish"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/攻.svg"
+  },
+  "frequency": 532,
+  "examples": [
+    "攻撃",
+    "攻め",
+    "専攻",
+    "攻略",
+    "侵攻"
+  ],
+  "explanation": {
+    "id": "2462",
+    "text": "攻 (đọc là \"kou\") có nghĩa là \"tấn công\", chỉ các hành động liên quan đến việc tấn công hoặc gây hại.  \nVí dụ:  \n- 攻撃 (kougeki): Tấn công, cuộc tấn công.  \n- 攻める (semeru): Tấn công, xâm lược."
+  },
+  "comments": [
+    {
+      "id": "154071",
+      "lang": "vi",
+      "content_html": "<p>Công nhân Đánh nhau.</p>",
+      "content_text": "Công nhân Đánh nhau.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154072",
+      "lang": "vi",
+      "content_html": "<p>công kích</p>",
+      "content_text": "công kích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154073",
+      "lang": "vi",
+      "content_html": "<p>lính ĐÁNH đặc CÔNG</p>",
+      "content_text": "lính ĐÁNH đặc CÔNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

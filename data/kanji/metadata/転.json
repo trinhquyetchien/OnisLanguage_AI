@@ -1,0 +1,97 @@
+{
+  "kanji": "転",
+  "meta": {
+    "weight": 2610,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テン"
+    ],
+    "kun": [
+      "ころ.がる",
+      "ころ.げる",
+      "ころ.がす",
+      "ころ.ぶ",
+      "まろ.ぶ",
+      "うたた",
+      "うつ.る",
+      "くる.めく"
+    ],
+    "am_han": "CHUYỂN"
+  },
+  "meaning": {
+    "vi": "chuyển động",
+    "en": "revolve, turn around, change"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/転.svg"
+  },
+  "frequency": 327,
+  "examples": [
+    "運転",
+    "自転車",
+    "転換",
+    "回転",
+    "移転"
+  ],
+  "explanation": {
+    "id": "5675",
+    "text": "転 (đọc là \"ten\" hoặc \"toru\") có nghĩa là \"xoay\", \"chuyển động\" để chỉ các hành động liên quan đến việc thay đổi vị trí, trạng thái hoặc điều kiện.\n\nVí dụ:\n- 転校 (tenkō): Chuyển trường.\n- 転ぶ ("
+  },
+  "comments": [
+    {
+      "id": "904",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã bị <strong>ngã lăn </strong>ra khỏi xe.</p>",
+      "content_text": "Tôi đã bị\nngã lăn\nra khỏi xe.",
+      "image_url": "https://jpdictionary.com/upload/images/6298b205a40d1.jpg",
+      "image_path": "assets/images/転_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191199",
+      "lang": "vi",
+      "content_html": "<p><strong>chuyển động</strong></p>",
+      "content_text": "chuyển động",
+      "image_url": "https://jpdictionary.com/upload/images/648ad92d21e7e.jpg",
+      "image_path": "assets/images/転_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158480",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>自転車 (じてんしゃ): xe đạp<br>運転 (うんてん): lái xe<br>運転手 (うんてんしゅ): người lái xe</p>",
+      "content_text": "JLPT N4\n自転車 (じてんしゃ): xe đạp\n運転 (うんてん): lái xe\n運転手 (うんてんしゅ): người lái xe",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

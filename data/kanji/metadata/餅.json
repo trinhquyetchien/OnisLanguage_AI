@@ -1,0 +1,91 @@
+{
+  "kanji": "餅",
+  "meta": {
+    "weight": 2933,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘイ",
+      "ヒョウ"
+    ],
+    "kun": [
+      "もち",
+      "もちい"
+    ],
+    "am_han": "BÍNH"
+  },
+  "meaning": {
+    "vi": "bánh gạo mochi",
+    "en": "mochi rice cake"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/餅.svg"
+  },
+  "frequency": 2152,
+  "examples": [
+    "餅",
+    "煎餅",
+    "鏡餅",
+    "月餅"
+  ],
+  "explanation": {
+    "id": "7638",
+    "text": "餅 (đọc là \"mochi\") có nghĩa là \"bánh gạo\", thường được làm từ gạo nếp, có kết cấu dẻo và thường được ăn trong các dịp lễ hội hoặc như món tráng miệng.  \nVí dụ:  \n- 餅つき (mochitsuki): Lễ hội l"
+  },
+  "comments": [
+    {
+      "id": "157949",
+      "lang": "vi",
+      "content_html": "<p>tịnh dùng thức ăn để làm bánh giày</p>",
+      "content_text": "tịnh dùng thức ăn để làm bánh giày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157950",
+      "lang": "vi",
+      "content_html": "<p>Đồ  ăn thanh tịnh đc xếp vào cái thang tre nhỏ là bánh dày của nhật</p>",
+      "content_text": "Đồ  ăn thanh tịnh đc xếp vào cái thang tre nhỏ là bánh dày của nhật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157951",
+      "lang": "vi",
+      "content_html": "<p>Yêu TINH (并) ăn trộm bánh giày ô BÍNH</p>",
+      "content_text": "Yêu TINH (并) ăn trộm bánh giày ô BÍNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

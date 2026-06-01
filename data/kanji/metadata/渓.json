@@ -1,0 +1,90 @@
+{
+  "kanji": "渓",
+  "meta": {
+    "weight": 1571,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "たに",
+      "たにがわ"
+    ],
+    "am_han": "KHÊ"
+  },
+  "meaning": {
+    "vi": "suối núi, thung lũng",
+    "en": "mountain stream, valley"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/渓.svg"
+  },
+  "frequency": 2063,
+  "examples": [
+    "渓",
+    "渓谷",
+    "渓流",
+    "雪渓"
+  ],
+  "explanation": {
+    "id": "1992",
+    "text": "渓 (đọc là \"kei\") có nghĩa là \"suối\", \"thung lũng\" để chỉ các khu vực có nước chảy trong thiên nhiên, thường gắn liền với cảnh quan tươi đẹp.\n\nVí dụ:\n- 渓谷 (keikoku): Thung lũng, hẻm núi.\n- 渓流"
+  },
+  "comments": [
+    {
+      "id": "154968",
+      "lang": "vi",
+      "content_html": "<p>Thuỷ lấy Chồng ở THUNG LŨNG hương KHÊ</p>",
+      "content_text": "Thuỷ lấy Chồng ở THUNG LŨNG hương KHÊ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154969",
+      "lang": "vi",
+      "content_html": "<p>chồng(夫) lấy tay(Trảo) \u001dhứng nước(Thuỷ) ở thung lũng về nấu nhưng ít quá nên bị cơm Khê</p>",
+      "content_text": "chồng(夫) lấy tay(Trảo) \u001dhứng nước(Thuỷ) ở thung lũng về nấu nhưng ít quá nên bị cơm Khê",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154970",
+      "lang": "vi",
+      "content_html": "<p>chồng lấy nước thung lũng rửa móng tay</p>",
+      "content_text": "chồng lấy nước thung lũng rửa móng tay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

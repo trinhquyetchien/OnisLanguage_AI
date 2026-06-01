@@ -1,0 +1,86 @@
+{
+  "kanji": "塵",
+  "meta": {
+    "weight": 594,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チン",
+      "ジン"
+    ],
+    "kun": [
+      "ちり",
+      "ごみ"
+    ],
+    "am_han": "TRẦN"
+  },
+  "meaning": {
+    "vi": "bụi, rác",
+    "en": "dust, trash, garbage"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/塵.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4153",
+    "text": "塵 (đọc là \"chin\" hoặc \"jin\") có nghĩa là \"bụi\", \"rác\" để chỉ các vật thể nhỏ bé, không đáng kể.  \nVí dụ:  \n- 塵箱 (chiri-bako): Thùng rác.  \n- 塵埃 (chinai): Bụi bẩn.  \n- 塵労 (chinrō): Công việc "
+  },
+  "comments": [
+    {
+      "id": "219230",
+      "lang": "vi",
+      "content_html": "<p>鹿 LỘC chạy trên 土 đất, tạo bụi TRẦN 塵</p>",
+      "content_text": "鹿 LỘC chạy trên 土 đất, tạo bụi TRẦN 塵",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219231",
+      "lang": "vi",
+      "content_html": "<p>Con hươu chạy tạo nên bụi</p>",
+      "content_text": "Con hươu chạy tạo nên bụi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219232",
+      "lang": "vi",
+      "content_html": "<p>nhà nền dất nên 2 đứa trẻ trần truồng chơi dính hết bụi</p>",
+      "content_text": "nhà nền dất nên 2 đứa trẻ trần truồng chơi dính hết bụi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "kanji": "護",
+  "meta": {
+    "weight": 2531,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴ"
+    ],
+    "kun": [
+      "まも.る"
+    ],
+    "am_han": "HỘ"
+  },
+  "meaning": {
+    "vi": "bảo vệ",
+    "en": "safeguard, protect"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/護.svg"
+  },
+  "frequency": 351,
+  "examples": [
+    "保護",
+    "弁護士",
+    "介護",
+    "弁護",
+    "擁護"
+  ],
+  "explanation": {
+    "id": "2358",
+    "text": "護 (đọc là \"go\") có nghĩa là \"bảo vệ\", \"hộ vệ\" để chỉ các hành động liên quan đến việc bảo đảm an toàn hoặc bảo vệ ai đó hoặc cái gì đó.\n\nVí dụ:\n- 護衛 (goei): Hộ vệ, bảo vệ.\n- 護符 (gofu): Bùa h"
+  },
+  "comments": [
+    {
+      "id": "157018",
+      "lang": "vi",
+      "content_html": "<p>Nói lời bảo hộ cho những thứ yếu ớt như cỏ , chim , kẻ chéo chân</p>",
+      "content_text": "Nói lời bảo hộ cho những thứ yếu ớt như cỏ , chim , kẻ chéo chân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157019",
+      "lang": "vi",
+      "content_html": "<p>Thảo Tay cầm Chim Nói lời biện HỘ</p>",
+      "content_text": "Thảo Tay cầm Chim Nói lời biện HỘ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157020",
+      "lang": "vi",
+      "content_html": "<p>Thảo nói lời biện hộ cho chim lần nữa</p>",
+      "content_text": "Thảo nói lời biện hộ cho chim lần nữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221494",
+      "lang": "vi",
+      "content_html": "<p>nói lời thảo chiếc chỉ để biện hộ</p>",
+      "content_text": "nói lời thảo chiếc chỉ để biện hộ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    }
+  ]
+}

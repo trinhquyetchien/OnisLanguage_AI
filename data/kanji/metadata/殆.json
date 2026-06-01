@@ -1,0 +1,87 @@
+{
+  "kanji": "殆",
+  "meta": {
+    "weight": 1460,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ",
+      "サイ"
+    ],
+    "kun": [
+      "ほとほと",
+      "ほとん.ど",
+      "あやうい"
+    ],
+    "am_han": "ĐÃI"
+  },
+  "meaning": {
+    "vi": "gần như, khá, thực sự",
+    "en": "almost, quite, really"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/殆.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7347",
+    "text": "殆 (đọc là \"tai\") có nghĩa là \"gần như\", \"hầu như\", thường chỉ trạng thái nguy hiểm hoặc không an toàn. \n\nVí dụ:\n- 殆ど (hotondo): Hầu hết, gần như.\n- 殆しき (taishiki): Gần như, suýt thì (dùng tr"
+  },
+  "comments": [
+    {
+      "id": "219881",
+      "lang": "vi",
+      "content_html": "<p>MỘT ĐÊM TỊCH ở ĐÀI CAO --» để xem HẦU HẾT những NGUY HIỂM</p>",
+      "content_text": "MỘT ĐÊM TỊCH ở ĐÀI CAO --» để xem HẦU HẾT những NGUY HIỂM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219882",
+      "lang": "vi",
+      "content_html": "<p>khi mang Thai,Hầu Hết bà bầu đều được đối ĐÃI tốt</p>",
+      "content_text": "khi mang Thai,Hầu Hết bà bầu đều được đối ĐÃI tốt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219883",
+      "lang": "vi",
+      "content_html": "<p>NGẠT ở ĐÀI loan làm tôi cảm thấy MỎI MỆT</p>",
+      "content_text": "NGẠT ở ĐÀI loan làm tôi cảm thấy MỎI MỆT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

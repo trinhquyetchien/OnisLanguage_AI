@@ -1,0 +1,114 @@
+{
+  "kanji": "直",
+  "meta": {
+    "weight": 1838,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョク",
+      "ジキ",
+      "ジカ"
+    ],
+    "kun": [
+      "ただ.ちに",
+      "なお.す",
+      "-なお.す",
+      "なお.る",
+      "なお.き",
+      "す.ぐ"
+    ],
+    "am_han": "TRỰC"
+  },
+  "meaning": {
+    "vi": "ngay thẳng, chính trực",
+    "en": "straightaway, honesty, frankness, fix, repair"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/直.svg"
+  },
+  "frequency": 246,
+  "examples": [
+    "直接",
+    "正直",
+    "見直し",
+    "直後",
+    "直前"
+  ],
+  "explanation": {
+    "id": "5420",
+    "text": "直 (đọc là \"choku\" hoặc \"tada\") có nghĩa là \"thẳng\", \"trực tiếp\" hoặc \"ngay thẳng\", chỉ sự trực tiếp, không quanh co.  \nVí dụ:  \n- 直接 (chokusetsu): Trực tiếp, không qua trung gian.  \n- 直す (na"
+  },
+  "comments": [
+    {
+      "id": "37344",
+      "lang": "vi",
+      "content_html": "<p>\"Nhìn kìa, nó bị hỏng rồi!\"</p><p>\"Chúng ta hãy <strong>sửa </strong>nó đi!\"</p>",
+      "content_text": "\"Nhìn kìa, nó bị hỏng rồi!\"\n\"Chúng ta hãy\nsửa\nnó đi!\"",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe83c9aa07.jpg",
+      "image_path": "assets/images/直_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155547",
+      "lang": "vi",
+      "content_html": "<p>trực chờ với 10 con mắt.</p>",
+      "content_text": "trực chờ với 10 con mắt.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155548",
+      "lang": "vi",
+      "content_html": "<p>10 con MẮT hướng vào xem livestream TRỰC tiếp.</p>",
+      "content_text": "10 con MẮT hướng vào xem livestream TRỰC tiếp.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155549",
+      "lang": "vi",
+      "content_html": "<p>[ Phải TRỰC đêm đến nỗi Mười 十 Con mắt  目 đều bị Lé ]</p>",
+      "content_text": "[ Phải TRỰC đêm đến nỗi Mười 十 Con mắt  目 đều bị Lé ]",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

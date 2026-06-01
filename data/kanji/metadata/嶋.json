@@ -1,0 +1,86 @@
+{
+  "kanji": "嶋",
+  "meta": {
+    "weight": 810,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "しま"
+    ],
+    "am_han": "ĐẢO"
+  },
+  "meaning": {
+    "vi": "hòn đảo",
+    "en": "island"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/嶋.svg"
+  },
+  "frequency": 1633,
+  "examples": [
+    "嶋"
+  ],
+  "explanation": {
+    "id": "5790",
+    "text": "嶋 (đọc là \"shima\") có nghĩa là \"hòn đảo\". Chữ này thường được dùng để chỉ các hòn đảo nhỏ hoặc vùng nước.\n\nVí dụ:\n- 嶋国 (shimakuni): Đất nước đảo, quốc gia gồm nhiều đảo.\n- 島嶼 (とうしょ, tousho):"
+  },
+  "comments": [
+    {
+      "id": "153183",
+      "lang": "vi",
+      "content_html": "<p>小嶋：KoJiMa - Một họ ở Nhật.</p>",
+      "content_text": "小嶋：KoJiMa - Một họ ở Nhật.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153184",
+      "lang": "vi",
+      "content_html": "<p>中嶋：なかじま- Một họ ở Nhật.</p>",
+      "content_text": "中嶋：なかじま- Một họ ở Nhật.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153185",
+      "lang": "vi",
+      "content_html": "<p>嶋田：しまだ：Một họ ở Nhật</p>",
+      "content_text": "嶋田：しまだ：Một họ ở Nhật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

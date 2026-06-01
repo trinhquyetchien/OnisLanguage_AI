@@ -1,0 +1,91 @@
+{
+  "kanji": "呂",
+  "meta": {
+    "weight": 467,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロ",
+      "リョ"
+    ],
+    "kun": [
+      "せぼね"
+    ],
+    "am_han": "LỮ, LÃ"
+  },
+  "meaning": {
+    "vi": "xương sống",
+    "en": "spine, backbone"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/呂.svg"
+  },
+  "frequency": 2055,
+  "examples": [
+    "風呂",
+    "呂",
+    "風呂敷",
+    "露天風呂",
+    "語呂合わせ"
+  ],
+  "explanation": {
+    "id": "8301",
+    "text": "呂 (đọc là \"ro\") có nghĩa là \"lưng\", \"cột sống\", thường được sử dụng trong các từ liên quan đến bộ phận cơ thể hoặc hình thức. \n\nVí dụ:\n- 呂律 (roritsu): Lời nói, cách phát âm.\n- 呂 (ro): Lưng ("
+  },
+  "comments": [
+    {
+      "id": "152355",
+      "lang": "vi",
+      "content_html": "<p>Bể tắm hai ngăn chữ nhật có nối khớp nhau</p>",
+      "content_text": "Bể tắm hai ngăn chữ nhật có nối khớp nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152356",
+      "lang": "vi",
+      "content_html": "<p>呂布 Lữ Bố</p>",
+      "content_text": "呂布 Lữ Bố",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152357",
+      "lang": "vi",
+      "content_html": "<p>BỒN TẮM dành riêng cho khách LỮ Hành</p>",
+      "content_text": "BỒN TẮM dành riêng cho khách LỮ Hành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

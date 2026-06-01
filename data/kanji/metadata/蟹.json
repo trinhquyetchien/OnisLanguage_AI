@@ -1,0 +1,86 @@
+{
+  "kanji": "蟹",
+  "meta": {
+    "weight": 2398,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "かに"
+    ],
+    "am_han": "GIẢI"
+  },
+  "meaning": {
+    "vi": "cua",
+    "en": "crab"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/蟹.svg"
+  },
+  "frequency": 2417,
+  "examples": [
+    "蟹"
+  ],
+  "explanation": {
+    "id": "810",
+    "text": "蟹 (đọc là \"kani\") có nghĩa là \"cua\", chỉ các loài động vật giáp xác thuộc họ cua.  \nVí dụ:  \n- 蟹肉 (kaniniku): Thịt cua.  \n- 蟹祭り (kanimatsuri): Lễ hội cua.  \n- 蟹を捕る (kani o toru): Bắt cua."
+  },
+  "comments": [
+    {
+      "id": "156688",
+      "lang": "vi",
+      "content_html": "<p>Con CUA là con nhỏ như con CÔN TRÙNG có cái càng như sừng con TRÂU rất NHỌN, có LỰC khi bị cặp rất đau</p>",
+      "content_text": "Con CUA là con nhỏ như con CÔN TRÙNG có cái càng như sừng con TRÂU rất NHỌN, có LỰC khi bị cặp rất đau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156689",
+      "lang": "vi",
+      "content_html": "<p>GIẢI thoát côn trùng bị CUA kẹp!</p>",
+      "content_text": "GIẢI thoát côn trùng bị CUA kẹp!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156690",
+      "lang": "vi",
+      "content_html": "<p>con Cua bị áp Giải lên trên con Trùng</p>",
+      "content_text": "con Cua bị áp Giải lên trên con Trùng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "計",
+  "meta": {
+    "weight": 2454,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "はか.る",
+      "はか.らう"
+    ],
+    "am_han": "KÊ, KẾ"
+  },
+  "meaning": {
+    "vi": "kế hoạch",
+    "en": "plot, plan, scheme, measure"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/計.svg"
+  },
+  "frequency": 228,
+  "examples": [
+    "計画",
+    "計算",
+    "設計",
+    "会計",
+    "統計"
+  ],
+  "explanation": {
+    "id": "2022",
+    "text": "計 (đọc là \"kei\") có nghĩa là \"kế hoạch\", \"tính toán\" để chỉ các hành động liên quan đến việc lên kế hoạch, tính toán hoặc đo lường.  \nVí dụ:  \n- 計画 (keikaku): Kế hoạch.  \n- 計算 (keisan): Tính"
+  },
+  "comments": [
+    {
+      "id": "36946",
+      "lang": "vi",
+      "content_html": "<p>\"Chúng ta hãy <strong>tính </strong>thời gian bằng cách đếm.\"<br>\"1, 2, ... 10.\"</p>",
+      "content_text": "\"Chúng ta hãy\ntính\nthời gian bằng cách đếm.\"\n\"1, 2, ... 10.\"",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4609a067c.jpg",
+      "image_path": "assets/images/計_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156832",
+      "lang": "vi",
+      "content_html": "<p>NÓI ra MƯỜI lần là có KẾ HOẠCH.</p>",
+      "content_text": "NÓI ra MƯỜI lần là có KẾ HOẠCH.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158942",
+      "lang": "vi",
+      "content_html": "<p>体重計(たいじゅうけい): cái cân</p>",
+      "content_text": "体重計(たいじゅうけい): cái cân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "158379",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>時計 (とけい): đồng hồ<br>計画 (けいかく): kế hoạch<br>計算 (けいさん): tính toán<br>体温計 (たいおんけい): nhiệt kế</p>",
+      "content_text": "JLPT N4\n時計 (とけい): đồng hồ\n計画 (けいかく): kế hoạch\n計算 (けいさん): tính toán\n体温計 (たいおんけい): nhiệt kế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

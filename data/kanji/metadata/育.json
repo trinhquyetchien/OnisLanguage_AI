@@ -1,0 +1,110 @@
+{
+  "kanji": "育",
+  "meta": {
+    "weight": 2178,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イク"
+    ],
+    "kun": [
+      "そだ.つ",
+      "そだ.ち",
+      "そだ.てる",
+      "はぐく.む"
+    ],
+    "am_han": "DỤC"
+  },
+  "meaning": {
+    "vi": "giáo dục",
+    "en": "bring up, grow up, raise, rear"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/育.svg"
+  },
+  "frequency": 369,
+  "examples": [
+    "教育",
+    "育成",
+    "育て",
+    "子育て",
+    "育児"
+  ],
+  "explanation": {
+    "id": "203",
+    "text": "育 (đọc là \"iku\") có nghĩa là \"nuôi dưỡng\", \"giáo dục\" để chỉ các hành động liên quan đến việc phát triển, chăm sóc và giáo dục con người hoặc sự vật.\nVí dụ:\n- 教育 (kyōiku): Giáo dục, đào tạo."
+  },
+  "comments": [
+    {
+      "id": "37214",
+      "lang": "vi",
+      "content_html": "<p>Tôi ở trên trăng (月) quan sát nền <strong>giáo dục</strong>.</p>",
+      "content_text": "Tôi ở trên trăng (月) quan sát nền\ngiáo dục\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd566f4108.jpg",
+      "image_path": "assets/images/育_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156289",
+      "lang": "vi",
+      "content_html": "<p>Đầu tư giáo dục cả tháng</p>",
+      "content_text": "Đầu tư giáo dục cả tháng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156290",
+      "lang": "vi",
+      "content_html": "<p>厶Khư, tư  : Riêng tư. Tự ta nuôi con khôn lớn qua hàng tháng trời.</p>",
+      "content_text": "厶Khư, tư  : Riêng tư. Tự ta nuôi con khôn lớn qua hàng tháng trời.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156291",
+      "lang": "vi",
+      "content_html": "<p>con gái có k Nguyệt thì nên bắt Đầu giáo Dục sự Riêng Tư</p>",
+      "content_text": "con gái có k Nguyệt thì nên bắt Đầu giáo Dục sự Riêng Tư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

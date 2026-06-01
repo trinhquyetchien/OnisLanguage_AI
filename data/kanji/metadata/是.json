@@ -1,0 +1,127 @@
+{
+  "kanji": "是",
+  "meta": {
+    "weight": 1231,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゼ",
+      "シ"
+    ],
+    "kun": [
+      "これ",
+      "この",
+      "ここ"
+    ],
+    "am_han": "THỊ"
+  },
+  "meaning": {
+    "vi": "chỉ vậy, điều này, đúng, công lý",
+    "en": "just so, this, right, justice"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/是.svg"
+  },
+  "frequency": 1045,
+  "examples": [
+    "是非",
+    "是正",
+    "是",
+    "是非とも",
+    "是認"
+  ],
+  "explanation": {
+    "id": "4286",
+    "text": "是 (đọc là \"shi\") có nghĩa là \"là\", \"thì\" dùng để chỉ sự tồn tại hoặc bản chất của một sự vật, hiện tượng. \n\nVí dụ:\n- これは本です (kore wa hon desu): Đây là một cuốn sách.\n- あなたは学生ですか (anata wa ga"
+  },
+  "comments": [
+    {
+      "id": "154231",
+      "lang": "vi",
+      "content_html": "<p>Hàng ngày chạy tìm chuyện thị phi để làm chủ đề</p>",
+      "content_text": "Hàng ngày chạy tìm chuyện thị phi để làm chủ đề",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154232",
+      "lang": "vi",
+      "content_html": "<p>định Đề  提 xuất ý kiến✋ thì thấy Thị 是  phi nên rút tay về</p>",
+      "content_text": "định Đề  提 xuất ý kiến✋ thì thấy Thị 是  phi nên rút tay về",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154233",
+      "lang": "vi",
+      "content_html": "<p>Sơ Sơ mỗi ngày đều đủ Thị phi <br>疋 có nghĩa là đủ</p>",
+      "content_text": "Sơ Sơ mỗi ngày đều đủ Thị phi\n疋 có nghĩa là đủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221853",
+      "lang": "vi",
+      "content_html": "<p>Triện văn bên dưới của chữ<strong> 是 </strong>có hình dáng tương tự phần trên là 1 loại <strong>nhật cụ</strong> (Đồng hồ mặt trời), ở dưới là chữ <strong>止 (Chỉ) =&gt;</strong> nghĩa liên quan đến <strong>Chính xác, ngay thẳng, </strong>sau này trở thành nghĩa<strong> Là. </strong>(Không phải xuất phát từ bộ <strong>疋</strong>)<strong>&nbsp;</strong></p>",
+      "content_text": "Triện văn bên dưới của chữ\n是\ncó hình dáng tương tự phần trên là 1 loại\nnhật cụ\n(Đồng hồ mặt trời), ở dưới là chữ\n止 (Chỉ) =>\nnghĩa liên quan đến\nChính xác, ngay thẳng,\nsau này trở thành nghĩa\nLà.\n(Không phải xuất phát từ bộ\n疋\n)",
+      "image_url": "https://jpdictionary.com/upload/images/6777f730a143f.png",
+      "image_path": "assets/images/是_4.png",
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    },
+    {
+      "id": "221854",
+      "lang": "vi",
+      "content_html": "<p>Nhật quỹ</p>",
+      "content_text": "Nhật quỹ",
+      "image_url": "https://jpdictionary.com/upload/images/6777f77368297.jpg",
+      "image_path": "assets/images/是_5.jpg",
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

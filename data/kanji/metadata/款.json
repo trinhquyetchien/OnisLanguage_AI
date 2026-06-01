@@ -1,0 +1,87 @@
+{
+  "kanji": "款",
+  "meta": {
+    "weight": 1446,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [],
+    "am_han": "KHOẢN"
+  },
+  "meaning": {
+    "vi": "thiện chí, bài viết, phần, tình bạn, sự thông đồng",
+    "en": "goodwill, article, section, friendship, collusion"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/款.svg"
+  },
+  "frequency": 1854,
+  "examples": [
+    "定款",
+    "約款",
+    "借款",
+    "款"
+  ],
+  "explanation": {
+    "id": "1127",
+    "text": "款 (đọc là \"kan\") có nghĩa là \"điều khoản\", \"mẫu mã\" để chỉ các khoản mục, điều luật trong hợp đồng hoặc đặc điểm của sản phẩm.  \nVí dụ:  \n- 条款 (jōkan): Điều khoản.  \n- 款式 (kanshiki): Mẫu mã,"
+  },
+  "comments": [
+    {
+      "id": "154660",
+      "lang": "vi",
+      "content_html": "<p>Binh sĩ ở thành Thị không thiếu Điều Khoảng gì</p>",
+      "content_text": "Binh sĩ ở thành Thị không thiếu Điều Khoảng gì",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154661",
+      "lang": "vi",
+      "content_html": "<p>Kẻ sĩ ra chỉ thị không được thiếu các điều khoản</p>",
+      "content_text": "Kẻ sĩ ra chỉ thị không được thiếu các điều khoản",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154662",
+      "lang": "vi",
+      "content_html": "<p>Chỉ thị của vị tráng Sĩ bị thiếu (khuyết) mất 1 điều khoản.</p>",
+      "content_text": "Chỉ thị của vị tráng Sĩ bị thiếu (khuyết) mất 1 điều khoản.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

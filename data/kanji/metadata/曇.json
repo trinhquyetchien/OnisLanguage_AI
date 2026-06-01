@@ -1,0 +1,89 @@
+{
+  "kanji": "曇",
+  "meta": {
+    "weight": 1254,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドン"
+    ],
+    "kun": [
+      "くも.る"
+    ],
+    "am_han": "ĐÀM"
+  },
+  "meaning": {
+    "vi": "có mây",
+    "en": "cloudy weather, cloud up"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/曇.svg"
+  },
+  "frequency": 1899,
+  "examples": [
+    "曇り",
+    "曇り空",
+    "曇",
+    "曇天"
+  ],
+  "explanation": {
+    "id": "6029",
+    "text": "曇 (đọc là \"do\") có nghĩa là \"mây mù\" hoặc \"thời tiết u ám\", thường chỉ thời tiết không trong sáng, có mây dày che phủ.  \nVí dụ:  \n- 曇り (kumori): Thời tiết có mây, trời âm u.  \n- 曇天 (dōten): "
+  },
+  "comments": [
+    {
+      "id": "154292",
+      "lang": "vi",
+      "content_html": "<p>Đàm là Đám mây che cả mặt trời</p>",
+      "content_text": "Đàm là Đám mây che cả mặt trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154293",
+      "lang": "vi",
+      "content_html": "<p>trên Nắng dưới Mưa, hội ĐÀM u ám</p>",
+      "content_text": "trên Nắng dưới Mưa, hội ĐÀM u ám",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154294",
+      "lang": "vi",
+      "content_html": "<p>Vừa nắng vừa mưa ra đường Đàm phải đội mũ</p>",
+      "content_text": "Vừa nắng vừa mưa ra đường Đàm phải đội mũ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "夜",
+  "meta": {
+    "weight": 621,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヤ"
+    ],
+    "kun": [
+      "よ",
+      "よる"
+    ],
+    "am_han": "DẠ"
+  },
+  "meaning": {
+    "vi": "đêm, dạ cảnh",
+    "en": "night, evening"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/夜.svg"
+  },
+  "frequency": 487,
+  "examples": [
+    "夜",
+    "深夜",
+    "今夜",
+    "昨夜",
+    "夜間"
+  ],
+  "explanation": {
+    "id": "7670",
+    "text": "夜 (đọc là \"ya\") có nghĩa là \"đêm\" để chỉ khoảng thời gian từ khi mặt trời lặn cho đến khi mặt trời mọc.  \nVí dụ:  \n- 夜景 (yakei): Cảnh đêm, phong cảnh ban đêm.  \n- 夜中 (yonaka): Giữa đêm, nửa "
+  },
+  "comments": [
+    {
+      "id": "724",
+      "lang": "vi",
+      "content_html": "<p><strong>Buổi tối</strong>, một người đội mũ ngắm trăng và mây.</p>",
+      "content_text": "Buổi tối\n, một người đội mũ ngắm trăng và mây.",
+      "image_url": "https://jpdictionary.com/upload/images/629840f0cad2b.jpg",
+      "image_path": "assets/images/夜_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158557",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>夜 (よる): buổi tối</p><p>昨夜 (ゆうべ): tối hôm qua</p><p>今夜 (こんや): tối nay</p><p>夜中 (よなか): giữa đêm</p><p>夜行バス (やこうバス): xe buýt đêm</p>",
+      "content_text": "JLPT N4\n夜 (よる): buổi tối\n昨夜 (ゆうべ): tối hôm qua\n今夜 (こんや): tối nay\n夜中 (よなか): giữa đêm\n夜行バス (やこうバス): xe buýt đêm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "152725",
+      "lang": "vi",
+      "content_html": "<p>người đi đuổi tà (タ) vào buổi tối (夜)</p>",
+      "content_text": "người đi đuổi tà (タ) vào buổi tối (夜)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

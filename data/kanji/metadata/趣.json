@@ -1,0 +1,108 @@
+{
+  "kanji": "趣",
+  "meta": {
+    "weight": 2588,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ"
+    ],
+    "kun": [
+      "おもむき",
+      "おもむ.く"
+    ],
+    "am_han": "THÚ, XÚC"
+  },
+  "meaning": {
+    "vi": "mục đích, ý chính, sang trọng, quan tâm, tiến tới, có xu hướng, trở thành",
+    "en": "purport, gist, elegance, interest, proceed to, tend, become"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/趣.svg"
+  },
+  "frequency": 1153,
+  "examples": [
+    "趣味",
+    "趣旨",
+    "趣",
+    "趣向",
+    "趣意"
+  ],
+  "explanation": {
+    "id": "3431",
+    "text": "趣 (đọc là \"shumi\" hoặc \"koi\") có nghĩa là \"sở thích\", \"hứng thú\", chỉ những điều mà người ta yêu thích hoặc đam mê. \n\nVí dụ:\n- 趣味 (shumi): Sở thích, thú vui.\n- 趣向 (shukou): Sự hướng tới, sở "
+  },
+  "comments": [
+    {
+      "id": "157165",
+      "lang": "vi",
+      "content_html": "<p>Lấy 取る  hứng thú làm động lực chạy走る cho nhanh</p>",
+      "content_text": "Lấy 取る  hứng thú làm động lực chạy走る cho nhanh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157166",
+      "lang": "vi",
+      "content_html": "<p>Chạy (走)nhanh Tai (耳) Lại ( 又) bị ù , hết cả hứng Thú</p>",
+      "content_text": "Chạy (走)nhanh Tai (耳) Lại ( 又) bị ù , hết cả hứng Thú",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157167",
+      "lang": "vi",
+      "content_html": "<p>CẢNH tượng THÚ (趣) vị được LẤY (取) làm chủ đề cho cuộc thi CHẠY (走).</p>",
+      "content_text": "CẢNH tượng THÚ (趣) vị được LẤY (取) làm chủ đề cho cuộc thi CHẠY (走).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222081",
+      "lang": "vi",
+      "content_html": "<p><strong>Chạy đến và nắm bắt điều mình yêu thích, cảm nhận được</strong></p>",
+      "content_text": "Chạy đến và nắm bắt điều mình yêu thích, cảm nhận được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "7613",
+        "name": "truongg",
+        "image_url": "https://jpdictionary.com/upload/images/683b215a55293.png"
+      }
+    }
+  ]
+}

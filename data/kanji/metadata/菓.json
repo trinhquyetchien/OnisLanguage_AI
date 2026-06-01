@@ -1,0 +1,88 @@
+{
+  "kanji": "菓",
+  "meta": {
+    "weight": 2293,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [],
+    "am_han": "QUẢ"
+  },
+  "meaning": {
+    "vi": "kẹo, bánh",
+    "en": "candy, cakes, fruit"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/菓.svg"
+  },
+  "frequency": 1719,
+  "examples": [
+    "お菓子",
+    "菓子",
+    "和菓子",
+    "駄菓子",
+    "洋菓子"
+  ],
+  "explanation": {
+    "id": "691",
+    "text": "菓 (đọc là \"ka\") có nghĩa là \"bánh kẹo\", \"trái cây\" để chỉ các sản phẩm ăn được thường có nguồn gốc từ thực vật hoặc chế biến từ thực phẩm ngọt.  \nVí dụ:  \n- お菓子 (okashi): Bánh kẹo, món ngọt."
+  },
+  "comments": [
+    {
+      "id": "156540",
+      "lang": "vi",
+      "content_html": "<p>Quả mà có cỏ thì để làm bánh kẹo</p>",
+      "content_text": "Quả mà có cỏ thì để làm bánh kẹo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156541",
+      "lang": "vi",
+      "content_html": "<p>THẢO QUẢ là HOA QUẢ để ăn chứ còn gì nữa</p>",
+      "content_text": "THẢO QUẢ là HOA QUẢ để ăn chứ còn gì nữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156542",
+      "lang": "vi",
+      "content_html": "<p>Thảo Quả để làm mứt Kẹo</p>",
+      "content_text": "Thảo Quả để làm mứt Kẹo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

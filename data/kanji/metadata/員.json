@@ -1,0 +1,88 @@
+{
+  "kanji": "員",
+  "meta": {
+    "weight": 486,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イン"
+    ],
+    "kun": [],
+    "am_han": "VIÊN"
+  },
+  "meaning": {
+    "vi": "nhân viên, thành viên",
+    "en": "employee, member, number, the one in charge"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/員.svg"
+  },
+  "frequency": 54,
+  "examples": [
+    "委員",
+    "員",
+    "議員",
+    "全員",
+    "職員"
+  ],
+  "explanation": {
+    "id": "245",
+    "text": "員 (đọc là \"in\" hoặc \"yuu\") có nghĩa là \"thành viên\", \"nhân viên\", thường chỉ các cá nhân trong một tổ chức hoặc nhóm.  \nVí dụ:  \n- 員工 (ingu): Nhân viên, công nhân.  \n- 会員 (kaiin): Thành viên"
+  },
+  "comments": [
+    {
+      "id": "190937",
+      "lang": "vi",
+      "content_html": "<p><strong>nhân viên</strong></p>",
+      "content_text": "nhân viên",
+      "image_url": "https://jpdictionary.com/upload/images/648a7424479a3.jpg",
+      "image_path": "assets/images/員_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36881",
+      "lang": "vi",
+      "content_html": "<p>Đổi vỏ sò (貝) lấy thẻ <strong>thành viên</strong>.</p>",
+      "content_text": "Đổi vỏ sò (貝) lấy thẻ\nthành viên\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62addf57e13ce.jpg",
+      "image_path": "assets/images/員_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152403",
+      "lang": "vi",
+      "content_html": "<p>Hoàn cảnh: Mở Mồm (口 KHẨU) ra suốt ngày Tiền Tiền (貝 BỐI) <br>là nhân Viên (員). đòi lương ;))<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Hoàn cảnh: Mở Mồm (口 KHẨU) ra suốt ngày Tiền Tiền (貝 BỐI)\nlà nhân Viên (員). đòi lương ;))\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

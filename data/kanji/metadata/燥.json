@@ -1,0 +1,104 @@
+{
+  "kanji": "燥",
+  "meta": {
+    "weight": 1677,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "はしゃ.ぐ"
+    ],
+    "am_han": "TÁO"
+  },
+  "meaning": {
+    "vi": "làm khô",
+    "en": "parch, dry up"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/燥.svg"
+  },
+  "frequency": 1819,
+  "examples": [
+    "乾燥",
+    "焦燥"
+  ],
+  "explanation": {
+    "id": "4730",
+    "text": "燥 (đọc là \"sou\" hoặc \"sō\") có nghĩa là \"khô\", \"héo\", chỉ trạng thái khô ráo hoặc mất nước. \n\nVí dụ:\n- 燥湿 (sōshitsu): Khô và ẩm.\n- 燥す (sōsu): Làm khô, gây héo.\n- 燥音 (sōon): Âm thanh khô cứng."
+  },
+  "comments": [
+    {
+      "id": "155209",
+      "lang": "vi",
+      "content_html": "<p>Sản phẩm từ cây làm xong dùng lửa sấy khô</p>",
+      "content_text": "Sản phẩm từ cây làm xong dùng lửa sấy khô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190768",
+      "lang": "vi",
+      "content_html": "<p>Dùng lửa sấy những sản phẩm từ cây Táo cho khô</p>",
+      "content_text": "Dùng lửa sấy những sản phẩm từ cây Táo cho khô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "155210",
+      "lang": "vi",
+      "content_html": "<p>3 quả TÁO trên cây bị cháy khô</p>",
+      "content_text": "3 quả TÁO trên cây bị cháy khô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155211",
+      "lang": "vi",
+      "content_html": "<p>Dùng lửa để sấy khô những thùng hàng trên cây táo</p>",
+      "content_text": "Dùng lửa để sấy khô những thùng hàng trên cây táo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

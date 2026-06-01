@@ -1,0 +1,90 @@
+{
+  "kanji": "罵",
+  "meta": {
+    "weight": 2129,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バ"
+    ],
+    "kun": [
+      "ののし.る"
+    ],
+    "am_han": "MẠ"
+  },
+  "meaning": {
+    "vi": "lạm dụng, xúc phạm",
+    "en": "abuse, insult"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/罵.svg"
+  },
+  "frequency": 2467,
+  "examples": [
+    "罵倒",
+    "罵声",
+    "罵詈",
+    "罵り",
+    "罵る"
+  ],
+  "explanation": {
+    "id": "6244",
+    "text": "罵 (đọc là \"ba\") có nghĩa là \"mắng\" hoặc \"chửi\", chỉ các hành động liên quan đến việc chỉ trích gay gắt hoặc xúc phạm người khác.  \nVí dụ:  \n- 罵倒 (badou): Lời mắng chửi, sự chửi mắng.  \n- 罵る "
+  },
+  "comments": [
+    {
+      "id": "156181",
+      "lang": "vi",
+      "content_html": "<p>Chửi vào mắt con ngựa</p>",
+      "content_text": "Chửi vào mắt con ngựa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156182",
+      "lang": "vi",
+      "content_html": "<p>con Ngựa đi mà đánh Võng thì sẽ bị lăng Mạ</p>",
+      "content_text": "con Ngựa đi mà đánh Võng thì sẽ bị lăng Mạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156183",
+      "lang": "vi",
+      "content_html": "<p>Phò mã nằm võng nghe chửi</p>",
+      "content_text": "Phò mã nằm võng nghe chửi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

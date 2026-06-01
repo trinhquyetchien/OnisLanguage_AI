@@ -1,0 +1,94 @@
+{
+  "kanji": "験",
+  "meta": {
+    "weight": 2957,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン",
+      "ゲン"
+    ],
+    "kun": [
+      "あかし",
+      "しるし",
+      "ため.す",
+      "ためし"
+    ],
+    "am_han": "NGHIỆM"
+  },
+  "meaning": {
+    "vi": "thử nghiệm, thí nghiệm",
+    "en": "verification, effect, testing"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/験.svg"
+  },
+  "frequency": 410,
+  "examples": [
+    "経験",
+    "試験",
+    "体験",
+    "実験",
+    "受験"
+  ],
+  "explanation": {
+    "id": "2194",
+    "text": "験 (đọc là \"ken\" hoặc \"gaku\") có nghĩa là \"kiểm tra\", \"thí nghiệm\", \"kinh nghiệm\" liên quan đến các hành động thử nghiệm hoặc đánh giá.  \nVí dụ:  \n- 実験 (jikken): Thí nghiệm, thực nghiệm.  \n- "
+  },
+  "comments": [
+    {
+      "id": "1010",
+      "lang": "vi",
+      "content_html": "<p><strong>Kiểm tra</strong> con ngựa (馬) trước khi leo núi.</p>",
+      "content_text": "Kiểm tra\ncon ngựa (馬) trước khi leo núi.",
+      "image_url": "https://jpdictionary.com/upload/images/62a0a438e79bf.jpg",
+      "image_path": "assets/images/験_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191245",
+      "lang": "vi",
+      "content_html": "<p><strong>kiểm tra</strong> con ngựa</p>",
+      "content_text": "kiểm tra\ncon ngựa",
+      "image_url": "https://jpdictionary.com/upload/images/648adff8e68ad.jpg",
+      "image_path": "assets/images/験_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "157999",
+      "lang": "vi",
+      "content_html": "<p>Dùng ngựa thí nghiệm</p>",
+      "content_text": "Dùng ngựa thí nghiệm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "而",
+  "meta": {
+    "weight": 2150,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ",
+      "ニ"
+    ],
+    "kun": [
+      "しこ.うして",
+      "しか.して",
+      "しか.も",
+      "しか.れども",
+      "すなわち",
+      "なんじ",
+      "しかるに"
+    ],
+    "am_han": "NHI"
+  },
+  "meaning": {
+    "vi": "và chưa, và sau đó, nhưng, tuy nhiên,",
+    "en": "and yet, and then, but, however, nevertheless"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/而.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3224",
+    "text": "而 (đọc là \"ji\" hoặc \"arui wa\") có nghĩa là \"và\", \"nhưng\", dùng để nối các câu, thể hiện mối quan hệ giữa chúng.\nVí dụ:\n- 而も (arui mo): Hơn nữa, thêm vào đó.\n- 而して (arushite): Tuy nhiên, và s"
+  },
+  "comments": [
+    {
+      "id": "220402",
+      "lang": "vi",
+      "content_html": "<p>nhìn như 1 一 cái bồ cào 4 răng của chư bát giới</p>",
+      "content_text": "nhìn như 1 一 cái bồ cào 4 răng của chư bát giới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220403",
+      "lang": "vi",
+      "content_html": "<p>mà, và</p>",
+      "content_text": "mà, và",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220404",
+      "lang": "vi",
+      "content_html": "<p>しかも。而も</p>",
+      "content_text": "しかも。而も",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

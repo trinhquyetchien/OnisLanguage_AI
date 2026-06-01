@@ -1,0 +1,87 @@
+{
+  "kanji": "嵐",
+  "meta": {
+    "weight": 807,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ラン"
+    ],
+    "kun": [
+      "あらし"
+    ],
+    "am_han": "LAM"
+  },
+  "meaning": {
+    "vi": "bão tố",
+    "en": "storm, tempest"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/嵐.svg"
+  },
+  "frequency": 1910,
+  "examples": [
+    "嵐",
+    "砂嵐"
+  ],
+  "explanation": {
+    "id": "7977",
+    "text": "嵐 (đọc là \"arashi\") có nghĩa là \"bão\" hoặc \"gió bão\", chỉ những hiện tượng thời tiết dữ dội.  \nVí dụ:  \n- 嵐の中 (arashi no naka): Giữa cơn bão.  \n- 嵐が来る (arashi ga kuru): Cơn bão đang đến.  \n-"
+  },
+  "comments": [
+    {
+      "id": "153178",
+      "lang": "vi",
+      "content_html": "<p>Ở LAM Sơn Thanh Hoá hay có Gió BÃO</p>",
+      "content_text": "Ở LAM Sơn Thanh Hoá hay có Gió BÃO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153179",
+      "lang": "vi",
+      "content_html": "<p>dưới núi có gió BÃO</p>",
+      "content_text": "dưới núi có gió BÃO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153180",
+      "lang": "vi",
+      "content_html": "<p>Khí núi bốc lên là nghĩa của 嵐 trong Tiếng Trung. Còn trong Tiếng Nhật là bão nhé</p>",
+      "content_text": "Khí núi bốc lên là nghĩa của 嵐 trong Tiếng Trung. Còn trong Tiếng Nhật là bão nhé",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "kanji": "蛾",
+  "meta": {
+    "weight": 2386,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギ",
+      "ガ"
+    ],
+    "kun": [
+      "ひむし"
+    ],
+    "am_han": "NGA, NGHĨ"
+  },
+  "meaning": {
+    "vi": "bướm đêm",
+    "en": "moth"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/蛾.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "735",
+    "text": "蛾 (đọc là \"ga\") có nghĩa là \"bướm đêm\" để chỉ các loài côn trùng thuộc họ bướm, thường hoạt động vào ban đêm.\n\nVí dụ:\n- 蛾 (ga): Bướm đêm.\n- 蛾類 (garui): Loài bướm đêm.\n- 蛾のように飛ぶ (ga no you ni"
+  },
+  "comments": []
+}

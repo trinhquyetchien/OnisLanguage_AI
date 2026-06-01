@@ -1,0 +1,107 @@
+{
+  "kanji": "永",
+  "meta": {
+    "weight": 1482,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エイ"
+    ],
+    "kun": [
+      "なが.い"
+    ],
+    "am_han": "VĨNH"
+  },
+  "meaning": {
+    "vi": "vĩnh viễn, vĩnh cửu",
+    "en": "eternity, long, lengthy"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/永.svg"
+  },
+  "frequency": 846,
+  "examples": [
+    "永遠",
+    "永久",
+    "永",
+    "永住",
+    "永続"
+  ],
+  "explanation": {
+    "id": "380",
+    "text": "永 (đọc là \"ei\") có nghĩa là \"vĩnh cửu\", \"mãi mãi\" để chỉ sự tồn tại lâu dài hoặc không thay đổi theo thời gian.  \nVí dụ:  \n- 永遠 (eien): Vĩnh hằng, mãi mãi.  \n- 永続 (eizoku): Sự tiếp diễn, kéo"
+  },
+  "comments": [
+    {
+      "id": "154757",
+      "lang": "vi",
+      "content_html": "<p>Vĩnh viễn chỉ có 1 giọt nước</p>",
+      "content_text": "Vĩnh viễn chỉ có 1 giọt nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154758",
+      "lang": "vi",
+      "content_html": "<p>đá(ăn) 氷。bơi泳。nước水。vĩnh viễn永</p>",
+      "content_text": "đá(ăn) 氷。bơi泳。nước水。vĩnh viễn永",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158768",
+      "lang": "vi",
+      "content_html": "<p>永遠(えいえん): vĩnh viễn</p>",
+      "content_text": "永遠(えいえん): vĩnh viễn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "248",
+        "name": "Nguyễn Đại",
+        "image_url": "https://jpdictionary.com/upload/images/699d691204259.jpg"
+      }
+    },
+    {
+      "id": "154759",
+      "lang": "vi",
+      "content_html": "<p>Nước là vĩnh cửu</p>",
+      "content_text": "Nước là vĩnh cửu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

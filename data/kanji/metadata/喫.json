@@ -1,0 +1,107 @@
+{
+  "kanji": "喫",
+  "meta": {
+    "weight": 510,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キツ"
+    ],
+    "kun": [
+      "の.む"
+    ],
+    "am_han": "KHIẾT"
+  },
+  "meaning": {
+    "vi": "hút",
+    "en": "consume, eat, drink, smoke, receive (a blow)"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/喫.svg"
+  },
+  "frequency": 1347,
+  "examples": [
+    "喫煙",
+    "喫茶店",
+    "満喫",
+    "喫茶",
+    "喫緊"
+  ],
+  "explanation": {
+    "id": "1463",
+    "text": "喫 (đọc là \"kitsu\") có nghĩa là \"ăn\", \"uống\", thường chỉ hành động tiêu thụ thực phẩm hoặc đồ uống.  \nVí dụ:  \n- 喫茶店 (kissaten): Quán cà phê, tiệm trà.  \n- 喫煙 (kitsuen): Hút thuốc.  \n- 喫食 (ki"
+  },
+  "comments": [
+    {
+      "id": "152465",
+      "lang": "vi",
+      "content_html": "<p>Mỗi khi kí hợp đồng 契 (契約書) là miệng 口 lại được ăn uống 喫</p>",
+      "content_text": "Mỗi khi kí hợp đồng 契 (契約書) là miệng 口 lại được ăn uống 喫",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190758",
+      "lang": "vi",
+      "content_html": "<p>MIệng của Chủ nhân Đao to búa lớn nhưng có sức Hút</p>",
+      "content_text": "MIệng của Chủ nhân Đao to búa lớn nhưng có sức Hút",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "152466",
+      "lang": "vi",
+      "content_html": "<p>miệng sinh ra những lời đao to búa lớn sẽ rất đói khát.</p>",
+      "content_text": "miệng sinh ra những lời đao to búa lớn sẽ rất đói khát.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152467",
+      "lang": "vi",
+      "content_html": "<p>Chữ KHẾ là hội họp, KHẨU là MIỆNG, KHIẾT là ăn uống. Vậy MỒM gọi nhau HÔI HỌP để KHIẾT đãi nhau bữa nhậu hoặc giải khát</p>",
+      "content_text": "Chữ KHẾ là hội họp, KHẨU là MIỆNG, KHIẾT là ăn uống. Vậy MỒM gọi nhau HÔI HỌP để KHIẾT đãi nhau bữa nhậu hoặc giải khát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

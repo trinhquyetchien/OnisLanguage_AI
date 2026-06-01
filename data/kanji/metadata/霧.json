@@ -1,0 +1,92 @@
+{
+  "kanji": "霧",
+  "meta": {
+    "weight": 2876,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ム",
+      "ボウ",
+      "ブ"
+    ],
+    "kun": [
+      "きり"
+    ],
+    "am_han": "VỤ"
+  },
+  "meaning": {
+    "vi": "sương mù",
+    "en": "fog, mist"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/霧.svg"
+  },
+  "frequency": 1747,
+  "examples": [
+    "霧",
+    "噴霧",
+    "霧笛",
+    "霧雨",
+    "濃霧"
+  ],
+  "explanation": {
+    "id": "7527",
+    "text": "霧 (đọc là \"mu\") có nghĩa là \"sương mù\", chỉ hiện tượng thời tiết khi không khí có nhiều hạt nước nhỏ lơ lửng, làm giảm tầm nhìn.  \nVí dụ:  \n- 霧雨 (kisame): Mưa phùn, sương mù.  \n- 霧が出る (mugi "
+  },
+  "comments": [
+    {
+      "id": "157825",
+      "lang": "vi",
+      "content_html": "<p>Nhiệm vụ của mưa là tạo ra sương mù</p>",
+      "content_text": "Nhiệm vụ của mưa là tạo ra sương mù",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157826",
+      "lang": "vi",
+      "content_html": "<p>Vụ(霧) mâu thuẫn(矛)  đánh nhau (phộc)  dưới mưa (雨)sương mù thật bất lực(力)</p>",
+      "content_text": "Vụ(霧) mâu thuẫn(矛)  đánh nhau (phộc)  dưới mưa (雨)sương mù thật bất lực(力)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157827",
+      "lang": "vi",
+      "content_html": "<p>Trời mưa tạo sương mù như đang tạo điều kiện thuận lơi cho một nhiệm vụ nào đó</p>",
+      "content_text": "Trời mưa tạo sương mù như đang tạo điều kiện thuận lơi cho một nhiệm vụ nào đó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

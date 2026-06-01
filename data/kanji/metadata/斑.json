@@ -1,0 +1,88 @@
+{
+  "kanji": "斑",
+  "meta": {
+    "weight": 1189,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン"
+    ],
+    "kun": [
+      "ふ",
+      "まだら"
+    ],
+    "am_han": "BAN"
+  },
+  "meaning": {
+    "vi": "đốm, nhược điểm, bản vá lỗi",
+    "en": "spot, blemish, speck, patches"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/斑.svg"
+  },
+  "frequency": 2165,
+  "examples": [
+    "斑",
+    "斑点"
+  ],
+  "explanation": {
+    "id": "6457",
+    "text": "斑 (đọc là \"han\") có nghĩa là \"vết đốm\", \"lốm đốm\" để chỉ các hình dạng không đồng đều, có sự phân tán màu sắc hoặc hoa văn.  \nVí dụ:  \n- 斑点 (handen): Đốm, vết lốm.  \n- 斑馬 (bamba): Ngựa vằn. "
+  },
+  "comments": [
+    {
+      "id": "154131",
+      "lang": "vi",
+      "content_html": "<p>2 nhà Vua ép làm Văn sẽ bị sốt phát Ban</p>",
+      "content_text": "2 nhà Vua ép làm Văn sẽ bị sốt phát Ban",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154132",
+      "lang": "vi",
+      "content_html": "<p>Có 2 Vua nên chia làm 2 Ban</p>",
+      "content_text": "Có 2 Vua nên chia làm 2 Ban",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154133",
+      "lang": "vi",
+      "content_html": "<p>Không đồng đều</p>",
+      "content_text": "Không đồng đều",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

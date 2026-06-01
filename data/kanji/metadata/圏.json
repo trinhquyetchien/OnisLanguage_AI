@@ -1,0 +1,90 @@
+{
+  "kanji": "圏",
+  "meta": {
+    "weight": 541,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "かこ.い"
+    ],
+    "am_han": "QUYỂN, KHUYÊN"
+  },
+  "meaning": {
+    "vi": "hình cầu, hình tròn, bán kính, phạm vi",
+    "en": "sphere, circle, radius, range"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/圏.svg"
+  },
+  "frequency": 1216,
+  "examples": [
+    "圏",
+    "圏内",
+    "圏外",
+    "大気圏",
+    "成層圏"
+  ],
+  "explanation": {
+    "id": "2116",
+    "text": "圏 (đọc là \"ken\") có nghĩa là \"vùng\", \"khu vực\", chỉ các khu vực địa lý hoặc lĩnh vực cụ thể trong một ngữ cảnh nào đó. \n\nVí dụ:\n- 圏内 (kennai): Trong vùng, trong khu vực.\n- 影響圏 (eikyouken): V"
+  },
+  "comments": [
+    {
+      "id": "152539",
+      "lang": "vi",
+      "content_html": "<p>Bao bọc quyển sách là khí quyển</p>",
+      "content_text": "Bao bọc quyển sách là khí quyển",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152540",
+      "lang": "vi",
+      "content_html": "<p>khí nghiệm bọc xung quanh quyển sách</p>",
+      "content_text": "khí nghiệm bọc xung quanh quyển sách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152541",
+      "lang": "vi",
+      "content_html": "<p>Đốt quyển sách kỉ niệm rồi bao lại ko cho ô nhiễm khí QUYỂN</p>",
+      "content_text": "Đốt quyển sách kỉ niệm rồi bao lại ko cho ô nhiễm khí QUYỂN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

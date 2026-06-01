@@ -1,0 +1,33 @@
+{
+  "kanji": "劃",
+  "meta": {
+    "weight": 340,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク"
+    ],
+    "kun": [
+      "わ.かつ",
+      "かぎ.る"
+    ],
+    "am_han": "HOẠCH"
+  },
+  "meaning": {
+    "vi": "chia",
+    "en": "divide"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/劃.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "884",
+    "text": "劃 (đọc là \"kaku\") có nghĩa là \"vạch\", \"phân chia\" để chỉ các hành động liên quan đến việc định hình hoặc phân chia không gian, ý tưởng.\n\nVí dụ:\n- 計画 (keikaku): Kế hoạch.\n- 劃一 (kakuitsu): Đồn"
+  },
+  "comments": []
+}

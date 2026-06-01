@@ -1,0 +1,69 @@
+{
+  "kanji": "噌",
+  "meta": {
+    "weight": 522,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "ショウ",
+      "ソ"
+    ],
+    "kun": [
+      "かまびす.しい"
+    ],
+    "am_han": "TẰNG, TĂNG, TUNG"
+  },
+  "meaning": {
+    "vi": "huyên náo",
+    "en": "boisterous"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/噌.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4608",
+    "text": "噌 (đọc là \"sō\") có nghĩa là \"mì chính\" hoặc \"bột nêm\", thường dùng để chỉ loại gia vị làm từ đậu tương lên men, giống như miso. \n\nVí dụ:\n- 味噌 (miso): Miso, bột nêm từ đậu tương.\n- 噌汁 (misosh"
+  },
+  "comments": [
+    {
+      "id": "219164",
+      "lang": "vi",
+      "content_html": "<p>tăng khẩu phần ăn vào ngày chủ nhật</p>",
+      "content_text": "tăng khẩu phần ăn vào ngày chủ nhật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219165",
+      "lang": "vi",
+      "content_html": "<p>MỒM của đứa CHÁU CHẮT ỒN ÀO thật sự</p>",
+      "content_text": "MỒM của đứa CHÁU CHẮT ỒN ÀO thật sự",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

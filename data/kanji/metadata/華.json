@@ -1,0 +1,91 @@
+{
+  "kanji": "華",
+  "meta": {
+    "weight": 2298,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "ケ"
+    ],
+    "kun": [
+      "はな"
+    ],
+    "am_han": "HOA, HÓA"
+  },
+  "meaning": {
+    "vi": "lộng lẫy, Hoa, cánh hoa, tỏa sáng, ánh, phô trương, sặc sỡ, đồng tính",
+    "en": "splendor, flower, petal, shine, luster, ostentatious, showy, gay, gorgeous"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/華.svg"
+  },
+  "frequency": 1085,
+  "examples": [
+    "豪華",
+    "中華",
+    "華",
+    "華やか",
+    "華麗"
+  ],
+  "explanation": {
+    "id": "688",
+    "text": "華 (đọc là \"ka\" hoặc \"hana\") có nghĩa là \"hoa\", \"đẹp\", dùng để chỉ sự rực rỡ, tinh tế và vẻ đẹp.  \nVí dụ:  \n- 華やか (hanayaka): Rực rỡ, lộng lẫy.  \n- 華食 (kashoku): Ẩm thực cao cấp, món ăn trang"
+  },
+  "comments": [
+    {
+      "id": "156547",
+      "lang": "vi",
+      "content_html": "<p>Thảo Nhất- Thảo Nhị- Cổn đè Thảo Nhị</p>",
+      "content_text": "Thảo Nhất- Thảo Nhị- Cổn đè Thảo Nhị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156548",
+      "lang": "vi",
+      "content_html": "<p>5 gạch ngang, 5 gạch sọc</p>",
+      "content_text": "5 gạch ngang, 5 gạch sọc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156549",
+      "lang": "vi",
+      "content_html": "<p>bông hoa cỏ rủ 垂 xuống.. nhìn thật hoa mỹ</p>",
+      "content_text": "bông hoa cỏ rủ 垂 xuống.. nhìn thật hoa mỹ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "胃",
+  "meta": {
+    "weight": 2181,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [],
+    "am_han": "VỊ"
+  },
+  "meaning": {
+    "vi": "dạ dày",
+    "en": "stomach, paunch, crop, craw"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/胃.svg"
+  },
+  "frequency": 1647,
+  "examples": [
+    "胃",
+    "胃腸",
+    "胃袋",
+    "胃がん",
+    "胃潰瘍"
+  ],
+  "explanation": {
+    "id": "173",
+    "text": "胃 (đọc là \"i\") có nghĩa là \"dạ dày\", chỉ bộ phận tiêu hóa trong cơ thể người và động vật.  \nVí dụ:  \n- 胃炎 (ien): Viêm dạ dày.  \n- 胃薬 (igusuri): Thuốc dạ dày.  \n- 胃腸 (ichou): Dạ dày và ruột, "
+  },
+  "comments": [
+    {
+      "id": "156295",
+      "lang": "vi",
+      "content_html": "<p>Làm RUỘNG( 田) đến tận lúc TRĂNG(月) lên quên cả ăn rất dễ bị đau DẠ DÀY(胃).</p>",
+      "content_text": "Làm RUỘNG( 田) đến tận lúc TRĂNG(月) lên quên cả ăn rất dễ bị đau DẠ DÀY(胃).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156296",
+      "lang": "vi",
+      "content_html": "<p>Làm ruộng vào buổi tối sẽ bị đau dạ dày</p>",
+      "content_text": "Làm ruộng vào buổi tối sẽ bị đau dạ dày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156297",
+      "lang": "vi",
+      "content_html": "<p>1 tháng làm ruộng mới nuôi đủ cái dạ dày</p>",
+      "content_text": "1 tháng làm ruộng mới nuôi đủ cái dạ dày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

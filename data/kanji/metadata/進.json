@@ -1,0 +1,108 @@
+{
+  "kanji": "進",
+  "meta": {
+    "weight": 2666,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "すす.む",
+      "すす.める"
+    ],
+    "am_han": "TIẾN"
+  },
+  "meaning": {
+    "vi": "tiến lên",
+    "en": "advance, proceed, progress, promote"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/進.svg"
+  },
+  "frequency": 142,
+  "examples": [
+    "推進",
+    "促進",
+    "進む",
+    "進行",
+    "進化"
+  ],
+  "explanation": {
+    "id": "4134",
+    "text": "進 (đọc là \"shin\") có nghĩa là \"tiến lên\", \"tiến bộ\" để chỉ các hành động liên quan đến việc phát triển, tiến tới hoặc di chuyển về phía trước.\n\nVí dụ:\n- 進級 (shinkyū): Thăng cấp, lên lớp.\n- 進"
+  },
+  "comments": [
+    {
+      "id": "36988",
+      "lang": "vi",
+      "content_html": "<p>Con chim đang <strong>tiến </strong>về phía trước.</p>",
+      "content_text": "Con chim đang\ntiến\nvề phía trước.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4d86b15a4.png",
+      "image_path": "assets/images/進_1.png",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157351",
+      "lang": "vi",
+      "content_html": "<p>Chim đi lên tiến tới</p>",
+      "content_text": "Chim đi lên tiến tới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157352",
+      "lang": "vi",
+      "content_html": "<p>Con chim bị xước mà vẫn tiến lên</p>",
+      "content_text": "Con chim bị xước mà vẫn tiến lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157353",
+      "lang": "vi",
+      "content_html": "<p>Con chim Chĩ đuôi ngắn mà cứ đi xa thì có ngày cũng TIẾN hoá thành chim cánh cụt</p>",
+      "content_text": "Con chim Chĩ đuôi ngắn mà cứ đi xa thì có ngày cũng TIẾN hoá thành chim cánh cụt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

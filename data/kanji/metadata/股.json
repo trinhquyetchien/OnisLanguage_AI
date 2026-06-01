@@ -1,0 +1,90 @@
+{
+  "kanji": "股",
+  "meta": {
+    "weight": 2171,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "また",
+      "もも"
+    ],
+    "am_han": "CỔ"
+  },
+  "meaning": {
+    "vi": "đùi, đáy quần",
+    "en": "thigh, crotch"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/股.svg"
+  },
+  "frequency": 2212,
+  "examples": [
+    "股",
+    "股間",
+    "股関節",
+    "二股"
+  ],
+  "explanation": {
+    "id": "2296",
+    "text": "股 (đọc là \"ko\") có nghĩa là \"cẳng chân\", \"cổ phần\" hoặc \"phân đoạn\" để chỉ các phần cơ thể liên quan đến chân hoặc các phần sở hữu trong kinh doanh.  \nVí dụ:  \n- 股間 (kokan): Khu vực giữa hai"
+  },
+  "comments": [
+    {
+      "id": "156271",
+      "lang": "vi",
+      "content_html": "<p>Cổ của Nguyệt to bằng đùi nên làm kẻ Thù khiếp sợ.</p>",
+      "content_text": "Cổ của Nguyệt to bằng đùi nên làm kẻ Thù khiếp sợ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156272",
+      "lang": "vi",
+      "content_html": "<p>Cái Đùi của kẻ thù to bằng cái Cổ em Nguyệt</p>",
+      "content_text": "Cái Đùi của kẻ thù to bằng cái Cổ em Nguyệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156273",
+      "lang": "vi",
+      "content_html": "<p>Chị Nguyệt thích ăn thịt kẻ thù , nhất là phần CỔ háng ( bắp bẹn )</p>",
+      "content_text": "Chị Nguyệt thích ăn thịt kẻ thù , nhất là phần CỔ háng ( bắp bẹn )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

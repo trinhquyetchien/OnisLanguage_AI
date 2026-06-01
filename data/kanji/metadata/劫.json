@@ -1,0 +1,69 @@
+{
+  "kanji": "劫",
+  "meta": {
+    "weight": 349,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ゴウ",
+      "キョウ"
+    ],
+    "kun": [
+      "おびや.かす"
+    ],
+    "am_han": "KIẾP"
+  },
+  "meaning": {
+    "vi": "mối đe dọa, tuổi dài",
+    "en": "threat, long ages"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/劫.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2601",
+    "text": "劫 (đọc là \"kyō\") có nghĩa là \"cướp\", \"gây rối\" hoặc chỉ các thảm họa, tai ương. \n\nVí dụ:\n- 劫持 (kōji): Bắt cóc, chiếm đoạt.\n- 大劫 (daikyō): Đại nạn, thảm họa lớn.\n- 火劫 (kagyō): Hỏa hoạn, cháy "
+  },
+  "comments": [
+    {
+      "id": "218988",
+      "lang": "vi",
+      "content_html": "<p>Dù có là KIẾP nào, quá KHỨ hay hiện tại thì đều phải nỗ LỰC</p>",
+      "content_text": "Dù có là KIẾP nào, quá KHỨ hay hiện tại thì đều phải nỗ LỰC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218989",
+      "lang": "vi",
+      "content_html": "<p>Quá khứ 去 làm lực 力 sỹ, hiện tại cứ như đã là câu chuyện của KIẾP trước</p>",
+      "content_text": "Quá khứ 去 làm lực 力 sỹ, hiện tại cứ như đã là câu chuyện của KIẾP trước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

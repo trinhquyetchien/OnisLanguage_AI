@@ -1,0 +1,50 @@
+{
+  "kanji": "蕨",
+  "meta": {
+    "weight": 2345,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケツ"
+    ],
+    "kun": [
+      "わらび"
+    ],
+    "am_han": "QUYẾT"
+  },
+  "meaning": {
+    "vi": "bracken, fernbrake",
+    "en": "bracken, fernbrake"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/蕨.svg"
+  },
+  "frequency": 2307,
+  "examples": [],
+  "explanation": {
+    "id": "8427",
+    "text": "蕨 (đọc là \"warabi\") có nghĩa là \"dương xỉ\", chỉ loại cây dương xỉ thường thấy trong tự nhiên. \n\nVí dụ:\n- 蕨餅 (warabimochi): Bánh làm từ bột dương xỉ, một loại bánh truyền thống của Nhật Bản.\n"
+  },
+  "comments": [
+    {
+      "id": "156604",
+      "lang": "vi",
+      "content_html": "<p>Loại thảo mộc QUYẾT mọc Ngược lên ở nơi khiếm Khuyết (khe hở) của Vách núi</p>",
+      "content_text": "Loại thảo mộc QUYẾT mọc Ngược lên ở nơi khiếm Khuyết (khe hở) của Vách núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

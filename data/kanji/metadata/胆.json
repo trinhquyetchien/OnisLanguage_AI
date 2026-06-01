@@ -1,0 +1,89 @@
+{
+  "kanji": "胆",
+  "meta": {
+    "weight": 2182,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "きも"
+    ],
+    "am_han": "ĐẢM"
+  },
+  "meaning": {
+    "vi": "túi mật, can đảm, nhổ, dây thần kinh",
+    "en": "gall bladder, courage, pluck, nerve"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/胆.svg"
+  },
+  "frequency": 1449,
+  "examples": [
+    "大胆",
+    "落胆",
+    "魂胆",
+    "胆"
+  ],
+  "explanation": {
+    "id": "5156",
+    "text": "胆 (đọc là \"tan\") có nghĩa là \"gan\", thường chỉ về nội tạng hoặc biểu tượng cho dũng khí, sức mạnh tinh thần. \n\nVí dụ:\n- 胆力 (tanryoku): Dũng cảm, gan dạ.\n- 胆嚢 (tan'nou): Túi mật.\n- 大胆 (daitan"
+  },
+  "comments": [
+    {
+      "id": "156298",
+      "lang": "vi",
+      "content_html": "<p>Người can đảm tháng ngày như một ko sợ</p>",
+      "content_text": "Người can đảm tháng ngày như một ko sợ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156299",
+      "lang": "vi",
+      "content_html": "<p>1 ngày ở trên mặt trăng - thật can đảm</p>",
+      "content_text": "1 ngày ở trên mặt trăng - thật can đảm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156300",
+      "lang": "vi",
+      "content_html": "<p>Can đảm là 1 tháng ngày dài</p>",
+      "content_text": "Can đảm là 1 tháng ngày dài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

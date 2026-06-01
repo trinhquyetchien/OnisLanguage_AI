@@ -1,0 +1,106 @@
+{
+  "kanji": "藤",
+  "meta": {
+    "weight": 2360,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ",
+      "ドウ"
+    ],
+    "kun": [
+      "ふじ"
+    ],
+    "am_han": "ĐẰNG"
+  },
+  "meaning": {
+    "vi": "hoa tử đằng",
+    "en": "wisteria"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/藤.svg"
+  },
+  "frequency": 291,
+  "examples": [
+    "藤",
+    "葛藤",
+    "藤本"
+  ],
+  "explanation": {
+    "id": "5861",
+    "text": "藤 (đọc là \"tō\" hoặc \"fuji\") có nghĩa là \"nho\", chỉ loại cây leo có hoa hình chùm thường thấy trong tự nhiên. \n\nVí dụ:\n- 藤棚 (fujidana): Giàn nho, nơi trồng nho.\n- 藤花 (fuji-bana): Hoa nho, thư"
+  },
+  "comments": [
+    {
+      "id": "156630",
+      "lang": "vi",
+      "content_html": "<p>hai người ngồi dưới ánh trắng và ngắm hoa tử đằng qua mặ t nuớc</p>",
+      "content_text": "hai người ngồi dưới ánh trắng và ngắm hoa tử đằng qua mặ t nuớc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156631",
+      "lang": "vi",
+      "content_html": "<p>bụi hoa tử đằng chỉ mọc vào t2(月), t4(水) ko phải thứ 3(火)</p>",
+      "content_text": "bụi hoa tử đằng chỉ mọc vào t2(月), t4(水) ko phải thứ 3(火)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156632",
+      "lang": "vi",
+      "content_html": "<p>Đằng kia cô Thảo hạ lệnh cho cô Nguyệt đẩy 2 người xuống nước từ núi FUJI</p>",
+      "content_text": "Đằng kia cô Thảo hạ lệnh cho cô Nguyệt đẩy 2 người xuống nước từ núi FUJI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221633",
+      "lang": "vi",
+      "content_html": "<p>Chữ Hán 藤 (đọc là \"fuji\") có nghĩa là \"hoa tử đằng\" thường được dùng để chỉ loài cây này và thường được dùng trong tên gọi các địa danh, sản phẩm, hoặc tên người có liên quan đến nó.</p><p>Ví dụ:</p><ol><li><strong>富士山 (Fuji-san)</strong>: Núi Phú Sĩ.</li><li><strong>藤原 (Fujiwara)</strong>: Một họ trong tiếng Nhật có thể dịch là \"người trồng hoa tử đằng\"</li></ol>",
+      "content_text": "Chữ Hán 藤 (đọc là \"fuji\") có nghĩa là \"hoa tử đằng\" thường được dùng để chỉ loài cây này và thường được dùng trong tên gọi các địa danh, sản phẩm, hoặc tên người có liên quan đến nó.\nVí dụ:\n富士山 (Fuji-san)\n: Núi Phú Sĩ.\n藤原 (Fujiwara)\n: Một họ trong tiếng Nhật có thể dịch là \"người trồng hoa tử đằng\"",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "kanji": "県",
+  "meta": {
+    "weight": 1844,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "か.ける"
+    ],
+    "am_han": "HUYỆN"
+  },
+  "meaning": {
+    "vi": "huyện, tỉnh",
+    "en": "prefecture"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/県.svg"
+  },
+  "frequency": 140,
+  "examples": [
+    "県",
+    "都道府県",
+    "県内",
+    "県民",
+    "県立"
+  ],
+  "explanation": {
+    "id": "2164",
+    "text": "県 (đọc là \"ken\") có nghĩa là \"tỉnh\" trong tiếng Nhật, chỉ các đơn vị hành chính cấp tỉnh.  \nVí dụ:  \n- 県庁 (kenchō): Tòa nhà chính quyền tỉnh.  \n- 山形県 (Yamagata-ken): Tỉnh Yamagata.  \n- 県民 (k"
+  },
+  "comments": [
+    {
+      "id": "36970",
+      "lang": "vi",
+      "content_html": "<p>Quốc gia đang để mắt (目) tới các <strong>tỉnh </strong>(小) nhỏ.</p>",
+      "content_text": "Quốc gia đang để mắt (目) tới các\ntỉnh\n(小) nhỏ.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4bb213b7a.jpg",
+      "image_path": "assets/images/県_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155565",
+      "lang": "vi",
+      "content_html": "<p>quan HUYỆN ngồi trên ghế NHỎ có 3 chân và chỉ dùng 1 con MẮT để phán xử.</p>",
+      "content_text": "quan HUYỆN ngồi trên ghế NHỎ có 3 chân và chỉ dùng 1 con MẮT để phán xử.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155566",
+      "lang": "vi",
+      "content_html": "<p>quan huyện dùng mắt quan xát các  vùng nhỏ</p>",
+      "content_text": "quan huyện dùng mắt quan xát các  vùng nhỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155567",
+      "lang": "vi",
+      "content_html": "<p>quan HUYỆN ngồi trên ghế phán sử.</p>",
+      "content_text": "quan HUYỆN ngồi trên ghế phán sử.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

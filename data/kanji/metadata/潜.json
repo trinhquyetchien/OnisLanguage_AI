@@ -1,0 +1,94 @@
+{
+  "kanji": "潜",
+  "meta": {
+    "weight": 1619,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "ひそ.む",
+      "もぐ.る",
+      "かく.れる",
+      "くぐ.る",
+      "ひそ.める"
+    ],
+    "am_han": "TIỀM, TÈM, TỈM"
+  },
+  "meaning": {
+    "vi": "nhấn chìm, che giấu, ẩn, hạ thấp (giọng nói), im lặng",
+    "en": "submerge, conceal, hide, lower (voice), hush"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/潜.svg"
+  },
+  "frequency": 1329,
+  "examples": [
+    "潜在",
+    "潜水艦",
+    "潜入",
+    "潜む",
+    "潜水"
+  ],
+  "explanation": {
+    "id": "4519",
+    "text": "潜 (đọc là \"sen\" hoặc \"shin\") có nghĩa là \"tiềm ẩn\", \"ẩn sâu\" để chỉ các trạng thái hoặc hành động liên quan đến sự ẩn giấu, không hiển hiện.\n\nVí dụ:\n- 潜水 (sensui): Lặn, hoạt động dưới nước.\n"
+  },
+  "comments": [
+    {
+      "id": "155094",
+      "lang": "vi",
+      "content_html": "<p>2 ông chồng đứng cùng nhau dưới nước Cả ngày Tiềm ẩn nhiều nguy cơ</p>",
+      "content_text": "2 ông chồng đứng cùng nhau dưới nước Cả ngày Tiềm ẩn nhiều nguy cơ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155095",
+      "lang": "vi",
+      "content_html": "<p>2 ông CHỒNG rủ nhau LẶN dưới NƯỚC cả NGÀY</p>",
+      "content_text": "2 ông CHỒNG rủ nhau LẶN dưới NƯỚC cả NGÀY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155096",
+      "lang": "vi",
+      "content_html": "<p>(ở ngoài trái đất) cái gì thay THẾ được nước (THUỶ) thì vẫn còn Tiềm ẩn</p>",
+      "content_text": "(ở ngoài trái đất) cái gì thay THẾ được nước (THUỶ) thì vẫn còn Tiềm ẩn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

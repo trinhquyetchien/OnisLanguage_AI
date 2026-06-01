@@ -1,0 +1,95 @@
+{
+  "kanji": "略",
+  "meta": {
+    "weight": 1789,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リャク"
+    ],
+    "kun": [
+      "ほぼ",
+      "はぶ.く",
+      "おか.す",
+      "おさ.める",
+      "はかりごと",
+      "はか.る"
+    ],
+    "am_han": "LƯỢC"
+  },
+  "meaning": {
+    "vi": "giản lược, viết tắt",
+    "en": "abbreviation, omission, outline, shorten, capture, plunder"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/略.svg"
+  },
+  "frequency": 774,
+  "examples": [
+    "戦略",
+    "略",
+    "侵略",
+    "省略",
+    "中略"
+  ],
+  "explanation": {
+    "id": "8046",
+    "text": "略 (đọc là \"ryaku\") có nghĩa là \"tóm tắt\", \"lược bớt\" để chỉ các hành động liên quan đến việc rút gọn hoặc lược bỏ thông tin không cần thiết.\n\nVí dụ:\n- 略語 (ryakugo): Từ viết tắt.\n- 略式 (ryakus"
+  },
+  "comments": [
+    {
+      "id": "155432",
+      "lang": "vi",
+      "content_html": "<p>Các vị đang suy tính chiến lược ngoài ruộng</p>",
+      "content_text": "Các vị đang suy tính chiến lược ngoài ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155433",
+      "lang": "vi",
+      "content_html": "<p>LƯỢC bỏ bớt CÁC mảnh RUỘNG (điền) đi.</p>",
+      "content_text": "LƯỢC bỏ bớt CÁC mảnh RUỘNG (điền) đi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155434",
+      "lang": "vi",
+      "content_html": "<p>các vị tóm lược xem có bao nhiu ruộng</p>",
+      "content_text": "các vị tóm lược xem có bao nhiu ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

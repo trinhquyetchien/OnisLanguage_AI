@@ -1,0 +1,91 @@
+{
+  "kanji": "包",
+  "meta": {
+    "weight": 372,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "つつ.む",
+      "くる.む"
+    ],
+    "am_han": "BAO"
+  },
+  "meaning": {
+    "vi": "bao bọc, đóng gói",
+    "en": "wrap, pack up, cover, conceal"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/包.svg"
+  },
+  "frequency": 954,
+  "examples": [
+    "包括",
+    "包装",
+    "包み",
+    "包丁",
+    "包囲"
+  ],
+  "explanation": {
+    "id": "7145",
+    "text": "包 (đọc là \"hō\" hoặc \"baku\") có nghĩa là \"bao bọc\", \"gói lại\" để chỉ các hành động liên quan đến việc bao phủ hoặc gói ghém một vật gì đó.\n\nVí dụ:\n- 包み (tsutsumi): Gói, bọc.\n- 包帯 (houtai): Bă"
+  },
+  "comments": [
+    {
+      "id": "152130",
+      "lang": "vi",
+      "content_html": "<p>Bao bọc cơ thể bằng cách ôm lấy bản thân</p>",
+      "content_text": "Bao bọc cơ thể bằng cách ôm lấy bản thân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152131",
+      "lang": "vi",
+      "content_html": "<p>Bao 勹 bọc sự ích kỉ 己 thì vẫn là bao包</p>",
+      "content_text": "Bao 勹 bọc sự ích kỉ 己 thì vẫn là bao包",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152132",
+      "lang": "vi",
+      "content_html": "<p>BAO BỌC nhiều quá sẽ bị TỰ KỈ.</p>",
+      "content_text": "BAO BỌC nhiều quá sẽ bị TỰ KỈ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

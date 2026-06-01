@@ -1,0 +1,90 @@
+{
+  "kanji": "憧",
+  "meta": {
+    "weight": 1019,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ",
+      "トウ",
+      "ドウ"
+    ],
+    "kun": [
+      "あこが.れる"
+    ],
+    "am_han": "SUNG, TRÁNG"
+  },
+  "meaning": {
+    "vi": "khao khát, ngưỡng mộ, yêu mến",
+    "en": "yearn after, long for, aspire to, admire, adore"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/憧.svg"
+  },
+  "frequency": 2259,
+  "examples": [
+    "憧れ",
+    "憧れる",
+    "憧憬"
+  ],
+  "explanation": {
+    "id": "5913",
+    "text": "憧 (đọc là \"adou\" hoặc \"shou\") có nghĩa là \"mơ ước\", \"khát khao\" để chỉ cảm giác mong muốn hoặc ngưỡng mộ điều gì đó.\n\nVí dụ:\n- 憧れ (akogare): Sự ngưỡng mộ, khát khao.\n- 憧れる (akogareru): Mơ ướ"
+  },
+  "comments": [
+    {
+      "id": "153715",
+      "lang": "vi",
+      "content_html": "<p>TÂM của nhi ĐỒNG luôn mong ước cuộc sống luôn SUNG túc...</p>",
+      "content_text": "TÂM của nhi ĐỒNG luôn mong ước cuộc sống luôn SUNG túc...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153716",
+      "lang": "vi",
+      "content_html": "<p>Con tim dựng lên mơ ước trở về tuổi nhi đồng</p>",
+      "content_text": "Con tim dựng lên mơ ước trở về tuổi nhi đồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153717",
+      "lang": "vi",
+      "content_html": "<p>Khi còn là nhi ĐỒNG, con TIM rất hay mơ ước</p>",
+      "content_text": "Khi còn là nhi ĐỒNG, con TIM rất hay mơ ước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

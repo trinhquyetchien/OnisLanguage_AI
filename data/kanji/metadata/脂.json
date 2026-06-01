@@ -1,0 +1,90 @@
+{
+  "kanji": "脂",
+  "meta": {
+    "weight": 2191,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "あぶら"
+    ],
+    "am_han": "CHI"
+  },
+  "meaning": {
+    "vi": "mỡ",
+    "en": "fat, grease, tallow, lard, rosin, gum, tar"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/脂.svg"
+  },
+  "frequency": 1548,
+  "examples": [
+    "脂肪",
+    "脂",
+    "樹脂",
+    "脂質",
+    "脂肪酸"
+  ],
+  "explanation": {
+    "id": "3134",
+    "text": "脂 (đọc là \"shi\" hoặc \"abura\") có nghĩa là \"mỡ\", \"dầu\" chỉ các chất béo hoặc dầu ăn trong thực phẩm và các nghĩa liên quan khác.  \nVí dụ:  \n- 脂肪 (shibō): Chất béo, mỡ.  \n- 脂質 (shishitsu): Lip"
+  },
+  "comments": [
+    {
+      "id": "156323",
+      "lang": "vi",
+      "content_html": "<p>Chị CHI khi trănglên hay mang thịt ba CHỈ ra rán lấy mỡ</p>",
+      "content_text": "Chị CHI khi trănglên hay mang thịt ba CHỈ ra rán lấy mỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156324",
+      "lang": "vi",
+      "content_html": "<p>chị nguyệt chỉ ăn suốt ngày , hèn CHI người toàn mỡ</p>",
+      "content_text": "chị nguyệt chỉ ăn suốt ngày , hèn CHI người toàn mỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156325",
+      "lang": "vi",
+      "content_html": "<p>Từ thứ thứ 2 đến chủ nhật ăn cơm bằng thìa ít mỡ xuống Chi. Toàn sáng tác ra kiểu tào lao như này mà nhớ lâu phết</p>",
+      "content_text": "Từ thứ thứ 2 đến chủ nhật ăn cơm bằng thìa ít mỡ xuống Chi. Toàn sáng tác ra kiểu tào lao như này mà nhớ lâu phết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

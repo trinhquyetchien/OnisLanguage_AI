@@ -1,0 +1,91 @@
+{
+  "kanji": "素",
+  "meta": {
+    "weight": 2059,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ",
+      "ス"
+    ],
+    "kun": [
+      "もと"
+    ],
+    "am_han": "TỐ"
+  },
+  "meaning": {
+    "vi": "sơ cấp, nguyên tắc, khỏa thân, không che",
+    "en": "elementary, principle, naked, uncovered"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/素.svg"
+  },
+  "frequency": 660,
+  "examples": [
+    "要素",
+    "素晴らしい",
+    "素敵",
+    "素材",
+    "素直"
+  ],
+  "explanation": {
+    "id": "4646",
+    "text": "素 (đọc là \"so\") có nghĩa là \"nguyên liệu\", \"tố chất\" hoặc \"thô sơ\", để chỉ các thành phần cơ bản hoặc trạng thái chưa qua xử lý.  \nVí dụ:  \n- 素材 (sozai): Nguyên liệu, vật liệu.  \n- 素直 (sunao"
+  },
+  "comments": [
+    {
+      "id": "156000",
+      "lang": "vi",
+      "content_html": "<p>CHỈ những người có TỐ chất mới làm được ông CHỦ</p>",
+      "content_text": "CHỈ những người có TỐ chất mới làm được ông CHỦ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156001",
+      "lang": "vi",
+      "content_html": "<p>CHỈ thích ăn SINH TỐ</p>",
+      "content_text": "CHỈ thích ăn SINH TỐ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156002",
+      "lang": "vi",
+      "content_html": "<p>Có thể làm Chủ được sợi Chỉ này, ngươi đúng là có Tố chất đó</p>",
+      "content_text": "Có thể làm Chủ được sợi Chỉ này, ngươi đúng là có Tố chất đó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

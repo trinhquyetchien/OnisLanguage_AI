@@ -1,0 +1,85 @@
+{
+  "kanji": "郊",
+  "meta": {
+    "weight": 2701,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [],
+    "am_han": "GIAO"
+  },
+  "meaning": {
+    "vi": "ngoại ô",
+    "en": "outskirts, suburbs, rural area"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/郊.svg"
+  },
+  "frequency": 1304,
+  "examples": [
+    "郊外",
+    "近郊"
+  ],
+  "explanation": {
+    "id": "2565",
+    "text": "郊 (đọc là \"kō\") có nghĩa là \"vùng ngoại ô\", \"ngoại thành\" để chỉ các khu vực nằm ngoài trung tâm thành phố.\n\nVí dụ:\n- 郊外 (kōgai): Vùng ngoại ô.\n- 郊遊 (kōyū): Đi dã ngoại, tham quan vùng ngoại"
+  },
+  "comments": [
+    {
+      "id": "157439",
+      "lang": "vi",
+      "content_html": "<p>Giao nhau giữa bức tường thành là vùng ngoại ô</p>",
+      "content_text": "Giao nhau giữa bức tường thành là vùng ngoại ô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157440",
+      "lang": "vi",
+      "content_html": "<p>Đi giao bò.</p>",
+      "content_text": "Đi giao bò.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157441",
+      "lang": "vi",
+      "content_html": "<p>bố đi giao lưu vùng ngoại ô</p>",
+      "content_text": "bố đi giao lưu vùng ngoại ô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

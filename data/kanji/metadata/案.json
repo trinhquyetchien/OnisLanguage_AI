@@ -1,0 +1,107 @@
+{
+  "kanji": "案",
+  "meta": {
+    "weight": 1350,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アン"
+    ],
+    "kun": [
+      "つくえ"
+    ],
+    "am_han": "ÁN"
+  },
+  "meaning": {
+    "vi": "kế hoạch, đề án",
+    "en": "plan, suggestion, draft, ponder, fear, proposition, idea, expectation, worry, table, bench"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/案.svg"
+  },
+  "frequency": 206,
+  "examples": [
+    "案",
+    "提案",
+    "案内",
+    "法案",
+    "案件"
+  ],
+  "explanation": {
+    "id": "100",
+    "text": "案 (đọc là \"an\") có nghĩa là \"kế hoạch\", \"dự thảo\" để chỉ các đề xuất, ý tưởng hoặc kế hoạch được đưa ra để xem xét hoặc thực hiện.\n\nVí dụ:\n- 案件 (anken): Vấn đề, trường hợp.\n- 提案 (teian): Đề "
+  },
+  "comments": [
+    {
+      "id": "37330",
+      "lang": "vi",
+      "content_html": "<p>Bên gốc cây (木) người phụ nữ an (安) nhàn lập <strong>đề án</strong>.</p>",
+      "content_text": "Bên gốc cây (木) người phụ nữ an (安) nhàn lập\nđề án\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe6f844524.jpg",
+      "image_path": "assets/images/案_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154509",
+      "lang": "vi",
+      "content_html": "<p>Dự ÁN 案 AN 安 toàn là trồng CÂY 木</p>",
+      "content_text": "Dự ÁN 案 AN 安 toàn là trồng CÂY 木",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154510",
+      "lang": "vi",
+      "content_html": "<p>Dự Án của người phụ nữ là đặt cây ở trong nhà</p>",
+      "content_text": "Dự Án của người phụ nữ là đặt cây ở trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154511",
+      "lang": "vi",
+      "content_html": "<p>Đứng Yên được trên Cây là phải có phương Án trước rồi</p>",
+      "content_text": "Đứng Yên được trên Cây là phải có phương Án trước rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

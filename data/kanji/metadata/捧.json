@@ -1,0 +1,53 @@
+{
+  "kanji": "捧",
+  "meta": {
+    "weight": 1104,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "ささ.げる"
+    ],
+    "am_han": "PHỦNG"
+  },
+  "meaning": {
+    "vi": "nâng lên, cho đi, dâng hiến, hy sinh, hiến dâng",
+    "en": "lift up, give, offer, consecrate, sacrifice, dedicate"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/捧.svg"
+  },
+  "frequency": 2286,
+  "examples": [
+    "捧げる",
+    "捧ぐ"
+  ],
+  "explanation": {
+    "id": "7175",
+    "text": "捧 (đọc là \"hō\") có nghĩa là \"dâng lên\", \"cầm\" để chỉ hành động nâng niu hoặc dâng một vật gì đó một cách trang trọng.  \nVí dụ:  \n- 捧げる (sagageru): Dâng lên, cống hiến.  \n- 捧げ物 (sagagemono): "
+  },
+  "comments": [
+    {
+      "id": "153934",
+      "lang": "vi",
+      "content_html": "<p>bàn tay của 3 người dâng con bò lên cống hiến</p>",
+      "content_text": "bàn tay của 3 người dâng con bò lên cống hiến",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

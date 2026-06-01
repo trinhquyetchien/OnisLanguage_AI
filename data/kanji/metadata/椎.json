@@ -1,0 +1,92 @@
+{
+  "kanji": "椎",
+  "meta": {
+    "weight": 1385,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ツイ",
+      "スイ"
+    ],
+    "kun": [
+      "つち",
+      "う.つ"
+    ],
+    "am_han": "CHUY"
+  },
+  "meaning": {
+    "vi": "chinquapin, vồ, xương sống",
+    "en": "chinquapin, mallet, spine"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/椎.svg"
+  },
+  "frequency": 1911,
+  "examples": [
+    "椎",
+    "脊椎",
+    "椎茸",
+    "頚椎",
+    "脊椎動物"
+  ],
+  "explanation": {
+    "id": "5448",
+    "text": "椎 (đọc là \"tsui\") có nghĩa là \"cây sồi\", thường chỉ đến các loại cây hoặc bộ phận của cây. Trong một số ngữ cảnh, nó cũng có thể chỉ đến khớp xương chẩm.\n\nVí dụ:\n- 椎茸 (shiitake): Nấm hương, "
+  },
+  "comments": [
+    {
+      "id": "154566",
+      "lang": "vi",
+      "content_html": "<p>Dùng cây gỗ đánh con chim (ChUy)</p>",
+      "content_text": "Dùng cây gỗ đánh con chim (ChUy)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154567",
+      "lang": "vi",
+      "content_html": "<p>dùng cây đánh vào cột sống con chim</p>",
+      "content_text": "dùng cây đánh vào cột sống con chim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154568",
+      "lang": "vi",
+      "content_html": "<p>Chim xem Cây như là cột sống của mình.</p>",
+      "content_text": "Chim xem Cây như là cột sống của mình.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

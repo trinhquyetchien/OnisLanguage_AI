@@ -1,0 +1,33 @@
+{
+  "kanji": "轡",
+  "meta": {
+    "weight": 2625,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "くつわ",
+      "たづな"
+    ],
+    "am_han": "BÍ"
+  },
+  "meaning": {
+    "vi": "bit (ngựa)",
+    "en": "bit (horse)"
+  },
+  "stroke": {
+    "count": 22,
+    "svg": "assets/svg/轡.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1879",
+    "text": "轡 (đọc là \"butsu\" hoặc \"kuruma\") có nghĩa là \"cương ngựa\", chỉ các thiết bị dùng để kiểm soát ngựa khi cưỡi. \n\nVí dụ:\n- 轡 (kuruma): Cương ngựa.\n- 鞍轡 (anbutsu): Yên và cương ngựa.\n- 縛轡 (babut"
+  },
+  "comments": []
+}

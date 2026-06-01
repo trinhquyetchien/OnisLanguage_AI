@@ -1,0 +1,93 @@
+{
+  "kanji": "染",
+  "meta": {
+    "weight": 1322,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "そ.める",
+      "そ.まる",
+      "し.みる",
+      "し.み"
+    ],
+    "am_han": "NHIỄM"
+  },
+  "meaning": {
+    "vi": "thuốc nhuộm, màu, sơn, vết, in",
+    "en": "dye, color, paint, stain, print"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/染.svg"
+  },
+  "frequency": 837,
+  "examples": [
+    "感染",
+    "汚染",
+    "馴染み",
+    "染め",
+    "染色"
+  ],
+  "explanation": {
+    "id": "4516",
+    "text": "染 (đọc là \"sen\" hoặc \"shaku\") có nghĩa là \"nhuộm\", \"thay đổi màu sắc\" để chỉ các hành động liên quan đến việc nhuộm vải hoặc làm biến đổi màu sắc của vật thể nào đó.\n\nVí dụ:\n- 染料 (senryō): T"
+  },
+  "comments": [
+    {
+      "id": "154454",
+      "lang": "vi",
+      "content_html": "<p>9 cái cây bị nhiễm độc bởi nước bẩn</p>",
+      "content_text": "9 cái cây bị nhiễm độc bởi nước bẩn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154455",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa Nhuộm phơi trên cây phải trải qua 9 lần nhúng nước mới ra sp</p>",
+      "content_text": "Thời xưa Nhuộm phơi trên cây phải trải qua 9 lần nhúng nước mới ra sp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154456",
+      "lang": "vi",
+      "content_html": "<p>Vẩy nước bẩn vào cây 9 lần làm nó nhiễm độc</p>",
+      "content_text": "Vẩy nước bẩn vào cây 9 lần làm nó nhiễm độc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "老",
+  "meta": {
+    "weight": 2147,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロウ"
+    ],
+    "kun": [
+      "お.いる",
+      "ふ.ける"
+    ],
+    "am_han": "LÃO"
+  },
+  "meaning": {
+    "vi": "già",
+    "en": "old man, old age, grow old"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/老.svg"
+  },
+  "frequency": 803,
+  "examples": [
+    "老人",
+    "老",
+    "老後",
+    "老舗",
+    "長老"
+  ],
+  "explanation": {
+    "id": "8351",
+    "text": "老 (đọc là \"rō\" hoặc \"o\") có nghĩa là \"già\", \"lão\", thường chỉ về tuổi tác hoặc sự già nua. \n\nVí dụ:  \n- 老人 (rōjin): Người già, người cao tuổi.  \n- 老化 (rōka): Sự lão hóa.  \n- 老舗 (shinise): Cử"
+  },
+  "comments": [
+    {
+      "id": "37202",
+      "lang": "vi",
+      "content_html": "<p>Ông <strong>lão </strong>cầm cây gậy còn bà <strong>lão </strong>thì đang ngồi.</p>",
+      "content_text": "Ông\nlão\ncầm cây gậy còn bà\nlão\nthì đang ngồi.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd45b2d24b.jpg",
+      "image_path": "assets/images/老_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156226",
+      "lang": "vi",
+      "content_html": "<p>già nên hay ăn bằng thìa</p>",
+      "content_text": "già nên hay ăn bằng thìa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156227",
+      "lang": "vi",
+      "content_html": "<p>Người già thì chống gậy xuống đất và ăn bằng thìa</p>",
+      "content_text": "Người già thì chống gậy xuống đất và ăn bằng thìa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156228",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI GIÀ sau quá trình ăn cơm bằng thìa thì cuối cùng cũng trở về với lòng đất</p>",
+      "content_text": "NGƯỜI GIÀ sau quá trình ăn cơm bằng thìa thì cuối cùng cũng trở về với lòng đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

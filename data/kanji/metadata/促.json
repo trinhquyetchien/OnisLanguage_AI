@@ -1,0 +1,90 @@
+{
+  "kanji": "促",
+  "meta": {
+    "weight": 196,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソク"
+    ],
+    "kun": [
+      "うなが.す"
+    ],
+    "am_han": "XÚC"
+  },
+  "meaning": {
+    "vi": "kích thích, thúc giục, ép buộc, yêu cầu, xúi giục",
+    "en": "stimulate, urge, press, demand, incite"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/促.svg"
+  },
+  "frequency": 998,
+  "examples": [
+    "促進",
+    "促す",
+    "販促",
+    "催促",
+    "督促"
+  ],
+  "explanation": {
+    "id": "4786",
+    "text": "促 (đọc là \"soku\") có nghĩa là \"thúc đẩy\", \"kích thích\" để chỉ các hành động liên quan đến việc thúc giục hoặc khuyến khích ai đó làm điều gì đó.\n\nVí dụ:\n- 促進 (sokushin): Thúc đẩy, khuyến khí"
+  },
+  "comments": [
+    {
+      "id": "151680",
+      "lang": "vi",
+      "content_html": "<p>Có đủ người thì Xúc tiến thôi!</p>",
+      "content_text": "Có đủ người thì Xúc tiến thôi!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151681",
+      "lang": "vi",
+      "content_html": "<p>Người co chân chạy gấp gáp vì bị thúc giục xúc tiến</p>",
+      "content_text": "Người co chân chạy gấp gáp vì bị thúc giục xúc tiến",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151682",
+      "lang": "vi",
+      "content_html": "<p>NHÂN ĐỨNG nhịp nhịp CÁI CHÂN --  để THÚC GIỤC</p>",
+      "content_text": "NHÂN ĐỨNG nhịp nhịp CÁI CHÂN --  để THÚC GIỤC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

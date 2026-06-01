@@ -1,0 +1,89 @@
+{
+  "kanji": "寧",
+  "meta": {
+    "weight": 744,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ネイ"
+    ],
+    "kun": [
+      "むし.ろ"
+    ],
+    "am_han": "NINH"
+  },
+  "meaning": {
+    "vi": "đúng hơn, tốt hơn là, yên bình, yên tĩnh",
+    "en": "rather, preferably, peaceful, quiet, tranquility"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/寧.svg"
+  },
+  "frequency": 1697,
+  "examples": [
+    "丁寧",
+    "寧",
+    "寧ろ",
+    "安寧"
+  ],
+  "explanation": {
+    "id": "6146",
+    "text": "寧 (đọc là \"nei\" hoặc \"nē\") có nghĩa là \"an nhàn\", \"yên tĩnh\", thường dùng để chỉ sự bình yên, thanh thản trong tâm hồn hoặc cuộc sống. \n\nVí dụ:\n- 寧静 (neisei): Sự yên tĩnh, thanh bình.\n- 寧ろ ("
+  },
+  "comments": [
+    {
+      "id": "153019",
+      "lang": "vi",
+      "content_html": "<p>Ninh như đinh đóng cột treo võng nằm yên tâm dưới mái nhà</p>",
+      "content_text": "Ninh như đinh đóng cột treo võng nằm yên tâm dưới mái nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153020",
+      "lang": "vi",
+      "content_html": "<p>An tâm nằm trên võng vì mái nhà đã đóng đinh cẩn thận</p>",
+      "content_text": "An tâm nằm trên võng vì mái nhà đã đóng đinh cẩn thận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153021",
+      "lang": "vi",
+      "content_html": "<p>cứ Đinh NINH là Tâm sẽ yên ổn khi nằm Võng dưới mái nhà</p>",
+      "content_text": "cứ Đinh NINH là Tâm sẽ yên ổn khi nằm Võng dưới mái nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

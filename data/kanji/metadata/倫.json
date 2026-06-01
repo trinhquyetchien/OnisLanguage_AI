@@ -1,0 +1,85 @@
+{
+  "kanji": "倫",
+  "meta": {
+    "weight": 218,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リン"
+    ],
+    "kun": [],
+    "am_han": "LUÂN"
+  },
+  "meaning": {
+    "vi": "đạo đức, đồng hành",
+    "en": "ethics, companion"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/倫.svg"
+  },
+  "frequency": 1322,
+  "examples": [
+    "倫理",
+    "不倫"
+  ],
+  "explanation": {
+    "id": "8156",
+    "text": "倫 (đọc là \"rin\") có nghĩa là \"đạo lý\", \"luân thường\" để chỉ các quy tắc đạo đức và mối quan hệ giữa người với người.  \nVí dụ:  \n- 倫理 (rinri): Đạo đức, luân lý.  \n- 倫理学 (rinrigaku): Khoa học "
+  },
+  "comments": [
+    {
+      "id": "151735",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI vào nhà SÁCH tìm đọc LUÂN lí.</p>",
+      "content_text": "NGƯỜI vào nhà SÁCH tìm đọc LUÂN lí.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151736",
+      "lang": "vi",
+      "content_html": "<p>Nhân cộng luân là loạn luân</p>",
+      "content_text": "Nhân cộng luân là loạn luân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151737",
+      "lang": "vi",
+      "content_html": "<p>侖 LÔN là nguyên nhân làm con người 亻 NHÂN làm điều BẤT LUÂN 不倫　(ngoại tình khi đã có gia đình)<br>Phân biệt với : 浮気　PHÙ KHÍ (ngoại tình khi đã có ny)</p>",
+      "content_text": "侖 LÔN là nguyên nhân làm con người 亻 NHÂN làm điều BẤT LUÂN 不倫　(ngoại tình khi đã có gia đình)\nPhân biệt với : 浮気　PHÙ KHÍ (ngoại tình khi đã có ny)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

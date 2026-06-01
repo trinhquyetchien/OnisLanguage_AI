@@ -1,0 +1,90 @@
+{
+  "kanji": "岸",
+  "meta": {
+    "weight": 795,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガン"
+    ],
+    "kun": [
+      "きし"
+    ],
+    "am_han": "NGẠN"
+  },
+  "meaning": {
+    "vi": "bờ biển, hải ngạn",
+    "en": "beach"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/岸.svg"
+  },
+  "frequency": 556,
+  "examples": [
+    "海岸",
+    "岸",
+    "沿岸",
+    "湾岸",
+    "対岸"
+  ],
+  "explanation": {
+    "id": "1207",
+    "text": "岸 (đọc là \"gan\") có nghĩa là \"bờ,\" thường chỉ các vùng đất tiếp giáp với nước như bờ sông, bờ biển. \n\nVí dụ:\n- 岸辺 (kihan): Bờ, bãi, ven sông.\n- 海岸 (kaigan): Bờ biển, vùng ven biển.\n- 山岸 (yam"
+  },
+  "comments": [
+    {
+      "id": "153149",
+      "lang": "vi",
+      "content_html": "<p>Bờ biển thì chẳng liên Can đến Núi</p>",
+      "content_text": "Bờ biển thì chẳng liên Can đến Núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153150",
+      "lang": "vi",
+      "content_html": "<p>Bờ 岸 là nơi va chạm 干 của sườn 厂 núi 山</p>",
+      "content_text": "Bờ 岸 là nơi va chạm 干 của sườn 厂 núi 山",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153151",
+      "lang": "vi",
+      "content_html": "<p>Hai bên bờ của dòng sông bao giờ cũng cao,thoai thoải như sườn núi và khố ráo.</p>",
+      "content_text": "Hai bên bờ của dòng sông bao giờ cũng cao,thoai thoải như sườn núi và khố ráo.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

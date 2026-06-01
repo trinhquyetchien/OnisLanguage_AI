@@ -1,0 +1,112 @@
+{
+  "kanji": "将",
+  "meta": {
+    "weight": 755,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ",
+      "ソウ"
+    ],
+    "kun": [
+      "まさ.に",
+      "はた",
+      "まさ",
+      "ひきい.る",
+      "もって"
+    ],
+    "am_han": "TƯƠNG"
+  },
+  "meaning": {
+    "vi": "tướng quân",
+    "en": "leader, commander, general, admiral, or, and again, soon, from now on, just about"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/将.svg"
+  },
+  "frequency": 634,
+  "examples": [
+    "将来",
+    "将棋",
+    "将軍",
+    "大将",
+    "将"
+  ],
+  "explanation": {
+    "id": "3784",
+    "text": "将 (đọc là \"shō\" hoặc \"suwaru\") có nghĩa là \"sẽ\", \"dẫn dắt\", chỉ hành động dẫn dắt hoặc một điều gì đó sẽ xảy ra trong tương lai. \n\nVí dụ:\n- 将軍 (shōgun): Tướng quân, người lãnh đạo quân sự.\n-"
+  },
+  "comments": [
+    {
+      "id": "37210",
+      "lang": "vi",
+      "content_html": "<p><strong>Tướng quân</strong> đang suy nghĩ về tương lai.</p>",
+      "content_text": "Tướng quân\nđang suy nghĩ về tương lai.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd4f0393e6.jpg",
+      "image_path": "assets/images/将_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153049",
+      "lang": "vi",
+      "content_html": "<p>Lấy móng tay cào vào tường thì TƯƠNG đối thốn</p>",
+      "content_text": "Lấy móng tay cào vào tường thì TƯƠNG đối thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190714",
+      "lang": "vi",
+      "content_html": "<p>bức tường đầy vết móng tay của thốn Tướng quân</p>",
+      "content_text": "bức tường đầy vết móng tay của thốn Tướng quân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "153050",
+      "lang": "vi",
+      "content_html": "<p>Buổi TỐI nằm trên GIƯỜNG nghĩ về TƯƠNG lai thật là THỐN</p>",
+      "content_text": "Buổi TỐI nằm trên GIƯỜNG nghĩ về TƯƠNG lai thật là THỐN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

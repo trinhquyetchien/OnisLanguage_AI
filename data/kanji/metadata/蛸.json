@@ -1,0 +1,68 @@
+{
+  "kanji": "蛸",
+  "meta": {
+    "weight": 2385,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "ショウ"
+    ],
+    "kun": [
+      "たこ"
+    ],
+    "am_han": "SAO"
+  },
+  "meaning": {
+    "vi": "bạch tuộc",
+    "en": "octopus"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/蛸.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5063",
+    "text": "蛸 (đọc là \"tako\") có nghĩa là \"bạch tuộc\". Đây là từ chỉ động vật nhuyễn thể sống dưới nước, thường được sử dụng trong ẩm thực Nhật Bản.\n\nVí dụ:\n- 蛸焼き (takoyaki): Bánh bạch tuộc, một món ăn "
+  },
+  "comments": [
+    {
+      "id": "220608",
+      "lang": "vi",
+      "content_html": "<p>éo hiểu Sao côn Trùng Biến thành Bạch Tuộc</p>",
+      "content_text": "éo hiểu Sao côn Trùng Biến thành Bạch Tuộc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220609",
+      "lang": "vi",
+      "content_html": "<p>con bạch tuộc là loại con trùng khi trăng lặng xuống thì xuất hiện rất nhiều.  蜆　 (しじみ) con trùng mà như con mắt người là con Trai</p>",
+      "content_text": "con bạch tuộc là loại con trùng khi trăng lặng xuống thì xuất hiện rất nhiều.  蜆　 (しじみ) con trùng mà như con mắt người là con Trai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

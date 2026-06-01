@@ -1,0 +1,88 @@
+{
+  "kanji": "詣",
+  "meta": {
+    "weight": 2476,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ",
+      "ゲイ"
+    ],
+    "kun": [
+      "けい.する",
+      "まい.る",
+      "いた.る",
+      "もう.でる"
+    ],
+    "am_han": "NGHỆ"
+  },
+  "meaning": {
+    "vi": "thăm một ngôi đền, đến nơi, đạt được",
+    "en": "visit a temple, arrive, attain"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/詣.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2025",
+    "text": "詣 (đọc là \"ei\") có nghĩa là \"thăm viếng\", thường chỉ việc đến một nơi thánh hoặc nơi trang nghiêm để cầu nguyện hoặc tôn kính.  \nVí dụ:  \n- 詣でる (moideru): Thăm viếng, đặc biệt là đến đền chù"
+  },
+  "comments": [
+    {
+      "id": "220685",
+      "lang": "vi",
+      "content_html": "<p>chỉ tay nói cho kẻ hành hương biết kia là NGHỆ an</p>",
+      "content_text": "chỉ tay nói cho kẻ hành hương biết kia là NGHỆ an",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220686",
+      "lang": "vi",
+      "content_html": "<p>nghe Nói là 7 Ngày có thể Hành Hương đến Nghệ an</p>",
+      "content_text": "nghe Nói là 7 Ngày có thể Hành Hương đến Nghệ an",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220687",
+      "lang": "vi",
+      "content_html": "<p>hậu nghệ tuy xl nhưng vẫn bắn rụng 7 cái mặt trời</p>",
+      "content_text": "hậu nghệ tuy xl nhưng vẫn bắn rụng 7 cái mặt trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

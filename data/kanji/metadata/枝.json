@@ -1,0 +1,107 @@
+{
+  "kanji": "枝",
+  "meta": {
+    "weight": 1311,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "えだ"
+    ],
+    "am_han": "CHI"
+  },
+  "meaning": {
+    "vi": "chi nhánh",
+    "en": "bough, branch, twig, limb, counter for branches"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/枝.svg"
+  },
+  "frequency": 1401,
+  "examples": [
+    "枝",
+    "枝豆",
+    "枝葉",
+    "小枝",
+    "枝分かれ"
+  ],
+  "explanation": {
+    "id": "3101",
+    "text": "枝 (đọc là \"eda\") có nghĩa là \"nhánh\" hoặc \"cành\" để chỉ các nhánh cây hoặc phần mở rộng của một cái gì đó.\n\nVí dụ:\n- 枝葉 (eyah): Nhánh lá, chỉ các chi tiết nhỏ không quan trọng.\n- 枝分かれ (edawa"
+  },
+  "comments": [
+    {
+      "id": "154432",
+      "lang": "vi",
+      "content_html": "<p>Chi của cây là cành</p>",
+      "content_text": "Chi của cây là cành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221216",
+      "lang": "vi",
+      "content_html": "<p>10 người chéo chân ngồi bên cây làm chi ?</p>",
+      "content_text": "10 người chéo chân ngồi bên cây làm chi ?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "3745",
+        "name": "Ba Anh",
+        "image_url": "https://jpdictionary.com/upload/images/65d15858960b0.png"
+      }
+    },
+    {
+      "id": "154433",
+      "lang": "vi",
+      "content_html": "<p>1 cây mà có 10 CHI</p>",
+      "content_text": "1 cây mà có 10 CHI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154434",
+      "lang": "vi",
+      "content_html": "<p>Cành được nâng đỡ（ 支える） bởi cây.</p>",
+      "content_text": "Cành được nâng đỡ（ 支える） bởi cây.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

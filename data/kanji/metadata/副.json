@@ -1,0 +1,88 @@
+{
+  "kanji": "副",
+  "meta": {
+    "weight": 336,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フク"
+    ],
+    "kun": [],
+    "am_han": "PHÓ"
+  },
+  "meaning": {
+    "vi": "phó, phó phòng",
+    "en": "vice-, assistant, aide, duplicate, copy"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/副.svg"
+  },
+  "frequency": 360,
+  "examples": [
+    "副",
+    "副作用",
+    "副業",
+    "副題",
+    "副詞"
+  ],
+  "explanation": {
+    "id": "6898",
+    "text": "副 (đọc là \"fuku\") có nghĩa là \"phó\", \"trợ\", thường chỉ vai trò hỗ trợ hoặc thứ hai trong một tổ chức hay hệ thống. \n\nVí dụ:\n- 副社長 (fuku-shachō): Phó giám đốc.\n- 副作用 (fuku sayō): Tác dụng phụ"
+  },
+  "comments": [
+    {
+      "id": "152045",
+      "lang": "vi",
+      "content_html": "<p>Có 10 mảnh ruộng thì nên giao phó đao phủ canh gác</p>",
+      "content_text": "Có 10 mảnh ruộng thì nên giao phó đao phủ canh gác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152046",
+      "lang": "vi",
+      "content_html": "<p>Ông phó giám đốc cầm dao quản lý 10 mẫu ruộng</p>",
+      "content_text": "Ông phó giám đốc cầm dao quản lý 10 mẫu ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152047",
+      "lang": "vi",
+      "content_html": "<p>Có một miệng ăn mà DAO phó cho cả thửa ruộng</p>",
+      "content_text": "Có một miệng ăn mà DAO phó cho cả thửa ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

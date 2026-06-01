@@ -1,0 +1,84 @@
+{
+  "kanji": "屡",
+  "meta": {
+    "weight": 783,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ル"
+    ],
+    "kun": [
+      "しばしば"
+    ],
+    "am_han": "LŨ, CŨ, LÚ, LŨA, RỦ"
+  },
+  "meaning": {
+    "vi": "thường xuyên",
+    "en": "often, frequently"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/屡.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3312",
+    "text": "屡 (đọc là \"りょ\" hoặc \"る\") có nghĩa là \"thường xuyên\", \"nhiều lần\" để chỉ sự lặp đi lặp lại của một hành động hoặc trạng thái.\n\nVí dụ:\n- 屡次 (りくじ, rikujitsu): Nhiều lần, thường xuyên.\n- 屡々 (しばし"
+  },
+  "comments": [
+    {
+      "id": "219371",
+      "lang": "vi",
+      "content_html": "<p>Xác chết thường xuyên LŨ lượt đổ gạo lên người phụ nữ</p>",
+      "content_text": "Xác chết thường xuyên LŨ lượt đổ gạo lên người phụ nữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219372",
+      "lang": "vi",
+      "content_html": "<p>LŨ khốn bắt phụ NỮ gánh GẠO ra CỬA nhiều lần.</p>",
+      "content_text": "LŨ khốn bắt phụ NỮ gánh GẠO ra CỬA nhiều lần.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219373",
+      "lang": "vi",
+      "content_html": "<p>Người PHỤ NỮ nhiều lần đội GẠO trước CỬA</p>",
+      "content_text": "Người PHỤ NỮ nhiều lần đội GẠO trước CỬA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

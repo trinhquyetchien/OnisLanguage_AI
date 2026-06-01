@@ -1,0 +1,109 @@
+{
+  "kanji": "馬",
+  "meta": {
+    "weight": 2943,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バ"
+    ],
+    "kun": [
+      "うま",
+      "うま-",
+      "ま"
+    ],
+    "am_han": "MÃ"
+  },
+  "meaning": {
+    "vi": "ngựa",
+    "en": "horse"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/馬.svg"
+  },
+  "frequency": 639,
+  "examples": [
+    "馬",
+    "馬鹿",
+    "競馬",
+    "馬場",
+    "群馬"
+  ],
+  "explanation": {
+    "id": "6250",
+    "text": "馬 (đọc là \"uma\" hoặc \"ba\") có nghĩa là \"ngựa\", chỉ động vật có bốn chân được con người sử dụng cho việc đi lại, vận chuyển hoặc trong các hoạt động thể thao.\n\nVí dụ:\n- 馬車 (basha): Xe ngựa.\n-"
+  },
+  "comments": [
+    {
+      "id": "623",
+      "lang": "vi",
+      "content_html": "<p>Hình dáng của một con <strong>ngựa</strong>.</p>",
+      "content_text": "Hình dáng của một con\nngựa\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62978928189f5.jpg",
+      "image_path": "assets/images/馬_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157974",
+      "lang": "vi",
+      "content_html": "<p>1 ông vua ngồi trên ngựa bị lửa nướng</p>",
+      "content_text": "1 ông vua ngồi trên ngựa bị lửa nướng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157975",
+      "lang": "vi",
+      "content_html": "<p>ngựa 4 chân</p>",
+      "content_text": "ngựa 4 chân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157976",
+      "lang": "vi",
+      "content_html": "<p></p>",
+      "content_text": "",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "kanji": "凧",
+  "meta": {
+    "weight": 301,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "いかのぼり",
+      "たこ"
+    ],
+    "am_han": "DIỀU"
+  },
+  "meaning": {
+    "vi": "diều, (kokuji)",
+    "en": "kite, (kokuji)"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/凧.svg"
+  },
+  "frequency": 2117,
+  "examples": [
+    "凧"
+  ],
+  "explanation": {
+    "id": "5060",
+    "text": "凧 (đọc là \"tako\") có nghĩa là \"con diều\", chỉ những đồ vật nhẹ được thả lên không trung bằng dây.  \nVí dụ:  \n- 凧揚げ (takoage): Thả diều.  \n- 凧作り (takodukuri): Làm diều.  \n- 和凧 (wadako): Diều "
+  },
+  "comments": [
+    {
+      "id": "151948",
+      "lang": "vi",
+      "content_html": "<p>Diều (凧) Ta Có (たこ) được từ Kỉ tre(几) và Vải (巾)</p>",
+      "content_text": "Diều (凧) Ta Có (たこ) được từ Kỉ tre(几) và Vải (巾)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

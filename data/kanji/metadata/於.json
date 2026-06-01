@@ -1,0 +1,73 @@
+{
+  "kanji": "於",
+  "meta": {
+    "weight": 1202,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オ",
+      "ヨ"
+    ],
+    "kun": [
+      "おい.て",
+      "お.ける",
+      "ああ",
+      "より"
+    ],
+    "am_han": "VU, Ư, Ô"
+  },
+  "meaning": {
+    "vi": "tại, trên, đối với",
+    "en": "at, in, on, as for"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/於.svg"
+  },
+  "frequency": 2113,
+  "examples": [
+    "於"
+  ],
+  "explanation": {
+    "id": "499",
+    "text": "於 (đọc là \"o\" hoặc \"ni\") có nghĩa là \"tại\", \"ở\", dùng để chỉ địa điểm, thời gian hoặc trạng thái trong các ngữ cảnh khác nhau. \n\nVí dụ:\n- 於東京 (o Tōkyō): Tại Tokyo.\n- 於先週 (o senshū): Vào tuần"
+  },
+  "comments": [
+    {
+      "id": "154158",
+      "lang": "vi",
+      "content_html": "<p>Trời Băng tuyết một người không biết ở Phương nào nên đi Vu vơ</p>",
+      "content_text": "Trời Băng tuyết một người không biết ở Phương nào nên đi Vu vơ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154159",
+      "lang": "vi",
+      "content_html": "<p>Ở tại phương trời xa có người đang vi va vi VU trời đông</p>",
+      "content_text": "Ở tại phương trời xa có người đang vi va vi VU trời đông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

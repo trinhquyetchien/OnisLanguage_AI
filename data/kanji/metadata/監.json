@@ -1,0 +1,88 @@
+{
+  "kanji": "監",
+  "meta": {
+    "weight": 1834,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [],
+    "am_han": "GIAM, GIÁM"
+  },
+  "meaning": {
+    "vi": "giám sát, quan chức, văn phòng chính phủ, quy tắc, quản lý",
+    "en": "oversee, official, govt office, rule, administer"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/監.svg"
+  },
+  "frequency": 408,
+  "examples": [
+    "監督",
+    "監視",
+    "監査",
+    "監修",
+    "監禁"
+  ],
+  "explanation": {
+    "id": "1149",
+    "text": "監 (đọc là \"kan\") có nghĩa là \"giám sát\", \"kiểm soát\" để chỉ các hành động liên quan đến việc theo dõi và quản lý.\n\nVí dụ:\n- 監視 (kanshi): Giám sát, theo dõi.\n- 監督 (kantoku): Đạo diễn, giám đố"
+  },
+  "comments": [
+    {
+      "id": "155535",
+      "lang": "vi",
+      "content_html": "<p>Dù có là THẦN thánh mà NẰM bò vào ăn cắp MỘT cái ĐĨA cũng bị tống GIAM</p>",
+      "content_text": "Dù có là THẦN thánh mà NẰM bò vào ăn cắp MỘT cái ĐĨA cũng bị tống GIAM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155536",
+      "lang": "vi",
+      "content_html": "<p>Thần nằm trên đĩa giám sát nhà bếp</p>",
+      "content_text": "Thần nằm trên đĩa giám sát nhà bếp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155537",
+      "lang": "vi",
+      "content_html": "<p>Vị THẦN (臣) cầm HAI (二) cái ĐĨA (皿) GIÁM (監) sát cả thế gian</p>",
+      "content_text": "Vị THẦN (臣) cầm HAI (二) cái ĐĨA (皿) GIÁM (監) sát cả thế gian",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

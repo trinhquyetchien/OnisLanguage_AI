@@ -1,0 +1,88 @@
+{
+  "kanji": "題",
+  "meta": {
+    "weight": 2914,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダイ"
+    ],
+    "kun": [],
+    "am_han": "ĐỀ"
+  },
+  "meaning": {
+    "vi": "chủ đề",
+    "en": "topic, subject"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/題.svg"
+  },
+  "frequency": 96,
+  "examples": [
+    "問題",
+    "話題",
+    "課題",
+    "題",
+    "放題"
+  ],
+  "explanation": {
+    "id": "5008",
+    "text": "題 (đọc là \"dai\") có nghĩa là \"đề tài\", \"chủ đề\" để chỉ các vấn đề hoặc nội dung được thảo luận, nghiên cứu hoặc trình bày.  \nVí dụ:  \n- 課題 (kadai): Đề tài, vấn đề cần giải quyết.  \n- 題名 (dai"
+  },
+  "comments": [
+    {
+      "id": "1014",
+      "lang": "vi",
+      "content_html": "<p>Nhà báo sử dụng đầu và chân để tìm kiếm <strong>đề tài</strong>.</p>",
+      "content_text": "Nhà báo sử dụng đầu và chân để tìm kiếm\nđề tài\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62a0a5bc77d71.jpg",
+      "image_path": "assets/images/題_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191233",
+      "lang": "vi",
+      "content_html": "<p>chủ <strong>đề </strong>- 話題 (わだい)</p>",
+      "content_text": "chủ\nđề\n- 話題 (わだい)",
+      "image_url": "https://jpdictionary.com/upload/images/648adf030a625.jpg",
+      "image_path": "assets/images/題_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "157902",
+      "lang": "vi",
+      "content_html": "<p>cầm tờ giấy chạy lên mặt trời để hỏi các vấn đề</p>",
+      "content_text": "cầm tờ giấy chạy lên mặt trời để hỏi các vấn đề",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

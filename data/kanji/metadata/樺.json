@@ -1,0 +1,55 @@
+{
+  "kanji": "樺",
+  "meta": {
+    "weight": 1425,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "かば",
+      "かんば"
+    ],
+    "am_han": "HOA"
+  },
+  "meaning": {
+    "vi": "bạch dương, đỏ sẫm",
+    "en": "birch, dark red"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/樺.svg"
+  },
+  "frequency": 1982,
+  "examples": [
+    "白樺",
+    "樺太",
+    "樺"
+  ],
+  "explanation": {
+    "id": "1011",
+    "text": "樺 (đọc là \"kaba\") có nghĩa là \"cây bạch dương\", thường chỉ đến loại cây có vỏ trắng và lá xanh. \n\nVí dụ:\n- 樺の木 (kaba no ki): Cây bạch dương.\n- 樺材 (kabazai): Gỗ bạch dương.\n- 樺色 (kabairo): Mà"
+  },
+  "comments": [
+    {
+      "id": "154621",
+      "lang": "vi",
+      "content_html": "<p>Cái CÂY có HOA nên gọi là cây hoa</p>",
+      "content_text": "Cái CÂY có HOA nên gọi là cây hoa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

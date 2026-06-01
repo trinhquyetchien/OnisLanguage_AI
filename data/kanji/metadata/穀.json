@@ -1,0 +1,88 @@
+{
+  "kanji": "穀",
+  "meta": {
+    "weight": 1947,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コク"
+    ],
+    "kun": [],
+    "am_han": "CỐC"
+  },
+  "meaning": {
+    "vi": "ngũ cốc",
+    "en": "cereals, grain"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/穀.svg"
+  },
+  "frequency": 1744,
+  "examples": [
+    "穀物",
+    "雑穀",
+    "米穀",
+    "穀類",
+    "脱穀"
+  ],
+  "explanation": {
+    "id": "2640",
+    "text": "穀 (đọc là \"koku\") có nghĩa là \"ngũ cốc\" hoặc \"hạt\". Nó chỉ các loại thực phẩm được trồng để thu hoạch hạt, thường dùng trong chế biến thực phẩm.\n\nVí dụ:\n- 穀物 (kokumotsu): Ngũ cốc, các loại h"
+  },
+  "comments": [
+    {
+      "id": "155787",
+      "lang": "vi",
+      "content_html": "<p>Sĩ thấy hoà đội mũ cầm thù trồng ngũ cốc</p>",
+      "content_text": "Sĩ thấy hoà đội mũ cầm thù trồng ngũ cốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155788",
+      "lang": "vi",
+      "content_html": "<p>Binh sĩ lấy Khăn che Lúa để tránh Kẻ thù trộm NGŨ cốc</p>",
+      "content_text": "Binh sĩ lấy Khăn che Lúa để tránh Kẻ thù trộm NGŨ cốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155789",
+      "lang": "vi",
+      "content_html": "<p>ném gạo xuống rồi phủ đất lên trên tạo thành ngũ cốc</p>",
+      "content_text": "ném gạo xuống rồi phủ đất lên trên tạo thành ngũ cốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

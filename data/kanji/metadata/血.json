@@ -1,0 +1,90 @@
+{
+  "kanji": "血",
+  "meta": {
+    "weight": 2400,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケツ"
+    ],
+    "kun": [
+      "ち"
+    ],
+    "am_han": "HUYẾT"
+  },
+  "meaning": {
+    "vi": "máu, huyết tương",
+    "en": "blood"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/血.svg"
+  },
+  "frequency": 832,
+  "examples": [
+    "血",
+    "血液",
+    "血管",
+    "血圧",
+    "出血"
+  ],
+  "explanation": {
+    "id": "2083",
+    "text": "血 (đọc là \"chi\") có nghĩa là \"máu\", chỉ các khía cạnh liên quan đến máu và sức khỏe.  \nVí dụ:  \n- 血液 (ketsueki): Máu, huyết dịch.  \n- 血圧 (ketsuatsu): Huyết áp.  \n- 出血 (shukketsu): Chảy máu."
+  },
+  "comments": [
+    {
+      "id": "156691",
+      "lang": "vi",
+      "content_html": "<p>Con dao dính máu cắm vào đĩa</p>",
+      "content_text": "Con dao dính máu cắm vào đĩa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156692",
+      "lang": "vi",
+      "content_html": "<p>trên đĩa có một vệt máu</p>",
+      "content_text": "trên đĩa có một vệt máu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156693",
+      "lang": "vi",
+      "content_html": "<p>Làm tiết canh ra đĩa</p>",
+      "content_text": "Làm tiết canh ra đĩa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

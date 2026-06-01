@@ -1,0 +1,93 @@
+{
+  "kanji": "度",
+  "meta": {
+    "weight": 868,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ド",
+      "ト",
+      "タク"
+    ],
+    "kun": [
+      "たび",
+      "-た.い"
+    ],
+    "am_han": "ĐỘ"
+  },
+  "meaning": {
+    "vi": "mức độ",
+    "en": "degrees, occurrence, time, counter for occurrences, consider, attitude"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/度.svg"
+  },
+  "frequency": 110,
+  "examples": [
+    "度",
+    "制度",
+    "程度",
+    "年度",
+    "今度"
+  ],
+  "explanation": {
+    "id": "5748",
+    "text": "度 (đọc là \"do\") có nghĩa là \"mức độ\", \"thời gian\", hoặc \"độ\" để chỉ các khía cạnh liên quan đến mức độ hoặc thông số.  \nVí dụ:  \n- 温度 (ondo): Nhiệt độ.  \n- 程度 (teido): Mức độ, trình độ.  \n- "
+  },
+  "comments": [
+    {
+      "id": "191006",
+      "lang": "vi",
+      "content_html": "<p>nhiệt <strong>độ</strong></p>",
+      "content_text": "nhiệt\nđộ",
+      "image_url": "https://jpdictionary.com/upload/images/648a8d13e2d2a.jpg",
+      "image_path": "assets/images/度_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36914",
+      "lang": "vi",
+      "content_html": "<p>Khi <strong>nhiệt độ</strong> trong nhà là 21 độ thì bàn tay ta sẽ ấm.</p>",
+      "content_text": "Khi\nnhiệt độ\ntrong nhà là 21 độ thì bàn tay ta sẽ ấm.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc40d3814d3.jpg",
+      "image_path": "assets/images/度_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158296",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4<br>一度 (いちど): một lần</p><p>もう一度 (もういちど): một lần nữa<br>今度 (こんど): lần này, lần tới<br>支度 (したく): chuẩn bị</p>",
+      "content_text": "JLPT N4\n一度 (いちど): một lần\nもう一度 (もういちど): một lần nữa\n今度 (こんど): lần này, lần tới\n支度 (したく): chuẩn bị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

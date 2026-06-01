@@ -1,0 +1,88 @@
+{
+  "kanji": "翌",
+  "meta": {
+    "weight": 2139,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨク"
+    ],
+    "kun": [],
+    "am_han": "DỰC"
+  },
+  "meaning": {
+    "vi": "tiếp sau",
+    "en": "the following, next"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/翌.svg"
+  },
+  "frequency": 1070,
+  "examples": [
+    "翌日",
+    "翌年",
+    "翌",
+    "翌朝",
+    "翌週"
+  ],
+  "explanation": {
+    "id": "7930",
+    "text": "翌 (đọc là \"yoku\") có nghĩa là \"ngày hôm sau\" hoặc \"tiếp theo\", thường dùng để chỉ thời gian trong các trường hợp liên quan đến sự việc xảy ra sau đó.\n\nVí dụ:\n- 翌日 (yokujitsu): Ngày hôm sau.\n"
+  },
+  "comments": [
+    {
+      "id": "156208",
+      "lang": "vi",
+      "content_html": "<p>Dạo DỰC chờ đến MAI Đứng xếp hàng mua 2 cái áo lông VŨ</p>",
+      "content_text": "Dạo DỰC chờ đến MAI Đứng xếp hàng mua 2 cái áo lông VŨ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156209",
+      "lang": "vi",
+      "content_html": "<p>Đứng dực cánh đến mai</p>",
+      "content_text": "Đứng dực cánh đến mai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156210",
+      "lang": "vi",
+      "content_html": "<p>dực (ngày mai).ngày mai lông chim đứng dựng</p>",
+      "content_text": "dực (ngày mai).ngày mai lông chim đứng dựng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

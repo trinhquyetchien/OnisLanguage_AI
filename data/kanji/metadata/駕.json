@@ -1,0 +1,54 @@
+{
+  "kanji": "駕",
+  "meta": {
+    "weight": 2953,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "ガ"
+    ],
+    "kun": [
+      "かご",
+      "が.する",
+      "しのぐ",
+      "のる"
+    ],
+    "am_han": "GIÁ"
+  },
+  "meaning": {
+    "vi": "xe, kiệu, xả rác, quá giang một con vật",
+    "en": "vehicle, palanquin, litter, hitch up an animal"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/駕.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "742",
+    "text": "駕 (đọc là \"ka\") có nghĩa là \"lái xe\", \"cưỡi\" để chỉ các hành động liên quan đến việc điều khiển phương tiện hoặc cưỡi lên một con vật.\nVí dụ:\n- 駕籠 (kagō): Cỗ xe, kiệu.\n- 駕駛 (gashi): Lái xe ("
+  },
+  "comments": [
+    {
+      "id": "221052",
+      "lang": "vi",
+      "content_html": "<p>Chất 加 thêm đồ lên ngựa 馬</p>",
+      "content_text": "Chất 加 thêm đồ lên ngựa 馬",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

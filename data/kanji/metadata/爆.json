@@ -1,0 +1,90 @@
+{
+  "kanji": "爆",
+  "meta": {
+    "weight": 1680,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バク"
+    ],
+    "kun": [
+      "は.ぜる"
+    ],
+    "am_han": "BỘC"
+  },
+  "meaning": {
+    "vi": "nổ tung, bộc phát",
+    "en": "bomb, burst open, pop, split"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/爆.svg"
+  },
+  "frequency": 735,
+  "examples": [
+    "爆発",
+    "爆",
+    "爆弾",
+    "爆笑",
+    "原爆"
+  ],
+  "explanation": {
+    "id": "6352",
+    "text": "爆 (đọc là \"baku\") có nghĩa là \"nổ\", \"bùng nổ\" để chỉ các hiện tượng liên quan đến sự bùng nổ hoặc tiếng nổ lớn.  \nVí dụ:  \n- 爆発 (bakuhatsu): Sự nổ, vụ nổ.  \n- 爆弾 (bakudan): Bom.  \n- 爆笑 (baku"
+  },
+  "comments": [
+    {
+      "id": "155212",
+      "lang": "vi",
+      "content_html": "<p>Dưới ánh mặt trờicoongj thêm tác động của lửa thì nước dưới lòng đất sẽ phát nổ</p>",
+      "content_text": "Dưới ánh mặt trờicoongj thêm tác động của lửa thì nước dưới lòng đất sẽ phát nổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155213",
+      "lang": "vi",
+      "content_html": "<p>Lửa thường là nguyên nhân BỘC PHÁT nên các vụ NỔ trong các vụ BẠO động</p>",
+      "content_text": "Lửa thường là nguyên nhân BỘC PHÁT nên các vụ NỔ trong các vụ BẠO động",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155214",
+      "lang": "vi",
+      "content_html": "<p>Cộng đồng Nước Nhật ít có Bạo loạn nhưng có thêm Lửa nữa thì phát Nổ</p>",
+      "content_text": "Cộng đồng Nước Nhật ít có Bạo loạn nhưng có thêm Lửa nữa thì phát Nổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

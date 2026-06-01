@@ -1,0 +1,90 @@
+{
+  "kanji": "惟",
+  "meta": {
+    "weight": 989,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ",
+      "ユイ"
+    ],
+    "kun": [
+      "おも.んみる",
+      "これ",
+      "おも.うに"
+    ],
+    "am_han": "DUY"
+  },
+  "meaning": {
+    "vi": "xem xét, phản ánh, suy nghĩ",
+    "en": "consider, reflect, think"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/惟.svg"
+  },
+  "frequency": 2246,
+  "examples": [
+    "思惟",
+    "惟"
+  ],
+  "explanation": {
+    "id": "140",
+    "text": "惟 (đọc là \"i\") có nghĩa là \"chỉ\", \"duy nhất\" hoặc \"nhất định\", thường chỉ sự chú ý vào một điều cụ thể.\n\nVí dụ:\n- 惟神 (ikigami): Thần duy nhất, chỉ vị thần tối cao.\n- 惟う (omou): Nghĩ, cảm thấ"
+  },
+  "comments": [
+    {
+      "id": "153634",
+      "lang": "vi",
+      "content_html": "<p>con chim đang mổ quả tim với hi vọng tư duy tốt như con người</p>",
+      "content_text": "con chim đang mổ quả tim với hi vọng tư duy tốt như con người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153635",
+      "lang": "vi",
+      "content_html": "<p>Con CHIM có quả TIM nên nó cũng có tư DUY</p>",
+      "content_text": "Con CHIM có quả TIM nên nó cũng có tư DUY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153636",
+      "lang": "vi",
+      "content_html": "<p>Tư duy cầm tâm(惟) duy trì cần dây(維)^^</p>",
+      "content_text": "Tư duy cầm tâm(惟) duy trì cần dây(維)^^",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

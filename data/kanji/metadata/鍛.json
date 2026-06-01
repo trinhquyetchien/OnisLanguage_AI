@@ -1,0 +1,107 @@
+{
+  "kanji": "鍛",
+  "meta": {
+    "weight": 2783,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "きた.える"
+    ],
+    "am_han": "ĐOÁN"
+  },
+  "meaning": {
+    "vi": "rèn, kỷ luật, rèn luyện",
+    "en": "forge, discipline, train"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/鍛.svg"
+  },
+  "frequency": 1793,
+  "examples": [
+    "鍛え",
+    "鍛える",
+    "鍛冶",
+    "鍛錬",
+    "鍛造"
+  ],
+  "explanation": {
+    "id": "5163",
+    "text": "鍛 (đọc là \"tan\") có nghĩa là \"rèn\" hoặc \"luyện kim\", chỉ các hành động liên quan đến việc rèn đúc hoặc tăng cường sức mạnh, kỹ năng.\n\nVí dụ:\n- 鍛冶 (kanja): Nghệ nhân rèn.\n- 鍛える (kataeru): Rèn"
+  },
+  "comments": [
+    {
+      "id": "157595",
+      "lang": "vi",
+      "content_html": "<p>tôi ĐOÁN là muốn làm ra 1 sợi dây VÀNG thì phải qua nhiều công ĐOẠN.</p>",
+      "content_text": "tôi ĐOÁN là muốn làm ra 1 sợi dây VÀNG thì phải qua nhiều công ĐOẠN.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "218495",
+      "lang": "vi",
+      "content_html": "<p><strong>Rèn 鍛</strong> VÀNG 金 phải trải qua nhiều công ĐOẠN <strong>段</strong>.</p>",
+      "content_text": "Rèn 鍛\nVÀNG 金 phải trải qua nhiều công ĐOẠN\n段\n.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "157596",
+      "lang": "vi",
+      "content_html": "<p>Thợ rèn lấy từng đoạn kim loại để lv</p>",
+      "content_text": "Thợ rèn lấy từng đoạn kim loại để lv",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157597",
+      "lang": "vi",
+      "content_html": "<p>Rèn kim loại phải nhiều giai đoạn</p>",
+      "content_text": "Rèn kim loại phải nhiều giai đoạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "詳",
+  "meta": {
+    "weight": 2484,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "くわ.しい",
+      "つまび.らか"
+    ],
+    "am_han": "TƯỜNG"
+  },
+  "meaning": {
+    "vi": "chi tiết, đầy đủ, phút, chính xác, đầy đủ thông tin",
+    "en": "detailed, full, minute, accurate, well-informed"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/詳.svg"
+  },
+  "frequency": 1178,
+  "examples": [
+    "詳細",
+    "詳しく",
+    "詳しい",
+    "不詳",
+    "詳述"
+  ],
+  "explanation": {
+    "id": "3921",
+    "text": "詳 (đọc là \"shou\" hoặc \"jou\") có nghĩa là \"chi tiết\", \"rõ ràng\", dùng để chỉ sự rõ ràng, cụ thể trong thông tin hoặc nội dung.  \nVí dụ:  \n- 詳細 (shousai): Chi tiết, tường tận.  \n- 詳述 (shoujuts"
+  },
+  "comments": [
+    {
+      "id": "156904",
+      "lang": "vi",
+      "content_html": "<p>Đến con DÊ còn nói đc một cách rõ ràng. TƯỜNG tận như thế huống chi con người</p>",
+      "content_text": "Đến con DÊ còn nói đc một cách rõ ràng. TƯỜNG tận như thế huống chi con người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156905",
+      "lang": "vi",
+      "content_html": "<p>Con người mà lời nói không tường tận,rõ ràng thì khác nào con dê</p>",
+      "content_text": "Con người mà lời nói không tường tận,rõ ràng thì khác nào con dê",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156906",
+      "lang": "vi",
+      "content_html": "<p>Hãy nói một cách tường tận về con dê nguyễn hữu linh</p>",
+      "content_text": "Hãy nói một cách tường tận về con dê nguyễn hữu linh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

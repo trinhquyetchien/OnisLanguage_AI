@@ -1,0 +1,90 @@
+{
+  "kanji": "縛",
+  "meta": {
+    "weight": 2107,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バク"
+    ],
+    "kun": [
+      "しば.る"
+    ],
+    "am_han": "PHƯỢC, PHỌC"
+  },
+  "meaning": {
+    "vi": "giàn, bắt, ràng buộc, buộc, kiềm chế",
+    "en": "truss, arrest, bind, tie, restrain"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/縛.svg"
+  },
+  "frequency": 1764,
+  "examples": [
+    "束縛",
+    "呪縛",
+    "縛り",
+    "縛る",
+    "金縛り"
+  ],
+  "explanation": {
+    "id": "6356",
+    "text": "縛 (đọc là \"baku\" hoặc \"shaku\") có nghĩa là \"trói buộc\", \"ràng buộc\", thường chỉ các hành động liên quan đến việc trói chặt hoặc hạn chế tự do.\n\nVí dụ:\n- 縛る (shibaru): Trói, buộc.\n- 縛り (shiba"
+  },
+  "comments": [
+    {
+      "id": "156131",
+      "lang": "vi",
+      "content_html": "<p>Chỉ Chuyên dùng để BUỘC</p>",
+      "content_text": "Chỉ Chuyên dùng để BUỘC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156132",
+      "lang": "vi",
+      "content_html": "<p>Dây chuyên môn của nó là buộc</p>",
+      "content_text": "Dây chuyên môn của nó là buộc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156133",
+      "lang": "vi",
+      "content_html": "<p>厚顔 cám ơn b có những góp ý thật tuyệt</p>",
+      "content_text": "厚顔 cám ơn b có những góp ý thật tuyệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

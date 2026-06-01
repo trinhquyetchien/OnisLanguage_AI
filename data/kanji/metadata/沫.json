@@ -1,0 +1,53 @@
+{
+  "kanji": "沫",
+  "meta": {
+    "weight": 1506,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マツ",
+      "バツ"
+    ],
+    "kun": [
+      "あわ",
+      "しぶき",
+      "つばき"
+    ],
+    "am_han": "MẠT"
+  },
+  "meaning": {
+    "vi": "giật gân, suds",
+    "en": "splash, suds"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/沫.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7438",
+    "text": "沫 (đọc là \"matsu\") có nghĩa là \"bọt\" hoặc \"nước bọt\", chỉ các dạng chất lỏng bọt nổi lên.  \nVí dụ:  \n- 泡沫 (utakata): Bọt, bọt nước.  \n- 沫雪 (matsuyuki): Tuyết bông, tuyết nhẹ.  \n- 沫を吹く (matsu"
+  },
+  "comments": [
+    {
+      "id": "219925",
+      "lang": "vi",
+      "content_html": "<p>NƯỚC BỌT có chứa những bong bóng NƯỚC nhỏ MẠT tạo thành</p>",
+      "content_text": "NƯỚC BỌT có chứa những bong bóng NƯỚC nhỏ MẠT tạo thành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

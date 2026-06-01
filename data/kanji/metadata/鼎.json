@@ -1,0 +1,50 @@
+{
+  "kanji": "鼎",
+  "meta": {
+    "weight": 3030,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "かなえ"
+    ],
+    "am_han": "ĐỈNH"
+  },
+  "meaning": {
+    "vi": "ấm ba chân",
+    "en": "three legged kettle"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/鼎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5610",
+    "text": "鼎 (đọc là \"teiki\" hoặc \"kan\") có nghĩa là \"nồi đồng\", chỉ một loại nồi lớn, thường dùng trong lễ nghi hoặc để nấu ăn. Biểu tượng cho sự thịnh vượng và ổn định.\n\nVí dụ:\n- 鼎立 (teikiryuu): Ba b"
+  },
+  "comments": [
+    {
+      "id": "221155",
+      "lang": "vi",
+      "content_html": "<p>Đỉnh đúc bằng kim loại có 3 chân và 2 tai</p>",
+      "content_text": "Đỉnh đúc bằng kim loại có 3 chân và 2 tai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

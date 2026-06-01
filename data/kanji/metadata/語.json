@@ -1,0 +1,91 @@
+{
+  "kanji": "語",
+  "meta": {
+    "weight": 2492,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴ"
+    ],
+    "kun": [
+      "かた.る",
+      "かた.らう"
+    ],
+    "am_han": "NGỮ"
+  },
+  "meaning": {
+    "vi": "từ ngữ, ngôn ngữ",
+    "en": "word, speech, language"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/語.svg"
+  },
+  "frequency": 301,
+  "examples": [
+    "英語",
+    "語",
+    "日本語",
+    "言語",
+    "物語"
+  ],
+  "explanation": {
+    "id": "2352",
+    "text": "語 (đọc là \"go\") có nghĩa là \"ngôn ngữ\" hoặc \"tiếng\", liên quan đến việc giao tiếp bằng lời nói hoặc văn viết.  \nVí dụ:  \n- 言語 (gengo): Ngôn ngữ.  \n- 語彙 (goi): Từ vựng.  \n- 母語 (bogo): Tiếng m"
+  },
+  "comments": [
+    {
+      "id": "670",
+      "lang": "vi",
+      "content_html": "<p>Họ nói (言) bằng năm (五) <strong>ngôn ngữ</strong>.</p>",
+      "content_text": "Họ nói (言) bằng năm (五)\nngôn ngữ\n.",
+      "image_url": "https://jpdictionary.com/upload/images/6298302d7ab7b.jpg",
+      "image_path": "assets/images/語_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158439",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>日本語 (にほんご): tiếng Nhật</p><p>英語 (えいご): tiếng Anh</p>",
+      "content_text": "JLPT N5\n日本語 (にほんご): tiếng Nhật\n英語 (えいご): tiếng Anh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221724",
+      "lang": "vi",
+      "content_html": "<p>日本語 (にほんご): tiếng Nhật</p><p>英語 (えいご): tiếng Anh</p><p>ベトナム語 (ベトナムご): tiếng Việt</p><p>日本語学校 (にほんごがっこう): trường tiếng Nhật</p>",
+      "content_text": "日本語 (にほんご): tiếng Nhật\n英語 (えいご): tiếng Anh\nベトナム語 (ベトナムご): tiếng Việt\n日本語学校 (にほんごがっこう): trường tiếng Nhật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5167",
+        "name": "v v",
+        "image_url": "https://jpdictionary.com/upload/images/681ca46917089.jpg"
+      }
+    }
+  ]
+}

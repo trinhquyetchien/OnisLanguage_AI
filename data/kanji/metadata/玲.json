@@ -1,0 +1,65 @@
+{
+  "kanji": "玲",
+  "meta": {
+    "weight": 1736,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ"
+    ],
+    "kun": [],
+    "am_han": "LINH"
+  },
+  "meaning": {
+    "vi": "âm thanh của đồ trang sức",
+    "en": "sound of jewels"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/玲.svg"
+  },
+  "frequency": 1931,
+  "examples": [],
+  "explanation": {
+    "id": "8224",
+    "text": "玲 (đọc là \"rei\") có nghĩa là \"tiếng vang\", \"âm thanh trong trẻo\" thường liên quan đến âm thanh của chuông hoặc đồ vật phát ra âm thanh nhỏ nhẹ và dễ chịu. \n\nVí dụ:\n- 玲玲 (reirei): Âm thanh tr"
+  },
+  "comments": [
+    {
+      "id": "155326",
+      "lang": "vi",
+      "content_html": "<p>ô vua ra lệnh lấy e LINH làm vợ.</p>",
+      "content_text": "ô vua ra lệnh lấy e LINH làm vợ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155327",
+      "lang": "vi",
+      "content_html": "<p>Vua thời nay ko lung LINH bóng lộn như xưa</p>",
+      "content_text": "Vua thời nay ko lung LINH bóng lộn như xưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

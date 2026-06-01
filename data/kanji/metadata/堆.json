@@ -1,0 +1,88 @@
+{
+  "kanji": "堆",
+  "meta": {
+    "weight": 573,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ",
+      "ツイ"
+    ],
+    "kun": [
+      "うずたか.い"
+    ],
+    "am_han": "ĐÔI"
+  },
+  "meaning": {
+    "vi": "chất đống cao",
+    "en": "piled high"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/堆.svg"
+  },
+  "frequency": 2184,
+  "examples": [
+    "堆積",
+    "堆肥"
+  ],
+  "explanation": {
+    "id": "4922",
+    "text": "堆 (đọc là \"dai\") có nghĩa là \"chất đống\", \"xếp chồng lên nhau\" để chỉ hành động gom lại, xếp lại thành đống.  \nVí dụ:  \n- 堆積 (taiseki): Sự tích tụ, chất đống.  \n- 堆肥 (taihi): Phân ủ, phân bó"
+  },
+  "comments": [
+    {
+      "id": "152617",
+      "lang": "vi",
+      "content_html": "<p>ĐÔI chim cùng đắp đống đất</p>",
+      "content_text": "ĐÔI chim cùng đắp đống đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152618",
+      "lang": "vi",
+      "content_html": "<p>CHIM chặt làm ĐÔI rồi đắp đất nướng,ngon phải biết</p>",
+      "content_text": "CHIM chặt làm ĐÔI rồi đắp đất nướng,ngon phải biết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152619",
+      "lang": "vi",
+      "content_html": "<p>Đôi Chim nằm Chất Đống trên mặt Đất.</p>",
+      "content_text": "Đôi Chim nằm Chất Đống trên mặt Đất.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

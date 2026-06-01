@@ -1,0 +1,91 @@
+{
+  "kanji": "珍",
+  "meta": {
+    "weight": 1739,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チン"
+    ],
+    "kun": [
+      "めずら.しい",
+      "たから"
+    ],
+    "am_han": "TRÂN"
+  },
+  "meaning": {
+    "vi": "hiếm, trân trọng",
+    "en": "rare, curious, strange"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/珍.svg"
+  },
+  "frequency": 1330,
+  "examples": [
+    "珍しい",
+    "珍",
+    "珍味",
+    "珍重",
+    "珍妙"
+  ],
+  "explanation": {
+    "id": "5429",
+    "text": "珍 (đọc là \"chin\" hoặc \"mezurashi\") có nghĩa là \"quý giá\", \"hiếm có\". \n\nVí dụ:\n- 珍品 (chinpin): Đồ quý, hàng hiếm.\n- 珍しい (mezurashii): Hiếm có, độc đáo.\n- 珍味 (chinmi): Món ăn ngon, đặc sản."
+  },
+  "comments": [
+    {
+      "id": "155328",
+      "lang": "vi",
+      "content_html": "<p>ông VUA đội NÓN tết tóc đuôi SAM rất HIẾM<br>www.hung7.com</p>",
+      "content_text": "ông VUA đội NÓN tết tóc đuôi SAM rất HIẾM\nwww.hung7.com",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155329",
+      "lang": "vi",
+      "content_html": "<p>vua rất TRÂN trọng chiếc nón 3 chỉ vàng này</p>",
+      "content_text": "vua rất TRÂN trọng chiếc nón 3 chỉ vàng này",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155330",
+      "lang": "vi",
+      "content_html": "<p>3 đồ úp nón của vua là trân châu báu</p>",
+      "content_text": "3 đồ úp nón của vua là trân châu báu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

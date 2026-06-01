@@ -1,0 +1,49 @@
+{
+  "kanji": "柑",
+  "meta": {
+    "weight": 1321,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン",
+      "カン"
+    ],
+    "kun": [],
+    "am_han": "CAM"
+  },
+  "meaning": {
+    "vi": "cam quýt, cam",
+    "en": "citrus, orange"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/柑.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1120",
+    "text": "柑 (đọc là \"kan\") có nghĩa là \"quả quýt\", chỉ các loại trái cây thuộc họ cam quýt.  \nVí dụ:  \n- 柑橘類 (kankitsurui): Các loại trái cây họ cam quýt.  \n- 柑 (kan): Quả quýt.  \n- 柑子 (kanzi): Trái q"
+  },
+  "comments": [
+    {
+      "id": "219794",
+      "lang": "vi",
+      "content_html": "<p>bắt thang lên cây hái trái Cam</p>",
+      "content_text": "bắt thang lên cây hái trái Cam",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

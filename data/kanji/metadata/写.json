@@ -1,0 +1,94 @@
+{
+  "kanji": "写",
+  "meta": {
+    "weight": 285,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ",
+      "ジャ"
+    ],
+    "kun": [
+      "うつ.す",
+      "うつ.る",
+      "うつ-",
+      "うつ.し"
+    ],
+    "am_han": "TẢ"
+  },
+  "meaning": {
+    "vi": "sao chép, miêu tả",
+    "en": "copy, be photographed, describe"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/写.svg"
+  },
+  "frequency": 453,
+  "examples": [
+    "写真",
+    "描写",
+    "試写",
+    "写し",
+    "実写"
+  ],
+  "explanation": {
+    "id": "3324",
+    "text": "写 (đọc là \"sha\") có nghĩa là \"viết\", \"sao chép\" để chỉ các hành động liên quan đến việc ghi chép hoặc tái tạo thông tin.  \nVí dụ:  \n- 写真 (shashin): Ảnh, bức ảnh.  \n- 写す (utsusu): Sao chép, c"
+  },
+  "comments": [
+    {
+      "id": "908",
+      "lang": "vi",
+      "content_html": "<p><strong>Ảnh</strong> của người đàn ông đội mũ.</p>",
+      "content_text": "Ảnh\ncủa người đàn ông đội mũ.",
+      "image_url": "https://jpdictionary.com/upload/images/6298b2fc83df8.jpg",
+      "image_path": "assets/images/写_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151909",
+      "lang": "vi",
+      "content_html": "<p>tả lại hình ảnh 5 ng đội 1 cái khăn</p>",
+      "content_text": "tả lại hình ảnh 5 ng đội 1 cái khăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158554",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>写真 (しゃしん): bức ảnh</p><p>写す (うつす): sao chép</p>",
+      "content_text": "JLPT N4\n写真 (しゃしん): bức ảnh\n写す (うつす): sao chép",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

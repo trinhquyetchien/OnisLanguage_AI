@@ -1,0 +1,90 @@
+{
+  "kanji": "飯",
+  "meta": {
+    "weight": 2927,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン"
+    ],
+    "kun": [
+      "めし"
+    ],
+    "am_han": "PHẠN"
+  },
+  "meaning": {
+    "vi": "cơm",
+    "en": "meal, boiled rice"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/飯.svg"
+  },
+  "frequency": 1046,
+  "examples": [
+    "ご飯",
+    "飯",
+    "夕飯",
+    "御飯",
+    "昼飯"
+  ],
+  "explanation": {
+    "id": "6506",
+    "text": "飯 (đọc là \"han\" hoặc \"meshi\") có nghĩa là \"cơm\", \"thức ăn\" để chỉ các loại thực phẩm, đặc biệt là gạo đã nấu chín.  \nVí dụ:  \n- ご飯 (gohan): Cơm, bữa ăn.  \n- 飯屋 (meshiya): Quán ăn, nhà hàng. "
+  },
+  "comments": [
+    {
+      "id": "869",
+      "lang": "vi",
+      "content_html": "<p>Mọi người phản (反) đối với việc tôi ăn<strong> </strong>(食) quá nhiều <strong>cơm</strong>.</p>",
+      "content_text": "Mọi người phản (反) đối với việc tôi ăn\n(食) quá nhiều\ncơm\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62989d4c7baee.jpg",
+      "image_path": "assets/images/飯_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191239",
+      "lang": "vi",
+      "content_html": "<p><strong>cơm</strong></p>",
+      "content_text": "cơm",
+      "image_url": "https://jpdictionary.com/upload/images/648adf76b0681.jpg",
+      "image_path": "assets/images/飯_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158596",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>御飯 (ごはん): cơm</p><p>朝御飯 (あさごはん): bữa sáng</p><p>昼御飯 (ひるごはん): bữa trưa</p><p>晩御飯 (ばんごはん): bữa tối</p><p>夕飯 (ゆうはん): bữa tối</p>",
+      "content_text": "JLPT N4\n御飯 (ごはん): cơm\n朝御飯 (あさごはん): bữa sáng\n昼御飯 (ひるごはん): bữa trưa\n晩御飯 (ばんごはん): bữa tối\n夕飯 (ゆうはん): bữa tối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

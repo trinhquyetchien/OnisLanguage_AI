@@ -1,0 +1,91 @@
+{
+  "kanji": "吐",
+  "meta": {
+    "weight": 456,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ト"
+    ],
+    "kun": [
+      "は.く",
+      "つ.く"
+    ],
+    "am_han": "THỔ"
+  },
+  "meaning": {
+    "vi": "khạc nhổ, nôn mửa, ợ hơi, thú nhận, nói (dối trá)",
+    "en": "spit, vomit, belch, confess, tell (lies)"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/吐.svg"
+  },
+  "frequency": 1674,
+  "examples": [
+    "吐く",
+    "吐き気",
+    "嘔吐",
+    "吐き出す",
+    "吐露"
+  ],
+  "explanation": {
+    "id": "5700",
+    "text": "吐 (đọc là \"to\") có nghĩa là \"nôn\", \"phun ra\", chỉ các hành động liên quan đến việc thải bỏ hoặc phát ra từ cơ thể.  \nVí dụ:  \n- 吐く (haku): Nôn, khạc ra.  \n- 吐き気 (hakike): Cảm giác buồn nôn. "
+  },
+  "comments": [
+    {
+      "id": "152328",
+      "lang": "vi",
+      "content_html": "<p>cho ĐẤT vào MỒM thì bị NÔN là đúng rồi</p>",
+      "content_text": "cho ĐẤT vào MỒM thì bị NÔN là đúng rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152329",
+      "lang": "vi",
+      "content_html": "<p>khạc nhổ từ miệng xuống đất</p>",
+      "content_text": "khạc nhổ từ miệng xuống đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152330",
+      "lang": "vi",
+      "content_html": "<p>THỔ Lộ Tình cảm thì phải NÓI ra bằng Mồm</p>",
+      "content_text": "THỔ Lộ Tình cảm thì phải NÓI ra bằng Mồm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

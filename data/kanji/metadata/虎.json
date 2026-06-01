@@ -1,0 +1,87 @@
+{
+  "kanji": "虎",
+  "meta": {
+    "weight": 2366,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "とら"
+    ],
+    "am_han": "HỔ"
+  },
+  "meaning": {
+    "vi": "con hổ, người say rượu",
+    "en": "tiger, drunkard"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/虎.svg"
+  },
+  "frequency": 1653,
+  "examples": [
+    "虎",
+    "虎視眈々"
+  ],
+  "explanation": {
+    "id": "2302",
+    "text": "虎 (đọc là \"tora\") có nghĩa là \"hổ\", chỉ loài thú dữ mạnh mẽ, biểu tượng cho sức mạnh và quyền lực trong văn hóa Nhật Bản.  \nVí dụ:  \n- 虎柄 (toragara): Hoa văn hổ.  \n- 虎視眈々 (koshitantan): Như "
+  },
+  "comments": [
+    {
+      "id": "156643",
+      "lang": "vi",
+      "content_html": "<p>Con hổ nhảy qua 7 người đang đứng</p>",
+      "content_text": "Con hổ nhảy qua 7 người đang đứng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156644",
+      "lang": "vi",
+      "content_html": "<p>Hô có chân là hổ</p>",
+      "content_text": "Hô có chân là hổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156645",
+      "lang": "vi",
+      "content_html": "<p>Trên sườn núi có 7 con hổ đang đi.</p>",
+      "content_text": "Trên sườn núi có 7 con hổ đang đi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

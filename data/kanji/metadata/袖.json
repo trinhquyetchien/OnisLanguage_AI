@@ -1,0 +1,89 @@
+{
+  "kanji": "袖",
+  "meta": {
+    "weight": 2415,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "そで"
+    ],
+    "am_han": "TỤ"
+  },
+  "meaning": {
+    "vi": "tay áo, cánh (tòa nhà), mở rộng, cho vai lạnh",
+    "en": "sleeve, wing (building), extension, give cold shoulder"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/袖.svg"
+  },
+  "frequency": 1960,
+  "examples": [
+    "袖",
+    "半袖",
+    "長袖",
+    "振袖"
+  ],
+  "explanation": {
+    "id": "4821",
+    "text": "袖 (đọc là \"sode\") có nghĩa là \"tay áo\", thường được dùng để chỉ phần áo quần che phủ cánh tay.  \n\nVí dụ:  \n- 袖口 (sodeguchi): Cổ tay áo, phần mở của tay áo.  \n- 袖付き (sodezuki): Có tay áo, chỉ"
+  },
+  "comments": [
+    {
+      "id": "156732",
+      "lang": "vi",
+      "content_html": "<p>tay áo là chỗ cử động tự do nhất</p>",
+      "content_text": "tay áo là chỗ cử động tự do nhất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156733",
+      "lang": "vi",
+      "content_html": "<p>chỗ tự do nhất trên y phục hội tụ ở tay áo</p>",
+      "content_text": "chỗ tự do nhất trên y phục hội tụ ở tay áo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156734",
+      "lang": "vi",
+      "content_html": "<p>Do Y phục này \"ống tay áo\" quá chặt nên gây Tụ máu</p>",
+      "content_text": "Do Y phục này \"ống tay áo\" quá chặt nên gây Tụ máu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

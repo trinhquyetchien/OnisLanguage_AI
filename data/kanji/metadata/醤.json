@@ -1,0 +1,87 @@
+{
+  "kanji": "醤",
+  "meta": {
+    "weight": 2729,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "ひしお"
+    ],
+    "am_han": "TƯƠNG"
+  },
+  "meaning": {
+    "vi": "một loại miso",
+    "en": "a kind of miso"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/醤.svg"
+  },
+  "frequency": 2485,
+  "examples": [
+    "醤油",
+    "醤"
+  ],
+  "explanation": {
+    "id": "3927",
+    "text": "醤 (đọc là \"jiō\" hoặc \"shō\") có nghĩa là \"nước tương\" hoặc \"mắm\", chỉ các loại gia vị lỏng được làm từ đậu nành hoặc ngũ cốc lên men. \n\nVí dụ:\n- 醤油 (shōyu): Nước tương.\n- 醤 (jiō): Mắm, gia vị"
+  },
+  "comments": [
+    {
+      "id": "157500",
+      "lang": "vi",
+      "content_html": "<p>Tương(将) lai của một con gà(酉) làm nước Tương(醤)</p>",
+      "content_text": "Tương(将) lai của một con gà(酉) làm nước Tương(醤)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157501",
+      "lang": "vi",
+      "content_html": "<p>ông TƯỚNG 将 đang học nấu Gà 酉 kho TƯƠNG 醤</p>",
+      "content_text": "ông TƯỚNG 将 đang học nấu Gà 酉 kho TƯƠNG 醤",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157502",
+      "lang": "vi",
+      "content_html": "<p>Bố lại ( tương ) mẹ cái ( chại rượu ) vào mồm giờ :)))</p>",
+      "content_text": "Bố lại ( tương ) mẹ cái ( chại rượu ) vào mồm giờ :)))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

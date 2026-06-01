@@ -1,0 +1,107 @@
+{
+  "kanji": "響",
+  "meta": {
+    "weight": 2895,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "ひび.く"
+    ],
+    "am_han": "HƯỞNG"
+  },
+  "meaning": {
+    "vi": "tiếng vang, âm thanh, vang dội, đổ chuông, rung",
+    "en": "echo, sound, resound, ring, vibrate"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/響.svg"
+  },
+  "frequency": 502,
+  "examples": [
+    "影響",
+    "響き",
+    "音響",
+    "交響曲",
+    "悪影響"
+  ],
+  "explanation": {
+    "id": "20353",
+    "text": "Chữ Hán 響 (đọc là \"ritsu\") có nghĩa là \"lập\", \"tái lập\" để chỉ các hành động liên quan đến việc thiết lập hoặc thành lập.\n\nVí dụ:\n- 設立 (setsuritsu): Thành lập, thiết lập.\n- 立法 (ritsobu): Lập"
+  },
+  "comments": [
+    {
+      "id": "157859",
+      "lang": "vi",
+      "content_html": "<p>Âm thanh quê hương ảnh hưởng đến tôi</p>",
+      "content_text": "Âm thanh quê hương ảnh hưởng đến tôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157860",
+      "lang": "vi",
+      "content_html": "<p>âm thanh quê hương là 1 bản giao hưởng vang động</p>",
+      "content_text": "âm thanh quê hương là 1 bản giao hưởng vang động",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157861",
+      "lang": "vi",
+      "content_html": "<p>Quê hương luôn tạo ra những âm thanh ảnh hưởng lớn đến tôi</p>",
+      "content_text": "Quê hương luôn tạo ra những âm thanh ảnh hưởng lớn đến tôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222045",
+      "lang": "vi",
+      "content_html": "<p>Là chữ hình thanh:&nbsp;<br>Phần thanh <strong>郷 (Hương - キョウ)</strong></p><p>Phần hình <strong>音</strong> mô tả chiếc <strong>chuông</strong> hoặc <strong>miệng phát ra tiếng</strong>, tượng trưng cho <strong>nguồn âm thanh</strong>.<br>Ghép lại thành <strong>Hưởng </strong>(Tiếng vang, âm vang, đáp lại)&nbsp;<br><br>Phồn thể rất phức tạp, không nên nhớ, giản thể là chữ <strong>响</strong>.&nbsp;</p><p><br>&nbsp;</p>",
+      "content_text": "Là chữ hình thanh:\nPhần thanh\n郷 (Hương - キョウ)\nPhần hình\n音\nmô tả chiếc\nchuông\nhoặc\nmiệng phát ra tiếng\n, tượng trưng cho\nnguồn âm thanh\n.\nGhép lại thành\nHưởng\n(Tiếng vang, âm vang, đáp lại)\nPhồn thể rất phức tạp, không nên nhớ, giản thể là chữ\n响\n.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

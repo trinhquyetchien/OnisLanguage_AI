@@ -1,0 +1,88 @@
+{
+  "kanji": "紋",
+  "meta": {
+    "weight": 2050,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モン"
+    ],
+    "kun": [],
+    "am_han": "VĂN"
+  },
+  "meaning": {
+    "vi": "gia huy, hình",
+    "en": "family crest, figures"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/紋.svg"
+  },
+  "frequency": 1519,
+  "examples": [
+    "指紋",
+    "波紋",
+    "紋",
+    "紋章",
+    "家紋"
+  ],
+  "explanation": {
+    "id": "7657",
+    "text": "紋 (đọc là \"mon\") có nghĩa là \"hoa văn\", \"hình mẫu\", chỉ các kiểu hoa văn hoặc biểu tượng được sử dụng để nhận biết hoặc trang trí.  \nVí dụ:  \n- 紋様 (moyō): Hoa văn, họa tiết.  \n- 家紋 (kamon): "
+  },
+  "comments": [
+    {
+      "id": "155982",
+      "lang": "vi",
+      "content_html": "<p>Dùng chỉ thêu hoa Văn</p>",
+      "content_text": "Dùng chỉ thêu hoa Văn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155983",
+      "lang": "vi",
+      "content_html": "<p>Văn với Vân như nhau<br>Vân tay</p>",
+      "content_text": "Văn với Vân như nhau\nVân tay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155984",
+      "lang": "vi",
+      "content_html": "<p>Văn hoá dùng Chỉ thêu hoa Văn.</p>",
+      "content_text": "Văn hoá dùng Chỉ thêu hoa Văn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

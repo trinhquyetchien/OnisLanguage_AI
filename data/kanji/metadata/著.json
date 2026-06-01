@@ -1,0 +1,109 @@
+{
+  "kanji": "著",
+  "meta": {
+    "weight": 2309,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョ",
+      "チャク"
+    ],
+    "kun": [
+      "あらわ.す",
+      "いちじる.しい"
+    ],
+    "am_han": "TRỨ"
+  },
+  "meaning": {
+    "vi": "nổi tiếng, trứ danh",
+    "en": "renowned, publish, write, remarkable, phenomenal, put on, don, wear, arrival, finish (race), counter for suits of clothing, literary work"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/著.svg"
+  },
+  "frequency": 849,
+  "examples": [
+    "著作",
+    "著",
+    "著者",
+    "著書",
+    "著しく"
+  ],
+  "explanation": {
+    "id": "20343",
+    "text": "著 (đọc là \"shaku\") có nghĩa là \"bước chân\", thường liên quan đến các hành động di chuyển hoặc đi lại. \n\nVí dụ:\n- 著道 (shakudō): Đường đi, lối đi.\n- 著尺 (shakushaku): Kích thước, chiều dài (hay"
+  },
+  "comments": [
+    {
+      "id": "156563",
+      "lang": "vi",
+      "content_html": "<p>Người đeo hoa trên đầu là tác giả.</p>",
+      "content_text": "Người đeo hoa trên đầu là tác giả.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190733",
+      "lang": "vi",
+      "content_html": "<p>Hoa trên đầu học giả quả là Trứ danh</p>",
+      "content_text": "Hoa trên đầu học giả quả là Trứ danh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156564",
+      "lang": "vi",
+      "content_html": "<p>Tác giả đội hoa trên đầu là Nguyễn Công TRỨ</p>",
+      "content_text": "Tác giả đội hoa trên đầu là Nguyễn Công TRỨ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156565",
+      "lang": "vi",
+      "content_html": "<p>người đội hoa trên đầu là tác giả chứ ai</p>",
+      "content_text": "người đội hoa trên đầu là tác giả chứ ai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

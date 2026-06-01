@@ -1,0 +1,91 @@
+{
+  "kanji": "吉",
+  "meta": {
+    "weight": 449,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キチ",
+      "キツ"
+    ],
+    "kun": [
+      "よし"
+    ],
+    "am_han": "CÁT"
+  },
+  "meaning": {
+    "vi": "chúc may mắn, niềm vui, xin chúc mừng",
+    "en": "good luck, joy, congratulations"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/吉.svg"
+  },
+  "frequency": 711,
+  "examples": [
+    "吉",
+    "不吉",
+    "諭吉",
+    "大吉",
+    "吉日"
+  ],
+  "explanation": {
+    "id": "1457",
+    "text": "吉 (đọc là \"kitsu\" hoặc \"yoshi\") có nghĩa là \"may mắn\", \"hạnh phúc\". \n\nVí dụ:\n- 吉日 (kijitsu): Ngày tốt, ngày may mắn.\n- 吉報 (kippō): Tin vui, tin tốt.\n- 幸吉 (sachi-kichi): Hạnh phúc và may mắn."
+  },
+  "comments": [
+    {
+      "id": "37188",
+      "lang": "vi",
+      "content_html": "<p>Võ sĩ (士) hét to: \"Chúc <strong>may mắn</strong>!\"</p>",
+      "content_text": "Võ sĩ (士) hét to: \"Chúc\nmay mắn\n!\"",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd34aa8365.jpg",
+      "image_path": "assets/images/吉_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152313",
+      "lang": "vi",
+      "content_html": "<p>người sỹ quan dùng miệng để làm việc tốt lành</p>",
+      "content_text": "người sỹ quan dùng miệng để làm việc tốt lành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152314",
+      "lang": "vi",
+      "content_html": "<p>Người có học (Sĩ) 士 luôn Nói (Khẩu) 口 ra những điều TỐT LÀNH (Cát) 吉</p>",
+      "content_text": "Người có học (Sĩ) 士 luôn Nói (Khẩu) 口 ra những điều TỐT LÀNH (Cát) 吉",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

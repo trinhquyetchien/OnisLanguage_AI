@@ -1,0 +1,88 @@
+{
+  "kanji": "盤",
+  "meta": {
+    "weight": 1835,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バン"
+    ],
+    "kun": [],
+    "am_han": "BÀN"
+  },
+  "meaning": {
+    "vi": "khay, bát cạn, đĩa, bồn tắm, bảng, đĩa hát",
+    "en": "tray, shallow bowl, platter, tub, board, phonograph record"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/盤.svg"
+  },
+  "frequency": 881,
+  "examples": [
+    "基盤",
+    "盤",
+    "中盤",
+    "終盤",
+    "地盤"
+  ],
+  "explanation": {
+    "id": "6518",
+    "text": "盤 (đọc là \"ban\") có nghĩa là \"bàn\", \"mâm\" để chỉ các vật phẳng, thường được sử dụng trong bối cảnh liên quan đến trò chơi hoặc bàn ăn.\n\nVí dụ:\n- 盤面 (banmen): Bề mặt bàn cờ.\n- 鉄板 (teppan): Bà"
+  },
+  "comments": [
+    {
+      "id": "155538",
+      "lang": "vi",
+      "content_html": "<p>Đặt thuyền kẻ thù lên bàn đĩa</p>",
+      "content_text": "Đặt thuyền kẻ thù lên bàn đĩa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155539",
+      "lang": "vi",
+      "content_html": "<p>ném cái đĩa lên thuyền rơi trúng bàn</p>",
+      "content_text": "ném cái đĩa lên thuyền rơi trúng bàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155540",
+      "lang": "vi",
+      "content_html": "<p>舟 CHU 殳 THÙ 皿 MÃNH 盤 BÀN<br>vào thời nhà CHU cái BÀN dùng để đựng dĩa (mãnh) và binh khí (thù)</p>",
+      "content_text": "舟 CHU 殳 THÙ 皿 MÃNH 盤 BÀN\nvào thời nhà CHU cái BÀN dùng để đựng dĩa (mãnh) và binh khí (thù)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

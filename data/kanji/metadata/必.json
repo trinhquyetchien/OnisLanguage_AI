@@ -1,0 +1,90 @@
+{
+  "kanji": "必",
+  "meta": {
+    "weight": 939,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒツ"
+    ],
+    "kun": [
+      "かなら.ず"
+    ],
+    "am_han": "TẤT"
+  },
+  "meaning": {
+    "vi": "chắc chắn, tất nhiên",
+    "en": "invariably, certain, inevitable"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/必.svg"
+  },
+  "frequency": 265,
+  "examples": [
+    "必要",
+    "必ず",
+    "必ずしも",
+    "必須",
+    "必死"
+  ],
+  "explanation": {
+    "id": "6665",
+    "text": "必 (đọc là \"hitsuyou\") có nghĩa là \"cần thiết\", \"nhất định\" để chỉ những điều không thể thiếu hoặc điều chắc chắn sẽ xảy ra.  \nVí dụ:  \n- 必要 (hitsuyou): Cần thiết.  \n- 必死 (hisshi): Quyết tâm,"
+  },
+  "comments": [
+    {
+      "id": "191014",
+      "lang": "vi",
+      "content_html": "<p><strong>tất yếu</strong></p>",
+      "content_text": "tất yếu",
+      "image_url": "https://jpdictionary.com/upload/images/648a8dc039e4a.jpg",
+      "image_path": "assets/images/必_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "37095",
+      "lang": "vi",
+      "content_html": "<p>Anh <strong>nhất định</strong> sẽ giành được trái tim (心) em.</p>",
+      "content_text": "Anh\nnhất định\nsẽ giành được trái tim (心) em.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb2bbd71b9.jpg",
+      "image_path": "assets/images/必_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153508",
+      "lang": "vi",
+      "content_html": "<p>Con TIM mà bị chém cho một nhát thì TẤT yếu sẽ chết</p>",
+      "content_text": "Con TIM mà bị chém cho một nhát thì TẤT yếu sẽ chết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

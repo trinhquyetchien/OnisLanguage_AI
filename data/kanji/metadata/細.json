@@ -1,0 +1,110 @@
+{
+  "kanji": "細",
+  "meta": {
+    "weight": 2065,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "ほそ.い",
+      "ほそ.る",
+      "こま.か",
+      "こま.かい"
+    ],
+    "am_han": "TẾ"
+  },
+  "meaning": {
+    "vi": "nhỏ, tinh tế",
+    "en": "dainty, get thin, taper, slender, narrow, detailed, precise"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/細.svg"
+  },
+  "frequency": 537,
+  "examples": [
+    "詳細",
+    "細胞",
+    "細かい",
+    "細かく",
+    "細い"
+  ],
+  "explanation": {
+    "id": "2827",
+    "text": "細 (đọc là \"sai\" hoặc \"hosoi\") có nghĩa là \"mỏng\", \"nhỏ\", \"tinh tế\" để chỉ sự mảnh mai hay chi tiết tinh xảo trong một vật thể hoặc ý tưởng.\n\nVí dụ:\n- 細い (hosoi): Mỏng, nhỏ.\n- 細部 (saibu): Chi"
+  },
+  "comments": [
+    {
+      "id": "37374",
+      "lang": "vi",
+      "content_html": "<p>Lúa trên đồng (田) <strong>nhỏ </strong>như sợi chỉ (糸).</p>",
+      "content_text": "Lúa trên đồng (田)\nnhỏ\nnhư sợi chỉ (糸).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfec209fadb.jpg",
+      "image_path": "assets/images/細_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156015",
+      "lang": "vi",
+      "content_html": "<p>mày cầm cuộn CHỈ ra RUỘNG mà TẾ à thằng kia ???</p>",
+      "content_text": "mày cầm cuộn CHỈ ra RUỘNG mà TẾ à thằng kia ???",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156016",
+      "lang": "vi",
+      "content_html": "<p>Đo ruộng bằng sợi chỉ mỏng thật tính tế</p>",
+      "content_text": "Đo ruộng bằng sợi chỉ mỏng thật tính tế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156017",
+      "lang": "vi",
+      "content_html": "<p>Dùng sợi dây (糸) đo đạt, phân cách ruộng đất(田) thật tinh TẾ (細)</p>",
+      "content_text": "Dùng sợi dây (糸) đo đạt, phân cách ruộng đất(田) thật tinh TẾ (細)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

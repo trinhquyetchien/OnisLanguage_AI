@@ -1,0 +1,88 @@
+{
+  "kanji": "舛",
+  "meta": {
+    "weight": 2233,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ブ",
+      "セン"
+    ],
+    "kun": [
+      "まい",
+      "そむ.く"
+    ],
+    "am_han": "SUYỄN"
+  },
+  "meaning": {
+    "vi": "khiêu vũ cực đoan (số 136)",
+    "en": "dancing radical (no. 136)"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/舛.svg"
+  },
+  "frequency": 2490,
+  "examples": [
+    "舛"
+  ],
+  "explanation": {
+    "id": "4547",
+    "text": "舛 (đọc là \"shun\") có nghĩa là \"trái ngược\", \"khác biệt\" để chỉ sự không phù hợp hoặc trái chiều. \n\nVí dụ:\n- 舛錯 (shunsaku): Sự sai lầm, nhầm lẫn.\n- 舛名 (shunmei): Tên gọi khác nhau, sự khác bi"
+  },
+  "comments": [
+    {
+      "id": "156418",
+      "lang": "vi",
+      "content_html": "<p>Con bò mak lộn ngược vào chiều tối là một sai lầm</p>",
+      "content_text": "Con bò mak lộn ngược vào chiều tối là một sai lầm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156419",
+      "lang": "vi",
+      "content_html": "<p>bị hen SUYỄN mà ra ngoài lúc 12 h tối là SAI LẦM</p>",
+      "content_text": "bị hen SUYỄN mà ra ngoài lúc 12 h tối là SAI LẦM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156420",
+      "lang": "vi",
+      "content_html": "<p>Suyễn làm điều sai lầm trong (中) chiều tối（夕）</p>",
+      "content_text": "Suyễn làm điều sai lầm trong (中) chiều tối（夕）",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

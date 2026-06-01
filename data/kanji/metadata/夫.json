@@ -1,0 +1,93 @@
+{
+  "kanji": "夫",
+  "meta": {
+    "weight": 626,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ",
+      "フウ",
+      "ブ"
+    ],
+    "kun": [
+      "おっと",
+      "それ"
+    ],
+    "am_han": "PHU"
+  },
+  "meaning": {
+    "vi": "chồng, trượng phu",
+    "en": "husband, man"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/夫.svg"
+  },
+  "frequency": 335,
+  "examples": [
+    "夫",
+    "大丈夫",
+    "夫婦",
+    "工夫",
+    "夫人"
+  ],
+  "explanation": {
+    "id": "6791",
+    "text": "夫 (đọc là \"fu\" hoặc \"otto\") có nghĩa là \"chồng\" hoặc \"người đàn ông\", thường chỉ đến người nam trong mối quan hệ gia đình hoặc xã hội. \n\nVí dụ:\n- 夫婦 (fuufu): Vợ chồng.\n- 夫 (otto): Chồng.\n- 夫"
+  },
+  "comments": [
+    {
+      "id": "190959",
+      "lang": "vi",
+      "content_html": "<p><strong>chồng</strong></p>",
+      "content_text": "chồng",
+      "image_url": "https://jpdictionary.com/upload/images/648a76ce51f36.jpg",
+      "image_path": "assets/images/夫_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "947",
+      "lang": "vi",
+      "content_html": "<p>Tôi và<strong> chồng</strong>, 2 (に) người (人) luôn luôn bên nhau.</p>",
+      "content_text": "Tôi và\nchồng\n, 2 (に) người (人) luôn luôn bên nhau.",
+      "image_url": "https://jpdictionary.com/upload/images/6298c9f54d9aa.jpg",
+      "image_path": "assets/images/夫_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152737",
+      "lang": "vi",
+      "content_html": "<p>Nhất 一 đại 大 trượng phu 夫</p>",
+      "content_text": "Nhất 一 đại 大 trượng phu 夫",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

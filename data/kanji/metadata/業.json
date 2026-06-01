@@ -1,0 +1,91 @@
+{
+  "kanji": "業",
+  "meta": {
+    "weight": 1397,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギョウ",
+      "ゴウ"
+    ],
+    "kun": [
+      "わざ"
+    ],
+    "am_han": "NGHIỆP"
+  },
+  "meaning": {
+    "vi": "nghề nghiệp",
+    "en": "business, vocation, arts, performance"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/業.svg"
+  },
+  "frequency": 43,
+  "examples": [
+    "企業",
+    "事業",
+    "作業",
+    "産業",
+    "授業"
+  ],
+  "explanation": {
+    "id": "1723",
+    "text": "業 (đọc là \"gyō\" hoặc \"waza\") có nghĩa là \"ngành nghề\", \"công việc\" hoặc \"hành động, nghiệp\". Nó thường chỉ các hoạt động nghề nghiệp hoặc công việc mà con người thực hiện.\n\nVí dụ:\n- 業種 (gyōs"
+  },
+  "comments": [
+    {
+      "id": "191071",
+      "lang": "vi",
+      "content_html": "<p>tốt <strong>nghiệp </strong>- 卒業</p>",
+      "content_text": "tốt\nnghiệp\n- 卒業",
+      "image_url": "https://jpdictionary.com/upload/images/648a94aff418b.jpg",
+      "image_path": "assets/images/業_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36875",
+      "lang": "vi",
+      "content_html": "<p>Nuôi cừu (羊) trong hàng rào là <strong>công việc</strong> của tôi.</p>",
+      "content_text": "Nuôi cừu (羊) trong hàng rào là\ncông việc\ncủa tôi.",
+      "image_url": "https://jpdictionary.com/upload/images/62adddf6855d2.jpg",
+      "image_path": "assets/images/業_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158269",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>授業 (じゅぎょう): tiết học, giờ học<br>工業 (こうぎょう): công nghiệp<br>産業 (さんぎょう): công nghiệp<br>卒業 (そつぎょう): tốt nghiệp<br>営業 (えいぎゅう): kinh doanh<br>残業 (ざんぎょう): làm thêm giờ</p>",
+      "content_text": "JLPT N4\n授業 (じゅぎょう): tiết học, giờ học\n工業 (こうぎょう): công nghiệp\n産業 (さんぎょう): công nghiệp\n卒業 (そつぎょう): tốt nghiệp\n営業 (えいぎゅう): kinh doanh\n残業 (ざんぎょう): làm thêm giờ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

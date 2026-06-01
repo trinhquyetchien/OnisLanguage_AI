@@ -1,0 +1,90 @@
+{
+  "kanji": "牙",
+  "meta": {
+    "weight": 1691,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガ",
+      "ゲ"
+    ],
+    "kun": [
+      "きば",
+      "は"
+    ],
+    "am_han": "NHA"
+  },
+  "meaning": {
+    "vi": "răng nanh, gốc răng nanh (số 92)",
+    "en": "tusk, fang, tusk radical (no. 92)"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/牙.svg"
+  },
+  "frequency": 2067,
+  "examples": [
+    "牙",
+    "象牙",
+    "牙城"
+  ],
+  "explanation": {
+    "id": "723",
+    "text": "牙 (đọc là \"ga\", \"yagami\") có nghĩa là \"răng\" hoặc \"mảnh sắc nhọn\" để chỉ các bộ phận sắc nhọn, thường liên quan đến răng hoặc hình dạng giống như răng.\n\nVí dụ:\n- 牙医 (gai): Nha sĩ.\n- 牙 (ya): "
+  },
+  "comments": [
+    {
+      "id": "155228",
+      "lang": "vi",
+      "content_html": "<p>số 9 có lưỡi NHA ^^</p>",
+      "content_text": "số 9 có lưỡi NHA ^^",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155229",
+      "lang": "vi",
+      "content_html": "<p>có chữ TÀI nhưng cũng gần giống chữ niên <br>=) đây là thanh Niên Tài năng đó NHA , chị hiểu hôn</p>",
+      "content_text": "có chữ TÀI nhưng cũng gần giống chữ niên\n=) đây là thanh Niên Tài năng đó NHA , chị hiểu hôn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155230",
+      "lang": "vi",
+      "content_html": "<p>4 nét chứ k phải 5 nét đâu NHA</p>",
+      "content_text": "4 nét chứ k phải 5 nét đâu NHA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

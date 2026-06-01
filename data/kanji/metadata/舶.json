@@ -1,0 +1,85 @@
+{
+  "kanji": "舶",
+  "meta": {
+    "weight": 2240,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハク"
+    ],
+    "kun": [],
+    "am_han": "BẠC"
+  },
+  "meaning": {
+    "vi": "lót, tàu",
+    "en": "liner, ship"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/舶.svg"
+  },
+  "frequency": 1753,
+  "examples": [
+    "船舶",
+    "舶来"
+  ],
+  "explanation": {
+    "id": "6338",
+    "text": "舶 (đọc là \"haku\") có nghĩa là \"tàu lớn\" hoặc \"thuyền buôn\", thường liên quan đến vận tải đường biển và thương mại.  \nVí dụ:  \n- 舶来品 (hakuraihin): Hàng hóa nhập khẩu, hàng hóa từ nước ngoài. "
+  },
+  "comments": [
+    {
+      "id": "156436",
+      "lang": "vi",
+      "content_html": "<p>Thuyền trắng là thuyền bạc lớn</p>",
+      "content_text": "Thuyền trắng là thuyền bạc lớn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156437",
+      "lang": "vi",
+      "content_html": "<p>船舶 : tàu thủy , tàu thuyền</p>",
+      "content_text": "船舶 : tàu thủy , tàu thuyền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156438",
+      "lang": "vi",
+      "content_html": "<p>Thuyền của Râu trắng là thuyền Bạc lớn ( One Piece)</p>",
+      "content_text": "Thuyền của Râu trắng là thuyền Bạc lớn ( One Piece)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

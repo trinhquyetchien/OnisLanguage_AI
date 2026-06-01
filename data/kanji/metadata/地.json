@@ -1,0 +1,89 @@
+{
+  "kanji": "地",
+  "meta": {
+    "weight": 547,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チ",
+      "ジ"
+    ],
+    "kun": [],
+    "am_han": "ĐỊA"
+  },
+  "meaning": {
+    "vi": "đất, thổ địa",
+    "en": "ground, earth"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/地.svg"
+  },
+  "frequency": 40,
+  "examples": [
+    "地域",
+    "地方",
+    "地",
+    "地球",
+    "土地"
+  ],
+  "explanation": {
+    "id": "5199",
+    "text": "地 (đọc là \"chi\") có nghĩa là \"đất\", \"vùng đất\" hoặc \"nơi chốn\". \nVí dụ:\n- 地球 (chikyū): Trái đất.\n- 地図 (chizu): Bản đồ.\n- 土地 (tochi): Đất đai, vùng đất."
+  },
+  "comments": [
+    {
+      "id": "190947",
+      "lang": "vi",
+      "content_html": "<p><strong>đất</strong></p>",
+      "content_text": "đất",
+      "image_url": "https://jpdictionary.com/upload/images/648a752556ff6.jpg",
+      "image_path": "assets/images/地_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36908",
+      "lang": "vi",
+      "content_html": "<p>Ở <strong>vùng đất </strong>này, có con bò cạp ở dưới lòng đất (土).</p>",
+      "content_text": "Ở\nvùng đất\nnày, có con bò cạp ở dưới lòng đất (土).",
+      "image_url": "https://jpdictionary.com/upload/images/62bc402909e80.jpg",
+      "image_path": "assets/images/地_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158268",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>地下鉄 (ちかてつ): tàu điện ngầm<br>地図 (ちず): bản đồ<br>地震 (じしん): động đất<br>地理 (ちり): địa lý<br>遊園地 (ゆうえんち): khu vui chơi giải trí<br>地下 (ちか): dưới lòng đất</p>",
+      "content_text": "JLPT N4\n地下鉄 (ちかてつ): tàu điện ngầm\n地図 (ちず): bản đồ\n地震 (じしん): động đất\n地理 (ちり): địa lý\n遊園地 (ゆうえんち): khu vui chơi giải trí\n地下 (ちか): dưới lòng đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "kanji": "箕",
+  "meta": {
+    "weight": 2002,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "み"
+    ],
+    "am_han": "KY, CƠ"
+  },
+  "meaning": {
+    "vi": "hiểu biết",
+    "en": "winnowing"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/箕.svg"
+  },
+  "frequency": 2023,
+  "examples": [],
+  "explanation": {
+    "id": "7481",
+    "text": "箕 (đọc là \"ki\") có nghĩa là \"cái sàng\" hoặc \"cái rổ\" dùng để sàng lọc, phân loại các loại hạt hoặc vật liệu. \n\nVí dụ:\n- 箕付き (kizuki): Cái sàng, cái rổ.\n- 箕 (ki): Cái sàng, dụng cụ để sàng lọ"
+  },
+  "comments": []
+}

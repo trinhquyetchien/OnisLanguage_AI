@@ -1,0 +1,90 @@
+{
+  "kanji": "輝",
+  "meta": {
+    "weight": 2616,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "かがや.く"
+    ],
+    "am_han": "HUY"
+  },
+  "meaning": {
+    "vi": "rạng rỡ, tỏa sáng, lấp lánh",
+    "en": "radiance, shine, sparkle, gleam, twinkle"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/輝.svg"
+  },
+  "frequency": 1259,
+  "examples": [
+    "輝き",
+    "輝く",
+    "輝かしい",
+    "輝度",
+    "光り輝く"
+  ],
+  "explanation": {
+    "id": "1384",
+    "text": "輝 (đọc là \"ki\") có nghĩa là \"sáng chói\", \"rực rỡ\" để chỉ ánh sáng hoặc sự lấp lánh.\n\nVí dụ:\n- 輝く (hikaru): Tỏa sáng, lấp lánh.\n- 輝き (hikaki): Ánh sáng, sự rực rỡ.\n- 輝かしい (hikarashii): Rực rỡ"
+  },
+  "comments": [
+    {
+      "id": "157234",
+      "lang": "vi",
+      "content_html": "<p>Đội QUÂN vinh QUANG trở về nhận HUY chương</p>",
+      "content_text": "Đội QUÂN vinh QUANG trở về nhận HUY chương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157235",
+      "lang": "vi",
+      "content_html": "<p>dưới hào QUANG của đảng, QUÂN đội sẽ phát triển HUY hoàng, rực rỡ..copy..av..</p>",
+      "content_text": "dưới hào QUANG của đảng, QUÂN đội sẽ phát triển HUY hoàng, rực rỡ..copy..av..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157236",
+      "lang": "vi",
+      "content_html": "<p>quân lính chiến đấu dưới ánh sáng là quân đội huy hoàng</p>",
+      "content_text": "quân lính chiến đấu dưới ánh sáng là quân đội huy hoàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

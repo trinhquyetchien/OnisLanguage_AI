@@ -1,0 +1,111 @@
+{
+  "kanji": "深",
+  "meta": {
+    "weight": 1561,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "ふか.い",
+      "-ぶか.い",
+      "ふか.まる",
+      "ふか.める",
+      "み-"
+    ],
+    "am_han": "THÂM"
+  },
+  "meaning": {
+    "vi": "thâm sâu, thâm hậu",
+    "en": "deep, heighten, intensify, strengthen"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/深.svg"
+  },
+  "frequency": 484,
+  "examples": [
+    "深い",
+    "深く",
+    "深刻",
+    "深夜",
+    "興味深い"
+  ],
+  "explanation": {
+    "id": "4092",
+    "text": "深 (đọc là \"shin\" hoặc \"fuka\") có nghĩa là \"sâu\", \"sự sâu sắc\" để chỉ độ sâu về mặt vật lý hoặc biểu tượng cho sự thâm thúy trong tư duy, cảm xúc.\n\nVí dụ:\n- 深い (fukai): Sâu (về chiều sâu).\n- "
+  },
+  "comments": [
+    {
+      "id": "154942",
+      "lang": "vi",
+      "content_html": "<p>Vứt cái CÂY xuống nước để đo độ sâu của lòng sông</p>",
+      "content_text": "Vứt cái CÂY xuống nước để đo độ sâu của lòng sông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190659",
+      "lang": "vi",
+      "content_html": "<p>có cái Lỗ chứa Nước trên thân Cây rất Sâu</p>",
+      "content_text": "có cái Lỗ chứa Nước trên thân Cây rất Sâu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "154943",
+      "lang": "vi",
+      "content_html": "<p>Cái khăn phủ lên 8 cái cây thì nước rất thâm</p>",
+      "content_text": "Cái khăn phủ lên 8 cái cây thì nước rất thâm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154944",
+      "lang": "vi",
+      "content_html": "<p>đút cái CÂY vào LỖ để NƯỚC chảy ra quả là THÂM thúy</p>",
+      "content_text": "đút cái CÂY vào LỖ để NƯỚC chảy ra quả là THÂM thúy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

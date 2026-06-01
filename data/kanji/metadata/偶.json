@@ -1,0 +1,90 @@
+{
+  "kanji": "偶",
+  "meta": {
+    "weight": 229,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "グウ"
+    ],
+    "kun": [
+      "たま"
+    ],
+    "am_han": "NGẪU"
+  },
+  "meaning": {
+    "vi": "ngẫu nhiên",
+    "en": "accidentally, even number, couple, man & wife, same kind"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/偶.svg"
+  },
+  "frequency": 1602,
+  "examples": [
+    "偶然",
+    "配偶",
+    "偶像",
+    "偶発",
+    "偶"
+  ],
+  "explanation": {
+    "id": "1851",
+    "text": "偶 (đọc là \"guu\" hoặc \"ou\") có nghĩa là \"ngẫu nhiên\", \"ngẫu hứng\", thường liên quan đến cặp đôi hoặc sự kết hợp.  \nVí dụ:  \n- 偶然 (guuzen): Ngẫu nhiên, tình cờ.  \n- 偶像 (guuzou): Thần tượng, hì"
+  },
+  "comments": [
+    {
+      "id": "151762",
+      "lang": "vi",
+      "content_html": "<p>một Người Ngẫu nhiên bị Ngu</p>",
+      "content_text": "một Người Ngẫu nhiên bị Ngu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151763",
+      "lang": "vi",
+      "content_html": "<p>Ngẫu nhiên yêu 1 người rồi ngu luôn</p>",
+      "content_text": "Ngẫu nhiên yêu 1 người rồi ngu luôn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151764",
+      "lang": "vi",
+      "content_html": "<p>1 người đứng kiểu rất ngu (禺)=&#62; 偶</p>",
+      "content_text": "1 người đứng kiểu rất ngu (禺)=> 偶",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

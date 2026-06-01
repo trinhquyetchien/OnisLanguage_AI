@@ -1,0 +1,109 @@
+{
+  "kanji": "申",
+  "meta": {
+    "weight": 1776,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "もう.す",
+      "もう.し-",
+      "さる"
+    ],
+    "am_han": "THÂN"
+  },
+  "meaning": {
+    "vi": "thân thỉnh (xin)",
+    "en": "have the honor to, sign of the monkey, 3-5PM, ninth sign of Chinese zodiac"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/申.svg"
+  },
+  "frequency": 492,
+  "examples": [
+    "申し",
+    "申請",
+    "申し訳",
+    "申し込み",
+    "申込"
+  ],
+  "explanation": {
+    "id": "4096",
+    "text": "申 (đọc là \"shin\" hoặc \"mōsu\") có nghĩa là \"thỉnh cầu\", \"xin xỏ\" để chỉ hành động trình bày ý kiến hoặc yêu cầu điều gì đó.  \nVí dụ:  \n- 申請 (shinsei): Đơn xin, thỉnh cầu.  \n- 申し訳ない (mōshiwake"
+  },
+  "comments": [
+    {
+      "id": "37315",
+      "lang": "vi",
+      "content_html": "<p>Sấm sét đã <strong>nói</strong>.</p>",
+      "content_text": "Sấm sét đã\nnói\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe469e15eb.jpg",
+      "image_path": "assets/images/申_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155399",
+      "lang": "vi",
+      "content_html": "<p>1 thân ngoài đồng</p>",
+      "content_text": "1 thân ngoài đồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155400",
+      "lang": "vi",
+      "content_html": "<p>1 mình ở đồng ruộng riết rồi cũng Thân</p>",
+      "content_text": "1 mình ở đồng ruộng riết rồi cũng Thân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155401",
+      "lang": "vi",
+      "content_html": "<p>một thân một mình cắm cọc xuyên mặt trời</p>",
+      "content_text": "một thân một mình cắm cọc xuyên mặt trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

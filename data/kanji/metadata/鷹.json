@@ -1,0 +1,89 @@
+{
+  "kanji": "鷹",
+  "meta": {
+    "weight": 3013,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ",
+      "オウ"
+    ],
+    "kun": [
+      "たか"
+    ],
+    "am_han": "ƯNG"
+  },
+  "meaning": {
+    "vi": "chim ưng",
+    "en": "hawk"
+  },
+  "stroke": {
+    "count": 24,
+    "svg": "assets/svg/鷹.svg"
+  },
+  "frequency": 1676,
+  "examples": [
+    "鷹",
+    "鷹野",
+    "鷹揚"
+  ],
+  "explanation": {
+    "id": "5011",
+    "text": "鷹 (đọc là \"taka\") có nghĩa là \"đại bàng\" để chỉ loài chim săn mồi lớn, thường biểu trưng cho sức mạnh và sự tự do.  \nVí dụ:  \n- 鷹揚 (youyou): Tính cách rộng lượng, hào phóng.  \n- 鷹狩り (takagar"
+  },
+  "comments": [
+    {
+      "id": "158078",
+      "lang": "vi",
+      "content_html": "<p>một ng ở dưới ngôi nhà thấy một con chim hóa ra đó là chim ưng</p>",
+      "content_text": "một ng ở dưới ngôi nhà thấy một con chim hóa ra đó là chim ưng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158079",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI 人 NGỒI DƯỚI NHÀ 广 THẤY CON CHIM 隹  GIỐNG CON ĐÀ ĐIỂU 鳥 NHƯNG THẬT RA NÓ LÀ CHIM ƯNG 鷹</p>",
+      "content_text": "NGƯỜI 人 NGỒI DƯỚI NHÀ 广 THẤY CON CHIM 隹  GIỐNG CON ĐÀ ĐIỂU 鳥 NHƯNG THẬT RA NÓ LÀ CHIM ƯNG 鷹",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158080",
+      "lang": "vi",
+      "content_html": "<p>Đi bắt chim Ưng ở trên núi về thuần thành chim nhà.</p>",
+      "content_text": "Đi bắt chim Ưng ở trên núi về thuần thành chim nhà.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

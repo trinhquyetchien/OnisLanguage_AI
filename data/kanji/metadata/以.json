@@ -1,0 +1,90 @@
+{
+  "kanji": "以",
+  "meta": {
+    "weight": 145,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "もっ.て"
+    ],
+    "am_han": "DĨ"
+  },
+  "meaning": {
+    "vi": "bởi vì, vốn dĩ",
+    "en": "by means of, because, in view of, compared with"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/以.svg"
+  },
+  "frequency": 126,
+  "examples": [
+    "以上",
+    "以外",
+    "以下",
+    "以前",
+    "以降"
+  ],
+  "explanation": {
+    "id": "110",
+    "text": "以 (đọc là \"i\") có nghĩa là \"dựa vào\", \"sử dụng\" để chỉ hành động dựa trên một điều gì đó hoặc phương thức thực hiện.\n\nVí dụ:\n- 以前 (izen): Trước đây, trước kia.\n- 以来 (irai): Kể từ đó, từ khi."
+  },
+  "comments": [
+    {
+      "id": "36956",
+      "lang": "vi",
+      "content_html": "<p>Chỗ này là <strong>vạch xuất phát</strong>.</p>",
+      "content_text": "Chỗ này là\nvạch xuất phát\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc46e7aa789.jpg",
+      "image_path": "assets/images/以_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151553",
+      "lang": "vi",
+      "content_html": "<p>T (tình) Y (yêu) =&#62; 2 chữ T và Y ngược, nghĩa là Tình Yêu đã trôi vào Dĩ vãng</p>",
+      "content_text": "T (tình) Y (yêu) => 2 chữ T và Y ngược, nghĩa là Tình Yêu đã trôi vào Dĩ vãng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158301",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>以下 (いか): dưới</p><p>以上 (いじょう): trên, hết</p><p>以内 (いない): trong<br>以外 (いがい): ngoài</p>",
+      "content_text": "JLPT N4\n以下 (いか): dưới\n以上 (いじょう): trên, hết\n以内 (いない): trong\n以外 (いがい): ngoài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

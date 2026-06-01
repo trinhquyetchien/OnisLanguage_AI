@@ -1,0 +1,109 @@
+{
+  "kanji": "武",
+  "meta": {
+    "weight": 1453,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ブ",
+      "ム"
+    ],
+    "kun": [
+      "たけ",
+      "たけ.し"
+    ],
+    "am_han": "VŨ"
+  },
+  "meaning": {
+    "vi": "vũ khí, vũ trang",
+    "en": "warrior, military, chivalry, arms"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/武.svg"
+  },
+  "frequency": 387,
+  "examples": [
+    "武器",
+    "武",
+    "武装",
+    "武力",
+    "武士"
+  ],
+  "explanation": {
+    "id": "6868",
+    "text": "武 (đọc là \"bu\") có nghĩa là \"vũ lực\", \"chiến đấu\" để chỉ các khía cạnh liên quan đến võ thuật, quân đội và sức mạnh chiến tranh.  \nVí dụ:  \n- 武士 (bushi): Samurai, chiến binh.  \n- 武道 (budō): "
+  },
+  "comments": [
+    {
+      "id": "154678",
+      "lang": "vi",
+      "content_html": "<p>cây Qua là Vũ khí đã chặt đứt đầu ông Chính</p>",
+      "content_text": "cây Qua là Vũ khí đã chặt đứt đầu ông Chính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190695",
+      "lang": "vi",
+      "content_html": "<p>Chỉ cần 1 cây Dặc làm Vũ khí</p>",
+      "content_text": "Chỉ cần 1 cây Dặc làm Vũ khí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "154679",
+      "lang": "vi",
+      "content_html": "<p>Cuộc chiến chỉ dừng lại ở vũ lực</p>",
+      "content_text": "Cuộc chiến chỉ dừng lại ở vũ lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154680",
+      "lang": "vi",
+      "content_html": "<p>VŨ khí của giặc chỉ nên dùng 1 lần</p>",
+      "content_text": "VŨ khí của giặc chỉ nên dùng 1 lần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

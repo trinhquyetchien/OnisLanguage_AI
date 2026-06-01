@@ -1,0 +1,84 @@
+{
+  "kanji": "迅",
+  "meta": {
+    "weight": 2637,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジン"
+    ],
+    "kun": [],
+    "am_han": "TẤN"
+  },
+  "meaning": {
+    "vi": "nhanh chóng",
+    "en": "swift, fast"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/迅.svg"
+  },
+  "frequency": 1888,
+  "examples": [
+    "迅速"
+  ],
+  "explanation": {
+    "id": "4175",
+    "text": "迅 (đọc là \"shun\") có nghĩa là \"nhanh chóng\", \"khẩn trương\" để chỉ sự nhanh nhẹn hoặc tốc độ trong hành động.  \nVí dụ:  \n- 迅速 (jinsoku): Nhanh chóng, mau lẹ.  \n- 迅達 (shintatsu): Gửi nhanh, ch"
+  },
+  "comments": [
+    {
+      "id": "157275",
+      "lang": "vi",
+      "content_html": "<p>đi bằng con đường này nhanh gấp 10 lần qua sườn núi kia hehe</p>",
+      "content_text": "đi bằng con đường này nhanh gấp 10 lần qua sườn núi kia hehe",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157276",
+      "lang": "vi",
+      "content_html": "<p>Dẫn 10 TẤN hàng qua Núi</p>",
+      "content_text": "Dẫn 10 TẤN hàng qua Núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157277",
+      "lang": "vi",
+      "content_html": "<p>vận  chuyển 10 tấn hàng qua núi nhanh chóng</p>",
+      "content_text": "vận  chuyển 10 tấn hàng qua núi nhanh chóng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

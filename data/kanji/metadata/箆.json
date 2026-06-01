@@ -1,0 +1,35 @@
+{
+  "kanji": "箆",
+  "meta": {
+    "weight": 1999,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘイ",
+      "ハイ"
+    ],
+    "kun": [
+      "へら",
+      "の",
+      "くし"
+    ],
+    "am_han": "BỀ"
+  },
+  "meaning": {
+    "vi": "thìa, trục mũi tên",
+    "en": "spatula, arrow shaft"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/箆.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7045",
+    "text": "箆 (đọc là \"he\") có nghĩa là \"cái thìa\" hoặc \"cái muỗng\", thường chỉ các dụng cụ dùng để khuấy hoặc lấy thức ăn. \n\nVí dụ:\n- 箆 (he): Thìa, muỗng.\n- 箆で混ぜる (he de mazeru): Khuấy bằng thìa.\n- 箆状の"
+  },
+  "comments": []
+}

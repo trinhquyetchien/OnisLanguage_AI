@@ -1,0 +1,93 @@
+{
+  "kanji": "辛",
+  "meta": {
+    "weight": 2626,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "から.い",
+      "つら.い",
+      "-づら.い",
+      "かのと"
+    ],
+    "am_han": "TÂN"
+  },
+  "meaning": {
+    "vi": "cay",
+    "en": "spicy, bitter, hot, acrid"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/辛.svg"
+  },
+  "frequency": 1607,
+  "examples": [
+    "辛い",
+    "辛",
+    "辛く",
+    "辛口",
+    "唐辛子"
+  ],
+  "explanation": {
+    "id": "4131",
+    "text": "辛 (đọc là \"shin\") có nghĩa là \"cay đắng\", \"khó khăn\" để chỉ cảm giác đau đớn hoặc sự thử thách trong cuộc sống.\n\nVí dụ:\n- 辛い (tsurai): Đau đớn, khổ sở.\n- 辛口 (karakuchi): Vị cay, châm chích ("
+  },
+  "comments": [
+    {
+      "id": "37042",
+      "lang": "vi",
+      "content_html": "<p>Việc đứng (立) trên cây sào rất <strong>khổ sở</strong>.</p>",
+      "content_text": "Việc đứng (立) trên cây sào rất\nkhổ sở\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc52abc185a.jpg",
+      "image_path": "assets/images/辛_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157253",
+      "lang": "vi",
+      "content_html": "<p>MƯỜi lần đứng cay đắng</p>",
+      "content_text": "MƯỜi lần đứng cay đắng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157254",
+      "lang": "vi",
+      "content_html": "<p>Người đứng trên cây thập tự giá chịu nhiều cay đắng</p>",
+      "content_text": "Người đứng trên cây thập tự giá chịu nhiều cay đắng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

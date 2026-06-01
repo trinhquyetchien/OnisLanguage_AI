@@ -1,0 +1,124 @@
+{
+  "kanji": "算",
+  "meta": {
+    "weight": 2003,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン"
+    ],
+    "kun": [
+      "そろ"
+    ],
+    "am_han": "TOÁN"
+  },
+  "meaning": {
+    "vi": "tính toán",
+    "en": "calculate, divining, number, abacus, probability"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/算.svg"
+  },
+  "frequency": 361,
+  "examples": [
+    "予算",
+    "計算",
+    "決算",
+    "算定",
+    "算数"
+  ],
+  "explanation": {
+    "id": "3009",
+    "text": "算 (đọc là \"san\") có nghĩa là \"tính toán\", \"đếm\" để chỉ các hành động liên quan đến việc tính toán số lượng hoặc giá trị.\n\nVí dụ:\n- 計算 (keisan): Tính toán, phép tính.\n- 算数 (sansū): Toán học, "
+  },
+  "comments": [
+    {
+      "id": "155891",
+      "lang": "vi",
+      "content_html": "<p>Chắp tay đưa mắt nhìn lên hai cây trúc để làm TOÁN</p>",
+      "content_text": "Chắp tay đưa mắt nhìn lên hai cây trúc để làm TOÁN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155892",
+      "lang": "vi",
+      "content_html": "<p>Phép toán thời xưa dùng 20 que tính bằng tre : mắt nhìn và đếm</p>",
+      "content_text": "Phép toán thời xưa dùng 20 que tính bằng tre : mắt nhìn và đếm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190614",
+      "lang": "vi",
+      "content_html": "<p>算術(さんじゅつ): Môn số học<br>算出(さんしゅつ): Tính toán (bằng máy tính)<br>&nbsp;</p>",
+      "content_text": "算術(さんじゅつ): Môn số học\n算出(さんしゅつ): Tính toán (bằng máy tính)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "155893",
+      "lang": "vi",
+      "content_html": "<p>Bàn tính bằng trúc dùng để tính toán bằng cách \"tay khẩy, mắt nhìn\"<br>https://vi.wikipedia.org/wiki/Bàn_tính</p>",
+      "content_text": "Bàn tính bằng trúc dùng để tính toán bằng cách \"tay khẩy, mắt nhìn\"\nhttps://vi.wikipedia.org/wiki/Bàn_tính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222420",
+      "lang": "vi",
+      "content_html": "<p>算 (đọc là \"san\") có nghĩa là \"tính toán\", \"đếm\" để chỉ các hành động liên quan đến việc tính toán số lượng hoặc giá trị.</p><p>Ví dụ:</p><ul><li>計算 (keisan): Tính toán, phép tính.</li><li>算数 (sansū): Toán học, số học.</li><li>予算 (yosan): Ngân sách, dự toán.</li></ul>",
+      "content_text": "算 (đọc là \"san\") có nghĩa là \"tính toán\", \"đếm\" để chỉ các hành động liên quan đến việc tính toán số lượng hoặc giá trị.\nVí dụ:\n計算 (keisan): Tính toán, phép tính.\n算数 (sansū): Toán học, số học.\n予算 (yosan): Ngân sách, dự toán.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "7804",
+        "name": "MARUMI KIKOU",
+        "image_url": "https://jpdictionary.com/upload/images/6858ac7b8cdbd.png"
+      }
+    }
+  ]
+}

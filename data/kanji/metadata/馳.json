@@ -1,0 +1,85 @@
+{
+  "kanji": "馳",
+  "meta": {
+    "weight": 2944,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チ",
+      "ジ"
+    ],
+    "kun": [
+      "は.せる"
+    ],
+    "am_han": "TRÌ"
+  },
+  "meaning": {
+    "vi": "chạy, phi nước đại, chèo thuyền, lái xe (một toa xe), giành chiến thắng (danh tiếng), bắt giữ",
+    "en": "run, gallop, sail, drive (a wagon), win (fame), despatch"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/馳.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5232",
+    "text": "馳 (đọc là \"chi\") có nghĩa là \"chạy nhanh\" hoặc \"vội vàng\", thường chỉ các hành động liên quan đến việc di chuyển nhanh chóng.  \nVí dụ:  \n- 馳せる (haseru): Chạy, đuổi theo.  \n- 馳走 (chasō): Tiệc"
+  },
+  "comments": [
+    {
+      "id": "221046",
+      "lang": "vi",
+      "content_html": "<p>Con ngựa mang theo đất nên đến bị Trì trệ</p>",
+      "content_text": "Con ngựa mang theo đất nên đến bị Trì trệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221047",
+      "lang": "vi",
+      "content_html": "<p>TRÌ chú thu phục con Ngựa Hoang Dã</p>",
+      "content_text": "TRÌ chú thu phục con Ngựa Hoang Dã",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221048",
+      "lang": "vi",
+      "content_html": "<p>Trì chú Đuổi con Ngựa Hoang Dã.</p>",
+      "content_text": "Trì chú Đuổi con Ngựa Hoang Dã.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "kanji": "正",
+  "meta": {
+    "weight": 1451,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "ただ.しい",
+      "ただ.す",
+      "まさ",
+      "まさ.に"
+    ],
+    "am_han": "CHÍNH"
+  },
+  "meaning": {
+    "vi": "chính xác, chính đáng",
+    "en": "correct, justice, righteous, 10**40"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/正.svg"
+  },
+  "frequency": 143,
+  "examples": [
+    "改正",
+    "正しい",
+    "修正",
+    "正直",
+    "正確"
+  ],
+  "explanation": {
+    "id": "4319",
+    "text": "正 (đọc là \"sei\" hoặc \"shō\") có nghĩa là \"đúng\", \"chính xác\" hoặc \"chân chính\". Nó thường được sử dụng để chỉ sự ngay thẳng, chính trực hoặc những điều đúng đắn.\n\nVí dụ:\n- 正しい (tadashii): Đún"
+  },
+  "comments": [
+    {
+      "id": "191079",
+      "lang": "vi",
+      "content_html": "<p><strong>đúng</strong></p><p>正座 - ngồi <strong>đúng </strong>kiểu Nhật</p>",
+      "content_text": "đúng\n正座 - ngồi\nđúng\nkiểu Nhật",
+      "image_url": "https://jpdictionary.com/upload/images/648a959c807ee.jpg",
+      "image_path": "assets/images/正_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36942",
+      "lang": "vi",
+      "content_html": "<p>Việc dừng lại khi đèn đỏ là <strong>đúng</strong>.</p>",
+      "content_text": "Việc dừng lại khi đèn đỏ là\nđúng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4583a246d.jpg",
+      "image_path": "assets/images/正_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154672",
+      "lang": "vi",
+      "content_html": "<p>Nhất (-) dương chỉ (止) đã dùng là chính xác 正</p>",
+      "content_text": "Nhất (-) dương chỉ (止) đã dùng là chính xác 正",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

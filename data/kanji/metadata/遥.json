@@ -1,0 +1,88 @@
+{
+  "kanji": "遥",
+  "meta": {
+    "weight": 2684,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "はる.か"
+    ],
+    "am_han": "DIÊU, DAO"
+  },
+  "meaning": {
+    "vi": "xa, rất lâu rồi",
+    "en": "far off, distant, long ago"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/遥.svg"
+  },
+  "frequency": 2376,
+  "examples": [
+    "遥か",
+    "遥かに",
+    "逍遥"
+  ],
+  "explanation": {
+    "id": "7908",
+    "text": "遥 (đọc là \"yō\") có nghĩa là \"xa xôi\", \"xa cách\" để chỉ khoảng cách lớn hoặc trạng thái không gần gũi.  \nVí dụ:  \n- 遥か (haruka): Xa xôi, rất xa.  \n- 遥遠 (yōen): Xa xôi, xa vạn dặm.  \n- 遥かなる (h"
+  },
+  "comments": [
+    {
+      "id": "157393",
+      "lang": "vi",
+      "content_html": "<p>tôi đang trên con đường cầm cái lon 缶 đựng hoa để đi tìm lá DIÊU bông nơi XA XÔI はるか</p>",
+      "content_text": "tôi đang trên con đường cầm cái lon 缶 đựng hoa để đi tìm lá DIÊU bông nơi XA XÔI はるか",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157394",
+      "lang": "vi",
+      "content_html": "<p>Từ xa xưa trên con đường tiêu DAO , mọi người đã biết dùng móng tay để mở lon phễu</p>",
+      "content_text": "Từ xa xưa trên con đường tiêu DAO , mọi người đã biết dùng móng tay để mở lon phễu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157395",
+      "lang": "vi",
+      "content_html": "<p>tiêu dao ,tiêu diêu</p>",
+      "content_text": "tiêu dao ,tiêu diêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

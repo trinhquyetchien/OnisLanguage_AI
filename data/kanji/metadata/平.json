@@ -1,0 +1,111 @@
+{
+  "kanji": "平",
+  "meta": {
+    "weight": 849,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘイ",
+      "ビョウ",
+      "ヒョウ"
+    ],
+    "kun": [
+      "たい.ら",
+      "たい.らげる",
+      "ひら"
+    ],
+    "am_han": "BÌNH"
+  },
+  "meaning": {
+    "vi": "hòa bình, bình đẳng",
+    "en": "even, flat, peace"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/平.svg"
+  },
+  "frequency": 128,
+  "examples": [
+    "平成",
+    "平均",
+    "平和",
+    "平等",
+    "平"
+  ],
+  "explanation": {
+    "id": "6999",
+    "text": "平 (đọc là \"hei\" hoặc \"byou\") có nghĩa là \"bằng phẳng\", \"hòa bình\" để chỉ trạng thái êm đềm, không bị biến động, hay tình trạng hòa bình.\n\nVí dụ:\n- 平和 (heiwa): Hòa bình.\n- 平面 (heimen): Mặt ph"
+  },
+  "comments": [
+    {
+      "id": "37123",
+      "lang": "vi",
+      "content_html": "<p>Bập bênh đang <strong>ngang bằng</strong>.</p>",
+      "content_text": "Bập bênh đang\nngang bằng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb8d1c8875.jpg",
+      "image_path": "assets/images/平_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153287",
+      "lang": "vi",
+      "content_html": "<p>Bình (hòa bình; bình đẳng, trung bình, bình thường - bằng (mặt phẳng); phiến diện, phổ thông): Đi gieo hạt⼂⼂ khô ⼲ trên những cánh đồng bằng phẳng. Thật là 1 cảnh thanh bình, yên ổn.</p>",
+      "content_text": "Bình (hòa bình; bình đẳng, trung bình, bình thường - bằng (mặt phẳng); phiến diện, phổ thông): Đi gieo hạt⼂⼂ khô ⼲ trên những cánh đồng bằng phẳng. Thật là 1 cảnh thanh bình, yên ổn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153288",
+      "lang": "vi",
+      "content_html": "<p>thêm 2 chủ ở vùng khô khan sẽ có hoà BÌNH</p>",
+      "content_text": "thêm 2 chủ ở vùng khô khan sẽ có hoà BÌNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153289",
+      "lang": "vi",
+      "content_html": "<p>góc nhìn cột điện cao thế có 2 cái bình 2 bên    ..jav.style..</p>",
+      "content_text": "góc nhìn cột điện cao thế có 2 cái bình 2 bên    ..jav.style..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

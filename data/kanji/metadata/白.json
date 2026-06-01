@@ -1,0 +1,110 @@
+{
+  "kanji": "白",
+  "meta": {
+    "weight": 1819,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハク",
+      "ビャク"
+    ],
+    "kun": [
+      "しろ",
+      "しら-",
+      "しろ.い"
+    ],
+    "am_han": "BẠCH"
+  },
+  "meaning": {
+    "vi": "trắng",
+    "en": "white"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/白.svg"
+  },
+  "frequency": 483,
+  "examples": [
+    "面白い",
+    "白",
+    "白い",
+    "面白",
+    "告白"
+  ],
+  "explanation": {
+    "id": "6333",
+    "text": "白 (đọc là \"haku\" hoặc \"shiro\") có nghĩa là \"trắng\" để chỉ màu sắc trắng, trong sáng hoặc thanh khiết.  \nVí dụ:  \n- 白い (shiroi): Màu trắng.  \n- 白髪 (shiraga): Tóc bạc, tóc trắng.  \n- 明白 (meiha"
+  },
+  "comments": [
+    {
+      "id": "761",
+      "lang": "vi",
+      "content_html": "<p>Có 1 toà nhà màu <strong>trắng</strong>.</p>",
+      "content_text": "Có 1 toà nhà màu\ntrắng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62984d328429b.jpg",
+      "image_path": "assets/images/白_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155498",
+      "lang": "vi",
+      "content_html": "<p>Sang Nhật 日 thì Trắng 白 da</p>",
+      "content_text": "Sang Nhật 日 thì Trắng 白 da",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158449",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>白い (しろい): màu trắng</p><p>面白い (おもしろい): thú vị</p>",
+      "content_text": "JLPT N5\n白い (しろい): màu trắng\n面白い (おもしろい): thú vị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221777",
+      "lang": "vi",
+      "content_html": "<p>Flash <strong>Trắng </strong>như \"Mặt trời\"</p>",
+      "content_text": "Flash\nTrắng\nnhư \"Mặt trời\"",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "糖",
+  "meta": {
+    "weight": 2039,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [],
+    "am_han": "ĐƯỜNG"
+  },
+  "meaning": {
+    "vi": "đường",
+    "en": "sugar"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/糖.svg"
+  },
+  "frequency": 1471,
+  "examples": [
+    "砂糖",
+    "糖尿",
+    "糖",
+    "血糖",
+    "糖分"
+  ],
+  "explanation": {
+    "id": "5846",
+    "text": "糖 (đọc là \"tō\") có nghĩa là \"đường\" để chỉ các loại đường, chất ngọt trong thực phẩm.  \nVí dụ:  \n- 糖分 (tōbun): Hàm lượng đường, lượng đường.  \n- 甘糖 (amtō): Đường ngọt, kẹo.  \n- ブドウ糖 (budōtō)"
+  },
+  "comments": [
+    {
+      "id": "155955",
+      "lang": "vi",
+      "content_html": "<p>vào trong nhà dùng tay bốc gạo cho vào mồm thì hoá ra là đường (ko fai gạo)</p>",
+      "content_text": "vào trong nhà dùng tay bốc gạo cho vào mồm thì hoá ra là đường (ko fai gạo)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155956",
+      "lang": "vi",
+      "content_html": "<p>Khi bỏ Gạo và miệng thì có vị ngọt của ĐƯỜNG</p>",
+      "content_text": "Khi bỏ Gạo và miệng thì có vị ngọt của ĐƯỜNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155957",
+      "lang": "vi",
+      "content_html": "<p>Thời nhà ĐƯỜNG người ta lấy GẠO chế biến thánh ĐƯỜNG ăn</p>",
+      "content_text": "Thời nhà ĐƯỜNG người ta lấy GẠO chế biến thánh ĐƯỜNG ăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

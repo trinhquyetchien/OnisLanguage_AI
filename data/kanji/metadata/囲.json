@@ -1,0 +1,92 @@
+{
+  "kanji": "囲",
+  "meta": {
+    "weight": 536,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "かこ.む",
+      "かこ.う",
+      "かこ.い"
+    ],
+    "am_han": "VI"
+  },
+  "meaning": {
+    "vi": "bao quanh, chu vi",
+    "en": "surround, besiege, store, paling, enclosure, encircle, preserve, keep"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/囲.svg"
+  },
+  "frequency": 771,
+  "examples": [
+    "雰囲気",
+    "範囲",
+    "周囲",
+    "広範囲",
+    "囲碁"
+  ],
+  "explanation": {
+    "id": "125",
+    "text": "囲 (đọc là \"i\") có nghĩa là \"bao quanh\", \"vây quanh\" để chỉ hành động hoặc trạng thái bao bọc, vây kín một khu vực nào đó.\n\nVí dụ:\n- 囲む (kamoru): Bao quanh, vây quanh.\n- 囲碁 (igo): Cờ vây (một"
+  },
+  "comments": [
+    {
+      "id": "152527",
+      "lang": "vi",
+      "content_html": "<p>Tính chu VI cái GIẾNG</p>",
+      "content_text": "Tính chu VI cái GIẾNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152528",
+      "lang": "vi",
+      "content_html": "<p>Bao vây toàn vùng</p>",
+      "content_text": "Bao vây toàn vùng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152529",
+      "lang": "vi",
+      "content_html": "<p>CHU VI quanh GIẾNG TỈNH. --  làm HÀNG RÀO VÂY QUANH</p>",
+      "content_text": "CHU VI quanh GIẾNG TỈNH. --  làm HÀNG RÀO VÂY QUANH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

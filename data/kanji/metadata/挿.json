@@ -1,0 +1,90 @@
+{
+  "kanji": "挿",
+  "meta": {
+    "weight": 1098,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "さ.す",
+      "はさ.む"
+    ],
+    "am_han": "SÁP, THÁP, KHẮP, SẤP, TRÁP, XẾP"
+  },
+  "meaning": {
+    "vi": "chèn, đưa vào, ghép, đeo (kiếm)",
+    "en": "insert, put in, graft, wear (sword)"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/挿.svg"
+  },
+  "frequency": 1908,
+  "examples": [
+    "挿入",
+    "挿絵",
+    "挿図",
+    "挿話"
+  ],
+  "explanation": {
+    "id": "4709",
+    "text": "挿 (đọc là \"sō\" hoặc \"sa\") có nghĩa là \"chèn vào\", \"gắn vào\" để chỉ các hành động liên quan đến việc đưa một vật vào một vị trí khác.  \nVí dụ:  \n- 挿入 (sōnyū): Chèn vào, lắp ghép.  \n- 挿絵 (sōe)"
+  },
+  "comments": [
+    {
+      "id": "153922",
+      "lang": "vi",
+      "content_html": "<p>chính tay tôi SÁP nhập thêm nghìn mẫu ruộng</p>",
+      "content_text": "chính tay tôi SÁP nhập thêm nghìn mẫu ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153923",
+      "lang": "vi",
+      "content_html": "<p>Thủ SÁP nhập được Nghìn mẫu Ruộng</p>",
+      "content_text": "Thủ SÁP nhập được Nghìn mẫu Ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153924",
+      "lang": "vi",
+      "content_html": "<p>Tay cắm lúa (千 nhìn giống lúa) xuống ruộng</p>",
+      "content_text": "Tay cắm lúa (千 nhìn giống lúa) xuống ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

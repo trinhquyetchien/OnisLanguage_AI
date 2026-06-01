@@ -1,0 +1,91 @@
+{
+  "kanji": "歌",
+  "meta": {
+    "weight": 1447,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "うた",
+      "うた.う"
+    ],
+    "am_han": "CA"
+  },
+  "meaning": {
+    "vi": "ca hát",
+    "en": "song, sing"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/歌.svg"
+  },
+  "frequency": 519,
+  "examples": [
+    "歌",
+    "歌う",
+    "歌詞",
+    "歌手",
+    "国歌"
+  ],
+  "explanation": {
+    "id": "654",
+    "text": "歌 (đọc là \"ka\" hoặc \"uta\") có nghĩa là \"bài hát\" hoặc \"ca khúc\", chỉ các hình thức âm nhạc liên quan đến việc hát.  \nVí dụ:  \n- 歌手 (kashu): Ca sĩ.  \n- 歌う (utau): Hát.  \n- 歌詞 (kashi): Lời bài"
+  },
+  "comments": [
+    {
+      "id": "191075",
+      "lang": "vi",
+      "content_html": "<p><strong>ca hát</strong></p>",
+      "content_text": "ca hát",
+      "image_url": "https://jpdictionary.com/upload/images/648a95278294c.jpg",
+      "image_path": "assets/images/歌_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "900",
+      "lang": "vi",
+      "content_html": "<p>Mọi người (人) đang mở to miệng (口) <strong>hát </strong>(歌).</p>",
+      "content_text": "Mọi người (人) đang mở to miệng (口)\nhát\n(歌).",
+      "image_url": "https://jpdictionary.com/upload/images/6298b14560d37.jpg",
+      "image_path": "assets/images/歌_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 1,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154663",
+      "lang": "vi",
+      "content_html": "<p>Cuộc sống sẽ rất buồn chán nếu Thiếu 欠 Khả Năng 可 Ca, Hát 歌.</p>",
+      "content_text": "Cuộc sống sẽ rất buồn chán nếu Thiếu 欠 Khả Năng 可 Ca, Hát 歌.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

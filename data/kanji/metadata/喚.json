@@ -1,0 +1,88 @@
+{
+  "kanji": "喚",
+  "meta": {
+    "weight": 505,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "わめ.く"
+    ],
+    "am_han": "HOÁN"
+  },
+  "meaning": {
+    "vi": "hét lên, khóc, gọi, triệu tập",
+    "en": "yell, cry, call, scream, summon"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/喚.svg"
+  },
+  "frequency": 1120,
+  "examples": [
+    "喚起",
+    "喚問",
+    "召喚"
+  ],
+  "explanation": {
+    "id": "1078",
+    "text": "喚 (đọc là \"kan\") có nghĩa là \"gọi\", \"hô gọi\" để chỉ các hành động liên quan đến việc kêu gọi hoặc thu hút sự chú ý của người khác.\n\nVí dụ:\n- 喚起 (kanki): Gọi dậy, khơi gợi.\n- 喚声 (kansei): Tiế"
+  },
+  "comments": [
+    {
+      "id": "152450",
+      "lang": "vi",
+      "content_html": "<p>Miệng lớn hô hoán tứ tiếng</p>",
+      "content_text": "Miệng lớn hô hoán tứ tiếng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152451",
+      "lang": "vi",
+      "content_html": "<p>Miệng hô hoán để bán được 4 đầu cá to</p>",
+      "content_text": "Miệng hô hoán để bán được 4 đầu cá to",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152452",
+      "lang": "vi",
+      "content_html": "<p>Miệng hô HOÁN khi thấy tứ đại mĩ nhân</p>",
+      "content_text": "Miệng hô HOÁN khi thấy tứ đại mĩ nhân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

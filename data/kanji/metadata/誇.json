@@ -1,0 +1,107 @@
+{
+  "kanji": "誇",
+  "meta": {
+    "weight": 2485,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "ほこ.る"
+    ],
+    "am_han": "KHOA"
+  },
+  "meaning": {
+    "vi": "khoe khoang, tự hào, đắc thắng",
+    "en": "boast, be proud, pride, triumphantly"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/誇.svg"
+  },
+  "frequency": 1272,
+  "examples": [
+    "誇り",
+    "誇る",
+    "誇張",
+    "誇示",
+    "誇らしげ"
+  ],
+  "explanation": {
+    "id": "2304",
+    "text": "誇 (đọc là \"ko\" hoặc \"hokoru\") có nghĩa là \"khoe khoang\", \"tự hào\", thể hiện sự tự mãn hoặc kiêu hãnh về điều gì đó.  \nVí dụ:  \n- 誇張 (kochou): Phóng đại, khuếch trương.  \n- 誇り (hokori): Niềm "
+  },
+  "comments": [
+    {
+      "id": "156907",
+      "lang": "vi",
+      "content_html": "<p>tự hào nói mình béo lên 5 cân</p>",
+      "content_text": "tự hào nói mình béo lên 5 cân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156908",
+      "lang": "vi",
+      "content_html": "<p>Thái là thằng nói phét  5 lần ngôn từ khoe khoang khoa trương</p>",
+      "content_text": "Thái là thằng nói phét  5 lần ngôn từ khoe khoang khoa trương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156909",
+      "lang": "vi",
+      "content_html": "<p>Nói quá 5 lần là khoe khoang</p>",
+      "content_text": "Nói quá 5 lần là khoe khoang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "218479",
+      "lang": "vi",
+      "content_html": "<p>nói <strong>言 lớn 大 5 lần là Khoa trương</strong></p><p>&nbsp;</p>",
+      "content_text": "nói\n言 lớn 大 5 lần là Khoa trương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    }
+  ]
+}

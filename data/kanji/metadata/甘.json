@@ -1,0 +1,110 @@
+{
+  "kanji": "甘",
+  "meta": {
+    "weight": 1765,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "あま.い",
+      "あま.える",
+      "あま.やかす",
+      "うま.い"
+    ],
+    "am_han": "CAM"
+  },
+  "meaning": {
+    "vi": "ngọt",
+    "en": "sweet, coax, pamper, be content, sugary"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/甘.svg"
+  },
+  "frequency": 1248,
+  "examples": [
+    "甘い",
+    "甘く",
+    "甘え",
+    "甘味",
+    "甘み"
+  ],
+  "explanation": {
+    "id": "1146",
+    "text": "甘 (đọc là \"kan\" hoặc \"ama\") có nghĩa là \"ngọt\", thường chỉ vị ngọt hoặc tính chất dịu dàng, dễ chịu. \n\nVí dụ:\n- 甘い (amai): Ngọt.\n- 甘味 (kanmi): Vị ngọt, đồ ngọt.\n- 甘え (amae): Sự phụ thuộc, nỗ"
+  },
+  "comments": [
+    {
+      "id": "36996",
+      "lang": "vi",
+      "content_html": "<p>Có mật <strong>ngọt </strong>ở trong lọ.</p>",
+      "content_text": "Có mật\nngọt\nở trong lọ.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4e7de233e.jpg",
+      "image_path": "assets/images/甘_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155372",
+      "lang": "vi",
+      "content_html": "<p>20 廿 thùng cam甘 ngọt.</p>",
+      "content_text": "20 廿 thùng cam甘 ngọt.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155373",
+      "lang": "vi",
+      "content_html": "<p>Bắc thang lên hái cam ngọt</p>",
+      "content_text": "Bắc thang lên hái cam ngọt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155374",
+      "lang": "vi",
+      "content_html": "<p>ngày 日nào cũng thảo(bộ thảo)mai =}ngọt ngào</p>",
+      "content_text": "ngày 日nào cũng thảo(bộ thảo)mai =}ngọt ngào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

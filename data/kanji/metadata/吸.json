@@ -1,0 +1,107 @@
+{
+  "kanji": "吸",
+  "meta": {
+    "weight": 463,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "す.う"
+    ],
+    "am_han": "HẤP"
+  },
+  "meaning": {
+    "vi": "hút, hấp thụ",
+    "en": "suck, imbibe, inhale, sip"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/吸.svg"
+  },
+  "frequency": 1054,
+  "examples": [
+    "呼吸",
+    "吸収",
+    "吸う",
+    "吸着",
+    "吸引"
+  ],
+  "explanation": {
+    "id": "1512",
+    "text": "吸 (đọc là \"kyuu\") có nghĩa là \"hút\", \"thu hút\" để chỉ các hành động liên quan đến việc lấy không khí, chất lỏng hoặc hấp thụ.\n\nVí dụ:\n- 吸う (suu): Hút, hít vào.\n- 呼吸 (kokyuu): Hô hấp.\n- 吸収 (k"
+  },
+  "comments": [
+    {
+      "id": "37356",
+      "lang": "vi",
+      "content_html": "<p><strong>Hít </strong>khói thuốc vào.</p>",
+      "content_text": "Hít\nkhói thuốc vào.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfea6c3750e.jpg",
+      "image_path": "assets/images/吸_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152346",
+      "lang": "vi",
+      "content_html": "<p>3 người hô hấp bằng miệng</p>",
+      "content_text": "3 người hô hấp bằng miệng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152347",
+      "lang": "vi",
+      "content_html": "<p>Hít 1 hơi hấp thu không khí bằng miệng của 3 người khác</p>",
+      "content_text": "Hít 1 hơi hấp thu không khí bằng miệng của 3 người khác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152348",
+      "lang": "vi",
+      "content_html": "<p>Kẻ hấp hối miệng run lập cập</p>",
+      "content_text": "Kẻ hấp hối miệng run lập cập",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

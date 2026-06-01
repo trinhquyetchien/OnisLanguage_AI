@@ -1,0 +1,86 @@
+{
+  "kanji": "蒔",
+  "meta": {
+    "weight": 2320,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ",
+      "ジ"
+    ],
+    "kun": [
+      "う.える",
+      "ま.く"
+    ],
+    "am_han": "THÌ, THI"
+  },
+  "meaning": {
+    "vi": "gieo hạt giống)",
+    "en": "sow (seeds)"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/蒔.svg"
+  },
+  "frequency": 2368,
+  "examples": [],
+  "explanation": {
+    "id": "3233",
+    "text": "蒔 (đọc là \"ji\" hoặc \"shaku\") có nghĩa là \"gieo trồng\", thường liên quan đến việc trồng cây hoặc hạt giống. \n\nVí dụ:\n- 蒔く (maku): Gieo, trồng.\n- 蒔き (maki): Hạt giống.\n- 蒔絵 (makie): Nghệ thuật"
+  },
+  "comments": [
+    {
+      "id": "156576",
+      "lang": "vi",
+      "content_html": "<p>cây thì là được gieo đúng thời</p>",
+      "content_text": "cây thì là được gieo đúng thời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156577",
+      "lang": "vi",
+      "content_html": "<p>Cỏ được trồng đúng thời điểm</p>",
+      "content_text": "Cỏ được trồng đúng thời điểm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156578",
+      "lang": "vi",
+      "content_html": "<p>Hoa gieo đúng THỜI điểm</p>",
+      "content_text": "Hoa gieo đúng THỜI điểm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

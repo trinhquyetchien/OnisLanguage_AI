@@ -1,0 +1,69 @@
+{
+  "kanji": "杭",
+  "meta": {
+    "weight": 1298,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "くい"
+    ],
+    "am_han": "HÀNG"
+  },
+  "meaning": {
+    "vi": "cọc, bài, bộ chọn",
+    "en": "stake, post, picket"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/杭.svg"
+  },
+  "frequency": 2329,
+  "examples": [
+    "杭"
+  ],
+  "explanation": {
+    "id": "2474",
+    "text": "杭 (đọc là \"kui\") có nghĩa là \"cọc\" để chỉ các vật thể được đóng xuống đất, thường dùng trong xây dựng hoặc làm rào chắn.\n\nVí dụ:\n- 杭打ち (kuiuchi): Đóng cọc.\n- 墨杭 (sumikui): Cọc mực, dùng tron"
+  },
+  "comments": [
+    {
+      "id": "154403",
+      "lang": "vi",
+      "content_html": "<p>nhiều CÂY cộc nhô ĐẦU lên CAO tạo thành HÀNG rào</p>",
+      "content_text": "nhiều CÂY cộc nhô ĐẦU lên CAO tạo thành HÀNG rào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154404",
+      "lang": "vi",
+      "content_html": "<p>Cọc làm bằng gỗ kháng sức chịu lực</p>",
+      "content_text": "Cọc làm bằng gỗ kháng sức chịu lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

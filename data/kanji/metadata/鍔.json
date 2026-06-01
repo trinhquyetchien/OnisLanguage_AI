@@ -1,0 +1,32 @@
+{
+  "kanji": "鍔",
+  "meta": {
+    "weight": 2782,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガク"
+    ],
+    "kun": [
+      "つば"
+    ],
+    "am_han": "NGẠC"
+  },
+  "meaning": {
+    "vi": "bảo vệ kiếm, vành ấm đun nước",
+    "en": "sword guard, kettle brim"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/鍔.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5494",
+    "text": "鍔 (đọc là \"tsuba\") có nghĩa là \"tay cầm\" hoặc \"bộ phận bảo vệ tay của kiếm\", thường dùng để chỉ phần không gian giữa lưỡi kiếm và tay cầm, giúp bảo vệ tay người sử dụng khỏi trượt xuống lưỡi"
+  },
+  "comments": []
+}

@@ -1,0 +1,89 @@
+{
+  "kanji": "紡",
+  "meta": {
+    "weight": 2060,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [
+      "つむ.ぐ"
+    ],
+    "am_han": "PHƯỞNG"
+  },
+  "meaning": {
+    "vi": "quay tròn",
+    "en": "spinning"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/紡.svg"
+  },
+  "frequency": 1876,
+  "examples": [
+    "紡績",
+    "紡ぎ",
+    "紡ぐ",
+    "紡織"
+  ],
+  "explanation": {
+    "id": "7285",
+    "text": "紡 (đọc là \"bō\") có nghĩa là \"dệt\" hoặc \"xoắn\", liên quan đến việc sản xuất sợi dệt hoặc các hoạt động liên quan đến ngành dệt may.  \nVí dụ:  \n- 紡績 (bōseki): Dệt sợi, công nghiệp dệt.  \n- 紡ぐ "
+  },
+  "comments": [
+    {
+      "id": "156003",
+      "lang": "vi",
+      "content_html": "<p>Phương dùng sợi chỉ dệt vải</p>",
+      "content_text": "Phương dùng sợi chỉ dệt vải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156004",
+      "lang": "vi",
+      "content_html": "<p>Lúc kéo sợi phải theo phương của sợi dây</p>",
+      "content_text": "Lúc kéo sợi phải theo phương của sợi dây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156005",
+      "lang": "vi",
+      "content_html": "<p>Sợi chỉ đan vào nhau theo các Phương khác nhau gọi là Dệt Vải.</p>",
+      "content_text": "Sợi chỉ đan vào nhau theo các Phương khác nhau gọi là Dệt Vải.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

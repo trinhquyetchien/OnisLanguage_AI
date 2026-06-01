@@ -1,0 +1,94 @@
+{
+  "kanji": "扱",
+  "meta": {
+    "weight": 1051,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "キュウ"
+    ],
+    "kun": [
+      "あつか.い",
+      "あつか.う",
+      "あつか.る",
+      "こ.く"
+    ],
+    "am_han": "TRÁP, HẤP"
+  },
+  "meaning": {
+    "vi": "xử lý, giải trí, đập, dải",
+    "en": "handle, entertain, thresh, strip"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/扱.svg"
+  },
+  "frequency": 1057,
+  "examples": [
+    "扱い",
+    "扱う",
+    "取り扱い",
+    "取扱い",
+    "取扱"
+  ],
+  "explanation": {
+    "id": "61",
+    "text": "扱 (đọc là \"taku\") có nghĩa là \"cầm nắm\", \"xử lý\" để chỉ hành động liên quan đến việc nắm giữ hoặc xử lý một vật thể nào đó. \n\nVí dụ:\n- 扱う (atsukau): Xử lý, cầm nắm.\n- 扱い (atsukai): Cách xử l"
+  },
+  "comments": [
+    {
+      "id": "153793",
+      "lang": "vi",
+      "content_html": "<p>3 người dùng tay bê tráp đối đáp trao duyên</p>",
+      "content_text": "3 người dùng tay bê tráp đối đáp trao duyên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153794",
+      "lang": "vi",
+      "content_html": "<p>TAY run lập CẬP khi bưng TRÁP</p>",
+      "content_text": "TAY run lập CẬP khi bưng TRÁP",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153795",
+      "lang": "vi",
+      "content_html": "<p>Dùng bàn tay bê tráp kiểu Ai Cập để đối đãi rót trà mời mọi người. Thủ + cập là trÁp. Nghĩa đối đãi</p>",
+      "content_text": "Dùng bàn tay bê tráp kiểu Ai Cập để đối đãi rót trà mời mọi người. Thủ + cập là trÁp. Nghĩa đối đãi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

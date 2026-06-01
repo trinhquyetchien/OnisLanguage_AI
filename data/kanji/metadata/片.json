@@ -1,0 +1,108 @@
+{
+  "kanji": "片",
+  "meta": {
+    "weight": 1687,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘン"
+    ],
+    "kun": [
+      "かた-",
+      "かた"
+    ],
+    "am_han": "PHIẾN"
+  },
+  "meaning": {
+    "vi": "một bên",
+    "en": "one-sided, leaf, sheet, right-side kata radical (no. 91)"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/片.svg"
+  },
+  "frequency": 1076,
+  "examples": [
+    "片手",
+    "片付け",
+    "片方",
+    "断片",
+    "片"
+  ],
+  "explanation": {
+    "id": "7052",
+    "text": "片 (đọc là \"hen\" hoặc \"kata\") có nghĩa là \"miếng\", \"mảnh\" để chỉ các phần nhỏ, đơn lẻ của một vật thể hoặc ý tưởng.\n\nVí dụ:\n- 片付け (katadzuke): Dọn dẹp, sắp xếp.\n- 片道 (katamichi): Một chiều (đ"
+  },
+  "comments": [
+    {
+      "id": "37012",
+      "lang": "vi",
+      "content_html": "<p>Hình ảnh<strong> một bên</strong> cây.</p>",
+      "content_text": "Hình ảnh\nmột bên\ncây.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4f94d9dd1.jpg",
+      "image_path": "assets/images/片_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155222",
+      "lang": "vi",
+      "content_html": "<p>Dọn dẹp xong phiến loạn thì đi cầu hôn công chúa ( nhìn như một người quỳ xuống mở hộp nhẫn )</p>",
+      "content_text": "Dọn dẹp xong phiến loạn thì đi cầu hôn công chúa ( nhìn như một người quỳ xuống mở hộp nhẫn )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155223",
+      "lang": "vi",
+      "content_html": "<p>Lấy tấm ván đóng bộ bàn ghế 片</p>",
+      "content_text": "Lấy tấm ván đóng bộ bàn ghế 片",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155224",
+      "lang": "vi",
+      "content_html": "<p>Làm cái ghế phiên phiến</p>",
+      "content_text": "Làm cái ghế phiên phiến",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

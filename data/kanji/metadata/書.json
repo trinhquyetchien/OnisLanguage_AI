@@ -1,0 +1,109 @@
+{
+  "kanji": "書",
+  "meta": {
+    "weight": 1261,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショ"
+    ],
+    "kun": [
+      "か.く",
+      "-が.き",
+      "-がき"
+    ],
+    "am_han": "THƯ"
+  },
+  "meaning": {
+    "vi": "viết, thư kí",
+    "en": "write"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/書.svg"
+  },
+  "frequency": 169,
+  "examples": [
+    "書",
+    "書く",
+    "書き込み",
+    "文書",
+    "図書館"
+  ],
+  "explanation": {
+    "id": "3707",
+    "text": "書 (đọc là \"sho\") có nghĩa là \"viết\", \"sách\" để chỉ các hành động liên quan đến việc viết lách, tài liệu, hoặc sách vở.  \nVí dụ:  \n- 書類 (shorui): Tài liệu, giấy tờ.  \n- 書く (kaku): Viết.  \n- 書"
+  },
+  "comments": [
+    {
+      "id": "655",
+      "lang": "vi",
+      "content_html": "<p>Cầm bút lông <strong>viết </strong>chữ Nhật 「日」.</p>",
+      "content_text": "Cầm bút lông\nviết\nchữ Nhật 「日」.",
+      "image_url": "https://jpdictionary.com/upload/images/62982e992d147.jpg",
+      "image_path": "assets/images/書_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154305",
+      "lang": "vi",
+      "content_html": "<p>Dùng bút vẽ ông mặt trời日</p>",
+      "content_text": "Dùng bút vẽ ông mặt trời日",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158459",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>書く (かく): viết<br>辞書 (じしょ): từ điển<br>図書館 (としょかん): thư viện<br>葉書 (はがき): bưu thiếp</p>",
+      "content_text": "JLPT N5\n書く (かく): viết\n辞書 (じしょ): từ điển\n図書館 (としょかん): thư viện\n葉書 (はがき): bưu thiếp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221913",
+      "lang": "vi",
+      "content_html": "<p>書きます - THƯ (かきます): viết</p><p>辞書 - TỪ THƯ (じしょ): từ điển</p><p>図書館 - ĐỒ THƯ QUÁN (としょかん): thư viện</p><p>葉書 - DIỆP THƯ (はがき): bưu thiếp</p>",
+      "content_text": "書きます - THƯ (かきます): viết\n辞書 - TỪ THƯ (じしょ): từ điển\n図書館 - ĐỒ THƯ QUÁN (としょかん): thư viện\n葉書 - DIỆP THƯ (はがき): bưu thiếp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5167",
+        "name": "v v",
+        "image_url": "https://jpdictionary.com/upload/images/681ca46917089.jpg"
+      }
+    }
+  ]
+}

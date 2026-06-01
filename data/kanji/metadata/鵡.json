@@ -1,0 +1,31 @@
+{
+  "kanji": "鵡",
+  "meta": {
+    "weight": 3008,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ブ",
+      "ム"
+    ],
+    "kun": [],
+    "am_han": "VŨ"
+  },
+  "meaning": {
+    "vi": "cockatoo",
+    "en": "cockatoo"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/鵡.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7530",
+    "text": "鵡 (đọc là \"moku\") có nghĩa là \"chim vẹt\". Chữ này thường được dùng để chỉ các loại chim thuộc họ vẹt.\n\nVí dụ:\n- 鳥鵡 (tori moku): Chim vẹt.\n- 鵡のように話す (moku no you ni hanasu): Nói như chim vẹt "
+  },
+  "comments": []
+}

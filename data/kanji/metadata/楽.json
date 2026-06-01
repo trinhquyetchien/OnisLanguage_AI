@@ -1,0 +1,94 @@
+{
+  "kanji": "楽",
+  "meta": {
+    "weight": 1402,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガク",
+      "ラク",
+      "ゴウ"
+    ],
+    "kun": [
+      "たの.しい",
+      "たの.しむ",
+      "この.む"
+    ],
+    "am_han": "LẠC, NHẠC"
+  },
+  "meaning": {
+    "vi": "âm nhạc, an lạc",
+    "en": "music, comfort, ease"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/楽.svg"
+  },
+  "frequency": 373,
+  "examples": [
+    "音楽",
+    "楽しみ",
+    "楽しい",
+    "楽",
+    "楽器"
+  ],
+  "explanation": {
+    "id": "946",
+    "text": "楽 (đọc là \"raku\" hoặc \"gaku\") có nghĩa là \"vui vẻ\", \"thoải mái\" hay \"âm nhạc\". Nó chỉ các trạng thái cảm xúc tích cực hoặc liên quan đến âm nhạc.\n\nVí dụ:\n- 楽しい (tanoshii): Vui vẻ, thú vị.\n- "
+  },
+  "comments": [
+    {
+      "id": "898",
+      "lang": "vi",
+      "content_html": "<p>Gõ cái trống màu trắng (白) trên giá đỡ gỗ (木) để tạo ra <strong>âm nhạc</strong>.</p>",
+      "content_text": "Gõ cái trống màu trắng (白) trên giá đỡ gỗ (木) để tạo ra\nâm nhạc\n.",
+      "image_url": "https://jpdictionary.com/upload/images/6298b0cf72c0a.jpg",
+      "image_path": "assets/images/楽_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154586",
+      "lang": "vi",
+      "content_html": "<p>thứ màu trắng (BẠCH) làm từ gỗ (MỘC) phát ra 4 tiếng nghe ÂM NHẠC rất VUI VẺ</p>",
+      "content_text": "thứ màu trắng (BẠCH) làm từ gỗ (MỘC) phát ra 4 tiếng nghe ÂM NHẠC rất VUI VẺ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158484",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>楽しい (たのしい): thú vị, vui</p><p>楽しむ (たのしむ): vui thích, tận hưởng</p><p>楽しみ (たのしみ): niềm vui</p><p>音楽 (おんがく): âm nhạc<br>楽な (らくな): thoải mái</p>",
+      "content_text": "JLPT N4\n楽しい (たのしい): thú vị, vui\n楽しむ (たのしむ): vui thích, tận hưởng\n楽しみ (たのしみ): niềm vui\n音楽 (おんがく): âm nhạc\n楽な (らくな): thoải mái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

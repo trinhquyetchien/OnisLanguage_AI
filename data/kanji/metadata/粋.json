@@ -1,0 +1,90 @@
+{
+  "kanji": "粋",
+  "meta": {
+    "weight": 2026,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "いき"
+    ],
+    "am_han": "TÚY"
+  },
+  "meaning": {
+    "vi": "sang trọng, phong cách, độ tinh khiết, bản chất, cốt lõi, kem, ưu tú, sự lựa chọn",
+    "en": "chic, style, purity, essence, pith, cream, elite, choice"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/粋.svg"
+  },
+  "frequency": 1768,
+  "examples": [
+    "純粋",
+    "抜粋",
+    "粋",
+    "生粋",
+    "国粋"
+  ],
+  "explanation": {
+    "id": "4223",
+    "text": "粋 (đọc là \"sui\") có nghĩa là \"thanh lịch\", \"tinh tế\", thường chỉ những gì đẹp đẽ, trang nhã trong văn hóa và phong cách sống. \n\nVí dụ:\n- 粋な人 (sui na hito): Người thanh lịch, tinh tế.\n- 粋なデザイ"
+  },
+  "comments": [
+    {
+      "id": "155931",
+      "lang": "vi",
+      "content_html": "<p>Tính tuý từ 9,10 hạt gạo</p>",
+      "content_text": "Tính tuý từ 9,10 hạt gạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155932",
+      "lang": "vi",
+      "content_html": "<p>Gạo là tinh tuý của hơn 90 quốc gia</p>",
+      "content_text": "Gạo là tinh tuý của hơn 90 quốc gia",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155933",
+      "lang": "vi",
+      "content_html": "<p>Hạt GẠO được gọi là TINH TUÝ khi có chất lượng đồng đều,  9-10 xem xem nhau</p>",
+      "content_text": "Hạt GẠO được gọi là TINH TUÝ khi có chất lượng đồng đều,  9-10 xem xem nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

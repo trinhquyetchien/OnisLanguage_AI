@@ -1,0 +1,50 @@
+{
+  "kanji": "套",
+  "meta": {
+    "weight": 637,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "かさ.ねる"
+    ],
+    "am_han": "SÁO"
+  },
+  "meaning": {
+    "vi": "tích lũy, lớn và dài, hackneyed",
+    "en": "accumulate, big and long, hackneyed"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/套.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5783",
+    "text": "套 (đọc là \"とう\" - \"tō\") có nghĩa là \"bộ\", \"gói\", thường chỉ một tập hợp hoặc bộ phận nào đó. Ví dụ:\n\n- 套装 (とうそう - tōsō): Bộ trang phục, đồng phục.\n- 套件 (とうけん - tōken): Gói phần mềm, bộ công c"
+  },
+  "comments": [
+    {
+      "id": "219281",
+      "lang": "vi",
+      "content_html": "<p>套房 ： căn hộ chung cư cao cấp<br>外套： áo khoác , áo vét</p>",
+      "content_text": "套房 ： căn hộ chung cư cao cấp\n外套： áo khoác , áo vét",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

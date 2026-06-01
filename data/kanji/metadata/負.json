@@ -1,0 +1,109 @@
+{
+  "kanji": "負",
+  "meta": {
+    "weight": 2544,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "ま.ける",
+      "ま.かす",
+      "お.う"
+    ],
+    "am_han": "PHỤ"
+  },
+  "meaning": {
+    "vi": "đánh bại, phụ trách",
+    "en": "defeat, negative, -, minus, bear, owe, assume a responsibility"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/負.svg"
+  },
+  "frequency": 443,
+  "examples": [
+    "負担",
+    "負け",
+    "勝負",
+    "負荷",
+    "負ける"
+  ],
+  "explanation": {
+    "id": "6846",
+    "text": "負 (đọc là \"fu\") có nghĩa là \"chịu trách nhiệm\", \"gánh vác\" hoặc \"thua\". Chữ này thường chỉ các hành động liên quan đến gánh nặng, trách nhiệm hoặc việc thua cuộc.\n\nVí dụ:\n- 負担 (futan): Gánh "
+  },
+  "comments": [
+    {
+      "id": "37252",
+      "lang": "vi",
+      "content_html": "<p>Người <strong>thua </strong>sẽ trả tiền.</p>",
+      "content_text": "Người\nthua\nsẽ trả tiền.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfda4edcd4b.jpg",
+      "image_path": "assets/images/負_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157046",
+      "lang": "vi",
+      "content_html": "<p>THUA rồi, mặc kệ nó (まける) TIỀN chỉ là PHỤ thôi</p>",
+      "content_text": "THUA rồi, mặc kệ nó (まける) TIỀN chỉ là PHỤ thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157047",
+      "lang": "vi",
+      "content_html": "<p>Thua nên đồng tiền phụ bạc đội nón ra đi.</p>",
+      "content_text": "Thua nên đồng tiền phụ bạc đội nón ra đi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157048",
+      "lang": "vi",
+      "content_html": "<p>thua thì đội nón ra PHỤ bắt ốc</p>",
+      "content_text": "thua thì đội nón ra PHỤ bắt ốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

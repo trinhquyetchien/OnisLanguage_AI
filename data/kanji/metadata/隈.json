@@ -1,0 +1,55 @@
+{
+  "kanji": "隈",
+  "meta": {
+    "weight": 2839,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ワイ",
+      "エ"
+    ],
+    "kun": [
+      "くま",
+      "すみ"
+    ],
+    "am_han": "ÔI"
+  },
+  "meaning": {
+    "vi": "góc, ngóc ngách, giải lao",
+    "en": "corner, nook, recess"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/隈.svg"
+  },
+  "frequency": 2311,
+  "examples": [
+    "界隈",
+    "隈"
+  ],
+  "explanation": {
+    "id": "1886",
+    "text": "隈 (đọc là \"kai\" hoặc \"kuma\") có nghĩa là \"góc khuất\", \"mặt tối\" để chỉ những nơi tối tăm, không sáng sủa hoặc khía cạnh bị che khuất.\n\nVí dụ:\n- 隈取 (kumatari): Nghệ thuật trang điểm truyền th"
+  },
+  "comments": [
+    {
+      "id": "157726",
+      "lang": "vi",
+      "content_html": "<p>ngồi GHẾ ở điểm chờ xe BUS nhìn ra ĐỒNG RUỘNG , ÔI đẹp làm sao</p>",
+      "content_text": "ngồi GHẾ ở điểm chờ xe BUS nhìn ra ĐỒNG RUỘNG , ÔI đẹp làm sao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

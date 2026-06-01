@@ -1,0 +1,91 @@
+{
+  "kanji": "催",
+  "meta": {
+    "weight": 235,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "もよう.す",
+      "もよお.す"
+    ],
+    "am_han": "THÔI"
+  },
+  "meaning": {
+    "vi": "tài trợ, tổ chức (một cuộc họp), cho (một bữa tối)",
+    "en": "sponsor, hold (a meeting), give (a dinner)"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/催.svg"
+  },
+  "frequency": 536,
+  "examples": [
+    "開催",
+    "主催",
+    "催し",
+    "催眠",
+    "共催"
+  ],
+  "explanation": {
+    "id": "2778",
+    "text": "催 (đọc là \"sai\") có nghĩa là \"thúc giục\", \"kích thích\" để chỉ các hành động liên quan đến việc thúc đẩy hoặc yêu cầu ai đó làm điều gì đó.\n\nVí dụ:\n- 催促 (saisoku): Thúc giục, nhắc nhở.\n- 催眠 ("
+  },
+  "comments": [
+    {
+      "id": "151780",
+      "lang": "vi",
+      "content_html": "<p>Chim kêu thôi thúc người dứoi núi</p>",
+      "content_text": "Chim kêu thôi thúc người dứoi núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151781",
+      "lang": "vi",
+      "content_html": "<p>Người (亻) miền núi (山) thích thịt chim (隹)<br>Ăn vào thôi (催) thúc trái tim yêu đời</p>",
+      "content_text": "Người (亻) miền núi (山) thích thịt chim (隹)\nĂn vào thôi (催) thúc trái tim yêu đời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151782",
+      "lang": "vi",
+      "content_html": "<p>CHIM THÔI hát dưới NÚI khi thấy NGƯỜI</p>",
+      "content_text": "CHIM THÔI hát dưới NÚI khi thấy NGƯỜI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

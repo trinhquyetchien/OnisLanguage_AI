@@ -1,0 +1,90 @@
+{
+  "kanji": "掃",
+  "meta": {
+    "weight": 1111,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "シュ"
+    ],
+    "kun": [
+      "は.く"
+    ],
+    "am_han": "TẢO"
+  },
+  "meaning": {
+    "vi": "quét",
+    "en": "sweep, brush"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/掃.svg"
+  },
+  "frequency": 1255,
+  "examples": [
+    "掃除",
+    "清掃",
+    "一掃",
+    "掃討"
+  ],
+  "explanation": {
+    "id": "4706",
+    "text": "掃 (đọc là \"sō\") có nghĩa là \"quét dọn\" hoặc \"dọn dẹp\", để chỉ các hành động liên quan đến việc làm sạch hoặc loại bỏ bụi bẩn.  \nVí dụ:  \n- 掃除 (sōji): Dọn dẹp, làm sạch.  \n- 掃く (haku): Quét, "
+  },
+  "comments": [
+    {
+      "id": "153941",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm nửa cái bánh quy (帰</p>",
+      "content_text": "Tay cầm nửa cái bánh quy (帰",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153942",
+      "lang": "vi",
+      "content_html": "<p>VỀ nhà là phải vứt bỏ gươm ĐAO dùng tay quét nhà.</p>",
+      "content_text": "VỀ nhà là phải vứt bỏ gươm ĐAO dùng tay quét nhà.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153943",
+      "lang": "vi",
+      "content_html": "<p>Lấy TAY cầm TRỈU quét nhà thì gọi là TẢO</p>",
+      "content_text": "Lấy TAY cầm TRỈU quét nhà thì gọi là TẢO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

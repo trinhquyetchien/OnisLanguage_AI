@@ -1,0 +1,95 @@
+{
+  "kanji": "発",
+  "meta": {
+    "weight": 1817,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハツ",
+      "ホツ"
+    ],
+    "kun": [
+      "た.つ",
+      "あば.く",
+      "おこ.る",
+      "つか.わす",
+      "はな.つ"
+    ],
+    "am_han": "PHÁT"
+  },
+  "meaning": {
+    "vi": "xuất phát",
+    "en": "departure, discharge, publish, emit, start from, disclose, counter for gunshots"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/発.svg"
+  },
+  "frequency": 32,
+  "examples": [
+    "開発",
+    "発表",
+    "発生",
+    "発言",
+    "発見"
+  ],
+  "explanation": {
+    "id": "6403",
+    "text": "発 (đọc là \"hatsu\") có nghĩa là \"phát ra\", \"khởi hành\" hoặc \"xuất hiện\", thường chỉ các hành động liên quan đến sự xuất hiện, phát triển hay khởi đầu của một cái gì đó.\n\nVí dụ:\n- 発表 (happyou)"
+  },
+  "comments": [
+    {
+      "id": "36976",
+      "lang": "vi",
+      "content_html": "<p><strong>Xuất phát</strong> từ 2 bàn chân.</p>",
+      "content_text": "Xuất phát\ntừ 2 bàn chân.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4c3a42146.jpg",
+      "image_path": "assets/images/発_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158260",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>出発 (しゅっぱつ): xuất phát</p><p>発音 (はつおん): phát âm</p><p>発見 (はっけん): phát hiện</p><p>発表 (はっびょう): phát biểu, công bố</p>",
+      "content_text": "JLPT N4\n出発 (しゅっぱつ): xuất phát\n発音 (はつおん): phát âm\n発見 (はっけん): phát hiện\n発表 (はっびょう): phát biểu, công bố",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "158882",
+      "lang": "vi",
+      "content_html": "<p>発行 (はっこう): phát hành</p><p>発明する(はつめい): phát minh&nbsp;<br><br><br>&nbsp;</p>",
+      "content_text": "発行 (はっこう): phát hành\n発明する(はつめい): phát minh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

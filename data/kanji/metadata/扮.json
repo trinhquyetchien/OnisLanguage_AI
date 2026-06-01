@@ -1,0 +1,36 @@
+{
+  "kanji": "扮",
+  "meta": {
+    "weight": 1050,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フン",
+      "ハン",
+      "ヘン"
+    ],
+    "kun": [
+      "ふん.する",
+      "やつ.す",
+      "よそお.う"
+    ],
+    "am_han": "PHẪN, BAN, BÁN"
+  },
+  "meaning": {
+    "vi": "mạo danh, ăn mặc, ngụy trang, bệnh zona mỏng",
+    "en": "impersonate, dress up, disguise, thin shingles"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/扮.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6958",
+    "text": "扮 (đọc là \"ban\") có nghĩa là \"hóa trang\", \"giả dạng\" để chỉ các hành động liên quan đến việc mặc trang phục, giả vờ hoặc thể hiện một nhân vật khác.\n\nVí dụ:\n- 扮装 (bansō): Hóa trang, trang ph"
+  },
+  "comments": []
+}

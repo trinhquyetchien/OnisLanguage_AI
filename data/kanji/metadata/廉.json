@@ -1,0 +1,88 @@
+{
+  "kanji": "廉",
+  "meta": {
+    "weight": 877,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レン"
+    ],
+    "kun": [],
+    "am_han": "LIÊM"
+  },
+  "meaning": {
+    "vi": "mặc cả, lý do, tính phí, nghi ngờ, điểm, tài khoản, tinh khiết, trung thực, giá thấp, rẻ, nghỉ ngơi, hài lòng, yên bình",
+    "en": "bargain, reason, charge, suspicion, point, account, purity, honest, low price, cheap, rested, contented, peaceful"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/廉.svg"
+  },
+  "frequency": 2066,
+  "examples": [
+    "廉価",
+    "低廉",
+    "破廉恥",
+    "廉",
+    "清廉"
+  ],
+  "explanation": {
+    "id": "8268",
+    "text": "廉 (đọc là \"ren\") có nghĩa là \"trong sạch\", \"liêm khiết\", chỉ sự thanh liêm và không tham nhũng.  \nVí dụ:  \n- 廉潔 (renketsu): Liêm khiết, trong sạch.  \n- 廉価 (renka): Giá rẻ, giá thấp.  \n- 廉恥 ("
+  },
+  "comments": [
+    {
+      "id": "153359",
+      "lang": "vi",
+      "content_html": "<p>兼 : KIÊM (けん、げん、れん) kiêm nhiều việc<br>廉 : Kiêm thanh LIÊM nên có nhà<br>謙 : Kiêm nói lời KHIÊM tốn<br>嫌 : Nhưng Kiêm lại HIỀM khích với phụ nữ</p>",
+      "content_text": "兼 : KIÊM (けん、げん、れん) kiêm nhiều việc\n廉 : Kiêm thanh LIÊM nên có nhà\n謙 : Kiêm nói lời KHIÊM tốn\n嫌 : Nhưng Kiêm lại HIỀM khích với phụ nữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153360",
+      "lang": "vi",
+      "content_html": "<p>Ở dưới mái nhà kiêm 兼 nhiều việc một lúc là liêm khiết</p>",
+      "content_text": "Ở dưới mái nhà kiêm 兼 nhiều việc một lúc là liêm khiết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153361",
+      "lang": "vi",
+      "content_html": "<p>兼: KIÊM- IÊM(em) Kiêm nhiều chức vụ<br>廉: LIÊM- Nhà IÊM rất Liêm khiết<br>謙: KHIÊM- IÊm nói rất Khiêm tốn<br>嫌: HIỀM- IÊM rẩt có HIềm khích với phụ nữ</p>",
+      "content_text": "兼: KIÊM- IÊM(em) Kiêm nhiều chức vụ\n廉: LIÊM- Nhà IÊM rất Liêm khiết\n謙: KHIÊM- IÊm nói rất Khiêm tốn\n嫌: HIỀM- IÊM rẩt có HIềm khích với phụ nữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

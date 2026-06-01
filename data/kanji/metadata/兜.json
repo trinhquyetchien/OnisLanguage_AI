@@ -1,0 +1,35 @@
+{
+  "kanji": "兜",
+  "meta": {
+    "weight": 267,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ",
+      "ト"
+    ],
+    "kun": [
+      "かぶと"
+    ],
+    "am_han": "ĐÂU"
+  },
+  "meaning": {
+    "vi": "mũ bảo hiểm, mảnh đầu",
+    "en": "helmet, head piece"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/兜.svg"
+  },
+  "frequency": 2034,
+  "examples": [
+    "兜"
+  ],
+  "explanation": {
+    "id": "1020",
+    "text": "兜 (đọc là \"to\", \"kabuto\") có nghĩa là \"mũ bảo hiểm\" hoặc \"mũ chiến\" trong văn hóa Nhật Bản, thường được sử dụng để chỉ các loại mũ truyền thống của samurai. \n\nVí dụ:\n- 兜 (kabuto): Mũ samurai"
+  },
+  "comments": []
+}

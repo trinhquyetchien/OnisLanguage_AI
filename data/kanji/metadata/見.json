@@ -1,0 +1,109 @@
+{
+  "kanji": "見",
+  "meta": {
+    "weight": 2441,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "み.る",
+      "み.える",
+      "み.せる"
+    ],
+    "am_han": "KIẾN"
+  },
+  "meaning": {
+    "vi": "nhìn, ý kiến",
+    "en": "see, hopes, chances, idea, opinion, look at, visible"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/見.svg"
+  },
+  "frequency": 22,
+  "examples": [
+    "見",
+    "見る",
+    "意見",
+    "見え",
+    "発見"
+  ],
+  "explanation": {
+    "id": "2170",
+    "text": "見 (đọc là \"ken\" hoặc \"mi\") có nghĩa là \"nhìn\", \"thấy\", để chỉ các hành động liên quan đến việc nhìn thấy hoặc quan sát.  \nVí dụ:  \n- 見る (miru): Nhìn, xem.  \n- 見つける (mitsukeru): Tìm thấy.  \n-"
+  },
+  "comments": [
+    {
+      "id": "672",
+      "lang": "vi",
+      "content_html": "<p>Để <strong>nhìn </strong>thấy được nhiều sự vật thì cần có con mắt (目) và đôi chân.</p>",
+      "content_text": "Để\nnhìn\nthấy được nhiều sự vật thì cần có con mắt (目) và đôi chân.",
+      "image_url": "https://jpdictionary.com/upload/images/6298344c257bd.jpg",
+      "image_path": "assets/images/見_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156795",
+      "lang": "vi",
+      "content_html": "<p>Mắt 目 Nhìn 見 mấy em Chân 儿 dài, thèm chảy nước dãi.</p>",
+      "content_text": "Mắt 目 Nhìn 見 mấy em Chân 儿 dài, thèm chảy nước dãi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158237",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>見る (みる): nhìn, xem</p><p>花見 (はなみ): ngắm hoa</p><p>見せる (みせる): Cho xem</p>",
+      "content_text": "JLPT N5\n見る (みる): nhìn, xem\n花見 (はなみ): ngắm hoa\n見せる (みせる): Cho xem",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "156797",
+      "lang": "vi",
+      "content_html": "<p>Chân vác mắt đi chứng kiến mọi việc</p>",
+      "content_text": "Chân vác mắt đi chứng kiến mọi việc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

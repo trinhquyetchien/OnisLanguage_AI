@@ -1,0 +1,67 @@
+{
+  "kanji": "晃",
+  "meta": {
+    "weight": 1234,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "あきらか"
+    ],
+    "am_han": "HOẢNG, HOÁNG, TƯ, QUÁNG, QUÀNG"
+  },
+  "meaning": {
+    "vi": "thông thoáng",
+    "en": "clear"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/晃.svg"
+  },
+  "frequency": 1666,
+  "examples": [],
+  "explanation": {
+    "id": "2468",
+    "text": "晃 (đọc là \"kō\" hoặc \"akira\") có nghĩa là \"sáng\" hoặc \"chói sáng\", thường liên quan đến ánh sáng và sự rõ ràng. \n\nVí dụ:\n- 晃暈 (kōun): Chóng mặt do ánh sáng chói.\n- 明晃 (meikō): Ánh sáng rực rỡ"
+  },
+  "comments": [
+    {
+      "id": "154240",
+      "lang": "vi",
+      "content_html": "<p>Ánh sáng mặt trời chói phát hoảng phát rồ.</p>",
+      "content_text": "Ánh sáng mặt trời chói phát hoảng phát rồ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154241",
+      "lang": "vi",
+      "content_html": "<p>Tên người:晃子さん:てるこさん</p>",
+      "content_text": "Tên người:晃子さん:てるこさん",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

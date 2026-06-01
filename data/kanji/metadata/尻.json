@@ -1,0 +1,90 @@
+{
+  "kanji": "尻",
+  "meta": {
+    "weight": 768,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "しり"
+    ],
+    "am_han": "KHÀO, CỪU"
+  },
+  "meaning": {
+    "vi": "mông, hông, phía sau",
+    "en": "buttocks, hips, butt, rear"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/尻.svg"
+  },
+  "frequency": 1692,
+  "examples": [
+    "尻",
+    "尻尾",
+    "尻目",
+    "帳尻",
+    "尻込み"
+  ],
+  "explanation": {
+    "id": "4045",
+    "text": "尻 (đọc là \"shiri\") có nghĩa là \"mông\" hoặc \"hông\", chỉ phần cơ thể ở vùng dưới lưng.  \nVí dụ:  \n- 尻尾 (shippo): Đuôi (của động vật).  \n- 尻を叩く (shiri o tataku): Đánh vào mông, thường dùng tron"
+  },
+  "comments": [
+    {
+      "id": "153086",
+      "lang": "vi",
+      "content_html": "<p>THI đọc bảng CỬU chương mà giọng cứ KHÀO KHÀO như CÁI ĐÍT ngan</p>",
+      "content_text": "THI đọc bảng CỬU chương mà giọng cứ KHÀO KHÀO như CÁI ĐÍT ngan",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153087",
+      "lang": "vi",
+      "content_html": "<p>hình ảnh doggy bằng mông trước cửa</p>",
+      "content_text": "hình ảnh doggy bằng mông trước cửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153088",
+      "lang": "vi",
+      "content_html": "<p>Bị vụt vào Mông (尻) 9 lần (九) ngay trước cửa (戸)</p>",
+      "content_text": "Bị vụt vào Mông (尻) 9 lần (九) ngay trước cửa (戸)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "喋",
+  "meta": {
+    "weight": 504,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ",
+      "トウ"
+    ],
+    "kun": [
+      "しゃべ.る",
+      "ついば.む"
+    ],
+    "am_han": "ĐIỆP"
+  },
+  "meaning": {
+    "vi": "nói chuyện, nói chuyện phiếm",
+    "en": "talk, chat, chatter"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/喋.svg"
+  },
+  "frequency": 2403,
+  "examples": [
+    "喋る",
+    "喋り",
+    "お喋り"
+  ],
+  "explanation": {
+    "id": "5331",
+    "text": "喋 (đọc là \"deki\" hoặc \"shaku\") có nghĩa là \"nói chuyện\", \"tán gẫu\" để chỉ các hoạt động giao tiếp bằng lời nói, đặc biệt là trong bối cảnh vui vẻ hay không chính thức.\n\nVí dụ:\n- 喋る (shaberu)"
+  },
+  "comments": [
+    {
+      "id": "152446",
+      "lang": "vi",
+      "content_html": "<p>Mồm nói lắm chuyện liên quan  thế giới trên cây</p>",
+      "content_text": "Mồm nói lắm chuyện liên quan  thế giới trên cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152447",
+      "lang": "vi",
+      "content_html": "<p>MỒM cứ nói đi nói lại ĐIỆP khúc về THẾ giới các loài CÂY</p>",
+      "content_text": "MỒM cứ nói đi nói lại ĐIỆP khúc về THẾ giới các loài CÂY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152448",
+      "lang": "vi",
+      "content_html": "<p>ĐIỆP đã NÓI vs THẾ giới rằng . ta là CÂY còn lan là chiếc lá , cùng nhau vượt qua những con ng hay BUÔN CHUYỆN nói xấu về mình...</p>",
+      "content_text": "ĐIỆP đã NÓI vs THẾ giới rằng . ta là CÂY còn lan là chiếc lá , cùng nhau vượt qua những con ng hay BUÔN CHUYỆN nói xấu về mình...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

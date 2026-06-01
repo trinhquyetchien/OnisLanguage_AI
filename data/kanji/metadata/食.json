@@ -1,0 +1,94 @@
+{
+  "kanji": "食",
+  "meta": {
+    "weight": 2925,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショク",
+      "ジキ"
+    ],
+    "kun": [
+      "く.う",
+      "く.らう",
+      "た.べる",
+      "は.む"
+    ],
+    "am_han": "THỰC"
+  },
+  "meaning": {
+    "vi": "ăn, ẩm thực",
+    "en": "eat, food"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/食.svg"
+  },
+  "frequency": 328,
+  "examples": [
+    "食事",
+    "食",
+    "食べる",
+    "食品",
+    "食べ物"
+  ],
+  "explanation": {
+    "id": "4036",
+    "text": "食 (đọc là \"shoku\" hoặc \"taberu\") có nghĩa là \"ăn\", \"thức ăn\", liên quan đến các hoạt động tiêu thụ thực phẩm.  \nVí dụ:  \n- 食事 (shokuji): Bữa ăn.  \n- 食べる (taberu): Ăn.  \n- 食文化 (shokubunka): V"
+  },
+  "comments": [
+    {
+      "id": "682",
+      "lang": "vi",
+      "content_html": "<p>Điều làm tôi cảm thấy thoải mái là việc <strong>ăn </strong>ở nhà.</p>",
+      "content_text": "Điều làm tôi cảm thấy thoải mái là việc\năn\nở nhà.",
+      "image_url": "https://jpdictionary.com/upload/images/629836215a654.jpg",
+      "image_path": "assets/images/食_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191237",
+      "lang": "vi",
+      "content_html": "<p><strong>ăn </strong>cơm</p>",
+      "content_text": "ăn\ncơm",
+      "image_url": "https://jpdictionary.com/upload/images/648adf5a5c9d7.jpg",
+      "image_path": "assets/images/食_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "157928",
+      "lang": "vi",
+      "content_html": "<p>Tượng hình: Dưới nóc nhà đứa bé có 1 cọc tóc cầm đôi đũa và chén cơm để ăn 食. <br>Chiết tự: Người 人 lương 良  thiện sẽ có lương thực  食  đủ ăn 食 .</p>",
+      "content_text": "Tượng hình: Dưới nóc nhà đứa bé có 1 cọc tóc cầm đôi đũa và chén cơm để ăn 食.\nChiết tự: Người 人 lương 良  thiện sẽ có lương thực  食  đủ ăn 食 .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

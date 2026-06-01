@@ -1,0 +1,91 @@
+{
+  "kanji": "堅",
+  "meta": {
+    "weight": 572,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "かた.い",
+      "-がた.い"
+    ],
+    "am_han": "KIÊN"
+  },
+  "meaning": {
+    "vi": "nghiêm ngặt, cứng, rắn, cứng rắn, chặt chẽ, đáng tin cậy",
+    "en": "strict, hard, solid, tough, tight, reliable"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/堅.svg"
+  },
+  "frequency": 1049,
+  "examples": [
+    "中堅",
+    "堅い",
+    "堅持",
+    "堅実",
+    "堅"
+  ],
+  "explanation": {
+    "id": "2119",
+    "text": "堅 (đọc là \"ken\" hoặc \"katai\") có nghĩa là \"vững chắc\", \"cứng rắn\" để chỉ sự kiên định, bền bỉ hoặc điều gì đó cứng cáp.\n\nVí dụ:\n- 堅実 (kenjitsu): Vững chắc, an toàn.\n- 堅い (katai): Cứng, vững "
+  },
+  "comments": [
+    {
+      "id": "152614",
+      "lang": "vi",
+      "content_html": "<p>Hựu thần cai quản vùng đất này rất kiên cố.</p>",
+      "content_text": "Hựu thần cai quản vùng đất này rất kiên cố.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152615",
+      "lang": "vi",
+      "content_html": "<p>臣 thần ( bề tôi , hạ thần ) ( vua đứng trên cao , kế bên là 2 hạ thần ) <br>臣 theo phân tích phi logic thì nhìn giống viên gạch của bức tường <br>bàn tay dùng ĐẤT , đá , xi măng xây tường gạch KIÊN CỐ</p>",
+      "content_text": "臣 thần ( bề tôi , hạ thần ) ( vua đứng trên cao , kế bên là 2 hạ thần )\n臣 theo phân tích phi logic thì nhìn giống viên gạch của bức tường\nbàn tay dùng ĐẤT , đá , xi măng xây tường gạch KIÊN CỐ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152616",
+      "lang": "vi",
+      "content_html": "<p>硬い / 固い/ 堅い: カタイ</p>",
+      "content_text": "硬い / 固い/ 堅い: カタイ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

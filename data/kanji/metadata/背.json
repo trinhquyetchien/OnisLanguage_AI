@@ -1,0 +1,110 @@
+{
+  "kanji": "背",
+  "meta": {
+    "weight": 2183,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハイ"
+    ],
+    "kun": [
+      "せ",
+      "せい",
+      "そむ.く",
+      "そむ.ける"
+    ],
+    "am_han": "BỐI"
+  },
+  "meaning": {
+    "vi": "dáng vóc, bối cảnh",
+    "en": "stature, height, back, behind, disobey, defy, go back on, rebel"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/背.svg"
+  },
+  "frequency": 696,
+  "examples": [
+    "背景",
+    "背中",
+    "背",
+    "背後",
+    "背筋"
+  ],
+  "explanation": {
+    "id": "6274",
+    "text": "背 (đọc là \"hai\" hoặc \"se\") có nghĩa là \"lưng\" hoặc \"phía sau\", dùng để chỉ phần lưng của cơ thể hoặc khía cạnh phía sau của một sự vật.\n\nVí dụ:\n- 背中 (senaka): Lưng.\n- 背負う (seou): Cõng, mang "
+  },
+  "comments": [
+    {
+      "id": "156301",
+      "lang": "vi",
+      "content_html": "<p>Chị Nguyệt anh Bắc hẹ hò Bối rối quay Lưng ê thẹn</p>",
+      "content_text": "Chị Nguyệt anh Bắc hẹ hò Bối rối quay Lưng ê thẹn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190678",
+      "lang": "vi",
+      "content_html": "<p>Dùng cái hình phía Bắc có Trăng làm Bối cảnh</p>",
+      "content_text": "Dùng cái hình phía Bắc có Trăng làm Bối cảnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156302",
+      "lang": "vi",
+      "content_html": "<p>BỐI cảnh phim là chị NGUYỆT phản bội a BẮC</p>",
+      "content_text": "BỐI cảnh phim là chị NGUYỆT phản bội a BẮC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156303",
+      "lang": "vi",
+      "content_html": "<p>Hướng bắc có trăng</p>",
+      "content_text": "Hướng bắc có trăng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "kanji": "触",
+  "meta": {
+    "weight": 2451,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショク"
+    ],
+    "kun": [
+      "ふ.れる",
+      "さわ.る",
+      "さわ"
+    ],
+    "am_han": "XÚC"
+  },
+  "meaning": {
+    "vi": "tiếp xúc, chạm",
+    "en": "contact, touch, feel, hit, proclaim, announce, conflict"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/触.svg"
+  },
+  "frequency": 904,
+  "examples": [
+    "触れ",
+    "接触",
+    "触れる",
+    "感触",
+    "触る"
+  ],
+  "explanation": {
+    "id": "4033",
+    "text": "触 (đọc là \"shoku\") có nghĩa là \"chạm\", \"tiếp xúc\" để chỉ các hành động liên quan đến việc chạm vào hoặc cảm nhận một cái gì đó.  \nVí dụ:  \n- 触れる (fureru): Chạm vào, tiếp xúc.  \n- 触覚 (shokkak"
+  },
+  "comments": [
+    {
+      "id": "156822",
+      "lang": "vi",
+      "content_html": "<p>Chạm vào Xúc Giác của công Trùng</p>",
+      "content_text": "Chạm vào Xúc Giác của công Trùng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190738",
+      "lang": "vi",
+      "content_html": "<p>Trong góc có con côn trùng độc không được tiếp xúc</p>",
+      "content_text": "Trong góc có con côn trùng độc không được tiếp xúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156823",
+      "lang": "vi",
+      "content_html": "<p>Xúc giác của côn trùng ở sừng</p>",
+      "content_text": "Xúc giác của côn trùng ở sừng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156824",
+      "lang": "vi",
+      "content_html": "<p>tiếp xúc với con trùng thì có cảm giác ngứa</p>",
+      "content_text": "tiếp xúc với con trùng thì có cảm giác ngứa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

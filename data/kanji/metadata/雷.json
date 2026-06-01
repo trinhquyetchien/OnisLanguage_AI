@@ -1,0 +1,92 @@
+{
+  "kanji": "雷",
+  "meta": {
+    "weight": 2869,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ライ"
+    ],
+    "kun": [
+      "かみなり",
+      "いかずち",
+      "いかづち"
+    ],
+    "am_han": "LÔI"
+  },
+  "meaning": {
+    "vi": "sấm sét, tia chớp",
+    "en": "thunder, lightning bolt"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/雷.svg"
+  },
+  "frequency": 1491,
+  "examples": [
+    "雷",
+    "地雷",
+    "落雷",
+    "雷雨",
+    "魚雷"
+  ],
+  "explanation": {
+    "id": "7955",
+    "text": "雷 (đọc là \"rai\") có nghĩa là \"sấm\" để chỉ các hiện tượng thiên nhiên liên quan đến sấm sét và tiếng nổ phát ra khi có sét.\n\nVí dụ:\n- 雷鳴 (raimei): Tiếng sấm.\n- 雷雨 (rai'u): Mưa có sấm sét.\n- 雷"
+  },
+  "comments": [
+    {
+      "id": "157804",
+      "lang": "vi",
+      "content_html": "<p>Trời mưa sấm lôi đánh xuống ruộng</p>",
+      "content_text": "Trời mưa sấm lôi đánh xuống ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157805",
+      "lang": "vi",
+      "content_html": "<p>điện 電　bỏ đuôi thành lôi 雷</p>",
+      "content_text": "điện 電　bỏ đuôi thành lôi 雷",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157806",
+      "lang": "vi",
+      "content_html": "<p>mưa xuống đồng có kèm tiếng sấm</p>",
+      "content_text": "mưa xuống đồng có kèm tiếng sấm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

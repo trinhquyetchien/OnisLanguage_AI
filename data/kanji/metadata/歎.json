@@ -1,0 +1,51 @@
+{
+  "kanji": "歎",
+  "meta": {
+    "weight": 1448,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "なげ.く",
+      "なげ.き"
+    ],
+    "am_han": "THÁN"
+  },
+  "meaning": {
+    "vi": "đau buồn, than thở",
+    "en": "grief, lamentation"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/歎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5131",
+    "text": "歎 (đọc là \"tan\") có nghĩa là \"thở dài\", \"thán phục\" để chỉ cảm xúc buồn bã hoặc sự cảm thán về một điều gì đó.  \nVí dụ:  \n- 歎息 (tansoku): Thở dài, cảm thán.  \n- 感歎 (kantan): Cảm thán, ngưỡng"
+  },
+  "comments": [
+    {
+      "id": "219874",
+      "lang": "vi",
+      "content_html": "<p>đại trượng PHU dù có ăn CỎ cũng không được mở miệng than vãn( THÁN)</p>",
+      "content_text": "đại trượng PHU dù có ăn CỎ cũng không được mở miệng than vãn( THÁN)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

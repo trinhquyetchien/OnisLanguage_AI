@@ -1,0 +1,89 @@
+{
+  "kanji": "愉",
+  "meta": {
+    "weight": 997,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユ"
+    ],
+    "kun": [
+      "たの.しい",
+      "たの.しむ"
+    ],
+    "am_han": "DU, THÂU"
+  },
+  "meaning": {
+    "vi": "hân hạnh, hạnh phúc, vui mừng",
+    "en": "pleasure, happy, rejoice"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/愉.svg"
+  },
+  "frequency": 1974,
+  "examples": [
+    "愉快",
+    "不愉快",
+    "愉しい"
+  ],
+  "explanation": {
+    "id": "7716",
+    "text": "愉 (đọc là \"yu\") có nghĩa là \"vui vẻ\", \"hạnh phúc\" để chỉ cảm giác thoải mái, vui sướng.  \nVí dụ:  \n- 愉快 (yukai): Hài lòng, vui vẻ.  \n- 愉しむ (tanoshimu): Thưởng thức, tận hưởng.  \n- 愉悦 (yueki)"
+  },
+  "comments": [
+    {
+      "id": "153655",
+      "lang": "vi",
+      "content_html": "<p>Thật Tâm rất VUI khi đi DU lịch cùng cả Nhà</p>",
+      "content_text": "Thật Tâm rất VUI khi đi DU lịch cùng cả Nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153656",
+      "lang": "vi",
+      "content_html": "<p>thật tâm rất vui khi được đi \u001dDU lịch chứ không phải ở nhà thái thịt</p>",
+      "content_text": "thật tâm rất vui khi được đi \u001dDU lịch chứ không phải ở nhà thái thịt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153657",
+      "lang": "vi",
+      "content_html": "<p>du rất vui khi đứng trước mái nhà</p>",
+      "content_text": "du rất vui khi đứng trước mái nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "kanji": "蕃",
+  "meta": {
+    "weight": 2340,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バン",
+      "ハン"
+    ],
+    "kun": [],
+    "am_han": "PHIỀN"
+  },
+  "meaning": {
+    "vi": "phát triển sang trọng",
+    "en": "grow luxuriously"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/蕃.svg"
+  },
+  "frequency": 2361,
+  "examples": [],
+  "explanation": {
+    "id": "6522",
+    "text": "蕃 (đọc là \"ban\") có nghĩa là \"người nước ngoài\" hoặc chỉ các vùng đất xa lạ, thường được dùng để chỉ các quốc gia hoặc dân tộc không phải Nhật Bản. \n\nVí dụ:\n- 蕃族 (banzoku): Bộ tộc nước ngoài"
+  },
+  "comments": [
+    {
+      "id": "156602",
+      "lang": "vi",
+      "content_html": "<p>Mua Cỏ mà phải đợi luân Phiên, Phiền quá đi</p>",
+      "content_text": "Mua Cỏ mà phải đợi luân Phiên, Phiền quá đi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

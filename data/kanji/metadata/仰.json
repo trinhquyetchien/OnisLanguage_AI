@@ -1,0 +1,94 @@
+{
+  "kanji": "仰",
+  "meta": {
+    "weight": 147,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギョウ",
+      "コウ"
+    ],
+    "kun": [
+      "あお.ぐ",
+      "おお.せ",
+      "お.っしゃる",
+      "おっしゃ.る"
+    ],
+    "am_han": "NGƯỠNG, NHẠNG"
+  },
+  "meaning": {
+    "vi": "ngẩng mặt lên, nhìn lên, phụ thuộc, tìm kiếm, tôn trọng, tôn kính, uống, lấy",
+    "en": "face-up, look up, depend, seek, respect, revere, drink, take"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/仰.svg"
+  },
+  "frequency": 1573,
+  "examples": [
+    "信仰",
+    "仰天",
+    "仰せ",
+    "仰る",
+    "仰向け"
+  ],
+  "explanation": {
+    "id": "1711",
+    "text": "仰 (đọc là \"gyou\" hoặc \"aogu\") có nghĩa là \"ngẩng lên\", \"hướng lên\" để chỉ hành động nhìn lên hoặc tôn kính.  \nVí dụ:  \n- 仰天 (gyouten): Ngẩng lên trời, sửng sốt.  \n- 仰る (ossharu): Nói, được d"
+  },
+  "comments": [
+    {
+      "id": "151559",
+      "lang": "vi",
+      "content_html": "<p>Một người ngước lên nhìn đĩa CD</p>",
+      "content_text": "Một người ngước lên nhìn đĩa CD",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151560",
+      "lang": "vi",
+      "content_html": "<p>người cầm đĩa CD thì có vẻ ngưỡng mộ</p>",
+      "content_text": "người cầm đĩa CD thì có vẻ ngưỡng mộ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151561",
+      "lang": "vi",
+      "content_html": "<p>Người đứng ăn trứng ko có tròng đỏ, tín Ngưỡng thật kỳ lạ</p>",
+      "content_text": "Người đứng ăn trứng ko có tròng đỏ, tín Ngưỡng thật kỳ lạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

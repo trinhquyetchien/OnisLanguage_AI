@@ -1,0 +1,87 @@
+{
+  "kanji": "茸",
+  "meta": {
+    "weight": 2279,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ",
+      "ニュ"
+    ],
+    "kun": [
+      "きのこ",
+      "たけ",
+      "しげ.る"
+    ],
+    "am_han": "NHUNG, NHŨNG"
+  },
+  "meaning": {
+    "vi": "nấm",
+    "en": "mushroom"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/茸.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5057",
+    "text": "茸 (đọc là \"take\") có nghĩa là \"nấm\" để chỉ các loại nấm, đặc biệt là nấm ăn hoặc nấm hoang dã.  \nVí dụ:  \n- 茸類 (shirō) : Các loại nấm.  \n- 椎茸 (shiitake): Nấm shiitake, một loại nấm ăn phổ bi"
+  },
+  "comments": [
+    {
+      "id": "220526",
+      "lang": "vi",
+      "content_html": "<p>Cỏ mà có cái tai to thì là nấm...</p>",
+      "content_text": "Cỏ mà có cái tai to thì là nấm...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220527",
+      "lang": "vi",
+      "content_html": "<p>Cỏ hình cái Tai 耳 mềm như NHUNG là Nấm.</p>",
+      "content_text": "Cỏ hình cái Tai 耳 mềm như NHUNG là Nấm.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220528",
+      "lang": "vi",
+      "content_html": "<p>Nấm mọc ra tựa như Nhĩ của Thảo</p>",
+      "content_text": "Nấm mọc ra tựa như Nhĩ của Thảo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

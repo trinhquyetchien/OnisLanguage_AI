@@ -1,0 +1,85 @@
+{
+  "kanji": "骸",
+  "meta": {
+    "weight": 2962,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガイ",
+      "カイ"
+    ],
+    "kun": [
+      "むくろ"
+    ],
+    "am_han": "HÀI"
+  },
+  "meaning": {
+    "vi": "xương, cơ thể, xác chết",
+    "en": "bone, body, corpse"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/骸.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "864",
+    "text": "骸 (đọc là \"gai\") có nghĩa là \"xương\", \"thây ma\" để chỉ các bộ phận cơ thể còn lại hoặc xác chết.  \nVí dụ:  \n- 骸骨 (gaikotsu): Xương, bộ xương.  \n- 骸 (gai): Thây ma, xác chết.  \n- 骸儀 (gaigi): "
+  },
+  "comments": [
+    {
+      "id": "221061",
+      "lang": "vi",
+      "content_html": "<p>Hình hài xương cốt 4 người đội mũ</p>",
+      "content_text": "Hình hài xương cốt 4 người đội mũ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221062",
+      "lang": "vi",
+      "content_html": "<p>hài cốt con lợn</p>",
+      "content_text": "hài cốt con lợn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221063",
+      "lang": "vi",
+      "content_html": "<p>4 người tìm đi tìm HÀI Cốt</p>",
+      "content_text": "4 người tìm đi tìm HÀI Cốt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

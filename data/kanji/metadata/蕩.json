@@ -1,0 +1,52 @@
+{
+  "kanji": "蕩",
+  "meta": {
+    "weight": 2346,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "とろ.かす",
+      "とろ.ける",
+      "うご.く"
+    ],
+    "am_han": "ĐÃNG, ĐẢNG"
+  },
+  "meaning": {
+    "vi": "tan chảy, bị quyến rũ, say đắm",
+    "en": "melt, be charmed, captivated"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/蕩.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5858",
+    "text": "蕩 (đọc là \"tō\" hoặc \"dō\") có nghĩa là \"tiêu tan\", \"tan biến\", thường chỉ trạng thái bị xóa bỏ hoặc sự thả lỏng. \n\nVí dụ:\n- 蕩尽 (tōjin): Tiêu tan hoàn toàn, mất hết.\n- 蕩ける (tokeru): Tan chảy, "
+  },
+  "comments": [
+    {
+      "id": "220579",
+      "lang": "vi",
+      "content_html": "<p>Phóng túng cho bản thân hưởng thụ tắm trong bồn hoa 艹 và nước nóng 湯</p>",
+      "content_text": "Phóng túng cho bản thân hưởng thụ tắm trong bồn hoa 艹 và nước nóng 湯",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

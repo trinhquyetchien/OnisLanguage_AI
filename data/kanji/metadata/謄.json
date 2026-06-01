@@ -1,0 +1,84 @@
+{
+  "kanji": "謄",
+  "meta": {
+    "weight": 2518,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [],
+    "am_han": "ĐẰNG"
+  },
+  "meaning": {
+    "vi": "người viết kịch bản, sao chép",
+    "en": "mimeograph, copy"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/謄.svg"
+  },
+  "frequency": 2295,
+  "examples": [
+    "謄本"
+  ],
+  "explanation": {
+    "id": "5867",
+    "text": "謄 (đọc là \"tō\") có nghĩa là \"sao chép\", \"phô bày\" để chỉ hành động sao chép văn bản hoặc tài liệu.\n\nVí dụ:\n- 謄写 (tōsha): Sao chép, photocopy.\n- 謄本 (tōhon): Bản sao, bản chính thức.\n- 謄録 (tōr"
+  },
+  "comments": [
+    {
+      "id": "156981",
+      "lang": "vi",
+      "content_html": "<p>NGÔN từ TRẪM nói ra ĐẰNG ấy phải SAO CHÉP vào</p>",
+      "content_text": "NGÔN từ TRẪM nói ra ĐẰNG ấy phải SAO CHÉP vào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156982",
+      "lang": "vi",
+      "content_html": "<p>Chị nguyệt nói coppy bị ngược chữ ¥ rồi</p>",
+      "content_text": "Chị nguyệt nói coppy bị ngược chữ ¥ rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156983",
+      "lang": "vi",
+      "content_html": "<p>nguyệt 月 nói 言 1 đằng chồng 夫 sao chép 1 kiểu</p>",
+      "content_text": "nguyệt 月 nói 言 1 đằng chồng 夫 sao chép 1 kiểu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

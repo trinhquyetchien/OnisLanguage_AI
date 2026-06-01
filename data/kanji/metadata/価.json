@@ -1,0 +1,108 @@
+{
+  "kanji": "価",
+  "meta": {
+    "weight": 188,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "ケ"
+    ],
+    "kun": [
+      "あたい"
+    ],
+    "am_han": "GIÁ, GIỚI"
+  },
+  "meaning": {
+    "vi": "giá trị",
+    "en": "value, price"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/価.svg"
+  },
+  "frequency": 250,
+  "examples": [
+    "評価",
+    "価格",
+    "価値",
+    "物価",
+    "株価"
+  ],
+  "explanation": {
+    "id": "615",
+    "text": "価 (đọc là \"ka\") có nghĩa là \"giá trị\", \"giá cả\" để chỉ giá trị của một vật thể hoặc dịch vụ trong kinh tế.  \nVí dụ:  \n- 価格 (kakaku): Giá cả, mức giá.  \n- 価値 (kachi): Giá trị, ý nghĩa.  \n- 価額"
+  },
+  "comments": [
+    {
+      "id": "151663",
+      "lang": "vi",
+      "content_html": "<p>Người phương Tây rất coi trọng GIÁ trị</p>",
+      "content_text": "Người phương Tây rất coi trọng GIÁ trị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151664",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI châu Á hay lo về GIÁ<br>亻 NHÂN 襾 Á 価 - GIÁ</p>",
+      "content_text": "NGƯỜI châu Á hay lo về GIÁ\n亻 NHÂN 襾 Á 価 - GIÁ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221627",
+      "lang": "vi",
+      "content_html": "<p>Chữ Hán 価 (đọc là \"ka\") có nghĩa là \"giá trị,\" \"giá cả,\" hoặc \"đánh giá\"</p><p>Ví dụ:</p><ol><li><strong>価値 (kachi)</strong>: Giá trị.</li><li><strong>価格 (kakaku)</strong>: Giá cả, giá thành.</li><li><strong>評価 (hyouka)</strong>: Đánh giá.</li><li><strong>価値観 (kachikan)</strong>: Quan điểm về giá trị, giá trị cốt lõi.</li></ol>",
+      "content_text": "Chữ Hán 価 (đọc là \"ka\") có nghĩa là \"giá trị,\" \"giá cả,\" hoặc \"đánh giá\"\nVí dụ:\n価値 (kachi)\n: Giá trị.\n価格 (kakaku)\n: Giá cả, giá thành.\n評価 (hyouka)\n: Đánh giá.\n価値観 (kachikan)\n: Quan điểm về giá trị, giá trị cốt lõi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "151665",
+      "lang": "vi",
+      "content_html": "<p>Người có giá trị thì ở phía tây</p>",
+      "content_text": "Người có giá trị thì ở phía tây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

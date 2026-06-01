@@ -1,0 +1,91 @@
+{
+  "kanji": "狙",
+  "meta": {
+    "weight": 1710,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ",
+      "ショ"
+    ],
+    "kun": [
+      "ねら.う",
+      "ねら.い"
+    ],
+    "am_han": "THƯ"
+  },
+  "meaning": {
+    "vi": "nhắm vào, tầm nhìn, bóng tối, theo dõi",
+    "en": "aim at, sight, shadow, stalk"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/狙.svg"
+  },
+  "frequency": 745,
+  "examples": [
+    "狙い",
+    "狙う",
+    "狙撃",
+    "狙い撃ち"
+  ],
+  "explanation": {
+    "id": "4627",
+    "text": "狙 (đọc là \"so\") có nghĩa là \"nhắm vào\", \"săn\" để chỉ hành động nhắm bắn hoặc tìm kiếm mục tiêu cụ thể.  \nVí dụ:  \n- 狙撃 (sogeki): Bắn tỉa.  \n- 狙う (nerau): Nhắm vào, hướng tới.  \n- 狙い (nerai):"
+  },
+  "comments": [
+    {
+      "id": "155269",
+      "lang": "vi",
+      "content_html": "<p>Em THƯ NHẮM vào ngôi nhà 3 tầng có con chó đẹp kia</p>",
+      "content_text": "Em THƯ NHẮM vào ngôi nhà 3 tầng có con chó đẹp kia",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155270",
+      "lang": "vi",
+      "content_html": "<p>Thả 且 chó 犭đi dạo rất THƯ  狙 thái nhưng MỤC TIÊU là đi ngắm gái</p>",
+      "content_text": "Thả 且 chó 犭đi dạo rất THƯ  狙 thái nhưng MỤC TIÊU là đi ngắm gái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155271",
+      "lang": "vi",
+      "content_html": "<p>Nhắm vào con thú 1 mắt</p>",
+      "content_text": "Nhắm vào con thú 1 mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

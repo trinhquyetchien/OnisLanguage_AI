@@ -1,0 +1,34 @@
+{
+  "kanji": "蔦",
+  "meta": {
+    "weight": 2336,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "つた"
+    ],
+    "am_han": "ĐIỂU"
+  },
+  "meaning": {
+    "vi": "cây nho, cây thường xuân",
+    "en": "vine, ivy"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/蔦.svg"
+  },
+  "frequency": 2215,
+  "examples": [
+    "蔦"
+  ],
+  "explanation": {
+    "id": "5490",
+    "text": "蔦 (đọc là \"tsuta\") có nghĩa là \"cây dây leo\" hoặc \"dây thường xuân\", chỉ các loại thực vật có thân leo.  \nVí dụ:  \n- 蔦の葉 (tsuta no ha): Lá cây dây leo.  \n- 蔦屋 (Tsutaya): Tên một chuỗi cửa hà"
+  },
+  "comments": []
+}

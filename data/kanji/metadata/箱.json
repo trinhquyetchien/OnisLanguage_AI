@@ -1,0 +1,90 @@
+{
+  "kanji": "箱",
+  "meta": {
+    "weight": 2007,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "はこ"
+    ],
+    "am_han": "TƯƠNG"
+  },
+  "meaning": {
+    "vi": "cái hộp",
+    "en": "box, chest, case, bin, railway car"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/箱.svg"
+  },
+  "frequency": 1357,
+  "examples": [
+    "箱",
+    "ゴミ箱",
+    "重箱",
+    "ごみ箱",
+    "箱庭"
+  ],
+  "explanation": {
+    "id": "6372",
+    "text": "箱 (đọc là \"hako\") có nghĩa là \"hộp\" hoặc \"thùng\" để chỉ các vật dụng dùng để chứa đựng đồ vật.  \nVí dụ:  \n- 箱庭 (hakoniwa): Vườn hộp, một không gian nhỏ được bao quanh.  \n- 箱詰め (hazukume): Đó"
+  },
+  "comments": [
+    {
+      "id": "155897",
+      "lang": "vi",
+      "content_html": "<p>Cái hộp làm từ mắt cây trúc</p>",
+      "content_text": "Cái hộp làm từ mắt cây trúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155898",
+      "lang": "vi",
+      "content_html": "<p>Cái cây cao TƯƠNG Tự cái HÒM làm bằng Tre Trúc</p>",
+      "content_text": "Cái cây cao TƯƠNG Tự cái HÒM làm bằng Tre Trúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155899",
+      "lang": "vi",
+      "content_html": "<p>CÁI HỘP bằng TRÚC ở Trên kia TƯƠNG tự cái của tôi.</p>",
+      "content_text": "CÁI HỘP bằng TRÚC ở Trên kia TƯƠNG tự cái của tôi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

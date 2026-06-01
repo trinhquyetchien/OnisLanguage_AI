@@ -1,0 +1,108 @@
+{
+  "kanji": "徒",
+  "meta": {
+    "weight": 927,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ト"
+    ],
+    "kun": [
+      "いたずら",
+      "あだ"
+    ],
+    "am_han": "ĐỒ"
+  },
+  "meaning": {
+    "vi": "đi bộ, môn đồ",
+    "en": "on foot, junior, emptiness, vanity, futility, uselessness, ephemeral thing, gang, set, party, people"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/徒.svg"
+  },
+  "frequency": 817,
+  "examples": [
+    "生徒",
+    "徒歩",
+    "教徒",
+    "徒然",
+    "使徒"
+  ],
+  "explanation": {
+    "id": "5715",
+    "text": "徒 (đọc là \"to\") có nghĩa là \"học sinh\", \"người theo\" để chỉ các khía cạnh liên quan đến việc học tập hay người đi theo một phong trào hay một người nào đó.\n\nVí dụ:\n- 徒弟 (todi): Đệ tử, người "
+  },
+  "comments": [
+    {
+      "id": "37074",
+      "lang": "vi",
+      "content_html": "<p><strong>Môn đồ</strong> đang chạy (走) &nbsp;trên đường</p>",
+      "content_text": "Môn đồ\nđang chạy (走)  trên đường",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb07cf174f.jpg",
+      "image_path": "assets/images/徒_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153474",
+      "lang": "vi",
+      "content_html": "<p>các tín ĐỒ Tẩu thoát khỏi Xiềng Xích</p>",
+      "content_text": "các tín ĐỒ Tẩu thoát khỏi Xiềng Xích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190684",
+      "lang": "vi",
+      "content_html": "<p>Kẻ cầm xích chạy theo đó là môn đồ</p>",
+      "content_text": "Kẻ cầm xích chạy theo đó là môn đồ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "153475",
+      "lang": "vi",
+      "content_html": "<p>Ông thầy ĐỒ nhiều lúc cũng TẨU (chạy) mất dép vì lũ HỌC TRÒ tinh nghịch</p>",
+      "content_text": "Ông thầy ĐỒ nhiều lúc cũng TẨU (chạy) mất dép vì lũ HỌC TRÒ tinh nghịch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

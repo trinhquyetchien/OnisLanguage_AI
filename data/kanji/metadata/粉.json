@@ -1,0 +1,92 @@
+{
+  "kanji": "粉",
+  "meta": {
+    "weight": 2025,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フン"
+    ],
+    "kun": [
+      "デシメートル",
+      "こ",
+      "こな"
+    ],
+    "am_han": "PHẤN"
+  },
+  "meaning": {
+    "vi": "phấn, bột",
+    "en": "flour, powder, dust"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/粉.svg"
+  },
+  "frequency": 1484,
+  "examples": [
+    "粉",
+    "花粉",
+    "粉飾",
+    "小麦粉",
+    "粉砕"
+  ],
+  "explanation": {
+    "id": "6965",
+    "text": "粉 (đọc là \"fun\") có nghĩa là \"bột\", \"bột mịn\" để chỉ các loại thực phẩm hoặc chất liệu được nghiền thành bột.  \nVí dụ:  \n- 粉砂糖 (funsatou): Đường bột.  \n- 小麦粉 (komugiko): Bột mì.  \n- 粉末 (funm"
+  },
+  "comments": [
+    {
+      "id": "155928",
+      "lang": "vi",
+      "content_html": "<p>Phân nhỏ gạo ra sẽ nhỏ như bụi PHẤN</p>",
+      "content_text": "Phân nhỏ gạo ra sẽ nhỏ như bụi PHẤN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155929",
+      "lang": "vi",
+      "content_html": "<p>Phân nhỏ gạo ra thành bột</p>",
+      "content_text": "Phân nhỏ gạo ra thành bột",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155930",
+      "lang": "vi",
+      "content_html": "<p>khi cây lúa trổ bông phân tán rất nhiều phấn hoa</p>",
+      "content_text": "khi cây lúa trổ bông phân tán rất nhiều phấn hoa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

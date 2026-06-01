@@ -1,0 +1,110 @@
+{
+  "kanji": "返",
+  "meta": {
+    "weight": 2640,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘン"
+    ],
+    "kun": [
+      "かえ.す",
+      "-かえ.す",
+      "かえ.る",
+      "-かえ.る"
+    ],
+    "am_han": "PHẢN"
+  },
+  "meaning": {
+    "vi": "trả lại",
+    "en": "return, answer, fade, repay"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/返.svg"
+  },
+  "frequency": 685,
+  "examples": [
+    "繰り返し",
+    "返事",
+    "返信",
+    "返し",
+    "繰り返す"
+  ],
+  "explanation": {
+    "id": "7064",
+    "text": "返 (đọc là \"hen\") có nghĩa là \"trả lại\", \"quay lại\" để chỉ các hành động liên quan đến việc trở về hoặc hoàn trả.  \nVí dụ:  \n- 返却 (henkyaku): Trả lại, hoàn trả.  \n- 返事 (henji): Phản hồi, trả "
+  },
+  "comments": [
+    {
+      "id": "157284",
+      "lang": "vi",
+      "content_html": "<p>Có nên mở ĐƯỜNG (辶) cho kẻ PHẢN (反) bội TRỞ LẠI (返)? Đánh kẻ chạy đi chứ không ai đánh người chạy lại...</p>",
+      "content_text": "Có nên mở ĐƯỜNG (辶) cho kẻ PHẢN (反) bội TRỞ LẠI (返)? Đánh kẻ chạy đi chứ không ai đánh người chạy lại...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191205",
+      "lang": "vi",
+      "content_html": "<p><strong>trả lại</strong></p><p>返品 - trả lại hàng</p>",
+      "content_text": "trả lại\n返品 - trả lại hàng",
+      "image_url": "https://jpdictionary.com/upload/images/648adbdb5d3d5.jpg",
+      "image_path": "assets/images/返_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "157285",
+      "lang": "vi",
+      "content_html": "<p>Phản đối nhau Trở Lại trên đường cũ</p>",
+      "content_text": "Phản đối nhau Trở Lại trên đường cũ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157286",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay bê cái PHẢN trở lại</p>",
+      "content_text": "Dùng tay bê cái PHẢN trở lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

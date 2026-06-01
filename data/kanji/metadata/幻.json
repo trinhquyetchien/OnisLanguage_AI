@@ -1,0 +1,90 @@
+{
+  "kanji": "幻",
+  "meta": {
+    "weight": 853,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲン"
+    ],
+    "kun": [
+      "まぼろし"
+    ],
+    "am_han": "HUYỄN"
+  },
+  "meaning": {
+    "vi": "phantasm, tầm nhìn, giấc mơ, ảo tưởng, sự hiện ra",
+    "en": "phantasm, vision, dream, illusion, apparition"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/幻.svg"
+  },
+  "frequency": 1564,
+  "examples": [
+    "幻想",
+    "幻",
+    "幻覚",
+    "幻影",
+    "幻滅"
+  ],
+  "explanation": {
+    "id": "2209",
+    "text": "幻 (đọc là \"maboroshi\") có nghĩa là \"ảo tưởng\", \"huyền ảo\" để chỉ những điều không có thực hoặc khó nắm bắt.  \nVí dụ:  \n- 幻想 (gensō): Huyễn tưởng, ảo mộng.  \n- 幻影 (gen'ei): Ảo ảnh, hình bóng "
+  },
+  "comments": [
+    {
+      "id": "153299",
+      "lang": "vi",
+      "content_html": "<p>Yêu cái J mà k biết là ảo tưởng</p>",
+      "content_text": "Yêu cái J mà k biết là ảo tưởng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153300",
+      "lang": "vi",
+      "content_html": "<p>còn nhỏ hay ảo tưởng nên dễ bị mắc câu</p>",
+      "content_text": "còn nhỏ hay ảo tưởng nên dễ bị mắc câu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153301",
+      "lang": "vi",
+      "content_html": "<p>huyễn ảo Yêu Jị</p>",
+      "content_text": "huyễn ảo Yêu Jị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

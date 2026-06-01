@@ -1,0 +1,91 @@
+{
+  "kanji": "魂",
+  "meta": {
+    "weight": 2969,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン"
+    ],
+    "kun": [
+      "たましい",
+      "たま"
+    ],
+    "am_han": "HỒN"
+  },
+  "meaning": {
+    "vi": "tinh thần linh hồn",
+    "en": "soul, spirit"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/魂.svg"
+  },
+  "frequency": 1748,
+  "examples": [
+    "魂",
+    "霊魂",
+    "魂胆",
+    "鎮魂",
+    "入魂"
+  ],
+  "explanation": {
+    "id": "2721",
+    "text": "魂 (đọc là \"kon\") có nghĩa là \"linh hồn\" để chỉ phần tâm linh, tinh thần của con người hoặc một sinh vật.\n\nVí dụ:\n- 魂魄 (konpaku): Linh hồn và thể xác, thường dùng để nói về sự tồn tại của lin"
+  },
+  "comments": [
+    {
+      "id": "158026",
+      "lang": "vi",
+      "content_html": "<p>Mây kéo đến quỷ xuất hiện</p>",
+      "content_text": "Mây kéo đến quỷ xuất hiện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158027",
+      "lang": "vi",
+      "content_html": "<p>Linh hồn của Quỷ ẩn phía sau đám mây</p>",
+      "content_text": "Linh hồn của Quỷ ẩn phía sau đám mây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158028",
+      "lang": "vi",
+      "content_html": "<p>Đám Mây hình Quỷ thật ra là Linh Hồn</p>",
+      "content_text": "Đám Mây hình Quỷ thật ra là Linh Hồn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

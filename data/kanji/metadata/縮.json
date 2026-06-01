@@ -1,0 +1,94 @@
+{
+  "kanji": "縮",
+  "meta": {
+    "weight": 2111,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュク"
+    ],
+    "kun": [
+      "ちぢ.む",
+      "ちぢ.まる",
+      "ちぢ.める",
+      "ちぢ.れる",
+      "ちぢ.らす"
+    ],
+    "am_han": "SÚC"
+  },
+  "meaning": {
+    "vi": "co lại, co rút, nhăn nheo, giảm bớt",
+    "en": "shrink, contract, shrivel, wrinkle, reduce"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/縮.svg"
+  },
+  "frequency": 909,
+  "examples": [
+    "縮小",
+    "短縮",
+    "恐縮",
+    "圧縮",
+    "濃縮"
+  ],
+  "explanation": {
+    "id": "3596",
+    "text": "縮 (đọc là \"shuku\") có nghĩa là \"co lại\", \"thu nhỏ\" để chỉ các hành động liên quan đến việc giảm kích thước hoặc trở nên nhỏ hơn.  \nVí dụ:  \n- 縮む (chijimu): Co lại, rút ngắn.  \n- 縮尺 (shukusha"
+  },
+  "comments": [
+    {
+      "id": "156142",
+      "lang": "vi",
+      "content_html": "<p>Chỉ vì sợi dây mà 100 người trong nhà Súc nhau</p>",
+      "content_text": "Chỉ vì sợi dây mà 100 người trong nhà Súc nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156143",
+      "lang": "vi",
+      "content_html": "<p>tá TÚC mà 100 người co cụm lại nhìn như SÚC vật thiệt</p>",
+      "content_text": "tá TÚC mà 100 người co cụm lại nhìn như SÚC vật thiệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156144",
+      "lang": "vi",
+      "content_html": "<p>Đêm nay Quán Trọ tổ chức cuộc thi Súc miệng bằng cách cắn Dây</p>",
+      "content_text": "Đêm nay Quán Trọ tổ chức cuộc thi Súc miệng bằng cách cắn Dây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

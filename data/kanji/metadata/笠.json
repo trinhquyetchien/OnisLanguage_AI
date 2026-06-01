@@ -1,0 +1,52 @@
+{
+  "kanji": "笠",
+  "meta": {
+    "weight": 1985,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リュウ"
+    ],
+    "kun": [
+      "かさ"
+    ],
+    "am_han": "LẠP"
+  },
+  "meaning": {
+    "vi": "nón tre, ảnh hưởng của một người",
+    "en": "bamboo hat, one's influence"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/笠.svg"
+  },
+  "frequency": 1499,
+  "examples": [
+    "笠"
+  ],
+  "explanation": {
+    "id": "958",
+    "text": "笠 (đọc là \"kasa\") có nghĩa là \"mũ lá\", chỉ loại mũ được làm từ lá hoặc vật liệu nhẹ, thường dùng để che nắng hoặc mưa.  \nVí dụ:  \n- 笠帽子 (kasabōshi): Mũ lá.  \n- 田笠 (ta-kasa): Mũ lá dùng trong"
+  },
+  "comments": [
+    {
+      "id": "155860",
+      "lang": "vi",
+      "content_html": "<p>Người đứng dưới cái nón</p>",
+      "content_text": "Người đứng dưới cái nón",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

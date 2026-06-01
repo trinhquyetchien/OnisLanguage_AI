@@ -1,0 +1,109 @@
+{
+  "kanji": "寄",
+  "meta": {
+    "weight": 734,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "よ.る",
+      "-よ.り",
+      "よ.せる"
+    ],
+    "am_han": "KÍ"
+  },
+  "meaning": {
+    "vi": "kí gửi, kí sinh",
+    "en": "draw near, stop in, bring near, gather, collect, send, forward"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/寄.svg"
+  },
+  "frequency": 673,
+  "examples": [
+    "寄せ",
+    "寄付",
+    "年寄り",
+    "寄与",
+    "寄り"
+  ],
+  "explanation": {
+    "id": "1273",
+    "text": "寄 (đọc là \"ki\" hoặc \"yoso\") có nghĩa là \"gửi\" để chỉ hành động chuyển giao vật phẩm hoặc thông tin từ nơi này đến nơi khác.\n\nVí dụ:\n- 寄付 (kifu): Quyên góp, tặng.\n- 寄せる (yoseru): Gửi đến, xíc"
+  },
+  "comments": [
+    {
+      "id": "152992",
+      "lang": "vi",
+      "content_html": "<p>Mái nhà to lớn vậy rất có khả năng là KÍ túc xá</p>",
+      "content_text": "Mái nhà to lớn vậy rất có khả năng là KÍ túc xá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190680",
+      "lang": "vi",
+      "content_html": "<p>Mái nhà lớn kia, khả năng là chỗ kí gửi</p>",
+      "content_text": "Mái nhà lớn kia, khả năng là chỗ kí gửi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "152993",
+      "lang": "vi",
+      "content_html": "<p>Mái nhà( 宀 ) to(大) có khả năng(可) Kí gửi (cầm cố) rất nhiều  đồ</p>",
+      "content_text": "Mái nhà( 宀 ) to(大) có khả năng(可) Kí gửi (cầm cố) rất nhiều  đồ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152994",
+      "lang": "vi",
+      "content_html": "<p>cái j to to dưới mái nhà</p>",
+      "content_text": "cái j to to dưới mái nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

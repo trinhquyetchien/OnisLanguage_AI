@@ -1,0 +1,107 @@
+{
+  "kanji": "買",
+  "meta": {
+    "weight": 2555,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バイ"
+    ],
+    "kun": [
+      "か.う"
+    ],
+    "am_han": "MÃI"
+  },
+  "meaning": {
+    "vi": "mua, khuyến mãi",
+    "en": "buy"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/買.svg"
+  },
+  "frequency": 520,
+  "examples": [
+    "買い",
+    "買う",
+    "買い物",
+    "売買",
+    "買収"
+  ],
+  "explanation": {
+    "id": "6296",
+    "text": "買 (đọc là \"bai\" hoặc \"kau\") có nghĩa là \"mua\", để chỉ hành động mua sắm hoặc sở hữu một cái gì đó.  \nVí dụ:  \n- 買い物 (kaimono): Mua sắm, việc đi mua.  \n- 買う (kau): Mua.  \n- 購買 (kōbai): Mua sắ"
+  },
+  "comments": [
+    {
+      "id": "647",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa người ta sử dụng vỏ sò (貝) để <strong>mua</strong> (買) hàng hoá còn bây giờ ta đang sử dụng tiền giấy.</p>",
+      "content_text": "Ngày xưa người ta sử dụng vỏ sò (貝) để\nmua\n(買) hàng hoá còn bây giờ ta đang sử dụng tiền giấy.",
+      "image_url": "https://jpdictionary.com/upload/images/629825966f954.jpg",
+      "image_path": "assets/images/買_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158563",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>買い物 (かいもの): mua sắm</p><p>買う (かう): mua</p>",
+      "content_text": "JLPT N4\n買い物 (かいもの): mua sắm\n買う (かう): mua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221788",
+      "lang": "vi",
+      "content_html": "<p>Bộ \"<strong>罒</strong>\" (mắt) ở trên \"<strong>貝</strong>\" (vỏ sò - tiền) ở dưới = \"<strong>Nhìn</strong>\" thấy thì \"<strong>Xuống Tiền</strong>\" = <strong>Mua</strong></p>",
+      "content_text": "Bộ \"\n罒\n\" (mắt) ở trên \"\n貝\n\" (vỏ sò - tiền) ở dưới = \"\nNhìn\n\" thấy thì \"\nXuống Tiền\n\" =\nMua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    },
+    {
+      "id": "158565",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>買う (かう): mua</p><p>買い物 (かいもの): mua sắm</p>",
+      "content_text": "JLPT N4\n買う (かう): mua\n買い物 (かいもの): mua sắm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

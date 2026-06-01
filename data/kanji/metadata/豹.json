@@ -1,0 +1,49 @@
+{
+  "kanji": "豹",
+  "meta": {
+    "weight": 2540,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒョウ",
+      "ホウ"
+    ],
+    "kun": [],
+    "am_han": "BÁO"
+  },
+  "meaning": {
+    "vi": "beo",
+    "en": "leopard, panther"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/豹.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6719",
+    "text": "豹 (đọc là \"hyou\") có nghĩa là \"báo\" (một loài thú ăn thịt) để chỉ động vật hoang dã, đặc biệt là loài báo.  \nVí dụ:  \n- 豹柄 (hyoubara): Họa tiết da báo.  \n- 雪豹 (yukihyou): Báo tuyết.  \n- 黒豹 ("
+  },
+  "comments": [
+    {
+      "id": "220742",
+      "lang": "vi",
+      "content_html": "<p>Con Trĩ nhảy vào Bao thành con BÁO</p>",
+      "content_text": "Con Trĩ nhảy vào Bao thành con BÁO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

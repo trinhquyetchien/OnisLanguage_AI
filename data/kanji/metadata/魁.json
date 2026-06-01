@@ -1,0 +1,87 @@
+{
+  "kanji": "魁",
+  "meta": {
+    "weight": 2968,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "さきがけ",
+      "かしら"
+    ],
+    "am_han": "KHÔI"
+  },
+  "meaning": {
+    "vi": "tính phí trước những người khác",
+    "en": "charging ahead of others"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/魁.svg"
+  },
+  "frequency": 2108,
+  "examples": [
+    "魁"
+  ],
+  "explanation": {
+    "id": "783",
+    "text": "魁 (đọc là \"kai\") có nghĩa là \"người dẫn đầu\", \"người tiên phong\" để chỉ những người hoặc vật đứng đầu, dẫn dắt trong một lĩnh vực nào đó.\n\nVí dụ:\n- 魁偉 (kaii): Vĩ đại, xuất sắc.\n- 魁星 (kaisei)"
+  },
+  "comments": [
+    {
+      "id": "158023",
+      "lang": "vi",
+      "content_html": "<p>con quỷ đội cái đấu trên đầu là hoa khôi</p>",
+      "content_text": "con quỷ đội cái đấu trên đầu là hoa khôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158024",
+      "lang": "vi",
+      "content_html": "<p>Con quỷ cầm cái đấu , tranh xem con nào làm đầu sỏ cừ KHÔI nhất</p>",
+      "content_text": "Con quỷ cầm cái đấu , tranh xem con nào làm đầu sỏ cừ KHÔI nhất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158025",
+      "lang": "vi",
+      "content_html": "<p>Những con Quỷ Đấu đá nhau giành chức hoa khôi</p>",
+      "content_text": "Những con Quỷ Đấu đá nhau giành chức hoa khôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "顕",
+  "meta": {
+    "weight": 2918,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "あきらか",
+      "あらわ.れる"
+    ],
+    "am_han": "HIỂN"
+  },
+  "meaning": {
+    "vi": "xuất hiện, hiện có",
+    "en": "appear, existing"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/顕.svg"
+  },
+  "frequency": 1536,
+  "examples": [
+    "顕著",
+    "顕",
+    "顕在",
+    "顕微鏡",
+    "顕彰"
+  ],
+  "explanation": {
+    "id": "2191",
+    "text": "顕 (đọc là \"ken\" hoặc \"akeru\") có nghĩa là \"hiện ra\", \"xuất hiện\", chỉ các hành động liên quan đến việc làm cho điều gì đó trở nên rõ ràng hoặc hiển thị.\n\nVí dụ:\n- 顕著 (kencho): Rõ rệt, nổi bậ"
+  },
+  "comments": [
+    {
+      "id": "157910",
+      "lang": "vi",
+      "content_html": "<p>Hiển hiện rõ trong đầu rằng mỗi ngày đều cần phải xếp hàng</p>",
+      "content_text": "Hiển hiện rõ trong đầu rằng mỗi ngày đều cần phải xếp hàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157911",
+      "lang": "vi",
+      "content_html": "<p>xếp hàng cả 1 ngày thì đầu óc hiển nhiên là mệt mỏi</p>",
+      "content_text": "xếp hàng cả 1 ngày thì đầu óc hiển nhiên là mệt mỏi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157912",
+      "lang": "vi",
+      "content_html": "<p>Trong đầu lúc nào cũng hiển hiện 1 ngày có 4 tiếng tăng ca</p>",
+      "content_text": "Trong đầu lúc nào cũng hiển hiện 1 ngày có 4 tiếng tăng ca",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

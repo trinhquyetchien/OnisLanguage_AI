@@ -1,0 +1,89 @@
+{
+  "kanji": "殊",
+  "meta": {
+    "weight": 1462,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ"
+    ],
+    "kun": [
+      "こと"
+    ],
+    "am_han": "THÙ"
+  },
+  "meaning": {
+    "vi": "đặc biệt",
+    "en": "particularly, especially, exceptionally"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/殊.svg"
+  },
+  "frequency": 1361,
+  "examples": [
+    "特殊",
+    "殊に",
+    "殊",
+    "殊更"
+  ],
+  "explanation": {
+    "id": "3418",
+    "text": "殊 (đọc là \"shu\") có nghĩa là \"đặc biệt\", \"khác biệt\" để chỉ những điều nổi bật hoặc khác thường.\n\nVí dụ:\n- 殊勝 (shosho): Đáng khen, đáng quý.\n- 殊に (ことに, kotoni): Đặc biệt, nhất là.\n- 殊劣 (shor"
+  },
+  "comments": [
+    {
+      "id": "154702",
+      "lang": "vi",
+      "content_html": "<p>MỘT (一) ĐÊM (夕) ĐỎ tươi (朱) là đặc THÙ (殊) đêm tử trận</p>",
+      "content_text": "MỘT (一) ĐÊM (夕) ĐỎ tươi (朱) là đặc THÙ (殊) đêm tử trận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154703",
+      "lang": "vi",
+      "content_html": "<p>mua cổ phiếu trước khi chết đã trúng giải đặc biệt</p>",
+      "content_text": "mua cổ phiếu trước khi chết đã trúng giải đặc biệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154704",
+      "lang": "vi",
+      "content_html": "<p>Thù thằng chu làm ngạt thở</p>",
+      "content_text": "Thù thằng chu làm ngạt thở",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

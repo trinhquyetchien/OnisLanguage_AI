@@ -1,0 +1,125 @@
+{
+  "kanji": "置",
+  "meta": {
+    "weight": 2126,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チ"
+    ],
+    "kun": [
+      "お.く",
+      "-お.き"
+    ],
+    "am_han": "TRÍ"
+  },
+  "meaning": {
+    "vi": "đặt, bố trí",
+    "en": "placement, put, set, deposit, leave behind, keep, employ, pawn"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/置.svg"
+  },
+  "frequency": 277,
+  "examples": [
+    "措置",
+    "設置",
+    "位置",
+    "装置",
+    "配置"
+  ],
+  "explanation": {
+    "id": "5220",
+    "text": "置 (đọc là \"chi\") có nghĩa là \"đặt\", \"bày\" để chỉ các hành động liên quan đến việc đặt để hoặc thiết lập một thứ gì đó ở một vị trí nhất định.  \nVí dụ:  \n- 置物 (okimono): Đồ vật trang trí, vật"
+  },
+  "comments": [
+    {
+      "id": "156172",
+      "lang": "vi",
+      "content_html": "<p>Đặt cái VÕNG vào đấy rồi bố TRÍ người nằm TRỰC</p>",
+      "content_text": "Đặt cái VÕNG vào đấy rồi bố TRÍ người nằm TRỰC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156173",
+      "lang": "vi",
+      "content_html": "<p>Đặt thập giữa vị trí mắt nhìn ngược nhìn xuôi</p>",
+      "content_text": "Đặt thập giữa vị trí mắt nhìn ngược nhìn xuôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190792",
+      "lang": "vi",
+      "content_html": "<p>置物(おきもの): vật trang trí</p><p>&nbsp;</p>",
+      "content_text": "置物(おきもの): vật trang trí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "156174",
+      "lang": "vi",
+      "content_html": "<p>trực tiếp nhìn cách bố trí</p>",
+      "content_text": "trực tiếp nhìn cách bố trí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221970",
+      "lang": "vi",
+      "content_html": "<p>Dùng <strong>mắt</strong> (<strong>罒 - Võng) </strong>căn đo<strong> \"bố trí\"</strong> cho <strong>thẳng</strong> (<strong>直 - Trực)</strong></p>",
+      "content_text": "Dùng\nmắt\n(\n罒 - Võng)\ncăn đo\n\"bố trí\"\ncho\nthẳng\n(\n直 - Trực)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

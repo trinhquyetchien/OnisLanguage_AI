@@ -1,0 +1,67 @@
+{
+  "kanji": "棲",
+  "meta": {
+    "weight": 1379,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ"
+    ],
+    "kun": [
+      "す.む"
+    ],
+    "am_han": "TÊ, THÊ"
+  },
+  "meaning": {
+    "vi": "sống",
+    "en": "live, dwell"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/棲.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4315",
+    "text": "棲 (đọc là \"sei\") có nghĩa là \"sống\", \"ngụ cư\" để chỉ hành động sống hay cư trú trong một môi trường nào đó.\n\nVí dụ:\n- 棲息 (seisoku): Cư trú, sống (thường dùng cho động vật).\n- 棲まう (sumau): Ng"
+  },
+  "comments": [
+    {
+      "id": "219829",
+      "lang": "vi",
+      "content_html": "<p>Vợ như Cây củi chả Tê tí nào!</p>",
+      "content_text": "Vợ như Cây củi chả Tê tí nào!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219830",
+      "lang": "vi",
+      "content_html": "<p>Cây là nơi thê THIẾP thích sinh sống</p>",
+      "content_text": "Cây là nơi thê THIẾP thích sinh sống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

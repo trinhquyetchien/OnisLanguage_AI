@@ -1,0 +1,88 @@
+{
+  "kanji": "詐",
+  "meta": {
+    "weight": 2470,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サ"
+    ],
+    "kun": [
+      "いつわ.る"
+    ],
+    "am_han": "TRÁ"
+  },
+  "meaning": {
+    "vi": "dối trá, giả dối, lừa dối, giả vờ",
+    "en": "lie, falsehood, deceive, pretend"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/詐.svg"
+  },
+  "frequency": 1511,
+  "examples": [
+    "詐欺",
+    "詐称",
+    "詐取"
+  ],
+  "explanation": {
+    "id": "2757",
+    "text": "詐 (đọc là \"sa\") có nghĩa là \"lừa dối\", \"lừa gạt\" để chỉ các hành động liên quan đến việc gian lận hoặc không trung thực.\n\nVí dụ:\n- 詐欺 (sagi): Lừa đảo, gian lận.\n- 詐称 (sashō): Giả mạo, tự nhậ"
+  },
+  "comments": [
+    {
+      "id": "156871",
+      "lang": "vi",
+      "content_html": "<p>Loi noi 言 qua Chế  biến (作る) là dối TRÁ</p>",
+      "content_text": "Loi noi 言 qua Chế  biến (作る) là dối TRÁ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156872",
+      "lang": "vi",
+      "content_html": "<p>Các TÁC phẩm sử dụng toàn những NGÔN từ dối TRÁ</p>",
+      "content_text": "Các TÁC phẩm sử dụng toàn những NGÔN từ dối TRÁ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156873",
+      "lang": "vi",
+      "content_html": "<p>Đột Nhiên 乍 NYC nt Nói 言\"Nhớ anh, muốn quay về những ngày xưa cũ\". Đó là Dối Trá 詐, coi chừng được mời đóng phim Chúa Tể Của Những Chiếc Sừng.</p>",
+      "content_text": "Đột Nhiên 乍 NYC nt Nói 言\"Nhớ anh, muốn quay về những ngày xưa cũ\". Đó là Dối Trá 詐, coi chừng được mời đóng phim Chúa Tể Của Những Chiếc Sừng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

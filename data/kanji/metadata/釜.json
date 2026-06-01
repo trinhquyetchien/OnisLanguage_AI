@@ -1,0 +1,87 @@
+{
+  "kanji": "釜",
+  "meta": {
+    "weight": 2740,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "かま"
+    ],
+    "am_han": "PHỦ"
+  },
+  "meaning": {
+    "vi": "ấm, vạc, nồi sắt",
+    "en": "kettle, cauldron, iron pot"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/釜.svg"
+  },
+  "frequency": 1761,
+  "examples": [
+    "釜",
+    "釜山"
+  ],
+  "explanation": {
+    "id": "1025",
+    "text": "釜 (đọc là \"kana\") có nghĩa là \"nồi\", chỉ các dụng cụ nấu ăn như nồi hoặc chảo.  \nVí dụ:  \n- 釜飯 (kamameshi): Cơm nấu trong nồi.  \n- 釜料理 (kamaryouri): Món ăn được nấu trong nồi.  \n- 炊釜 (suikam"
+  },
+  "comments": [
+    {
+      "id": "157525",
+      "lang": "vi",
+      "content_html": "<p>Bố làm ấm phủ vàng kim</p>",
+      "content_text": "Bố làm ấm phủ vàng kim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157526",
+      "lang": "vi",
+      "content_html": "<p>Bố giấu Tiền trong cái Nồi</p>",
+      "content_text": "Bố giấu Tiền trong cái Nồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157527",
+      "lang": "vi",
+      "content_html": "<p>Bố làm cái ấm PHỦ đầy kim vàng</p>",
+      "content_text": "Bố làm cái ấm PHỦ đầy kim vàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

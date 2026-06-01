@@ -1,0 +1,93 @@
+{
+  "kanji": "女",
+  "meta": {
+    "weight": 642,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョ",
+      "ニョ",
+      "ニョウ"
+    ],
+    "kun": [
+      "おんな",
+      "め"
+    ],
+    "am_han": "NỮ"
+  },
+  "meaning": {
+    "vi": "phụ nữ",
+    "en": "woman, female"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/女.svg"
+  },
+  "frequency": 151,
+  "examples": [
+    "女性",
+    "彼女",
+    "女",
+    "女の子",
+    "少女"
+  ],
+  "explanation": {
+    "id": "3725",
+    "text": "女 (đọc là \"onnna\" hoặc \"jo\") có nghĩa là \"phụ nữ\", \"nữ giới\" để chỉ những người thuộc giới tính nữ.\n\nVí dụ:\n- 女性 (josei): Phụ nữ, nữ giới.\n- 女の子 (onna no ko): Cô gái, bé gái.\n- 女優 (joyū): Nữ"
+  },
+  "comments": [
+    {
+      "id": "190961",
+      "lang": "vi",
+      "content_html": "<p><strong>phụ nữ</strong></p>",
+      "content_text": "phụ nữ",
+      "image_url": "https://jpdictionary.com/upload/images/648a76e986f3e.jpg",
+      "image_path": "assets/images/女_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "546",
+      "lang": "vi",
+      "content_html": "<p>Hình dáng của người <strong>phụ nữ</strong></p>",
+      "content_text": "Hình dáng của người\nphụ nữ",
+      "image_url": "https://jpdictionary.com/upload/images/62977cf5349b5.jpg",
+      "image_path": "assets/images/女_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152777",
+      "lang": "vi",
+      "content_html": "<p>ninja nữ(kunoichi)=ku(く)+no(ﾉ)+ichi(一)=女</p>",
+      "content_text": "ninja nữ(kunoichi)=ku(く)+no(ﾉ)+ichi(一)=女",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

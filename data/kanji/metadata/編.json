@@ -1,0 +1,108 @@
+{
+  "kanji": "編",
+  "meta": {
+    "weight": 2100,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘン"
+    ],
+    "kun": [
+      "あ.む",
+      "-あ.み"
+    ],
+    "am_han": "BIÊN"
+  },
+  "meaning": {
+    "vi": "biên soạn, đan",
+    "en": "compilation, knit, plait, braid, twist, editing, completed poem, part of a book"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/編.svg"
+  },
+  "frequency": 591,
+  "examples": [
+    "編集",
+    "編",
+    "編成",
+    "再編",
+    "短編"
+  ],
+  "explanation": {
+    "id": "7058",
+    "text": "編 (đọc là \"hen\") có nghĩa là \"biên soạn\", \"sắp xếp\" để chỉ các hành động liên quan đến việc tổ chức, biên tập hoặc tạo thành một tác phẩm nào đó.\n\nVí dụ:\n- 編纂 (hensan): Biên soạn, biên tập.\n"
+  },
+  "comments": [
+    {
+      "id": "156110",
+      "lang": "vi",
+      "content_html": "<p>dùng chỉ đan thành quyển sách để dưới cửa</p>",
+      "content_text": "dùng chỉ đan thành quyển sách để dưới cửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190708",
+      "lang": "vi",
+      "content_html": "<p>cuốn Sách trong Phòng phải mở sợi dây ra để Biên soạn</p>",
+      "content_text": "cuốn Sách trong Phòng phải mở sợi dây ra để Biên soạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156111",
+      "lang": "vi",
+      "content_html": "<p>dùng chỉ BIÊN tập sách dưới căn hộ</p>",
+      "content_text": "dùng chỉ BIÊN tập sách dưới căn hộ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156112",
+      "lang": "vi",
+      "content_html": "<p>Biên soạn sách dưới căn hộ có nhiều sợi tơ tằm</p>",
+      "content_text": "Biên soạn sách dưới căn hộ có nhiều sợi tơ tằm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "制",
+  "meta": {
+    "weight": 322,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ"
+    ],
+    "kun": [],
+    "am_han": "CHẾ"
+  },
+  "meaning": {
+    "vi": "chế độ, thể chế",
+    "en": "system, law, rule"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/制.svg"
+  },
+  "frequency": 108,
+  "examples": [
+    "制度",
+    "制",
+    "体制",
+    "規制",
+    "制限"
+  ],
+  "explanation": {
+    "id": "4291",
+    "text": "制 (đọc là \"sei\") có nghĩa là \"chế tạo\", \"thành lập\" để chỉ các hành động liên quan đến việc thiết lập, quy định hoặc sản xuất một cái gì đó.  \nVí dụ:  \n- 制度 (seido): Hệ thống, chế độ.  \n- 制作"
+  },
+  "comments": [
+    {
+      "id": "152004",
+      "lang": "vi",
+      "content_html": "<p>Cầm dao khống chế 制 con bò 牛 nằm yên trên cái cân</p>",
+      "content_text": "Cầm dao khống chế 制 con bò 牛 nằm yên trên cái cân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152005",
+      "lang": "vi",
+      "content_html": "<p>thể chế ở thành phố này cho phép dùng đao giết trâu bò</p>",
+      "content_text": "thể chế ở thành phố này cho phép dùng đao giết trâu bò",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152006",
+      "lang": "vi",
+      "content_html": "<p>Khống chế con BÒ nằm trên cái CÂN bằng cách để DAO ở bên cạnh</p>",
+      "content_text": "Khống chế con BÒ nằm trên cái CÂN bằng cách để DAO ở bên cạnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

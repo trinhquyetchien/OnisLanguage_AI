@@ -1,0 +1,86 @@
+{
+  "kanji": "肯",
+  "meta": {
+    "weight": 2176,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "がえんじ.る"
+    ],
+    "am_han": "KHẲNG"
+  },
+  "meaning": {
+    "vi": "khẳng định",
+    "en": "agreement, consent, comply with"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/肯.svg"
+  },
+  "frequency": 1813,
+  "examples": [
+    "肯定"
+  ],
+  "explanation": {
+    "id": "2531",
+    "text": "肯 (đọc là \"kō\") có nghĩa là \"đồng ý\", \"tán thành\" để chỉ sự chấp thuận hoặc đồng tình với một điều gì đó.\n\nVí dụ:\n- 肯定 (kōtei): Sự khẳng định, tán thành.\n- 肯んじる (kōnじる): Chấp nhận, đồng ý.\n-"
+  },
+  "comments": [
+    {
+      "id": "156286",
+      "lang": "vi",
+      "content_html": "<p>KHẲNG định là Cô こう ấy đến Tháng 月nên mới phải nghỉ làm 止</p>",
+      "content_text": "KHẲNG định là Cô こう ấy đến Tháng 月nên mới phải nghỉ làm 止",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156287",
+      "lang": "vi",
+      "content_html": "<p>chữ này thuộc bộ 肉 nhé admin</p>",
+      "content_text": "chữ này thuộc bộ 肉 nhé admin",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156288",
+      "lang": "vi",
+      "content_html": "<p>CHỈ lên NGUYỆT  và KHẲNG định</p>",
+      "content_text": "CHỈ lên NGUYỆT  và KHẲNG định",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

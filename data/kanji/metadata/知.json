@@ -1,0 +1,91 @@
+{
+  "kanji": "知",
+  "meta": {
+    "weight": 1859,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チ"
+    ],
+    "kun": [
+      "し.る",
+      "し.らせる"
+    ],
+    "am_han": "TRI"
+  },
+  "meaning": {
+    "vi": "biết, tri thức",
+    "en": "know, wisdom"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/知.svg"
+  },
+  "frequency": 205,
+  "examples": [
+    "知識",
+    "知る",
+    "承知",
+    "お知らせ",
+    "知的"
+  ],
+  "explanation": {
+    "id": "5196",
+    "text": "知 (đọc là \"chi\") có nghĩa là \"biết\", \"hiểu\" để chỉ khả năng nhận thức và hiểu biết về một điều gì đó.\n\nVí dụ:\n- 知識 (chishiki): Kiến thức.\n- 知る (shiru): Biết, hiểu.\n- 知恵 (chie): Trí tuệ, sự k"
+  },
+  "comments": [
+    {
+      "id": "36849",
+      "lang": "vi",
+      "content_html": "<p>Người có miệng (口) to (大) <strong>biết </strong>mọi thứ.</p>",
+      "content_text": "Người có miệng (口) to (大)\nbiết\nmọi thứ.",
+      "image_url": "https://jpdictionary.com/upload/images/62ac7ee03d13f.jpg",
+      "image_path": "assets/images/知_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191135",
+      "lang": "vi",
+      "content_html": "<p><strong>thông báo</strong> - お知らせ</p>",
+      "content_text": "thông báo\n- お知らせ",
+      "image_url": "https://jpdictionary.com/upload/images/648ac6b0f3a86.jpg",
+      "image_path": "assets/images/知_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "155609",
+      "lang": "vi",
+      "content_html": "<p>Người mà mở MỒM (口) ra là nói như TÊN (矢) bắn thì là nó BIẾT (知る) đấy!</p>",
+      "content_text": "Người mà mở MỒM (口) ra là nói như TÊN (矢) bắn thì là nó BIẾT (知る) đấy!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

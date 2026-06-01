@@ -1,0 +1,95 @@
+{
+  "kanji": "亡",
+  "meta": {
+    "weight": 122,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ",
+      "モウ"
+    ],
+    "kun": [
+      "な.い",
+      "な.き-",
+      "ほろ.びる",
+      "ほろ.ぶ",
+      "ほろ.ぼす"
+    ],
+    "am_han": "VONG"
+  },
+  "meaning": {
+    "vi": "mất, tử vong",
+    "en": "deceased, the late, dying, perish"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/亡.svg"
+  },
+  "frequency": 661,
+  "examples": [
+    "死亡",
+    "亡命",
+    "逃亡",
+    "亡",
+    "滅亡"
+  ],
+  "explanation": {
+    "id": "7244",
+    "text": "亡 (đọc là \"bō\" hoặc \"naku\") có nghĩa là \"mất\", \"chết\" để chỉ các khía cạnh liên quan đến cái chết hoặc sự biến mất.\n\nVí dụ:\n- 亡くなる (nakunaru): Qua đời, chết.\n- 亡者 (mōja): Người đã khuất, lin"
+  },
+  "comments": [
+    {
+      "id": "151500",
+      "lang": "vi",
+      "content_html": "<p>Cái ĐẦU mà chỉ nghĩ tới L sớm muộn cũng CHẾT</p>",
+      "content_text": "Cái ĐẦU mà chỉ nghĩ tới L sớm muộn cũng CHẾT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151501",
+      "lang": "vi",
+      "content_html": "<p>thế HỆ ĐẦU đã MẤT</p>",
+      "content_text": "thế HỆ ĐẦU đã MẤT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151502",
+      "lang": "vi",
+      "content_html": "<p>hình ảnh quan tài khi nhìn từ phía dọc</p>",
+      "content_text": "hình ảnh quan tài khi nhìn từ phía dọc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

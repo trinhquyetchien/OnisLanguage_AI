@@ -1,0 +1,91 @@
+{
+  "kanji": "教",
+  "meta": {
+    "weight": 1175,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "おし.える",
+      "おそ.わる"
+    ],
+    "am_han": "GIÁO"
+  },
+  "meaning": {
+    "vi": "dạy, giáo dục",
+    "en": "teach, faith, doctrine"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/教.svg"
+  },
+  "frequency": 166,
+  "examples": [
+    "教育",
+    "教え",
+    "宗教",
+    "教授",
+    "教会"
+  ],
+  "explanation": {
+    "id": "1673",
+    "text": "教 (đọc là \"kyō\") có nghĩa là \"dạy\", \"giáo dục\" để chỉ các hoạt động liên quan đến việc truyền đạt kiến thức hoặc giáo lý.\n\nVí dụ:\n- 教室 (kyōshitsu): Phòng học.\n- 教える (oshi eru): Dạy, chỉ bảo."
+  },
+  "comments": [
+    {
+      "id": "191032",
+      "lang": "vi",
+      "content_html": "<p><strong>dạy học</strong></p>",
+      "content_text": "dạy học",
+      "image_url": "https://jpdictionary.com/upload/images/648a905950f4e.jpg",
+      "image_path": "assets/images/教_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "968",
+      "lang": "vi",
+      "content_html": "<p>2 ông lão <strong>dạy </strong>đứa trẻ (子).</p>",
+      "content_text": "2 ông lão\ndạy\nđứa trẻ (子).",
+      "image_url": "https://jpdictionary.com/upload/images/629ac41faa8ec.jpg",
+      "image_path": "assets/images/教_2.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154092",
+      "lang": "vi",
+      "content_html": "<p>Hoàn Cảnh: Thằng Con (子 TỬ) nằm dưới Đất (土 THỔ) và bị Đánh (攵 PHỘC).<br>==&#62; bố mẹ đang Giáo (教) dục con cái.<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Hoàn Cảnh: Thằng Con (子 TỬ) nằm dưới Đất (土 THỔ) và bị Đánh (攵 PHỘC).\n==> bố mẹ đang Giáo (教) dục con cái.\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

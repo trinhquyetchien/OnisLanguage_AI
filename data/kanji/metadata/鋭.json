@@ -1,0 +1,107 @@
+{
+  "kanji": "鋭",
+  "meta": {
+    "weight": 2765,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エイ"
+    ],
+    "kun": [
+      "するど.い"
+    ],
+    "am_han": "NHUỆ"
+  },
+  "meaning": {
+    "vi": "sắc nhọn, tinh nhuệ",
+    "en": "pointed, sharpness, edge, weapon, sharp, violent"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/鋭.svg"
+  },
+  "frequency": 1395,
+  "examples": [
+    "鋭い",
+    "鋭意",
+    "新鋭",
+    "精鋭",
+    "先鋭"
+  ],
+  "explanation": {
+    "id": "404",
+    "text": "鋭 (đọc là \"e-i\") có nghĩa là \"sắc bén\", \"nhạy bén\" để chỉ sự sắc sảo, tinh tế trong nhận thức hoặc vật thể có cạnh sắc.\n\nVí dụ:\n- 鋭い (surudoi): Sắc bén, nhạy bén.\n- 鋭利 (eiri): Sắc bén, như d"
+  },
+  "comments": [
+    {
+      "id": "157567",
+      "lang": "vi",
+      "content_html": "<p>KIM cùng ANH TRAI có râu nhọn xem phim hậu DUỆ mặt trời...</p>",
+      "content_text": "KIM cùng ANH TRAI có râu nhọn xem phim hậu DUỆ mặt trời...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190760",
+      "lang": "vi",
+      "content_html": "<p>Cầm tất sắt anh trai trở nên tinh Nhuệ</p>",
+      "content_text": "Cầm tất sắt anh trai trở nên tinh Nhuệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157568",
+      "lang": "vi",
+      "content_html": "<p>鋭　kim huynh là hậu DUỆ<br>税　hòa huynh phải đóng THUẾ</p>",
+      "content_text": "鋭　kim huynh là hậu DUỆ\n税　hòa huynh phải đóng THUẾ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157569",
+      "lang": "vi",
+      "content_html": "<p>ông Anh dùng Tiền sắc bén</p>",
+      "content_text": "ông Anh dùng Tiền sắc bén",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

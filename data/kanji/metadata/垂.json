@@ -1,0 +1,94 @@
+{
+  "kanji": "垂",
+  "meta": {
+    "weight": 556,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "た.れる",
+      "た.らす",
+      "た.れ",
+      "-た.れ",
+      "なんなんと.す"
+    ],
+    "am_han": "THÙY"
+  },
+  "meaning": {
+    "vi": "rũ xuống, đình chỉ, treo, buông thõng",
+    "en": "droop, suspend, hang, slouch"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/垂.svg"
+  },
+  "frequency": 1720,
+  "examples": [
+    "垂直",
+    "垂れ",
+    "垂れ流し",
+    "垂らし",
+    "垂"
+  ],
+  "explanation": {
+    "id": "4205",
+    "text": "垂 (đọc là \"sui\" hoặc \"taru\") có nghĩa là \"rủ xuống\", \"treo\". Chữ này thường được sử dụng để chỉ những vật hoặc trạng thái rủ xuống hoặc kéo dài xuống dưới.\n\nVí dụ:\n- 垂直 (suichoku): Vuông góc"
+  },
+  "comments": [
+    {
+      "id": "152576",
+      "lang": "vi",
+      "content_html": "<p>Nặng重 thì rủ xuống 垂</p>",
+      "content_text": "Nặng重 thì rủ xuống 垂",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152577",
+      "lang": "vi",
+      "content_html": "<p>Chị Thuỳ rủ xuống ôtô... ;))</p>",
+      "content_text": "Chị Thuỳ rủ xuống ôtô... ;))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152578",
+      "lang": "vi",
+      "content_html": "<p>Ngoài biên Thùy có hàng Ngàn cây Cỏ Năng trĩu Rũ Xuống Đất.</p>",
+      "content_text": "Ngoài biên Thùy có hàng Ngàn cây Cỏ Năng trĩu Rũ Xuống Đất.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

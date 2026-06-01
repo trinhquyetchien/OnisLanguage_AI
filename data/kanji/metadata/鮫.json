@@ -1,0 +1,53 @@
+{
+  "kanji": "鮫",
+  "meta": {
+    "weight": 2977,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "さめ",
+      "みずち"
+    ],
+    "am_han": "GIAO"
+  },
+  "meaning": {
+    "vi": "cá mập",
+    "en": "shark"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/鮫.svg"
+  },
+  "frequency": 2244,
+  "examples": [
+    "鮫"
+  ],
+  "explanation": {
+    "id": "2967",
+    "text": "鮫 (đọc là \"same\") có nghĩa là \"cá mập\", chỉ các loại cá thuộc họ cá mập.  \nVí dụ:  \n- 鮫肌 (samehada): Da cá mập.  \n- 鮫 (same): Cá mập.  \n- 鮫の肉 (same no niku): Thịt cá mập."
+  },
+  "comments": [
+    {
+      "id": "158040",
+      "lang": "vi",
+      "content_html": "<p>cá giao là cá mập</p>",
+      "content_text": "cá giao là cá mập",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

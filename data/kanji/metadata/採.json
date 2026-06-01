@@ -1,0 +1,90 @@
+{
+  "kanji": "採",
+  "meta": {
+    "weight": 1118,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "と.る"
+    ],
+    "am_han": "THẢI"
+  },
+  "meaning": {
+    "vi": "hái, tuyển dụng",
+    "en": "pick, take, fetch, take up"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/採.svg"
+  },
+  "frequency": 607,
+  "examples": [
+    "採用",
+    "採択",
+    "採点",
+    "採取",
+    "採決"
+  ],
+  "explanation": {
+    "id": "2797",
+    "text": "採 (đọc là \"sai\") có nghĩa là \"thu thập\", \"chọn lựa\", thường liên quan đến việc lựa chọn hoặc thu hoạch.  \nVí dụ:  \n- 採用 (saiyō): Tuyển dụng, sử dụng.  \n- 採集 (saishū): Thu thập, sưu tập.  \n- "
+  },
+  "comments": [
+    {
+      "id": "153959",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay hái lá trên cây</p>",
+      "content_text": "Dùng tay hái lá trên cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153960",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay hái rau mang về nhà THÁI</p>",
+      "content_text": "Dùng tay hái rau mang về nhà THÁI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153961",
+      "lang": "vi",
+      "content_html": "<p>dùng tay 手 hái 採る rau 菜</p>",
+      "content_text": "dùng tay 手 hái 採る rau 菜",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

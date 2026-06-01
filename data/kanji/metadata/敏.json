@@ -1,0 +1,90 @@
+{
+  "kanji": "敏",
+  "meta": {
+    "weight": 1172,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビン"
+    ],
+    "kun": [
+      "さとい"
+    ],
+    "am_han": "MẪN"
+  },
+  "meaning": {
+    "vi": "thông minh, nhanh nhẹn, lanh lợi",
+    "en": "cleverness, agile, alert"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/敏.svg"
+  },
+  "frequency": 1042,
+  "examples": [
+    "敏感",
+    "敏",
+    "過敏",
+    "機敏",
+    "鋭敏"
+  ],
+  "explanation": {
+    "id": "20313",
+    "text": "敏 (đọc là \"ken\") có nghĩa là \"dưới ánh sáng\", thường chỉ các hành động liên quan đến việc chiếu sáng hoặc làm rõ điều gì đó.\n\nVí dụ:\n- 明け方 (akegata): Bình minh, thời điểm sáng tỏ.\n- 照明 (shou"
+  },
+  "comments": [
+    {
+      "id": "154083",
+      "lang": "vi",
+      "content_html": "<p>Mẫn cảm với việc đánh nhau mỗi ngày</p>",
+      "content_text": "Mẫn cảm với việc đánh nhau mỗi ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154084",
+      "lang": "vi",
+      "content_html": "<p>Đánh nhau Mỗi ngày đầu óc ko còn Minh Mẫn</p>",
+      "content_text": "Đánh nhau Mỗi ngày đầu óc ko còn Minh Mẫn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154085",
+      "lang": "vi",
+      "content_html": "<p>Mẫn cảm vì bị đánh mỗi ngày</p>",
+      "content_text": "Mẫn cảm vì bị đánh mỗi ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

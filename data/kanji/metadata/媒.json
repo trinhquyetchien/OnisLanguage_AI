@@ -1,0 +1,89 @@
+{
+  "kanji": "媒",
+  "meta": {
+    "weight": 683,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バイ"
+    ],
+    "kun": [
+      "なこうど"
+    ],
+    "am_han": "MÔI"
+  },
+  "meaning": {
+    "vi": "người hòa giải, đi giữa",
+    "en": "mediator, go-between"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/媒.svg"
+  },
+  "frequency": 1900,
+  "examples": [
+    "媒体",
+    "媒介",
+    "触媒",
+    "霊媒"
+  ],
+  "explanation": {
+    "id": "6287",
+    "text": "媒 (đọc là \"bai\") có nghĩa là \"môi giới\", \"người làm trung gian\" để chỉ các hoạt động liên quan đến việc kết nối hoặc hòa giải giữa hai bên.  \nVí dụ:  \n- 媒体 (bai-tai): Truyền thông, phương ti"
+  },
+  "comments": [
+    {
+      "id": "152867",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ môi giới nói lời ngon ngọt trên cây</p>",
+      "content_text": "Phụ nữ môi giới nói lời ngon ngọt trên cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152868",
+      "lang": "vi",
+      "content_html": "<p>MÔI của e ngọt ngào như cây cam vậy</p>",
+      "content_text": "MÔI của e ngọt ngào như cây cam vậy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152869",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ môi giới bán cây cam ngọt</p>",
+      "content_text": "Phụ nữ môi giới bán cây cam ngọt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

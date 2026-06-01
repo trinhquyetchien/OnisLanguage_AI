@@ -1,0 +1,92 @@
+{
+  "kanji": "路",
+  "meta": {
+    "weight": 2594,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロ",
+      "ル"
+    ],
+    "kun": [
+      "-じ",
+      "みち"
+    ],
+    "am_han": "LỘ"
+  },
+  "meaning": {
+    "vi": "con đường, thủy lộ",
+    "en": "path, route, road, distance"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/路.svg"
+  },
+  "frequency": 529,
+  "examples": [
+    "道路",
+    "路線",
+    "路",
+    "回路",
+    "路上"
+  ],
+  "explanation": {
+    "id": "8312",
+    "text": "路 (đọc là \"ro\") có nghĩa là \"đường\", \"lối\" để chỉ các con đường hoặc tuyến đường di chuyển.  \nVí dụ:  \n- 道路 (dōro): Đường bộ, lối đi.  \n- 路線 (rosen): Tuyến đường, tuyến xe.  \n- 行く道 (iku mich"
+  },
+  "comments": [
+    {
+      "id": "157177",
+      "lang": "vi",
+      "content_html": "<p>CÁC là mỗi, một. TÚC là chân. LỘ là đường. Ngày xưa những con đường mòn hình thành là do có dấu chân con người đi lại mỗi ngày.</p>",
+      "content_text": "CÁC là mỗi, một. TÚC là chân. LỘ là đường. Ngày xưa những con đường mòn hình thành là do có dấu chân con người đi lại mỗi ngày.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157178",
+      "lang": "vi",
+      "content_html": "<p>CÁc vị Chạy trên quốc LỘ</p>",
+      "content_text": "CÁc vị Chạy trên quốc LỘ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157179",
+      "lang": "vi",
+      "content_html": "<p>quốc Lộ (路) in dấu Các (各) bước chân (足)</p>",
+      "content_text": "quốc Lộ (路) in dấu Các (各) bước chân (足)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

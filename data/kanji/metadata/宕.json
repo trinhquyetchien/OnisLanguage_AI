@@ -1,0 +1,32 @@
+{
+  "kanji": "宕",
+  "meta": {
+    "weight": 712,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "すぎる"
+    ],
+    "am_han": "ĐÃNG"
+  },
+  "meaning": {
+    "vi": "hang",
+    "en": "cave"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/宕.svg"
+  },
+  "frequency": 2248,
+  "examples": [],
+  "explanation": {
+    "id": "5786",
+    "text": "宕 (đọc là \"とう\", \"とうこう\") có nghĩa là \"không có trật tự\", \"lộn xộn\", chỉ sự rối ren hoặc hỗn loạn. \n\nVí dụ:\n- 宕落 (とうらく, touraku): Sự xuống dốc, suy sụp.\n- 宕舎 (とうしゃ, tousha): Nhà lộn xộn, không"
+  },
+  "comments": []
+}

@@ -1,0 +1,51 @@
+{
+  "kanji": "屑",
+  "meta": {
+    "weight": 779,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セツ"
+    ],
+    "kun": [
+      "くず",
+      "いさぎよ.い"
+    ],
+    "am_han": "TIẾT"
+  },
+  "meaning": {
+    "vi": "rác, chất thải, phế liệu",
+    "en": "rubbish, junk, trash, waste, scraps"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/屑.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1864",
+    "text": "屑 (đọc là \"kuzu\") có nghĩa là \"mảnh vụn\", \"rác\" để chỉ các thứ vụn vặt, không còn giá trị hoặc phế phẩm.  \nVí dụ:  \n- 屑入れ (kuzuire): Thùng rác.  \n- 屑紙 (kuzugami): Giấy vụn.  \n- ゴミ屑 (gomi kiz"
+  },
+  "comments": [
+    {
+      "id": "219368",
+      "lang": "vi",
+      "content_html": "<p>thi thể tiêu biến bằng cách tiết ra thành mảnh vụn</p>",
+      "content_text": "thi thể tiêu biến bằng cách tiết ra thành mảnh vụn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

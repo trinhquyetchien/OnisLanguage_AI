@@ -1,0 +1,84 @@
+{
+  "kanji": "芹",
+  "meta": {
+    "weight": 2259,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キン"
+    ],
+    "kun": [
+      "せり"
+    ],
+    "am_han": "CẦN"
+  },
+  "meaning": {
+    "vi": "mùi tây",
+    "en": "parsley"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/芹.svg"
+  },
+  "frequency": 2158,
+  "examples": [],
+  "explanation": {
+    "id": "1780",
+    "text": "芹 (đọc là \"seri\") có nghĩa là \"cần nước\" hoặc \"rau cần\", thường chỉ loại rau ăn được mọc ở vùng nước. \n\nVí dụ:\n- 芹菜 (serisai): Cần tây, một loại rau phổ biến.\n- 芹の香り (seri no kaori): Hương v"
+  },
+  "comments": [
+    {
+      "id": "156479",
+      "lang": "vi",
+      "content_html": "<p>Rau có hoa như cái rìu chữ T là rau CẦN</p>",
+      "content_text": "Rau có hoa như cái rìu chữ T là rau CẦN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156480",
+      "lang": "vi",
+      "content_html": "<p>rau cần</p>",
+      "content_text": "rau cần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156481",
+      "lang": "vi",
+      "content_html": "<p>cắt rau cần bằng rìu</p>",
+      "content_text": "cắt rau cần bằng rìu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

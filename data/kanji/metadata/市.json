@@ -1,0 +1,90 @@
+{
+  "kanji": "市",
+  "meta": {
+    "weight": 829,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "いち"
+    ],
+    "am_han": "THỊ"
+  },
+  "meaning": {
+    "vi": "thành thị",
+    "en": "market, city, town"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/市.svg"
+  },
+  "frequency": 42,
+  "examples": [
+    "市",
+    "市場",
+    "都市",
+    "市民",
+    "市町村"
+  ],
+  "explanation": {
+    "id": "3077",
+    "text": "市 (đọc là \"shi\" hoặc \"ichi\") có nghĩa là \"thị trấn\", \"thành phố\", chỉ các khu vực đô thị hoặc trung tâm buôn bán.  \nVí dụ:  \n- 市場 (ichiba): Thị trường.  \n- 市民 (shimin): Công dân, người dân t"
+  },
+  "comments": [
+    {
+      "id": "190994",
+      "lang": "vi",
+      "content_html": "<p><strong>chợ</strong></p>",
+      "content_text": "chợ",
+      "image_url": "https://jpdictionary.com/upload/images/648a8c32de4a1.jpg",
+      "image_path": "assets/images/市_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "612",
+      "lang": "vi",
+      "content_html": "<p>Mọi người đi <strong>chợ </strong>để mua sắm.</p>",
+      "content_text": "Mọi người đi\nchợ\nđể mua sắm.",
+      "image_url": "https://jpdictionary.com/upload/images/6297878a0080c.jpg",
+      "image_path": "assets/images/市_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153232",
+      "lang": "vi",
+      "content_html": "<p>ở chợ mỗi nhà có mái che và 1 cái CÂN</p>",
+      "content_text": "ở chợ mỗi nhà có mái che và 1 cái CÂN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

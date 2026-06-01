@@ -1,0 +1,85 @@
+{
+  "kanji": "淋",
+  "meta": {
+    "weight": 1556,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リン"
+    ],
+    "kun": [
+      "さび.しい",
+      "さみ.しい"
+    ],
+    "am_han": "LÂM"
+  },
+  "meaning": {
+    "vi": "cô đơn, vắng vẻ",
+    "en": "lonely, deserted"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/淋.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8165",
+    "text": "淋 (đọc là \"rin\" hoặc \"rumi\") có nghĩa là \"ướt\", \"dầm mưa\", thường chỉ việc bị ướt do nước hay mưa. \n\nVí dụ:\n- 淋浴 (inyuu): Tắm vòi sen.\n- 淋巴 (rinpa): Bạch huyết, liên quan đến hệ miễn dịch.\n-"
+  },
+  "comments": [
+    {
+      "id": "219943",
+      "lang": "vi",
+      "content_html": "<p>ở với biển và rừng cũng LÂM cảnh cô đơn</p>",
+      "content_text": "ở với biển và rừng cũng LÂM cảnh cô đơn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219944",
+      "lang": "vi",
+      "content_html": "<p>lâm lấy nước trong rừng tắm luôn</p>",
+      "content_text": "lâm lấy nước trong rừng tắm luôn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219945",
+      "lang": "vi",
+      "content_html": "<p>Lòng tôi BUỒN RẦU THẤM THÍA khi ở bên dòng NƯỚC sông cạnh RỪNG THƯA thớt</p>",
+      "content_text": "Lòng tôi BUỒN RẦU THẤM THÍA khi ở bên dòng NƯỚC sông cạnh RỪNG THƯA thớt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

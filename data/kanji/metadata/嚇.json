@@ -1,0 +1,86 @@
+{
+  "kanji": "嚇",
+  "meta": {
+    "weight": 528,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク"
+    ],
+    "kun": [
+      "おど.す"
+    ],
+    "am_han": "HÁCH"
+  },
+  "meaning": {
+    "vi": "uy hiếp, nhân phẩm, uy nghiêm, đe dọa",
+    "en": "menacing, dignity, majesty, threaten"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/嚇.svg"
+  },
+  "frequency": 2141,
+  "examples": [
+    "威嚇"
+  ],
+  "explanation": {
+    "id": "885",
+    "text": "嚇 (đọc là \"kaku\" hoặc \"haku\") có nghĩa là \"dọa dẫm\", \"gây sợ hãi\". \n\nVí dụ:\n- 嚇かす (hakasu): Dọa, làm cho sợ.\n- 恐嚇 (kyōkaku): Sự đe dọa, sự uy hiếp.\n- 嚇張 (kakuchō): Sự tự mãn, tự cao, thường "
+  },
+  "comments": [
+    {
+      "id": "152506",
+      "lang": "vi",
+      "content_html": "<p>Miệng hóng hách dùng 2 màu đỏ đi dọa nạt</p>",
+      "content_text": "Miệng hóng hách dùng 2 màu đỏ đi dọa nạt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152507",
+      "lang": "vi",
+      "content_html": "<p>Miệng hống HÁCH thét ra lửa Đỏ để dọa nạt người khác</p>",
+      "content_text": "Miệng hống HÁCH thét ra lửa Đỏ để dọa nạt người khác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152508",
+      "lang": "vi",
+      "content_html": "<p>Mồm hống hách ngậm 2 hàng máu đỏ phun người</p>",
+      "content_text": "Mồm hống hách ngậm 2 hàng máu đỏ phun người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

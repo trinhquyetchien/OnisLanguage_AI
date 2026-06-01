@@ -1,0 +1,91 @@
+{
+  "kanji": "宗",
+  "meta": {
+    "weight": 713,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ",
+      "ソウ"
+    ],
+    "kun": [
+      "むね"
+    ],
+    "am_han": "TÔNG"
+  },
+  "meaning": {
+    "vi": "tôn giáo, giáo phái, hệ phái, điểm chính, nguồn gốc, bản chất",
+    "en": "religion, sect, denomination, main point, origin, essence"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/宗.svg"
+  },
+  "frequency": 997,
+  "examples": [
+    "宗教",
+    "宗",
+    "宗派",
+    "改宗",
+    "浄土真宗"
+  ],
+  "explanation": {
+    "id": "3472",
+    "text": "宗 (đọc là \"sō\") có nghĩa là \"tôn giáo\", \"hệ phái\" hoặc \"tổ tiên\" để chỉ các khía cạnh liên quan đến tín ngưỡng hoặc nguồn gốc gia tộc.\n\nVí dụ:\n- 宗教 (shūkyō): Tôn giáo.\n- 宗派 (shūha): Phái, hệ"
+  },
+  "comments": [
+    {
+      "id": "152935",
+      "lang": "vi",
+      "content_html": "<p>Đi tông lào trong nhà sẽ bị kì thị</p>",
+      "content_text": "Đi tông lào trong nhà sẽ bị kì thị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152936",
+      "lang": "vi",
+      "content_html": "<p>ở dưới mái nhà thì không được kì thị chuyện tôn giáo</p>",
+      "content_text": "ở dưới mái nhà thì không được kì thị chuyện tôn giáo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152937",
+      "lang": "vi",
+      "content_html": "<p>Cái biểu thị bị kì thị trong nhà là tông giáo</p>",
+      "content_text": "Cái biểu thị bị kì thị trong nhà là tông giáo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

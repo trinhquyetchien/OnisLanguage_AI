@@ -1,0 +1,53 @@
+{
+  "kanji": "咋",
+  "meta": {
+    "weight": 478,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サク",
+      "サ"
+    ],
+    "kun": [
+      "か.む",
+      "く.う",
+      "くら.う"
+    ],
+    "am_han": "TRÁCH, TRÁ"
+  },
+  "meaning": {
+    "vi": "hét, nhai, ăn",
+    "en": "shout, chew, eat"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/咋.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2888",
+    "text": "咋 (đọc là \"saka\") có nghĩa là \"gì\", \"thế nào\", thường được sử dụng trong ngữ cảnh hỏi. \n\nVí dụ:\n- どうしたらいいの？咋する？ (Dōshitara ii no? Saka suru?): Làm thế nào bây giờ? \n- 咋だ (saka da): Thế nào, "
+  },
+  "comments": [
+    {
+      "id": "219091",
+      "lang": "vi",
+      "content_html": "<p>sa miệng thì TRÁCH móc</p>",
+      "content_text": "sa miệng thì TRÁCH móc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

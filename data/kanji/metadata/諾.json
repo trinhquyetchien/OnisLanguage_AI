@@ -1,0 +1,87 @@
+{
+  "kanji": "諾",
+  "meta": {
+    "weight": 2514,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダク"
+    ],
+    "kun": [],
+    "am_han": "NẶC"
+  },
+  "meaning": {
+    "vi": "đồng ý",
+    "en": "consent, assent, agreement"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/諾.svg"
+  },
+  "frequency": 1490,
+  "examples": [
+    "承諾",
+    "許諾",
+    "受諾",
+    "快諾"
+  ],
+  "explanation": {
+    "id": "5054",
+    "text": "諾 (đọc là \"daku\") có nghĩa là \"hứa hẹn\", \"chấp nhận\" để chỉ các hành động liên quan đến việc đồng ý hoặc cam kết.\n\nVí dụ:\n- 諾否 (dakuhi): Đồng ý hay không, chấp nhận hay từ chối.\n- 約諾 (yakuda"
+  },
+  "comments": [
+    {
+      "id": "156975",
+      "lang": "vi",
+      "content_html": "<p>NÓI ra lời nhu NHƯỢC như vậy mà nằng NẶC bảo người ta ĐỒNG Ý</p>",
+      "content_text": "NÓI ra lời nhu NHƯỢC như vậy mà nằng NẶC bảo người ta ĐỒNG Ý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156976",
+      "lang": "vi",
+      "content_html": "<p>Từ này nghĩa là vâng dạ. Người trẻ (若) thì nói (言) phải vâng dạ là đúng rồi.</p>",
+      "content_text": "Từ này nghĩa là vâng dạ. Người trẻ (若) thì nói (言) phải vâng dạ là đúng rồi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156977",
+      "lang": "vi",
+      "content_html": "<p>Người trẻ nói lời lẽ phải vơi hoa cỏ là ừ nằng nặc</p>",
+      "content_text": "Người trẻ nói lời lẽ phải vơi hoa cỏ là ừ nằng nặc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

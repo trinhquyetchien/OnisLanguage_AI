@@ -1,0 +1,88 @@
+{
+  "kanji": "農",
+  "meta": {
+    "weight": 2630,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ノウ"
+    ],
+    "kun": [],
+    "am_han": "NÔNG"
+  },
+  "meaning": {
+    "vi": "nông nghiệp, nông dân",
+    "en": "agriculture, farmers"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/農.svg"
+  },
+  "frequency": 385,
+  "examples": [
+    "農業",
+    "農家",
+    "農民",
+    "農村",
+    "農林"
+  ],
+  "explanation": {
+    "id": "6209",
+    "text": "農 (đọc là \"nō\") có nghĩa là \"nông nghiệp\" để chỉ các hoạt động liên quan đến canh tác, trồng trọt và sản xuất thực phẩm.  \nVí dụ:  \n- 農業 (nōgyō): Nông nghiệp, nghề nông.  \n- 農家 (nōka): Gia đ"
+  },
+  "comments": [
+    {
+      "id": "157265",
+      "lang": "vi",
+      "content_html": "<p>Làm nông nghiệp nơi viết ra những ca khúc thần thánh</p>",
+      "content_text": "Làm nông nghiệp nơi viết ra những ca khúc thần thánh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157266",
+      "lang": "vi",
+      "content_html": "<p>Những ca khúc về nghề NÔNG thường xuất thần.</p>",
+      "content_text": "Những ca khúc về nghề NÔNG thường xuất thần.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157267",
+      "lang": "vi",
+      "content_html": "<p>giờ THÌN mà nghe một KHÚC nhạc NÔNG thôn (nhạc trữ tình) thì rất dễ ngủ.</p>",
+      "content_text": "giờ THÌN mà nghe một KHÚC nhạc NÔNG thôn (nhạc trữ tình) thì rất dễ ngủ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

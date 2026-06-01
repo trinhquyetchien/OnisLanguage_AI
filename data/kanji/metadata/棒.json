@@ -1,0 +1,88 @@
+{
+  "kanji": "棒",
+  "meta": {
+    "weight": 1375,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [],
+    "am_han": "BỔNG"
+  },
+  "meaning": {
+    "vi": "cây gậy",
+    "en": "rod, stick, cane, pole, club, line"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/棒.svg"
+  },
+  "frequency": 1455,
+  "examples": [
+    "棒",
+    "泥棒",
+    "相棒",
+    "鉄棒",
+    "棒読み"
+  ],
+  "explanation": {
+    "id": "7279",
+    "text": "棒 (đọc là \"bō\") có nghĩa là \"gậy\", \"cây\" hoặc \"thanh\", thường chỉ các vật dài, thẳng hoặc dụng cụ. \n\nVí dụ:\n- 棒読み (bōyomi): Đọc một cách máy móc, không biểu cảm.\n- 棒球 (bōkyū): Bóng chày.\n- 電"
+  },
+  "comments": [
+    {
+      "id": "154545",
+      "lang": "vi",
+      "content_html": "<p>cầm gậy chọc vào háng 3 người đang trèo lên cây</p>",
+      "content_text": "cầm gậy chọc vào háng 3 người đang trèo lên cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154546",
+      "lang": "vi",
+      "content_html": "<p>3人 thợ mộc dùng cây làm đả cẩu BỔNG</p>",
+      "content_text": "3人 thợ mộc dùng cây làm đả cẩu BỔNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154547",
+      "lang": "vi",
+      "content_html": "<p>Cây đả cầu bổng làm bằng gỗ do 3 ngừoi (nhiều) tặng</p>",
+      "content_text": "Cây đả cầu bổng làm bằng gỗ do 3 ngừoi (nhiều) tặng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "kanji": "橋",
+  "meta": {
+    "weight": 1427,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "はし"
+    ],
+    "am_han": "KIỀU"
+  },
+  "meaning": {
+    "vi": "cầu",
+    "en": "bridge"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/橋.svg"
+  },
+  "frequency": 553,
+  "examples": [
+    "橋",
+    "新橋",
+    "石橋",
+    "船橋",
+    "板橋"
+  ],
+  "explanation": {
+    "id": "1676",
+    "text": "橋 (đọc là \"hashi\") có nghĩa là \"cây cầu\", chỉ các cấu trúc giúp nối liền hai bờ hoặc hai khu vực khác nhau.\n\nVí dụ:\n- 橋梁 (kyōryō): Cầu, kết cấu cầu.\n- 橋を渡る (hashi wo wataru): Băng qua cầu.\n-"
+  },
+  "comments": [
+    {
+      "id": "37310",
+      "lang": "vi",
+      "content_html": "<p>Toà nhà và <strong>cầu</strong> xây bằng gỗ (木).</p>",
+      "content_text": "Toà nhà và\ncầu\nxây bằng gỗ (木).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe30238983.jpg",
+      "image_path": "assets/images/橋_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154625",
+      "lang": "vi",
+      "content_html": "<p>cầu KIỀU được làm bằng CÂY có độ dài CAO đến TRỜI</p>",
+      "content_text": "cầu KIỀU được làm bằng CÂY có độ dài CAO đến TRỜI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154626",
+      "lang": "vi",
+      "content_html": "<p>cái cây cao thường được dùng làm cầu</p>",
+      "content_text": "cái cây cao thường được dùng làm cầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154627",
+      "lang": "vi",
+      "content_html": "<p>Phệt thiên 天 = chết YỂU 夭 <br>口　mồm nói \"no no\" = nuốt lời THÔN 呑<br>呑THÔN tính được gì 何 KIỀU 喬  kiêu hãnh<br>木 MỘC ghép cao 喬 KIỀU há shị cầu 橋</p>",
+      "content_text": "Phệt thiên 天 = chết YỂU 夭\n口　mồm nói \"no no\" = nuốt lời THÔN 呑\n呑THÔN tính được gì 何 KIỀU 喬  kiêu hãnh\n木 MỘC ghép cao 喬 KIỀU há shị cầu 橋",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

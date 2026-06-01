@@ -1,0 +1,75 @@
+{
+  "kanji": "梁",
+  "meta": {
+    "weight": 1360,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [
+      "はり",
+      "うつばり",
+      "うちばり",
+      "やな",
+      "はし"
+    ],
+    "am_han": "LƯƠNG"
+  },
+  "meaning": {
+    "vi": "đập, bẫy cá, dầm",
+    "en": "weir, fish trap, beam, girder"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/梁.svg"
+  },
+  "frequency": 2017,
+  "examples": [
+    "梁",
+    "橋梁",
+    "棟梁"
+  ],
+  "explanation": {
+    "id": "8111",
+    "text": "梁 (đọc là \"ryō\") có nghĩa là \"thanh xà\", \"cây đòn\" chỉ các cấu trúc hỗ trợ trong xây dựng.  \nVí dụ:  \n- 梁木 (ryōmoku): Gỗ xà, thanh gỗ dùng trong xây dựng.  \n- 横梁 (oyakuyō): Xà ngang, thanh n"
+  },
+  "comments": [
+    {
+      "id": "154525",
+      "lang": "vi",
+      "content_html": "<p>Con lương.(dầm) ngăn đường 2 chiều.Ngày xưa<br>Lấy cây ngâm nước cho chắc rồi lấy dao đục nó để làm dầm nhà cho chắc</p>",
+      "content_text": "Con lương.(dầm) ngăn đường 2 chiều.Ngày xưa\nLấy cây ngâm nước cho chắc rồi lấy dao đục nó để làm dầm nhà cho chắc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154526",
+      "lang": "vi",
+      "content_html": "<p>để trở thành Dầm thì phải dùng đao gọt vỏ Cây và ngâm Nước</p>",
+      "content_text": "để trở thành Dầm thì phải dùng đao gọt vỏ Cây và ngâm Nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

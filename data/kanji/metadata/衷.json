@@ -1,0 +1,67 @@
+{
+  "kanji": "衷",
+  "meta": {
+    "weight": 2411,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [],
+    "am_han": "TRUNG, TRÚNG"
+  },
+  "meaning": {
+    "vi": "tận cùng, trái tim, tâm trí, bên trong",
+    "en": "inmost, heart, mind, inside"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/衷.svg"
+  },
+  "frequency": 2229,
+  "examples": [
+    "折衷"
+  ],
+  "explanation": {
+    "id": "5295",
+    "text": "衷 (đọc là \"chuu\") có nghĩa là \"trong lòng\", \"tâm tư\" để chỉ những cảm xúc, suy nghĩ bên trong của con người.  \nVí dụ:  \n- 衷心 (chuushin): Tấm lòng chân thành.  \n- 衷情 (chuujou): Tâm tư, tình c"
+  },
+  "comments": [
+    {
+      "id": "156724",
+      "lang": "vi",
+      "content_html": "<p>người mặc áo quan luôn TRung thành, hỏi 10 lần cũng không khai</p>",
+      "content_text": "người mặc áo quan luôn TRung thành, hỏi 10 lần cũng không khai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156725",
+      "lang": "vi",
+      "content_html": "<p>những cảm xúc trong 中 lòng được giữ ở bên trong y phục 衣 (của mình)</p>",
+      "content_text": "những cảm xúc trong 中 lòng được giữ ở bên trong y phục 衣 (của mình)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

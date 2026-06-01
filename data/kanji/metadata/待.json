@@ -1,0 +1,91 @@
+{
+  "kanji": "待",
+  "meta": {
+    "weight": 923,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ"
+    ],
+    "kun": [
+      "ま.つ",
+      "-ま.ち"
+    ],
+    "am_han": "ĐÃI"
+  },
+  "meaning": {
+    "vi": "đợi",
+    "en": "wait, depend on"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/待.svg"
+  },
+  "frequency": 391,
+  "examples": [
+    "期待",
+    "待つ",
+    "待ち",
+    "招待",
+    "虐待"
+  ],
+  "explanation": {
+    "id": "4942",
+    "text": "待 (đọc là \"tai\" hoặc \"matsu\") có nghĩa là \"chờ đợi\", \"đợi\". \n\nVí dụ:\n- 待機 (taiki): Chờ sẵn, đứng chờ.\n- 待ち合わせ (machiawase): Hẹn gặp, điểm hẹn.\n- 待つ (matsu): Chờ, đợi."
+  },
+  "comments": [
+    {
+      "id": "698",
+      "lang": "vi",
+      "content_html": "<p>Tôi <strong>đợi </strong>bạn trên con đường ở trước chùa (寺).</p>",
+      "content_text": "Tôi\nđợi\nbạn trên con đường ở trước chùa (寺).",
+      "image_url": "https://jpdictionary.com/upload/images/62983908ccffd.jpg",
+      "image_path": "assets/images/待_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153463",
+      "lang": "vi",
+      "content_html": "<p>Đứng cổng Chùa ăn cơm ĐÃI</p>",
+      "content_text": "Đứng cổng Chùa ăn cơm ĐÃI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158541",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>待つ (まつ): đợi<br>招待 (しょうたい): mời, chiêu đãi</p>",
+      "content_text": "JLPT N4\n待つ (まつ): đợi\n招待 (しょうたい): mời, chiêu đãi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

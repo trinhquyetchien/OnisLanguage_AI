@@ -1,0 +1,92 @@
+{
+  "kanji": "財",
+  "meta": {
+    "weight": 2545,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ザイ",
+      "サイ",
+      "ゾク"
+    ],
+    "kun": [
+      "たから"
+    ],
+    "am_han": "TÀI"
+  },
+  "meaning": {
+    "vi": "tài sản",
+    "en": "property, money, wealth, assets"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/財.svg"
+  },
+  "frequency": 494,
+  "examples": [
+    "財政",
+    "財産",
+    "財",
+    "財源",
+    "財務"
+  ],
+  "explanation": {
+    "id": "2854",
+    "text": "財 (đọc là \"zai\" hoặc \"sai\") có nghĩa là \"tài sản\", \"tiền bạc\" để chỉ các khía cạnh liên quan đến của cải, tài chính và vật chất.  \nVí dụ:  \n- 財産 (zaisan): Tài sản, của cải.  \n- 財政 (zaisei): "
+  },
+  "comments": [
+    {
+      "id": "157049",
+      "lang": "vi",
+      "content_html": "<p>Tài sản của tôi chỉ có cái ô và vỏ sò</p>",
+      "content_text": "Tài sản của tôi chỉ có cái ô và vỏ sò",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157050",
+      "lang": "vi",
+      "content_html": "<p>Tiền tài</p>",
+      "content_text": "Tiền tài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157051",
+      "lang": "vi",
+      "content_html": "<p>người có tiền ắt là người TÀI</p>",
+      "content_text": "người có tiền ắt là người TÀI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "貸",
+  "meta": {
+    "weight": 2556,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ"
+    ],
+    "kun": [
+      "か.す",
+      "か.し-",
+      "かし-"
+    ],
+    "am_han": "THẢI"
+  },
+  "meaning": {
+    "vi": "cho mượn",
+    "en": "lend"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/貸.svg"
+  },
+  "frequency": 995,
+  "examples": [
+    "貸し",
+    "賃貸",
+    "貸付",
+    "貸出",
+    "貸し出し"
+  ],
+  "explanation": {
+    "id": "4977",
+    "text": "貸 (đọc là \"tai\") có nghĩa là \"cho vay\" hoặc \"vay mượn\", chỉ các hành động liên quan đến việc cho mượn tiền hoặc tài sản.\n\nVí dụ:\n- 貸し出し (kashidashi): Cho vay, cho mượn.\n- 貸す (kasu): Cho vay,"
+  },
+  "comments": [
+    {
+      "id": "36906",
+      "lang": "vi",
+      "content_html": "<p>Tôi sẽ <strong>cho </strong>bạn <strong>mượn </strong>tiền thay cho (代) anh ấy.</p>",
+      "content_text": "Tôi sẽ\ncho\nbạn\nmượn\ntiền thay cho (代) anh ấy.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc3ff438665.jpg",
+      "image_path": "assets/images/貸_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157082",
+      "lang": "vi",
+      "content_html": "<p>Thời đại cho vay tiền</p>",
+      "content_text": "Thời đại cho vay tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191193",
+      "lang": "vi",
+      "content_html": "<p><strong>cho mượn</strong> - 貸す (かす)</p>",
+      "content_text": "cho mượn\n- 貸す (かす)",
+      "image_url": "https://jpdictionary.com/upload/images/648ad8bd778b9.jpg",
+      "image_path": "assets/images/貸_3.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

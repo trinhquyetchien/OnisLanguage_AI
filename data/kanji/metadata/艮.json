@@ -1,0 +1,85 @@
+{
+  "kanji": "艮",
+  "meta": {
+    "weight": 2245,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン",
+      "ゴン"
+    ],
+    "kun": [
+      "うしとら"
+    ],
+    "am_han": "CẤN"
+  },
+  "meaning": {
+    "vi": "đông bắc (hoàng đạo phương đông), dừng lại, gốc tốt (số 138)",
+    "en": "northeast (Oriental zodiac), stopping, good radical (no. 138)"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/艮.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2718",
+    "text": "艮 (đọc là \"kon\" hoặc \"gen\") có nghĩa là \"dừng lại\", \"ngừng\" hoặc chỉ một hướng trong phong thủy, thường liên quan đến khái niệm về sự kết thúc hoặc hạn chế. \n\nVí dụ:\n- 艮の方 (konnohō): Hướng Đ"
+  },
+  "comments": [
+    {
+      "id": "220503",
+      "lang": "vi",
+      "content_html": "<p>CHỦ (nét chủ) thiếu 良 - LƯƠNG là bất CẤN 艮( không tốt)</p>",
+      "content_text": "CHỦ (nét chủ) thiếu 良 - LƯƠNG là bất CẤN 艮( không tốt)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220504",
+      "lang": "vi",
+      "content_html": "<p>艮 – cấn – bền bỉ: vì có sức bền nên dưới ánh nắng mặt trời 日 gay gắt, anh rể レ (re trong katakana) tôi đầu 亠 đội mũ ra đồng cấy lúa</p>",
+      "content_text": "艮 – cấn – bền bỉ: vì có sức bền nên dưới ánh nắng mặt trời 日 gay gắt, anh rể レ (re trong katakana) tôi đầu 亠 đội mũ ra đồng cấy lúa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220505",
+      "lang": "vi",
+      "content_html": "<p>Bộ Cấn, bộ thứ 138 có nghĩa là \"quẻ Cấn\" là 1 trong 29 bộ có 6 nét trong số 214 bộ thủ Khang Hy.</p>",
+      "content_text": "Bộ Cấn, bộ thứ 138 có nghĩa là \"quẻ Cấn\" là 1 trong 29 bộ có 6 nét trong số 214 bộ thủ Khang Hy.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

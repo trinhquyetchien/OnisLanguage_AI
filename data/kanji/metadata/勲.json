@@ -1,0 +1,87 @@
+{
+  "kanji": "勲",
+  "meta": {
+    "weight": 366,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "クン"
+    ],
+    "kun": [
+      "いさお"
+    ],
+    "am_han": "HUÂN"
+  },
+  "meaning": {
+    "vi": "công lao, công trạng",
+    "en": "meritorious deed, merit"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/勲.svg"
+  },
+  "frequency": 1513,
+  "examples": [
+    "勲章",
+    "勲"
+  ],
+  "explanation": {
+    "id": "1902",
+    "text": "勲 (đọc là \"kun\") có nghĩa là \"huân chương\", \"vinh dự\" để chỉ các thành tựu đáng khen ngợi hoặc phần thưởng được trao cho cá nhân vì những đóng góp xuất sắc.\n\nVí dụ:\n- 勲章 (kunshō): Huân chươn"
+  },
+  "comments": [
+    {
+      "id": "152124",
+      "lang": "vi",
+      "content_html": "<p>HUÂN chương lao Động cho người có CÔNG tạo ra Lửa</p>",
+      "content_text": "HUÂN chương lao Động cho người có CÔNG tạo ra Lửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152125",
+      "lang": "vi",
+      "content_html": "<p>huân chương được trao cho nung nấu lao động cần cù</p>",
+      "content_text": "huân chương được trao cho nung nấu lao động cần cù",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152126",
+      "lang": "vi",
+      "content_html": "<p>Tặng Huân chương cho người lao Động có lửa ( nhiệt thành )</p>",
+      "content_text": "Tặng Huân chương cho người lao Động có lửa ( nhiệt thành )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

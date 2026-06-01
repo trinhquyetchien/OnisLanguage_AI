@@ -1,0 +1,88 @@
+{
+  "kanji": "維",
+  "meta": {
+    "weight": 2086,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [],
+    "am_han": "DUY"
+  },
+  "meaning": {
+    "vi": "sợi, dây buộc, dây thừng",
+    "en": "fiber, tie, rope"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/維.svg"
+  },
+  "frequency": 643,
+  "examples": [
+    "維持",
+    "繊維",
+    "明治維新",
+    "維新",
+    "維"
+  ],
+  "explanation": {
+    "id": "167",
+    "text": "維 (đọc là \"i\") có nghĩa là \"duy trì\", \"bảo vệ\", thường chỉ các hành động liên quan đến việc giữ gìn hoặc duy trì một trạng thái nào đó.\n\nVí dụ:\n- 維持 (iji): Duy trì, giữ nguyên.\n- 維新 (ishin):"
+  },
+  "comments": [
+    {
+      "id": "156072",
+      "lang": "vi",
+      "content_html": "<p>Bạn Duy lấy chỉ buộc chim</p>",
+      "content_text": "Bạn Duy lấy chỉ buộc chim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156073",
+      "lang": "vi",
+      "content_html": "<p>cách DUY nhất để con chim không bay đi mất là dùng SỢI CHỈ BUỘC CON CHIM lại...</p>",
+      "content_text": "cách DUY nhất để con chim không bay đi mất là dùng SỢI CHỈ BUỘC CON CHIM lại...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156074",
+      "lang": "vi",
+      "content_html": "<p>Chỉ có một con chim duy nhất</p>",
+      "content_text": "Chỉ có một con chim duy nhất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

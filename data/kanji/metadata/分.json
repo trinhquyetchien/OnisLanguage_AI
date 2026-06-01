@@ -1,0 +1,113 @@
+{
+  "kanji": "分",
+  "meta": {
+    "weight": 311,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ブン",
+      "フン",
+      "ブ"
+    ],
+    "kun": [
+      "わ.ける",
+      "わ.け",
+      "わ.かれる",
+      "わ.かる",
+      "わ.かつ"
+    ],
+    "am_han": "PHÂN"
+  },
+  "meaning": {
+    "vi": "phút, phân chia",
+    "en": "part, minute of time, segment, share, degree, one's lot, duty, understand, know, rate, 1%, chances, shaku/100"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/分.svg"
+  },
+  "frequency": 24,
+  "examples": [
+    "自分",
+    "分",
+    "部分",
+    "十分",
+    "分析"
+  ],
+  "explanation": {
+    "id": "6944",
+    "text": "分 (đọc là \"bun\" hoặc \"fun\") có nghĩa là \"phân chia\", \"phân tách\" và chỉ các hành động liên quan đến việc chia nhỏ hoặc phân bổ. \n\nVí dụ:\n- 分かる (wakaru): Hiểu, nhận biết.\n- 分ける (wakeru): Chia"
+  },
+  "comments": [
+    {
+      "id": "505",
+      "lang": "vi",
+      "content_html": "<p>Hãy <strong>chia </strong>nó ra <strong>phân </strong>nửa bằng con <strong>dao </strong>(刀)!</p>",
+      "content_text": "Hãy\nchia\nnó ra\nphân\nnửa bằng con\ndao\n(刀)!",
+      "image_url": "https://jpdictionary.com/upload/images/629766409ff7a.jpg",
+      "image_path": "assets/images/分_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151971",
+      "lang": "vi",
+      "content_html": "<p>Dùng dao chặt cây để phân tích</p>",
+      "content_text": "Dùng dao chặt cây để phân tích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158239",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>何分 (なんぷん): mấy phút</p><p>〜分 (〜ぷん): ~ phút</p>",
+      "content_text": "JLPT N5\n何分 (なんぷん): mấy phút\n〜分 (〜ぷん): ~ phút",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "159038",
+      "lang": "vi",
+      "content_html": "<p>十分(じゅうぶん): đầy đủ, hợp lý</p><p>&nbsp;</p>",
+      "content_text": "十分(じゅうぶん): đầy đủ, hợp lý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "kanji": "祇",
+  "meta": {
+    "weight": 1900,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギ",
+      "キ",
+      "シ"
+    ],
+    "kun": [
+      "くにつかみ",
+      "ただ",
+      "まさに"
+    ],
+    "am_han": "KÌ, CHI"
+  },
+  "meaning": {
+    "vi": "thần quốc gia hoặc địa phương, hòa bình, vĩ đại",
+    "en": "national or local god, peaceful, great"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/祇.svg"
+  },
+  "frequency": 2169,
+  "examples": [
+    "祇園祭"
+  ],
+  "explanation": {
+    "id": "1432",
+    "text": "祇 (đọc là \"gi\", \"ki\") có nghĩa là \"thần linh\" hoặc \"biểu thị sự tôn thờ\". Chữ này thường liên quan đến các khía cạnh tâm linh và tôn giáo.  \nVí dụ:  \n- 祇園 (Gion): Khu phố nổi tiếng ở Kyoto, "
+  },
+  "comments": [
+    {
+      "id": "155683",
+      "lang": "vi",
+      "content_html": "<p>bị KÌ THỊ 2 lần</p>",
+      "content_text": "bị KÌ THỊ 2 lần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

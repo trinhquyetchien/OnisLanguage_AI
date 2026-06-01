@@ -1,0 +1,53 @@
+{
+  "kanji": "洩",
+  "meta": {
+    "weight": 1530,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エイ",
+      "セツ"
+    ],
+    "kun": [
+      "も.らす",
+      "の.びる",
+      "も.れる"
+    ],
+    "am_han": "DUỆ, TIẾT"
+  },
+  "meaning": {
+    "vi": "rò rỉ, trốn thoát",
+    "en": "leak, escape"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/洩.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "386",
+    "text": "洩 (đọc là \"しょつ\" hoặc \"もれ\") có nghĩa là \"rò rỉ\", \"tiết lộ\" để chỉ các hành động liên quan đến việc thoát ra hoặc không giữ kín thông tin.  \nVí dụ:  \n- 洩漏 (しょうろう, shōrō): Sự rò rỉ, tiết lộ thô"
+  },
+  "comments": [
+    {
+      "id": "219931",
+      "lang": "vi",
+      "content_html": "<p>Nghịch nước  氵hậu DUỆ của mặt trời日 bị quất cho 10 (x) roi</p>",
+      "content_text": "Nghịch nước  氵hậu DUỆ của mặt trời日 bị quất cho 10 (x) roi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

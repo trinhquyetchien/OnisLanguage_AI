@@ -1,0 +1,128 @@
+{
+  "kanji": "勤",
+  "meta": {
+    "weight": 364,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キン",
+      "ゴン"
+    ],
+    "kun": [
+      "つと.める",
+      "-づと.め",
+      "つと.まる",
+      "いそ.しむ"
+    ],
+    "am_han": "CẦN"
+  },
+  "meaning": {
+    "vi": "công việc, chuyên cần",
+    "en": "diligence, become employed, serve"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/勤.svg"
+  },
+  "frequency": 830,
+  "examples": [
+    "勤務",
+    "通勤",
+    "出勤",
+    "勤め",
+    "勤労"
+  ],
+  "explanation": {
+    "id": "20300",
+    "text": "勤 (đọc là \"sō\") có nghĩa là \"tụ tập\", \"tập trung\" để chỉ các hoạt động liên quan đến việc tập hợp hoặc quy tụ.\n\nVí dụ:\n- 勤論 (sōron): Tập hợp ý kiến, thảo luận.\n- 勤会 (sōkai): Cuộc họp, hội ng"
+  },
+  "comments": [
+    {
+      "id": "152118",
+      "lang": "vi",
+      "content_html": "<p>Vua trung hoa cần kiệm để tăng thêm sức lực</p>",
+      "content_text": "Vua trung hoa cần kiệm để tăng thêm sức lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152119",
+      "lang": "vi",
+      "content_html": "<p>Vua trung hoa ăn cỏ hút cần để tăng cường sinh lực</p>",
+      "content_text": "Vua trung hoa ăn cỏ hút cần để tăng cường sinh lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222007",
+      "lang": "vi",
+      "content_html": "<p>Hình thanh ( 力 chỉ nghĩa, 菫 là thanh - Cận/Cần)</p>",
+      "content_text": "Hình thanh ( 力 chỉ nghĩa, 菫 là thanh - Cận/Cần)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    },
+    {
+      "id": "152120",
+      "lang": "vi",
+      "content_html": "<p>Vua Trung Hoa CẦN cù luyện công Lực</p>",
+      "content_text": "Vua Trung Hoa CẦN cù luyện công Lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222036",
+      "lang": "vi",
+      "content_html": "<p>Trong chữ 勤 thì 菫 chỉ dùng làm <strong>hình thanh</strong>, mang âm đọc <strong>qín (Cận/Cần/キン), </strong>thêm <strong>lực 力 </strong>thì thành <strong>Cần</strong></p>",
+      "content_text": "Trong chữ 勤 thì 菫 chỉ dùng làm\nhình thanh\n, mang âm đọc\nqín (Cận/Cần/キン),\nthêm\nlực 力\nthì thành\nCần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "避",
+  "meta": {
+    "weight": 2693,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "さ.ける",
+      "よ.ける"
+    ],
+    "am_han": "TỊ"
+  },
+  "meaning": {
+    "vi": "né tránh, tránh né, tránh xa, trốn tránh",
+    "en": "evade, avoid, avert, ward off, shirk, shun"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/避.svg"
+  },
+  "frequency": 756,
+  "examples": [
+    "避け",
+    "回避",
+    "避ける",
+    "避難",
+    "逃避"
+  ],
+  "explanation": {
+    "id": "6601",
+    "text": "避 (đọc là \"hi\") có nghĩa là \"tránh\" hoặc \"lẩn tránh\" để chỉ các hành động liên quan đến việc né tránh, phòng ngừa hoặc không đối mặt với điều gì đó.  \nVí dụ:  \n- 避難 (hinan): Sự lánh nạn, trú"
+  },
+  "comments": [
+    {
+      "id": "157415",
+      "lang": "vi",
+      "content_html": "<p>trên đường tị nạn mà nói lời cay đắng trước cửa thì ai cũng tránh xa</p>",
+      "content_text": "trên đường tị nạn mà nói lời cay đắng trước cửa thì ai cũng tránh xa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157416",
+      "lang": "vi",
+      "content_html": "<p>Con đường tị nạn tránh khỏi con MA có cái mồm Cay độc</p>",
+      "content_text": "Con đường tị nạn tránh khỏi con MA có cái mồm Cay độc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157417",
+      "lang": "vi",
+      "content_html": "<p>Trên đường TỊ nạn Nói lời Cay đắng từ Cửa Miệng</p>",
+      "content_text": "Trên đường TỊ nạn Nói lời Cay đắng từ Cửa Miệng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "売",
+  "meta": {
+    "weight": 613,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バイ"
+    ],
+    "kun": [
+      "う.る",
+      "う.れる"
+    ],
+    "am_han": "MẠI"
+  },
+  "meaning": {
+    "vi": "bán, thương mại",
+    "en": "sell"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/売.svg"
+  },
+  "frequency": 202,
+  "examples": [
+    "販売",
+    "発売",
+    "売り",
+    "売買",
+    "売上"
+  ],
+  "explanation": {
+    "id": "6299",
+    "text": "売 (đọc là \"bai\" hoặc \"uru\") có nghĩa là \"bán\", chỉ các hành động liên quan đến việc trao đổi hàng hóa hoặc dịch vụ để nhận tiền.  \nVí dụ:  \n- 売買 (baibai): Mua bán, giao dịch.  \n- 売れる (ureru)"
+  },
+  "comments": [
+    {
+      "id": "190953",
+      "lang": "vi",
+      "content_html": "<p><strong>bán</strong></p>",
+      "content_text": "bán",
+      "image_url": "https://jpdictionary.com/upload/images/648a7606e9592.jpg",
+      "image_path": "assets/images/売_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "653",
+      "lang": "vi",
+      "content_html": "<p>Một người đang bán cái gì đó.</p>",
+      "content_text": "Một người đang bán cái gì đó.",
+      "image_url": "https://jpdictionary.com/upload/images/62982e4fe1644.jpg",
+      "image_path": "assets/images/売_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152707",
+      "lang": "vi",
+      "content_html": "<p>Binh sỹ mang khăn đi bán.</p>",
+      "content_text": "Binh sỹ mang khăn đi bán.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "潮",
+  "meta": {
+    "weight": 1622,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "しお",
+      "うしお"
+    ],
+    "am_han": "TRIỀU"
+  },
+  "meaning": {
+    "vi": "thủy triều, nước mặn, cơ hội",
+    "en": "tide, salt water, opportunity"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/潮.svg"
+  },
+  "frequency": 1231,
+  "examples": [
+    "風潮",
+    "潮",
+    "潮流",
+    "最高潮",
+    "黒潮"
+  ],
+  "explanation": {
+    "id": "5370",
+    "text": "潮 (đọc là \"shio\") có nghĩa là \"thủy triều\" hoặc \"dòng nước\", thường dùng để chỉ các hiện tượng liên quan đến sự lên xuống của nước biển.\nVí dụ:\n- 潮流 (chōryū): Dòng chảy, xu hướng.\n- 潮汐 (chōs"
+  },
+  "comments": [
+    {
+      "id": "155103",
+      "lang": "vi",
+      "content_html": "<p>Nước thủy triều buổi sáng dâng</p>",
+      "content_text": "Nước thủy triều buổi sáng dâng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155104",
+      "lang": "vi",
+      "content_html": "<p>Nước thuỷ TRIỀU dâng vào sáng ngày mồng 10 tháng 10</p>",
+      "content_text": "Nước thuỷ TRIỀU dâng vào sáng ngày mồng 10 tháng 10",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155105",
+      "lang": "vi",
+      "content_html": "<p>Nước thuỷ triều lên buổi sáng</p>",
+      "content_text": "Nước thuỷ triều lên buổi sáng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

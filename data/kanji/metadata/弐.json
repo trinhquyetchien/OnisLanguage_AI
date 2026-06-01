@@ -1,0 +1,86 @@
+{
+  "kanji": "弐",
+  "meta": {
+    "weight": 892,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ニ",
+      "ジ"
+    ],
+    "kun": [
+      "ふた.つ",
+      "そえ"
+    ],
+    "am_han": "NHỊ"
+  },
+  "meaning": {
+    "vi": "II, hai, thứ hai",
+    "en": "II, two, second"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/弐.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6092",
+    "text": "弐 (đọc là \"ni\") có nghĩa là \"số hai\" để chỉ số lượng hoặc thứ tự trong một số ngữ cảnh chính thức, đặc biệt là trong văn bản tài chính và pháp lý.\n\nVí dụ:\n- 弐千円 (nisen-en): Hai nghìn yên.\n- "
+  },
+  "comments": [
+    {
+      "id": "219442",
+      "lang": "vi",
+      "content_html": "<p>Bọn Dặc nói 1 là 2</p>",
+      "content_text": "Bọn Dặc nói 1 là 2",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219443",
+      "lang": "vi",
+      "content_html": "<p>Số 2 của Thượng huyền Nhị trong Kimetsu no Yaiba</p>",
+      "content_text": "Số 2 của Thượng huyền Nhị trong Kimetsu no Yaiba",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219444",
+      "lang": "vi",
+      "content_html": "<p>Nhị phân là ra Số hai bằng số Giặc chết lần thứ Nhất.</p>",
+      "content_text": "Nhị phân là ra Số hai bằng số Giặc chết lần thứ Nhất.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "kanji": "澱",
+  "meta": {
+    "weight": 1626,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "デン",
+      "テン"
+    ],
+    "kun": [
+      "おり",
+      "ど.ろ",
+      "よど.み",
+      "よど.む"
+    ],
+    "am_han": "ĐIẾN"
+  },
+  "meaning": {
+    "vi": "trầm tích, đất, cặn bã, ứ đọng",
+    "en": "sediment, grounds, dregs, stagnant"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/澱.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5690",
+    "text": "澱 (đọc là \"den\") có nghĩa là \"bùn\", \"cặn\" hoặc chỉ các vật thể lơ lửng trong chất lỏng, thường liên quan đến sự tích tụ của chất lỏng. \n\nVí dụ:\n- 澱粉 (denpun): Tinh bột.\n- 澱み (shizumi): Sự tí"
+  },
+  "comments": []
+}

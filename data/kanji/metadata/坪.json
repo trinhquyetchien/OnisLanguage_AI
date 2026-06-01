@@ -1,0 +1,69 @@
+{
+  "kanji": "坪",
+  "meta": {
+    "weight": 555,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘイ"
+    ],
+    "kun": [
+      "つぼ"
+    ],
+    "am_han": "BÌNH"
+  },
+  "meaning": {
+    "vi": "khu vực hai tấm, khoảng. ba mươi sáu sq ft",
+    "en": "two-mat area, approx. thirty-six sq ft"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/坪.svg"
+  },
+  "frequency": 1823,
+  "examples": [
+    "坪"
+  ],
+  "explanation": {
+    "id": "5500",
+    "text": "坪 (đọc là \"tsubo\") có nghĩa là \"một đơn vị đo diện tích\" tương đương khoảng 3.3 mét vuông, thường được sử dụng trong bất động sản và kiến trúc.  \nVí dụ:  \n- 坪単価 (tsubotanka): Giá mỗi tsubo, "
+  },
+  "comments": [
+    {
+      "id": "152574",
+      "lang": "vi",
+      "content_html": "<p>chỗ đất 土 bằng phẳng thì mới có hoà (BÌNH) 坪</p>",
+      "content_text": "chỗ đất 土 bằng phẳng thì mới có hoà (BÌNH) 坪",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152575",
+      "lang": "vi",
+      "content_html": "<p>Dùng Bình làm Đơn vị đo đất</p>",
+      "content_text": "Dùng Bình làm Đơn vị đo đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

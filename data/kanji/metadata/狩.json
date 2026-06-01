@@ -1,0 +1,40 @@
+{
+  "kanji": "狩",
+  "meta": {
+    "weight": 1712,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ"
+    ],
+    "kun": [
+      "か.る",
+      "か.り",
+      "-が.り"
+    ],
+    "am_han": "THÚ"
+  },
+  "meaning": {
+    "vi": "săn lùng, đột kích, hái lượm",
+    "en": "hunt, raid, gather"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/狩.svg"
+  },
+  "frequency": 1785,
+  "examples": [
+    "狩り",
+    "狩猟",
+    "狩",
+    "狩人",
+    "狩場"
+  ],
+  "explanation": {
+    "id": "3421",
+    "text": "狩 (đọc là \"shuu\" hoặc \"kari\") có nghĩa là \"săn bắn\", chỉ các hành động liên quan đến việc săn, thu hoạch động vật hoang dã.  \nVí dụ:  \n- 狩猟 (shuryou): Săn bắn, hoạt động săn thú.  \n- 狩り (kar"
+  },
+  "comments": []
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "袋",
+  "meta": {
+    "weight": 2414,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ",
+      "ダイ"
+    ],
+    "kun": [
+      "ふくろ"
+    ],
+    "am_han": "ĐẠI"
+  },
+  "meaning": {
+    "vi": "bao, túi",
+    "en": "sack, bag, pouch"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/袋.svg"
+  },
+  "frequency": 1125,
+  "examples": [
+    "袋",
+    "手袋",
+    "紙袋",
+    "胃袋",
+    "福袋"
+  ],
+  "explanation": {
+    "id": "4974",
+    "text": "袋 (đọc là \"tai\" hoặc \"fukuro\") có nghĩa là \"túi\", để chỉ các vật chứa đựng, thường dùng để đựng đồ vật.  \nVí dụ:  \n- 袋 (fukuro): Túi, bao.  \n- 手袋 (tebukuro): Găng tay.  \n- 紙袋 (kamifukuro): T"
+  },
+  "comments": [
+    {
+      "id": "156729",
+      "lang": "vi",
+      "content_html": "<p>Y phục thời đại này nhìn cứ như cái túi</p>",
+      "content_text": "Y phục thời đại này nhìn cứ như cái túi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156730",
+      "lang": "vi",
+      "content_html": "<p>Y phục hiện \u001dĐẠI thì phải có túi đựng</p>",
+      "content_text": "Y phục hiện \u001dĐẠI thì phải có túi đựng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156731",
+      "lang": "vi",
+      "content_html": "<p>Thời ĐẠI này mà Mẹ mặc Y phục như cái Túi</p>",
+      "content_text": "Thời ĐẠI này mà Mẹ mặc Y phục như cái Túi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

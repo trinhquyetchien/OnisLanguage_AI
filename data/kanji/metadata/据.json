@@ -1,0 +1,90 @@
+{
+  "kanji": "据",
+  "meta": {
+    "weight": 1106,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョ"
+    ],
+    "kun": [
+      "す.える",
+      "す.わる"
+    ],
+    "am_han": "CƯ, CỨ"
+  },
+  "meaning": {
+    "vi": "đặt, đặt nền, lắp đặt, trang bị, ngồi xổm xuống, ngồi xuống",
+    "en": "set, lay a foundation, install, equip, squat down, sit down"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/据.svg"
+  },
+  "frequency": 1468,
+  "examples": [
+    "据え置き",
+    "据える",
+    "見据える",
+    "据え付け"
+  ],
+  "explanation": {
+    "id": "4261",
+    "text": "据 (đọc là \"kyo\") có nghĩa là \"dựa vào\", \"căn cứ\" để chỉ các hành động liên quan đến việc lấy thông tin hoặc dựa trên một nền tảng nào đó.\n\nVí dụ:\n- 据える (sueru): Đặt, căn cứ vào.\n- 据え置き (sueo"
+  },
+  "comments": [
+    {
+      "id": "153938",
+      "lang": "vi",
+      "content_html": "<p>Tự tay lắp đặt đồ đạc ở nơi mình CƯ trú</p>",
+      "content_text": "Tự tay lắp đặt đồ đạc ở nơi mình CƯ trú",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153939",
+      "lang": "vi",
+      "content_html": "<p>Đưa tay đặt đồ cổ dưới cửa</p>",
+      "content_text": "Đưa tay đặt đồ cổ dưới cửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153940",
+      "lang": "vi",
+      "content_html": "<p>CỨ lắp đặt theo THỦ công nơi CƯ trú</p>",
+      "content_text": "CỨ lắp đặt theo THỦ công nơi CƯ trú",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

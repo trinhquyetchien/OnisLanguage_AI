@@ -1,0 +1,54 @@
+{
+  "kanji": "贋",
+  "meta": {
+    "weight": 2579,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガン"
+    ],
+    "kun": [
+      "にせ"
+    ],
+    "am_han": "NHẠN"
+  },
+  "meaning": {
+    "vi": "giả mạo",
+    "en": "counterfeit, forgery"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/贋.svg"
+  },
+  "frequency": 2439,
+  "examples": [
+    "贋作",
+    "真贋",
+    "贋"
+  ],
+  "explanation": {
+    "id": "1226",
+    "text": "贋 (đọc là \"gan\") có nghĩa là \"giả\", \"nhái\" để chỉ các vật phẩm hoặc thông tin không phải thật, được làm giả.  \nVí dụ:  \n- 贋作 (gansaku): Tác phẩm giả, hàng giả.  \n- 贋金 (gankin): Tiền giả, tiề"
+  },
+  "comments": [
+    {
+      "id": "157141",
+      "lang": "vi",
+      "content_html": "<p>Tiền(貝) không cánh mà bay như chim NHẠN(雁) nếu mua đồ giả</p>",
+      "content_text": "Tiền(貝) không cánh mà bay như chim NHẠN(雁) nếu mua đồ giả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

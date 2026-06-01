@@ -1,0 +1,92 @@
+{
+  "kanji": "況",
+  "meta": {
+    "weight": 1513,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "まし.て",
+      "いわ.んや",
+      "おもむき"
+    ],
+    "am_han": "HUỐNG"
+  },
+  "meaning": {
+    "vi": "tình trạng, tình huống",
+    "en": "condition, situation"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/況.svg"
+  },
+  "frequency": 490,
+  "examples": [
+    "状況",
+    "不況",
+    "近況",
+    "実況",
+    "盛況"
+  ],
+  "explanation": {
+    "id": "1679",
+    "text": "況 (đọc là \"kyou\" hoặc \"kō\") có nghĩa là \"tình hình\", \"trạng thái\". Từ này thường được sử dụng để chỉ điều kiện hoặc hoàn cảnh cụ thể.\n\nVí dụ:\n- 状況 (jōkyō): Tình hình, trạng thái.\n- 況に (kyō n"
+  },
+  "comments": [
+    {
+      "id": "154823",
+      "lang": "vi",
+      "content_html": "<p>tình HUỐNG mà THỦY đưa ra cho HUYNH quá khó rồi...</p>",
+      "content_text": "tình HUỐNG mà THỦY đưa ra cho HUYNH quá khó rồi...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154824",
+      "lang": "vi",
+      "content_html": "<p>ông anh gặp tình huống khó nên luống cuống vã cả mồ hôi</p>",
+      "content_text": "ông anh gặp tình huống khó nên luống cuống vã cả mồ hôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154825",
+      "lang": "vi",
+      "content_html": "<p>tình huống khó đỡ nhất của huynh tôi là bắn nước ra</p>",
+      "content_text": "tình huống khó đỡ nhất của huynh tôi là bắn nước ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

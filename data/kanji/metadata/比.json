@@ -1,0 +1,107 @@
+{
+  "kanji": "比",
+  "meta": {
+    "weight": 1474,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "くら.べる"
+    ],
+    "am_han": "TỈ"
+  },
+  "meaning": {
+    "vi": "so sánh",
+    "en": "compare, race, ratio, Philippines"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/比.svg"
+  },
+  "frequency": 329,
+  "examples": [
+    "比較",
+    "比べ",
+    "比較的",
+    "比",
+    "比率"
+  ],
+  "explanation": {
+    "id": "6559",
+    "text": "比 (đọc là \"hi\", \"koru\") có nghĩa là \"so sánh\" để chỉ các hành động liên quan đến việc so sánh hai hoặc nhiều đối tượng.  \nVí dụ:  \n- 比較 (hikyou): So sánh.  \n- 比べる (kuraberu): So sánh, đối ch"
+  },
+  "comments": [
+    {
+      "id": "37066",
+      "lang": "vi",
+      "content_html": "<p>Cả hai đều là chữ「ヒ」phải không?</p><p>Hãy thử <strong>so sánh</strong> chúng.</p>",
+      "content_text": "Cả hai đều là chữ「ヒ」phải không?\nHãy thử\nso sánh\nchúng.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb09f4b09d.jpg",
+      "image_path": "assets/images/比_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154737",
+      "lang": "vi",
+      "content_html": "<p>So BÌ 2 cái Chuỳ</p>",
+      "content_text": "So BÌ 2 cái Chuỳ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154738",
+      "lang": "vi",
+      "content_html": "<p>Tỉ số là 7 - 7</p>",
+      "content_text": "Tỉ số là 7 - 7",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154739",
+      "lang": "vi",
+      "content_html": "<p>Hihi! Tỉ thí để so sánh võ công nào</p>",
+      "content_text": "Hihi! Tỉ thí để so sánh võ công nào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

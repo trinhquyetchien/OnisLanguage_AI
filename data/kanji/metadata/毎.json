@@ -1,0 +1,74 @@
+{
+  "kanji": "毎",
+  "meta": {
+    "weight": 1472,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マイ"
+    ],
+    "kun": [
+      "ごと",
+      "-ごと.に"
+    ],
+    "am_han": "MỖI"
+  },
+  "meaning": {
+    "vi": "mỗi",
+    "en": "every"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/毎.svg"
+  },
+  "frequency": 436,
+  "examples": [
+    "毎日",
+    "毎年",
+    "毎週",
+    "毎回",
+    "毎月"
+  ],
+  "explanation": {
+    "id": "7395",
+    "text": "毎 (đọc là \"mai\") có nghĩa là \"mỗi\", \"từng\" để chỉ sự lặp lại hoặc tần suất. \n\nVí dụ:\n- 毎日 (mainichi): Mỗi ngày, hàng ngày.\n- 毎週 (maishuu): Mỗi tuần, hàng tuần.\n- 毎年 (mainen): Mỗi năm, hàng n"
+  },
+  "comments": [
+    {
+      "id": "566",
+      "lang": "vi",
+      "content_html": "<p><strong>Mỗi </strong>người (人) đều có mẹ (母).</p>",
+      "content_text": "Mỗi\nngười (人) đều có mẹ (母).",
+      "image_url": "https://jpdictionary.com/upload/images/62977e8f55791.jpg",
+      "image_path": "assets/images/毎_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158448",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>毎朝 (まいあさ): mỗi sáng<br>毎月 (まいげつ/まいつき): mỗi tháng<br>毎週 (まいしゅう): mỗi tuần<br>毎日 (まいにち): mỗi ngày<br>毎年 (まいねん/まいとし): mỗi năm<br>毎晩 (まいばん): mỗi tối</p>",
+      "content_text": "JLPT N5\n毎朝 (まいあさ): mỗi sáng\n毎月 (まいげつ/まいつき): mỗi tháng\n毎週 (まいしゅう): mỗi tuần\n毎日 (まいにち): mỗi ngày\n毎年 (まいねん/まいとし): mỗi năm\n毎晩 (まいばん): mỗi tối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

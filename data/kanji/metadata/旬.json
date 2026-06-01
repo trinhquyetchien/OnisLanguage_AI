@@ -1,0 +1,89 @@
+{
+  "kanji": "旬",
+  "meta": {
+    "weight": 1214,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュン",
+      "シュン"
+    ],
+    "kun": [],
+    "am_han": "TUẦN, QUÂN"
+  },
+  "meaning": {
+    "vi": "decameron, khoảng thời gian mười ngày, mùa (đối với các sản phẩm cụ thể)",
+    "en": "decameron, ten-day period, season (for specific products)"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/旬.svg"
+  },
+  "frequency": 1162,
+  "examples": [
+    "中旬",
+    "下旬",
+    "旬",
+    "上旬",
+    "初旬"
+  ],
+  "explanation": {
+    "id": "3644",
+    "text": "旬 (đọc là \"shun\") có nghĩa là \"thời kỳ\", \"mùa\" để chỉ khoảng thời gian nhất định, thường liên quan đến thực phẩm tươi ngon theo mùa hoặc các sự kiện trong năm.  \nVí dụ:  \n- 旬の食材 (shun no sho"
+  },
+  "comments": [
+    {
+      "id": "154189",
+      "lang": "vi",
+      "content_html": "<p>Bao 1 ngày bằng 10 ngày</p>",
+      "content_text": "Bao 1 ngày bằng 10 ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154190",
+      "lang": "vi",
+      "content_html": "<p>1 TUẦN 旬  đi làm chỉ đù tiền BAO 勹 bạn bè  ăn 1 ngày 日</p>",
+      "content_text": "1 TUẦN 旬  đi làm chỉ đù tiền BAO 勹 bạn bè  ăn 1 ngày 日",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154191",
+      "lang": "vi",
+      "content_html": "<p>Bao 1 ngày, bằng bao 1 tuần</p>",
+      "content_text": "Bao 1 ngày, bằng bao 1 tuần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "kanji": "窒",
+  "meta": {
+    "weight": 1963,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チツ"
+    ],
+    "kun": [],
+    "am_han": "TRẤT"
+  },
+  "meaning": {
+    "vi": "cắm lên, cản trở",
+    "en": "plug up, obstruct"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/窒.svg"
+  },
+  "frequency": 1776,
+  "examples": [
+    "窒素",
+    "窒息"
+  ],
+  "explanation": {
+    "id": "5256",
+    "text": "窒 (đọc là \"chitsu\") có nghĩa là \"ngăn cản\", \"cản trở\" để chỉ các hành động liên quan đến việc làm cho một cái gì đó không thể hoạt động hoặc phát triển.  \nVí dụ:  \n- 窒息 (chissoku): Ngạt thở."
+  },
+  "comments": [
+    {
+      "id": "155818",
+      "lang": "vi",
+      "content_html": "<p>Phòng kín không có lỗ thì bị nghẹt thở</p>",
+      "content_text": "Phòng kín không có lỗ thì bị nghẹt thở",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155819",
+      "lang": "vi",
+      "content_html": "<p>Phòng thiếu không khí thì bị ngạt thở</p>",
+      "content_text": "Phòng thiếu không khí thì bị ngạt thở",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155820",
+      "lang": "vi",
+      "content_html": "<p>có TRÍ thì xuống dưới HANG(HUYỆT) mà lấy CHẤT ĐẠM</p>",
+      "content_text": "có TRÍ thì xuống dưới HANG(HUYỆT) mà lấy CHẤT ĐẠM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

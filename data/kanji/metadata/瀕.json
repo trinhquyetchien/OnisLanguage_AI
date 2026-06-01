@@ -1,0 +1,52 @@
+{
+  "kanji": "瀕",
+  "meta": {
+    "weight": 1634,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒン"
+    ],
+    "kun": [
+      "ほとり"
+    ],
+    "am_han": "TẦN"
+  },
+  "meaning": {
+    "vi": "bờ biển, bờ vực",
+    "en": "shore, brink, verge"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/瀕.svg"
+  },
+  "frequency": 2367,
+  "examples": [
+    "瀕死"
+  ],
+  "explanation": {
+    "id": "6762",
+    "text": "瀕 (đọc là \"hin\") có nghĩa là \"bờ\", \"gần kề\" để chỉ vị trí gần với một nơi nào đó, thường dùng trong ngữ cảnh liên quan đến nước hoặc biên giới.\n\nVí dụ:\n- 瀕死 (hinshi): Sắp chết, gần cái chết."
+  },
+  "comments": [
+    {
+      "id": "155125",
+      "lang": "vi",
+      "content_html": "<p>TẦN suất gặp NƯỚC nhiều sẽ GẦN với cái chết瀕死</p>",
+      "content_text": "TẦN suất gặp NƯỚC nhiều sẽ GẦN với cái chết瀕死",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

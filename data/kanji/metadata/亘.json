@@ -1,0 +1,89 @@
+{
+  "kanji": "亘",
+  "meta": {
+    "weight": 118,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "カン",
+      "セン"
+    ],
+    "kun": [
+      "わた.る",
+      "もと.める"
+    ],
+    "am_han": "TUYÊN, HOÀN"
+  },
+  "meaning": {
+    "vi": "khoảng, phạm vi, mở rộng hơn",
+    "en": "span, range, extend over"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/亘.svg"
+  },
+  "frequency": 1728,
+  "examples": [
+    "亘る"
+  ],
+  "explanation": {
+    "id": "8414",
+    "text": "亘 (đọc là \"kō\") có nghĩa là \"trải dài\", \"khắp nơi\" để chỉ việc kéo dài hoặc bao quát một khoảng không gian hoặc thời gian rộng lớn.  \nVí dụ:  \n- 亘る (wataru): Trải dài, kéo dài.  \n- 亘域 (kōiki"
+  },
+  "comments": [
+    {
+      "id": "151494",
+      "lang": "vi",
+      "content_html": "<p>tuyên bố trong 2 ngày</p>",
+      "content_text": "tuyên bố trong 2 ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151495",
+      "lang": "vi",
+      "content_html": "<p>ngày mồng 1 tết nguyên đán thì TUYÊN bố</p>",
+      "content_text": "ngày mồng 1 tết nguyên đán thì TUYÊN bố",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151496",
+      "lang": "vi",
+      "content_html": "<p>Tuyên bố 2 ngày là Hoàn thành.</p>",
+      "content_text": "Tuyên bố 2 ngày là Hoàn thành.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

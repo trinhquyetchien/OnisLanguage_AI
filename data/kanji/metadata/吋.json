@@ -1,0 +1,34 @@
+{
+  "kanji": "吋",
+  "meta": {
+    "weight": 451,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ",
+      "ドウ",
+      "スン"
+    ],
+    "kun": [
+      "インチ"
+    ],
+    "am_han": "THỐN, ĐẨU"
+  },
+  "meaning": {
+    "vi": "inch",
+    "en": "inch"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/吋.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "281",
+    "text": "吋 (đọc là \"su\" hoặc \"inchi\") có nghĩa là \"inch\", một đơn vị đo chiều dài. \n\nVí dụ:\n- 吋 (inchi): Inch.\n- 1吋 (いっち, icchi): Một inch.\n- 吋寸法 (すんぽう, sunpō): Kích thước tính bằng inch."
+  },
+  "comments": []
+}

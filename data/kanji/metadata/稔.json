@@ -1,0 +1,53 @@
+{
+  "kanji": "稔",
+  "meta": {
+    "weight": 1938,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ネン",
+      "ジン",
+      "ニン"
+    ],
+    "kun": [
+      "みの.る",
+      "みのり"
+    ],
+    "am_han": "NHẪM, NẪM"
+  },
+  "meaning": {
+    "vi": "thu hoạch, chín",
+    "en": "harvest, ripen"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/稔.svg"
+  },
+  "frequency": 1775,
+  "examples": [],
+  "explanation": {
+    "id": "7495",
+    "text": "稔 (đọc là \"nen\") có nghĩa là \"thu hoạch\", \"chín muồi\", thường chỉ việc cây trái đã trưởng thành hoặc việc thu hoạch mùa màng. \n\nVí dụ:\n- 稔る (nuru): Chín muồi, thu hoạch.\n- 稔り (nuri): Mùa thu"
+  },
+  "comments": [
+    {
+      "id": "155766",
+      "lang": "vi",
+      "content_html": "<p>Cây lúa chín là kỉ niệm trong tim của NHẪM</p>",
+      "content_text": "Cây lúa chín là kỉ niệm trong tim của NHẪM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

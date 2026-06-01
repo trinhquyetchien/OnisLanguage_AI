@@ -1,0 +1,90 @@
+{
+  "kanji": "洞",
+  "meta": {
+    "weight": 1528,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドウ"
+    ],
+    "kun": [
+      "ほら"
+    ],
+    "am_han": "ĐỖNG"
+  },
+  "meaning": {
+    "vi": "den, hang, khai quật",
+    "en": "den, cave, excavation"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/洞.svg"
+  },
+  "frequency": 1618,
+  "examples": [
+    "洞",
+    "洞窟",
+    "洞察",
+    "空洞",
+    "曹洞宗"
+  ],
+  "explanation": {
+    "id": "5917",
+    "text": "洞 (đọc là \"dō\") có nghĩa là \"hang\", \"động\" để chỉ các không gian tự nhiên bên trong đất hoặc đá. \n\nVí dụ:\n- 洞窟 (dōkutsu): Hang động.\n- 洞穴 (dōketsu): Hầm, hang.\n- 天然洞 (tennandō): Hang tự nhiê"
+  },
+  "comments": [
+    {
+      "id": "154868",
+      "lang": "vi",
+      "content_html": "<p>trong hang động, mực nước là như nhau ở mọi điểm</p>",
+      "content_text": "trong hang động, mực nước là như nhau ở mọi điểm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154869",
+      "lang": "vi",
+      "content_html": "<p>Đồng thêm vảy nước là đỗng hang động</p>",
+      "content_text": "Đồng thêm vảy nước là đỗng hang động",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154870",
+      "lang": "vi",
+      "content_html": "<p>Chị đồng có nhiều nước ở hang động!</p>",
+      "content_text": "Chị đồng có nhiều nước ở hang động!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

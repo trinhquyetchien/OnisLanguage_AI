@@ -1,0 +1,54 @@
+{
+  "kanji": "綜",
+  "meta": {
+    "weight": 2084,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "おさ.める",
+      "す.べる"
+    ],
+    "am_han": "TỐNG, TÔNG"
+  },
+  "meaning": {
+    "vi": "quy tắc, tổng hợp",
+    "en": "rule, synthesize"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/綜.svg"
+  },
+  "frequency": 2194,
+  "examples": [
+    "錯綜",
+    "綜合"
+  ],
+  "explanation": {
+    "id": "4743",
+    "text": "綜 (đọc là \"sō\") có nghĩa là \"tổng hợp\", \"hợp nhất\" để chỉ hành động kết hợp nhiều yếu tố hoặc thông tin lại với nhau.\n\nVí dụ:\n- 綜合 (sōgō): Tổng hợp, sự kết hợp.\n- 綜覧 (sōran): Tổng quan, xem "
+  },
+  "comments": [
+    {
+      "id": "156071",
+      "lang": "vi",
+      "content_html": "<p>thời nhà TỐNG các TÔNG giáo đánh nhau bằng sợi DÂY</p>",
+      "content_text": "thời nhà TỐNG các TÔNG giáo đánh nhau bằng sợi DÂY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

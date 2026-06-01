@@ -1,0 +1,52 @@
+{
+  "kanji": "薮",
+  "meta": {
+    "weight": 2356,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "やぶ"
+    ],
+    "am_han": "TẨU, SÁC, SÚ"
+  },
+  "meaning": {
+    "vi": "bụi rậm, lùm cây",
+    "en": "thicket, bush, underbrush, grove"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/薮.svg"
+  },
+  "frequency": 2109,
+  "examples": [
+    "薮"
+  ],
+  "explanation": {
+    "id": "7712",
+    "text": "薮 (đọc là \"sō\" hoặc \"yabu\") có nghĩa là \"bụi rậm\", \"khu vực nhiều cây cỏ um tùm\". Chữ này thường chỉ những nơi hoang dã, ít người lui tới.\n\nVí dụ:\n- 薮蚊 (yabukaba): Muỗi ở khu vực bụi rậm.\n- "
+  },
+  "comments": [
+    {
+      "id": "156623",
+      "lang": "vi",
+      "content_html": "<p>số lượng lớn( 数) cây cỏ ( ✾ bộ thảo) làm nên bụi cây</p>",
+      "content_text": "số lượng lớn( 数) cây cỏ ( ✾ bộ thảo) làm nên bụi cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

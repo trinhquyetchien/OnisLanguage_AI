@@ -1,0 +1,89 @@
+{
+  "kanji": "虜",
+  "meta": {
+    "weight": 2369,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョ",
+      "ロ"
+    ],
+    "kun": [
+      "とりこ",
+      "とりく"
+    ],
+    "am_han": "LỖ"
+  },
+  "meaning": {
+    "vi": "giam cầm, man rợ, biểu tượng thấp cho kẻ thù",
+    "en": "captive, barbarian, low epithet for the enemy"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/虜.svg"
+  },
+  "frequency": 1678,
+  "examples": [
+    "虜",
+    "捕虜"
+  ],
+  "explanation": {
+    "id": "20275",
+    "text": "虜 (đọc là \"rō\") có nghĩa là \"sợi chỉ\" hoặc \"dệt\", thường liên quan đến các hoạt động dệt may hoặc thêu thùa.  \nVí dụ:  \n- 虜織 (rōshiki): Kỹ thuật dệt.  \n- 虜糸 (rōshi): Sợi chỉ.  \n- 虜針 (rōshin)"
+  },
+  "comments": [
+    {
+      "id": "156652",
+      "lang": "vi",
+      "content_html": "<p>Trong nhà bắt giữ 7 người đàn ông thô lỗ</p>",
+      "content_text": "Trong nhà bắt giữ 7 người đàn ông thô lỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156653",
+      "lang": "vi",
+      "content_html": "<p>người con trai bắt giữ con hổ thô lỗ</p>",
+      "content_text": "người con trai bắt giữ con hổ thô lỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156654",
+      "lang": "vi",
+      "content_html": "<p>HỔ NAM (hổ đực) thì không có cái LỖ...  (hơi bậy nhưng nhớ được là OK).</p>",
+      "content_text": "HỔ NAM (hổ đực) thì không có cái LỖ...  (hơi bậy nhưng nhớ được là OK).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

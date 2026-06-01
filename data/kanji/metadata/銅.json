@@ -1,0 +1,90 @@
+{
+  "kanji": "銅",
+  "meta": {
+    "weight": 2757,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドウ"
+    ],
+    "kun": [
+      "あかがね"
+    ],
+    "am_han": "ĐỒNG"
+  },
+  "meaning": {
+    "vi": "đồng",
+    "en": "copper"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/銅.svg"
+  },
+  "frequency": 1505,
+  "examples": [
+    "銅",
+    "銅像",
+    "銅メダル",
+    "青銅",
+    "銅鑼"
+  ],
+  "explanation": {
+    "id": "5935",
+    "text": "銅 (đọc là \"dō\") có nghĩa là \"đồng\", chỉ kim loại đồng và các khía cạnh liên quan đến nó.  \nVí dụ:  \n- 銅メダル (dō medaru): Huy chương đồng.  \n- 銅像 (dōzō): Tượng đồng.  \n- 銅管 (dōkan): Ống đồng."
+  },
+  "comments": [
+    {
+      "id": "157558",
+      "lang": "vi",
+      "content_html": "<p>Đồng và vàng giống nhau đều là kim loại</p>",
+      "content_text": "Đồng và vàng giống nhau đều là kim loại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157559",
+      "lang": "vi",
+      "content_html": "<p>Đồng giống kim loại ( vẫn là kl mà ;)). )</p>",
+      "content_text": "Đồng giống kim loại ( vẫn là kl mà ;)). )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157560",
+      "lang": "vi",
+      "content_html": "<p>Đồng tiền Vàng nhưng Đồng loại đều làm bằng Chất đồng.</p>",
+      "content_text": "Đồng tiền Vàng nhưng Đồng loại đều làm bằng Chất đồng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

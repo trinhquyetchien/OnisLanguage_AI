@@ -1,0 +1,92 @@
+{
+  "kanji": "訪",
+  "meta": {
+    "weight": 2462,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "おとず.れる",
+      "たず.ねる",
+      "と.う"
+    ],
+    "am_han": "PHÓNG, PHỎNG"
+  },
+  "meaning": {
+    "vi": "thăm hỏi, phóng sự",
+    "en": "call on, visit, look up, offer sympathy"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/訪.svg"
+  },
+  "frequency": 372,
+  "examples": [
+    "訪問",
+    "訪れ",
+    "訪れる",
+    "来訪",
+    "訪ねる"
+  ],
+  "explanation": {
+    "id": "7221",
+    "text": "訪 (đọc là \"hō\") có nghĩa là \"thăm\", \"viếng\" để chỉ hành động đến thăm ai đó hoặc một địa điểm nào đó.  \nVí dụ:  \n- 訪問 (hōmon): Thăm viếng, chuyến thăm.  \n- 訪れる (otozureru): Ghé thăm, đến thă"
+  },
+  "comments": [
+    {
+      "id": "156850",
+      "lang": "vi",
+      "content_html": "<p>Phóng luôn sang nhà hỏi thăm e Phương</p>",
+      "content_text": "Phóng luôn sang nhà hỏi thăm e Phương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156851",
+      "lang": "vi",
+      "content_html": "<p>Dùng ngôn ngữ địa phương để thăm hỏi và PHỎNG vấn</p>",
+      "content_text": "Dùng ngôn ngữ địa phương để thăm hỏi và PHỎNG vấn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156852",
+      "lang": "vi",
+      "content_html": "<p>Khách thập phường ghé thăm hỏi chuyện</p>",
+      "content_text": "Khách thập phường ghé thăm hỏi chuyện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

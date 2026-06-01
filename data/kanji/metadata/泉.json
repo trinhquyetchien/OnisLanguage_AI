@@ -1,0 +1,90 @@
+{
+  "kanji": "泉",
+  "meta": {
+    "weight": 1514,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "いずみ"
+    ],
+    "am_han": "TUYỀN"
+  },
+  "meaning": {
+    "vi": "suối",
+    "en": "spring, fountain"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/泉.svg"
+  },
+  "frequency": 1086,
+  "examples": [
+    "温泉",
+    "泉",
+    "源泉",
+    "和泉",
+    "黄泉"
+  ],
+  "explanation": {
+    "id": "4506",
+    "text": "泉 (đọc là \"isen\" hoặc \"shimizu\") có nghĩa là \"suối\" hoặc \"nguồn nước\", chỉ những nguồn nước tự nhiên, thường trong sạch.  \nVí dụ:  \n- 温泉 (onsen): Suối nước nóng.  \n- 泉水 (sensui): Nước suối, "
+  },
+  "comments": [
+    {
+      "id": "154826",
+      "lang": "vi",
+      "content_html": "<p>Nước trắng là nước suối</p>",
+      "content_text": "Nước trắng là nước suối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154827",
+      "lang": "vi",
+      "content_html": "<p>TUYẾN (線) không thích nhẩy dây nên gọi là TUYỀN (泉)</p>",
+      "content_text": "TUYẾN (線) không thích nhẩy dây nên gọi là TUYỀN (泉)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154828",
+      "lang": "vi",
+      "content_html": "<p>Nước 水 sông hoàng tuyền 泉 dưới âm phủ có mầu trắng 白</p>",
+      "content_text": "Nước 水 sông hoàng tuyền 泉 dưới âm phủ có mầu trắng 白",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

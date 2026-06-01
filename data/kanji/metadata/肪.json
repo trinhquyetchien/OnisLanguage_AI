@@ -1,0 +1,85 @@
+{
+  "kanji": "肪",
+  "meta": {
+    "weight": 2175,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [],
+    "am_han": "PHƯƠNG"
+  },
+  "meaning": {
+    "vi": "béo phì",
+    "en": "obese, fat"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/肪.svg"
+  },
+  "frequency": 1878,
+  "examples": [
+    "脂肪",
+    "脂肪酸"
+  ],
+  "explanation": {
+    "id": "7288",
+    "text": "肪 (đọc là \"bō\") có nghĩa là \"mỡ\" để chỉ chất béo trong cơ thể hoặc thực phẩm.  \nVí dụ:  \n- 脂肪 (shibō): Chất béo, mỡ.  \n- 肪分 (bōbun): Phần mỡ, hàm lượng mỡ.  \n- 脂肪酸 (shibōsan): Acid béo."
+  },
+  "comments": [
+    {
+      "id": "156283",
+      "lang": "vi",
+      "content_html": "<p>Phương nhiều Mỡ nên mặt tròn như trăng</p>",
+      "content_text": "Phương nhiều Mỡ nên mặt tròn như trăng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156284",
+      "lang": "vi",
+      "content_html": "<p>Thịt bao quanh tứ phương là mỡ</p>",
+      "content_text": "Thịt bao quanh tứ phương là mỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156285",
+      "lang": "vi",
+      "content_html": "<p>nguyệt tìm PHƯƠNG pháp hút mỡ</p>",
+      "content_text": "nguyệt tìm PHƯƠNG pháp hút mỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

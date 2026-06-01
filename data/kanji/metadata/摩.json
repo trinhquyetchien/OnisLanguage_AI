@@ -1,0 +1,92 @@
+{
+  "kanji": "摩",
+  "meta": {
+    "weight": 1146,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マ"
+    ],
+    "kun": [
+      "ま.する",
+      "さす.る",
+      "す.る"
+    ],
+    "am_han": "MA"
+  },
+  "meaning": {
+    "vi": "chafe, chà, đánh bóng, mài, cạo",
+    "en": "chafe, rub, polish, grind, scrape"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/摩.svg"
+  },
+  "frequency": 1252,
+  "examples": [
+    "摩擦",
+    "薩摩",
+    "摩訶不思議",
+    "志摩",
+    "摩天楼"
+  ],
+  "explanation": {
+    "id": "7371",
+    "text": "摩 (đọc là \"ma\") có nghĩa là \"ma sát\", \"cọ xát\" để chỉ hành động chà xát hoặc tác động lên bề mặt của vật nào đó.  \nVí dụ:  \n- 摩擦 (masatsu): Ma sát, cọ xát.  \n- 摩耗 (mahō): Mòn, hao mòn do ma "
+  },
+  "comments": [
+    {
+      "id": "154029",
+      "lang": "vi",
+      "content_html": "<p>4 chữ MA:<br>麻<br>Dưới Hiên Nhà có 2 Cây MA Lanh<br>(cây Lanh, vải lanh あさぬの)<br><br>摩<br>Ma có Tay 手 là Ma sát, xoa bóp. <br>まさつ、さする<br><br>磨<br>Ma có Đá 石 là Ma mài, đánh bóng, mài dũa.<br>Nghiên Ma, 歯磨き đánh răng<br><br>魔<br>Ma có Quỷ 鬼 đương nhiên là Ma Quỷ<br>悪魔 ác ma, 魔術 ma thuật</p>",
+      "content_text": "4 chữ MA:\n麻\nDưới Hiên Nhà có 2 Cây MA Lanh\n(cây Lanh, vải lanh あさぬの)\n摩\nMa có Tay 手 là Ma sát, xoa bóp.\nまさつ、さする\n磨\nMa có Đá 石 là Ma mài, đánh bóng, mài dũa.\nNghiên Ma, 歯磨き đánh răng\n魔\nMa có Quỷ 鬼 đương nhiên là Ma Quỷ\n悪魔 ác ma, 魔術 ma thuật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154030",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay lấy 2 cây đan chặt vào nhau làm mái hiên tạo ra Ma sát</p>",
+      "content_text": "Dùng tay lấy 2 cây đan chặt vào nhau làm mái hiên tạo ra Ma sát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154031",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay mài cây ma tuý ra thành bột để sử dụng</p>",
+      "content_text": "Dùng tay mài cây ma tuý ra thành bột để sử dụng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

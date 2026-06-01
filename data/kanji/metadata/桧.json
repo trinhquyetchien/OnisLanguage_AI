@@ -1,0 +1,53 @@
+{
+  "kanji": "桧",
+  "meta": {
+    "weight": 1358,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "ひのき",
+      "ひ"
+    ],
+    "am_han": "CỐI, CỘI, CŨI, CỦI, CUỘI, GỐI"
+  },
+  "meaning": {
+    "vi": "Cây bách nhật",
+    "en": "Japanese cypress"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/桧.svg"
+  },
+  "frequency": 2056,
+  "examples": [
+    "桧"
+  ],
+  "explanation": {
+    "id": "6676",
+    "text": "桧 (đọc là \"hi\" hoặc \"hinoki\") có nghĩa là \"cây tuyết tùng Nhật Bản\", một loại cây gỗ quý được sử dụng trong xây dựng và chế tác đồ thủ công. \n\nVí dụ:\n- 桧材 (hizai): Gỗ tuyết tùng.\n- 桧風呂 (hibu"
+  },
+  "comments": [
+    {
+      "id": "154523",
+      "lang": "vi",
+      "content_html": "<p>tổ chức hội thi làm cối xoay gió bằng gỗ</p>",
+      "content_text": "tổ chức hội thi làm cối xoay gió bằng gỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

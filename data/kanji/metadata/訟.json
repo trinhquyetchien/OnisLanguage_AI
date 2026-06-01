@@ -1,0 +1,84 @@
+{
+  "kanji": "訟",
+  "meta": {
+    "weight": 2460,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "TỤNG"
+  },
+  "meaning": {
+    "vi": "kiện, buộc tội",
+    "en": "sue, accuse"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/訟.svg"
+  },
+  "frequency": 1061,
+  "examples": [
+    "訴訟"
+  ],
+  "explanation": {
+    "id": "3914",
+    "text": "訟 (đọc là \"shō\") có nghĩa là \"kiện tụng\", \"tranh chấp\" để chỉ các hành động liên quan đến việc kiện cáo hoặc xử lý pháp lý.\n\nVí dụ:\n- 訴訟 (soshō): Kiện cáo, vụ kiện.\n- 訟廷 (shōtei): Tòa án, nơ"
+  },
+  "comments": [
+    {
+      "id": "156847",
+      "lang": "vi",
+      "content_html": "<p>phát NGÔN 言 bừa bại nơi CÔNG 公 cộng sẽ bị KIỆN tụng 訟 ...</p>",
+      "content_text": "phát NGÔN 言 bừa bại nơi CÔNG 公 cộng sẽ bị KIỆN tụng 訟 ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156848",
+      "lang": "vi",
+      "content_html": "<p>Ngôn từ công khai khi cãi nhau kiện tụng</p>",
+      "content_text": "Ngôn từ công khai khi cãi nhau kiện tụng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156849",
+      "lang": "vi",
+      "content_html": "<p>kiện TỤNG ở Công đường</p>",
+      "content_text": "kiện TỤNG ở Công đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "kanji": "也",
+  "meta": {
+    "weight": 104,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヤ",
+      "エ"
+    ],
+    "kun": [
+      "なり",
+      "か",
+      "また"
+    ],
+    "am_han": "DÃ"
+  },
+  "meaning": {
+    "vi": "trở thành (cổ điển)",
+    "en": "to be (classical)"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/也.svg"
+  },
+  "frequency": 1404,
+  "examples": [
+    "也"
+  ],
+  "explanation": {
+    "id": "7666",
+    "text": "也 (đọc là \"ya\") có nghĩa là \"cũng\" hoặc \"còn\", được sử dụng để chỉ sự bổ sung hoặc nhấn mạnh thông tin. \n\nVí dụ:\n- 也然 (yazuren): Cũng như vậy, cũng đúng.\n- 也有 (ya aru): Còn có, cũng có.\n- 彼も"
+  },
+  "comments": []
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "鎌",
+  "meta": {
+    "weight": 2787,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レン",
+      "ケン"
+    ],
+    "kun": [
+      "かま"
+    ],
+    "am_han": "LIÊM"
+  },
+  "meaning": {
+    "vi": "liềm, lưỡi hái, lừa",
+    "en": "sickle, scythe, trick"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/鎌.svg"
+  },
+  "frequency": 1587,
+  "examples": [
+    "鎌倉",
+    "鎌"
+  ],
+  "explanation": {
+    "id": "1028",
+    "text": "鎌 (đọc là \"kama\") có nghĩa là \"lưỡi hái\", một công cụ nông nghiệp dùng để thu hoạch cây trồng. \n\nVí dụ:\n- 鎌倉 (Kamakura): Tên một thành phố ở Nhật Bản, nơi có nhiều di tích lịch sử.\n- 鎌をかける ("
+  },
+  "comments": [
+    {
+      "id": "157604",
+      "lang": "vi",
+      "content_html": "<p>LIỀM làm từ KIM loại và có dùng KIÊM cho nhiều công việc</p>",
+      "content_text": "LIỀM làm từ KIM loại và có dùng KIÊM cho nhiều công việc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157605",
+      "lang": "vi",
+      "content_html": "<p>Đồ kim loại + với hình bàn tay cầm bó lúa 兼,<br>làm cho ta liên tưởng ngay tới cái liềm để gặt lúa bằng kim loại.</p>",
+      "content_text": "Đồ kim loại + với hình bàn tay cầm bó lúa 兼,\nlàm cho ta liên tưởng ngay tới cái liềm để gặt lúa bằng kim loại.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157606",
+      "lang": "vi",
+      "content_html": "<p>ông thợ kim chuyên khau phu trach lam liềm</p>",
+      "content_text": "ông thợ kim chuyên khau phu trach lam liềm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

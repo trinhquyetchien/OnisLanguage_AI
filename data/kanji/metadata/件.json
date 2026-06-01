@@ -1,0 +1,90 @@
+{
+  "kanji": "件",
+  "meta": {
+    "weight": 149,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "くだん"
+    ],
+    "am_han": "KIỆN"
+  },
+  "meaning": {
+    "vi": "điều kiện, sự kiện",
+    "en": "affair, case, matter, item"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/件.svg"
+  },
+  "frequency": 212,
+  "examples": [
+    "事件",
+    "件",
+    "条件",
+    "物件",
+    "本件"
+  ],
+  "explanation": {
+    "id": "2092",
+    "text": "件 (đọc là \"ken\") có nghĩa là \"vấn đề\", \"thư tín\", thường dùng để chỉ các tài liệu hay vấn đề cụ thể trong văn bản hoặc giao tiếp.\nVí dụ:\n- 件名 (kenmei): Tiêu đề, đề mục.\n- 事件 (jiken): Sự kiện"
+  },
+  "comments": [
+    {
+      "id": "151565",
+      "lang": "vi",
+      "content_html": "<p>Người dùng trâu để chở kiện hàng</p>",
+      "content_text": "Người dùng trâu để chở kiện hàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151566",
+      "lang": "vi",
+      "content_html": "<p>ĐIỀU KIỆN để đi cầy đc là phải có NGƯỜI và TRÂU</p>",
+      "content_text": "ĐIỀU KIỆN để đi cầy đc là phải có NGƯỜI và TRÂU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151567",
+      "lang": "vi",
+      "content_html": "<p>Người dắt trâu tham gia sự kiện</p>",
+      "content_text": "Người dắt trâu tham gia sự kiện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

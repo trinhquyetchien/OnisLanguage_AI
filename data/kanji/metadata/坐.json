@@ -1,0 +1,105 @@
+{
+  "kanji": "坐",
+  "meta": {
+    "weight": 551,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ザ",
+      "サ"
+    ],
+    "kun": [
+      "すわ.る",
+      "おわす",
+      "そぞろに",
+      "まします"
+    ],
+    "am_han": "TỌA"
+  },
+  "meaning": {
+    "vi": "ngồi",
+    "en": "sit"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/坐.svg"
+  },
+  "frequency": 2337,
+  "examples": [],
+  "explanation": {
+    "id": "2766",
+    "text": "坐 (đọc là \"za\" hoặc \"suwaru\") có nghĩa là \"ngồi\", chỉ hành động ngồi xuống hoặc trạng thái ngồi.  \nVí dụ:  \n- 座席 (zaseki): Ghế ngồi, chỗ ngồi.  \n- 坐る (suwaru): Ngồi.  \n- 坐禅 (zazen): Thiền ng"
+  },
+  "comments": [
+    {
+      "id": "152568",
+      "lang": "vi",
+      "content_html": "<p>hai người ngồi trên đất</p>",
+      "content_text": "hai người ngồi trên đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222035",
+      "lang": "vi",
+      "content_html": "<p><strong>坐 (ngồi)</strong>:</p><p>Gồm:</p><p>Trên: hai người (人 + 人) → tượng trưng cho <strong>hai người</strong></p><p>Dưới: 土 (đất) → <strong>ngồi trên đất</strong></p><p>Hội ý rằng: <strong>hai người ngồi trên mặt đất</strong>, nghĩa là <strong>“ngồi”</strong>, rất trực quan nhé.</p>",
+      "content_text": "坐 (ngồi)\n:\nGồm:\nTrên: hai người (人 + 人) → tượng trưng cho\nhai người\nDưới: 土 (đất) →\nngồi trên đất\nHội ý rằng:\nhai người ngồi trên mặt đất\n, nghĩa là\n“ngồi”\n, rất trực quan nhé.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    },
+    {
+      "id": "152569",
+      "lang": "vi",
+      "content_html": "<p>Tọa độ này có Hai Người ngồi trên Đất.</p>",
+      "content_text": "Tọa độ này có Hai Người ngồi trên Đất.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152570",
+      "lang": "vi",
+      "content_html": "<p>để NGỒI VỮNG VÀNG  --  cần có 2 NGƯỜI trên ĐẤT</p>",
+      "content_text": "để NGỒI VỮNG VÀNG  --  cần có 2 NGƯỜI trên ĐẤT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

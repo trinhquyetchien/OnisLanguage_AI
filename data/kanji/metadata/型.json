@@ -1,0 +1,91 @@
+{
+  "kanji": "型",
+  "meta": {
+    "weight": 557,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "かた",
+      "-がた"
+    ],
+    "am_han": "HÌNH"
+  },
+  "meaning": {
+    "vi": "hình dạng",
+    "en": "mould, type, model"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/型.svg"
+  },
+  "frequency": 482,
+  "examples": [
+    "型",
+    "大型",
+    "典型",
+    "小型",
+    "新型"
+  ],
+  "explanation": {
+    "id": "1952",
+    "text": "型 (đọc là \"kata\" hoặc \"kei\") có nghĩa là \"hình dạng\", \"mẫu\", để chỉ các hình thức, kiểu dáng hay khuôn mẫu của một vật thể.  \nVí dụ:  \n- 型紙 (katagami): Giấy mẫu, khuôn mẫu dùng trong may vá."
+  },
+  "comments": [
+    {
+      "id": "152579",
+      "lang": "vi",
+      "content_html": "<p>Khuôn hình làm từ đất</p>",
+      "content_text": "Khuôn hình làm từ đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152580",
+      "lang": "vi",
+      "content_html": "<p>cầm Dao làm HÌNH Đền từ Đất</p>",
+      "content_text": "cầm Dao làm HÌNH Đền từ Đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152581",
+      "lang": "vi",
+      "content_html": "<p>HÌNH PHẠT 刑 dùng DAO刂đào ĐẤT 土 để làm cái KHUÔN 型<br><br>(Kamu)</p>",
+      "content_text": "HÌNH PHẠT 刑 dùng DAO刂đào ĐẤT 土 để làm cái KHUÔN 型\n(Kamu)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

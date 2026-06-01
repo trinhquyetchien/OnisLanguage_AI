@@ -1,0 +1,90 @@
+{
+  "kanji": "盲",
+  "meta": {
+    "weight": 1837,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モウ"
+    ],
+    "kun": [
+      "めくら"
+    ],
+    "am_han": "MANH"
+  },
+  "meaning": {
+    "vi": "người mù, người dốt nát",
+    "en": "blind, blind man, ignoramus"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/盲.svg"
+  },
+  "frequency": 1767,
+  "examples": [
+    "盲目",
+    "盲",
+    "盲導犬",
+    "盲点",
+    "盲目的"
+  ],
+  "explanation": {
+    "id": "7608",
+    "text": "盲 (đọc là \"mou\") có nghĩa là \"mù\" hoặc \"không thấy\", dùng để chỉ trạng thái không nhìn thấy hoặc thiếu hiểu biết về điều gì đó.\n\nVí dụ:\n- 盲目 (moumoku): Mù quáng, không nhận thức được.\n- 盲信 ("
+  },
+  "comments": [
+    {
+      "id": "155544",
+      "lang": "vi",
+      "content_html": "<p>Mắt chết là mù</p>",
+      "content_text": "Mắt chết là mù",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155545",
+      "lang": "vi",
+      "content_html": "<p>Vong là mất<br>Mắt mất thì mù<br>Mù thì cuộc sống mong Manh</p>",
+      "content_text": "Vong là mất\nMắt mất thì mù\nMù thì cuộc sống mong Manh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155546",
+      "lang": "vi",
+      "content_html": "<p>Mắt 目 chết 亡 là mù 盲</p>",
+      "content_text": "Mắt 目 chết 亡 là mù 盲",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

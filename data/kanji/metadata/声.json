@@ -1,0 +1,109 @@
+{
+  "kanji": "声",
+  "meta": {
+    "weight": 611,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "こえ",
+      "こわ-"
+    ],
+    "am_han": "THANH"
+  },
+  "meaning": {
+    "vi": "giọng nói, âm thanh",
+    "en": "voice"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/声.svg"
+  },
+  "frequency": 388,
+  "examples": [
+    "声",
+    "音声",
+    "声明",
+    "大声",
+    "声優"
+  ],
+  "explanation": {
+    "id": "4340",
+    "text": "声 (đọc là \"sei\" hoặc \"koe\") có nghĩa là \"âm thanh\", \"tiếng nói\" để chỉ các khía cạnh liên quan đến âm thanh và giọng nói.\n\nVí dụ:\n- 声優 (seiyuu): Diễn viên lồng ghép.\n- 声 (koe): Giọng, tiếng "
+  },
+  "comments": [
+    {
+      "id": "36930",
+      "lang": "vi",
+      "content_html": "<p>Võ sĩ (士) cất <strong>giọng nói </strong>「コエ」ở bên cửa.</p>",
+      "content_text": "Võ sĩ (士) cất\ngiọng nói\n「コエ」ở bên cửa.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc447d0a75c.jpg",
+      "image_path": "assets/images/声_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152699",
+      "lang": "vi",
+      "content_html": "<p>Binh SĨ thấy xác chết (THI) kêu thất THANH.</p>",
+      "content_text": "Binh SĨ thấy xác chết (THI) kêu thất THANH.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152700",
+      "lang": "vi",
+      "content_html": "<p>Binh sĩ thất thanh thấy mặt trời nằm trên sườn núi</p>",
+      "content_text": "Binh sĩ thất thanh thấy mặt trời nằm trên sườn núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152701",
+      "lang": "vi",
+      "content_html": "<p>mặt trời đã khuất bóng sau núi  , âm thanh chùa vang lên , các tu sĩ xuống núi ngao du</p>",
+      "content_text": "mặt trời đã khuất bóng sau núi  , âm thanh chùa vang lên , các tu sĩ xuống núi ngao du",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

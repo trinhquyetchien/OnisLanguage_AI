@@ -1,0 +1,90 @@
+{
+  "kanji": "環",
+  "meta": {
+    "weight": 1758,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "わ"
+    ],
+    "am_han": "HOÀN"
+  },
+  "meaning": {
+    "vi": "vòng, vòng tròn, liên kết, bánh xe",
+    "en": "ring, circle, link, wheel"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/環.svg"
+  },
+  "frequency": 409,
+  "examples": [
+    "環境",
+    "循環",
+    "一環",
+    "環",
+    "環境省"
+  ],
+  "explanation": {
+    "id": "1143",
+    "text": "環 (đọc là \"kan\") có nghĩa là \"vòng\", \"chuỗi\" để chỉ các đối tượng hình vòng hoặc cấu trúc liên kết.\n\nVí dụ:\n- 環境 (kankyō): Môi trường.\n- 環状 (kanjō): Hình tròn, dạng vòng.\n- 環帯 (kantai): Vòng"
+  },
+  "comments": [
+    {
+      "id": "155360",
+      "lang": "vi",
+      "content_html": "<p>ông vua nói mắt mồm tuần hoàn với nhau qua cách dây thần kinh -1 y</p>",
+      "content_text": "ông vua nói mắt mồm tuần hoàn với nhau qua cách dây thần kinh -1 y",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155361",
+      "lang": "vi",
+      "content_html": "<p>Nhà vua  dạy Không 不sai . Mắt 目 mồm 口 luôn tuần hoàn 環 với nhau</p>",
+      "content_text": "Nhà vua  dạy Không 不sai . Mắt 目 mồm 口 luôn tuần hoàn 環 với nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155362",
+      "lang": "vi",
+      "content_html": "<p>Ông vua nằm tuần hoàn trên một chiếc võng xa xôi</p>",
+      "content_text": "Ông vua nằm tuần hoàn trên một chiếc võng xa xôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

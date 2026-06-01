@@ -1,0 +1,92 @@
+{
+  "kanji": "眼",
+  "meta": {
+    "weight": 1848,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガン",
+      "ゲン"
+    ],
+    "kun": [
+      "まなこ",
+      "め"
+    ],
+    "am_han": "NHÃN"
+  },
+  "meaning": {
+    "vi": "nhãn cầu",
+    "en": "eyeball"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/眼.svg"
+  },
+  "frequency": 1527,
+  "examples": [
+    "眼",
+    "眼鏡",
+    "一眼",
+    "眼差し",
+    "主眼"
+  ],
+  "explanation": {
+    "id": "1219",
+    "text": "眼 (đọc là \"gan\") có nghĩa là \"mắt\", chỉ cơ quan thị giác và cũng thường được dùng để chỉ tầm nhìn hoặc sự quan sát.\n\nVí dụ:\n- 眼鏡 (megane): Kính mắt.\n- 眼科 (ganka): Khoa nhãn khoa.\n- 目覚まし時計 (m"
+  },
+  "comments": [
+    {
+      "id": "155578",
+      "lang": "vi",
+      "content_html": "<p>MẮT TỐT là có NHÃN quan tốt</p>",
+      "content_text": "MẮT TỐT là có NHÃN quan tốt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155579",
+      "lang": "vi",
+      "content_html": "<p>mắt lân cấn hột nhãn</p>",
+      "content_text": "mắt lân cấn hột nhãn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155580",
+      "lang": "vi",
+      "content_html": "<p>NHÃN quan tốt là khi MẮT (目) không bị CẤN (艮) gì.</p>",
+      "content_text": "NHÃN quan tốt là khi MẮT (目) không bị CẤN (艮) gì.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

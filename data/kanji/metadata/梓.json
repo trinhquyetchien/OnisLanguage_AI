@@ -1,0 +1,70 @@
+{
+  "kanji": "梓",
+  "meta": {
+    "weight": 1362,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "あずさ"
+    ],
+    "am_han": "TỬ"
+  },
+  "meaning": {
+    "vi": "cây catalpa, in khắc gỗ",
+    "en": "catalpa tree, woodblock printing"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/梓.svg"
+  },
+  "frequency": 2301,
+  "examples": [
+    "梓",
+    "上梓"
+  ],
+  "explanation": {
+    "id": "52",
+    "text": "梓 (đọc là \"shi\" hoặc \"aoki\") có nghĩa là \"cây gỗ tốt\" thường chỉ loại cây dùng để làm đồ gỗ, đặc biệt trong xây dựng và chế tác nhạc cụ. Ngoài ra, nó cũng được dùng trong một số bối cảnh văn"
+  },
+  "comments": [
+    {
+      "id": "154530",
+      "lang": "vi",
+      "content_html": "<p>Cho thêm vị cay vào cây thì trả mấy mà tử</p>",
+      "content_text": "Cho thêm vị cay vào cây thì trả mấy mà tử",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154531",
+      "lang": "vi",
+      "content_html": "<p>cây chịu được cay là cây bất tử</p>",
+      "content_text": "cây chịu được cay là cây bất tử",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "坂",
+  "meta": {
+    "weight": 548,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン"
+    ],
+    "kun": [
+      "さか"
+    ],
+    "am_han": "PHẢN"
+  },
+  "meaning": {
+    "vi": "con dốc",
+    "en": "slope, incline, hill"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/坂.svg"
+  },
+  "frequency": 865,
+  "examples": [
+    "坂",
+    "坂道",
+    "下り坂",
+    "上り坂",
+    "大坂"
+  ],
+  "explanation": {
+    "id": "2860",
+    "text": "坂 (đọc là \"saka\") có nghĩa là \"dốc,\" \"ngọn đồi\" để chỉ các địa hình nghiêng hoặc dốc lên, xuống.\n\nVí dụ:\n- 坂道 (sakamichi): Đường dốc.\n- 坂上 (sakaue): Trên dốc, đỉnh dốc.\n- 坂下 (sakashita): Dướ"
+  },
+  "comments": [
+    {
+      "id": "152559",
+      "lang": "vi",
+      "content_html": "<p>Đất phản ngược lại làm thành dốc</p>",
+      "content_text": "Đất phản ngược lại làm thành dốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152560",
+      "lang": "vi",
+      "content_html": "<p>Đất 土 cong lên 反 tạo thành con dốc 坂</p>",
+      "content_text": "Đất 土 cong lên 反 tạo thành con dốc 坂",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152561",
+      "lang": "vi",
+      "content_html": "<p>Rất nhiều người Phản đối việc xây nhà trên Vùng Đất này rồi. Vì nó rất là Dốc - nguy hiểm.</p>",
+      "content_text": "Rất nhiều người Phản đối việc xây nhà trên Vùng Đất này rồi. Vì nó rất là Dốc - nguy hiểm.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

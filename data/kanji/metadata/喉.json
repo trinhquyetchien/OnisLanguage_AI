@@ -1,0 +1,90 @@
+{
+  "kanji": "喉",
+  "meta": {
+    "weight": 503,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "のど"
+    ],
+    "am_han": "HẦU"
+  },
+  "meaning": {
+    "vi": "cổ họng, giọng nói",
+    "en": "throat, voice"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/喉.svg"
+  },
+  "frequency": 2390,
+  "examples": [
+    "喉",
+    "咽喉",
+    "喉頭",
+    "喉元",
+    "耳鼻咽喉科"
+  ],
+  "explanation": {
+    "id": "2402",
+    "text": "喉 (đọc là \"nodo\") có nghĩa là \"họng\" hoặc \"cuống họng\", chỉ phần cơ thể liên quan đến việc ăn uống và phát âm.  \nVí dụ:  \n- 喉が渇く (nodo ga kawaku): Khát nước, cảm thấy khô họng.  \n- 喉頭 (kōtō)"
+  },
+  "comments": [
+    {
+      "id": "152443",
+      "lang": "vi",
+      "content_html": "<p>Hầu thêm khẩu là cuống họng</p>",
+      "content_text": "Hầu thêm khẩu là cuống họng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152444",
+      "lang": "vi",
+      "content_html": "<p>HẦU trong Miệng là HỌNG</p>",
+      "content_text": "HẦU trong Miệng là HỌNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152445",
+      "lang": "vi",
+      "content_html": "<p>Miệng của Tước hầu chính là yết hầu.......!!!!</p>",
+      "content_text": "Miệng của Tước hầu chính là yết hầu.......!!!!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

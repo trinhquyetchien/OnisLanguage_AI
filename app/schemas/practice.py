@@ -9,6 +9,8 @@ class PracticeQuestion(BaseModel):
     question_id: str
     kind: Literal["multiple_choice", "short_answer", "true_false"]
     prompt: str
+    image_url: Optional[str] = None
+    audio_url: Optional[str] = None
     options: List[str] = Field(default_factory=list)
     difficulty: Literal["easy", "medium", "hard"] = "medium"
     explanation: Optional[str] = None

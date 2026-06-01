@@ -1,0 +1,91 @@
+{
+  "kanji": "廃",
+  "meta": {
+    "weight": 876,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハイ"
+    ],
+    "kun": [
+      "すた.れる",
+      "すた.る"
+    ],
+    "am_han": "PHẾ"
+  },
+  "meaning": {
+    "vi": "bãi bỏ, lỗi thời, chấm dứt, loại bỏ, từ bỏ",
+    "en": "abolish, obsolete, cessation, discarding, abandon"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/廃.svg"
+  },
+  "frequency": 698,
+  "examples": [
+    "廃止",
+    "廃棄",
+    "撤廃",
+    "荒廃",
+    "廃墟"
+  ],
+  "explanation": {
+    "id": "6256",
+    "text": "廃 (đọc là \"hai\") có nghĩa là \"bỏ\", \"hủy bỏ\", \"phế\". Chữ này thường chỉ các hành động liên quan đến việc từ bỏ, phá hủy hoặc không sử dụng nữa.\n\nVí dụ:\n- 廃止 (haishi): Hủy bỏ, bãi bỏ.\n- 廃棄 (ha"
+  },
+  "comments": [
+    {
+      "id": "153356",
+      "lang": "vi",
+      "content_html": "<p>Phát bệnh trong nhà sẽ trở nên tàn Phế</p>",
+      "content_text": "Phát bệnh trong nhà sẽ trở nên tàn Phế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153357",
+      "lang": "vi",
+      "content_html": "<p>chuẩn nè: người chỉ ở trong nhà mà không làm cho kinh tế phát triển thì đúng là đồ tàn phế</p>",
+      "content_text": "chuẩn nè: người chỉ ở trong nhà mà không làm cho kinh tế phát triển thì đúng là đồ tàn phế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153358",
+      "lang": "vi",
+      "content_html": "<p>Dưới mái nhà không phát triển sẽ bị lỗi thời, suy yếu</p>",
+      "content_text": "Dưới mái nhà không phát triển sẽ bị lỗi thời, suy yếu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

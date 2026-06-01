@@ -1,0 +1,90 @@
+{
+  "kanji": "迫",
+  "meta": {
+    "weight": 2643,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハク"
+    ],
+    "kun": [
+      "せま.る"
+    ],
+    "am_han": "BÁCH"
+  },
+  "meaning": {
+    "vi": "thúc giục, buộc, sắp xảy ra, thúc đẩy",
+    "en": "urge, force, imminent, spur on"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/迫.svg"
+  },
+  "frequency": 773,
+  "examples": [
+    "迫力",
+    "迫る",
+    "圧迫",
+    "脅迫",
+    "迫害"
+  ],
+  "explanation": {
+    "id": "6343",
+    "text": "迫 (đọc là \"paku\" hoặc \"haku\") có nghĩa là \"ép buộc\", \"gây sức ép\" để chỉ các hành động liên quan đến việc thúc ép, ép buộc ai đó làm điều gì đó.\n\nVí dụ:\n- 迫害 (hakugai): Đàn áp, bức hại.\n- 迫る"
+  },
+  "comments": [
+    {
+      "id": "157288",
+      "lang": "vi",
+      "content_html": "<p>Đường dẫn màu trắng thì có cảm giác bức bách</p>",
+      "content_text": "Đường dẫn màu trắng thì có cảm giác bức bách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157289",
+      "lang": "vi",
+      "content_html": "<p>Bách này là cấp bách nhé cả nhà.<br>Mang áo màu trắng chạy (cấp bách trên đường)</p>",
+      "content_text": "Bách này là cấp bách nhé cả nhà.\nMang áo màu trắng chạy (cấp bách trên đường)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157290",
+      "lang": "vi",
+      "content_html": "<p>Các bác sỹ mặc áo màu Trăng chạy trên Đường hẳn là có việc cấp Bách</p>",
+      "content_text": "Các bác sỹ mặc áo màu Trăng chạy trên Đường hẳn là có việc cấp Bách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

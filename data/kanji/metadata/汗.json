@@ -1,0 +1,90 @@
+{
+  "kanji": "汗",
+  "meta": {
+    "weight": 1489,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "あせ"
+    ],
+    "am_han": "HÃN"
+  },
+  "meaning": {
+    "vi": "mồ hôi",
+    "en": "sweat, perspire"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/汗.svg"
+  },
+  "frequency": 1502,
+  "examples": [
+    "汗",
+    "冷や汗",
+    "汗だく",
+    "汗水",
+    "発汗"
+  ],
+  "explanation": {
+    "id": "1133",
+    "text": "汗 (đọc là \"kan\") có nghĩa là \"mồ hôi\", chỉ sự tiết ra của cơ thể khi gặp nhiệt độ cao hoặc căng thẳng.  \nVí dụ:  \n- 汗をかく (ase o kaku): Đổ mồ hôi.  \n- 汗臭い (asekusai): Có mùi mồ hôi.  \n- 汗水たらし"
+  },
+  "comments": [
+    {
+      "id": "154772",
+      "lang": "vi",
+      "content_html": "<p>Khô khan thì phải ra mồ hôi</p>",
+      "content_text": "Khô khan thì phải ra mồ hôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154773",
+      "lang": "vi",
+      "content_html": "<p>lúc Khô nóng mồ hôi chảy như Nước</p>",
+      "content_text": "lúc Khô nóng mồ hôi chảy như Nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154774",
+      "lang": "vi",
+      "content_html": "<p>Sự hung HÃN của Nước liên Can đến mồ hôi</p>",
+      "content_text": "Sự hung HÃN của Nước liên Can đến mồ hôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

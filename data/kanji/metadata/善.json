@@ -1,0 +1,93 @@
+{
+  "kanji": "善",
+  "meta": {
+    "weight": 502,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゼン"
+    ],
+    "kun": [
+      "よ.い",
+      "い.い",
+      "よ.く",
+      "よし.とする"
+    ],
+    "am_han": "THIỆN, THIẾN"
+  },
+  "meaning": {
+    "vi": "đức, tốt",
+    "en": "virtuous, good, goodness"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/善.svg"
+  },
+  "frequency": 765,
+  "examples": [
+    "改善",
+    "善",
+    "最善",
+    "善意",
+    "親善"
+  ],
+  "explanation": {
+    "id": "4586",
+    "text": "善 (đọc là \"zen\") có nghĩa là \"thiện\", \"tốt đẹp\" để chỉ những hành động, tính cách hoặc phẩm chất tốt, tích cực.\n\nVí dụ:\n- 善悪 (zen'aku): Thiện ác, đúng sai.\n- 善行 (zenkō): Hành động tốt, việc "
+  },
+  "comments": [
+    {
+      "id": "152440",
+      "lang": "vi",
+      "content_html": "<p>Con dê 2 đầu miệng biết nói làm việc THIỆN</p>",
+      "content_text": "Con dê 2 đầu miệng biết nói làm việc THIỆN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152441",
+      "lang": "vi",
+      "content_html": "<p>Mở miệng 21 lần bắt con Dê làm việc THIỆN</p>",
+      "content_text": "Mở miệng 21 lần bắt con Dê làm việc THIỆN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152442",
+      "lang": "vi",
+      "content_html": "<p>Người làm việc Thiện không bắt Dê để ăn (Miệng)</p>",
+      "content_text": "Người làm việc Thiện không bắt Dê để ăn (Miệng)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

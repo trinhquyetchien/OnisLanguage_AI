@@ -1,0 +1,89 @@
+{
+  "kanji": "酬",
+  "meta": {
+    "weight": 2719,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ",
+      "シュ",
+      "トウ"
+    ],
+    "kun": [
+      "むく.いる"
+    ],
+    "am_han": "THÙ"
+  },
+  "meaning": {
+    "vi": "trả ơn, phần thưởng, quả báo",
+    "en": "repay, reward, retribution"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/酬.svg"
+  },
+  "frequency": 1515,
+  "examples": [
+    "報酬",
+    "応酬"
+  ],
+  "explanation": {
+    "id": "3534",
+    "text": "酬 (đọc là \"shuu\") có nghĩa là \"thù lao\", \"đền đáp\" để chỉ các hành động liên quan đến việc trả ơn, thưởng hoặc bồi thường.\nVí dụ:\n- 報酬 (houshuu): Thù lao, tiền công.\n- 酬い (mukui): Đền đáp, b"
+  },
+  "comments": [
+    {
+      "id": "157485",
+      "lang": "vi",
+      "content_html": "<p>Sang CHÂU âu buôn Rượu 10 năm sau QUAY VỀ BÁO THÙ</p>",
+      "content_text": "Sang CHÂU âu buôn Rượu 10 năm sau QUAY VỀ BÁO THÙ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157486",
+      "lang": "vi",
+      "content_html": "<p>Châu dùng Rượu độc báo Thù</p>",
+      "content_text": "Châu dùng Rượu độc báo Thù",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157487",
+      "lang": "vi",
+      "content_html": "<p>Ở các châu lục xưa thường trả THÙ lao bằng rượu</p>",
+      "content_text": "Ở các châu lục xưa thường trả THÙ lao bằng rượu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

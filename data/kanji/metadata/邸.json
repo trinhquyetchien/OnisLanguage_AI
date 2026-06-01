@@ -1,0 +1,90 @@
+{
+  "kanji": "邸",
+  "meta": {
+    "weight": 2699,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "やしき"
+    ],
+    "am_han": "ĐỂ"
+  },
+  "meaning": {
+    "vi": "dinh thự",
+    "en": "residence, mansion"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/邸.svg"
+  },
+  "frequency": 905,
+  "examples": [
+    "官邸",
+    "邸",
+    "邸宅",
+    "公邸",
+    "豪邸"
+  ],
+  "explanation": {
+    "id": "5603",
+    "text": "邸 (đọc là \"tei\") có nghĩa là \"biệt thự\" hoặc \"nhà ở\", thường chỉ những ngôi nhà lớn, sang trọng thuộc về cá nhân hoặc gia đình.  \nVí dụ:  \n- 邸宅 (teitaku): Biệt thự, nhà ở sang trọng.  \n- 大邸宅"
+  },
+  "comments": [
+    {
+      "id": "157433",
+      "lang": "vi",
+      "content_html": "<p>vùng đất Để làm Lâu Đài thì phải có Đê xung quang</p>",
+      "content_text": "vùng đất Để làm Lâu Đài thì phải có Đê xung quang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157434",
+      "lang": "vi",
+      "content_html": "<p>Gò đất thấp để làm biệt thự</p>",
+      "content_text": "Gò đất thấp để làm biệt thự",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157435",
+      "lang": "vi",
+      "content_html": "<p>Chỗ thấp nhất trên đồi ĐỂ xây Biệt Thự</p>",
+      "content_text": "Chỗ thấp nhất trên đồi ĐỂ xây Biệt Thự",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "kanji": "干",
+  "meta": {
+    "weight": 848,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "ほ.す",
+      "ほ.し-",
+      "-ぼ.し",
+      "ひ.る"
+    ],
+    "am_han": "CAN"
+  },
+  "meaning": {
+    "vi": "khô",
+    "en": "dry, parch, ebb, recede, interfere, intercede"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/干.svg"
+  },
+  "frequency": 1349,
+  "examples": [
+    "若干",
+    "干渉",
+    "干し",
+    "梅干",
+    "干"
+  ],
+  "explanation": {
+    "id": "1096",
+    "text": "干 (đọc là \"kan\") có nghĩa là \"khô\", \"cạn\" hoặc \"làm khô\", thường dùng để chỉ các hành động liên quan đến việc làm khô hoặc tình trạng thiếu nước. \n\nVí dụ:\n- 干渉 (kanSHOU): Can thiệp, ảnh hưởn"
+  },
+  "comments": [
+    {
+      "id": "153284",
+      "lang": "vi",
+      "content_html": "<p>Cây cột điẹn đứng khô khan giữa trời</p>",
+      "content_text": "Cây cột điẹn đứng khô khan giữa trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153285",
+      "lang": "vi",
+      "content_html": "<p>Can thiệp mười một lần để phơi khô</p>",
+      "content_text": "Can thiệp mười một lần để phơi khô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153286",
+      "lang": "vi",
+      "content_html": "<p>Đồng 1 sên bị khô cứng thẳng tắp</p>",
+      "content_text": "Đồng 1 sên bị khô cứng thẳng tắp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "kanji": "呆",
+  "meta": {
+    "weight": 468,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "ほけ.る",
+      "ぼ.ける",
+      "あき.れる",
+      "おろか"
+    ],
+    "am_han": "NGỐC"
+  },
+  "meaning": {
+    "vi": "ngạc nhiên, ghê tởm, sốc",
+    "en": "be amazed, disgusted, shocked"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/呆.svg"
+  },
+  "frequency": 1848,
+  "examples": [
+    "痴呆",
+    "阿呆",
+    "呆れる",
+    "呆",
+    "呆然"
+  ],
+  "explanation": {
+    "id": "7148",
+    "text": "呆 (đọc là \"đai\" trong âm kun, \"tai\" trong âm on) có nghĩa là \"ngạc nhiên\", \"ngớ ngẩn\", thường dùng để chỉ trạng thái bất ngờ hoặc sự ngu ngốc.\n\nVí dụ:\n- 呆れる (akireru): Ngạc nhiên, sửng sốt.\n"
+  },
+  "comments": [
+    {
+      "id": "152358",
+      "lang": "vi",
+      "content_html": "<p>thằng ngốc đứng ngây ra như cái cây, miệng thì há ra.</p>",
+      "content_text": "thằng ngốc đứng ngây ra như cái cây, miệng thì há ra.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152359",
+      "lang": "vi",
+      "content_html": "<p>Đứa NGỐC mới treo Miệng trên Cây</p>",
+      "content_text": "Đứa NGỐC mới treo Miệng trên Cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152360",
+      "lang": "vi",
+      "content_html": "<p>Kẻ NGỐC há miệng chờ sung</p>",
+      "content_text": "Kẻ NGỐC há miệng chờ sung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{% extends "admin/base.html" %}
+{% block content %}
+<section class="page-header">
+    <div>
+        <p class="eyebrow">Realtime overview</p>
+        <h1>Bang dieu khien</h1>
+        <p class="lead">Tong hop nhanh quy mo du lieu va truy cap den tung bang can quan tri.</p>
+    </div>
+    <div class="hero-stat">
+        <span>Tong ban ghi</span>
+        <strong>{{ total_records }}</strong>
+    </div>
+</section>
+
+<section class="card-grid">
+    {% for card in cards %}
+    <a class="metric-card" href="/admin/table/{{ card.table.key }}" style="--accent: {{ card.table.accent }}">
+        <div class="meta-label">{{ card.table.label }}</div>
+        <strong>{{ card.count }}</strong>
+        <p>{{ card.table.description }}</p>
+    </a>
+    {% endfor %}
+</section>
+
+<section class="panel-grid">
+    <article class="panel">
+        <div class="panel-head">
+            <h2>Nguoi dung moi</h2>
+            <a href="/admin/table/users">Xem tat ca</a>
+        </div>
+        <div class="stack-list">
+            {% for user in recent_users %}
+            <div class="stack-row">
+                <div>
+                    <strong>{{ user.display_name }}</strong>
+                    <div class="meta-subtle">{{ user.email }}</div>
+                </div>
+                <span>{{ user.created_at.strftime('%Y-%m-%d %H:%M') if user.created_at else '' }}</span>
+            </div>
+            {% else %}
+            <div class="empty-state">Chua co nguoi dung nao.</div>
+            {% endfor %}
+        </div>
+    </article>
+
+    <article class="panel">
+        <div class="panel-head">
+            <h2>Media xu ly gan day</h2>
+            <a href="/admin/table/media_transcript_history">Mo bang</a>
+        </div>
+        <div class="stack-list">
+            {% for item in recent_media %}
+            <div class="stack-row">
+                <div>
+                    <strong>{{ item.title }}</strong>
+                    <div class="meta-subtle">{{ item.source_type }} · {{ item.media_kind or 'unknown' }}</div>
+                </div>
+                <span>{{ '%.1f'|format(item.duration or 0) }}s</span>
+            </div>
+            {% else %}
+            <div class="empty-state">Chua co lich su media.</div>
+            {% endfor %}
+        </div>
+    </article>
+</section>
+{% endblock %}

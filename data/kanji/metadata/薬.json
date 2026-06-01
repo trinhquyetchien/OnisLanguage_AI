@@ -1,0 +1,107 @@
+{
+  "kanji": "薬",
+  "meta": {
+    "weight": 2355,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヤク"
+    ],
+    "kun": [
+      "くすり"
+    ],
+    "am_han": "DƯỢC"
+  },
+  "meaning": {
+    "vi": "thuốc, dược phẩm",
+    "en": "medicine, chemical, enamel, gunpowder, benefit"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/薬.svg"
+  },
+  "frequency": 702,
+  "examples": [
+    "薬",
+    "麻薬",
+    "農薬",
+    "薬物",
+    "医薬品"
+  ],
+  "explanation": {
+    "id": "7697",
+    "text": "薬 (đọc là \"yaku\") có nghĩa là \"thuốc\" để chỉ các chất hoặc sản phẩm dùng để chữa bệnh hoặc cải thiện sức khỏe.  \nVí dụ:  \n- 薬局 (yakkyoku): Hiệu thuốc, nhà thuốc.  \n- 薬草 (yakusou): Cây thuốc,"
+  },
+  "comments": [
+    {
+      "id": "36877",
+      "lang": "vi",
+      "content_html": "<p>Hãy uống <strong>thuốc </strong>làm từ cỏ này để vui chơi, đánh trống.</p>",
+      "content_text": "Hãy uống\nthuốc\nlàm từ cỏ này để vui chơi, đánh trống.",
+      "image_url": "https://jpdictionary.com/upload/images/62adde717aba8.jpg",
+      "image_path": "assets/images/薬_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156620",
+      "lang": "vi",
+      "content_html": "<p>Loại cỏ (艹) làm cho thoải mái, dễ chịu (楽) thì là thuốc (薬)</p>",
+      "content_text": "Loại cỏ (艹) làm cho thoải mái, dễ chịu (楽) thì là thuốc (薬)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156621",
+      "lang": "vi",
+      "content_html": "<p>Chán làm ít Cỏ sẽ thấy Thoải Mái hơn...!</p>",
+      "content_text": "Chán làm ít Cỏ sẽ thấy Thoải Mái hơn...!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156622",
+      "lang": "vi",
+      "content_html": "<p>loại Cỏ làm cho người ta Lạc quan đó là thần Dược</p>",
+      "content_text": "loại Cỏ làm cho người ta Lạc quan đó là thần Dược",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

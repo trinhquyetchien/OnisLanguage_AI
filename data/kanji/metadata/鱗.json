@@ -1,0 +1,37 @@
+{
+  "kanji": "鱗",
+  "meta": {
+    "weight": 2993,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リン"
+    ],
+    "kun": [
+      "うろこ",
+      "こけ",
+      "こけら"
+    ],
+    "am_han": "LÂN"
+  },
+  "meaning": {
+    "vi": "vảy (cá)",
+    "en": "scales (fish)"
+  },
+  "stroke": {
+    "count": 24,
+    "svg": "assets/svg/鱗.svg"
+  },
+  "frequency": 2494,
+  "examples": [
+    "鱗",
+    "片鱗"
+  ],
+  "explanation": {
+    "id": "8183",
+    "text": "鱗 (đọc là \"rin\") có nghĩa là \"vảy\" để chỉ các vảy trên cơ thể cá hoặc một số loài động vật khác.\n\nVí dụ:\n- 鱗粉 (rinpun): Bột vảy, thường dùng trong mỹ phẩm.\n- 鱗状 (rinjō): Hình dạng giống như "
+  },
+  "comments": []
+}

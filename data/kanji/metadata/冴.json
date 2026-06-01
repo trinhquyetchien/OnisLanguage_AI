@@ -1,0 +1,89 @@
+{
+  "kanji": "冴",
+  "meta": {
+    "weight": 290,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴ",
+      "コ"
+    ],
+    "kun": [
+      "さ.える",
+      "こお.る",
+      "ひ.える"
+    ],
+    "am_han": "NGÀ"
+  },
+  "meaning": {
+    "vi": "rõ ràng, thanh thản, lạnh lùng, khéo léo",
+    "en": "be clear, serene, cold, skilful"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/冴.svg"
+  },
+  "frequency": 2341,
+  "examples": [
+    "冴え"
+  ],
+  "explanation": {
+    "id": "2857",
+    "text": "冴 (đọc là \"saka\") có nghĩa là \"rõ ràng\", \"sáng sủa\", thường dùng để chỉ sự trong trẻo, rõ nét của âm thanh hay hình ảnh. \n\nVí dụ:\n- 冴え渡る (saewataru): Rõ ràng, vang vọng.\n- 冴えない (saenai): Khô"
+  },
+  "comments": [
+    {
+      "id": "151922",
+      "lang": "vi",
+      "content_html": "<p>Nha sĩ Băng bó KHÉO LÉO cho NGÀ</p>",
+      "content_text": "Nha sĩ Băng bó KHÉO LÉO cho NGÀ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151923",
+      "lang": "vi",
+      "content_html": "<p>Đóng băng cái răng nha lại để ngọc NGÀ sáng sủa</p>",
+      "content_text": "Đóng băng cái răng nha lại để ngọc NGÀ sáng sủa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151924",
+      "lang": "vi",
+      "content_html": "<p>2 răng dài quá như ngà voi</p>",
+      "content_text": "2 răng dài quá như ngà voi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

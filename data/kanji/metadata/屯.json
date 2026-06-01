@@ -1,0 +1,87 @@
+{
+  "kanji": "屯",
+  "meta": {
+    "weight": 786,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トン"
+    ],
+    "kun": [
+      "たむろ"
+    ],
+    "am_han": "TRUÂN, ĐỒN"
+  },
+  "meaning": {
+    "vi": "doanh trại, đồn cảnh sát, trại, tấn",
+    "en": "barracks, police station, camp, ton"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/屯.svg"
+  },
+  "frequency": 1980,
+  "examples": [
+    "駐屯",
+    "屯"
+  ],
+  "explanation": {
+    "id": "6005",
+    "text": "屯 (đọc là \"ton\") có nghĩa là \"trú đóng\", \"tạm dừng\" để chỉ việc tụ tập, đóng quân hoặc chờ đợi một thời gian nhất định.  \nVí dụ:  \n- 屯所 (tonsho): Nơi trú đóng, trại.  \n- 逗留屯 (tōryū ton): Tạm"
+  },
+  "comments": [
+    {
+      "id": "153130",
+      "lang": "vi",
+      "content_html": "<p>đường đi qua 7 núi rất gian truân</p>",
+      "content_text": "đường đi qua 7 núi rất gian truân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153131",
+      "lang": "vi",
+      "content_html": "<p>họ Đồn rằng vượt qua 7 ngọn Núi rất gian Truân</p>",
+      "content_text": "họ Đồn rằng vượt qua 7 ngọn Núi rất gian Truân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153132",
+      "lang": "vi",
+      "content_html": "<p>San phẳng 7 ngọn núi làm ĐỒN điền</p>",
+      "content_text": "San phẳng 7 ngọn núi làm ĐỒN điền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

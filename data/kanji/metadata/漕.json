@@ -1,0 +1,87 @@
+{
+  "kanji": "漕",
+  "meta": {
+    "weight": 1610,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "こ.ぐ",
+      "はこ.ぶ"
+    ],
+    "am_han": "TÀO"
+  },
+  "meaning": {
+    "vi": "chèo thuyền",
+    "en": "rowing, scull, paddle"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/漕.svg"
+  },
+  "frequency": 2354,
+  "examples": [
+    "漕ぐ"
+  ],
+  "explanation": {
+    "id": "4728",
+    "text": "漕 (đọc là \"sō\") có nghĩa là \"chèo\" hoặc \"lướt\", chỉ hành động chèo thuyền hoặc di chuyển trên nước.  \nVí dụ:  \n- 漕艇 (sōtei): Thuyền đua, chèo thuyền.  \n- 漕ぐ (ogu): Chèo thuyền, lướt đi.  \n- "
+  },
+  "comments": [
+    {
+      "id": "155070",
+      "lang": "vi",
+      "content_html": "<p>vừa Chèo Thuyền(漕) trên Nước( 氵) vừa sáng tác Một(ー) ca KHÚC(曲) mỗi Ngày(日)</p>",
+      "content_text": "vừa Chèo Thuyền(漕) trên Nước( 氵) vừa sáng tác Một(ー) ca KHÚC(曲) mỗi Ngày(日)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155071",
+      "lang": "vi",
+      "content_html": "<p>thằng Tào tháo chèo thuyền trên sông</p>",
+      "content_text": "thằng Tào tháo chèo thuyền trên sông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155072",
+      "lang": "vi",
+      "content_html": "<p>ở dưới nước vừa chèo thuyền (đạp xe) vừa nghe ca khúc của Nam Tào mỗi ngày</p>",
+      "content_text": "ở dưới nước vừa chèo thuyền (đạp xe) vừa nghe ca khúc của Nam Tào mỗi ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

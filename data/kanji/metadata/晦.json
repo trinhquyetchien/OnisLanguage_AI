@@ -1,0 +1,87 @@
+{
+  "kanji": "晦",
+  "meta": {
+    "weight": 1237,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "つごもり",
+      "くら.い",
+      "みそか",
+      "くら.む"
+    ],
+    "am_han": "HỐI"
+  },
+  "meaning": {
+    "vi": "tối tăm, biến mất",
+    "en": "dark, disappear"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/晦.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "786",
+    "text": "晦 (đọc là \"kai\" hoặc \"mitsu\") có nghĩa là \"tối tăm\", \"khuất lấp\", thường dùng để chỉ những điều không rõ ràng hoặc mờ mịt. \n\nVí dụ:\n- 晦日 (kaigetsu): Ngày cuối cùng của tháng âm lịch.\n- 晦気 (k"
+  },
+  "comments": [
+    {
+      "id": "219753",
+      "lang": "vi",
+      "content_html": "<p>MỖI NGÀY đều HỐI lỗi</p>",
+      "content_text": "MỖI NGÀY đều HỐI lỗi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219754",
+      "lang": "vi",
+      "content_html": "<p>ngày cuối năm rồi mau về thôi không thể chậm trễ như mọi ngày</p>",
+      "content_text": "ngày cuối năm rồi mau về thôi không thể chậm trễ như mọi ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219755",
+      "lang": "vi",
+      "content_html": "<p>MẶT TRỜI xuống Biển, HÔI hả về nhà</p>",
+      "content_text": "MẶT TRỜI xuống Biển, HÔI hả về nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

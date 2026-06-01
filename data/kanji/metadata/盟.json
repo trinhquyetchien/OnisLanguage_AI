@@ -1,0 +1,88 @@
+{
+  "kanji": "盟",
+  "meta": {
+    "weight": 1833,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "メイ"
+    ],
+    "kun": [],
+    "am_han": "MINH"
+  },
+  "meaning": {
+    "vi": "liên minh, lời thề",
+    "en": "alliance, oath"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/盟.svg"
+  },
+  "frequency": 587,
+  "examples": [
+    "同盟",
+    "加盟",
+    "連盟",
+    "血盟",
+    "盟友"
+  ],
+  "explanation": {
+    "id": "7553",
+    "text": "盟 (đọc là \"mei\") có nghĩa là \"liên minh\" hoặc \"hội nghị\" để chỉ các thỏa thuận hợp tác giữa các bên.  \nVí dụ:  \n- 盟友 (meiyū): Đồng minh, bạn bè trong liên minh.  \n- 盟約 (meiyaku): Hiệp định, "
+  },
+  "comments": [
+    {
+      "id": "155532",
+      "lang": "vi",
+      "content_html": "<p>Nếu là ĐỒNG MINH thì NGÀY MAI ăn chung một cái ĐĨA</p>",
+      "content_text": "Nếu là ĐỒNG MINH thì NGÀY MAI ăn chung một cái ĐĨA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155533",
+      "lang": "vi",
+      "content_html": "<p>quân đồng Minh sâu xé cái đĩa bánh trung Quốc.</p>",
+      "content_text": "quân đồng Minh sâu xé cái đĩa bánh trung Quốc.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155534",
+      "lang": "vi",
+      "content_html": "<p>Uống chén (皿) rượu ăn Thề, trên có Nhật Nguyệt chứng giám.</p>",
+      "content_text": "Uống chén (皿) rượu ăn Thề, trên có Nhật Nguyệt chứng giám.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

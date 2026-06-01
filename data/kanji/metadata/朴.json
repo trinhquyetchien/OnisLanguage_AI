@@ -1,0 +1,90 @@
+{
+  "kanji": "朴",
+  "meta": {
+    "weight": 1283,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボク"
+    ],
+    "kun": [
+      "ほう",
+      "ほお",
+      "えのき"
+    ],
+    "am_han": "PHÁC"
+  },
+  "meaning": {
+    "vi": "thô sơ, đơn giản, ngoan ngoãn",
+    "en": "crude, simple, plain, docile"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/朴.svg"
+  },
+  "frequency": 1626,
+  "examples": [
+    "素朴",
+    "朴",
+    "純朴"
+  ],
+  "explanation": {
+    "id": "7328",
+    "text": "朴 (đọc là \"boku\" hoặc \"maku\") có nghĩa là \"đơn giản\", \"mộc mạc\". Chữ này thường chỉ sự giản dị, thanh khiết hoặc không phức tạp.\n\nVí dụ:\n- 朴素 (bokusou): Đơn giản, mộc mạc.\n- 朴訥 (bokutotsu): "
+  },
+  "comments": [
+    {
+      "id": "154367",
+      "lang": "vi",
+      "content_html": "<p>Ông Thầy bói CHẤT PHÁC BỐC thuốc từ vỏ Cây</p>",
+      "content_text": "Ông Thầy bói CHẤT PHÁC BỐC thuốc từ vỏ Cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154368",
+      "lang": "vi",
+      "content_html": "<p>Người nông dân chất Phát tè dưới gốc cây</p>",
+      "content_text": "Người nông dân chất Phát tè dưới gốc cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154369",
+      "lang": "vi",
+      "content_html": "<p>Anh ta trả lời chất phác: ボクはホト(朴)です</p>",
+      "content_text": "Anh ta trả lời chất phác: ボクはホト(朴)です",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

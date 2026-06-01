@@ -1,0 +1,73 @@
+{
+  "kanji": "仇",
+  "meta": {
+    "weight": 134,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ",
+      "グ"
+    ],
+    "kun": [
+      "あだ",
+      "あた",
+      "かたき",
+      "つれあい"
+    ],
+    "am_han": "CỪU"
+  },
+  "meaning": {
+    "vi": "kẻ thù, trả thù, mối hận thù, mối thù",
+    "en": "foe, enemy, revenge, grudge, feud"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/仇.svg"
+  },
+  "frequency": 2322,
+  "examples": [
+    "仇"
+  ],
+  "explanation": {
+    "id": "1503",
+    "text": "仇 (đọc là \"kyū\") có nghĩa là \"thù hận\", \"kẻ thù\" để chỉ cảm xúc hoặc mối quan hệ đối kháng giữa người với người.  \nVí dụ:  \n- 仇敵 (kyūteki): Kẻ thù, kẻ địch.  \n- 仇を討つ (kyū o u) : Báo thù.  \n-"
+  },
+  "comments": [
+    {
+      "id": "151524",
+      "lang": "vi",
+      "content_html": "<p>con người  亻 mà 9 九 lòng dạ thì lắm kẻ thù 仇</p>",
+      "content_text": "con người  亻 mà 9 九 lòng dạ thì lắm kẻ thù 仇",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151525",
+      "lang": "vi",
+      "content_html": "<p>Sức lực 九1 Người イnhư Cừu chống kẻ thù</p>",
+      "content_text": "Sức lực 九1 Người イnhư Cừu chống kẻ thù",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

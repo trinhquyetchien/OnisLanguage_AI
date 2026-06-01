@@ -1,0 +1,90 @@
+{
+  "kanji": "姑",
+  "meta": {
+    "weight": 661,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "しゅうとめ",
+      "しゅうと",
+      "おば",
+      "しばらく"
+    ],
+    "am_han": "CÔ"
+  },
+  "meaning": {
+    "vi": "mẹ chồng",
+    "en": "mother-in-law"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/姑.svg"
+  },
+  "frequency": 2041,
+  "examples": [
+    "姑",
+    "姑息"
+  ],
+  "explanation": {
+    "id": "2259",
+    "text": "姑 (đọc là \"shū\" hoặc \"kō\") có nghĩa là \"mẹ chồng\" hoặc \"cô\", để chỉ mối quan hệ gia đình giữa vợ và mẹ chồng, hay một người phụ nữ lớn tuổi trong gia đình. \n\nVí dụ:\n- 姑 (shū): Mẹ chồng.\n- 姑息"
+  },
+  "comments": [
+    {
+      "id": "152821",
+      "lang": "vi",
+      "content_html": "<p>người phụ NỮ mà hơi CỔ mốt chút thì được gọi là CÔ</p>",
+      "content_text": "người phụ NỮ mà hơi CỔ mốt chút thì được gọi là CÔ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152822",
+      "lang": "vi",
+      "content_html": "<p>bà cô cũ là bà cô già, bà cô già là bà mẹ chồng</p>",
+      "content_text": "bà cô cũ là bà cô già, bà cô già là bà mẹ chồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152823",
+      "lang": "vi",
+      "content_html": "<p>mẹ chồng là người phụ nữ có tính cổ hủ</p>",
+      "content_text": "mẹ chồng là người phụ nữ có tính cổ hủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

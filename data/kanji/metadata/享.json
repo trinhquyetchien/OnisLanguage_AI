@@ -1,0 +1,90 @@
+{
+  "kanji": "享",
+  "meta": {
+    "weight": 127,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ",
+      "コウ"
+    ],
+    "kun": [
+      "う.ける"
+    ],
+    "am_han": "HƯỞNG"
+  },
+  "meaning": {
+    "vi": "thưởng thức, nhận, trải qua, trả lời (điện thoại), lấy, bắt",
+    "en": "enjoy, receive, undergo, answer (phone), take, get, catch"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/享.svg"
+  },
+  "frequency": 1893,
+  "examples": [
+    "享受",
+    "享年",
+    "享楽",
+    "享有"
+  ],
+  "explanation": {
+    "id": "1609",
+    "text": "享 (đọc là \"kyou\") có nghĩa là \"hưởng thụ\", \"thụ hưởng\" để chỉ các hành động liên quan đến việc nhận hoặc tận hưởng điều gì đó.\n\nVí dụ:\n- 享受 (kyouju): Hưởng thụ, tận hưởng.\n- 享年 (kyounen): Tu"
+  },
+  "comments": [
+    {
+      "id": "151507",
+      "lang": "vi",
+      "content_html": "<p>con nít thì ko biết lo xa, miệng chỉ biết ăn uống, đầu óc chỉ lo suy nghĩ hưởng thụ</p>",
+      "content_text": "con nít thì ko biết lo xa, miệng chỉ biết ăn uống, đầu óc chỉ lo suy nghĩ hưởng thụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151508",
+      "lang": "vi",
+      "content_html": "<p>ĐẦU tiên dùng MIỆNG dạy TRẺ con HƯỞNG thụ</p>",
+      "content_text": "ĐẦU tiên dùng MIỆNG dạy TRẺ con HƯỞNG thụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151509",
+      "lang": "vi",
+      "content_html": "<p>Đầu óc con ních chỉ biết ăn hưởng thụ</p>",
+      "content_text": "Đầu óc con ních chỉ biết ăn hưởng thụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

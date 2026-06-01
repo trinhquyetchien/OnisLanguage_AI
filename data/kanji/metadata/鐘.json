@@ -1,0 +1,89 @@
+{
+  "kanji": "鐘",
+  "meta": {
+    "weight": 2795,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "かね"
+    ],
+    "am_han": "CHUNG"
+  },
+  "meaning": {
+    "vi": "chuông, chiêng",
+    "en": "bell, gong, chimes"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/鐘.svg"
+  },
+  "frequency": 1681,
+  "examples": [
+    "鐘",
+    "警鐘",
+    "除夜の鐘",
+    "鐘楼"
+  ],
+  "explanation": {
+    "id": "3933",
+    "text": "鐘 (đọc là \"shō\" hoặc \"kan\") có nghĩa là \"chuông\", thường chỉ các loại chuông được dùng trong đền thờ, nhà thờ hoặc để báo hiệu thời gian.  \nVí dụ:  \n- 鐘楼 (shōrō): Tháp chuông.  \n- 鐘声 (shōsei"
+  },
+  "comments": [
+    {
+      "id": "157616",
+      "lang": "vi",
+      "content_html": "<p>Trẻ con nhi đồng chơi chuông kim loại</p>",
+      "content_text": "Trẻ con nhi đồng chơi chuông kim loại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157617",
+      "lang": "vi",
+      "content_html": "<p>NHI ĐỒNG CHUNG TIỀN đúc CHUÔNG</p>",
+      "content_text": "NHI ĐỒNG CHUNG TIỀN đúc CHUÔNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157618",
+      "lang": "vi",
+      "content_html": "<p>Đứng trước cả làng quyên tiền để đúc chuông</p>",
+      "content_text": "Đứng trước cả làng quyên tiền để đúc chuông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

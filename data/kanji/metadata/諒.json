@@ -1,0 +1,68 @@
+{
+  "kanji": "諒",
+  "meta": {
+    "weight": 2506,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [
+      "あきら.か",
+      "まことに"
+    ],
+    "am_han": "LƯỢNG"
+  },
+  "meaning": {
+    "vi": "thực tế, hiểu, đánh giá cao",
+    "en": "fact, reality, understand, appreciate"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/諒.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8135",
+    "text": "諒 (đọc là \"ryō\") có nghĩa là \"thông cảm\", \"hiểu biết\" để chỉ việc nhận thức và thông cảm với tình huống hoặc cảm xúc của người khác.\n\nVí dụ:\n- 諒解 (ryōkai): Sự hiểu biết, thông cảm.\n- 諒察 (ryō"
+  },
+  "comments": [
+    {
+      "id": "220706",
+      "lang": "vi",
+      "content_html": "<p>Nói về kinh đô có j sai xin đc LƯỢNG thứ</p>",
+      "content_text": "Nói về kinh đô có j sai xin đc LƯỢNG thứ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220707",
+      "lang": "vi",
+      "content_html": "<p>có kinh tế nói gì cũng có trọng lượng</p>",
+      "content_text": "có kinh tế nói gì cũng có trọng lượng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

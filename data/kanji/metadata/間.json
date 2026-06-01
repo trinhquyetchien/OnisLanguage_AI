@@ -1,0 +1,110 @@
+{
+  "kanji": "間",
+  "meta": {
+    "weight": 2807,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン",
+      "ケン"
+    ],
+    "kun": [
+      "あいだ",
+      "ま",
+      "あい"
+    ],
+    "am_han": "GIAN"
+  },
+  "meaning": {
+    "vi": "khoảng thời gian",
+    "en": "interval, space"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/間.svg"
+  },
+  "frequency": 33,
+  "examples": [
+    "時間",
+    "人間",
+    "間",
+    "年間",
+    "期間"
+  ],
+  "explanation": {
+    "id": "1190",
+    "text": "間 (đọc là \"kan\" hoặc \"ma\") có nghĩa là \"khoảng cách\", \"thời gian\", hoặc \"không gian\" để chỉ các khía cạnh liên quan đến sự phân chia giữa hai điểm, hoặc khoảng thời gian giữa các sự kiện.\n\nV"
+  },
+  "comments": [
+    {
+      "id": "530",
+      "lang": "vi",
+      "content_html": "<p>Ta có thể thấy mặt trời <strong>giữa </strong>hai cánh cổng.</p>",
+      "content_text": "Ta có thể thấy mặt trời\ngiữa\nhai cánh cổng.",
+      "image_url": "https://jpdictionary.com/upload/images/62976962c9cdb.jpg",
+      "image_path": "assets/images/間_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157635",
+      "lang": "vi",
+      "content_html": "<p>Mặt trời mọc giữa cổng.</p>",
+      "content_text": "Mặt trời mọc giữa cổng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158338",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>時間 (じかん): thời gian<br>〜時間 (じかん): ~ tiếng (đồng hồ)<br>何時間 (なんじかん): bao nhiêu (mấy) tiếng (đồng hồ)<br>間 (あいだ): giữa</p>",
+      "content_text": "JLPT N5\n時間 (じかん): thời gian\n〜時間 (じかん): ~ tiếng (đồng hồ)\n何時間 (なんじかん): bao nhiêu (mấy) tiếng (đồng hồ)\n間 (あいだ): giữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "157636",
+      "lang": "vi",
+      "content_html": "<p>Ở Nhật 日 có cánh cổng 門 thời gian 間 (Doreamon)</p>",
+      "content_text": "Ở Nhật 日 có cánh cổng 門 thời gian 間 (Doreamon)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

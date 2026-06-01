@@ -1,0 +1,107 @@
+{
+  "kanji": "卵",
+  "meta": {
+    "weight": 404,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ラン"
+    ],
+    "kun": [
+      "たまご"
+    ],
+    "am_han": "NOÃN"
+  },
+  "meaning": {
+    "vi": "trứng",
+    "en": "egg, ovum, spawn, roe"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/卵.svg"
+  },
+  "frequency": 1342,
+  "examples": [
+    "卵",
+    "産卵",
+    "卵子",
+    "受精卵",
+    "卵巣"
+  ],
+  "explanation": {
+    "id": "7974",
+    "text": "卵 (đọc là \"ran\") có nghĩa là \"trứng\", chỉ các loại trứng, đặc biệt là trứng động vật.  \nVí dụ:  \n- 卵焼き (tamagoyaki): Trứng cuộn Nhật Bản.  \n- 鶏卵 (ke"
+  },
+  "comments": [
+    {
+      "id": "37002",
+      "lang": "vi",
+      "content_html": "<p>Hãy làm vỡ <strong>quả trứng</strong>!</p>",
+      "content_text": "Hãy làm vỡ\nquả trứng\n!",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4ef254a8c.jpg",
+      "image_path": "assets/images/卵_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152207",
+      "lang": "vi",
+      "content_html": "<p>Nhìn giống chữ g vs chữ p . =&#62; Giải Phóng  2 hạt NOÃN từ buồng trứng</p>",
+      "content_text": "Nhìn giống chữ g vs chữ p . => Giải Phóng  2 hạt NOÃN từ buồng trứng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152208",
+      "lang": "vi",
+      "content_html": "<p>Tượng hình: Giống một quả trứng đang bị tách làm đôi, lòng trắng và lòng đỏ đang chảy xuống (chảo).<br>..性..</p>",
+      "content_text": "Tượng hình: Giống một quả trứng đang bị tách làm đôi, lòng trắng và lòng đỏ đang chảy xuống (chảo).\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152209",
+      "lang": "vi",
+      "content_html": "<p>Hãy đập vỡ quả trứng</p>",
+      "content_text": "Hãy đập vỡ quả trứng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

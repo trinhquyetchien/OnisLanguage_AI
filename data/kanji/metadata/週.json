@@ -1,0 +1,71 @@
+{
+  "kanji": "週",
+  "meta": {
+    "weight": 2665,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [],
+    "am_han": "CHU"
+  },
+  "meaning": {
+    "vi": "tuần",
+    "en": "week"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/週.svg"
+  },
+  "frequency": 540,
+  "examples": [
+    "週間",
+    "週",
+    "今週",
+    "先週",
+    "週末"
+  ],
+  "explanation": {
+    "id": "3528",
+    "text": "週 (đọc là \"shū\") có nghĩa là \"tuần\", chỉ khoảng thời gian 7 ngày.  \nVí dụ:  \n- 週間 (shūkan): Tuần lễ.  \n- 週末 (shūmatsu): Cuối tuần.  \n- 毎週 (maishū): Mỗi tuần."
+  },
+  "comments": [
+    {
+      "id": "702",
+      "lang": "vi",
+      "content_html": "<p>Mất 1 <strong>tuần </strong>(週) để đi vòng quanh (周) con đường này.</p>",
+      "content_text": "Mất 1\ntuần\n(週) để đi vòng quanh (周) con đường này.",
+      "image_url": "https://jpdictionary.com/upload/images/629839ea588e0.jpg",
+      "image_path": "assets/images/週_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158567",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>毎週 (まいしゅう): mỗi tuần</p><p>先週 (せんしゅう): tuần trước</p><p>今週 (こんしゅう): tuần này</p><p>来週 (らいしゅう): tuần sau</p><p>再来週 (さらいしゅう): tuần sau nữa</p>",
+      "content_text": "JLPT N4\n毎週 (まいしゅう): mỗi tuần\n先週 (せんしゅう): tuần trước\n今週 (こんしゅう): tuần này\n来週 (らいしゅう): tuần sau\n再来週 (さらいしゅう): tuần sau nữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

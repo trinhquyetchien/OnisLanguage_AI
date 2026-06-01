@@ -1,0 +1,90 @@
+{
+  "kanji": "蜂",
+  "meta": {
+    "weight": 2387,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "はち"
+    ],
+    "am_han": "PHONG"
+  },
+  "meaning": {
+    "vi": "ong, ong bắp cày",
+    "en": "bee, wasp, hornet"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/蜂.svg"
+  },
+  "frequency": 2223,
+  "examples": [
+    "蜂",
+    "蜂起",
+    "蜂蜜",
+    "蜜蜂",
+    "蜂の巣"
+  ],
+  "explanation": {
+    "id": "7214",
+    "text": "蜂 (đọc là \"hachi\") có nghĩa là \"ong\", chỉ các loài côn trùng thuộc họ Ong, thường liên quan đến sự chăm chỉ, sản xuất mật hoặc đốt.\n\nVí dụ:\n- 蜂蜜 (hachimitsu): Mật ong.\n- 蜂の巣 (hachi no su): T"
+  },
+  "comments": [
+    {
+      "id": "156676",
+      "lang": "vi",
+      "content_html": "<p>PHONG cho loài côn trung bay đi bay lại 3 lần là con ong</p>",
+      "content_text": "PHONG cho loài côn trung bay đi bay lại 3 lần là con ong",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156677",
+      "lang": "vi",
+      "content_html": "<p>Côn trùng dạng chân có ba gạch cộng thêm cái đuôi ở giữa là con ong</p>",
+      "content_text": "Côn trùng dạng chân có ba gạch cộng thêm cái đuôi ở giữa là con ong",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156678",
+      "lang": "vi",
+      "content_html": "<p>Con côn trùng có 3 vạch trên lưng,cái kim ở giữa,vắt chéo chân lúc bay đó là con ong</p>",
+      "content_text": "Con côn trùng có 3 vạch trên lưng,cái kim ở giữa,vắt chéo chân lúc bay đó là con ong",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

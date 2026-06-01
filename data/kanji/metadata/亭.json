@@ -1,0 +1,87 @@
+{
+  "kanji": "亭",
+  "meta": {
+    "weight": 129,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ",
+      "チン"
+    ],
+    "kun": [],
+    "am_han": "ĐÌNH"
+  },
+  "meaning": {
+    "vi": "gian hàng, nhà hàng, biệt thự, arbor, nhà tranh, tạp kỹ, hội trường âm nhạc, nghệ danh",
+    "en": "pavilion, restaurant, mansion, arbor, cottage, vaudeville, music hall, stage name"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/亭.svg"
+  },
+  "frequency": 1627,
+  "examples": [
+    "亭",
+    "亭主",
+    "料亭"
+  ],
+  "explanation": {
+    "id": "5520",
+    "text": "亭 (đọc là \"tei\") có nghĩa là \"gian hàng\", \"tiệm\" hoặc \"nhà nghỉ\" để chỉ những nơi nghỉ ngơi, thư giãn thường ở công viên hoặc khu du lịch.  \nVí dụ:  \n- 亭主 (teishu): Chủ quán, người điều hành"
+  },
+  "comments": [
+    {
+      "id": "151513",
+      "lang": "vi",
+      "content_html": "<p>đình thì không cao nhưng đinh thì nhiều.</p>",
+      "content_text": "đình thì không cao nhưng đinh thì nhiều.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151514",
+      "lang": "vi",
+      "content_html": "<p>Người nào mà Cao (高) thì không dùng miệng ( 口) để chỉ huy mà phải dùng sức lấy Đinh đóng Đình</p>",
+      "content_text": "Người nào mà Cao (高) thì không dùng miệng ( 口) để chỉ huy mà phải dùng sức lấy Đinh đóng Đình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151515",
+      "lang": "vi",
+      "content_html": "<p>Đình Cao nhờ có Đinh chống</p>",
+      "content_text": "Đình Cao nhờ có Đinh chống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

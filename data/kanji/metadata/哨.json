@@ -1,0 +1,35 @@
+{
+  "kanji": "哨",
+  "meta": {
+    "weight": 487,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "みはり"
+    ],
+    "am_han": "TIẾU, TIÊU, SÁO"
+  },
+  "meaning": {
+    "vi": "trinh sát, lính canh",
+    "en": "scout, sentinel"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/哨.svg"
+  },
+  "frequency": 1999,
+  "examples": [
+    "前哨",
+    "哨戒"
+  ],
+  "explanation": {
+    "id": "3762",
+    "text": "哨 (đọc là \"shou\") có nghĩa là \"còi\" hoặc \"trạm canh\", chỉ các hành động liên quan đến việc cảnh báo hoặc giám sát.  \nVí dụ:  \n- 哨兵 (shouhei): Người lính gác, trạm canh.  \n- 哨音 (shouon): Âm t"
+  },
+  "comments": []
+}

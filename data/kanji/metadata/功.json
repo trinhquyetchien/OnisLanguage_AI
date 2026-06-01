@@ -1,0 +1,91 @@
+{
+  "kanji": "功",
+  "meta": {
+    "weight": 344,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ク"
+    ],
+    "kun": [
+      "いさお"
+    ],
+    "am_han": "CÔNG"
+  },
+  "meaning": {
+    "vi": "thành tích, công lao, thành công, danh dự, tín dụng",
+    "en": "achievement, merits, success, honor, credit"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/功.svg"
+  },
+  "frequency": 857,
+  "examples": [
+    "成功",
+    "功",
+    "功績",
+    "気功",
+    "功名"
+  ],
+  "explanation": {
+    "id": "2387",
+    "text": "功 (đọc là \"kou\") có nghĩa là \"công lao\", \"thành tích\" để chỉ những thành tựu hoặc kết quả đạt được từ nỗ lực, lao động.\n\nVí dụ:\n- 功績 (kouseki): Thành tích, công lao.\n- 功夫 (koufu): Công phu, "
+  },
+  "comments": [
+    {
+      "id": "152064",
+      "lang": "vi",
+      "content_html": "<p>Có công lực sẽ có thành công</p>",
+      "content_text": "Có công lực sẽ có thành công",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152065",
+      "lang": "vi",
+      "content_html": "<p>CÔNG SỨC bỏ ra nhiều thì sẽ THÀNH CÔNG ...</p>",
+      "content_text": "CÔNG SỨC bỏ ra nhiều thì sẽ THÀNH CÔNG ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152066",
+      "lang": "vi",
+      "content_html": "<p>Công lực là công lao có ích</p>",
+      "content_text": "Công lực là công lao có ích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

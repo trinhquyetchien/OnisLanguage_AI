@@ -1,0 +1,91 @@
+{
+  "kanji": "南",
+  "meta": {
+    "weight": 393,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ナン",
+      "ナ"
+    ],
+    "kun": [
+      "みなみ"
+    ],
+    "am_han": "NAM"
+  },
+  "meaning": {
+    "vi": "phía nam",
+    "en": "south"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/南.svg"
+  },
+  "frequency": 341,
+  "examples": [
+    "南",
+    "南部",
+    "東南アジア",
+    "南北",
+    "南米"
+  ],
+  "explanation": {
+    "id": "6073",
+    "text": "南 (đọc là \"nan\" hoặc \"minami\") có nghĩa là \"phía nam\", chỉ hướng hoặc vị trí địa lý phía nam.  \nVí dụ:  \n- 南風 (nanpū): Gió nam.  \n- 南極 (Nankyoku): Nam Cực.  \n- 南部 (nanbu): Khu vực phía nam."
+  },
+  "comments": [
+    {
+      "id": "535",
+      "lang": "vi",
+      "content_html": "<p>2 cây mọc trong vườn quay về hướng <strong>nam</strong>.</p>",
+      "content_text": "2 cây mọc trong vườn quay về hướng\nnam\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629769def0290.jpg",
+      "image_path": "assets/images/南_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152181",
+      "lang": "vi",
+      "content_html": "<p>Quanh hướng nam có 10 con dê cụt chân</p>",
+      "content_text": "Quanh hướng nam có 10 con dê cụt chân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158446",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>南 (みなみ): phía nam</p>",
+      "content_text": "JLPT N5\n南 (みなみ): phía nam",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

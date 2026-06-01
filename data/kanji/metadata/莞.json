@@ -1,0 +1,50 @@
+{
+  "kanji": "莞",
+  "meta": {
+    "weight": 2287,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "い"
+    ],
+    "am_han": "HOÀN, HOẢN"
+  },
+  "meaning": {
+    "vi": "mỉm cười, cây sậy được sử dụng để che tatami",
+    "en": "smiling, reed used to cover tatami"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/莞.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1177",
+    "text": "莞 (đọc là \"gan\") có nghĩa là \"cỏ\" hoặc \"thảo mộc\", thường liên quan đến sự mềm mại, duyên dáng. \n\nVí dụ:\n- 莞爾 (gan'ni): Duyên dáng, nhẹ nhàng.\n- 莞香 (ganshō): Hương thơm của cỏ, chủ yếu ám ch"
+  },
+  "comments": [
+    {
+      "id": "220537",
+      "lang": "vi",
+      "content_html": "<p>Cỏ hoàn toàn khoẻ mạnh</p>",
+      "content_text": "Cỏ hoàn toàn khoẻ mạnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

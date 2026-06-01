@@ -1,0 +1,87 @@
+{
+  "kanji": "繭",
+  "meta": {
+    "weight": 2119,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "まゆ",
+      "きぬ"
+    ],
+    "am_han": "KIỂN"
+  },
+  "meaning": {
+    "vi": "cái kén",
+    "en": "cocoon"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/繭.svg"
+  },
+  "frequency": 2495,
+  "examples": [
+    "繭"
+  ],
+  "explanation": {
+    "id": "7445",
+    "text": "繭 (đọc là \"ken\" hoặc \"ma\") có nghĩa là \"kén\", chỉ đến cấu trúc mà sâu bướm tạo ra để phát triển thành bướm. \n\nVí dụ:\n- 繭玉 (kayudama): Kén, quả kén.\n- 絹繭 (kin'en): Kén tơ (kén làm từ tơ tằm)."
+  },
+  "comments": [
+    {
+      "id": "156160",
+      "lang": "vi",
+      "content_html": "<p>“ Kén tằm dưới đám cỏ xanh<br>Mịch trùng tả hữu phân tranh rạch ròi.”</p>",
+      "content_text": "“ Kén tằm dưới đám cỏ xanh\nMịch trùng tả hữu phân tranh rạch ròi.”",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156161",
+      "lang": "vi",
+      "content_html": "<p>côn Trùng nhả tơ bảo vệ kén tằm ngăn cách với đồng cỏ để tránh Kiến (Kiển)</p>",
+      "content_text": "côn Trùng nhả tơ bảo vệ kén tằm ngăn cách với đồng cỏ để tránh Kiến (Kiển)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156162",
+      "lang": "vi",
+      "content_html": "<p>KIẾN sống trên Cỏ Chỉ ăn KÉN</p>",
+      "content_text": "KIẾN sống trên Cỏ Chỉ ăn KÉN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

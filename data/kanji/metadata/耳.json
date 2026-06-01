@@ -1,0 +1,73 @@
+{
+  "kanji": "耳",
+  "meta": {
+    "weight": 2154,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "みみ"
+    ],
+    "am_han": "NHĨ"
+  },
+  "meaning": {
+    "vi": "tai",
+    "en": "ear"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/耳.svg"
+  },
+  "frequency": 1328,
+  "examples": [
+    "耳",
+    "耳元",
+    "耳鳴り",
+    "耳鼻科",
+    "耳障り"
+  ],
+  "explanation": {
+    "id": "3227",
+    "text": "耳 (đọc là \"ji\" hoặc \"mimi\") có nghĩa là \"tai\", để chỉ bộ phận nghe và cảm nhận âm thanh trong cơ thể.  \nVí dụ:  \n- 耳朶 (eToro): Lob tai.  \n- 耳掃除 (mimisōji): Làm sạch tai.  \n- 耳鳴り (miminari): "
+  },
+  "comments": [
+    {
+      "id": "688",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của cái <strong>tai</strong>.<br>&nbsp;</p>",
+      "content_text": "Hình dạng của cái\ntai\n.",
+      "image_url": "https://jpdictionary.com/upload/images/6298370aa168f.jpg",
+      "image_path": "assets/images/耳_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156241",
+      "lang": "vi",
+      "content_html": "<p>Một mắt hai tai.</p>",
+      "content_text": "Một mắt hai tai.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

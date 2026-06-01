@@ -1,0 +1,90 @@
+{
+  "kanji": "容",
+  "meta": {
+    "weight": 731,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "い.れる"
+    ],
+    "am_han": "DUNG"
+  },
+  "meaning": {
+    "vi": "chứa, nội dung",
+    "en": "contain, form, looks"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/容.svg"
+  },
+  "frequency": 264,
+  "examples": [
+    "内容",
+    "容疑",
+    "容易",
+    "美容",
+    "容量"
+  ],
+  "explanation": {
+    "id": "7848",
+    "text": "容 (đọc là \"yō\" hoặc \"naru\") có nghĩa là \"chấp nhận\", \"sự rộng lượng\" hoặc \"hình thức, dung mạo\". Nó thường chỉ các khía cạnh liên quan đến sự chấp thuận, tôn trọng hoặc bề ngoài.\n\nVí dụ:\n- 容"
+  },
+  "comments": [
+    {
+      "id": "152983",
+      "lang": "vi",
+      "content_html": "<p>Bài thơ viết thung lũng dưới mái nhà có nội DUNG hay</p>",
+      "content_text": "Bài thơ viết thung lũng dưới mái nhà có nội DUNG hay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152984",
+      "lang": "vi",
+      "content_html": "<p>CỐC trong NHÀ chứa DUNG dịch</p>",
+      "content_text": "CỐC trong NHÀ chứa DUNG dịch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152985",
+      "lang": "vi",
+      "content_html": "<p>Cái NHÀ mà chứa được cả THUNG LŨNG(CỐC) thì thật là bao DUNG</p>",
+      "content_text": "Cái NHÀ mà chứa được cả THUNG LŨNG(CỐC) thì thật là bao DUNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

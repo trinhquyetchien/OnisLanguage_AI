@@ -1,0 +1,90 @@
+{
+  "kanji": "腕",
+  "meta": {
+    "weight": 2204,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ワン"
+    ],
+    "kun": [
+      "うで"
+    ],
+    "am_han": "OẢN"
+  },
+  "meaning": {
+    "vi": "cánh tay",
+    "en": "arm, ability, talent"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/腕.svg"
+  },
+  "frequency": 1163,
+  "examples": [
+    "腕",
+    "腕時計",
+    "手腕",
+    "右腕",
+    "左腕"
+  ],
+  "explanation": {
+    "id": "8439",
+    "text": "腕 (đọc là \"wan\") có nghĩa là \"cánh tay\", chỉ phần cơ thể từ vai đến bàn tay, thường liên quan đến sức mạnh và khả năng vận động.  \nVí dụ:  \n- 腕時計 (udewatchi): Đồng hồ đeo tay.  \n- 腕力 (wariry"
+  },
+  "comments": [
+    {
+      "id": "156353",
+      "lang": "vi",
+      "content_html": "<p>trăng lên đã khuya rồi, trong nhà tối như dạ nên em ngồi chống tay chờ</p>",
+      "content_text": "trăng lên đã khuya rồi, trong nhà tối như dạ nên em ngồi chống tay chờ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156354",
+      "lang": "vi",
+      "content_html": "<p>Ánh trăng lên cao lọt qua khe hở trên mái nhà, chiếu vào căn phòng tối, nơi có 2 người đang vừa quỳ vừa chơi oản tù tì, ai thua thì sẽ...</p>",
+      "content_text": "Ánh trăng lên cao lọt qua khe hở trên mái nhà, chiếu vào căn phòng tối, nơi có 2 người đang vừa quỳ vừa chơi oản tù tì, ai thua thì sẽ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156355",
+      "lang": "vi",
+      "content_html": "<p>phần THỊT có thể luồng dưới MÁI NHÀ trong ĐÊM TỊCH để cứu CÂY TRE GÃY  --  là CÁNH TAY có TAY NGHỀ</p>",
+      "content_text": "phần THỊT có thể luồng dưới MÁI NHÀ trong ĐÊM TỊCH để cứu CÂY TRE GÃY  --  là CÁNH TAY có TAY NGHỀ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

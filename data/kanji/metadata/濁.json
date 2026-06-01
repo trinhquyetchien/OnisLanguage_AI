@@ -1,0 +1,91 @@
+{
+  "kanji": "濁",
+  "meta": {
+    "weight": 1628,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダク",
+      "ジョク"
+    ],
+    "kun": [
+      "にご.る",
+      "にご.す"
+    ],
+    "am_han": "TRỌC, TRẠC"
+  },
+  "meaning": {
+    "vi": "lên tiếng, ô uế, sai lầm, nigori, tạp chất",
+    "en": "voiced, uncleanness, wrong, nigori, impurity"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/濁.svg"
+  },
+  "frequency": 1883,
+  "examples": [
+    "汚濁",
+    "濁り",
+    "濁す",
+    "白濁"
+  ],
+  "explanation": {
+    "id": "5051",
+    "text": "濁 (đọc là \"daku\") có nghĩa là \"mờ đục\", \"không trong sáng\" để chỉ trạng thái của nước hoặc âm thanh không rõ ràng, trong trẻo.  \nVí dụ:  \n- 濁流 (dakuryū): Dòng nước đục, dòng chảy mờ.  \n- 濁音 "
+  },
+  "comments": [
+    {
+      "id": "155113",
+      "lang": "vi",
+      "content_html": "<p>Mắt nhìn theo còn côn trùng khuấy đục bao cả 1 vũng nước</p>",
+      "content_text": "Mắt nhìn theo còn côn trùng khuấy đục bao cả 1 vũng nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155114",
+      "lang": "vi",
+      "content_html": "<p>Nước mà bị Bao bọc bởi Côn trùng thì sẽ bị vẫn Đục</p>",
+      "content_text": "Nước mà bị Bao bọc bởi Côn trùng thì sẽ bị vẫn Đục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155115",
+      "lang": "vi",
+      "content_html": "<p>mắt nhìn nước bị bao bọc bởi côn trùng làm cho vẩn đục</p>",
+      "content_text": "mắt nhìn nước bị bao bọc bởi côn trùng làm cho vẩn đục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

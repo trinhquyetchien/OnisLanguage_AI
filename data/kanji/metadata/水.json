@@ -1,0 +1,91 @@
+{
+  "kanji": "水",
+  "meta": {
+    "weight": 1480,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "みず",
+      "みず-"
+    ],
+    "am_han": "THỦY"
+  },
+  "meaning": {
+    "vi": "nước",
+    "en": "water"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/水.svg"
+  },
+  "frequency": 223,
+  "examples": [
+    "水",
+    "水準",
+    "清水",
+    "水曜日",
+    "水道"
+  ],
+  "explanation": {
+    "id": "4214",
+    "text": "水 (đọc là \"mizu\") có nghĩa là \"nước\", chỉ chất lỏng cần thiết cho sự sống và nhiều hoạt động khác.\n\nVí dụ:\n- 水道 (suidō): Hệ thống cấp nước, đường ống nước.\n- 水着 (mizugi): Đồ bơi.\n- 湿水 (shits"
+  },
+  "comments": [
+    {
+      "id": "480",
+      "lang": "vi",
+      "content_html": "<p>Thác nước phun <strong>nước</strong></p>",
+      "content_text": "Thác nước phun\nnước",
+      "image_url": "https://jpdictionary.com/upload/images/62976359eb0b1.jpg",
+      "image_path": "assets/images/水_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154751",
+      "lang": "vi",
+      "content_html": "<p>Dòng nước chảy qua hai khe núi.</p>",
+      "content_text": "Dòng nước chảy qua hai khe núi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158433",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>水 (みず): nước<br>水よう日 (すいようび): Thứ Tư</p>",
+      "content_text": "JLPT N5\n水 (みず): nước\n水よう日 (すいようび): Thứ Tư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

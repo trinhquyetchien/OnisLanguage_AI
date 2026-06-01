@@ -1,0 +1,92 @@
+{
+  "kanji": "文",
+  "meta": {
+    "weight": 1184,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ブン",
+      "モン"
+    ],
+    "kun": [
+      "ふみ",
+      "あや"
+    ],
+    "am_han": "VĂN"
+  },
+  "meaning": {
+    "vi": "văn học",
+    "en": "sentence, literature, style, art, decoration, figures, plan, literary radical (no. 67)"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/文.svg"
+  },
+  "frequency": 190,
+  "examples": [
+    "文化",
+    "文字",
+    "文章",
+    "文",
+    "注文"
+  ],
+  "explanation": {
+    "id": "6977",
+    "text": "文 (đọc là \"bun\" hoặc \"mon\") có nghĩa là \"văn bản\", \"văn chương\", \"ngôn ngữ\" để chỉ các khía cạnh liên quan đến viết lách và giao tiếp bằng chữ.  \nVí dụ:  \n- 文学 (bungaku): Văn học.  \n- 文書 (bu"
+  },
+  "comments": [
+    {
+      "id": "191034",
+      "lang": "vi",
+      "content_html": "<p><strong>văn chương</strong></p>",
+      "content_text": "văn chương",
+      "image_url": "https://jpdictionary.com/upload/images/648a907d5c126.jpg",
+      "image_path": "assets/images/文_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "1016",
+      "lang": "vi",
+      "content_html": "<p><strong>Câu văn</strong> trên chiếc bình cổ.</p>",
+      "content_text": "Câu văn\ntrên chiếc bình cổ.",
+      "image_url": "https://jpdictionary.com/upload/images/62a0a667a91fc.png",
+      "image_path": "assets/images/文_2.png",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158313",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>作文 (さくぶん): bài văn<br>文章 (ぶんしょう): câu<br>文化 (ぶんか): văn hóa<br>文学 (ぶんがく): văn học<br>文法 (ぶんぽう): ngữ pháp<br>論文 (ろんぶん): luận văn</p>",
+      "content_text": "JLPT N4\n作文 (さくぶん): bài văn\n文章 (ぶんしょう): câu\n文化 (ぶんか): văn hóa\n文学 (ぶんがく): văn học\n文法 (ぶんぽう): ngữ pháp\n論文 (ろんぶん): luận văn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

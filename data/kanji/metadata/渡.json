@@ -1,0 +1,92 @@
+{
+  "kanji": "渡",
+  "meta": {
+    "weight": 1575,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ト"
+    ],
+    "kun": [
+      "わた.る",
+      "-わた.る",
+      "わた.す"
+    ],
+    "am_han": "ĐỘ"
+  },
+  "meaning": {
+    "vi": "đi qua, truyền tay",
+    "en": "transit, ford, ferry, cross, import, deliver, diameter, migrate"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/渡.svg"
+  },
+  "frequency": 446,
+  "examples": [
+    "渡し",
+    "譲渡",
+    "渡る",
+    "渡り",
+    "渡す"
+  ],
+  "explanation": {
+    "id": "5724",
+    "text": "渡 (đọc là \"渡る\" - wataru) có nghĩa là \"vượt qua\", \"băng qua\", thường được dùng để chỉ hành động vượt qua một vật thể như sông, cầu.  \nVí dụ:  \n- 渡河 (toka): Vượt sông.  \n- 渡船 (dosen): Tàu phà,"
+  },
+  "comments": [
+    {
+      "id": "154978",
+      "lang": "vi",
+      "content_html": "<p>Đi nhiều lần băng qua nước bằng phà</p>",
+      "content_text": "Đi nhiều lần băng qua nước bằng phà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154979",
+      "lang": "vi",
+      "content_html": "<p>Nhiệt ĐỘ ngoài trời thường VƯỢT cao hơn nhiệt ĐỘ dưới nước</p>",
+      "content_text": "Nhiệt ĐỘ ngoài trời thường VƯỢT cao hơn nhiệt ĐỘ dưới nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154980",
+      "lang": "vi",
+      "content_html": "<p>Thuỷ độ ta qua đò</p>",
+      "content_text": "Thuỷ độ ta qua đò",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

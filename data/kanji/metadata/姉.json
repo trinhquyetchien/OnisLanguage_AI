@@ -1,0 +1,91 @@
+{
+  "kanji": "姉",
+  "meta": {
+    "weight": 658,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "あね",
+      "はは"
+    ],
+    "am_han": "TỈ"
+  },
+  "meaning": {
+    "vi": "chị gái",
+    "en": "elder sister"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/姉.svg"
+  },
+  "frequency": 1473,
+  "examples": [
+    "姉",
+    "姉妹",
+    "姉さん",
+    "姉ちゃん",
+    "従姉妹"
+  ],
+  "explanation": {
+    "id": "3070",
+    "text": "姉 (đọc là \"ane\") có nghĩa là \"chị\" trong tiếng Nhật, dùng để chỉ người chị em gái trong gia đình. \n\nVí dụ:\n- 姉妹 (shimai): Chị em.\n- 姉貴 (aneki): Chị (gọi thân mật).\n- 姉さん (nēsan): Chị (cách g"
+  },
+  "comments": [
+    {
+      "id": "939",
+      "lang": "vi",
+      "content_html": "<p><strong>Chị (姉) </strong>tôi là người phụ nữ (女) sống ở thành thị (市).</p>",
+      "content_text": "Chị (姉)\ntôi là người phụ nữ (女) sống ở thành thị (市).",
+      "image_url": "https://jpdictionary.com/upload/images/6298c8727677d.jpg",
+      "image_path": "assets/images/姉_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190967",
+      "lang": "vi",
+      "content_html": "<p><strong>chị gái</strong></p>",
+      "content_text": "chị gái",
+      "image_url": "https://jpdictionary.com/upload/images/648a7d5d3aed5.jpg",
+      "image_path": "assets/images/姉_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "152816",
+      "lang": "vi",
+      "content_html": "<p>TỈ như là người phụ nữ của thành phố này vậy</p>",
+      "content_text": "TỈ như là người phụ nữ của thành phố này vậy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

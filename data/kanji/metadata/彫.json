@@ -1,0 +1,91 @@
+{
+  "kanji": "彫",
+  "meta": {
+    "weight": 914,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "ほ.る",
+      "-ぼ.り"
+    ],
+    "am_han": "ĐIÊU"
+  },
+  "meaning": {
+    "vi": "chạm khắc, đục đẽo",
+    "en": "carve, engrave, chisel"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/彫.svg"
+  },
+  "frequency": 1533,
+  "examples": [
+    "彫刻",
+    "浮き彫り",
+    "彫り",
+    "彫像",
+    "木彫"
+  ],
+  "explanation": {
+    "id": "5352",
+    "text": "彫 (đọc là \"chō\") có nghĩa là \"khắc\", \"điêu khắc\" để chỉ các hành động liên quan đến việc tạo hình, trang trí bằng cách khắc chạm.  \nVí dụ:  \n- 彫刻 (chōkoku): Điêu khắc, nghệ thuật khắc.  \n- 彫"
+  },
+  "comments": [
+    {
+      "id": "153437",
+      "lang": "vi",
+      "content_html": "<p>Chu chỉ nhược để tóc đuôi Sam nhìn rất Điêu</p>",
+      "content_text": "Chu chỉ nhược để tóc đuôi Sam nhìn rất Điêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153438",
+      "lang": "vi",
+      "content_html": "<p>cào xung quanh -&#62; điêu khắc</p>",
+      "content_text": "cào xung quanh -> điêu khắc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153439",
+      "lang": "vi",
+      "content_html": "<p>Cho cả Tuần mà ĐIÊU khắc được có Mái tóc 3 đường</p>",
+      "content_text": "Cho cả Tuần mà ĐIÊU khắc được có Mái tóc 3 đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

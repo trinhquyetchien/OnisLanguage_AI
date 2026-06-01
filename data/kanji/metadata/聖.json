@@ -1,0 +1,91 @@
+{
+  "kanji": "聖",
+  "meta": {
+    "weight": 2157,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "ひじり"
+    ],
+    "am_han": "THÁNH"
+  },
+  "meaning": {
+    "vi": "thánh, hiền nhân, chủ nhân, linh mục",
+    "en": "holy, saint, sage, master, priest"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/聖.svg"
+  },
+  "frequency": 1165,
+  "examples": [
+    "聖書",
+    "聖",
+    "神聖",
+    "聖堂",
+    "聖なる"
+  ],
+  "explanation": {
+    "id": "4337",
+    "text": "聖 (đọc là \"sei\" hoặc \"shō\") có nghĩa là \"thánh\", \"thiêng liêng\", chỉ những điều cao quý, thánh thiện hoặc liên quan đến tôn giáo. \n\nVí dụ:\n- 聖人 (seijin): Thánh nhân, người có đức hạnh.\n- 聖書 "
+  },
+  "comments": [
+    {
+      "id": "156242",
+      "lang": "vi",
+      "content_html": "<p>nói mà vua phải nghe là thần thánh</p>",
+      "content_text": "nói mà vua phải nghe là thần thánh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156243",
+      "lang": "vi",
+      "content_html": "<p>VUA (王) mà vừa biết lắng NGHE (耳) vừa NÓI (口) được điều hay lẽ phải quả là bậc THÁNH (聖) nhân.</p>",
+      "content_text": "VUA (王) mà vừa biết lắng NGHE (耳) vừa NÓI (口) được điều hay lẽ phải quả là bậc THÁNH (聖) nhân.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156244",
+      "lang": "vi",
+      "content_html": "<p>Vua của những người vừa nghe vừa nói phải gọi bằng thánh</p>",
+      "content_text": "Vua của những người vừa nghe vừa nói phải gọi bằng thánh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

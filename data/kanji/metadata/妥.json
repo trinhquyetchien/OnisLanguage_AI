@@ -1,0 +1,86 @@
+{
+  "kanji": "妥",
+  "meta": {
+    "weight": 652,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダ"
+    ],
+    "kun": [],
+    "am_han": "THỎA"
+  },
+  "meaning": {
+    "vi": "nhẹ nhàng, hòa bình, sa đọa",
+    "en": "gentle, peace, depravity"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/妥.svg"
+  },
+  "frequency": 1102,
+  "examples": [
+    "妥当",
+    "妥協",
+    "妥結"
+  ],
+  "explanation": {
+    "id": "4891",
+    "text": "妥 (đọc là \"da\") có nghĩa là \"hợp lý\", \"thỏa đáng\", để chỉ sự phù hợp hoặc chấp nhận trong các tình huống.  \nVí dụ:  \n- 妥協 (dakyou): Thỏa hiệp.  \n- 妥当 (datou): Hợp lý, thỏa đáng.  \n- 妥善 (dahe"
+  },
+  "comments": [
+    {
+      "id": "152803",
+      "lang": "vi",
+      "content_html": "<p>Con gái chỉ cần 3 ngón tay thôi là THOẢ HIỆP rồi</p>",
+      "content_text": "Con gái chỉ cần 3 ngón tay thôi là THOẢ HIỆP rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152804",
+      "lang": "vi",
+      "content_html": "<p>Cô gái Thấy “thoả “mãn vì có bộ móng tay đẹp</p>",
+      "content_text": "Cô gái Thấy “thoả “mãn vì có bộ móng tay đẹp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152805",
+      "lang": "vi",
+      "content_html": "<p>Trả tiền cho phụ nữ mà thoả hiệp</p>",
+      "content_text": "Trả tiền cho phụ nữ mà thoả hiệp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

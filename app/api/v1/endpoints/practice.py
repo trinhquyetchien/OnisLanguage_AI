@@ -1,4 +1,6 @@
+from typing import List, Optional
 from fastapi import APIRouter, HTTPException, Depends
+from pydantic import BaseModel
 
 from app.api import deps
 from app.db.models import User
@@ -10,8 +12,21 @@ from app.schemas.practice import (
     PracticeSubmissionResponse,
 )
 from app.services.practice_service import practice_service
+from app.engine.chat import chat_engine
 
 router = APIRouter()
+
+class AIExamGenerateRequest(BaseModel):
+    topic: str
+    count: Optional[int] = 5
+
+@router.post("/generate-ai")
+async def generate_exam_ai(
+    request: AIExamGenerateRequest,
+    current_user: User = Depends(deps.get_current_user)
+):
+    questions = chat_engine.generate_exam(request.topic, request.count)
+    return {"questions": questions}
 
 
 @router.get("/exams", response_model=PracticeExamListResponse)

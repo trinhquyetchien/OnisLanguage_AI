@@ -1,0 +1,69 @@
+{
+  "kanji": "蹄",
+  "meta": {
+    "weight": 2599,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "ひづめ"
+    ],
+    "am_han": "ĐỀ"
+  },
+  "meaning": {
+    "vi": "móng guốc",
+    "en": "hoof"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/蹄.svg"
+  },
+  "frequency": 2469,
+  "examples": [
+    "蹄"
+  ],
+  "explanation": {
+    "id": "5597",
+    "text": "蹄 (đọc là \"tei\") có nghĩa là \"móng guốc\" để chỉ bộ phận chân của các loại động vật như ngựa, bò hoặc lợn.  \nVí dụ:  \n- 蹄鉄 (teitetsu): Móng ngựa, móng sắt.  \n- 牛蹄 (gyutei): Móng bò.  \n- 蹄のある動"
+  },
+  "comments": [
+    {
+      "id": "157192",
+      "lang": "vi",
+      "content_html": "<p>Cái Móng là phần Bọc cái Chân khi đứng</p>",
+      "content_text": "Cái Móng là phần Bọc cái Chân khi đứng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157193",
+      "lang": "vi",
+      "content_html": "<p>Cho dù là Đế vương thì ở dưới Túc cũng có cái  Đề như thường dân</p>",
+      "content_text": "Cho dù là Đế vương thì ở dưới Túc cũng có cái  Đề như thường dân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

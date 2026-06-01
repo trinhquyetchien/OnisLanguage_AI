@@ -1,0 +1,86 @@
+{
+  "kanji": "俳",
+  "meta": {
+    "weight": 204,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハイ"
+    ],
+    "kun": [],
+    "am_han": "BÀI"
+  },
+  "meaning": {
+    "vi": "haiku, diễn viên",
+    "en": "haiku, actor"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/俳.svg"
+  },
+  "frequency": 1137,
+  "examples": [
+    "俳優",
+    "俳句",
+    "俳人"
+  ],
+  "explanation": {
+    "id": "6253",
+    "text": "俳 (đọc là \"hai\") có nghĩa là \"văn thơ\", thường chỉ các thể loại thơ ngắn, đặc biệt là haiku, và nghệ thuật biểu diễn như kịch Noh hay kịch Kabuki.  \nVí dụ:  \n- 俳句 (haiku): Thể loại thơ ngắn "
+  },
+  "comments": [
+    {
+      "id": "151699",
+      "lang": "vi",
+      "content_html": "<p>Diễn viên đóng phim thần BÀI là NGƯỜI PHI thường</p>",
+      "content_text": "Diễn viên đóng phim thần BÀI là NGƯỜI PHI thường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151700",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜIイ PHI非 thường đã được an BÀI 俳làm diễn viên</p>",
+      "content_text": "NGƯỜIイ PHI非 thường đã được an BÀI 俳làm diễn viên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151701",
+      "lang": "vi",
+      "content_html": "<p>Người phi thường là diễn viên</p>",
+      "content_text": "Người phi thường là diễn viên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

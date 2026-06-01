@@ -1,0 +1,90 @@
+{
+  "kanji": "在",
+  "meta": {
+    "weight": 545,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ザイ"
+    ],
+    "kun": [
+      "あ.る"
+    ],
+    "am_han": "TẠI"
+  },
+  "meaning": {
+    "vi": "tồn tại",
+    "en": "exist, outskirts, suburbs, located in"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/在.svg"
+  },
+  "frequency": 211,
+  "examples": [
+    "現在",
+    "存在",
+    "滞在",
+    "在庫",
+    "在住"
+  ],
+  "explanation": {
+    "id": "2845",
+    "text": "在 (đọc là \"zai\") có nghĩa là \"tồn tại\", \"ở\" để chỉ sự hiện diện hoặc vị trí của một cái gì đó.  \nVí dụ:  \n- 在る (aru): Tồn tại, có mặt.  \n- 存在 (sonzai): Sự tồn tại, sự hiện diện.  \n- 在宅 (zait"
+  },
+  "comments": [
+    {
+      "id": "152550",
+      "lang": "vi",
+      "content_html": "<p>hiện Tại ở nhà tranh vách đất</p>",
+      "content_text": "hiện Tại ở nhà tranh vách đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152551",
+      "lang": "vi",
+      "content_html": "<p>Ở bên phải có Tồn TẠI 1 mảnh đất</p>",
+      "content_text": "Ở bên phải có Tồn TẠI 1 mảnh đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152552",
+      "lang": "vi",
+      "content_html": "<p>hiện tại thì bé Naナ có một I mảnh đất土</p>",
+      "content_text": "hiện tại thì bé Naナ có một I mảnh đất土",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

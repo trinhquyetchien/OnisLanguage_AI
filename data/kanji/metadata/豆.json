@@ -1,0 +1,109 @@
+{
+  "kanji": "豆",
+  "meta": {
+    "weight": 2535,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ",
+      "ズ"
+    ],
+    "kun": [
+      "まめ",
+      "まめ-"
+    ],
+    "am_han": "ĐẬU, DẤU"
+  },
+  "meaning": {
+    "vi": "đậu, lùn",
+    "en": "beans, pea, midget"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/豆.svg"
+  },
+  "frequency": 1422,
+  "examples": [
+    "豆",
+    "豆腐",
+    "大豆",
+    "納豆",
+    "伊豆"
+  ],
+  "explanation": {
+    "id": "5870",
+    "text": "豆 (đọc là \"mame\") có nghĩa là \"đậu\" để chỉ các loại hạt, đậu ăn được.  \nVí dụ:  \n- 豆腐 (tōfu): Đậu phụ.  \n- 豆類 (mame-rui): Các loại đậu.  \n- 青豆 (ao mame): Đậu xanh."
+  },
+  "comments": [
+    {
+      "id": "1051",
+      "lang": "vi",
+      "content_html": "<p>Cái cốc đựng <strong>đậu</strong></p>",
+      "content_text": "Cái cốc đựng\nđậu",
+      "image_url": "https://jpdictionary.com/upload/images/62a1faa7521f2.jpg",
+      "image_path": "assets/images/豆_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157025",
+      "lang": "vi",
+      "content_html": "<p>Mồm ngậm 1 đống cỏ đúng là óc bã đậu</p>",
+      "content_text": "Mồm ngậm 1 đống cỏ đúng là óc bã đậu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157026",
+      "lang": "vi",
+      "content_html": "<p>Học suốt 1一 năm mà lời nói cửa miệng 口 ngu như cỏ 䒑 rác, bã đậu 豆.</p>",
+      "content_text": "Học suốt 1一 năm mà lời nói cửa miệng 口 ngu như cỏ 䒑 rác, bã đậu 豆.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157027",
+      "lang": "vi",
+      "content_html": "<p>một一 hạt nhỏ口 bỏ chậu cây 䒑<br>(cái gì đây? là hạt ĐẬU 豆)</p>",
+      "content_text": "một一 hạt nhỏ口 bỏ chậu cây 䒑\n(cái gì đây? là hạt ĐẬU 豆)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

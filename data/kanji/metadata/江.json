@@ -1,0 +1,90 @@
+{
+  "kanji": "江",
+  "meta": {
+    "weight": 1492,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "え"
+    ],
+    "am_han": "GIANG"
+  },
+  "meaning": {
+    "vi": "lạch, cửa vào, vịnh",
+    "en": "creek, inlet, bay"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/江.svg"
+  },
+  "frequency": 704,
+  "examples": [
+    "江戸",
+    "堀江",
+    "江",
+    "近江",
+    "入江"
+  ],
+  "explanation": {
+    "id": "2486",
+    "text": "江 (đọc là \"kō\" hoặc \"e\") có nghĩa là \"sông,\" thường chỉ những dòng sông lớn.  \nVí dụ:  \n- 江戸 (Edo): Tên gọi cũ của Tokyo, nghĩa là \"cửa sông.\"  \n- 大江 (Ōe): Sông lớn.  \n- 長江 (Chōkō): Sông Dươ"
+  },
+  "comments": [
+    {
+      "id": "154778",
+      "lang": "vi",
+      "content_html": "<p>CÔNG trình NƯỚC chảy sông GIANG<br>Cô (Kou) đi qua VỊNH nhớ sang EDO (江戸）</p>",
+      "content_text": "CÔNG trình NƯỚC chảy sông GIANG\nCô (Kou) đi qua VỊNH nhớ sang EDO (江戸）",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154779",
+      "lang": "vi",
+      "content_html": "<p>Công trình chảy nước là giang sông</p>",
+      "content_text": "Công trình chảy nước là giang sông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154780",
+      "lang": "vi",
+      "content_html": "<p>ở Sông (Giang) có công trình thủy điện</p>",
+      "content_text": "ở Sông (Giang) có công trình thủy điện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

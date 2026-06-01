@@ -1,0 +1,93 @@
+{
+  "kanji": "決",
+  "meta": {
+    "weight": 1496,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケツ"
+    ],
+    "kun": [
+      "き.める",
+      "-ぎ.め",
+      "き.まる",
+      "さ.く"
+    ],
+    "am_han": "QUYẾT"
+  },
+  "meaning": {
+    "vi": "quyết định",
+    "en": "decide, fix, agree upon, appoint"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/決.svg"
+  },
+  "frequency": 71,
+  "examples": [
+    "決定",
+    "解決",
+    "決め",
+    "決して",
+    "判決"
+  ],
+  "explanation": {
+    "id": "2071",
+    "text": "決 (đọc là \"ketsu\" hoặc \"kekka\") có nghĩa là \"quyết định\", \"quyết tâm\" để chỉ hành động ra quyết định hay xác định điều gì đó.\n\nVí dụ:\n- 決定 (kettei): Quyết định.\n- 決勝 (kesshō): Trận chung kết"
+  },
+  "comments": [
+    {
+      "id": "191085",
+      "lang": "vi",
+      "content_html": "<p><strong>quyết định</strong></p>",
+      "content_text": "quyết định",
+      "image_url": "https://jpdictionary.com/upload/images/648abe718c559.jpg",
+      "image_path": "assets/images/決_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "37062",
+      "lang": "vi",
+      "content_html": "<p><strong>Quyết định</strong> tiết kiệm nước.</p>",
+      "content_text": "Quyết định\ntiết kiệm nước.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb0ae48d5b.jpg",
+      "image_path": "assets/images/決_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154784",
+      "lang": "vi",
+      "content_html": "<p>quái vật quyết định đi tắm</p>",
+      "content_text": "quái vật quyết định đi tắm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

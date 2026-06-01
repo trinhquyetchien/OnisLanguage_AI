@@ -1,0 +1,107 @@
+{
+  "kanji": "鉄",
+  "meta": {
+    "weight": 2749,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テツ"
+    ],
+    "kun": [
+      "くろがね"
+    ],
+    "am_han": "THIẾT"
+  },
+  "meaning": {
+    "vi": "sắt, thiết giáp",
+    "en": "iron"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/鉄.svg"
+  },
+  "frequency": 672,
+  "examples": [
+    "鉄道",
+    "鉄",
+    "地下鉄",
+    "国鉄",
+    "鉄鋼"
+  ],
+  "explanation": {
+    "id": "5645",
+    "text": "鉄 (đọc là \"tetsu\") có nghĩa là \"sắt\" để chỉ kim loại mạnh mẽ, thường được sử dụng trong xây dựng và sản xuất.  \nVí dụ:  \n- 鉄道 (tetsudou): Đường sắt, hệ thống đường ray cho tàu hỏa.  \n- 鉄器 (t"
+  },
+  "comments": [
+    {
+      "id": "37288",
+      "lang": "vi",
+      "content_html": "<p><strong>Sắt </strong>mất (失) giá trị so với vàng (金).</p>",
+      "content_text": "Sắt\nmất (失) giá trị so với vàng (金).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157540",
+      "lang": "vi",
+      "content_html": "<p>VÀNG mà MẤT (THẤT)  giá sẽ biến thành SẮT (THIẾT)</p>",
+      "content_text": "VÀNG mà MẤT (THẤT)  giá sẽ biến thành SẮT (THIẾT)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190771",
+      "lang": "vi",
+      "content_html": "<p>Tìm vàng thất bại chỉ thấy toàn sắt Thiết</p>",
+      "content_text": "Tìm vàng thất bại chỉ thấy toàn sắt Thiết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157541",
+      "lang": "vi",
+      "content_html": "<p>luyện vàng thất bại thành sắt</p>",
+      "content_text": "luyện vàng thất bại thành sắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

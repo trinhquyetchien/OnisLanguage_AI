@@ -1,0 +1,91 @@
+{
+  "kanji": "湧",
+  "meta": {
+    "weight": 1585,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ",
+      "ヨウ",
+      "ユ"
+    ],
+    "kun": [
+      "わ.く"
+    ],
+    "am_han": "DŨNG"
+  },
+  "meaning": {
+    "vi": "đun sôi, lên men, seethe, náo động, giống",
+    "en": "boil, ferment, seethe, uproar, breed"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/湧.svg"
+  },
+  "frequency": 2070,
+  "examples": [
+    "湧き",
+    "湧く",
+    "湧き水",
+    "湧き出る"
+  ],
+  "explanation": {
+    "id": "7768",
+    "text": "湧 (đọc là \"yuu\") có nghĩa là \"dâng lên\", \"trào ra\", thường được dùng để chỉ nước hoặc chất lỏng trào ra từ một nguồn nào đó.\n\nVí dụ:\n- 湧き水 (wakimizu): Nước suối, nước dâng lên từ nguồn.\n- 湧く"
+  },
+  "comments": [
+    {
+      "id": "155001",
+      "lang": "vi",
+      "content_html": "<p>Người dũng cảm ý chí sôi hùng hục</p>",
+      "content_text": "Người dũng cảm ý chí sôi hùng hục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155002",
+      "lang": "vi",
+      "content_html": "<p>Nước tăng lực làm DŨNG khí cho đàn ông sôi sục</p>",
+      "content_text": "Nước tăng lực làm DŨNG khí cho đàn ông sôi sục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155003",
+      "lang": "vi",
+      "content_html": "<p>Dũng phun nước ra</p>",
+      "content_text": "Dũng phun nước ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

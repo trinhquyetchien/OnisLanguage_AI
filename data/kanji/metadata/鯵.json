@@ -1,0 +1,32 @@
+{
+  "kanji": "鯵",
+  "meta": {
+    "weight": 2984,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "あじ"
+    ],
+    "am_han": "THAM"
+  },
+  "meaning": {
+    "vi": "cá thu ngựa",
+    "en": "horse mackerel"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/鯵.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "51",
+    "text": "鯵 (đọc là \"aji\") có nghĩa là \"cá thu\", thường chỉ đến một loại cá ăn được, đặc biệt phổ biến trong ẩm thực Nhật Bản. \n\nVí dụ:\n- 鯵の刺身 (aji no sashimi): Sashimi cá thu.\n- 鯵丼 (ajidon): Cơm tô c"
+  },
+  "comments": []
+}

@@ -1,0 +1,33 @@
+{
+  "kanji": "迩",
+  "meta": {
+    "weight": 2642,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ",
+      "ニ"
+    ],
+    "kun": [
+      "ちか.い"
+    ],
+    "am_han": "NHĨ"
+  },
+  "meaning": {
+    "vi": "tiếp cận, gần",
+    "en": "approach, near, close"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/迩.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6095",
+    "text": "迩 (đọc là \"ji\", \"ni\") có nghĩa là \"gần\", \"tiếp cận\". \n\nVí dụ:\n- 迩い (chikai): Gần, gần gũi.\n- 近迩 (kinji): Sự gần gũi, sự tiếp cận.\n- 迩接 (nishaku): Tiếp xúc gần."
+  },
+  "comments": []
+}

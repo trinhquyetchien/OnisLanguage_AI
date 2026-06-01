@@ -1,0 +1,88 @@
+{
+  "kanji": "艦",
+  "meta": {
+    "weight": 2244,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [],
+    "am_han": "HẠM"
+  },
+  "meaning": {
+    "vi": "tàu chiến",
+    "en": "warship"
+  },
+  "stroke": {
+    "count": 21,
+    "svg": "assets/svg/艦.svg"
+  },
+  "frequency": 1363,
+  "examples": [
+    "艦",
+    "潜水艦",
+    "艦隊",
+    "戦艦",
+    "艦長"
+  ],
+  "explanation": {
+    "id": "1174",
+    "text": "艦 (đọc là \"kan\") có nghĩa là \"tàu chiến\", chỉ các loại tàu lớn được sử dụng trong hải quân.  \nVí dụ:  \n- 艦隊 (kantai): Hạm đội.  \n- 戦艦 (senkan): Tàu chiến.  \n- 艦長 (kanchou): Thuyền trưởng (tà"
+  },
+  "comments": [
+    {
+      "id": "156445",
+      "lang": "vi",
+      "content_html": "<p>Tàu GIÁM sát biển là chiến HẠM</p>",
+      "content_text": "Tàu GIÁM sát biển là chiến HẠM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156446",
+      "lang": "vi",
+      "content_html": "<p>Tàu chở đĩa khiên người chất ngang là hạm chiến</p>",
+      "content_text": "Tàu chở đĩa khiên người chất ngang là hạm chiến",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156447",
+      "lang": "vi",
+      "content_html": "<p>Giám sát HẠM Thuyền</p>",
+      "content_text": "Giám sát HẠM Thuyền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "kanji": "吠",
+  "meta": {
+    "weight": 460,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハイ",
+      "ベイ"
+    ],
+    "kun": [
+      "ほえ.る",
+      "ほ.える"
+    ],
+    "am_han": "PHỆ"
+  },
+  "meaning": {
+    "vi": "sủa, hú, khóc",
+    "en": "bark, howl, cry"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/吠.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7307",
+    "text": "吠 (đọc là \"hai\") có nghĩa là \"sủa\" để chỉ âm thanh mà chó hoặc một số động vật khác phát ra.  \nVí dụ:  \n- 吠える (hoeru): Sủa, la lên (của chó).  \n- 鳥が吠える (tori ga hoeru): Chim kêu.  \n- 吠え面 (ho"
+  },
+  "comments": [
+    {
+      "id": "219077",
+      "lang": "vi",
+      "content_html": "<p>Con CHÓ bụng PHỆ MIỆNG cứ sủa cả ngày</p>",
+      "content_text": "Con CHÓ bụng PHỆ MIỆNG cứ sủa cả ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219078",
+      "lang": "vi",
+      "content_html": "<p>chó miệng Phệ  sủa rất to</p>",
+      "content_text": "chó miệng Phệ  sủa rất to",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219079",
+      "lang": "vi",
+      "content_html": "<p>khẩu 口 hình của con chó 犬 phệ 吠える xuống chuẩn bị sủa. gâu gâu.</p>",
+      "content_text": "khẩu 口 hình của con chó 犬 phệ 吠える xuống chuẩn bị sủa. gâu gâu.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

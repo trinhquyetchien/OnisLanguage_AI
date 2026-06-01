@@ -1,0 +1,90 @@
+{
+  "kanji": "抑",
+  "meta": {
+    "weight": 1058,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨク"
+    ],
+    "kun": [
+      "おさ.える"
+    ],
+    "am_han": "ỨC"
+  },
+  "meaning": {
+    "vi": "kìm nén, tốt, bây giờ, ngay từ đầu, đẩy, xô, ép, niêm phong, bất chấp",
+    "en": "repress, well, now, in the first place, push, shove, press, seal, do in spite of"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/抑.svg"
+  },
+  "frequency": 834,
+  "examples": [
+    "抑制",
+    "抑え",
+    "抑える",
+    "抑圧",
+    "抑止"
+  ],
+  "explanation": {
+    "id": "7918",
+    "text": "抑 (đọc là \"yoku\") có nghĩa là \"kìm nén\", \"chặn lại\" để chỉ những hành động liên quan đến việc kiềm chế hoặc ngăn cản điều gì đó.\n\nVí dụ:\n- 抑圧 (yokuatsu): Đàn áp, kìm nén.\n- 抑制 (yokusei): Kiề"
+  },
+  "comments": [
+    {
+      "id": "153814",
+      "lang": "vi",
+      "content_html": "<p>Ức chế vì dùng tay quay 2 cánh quạt</p>",
+      "content_text": "Ức chế vì dùng tay quay 2 cánh quạt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153815",
+      "lang": "vi",
+      "content_html": "<p>ức chế vì k cầm đc tay Công Phượng</p>",
+      "content_text": "ức chế vì k cầm đc tay Công Phượng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153816",
+      "lang": "vi",
+      "content_html": "<p>đĩa CD bị tuột khỏi TAY thì ỨC chế</p>",
+      "content_text": "đĩa CD bị tuột khỏi TAY thì ỨC chế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

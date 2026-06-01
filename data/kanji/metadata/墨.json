@@ -1,0 +1,89 @@
+{
+  "kanji": "墨",
+  "meta": {
+    "weight": 600,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボク"
+    ],
+    "kun": [
+      "すみ"
+    ],
+    "am_han": "MẶC"
+  },
+  "meaning": {
+    "vi": "mực đen, mực Ấn Độ, mực dính, Mexico",
+    "en": "black ink, India ink, ink stick, Mexico"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/墨.svg"
+  },
+  "frequency": 1616,
+  "examples": [
+    "墨",
+    "お墨付き",
+    "入れ墨",
+    "水墨"
+  ],
+  "explanation": {
+    "id": "20306",
+    "text": "Chữ Hán 墨 (đọc là \"shō\") có nghĩa là \"điều chỉnh\", \"thích ứng\" để chỉ các hành động liên quan đến việc thay đổi hoặc điều chỉnh theo tình huống.\n\nVí dụ:\n- 調整 (chōsei): Điều chỉnh.\n- 適応 (teki"
+  },
+  "comments": [
+    {
+      "id": "152672",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa đất đen dùng làm mực</p>",
+      "content_text": "Ngày xưa đất đen dùng làm mực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152673",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa người ta hay MẶC áo nhuộm MỰC ĐEn như Đất</p>",
+      "content_text": "Ngày xưa người ta hay MẶC áo nhuộm MỰC ĐEn như Đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152674",
+      "lang": "vi",
+      "content_html": "<p>Đất đen như mặc ( mực)</p>",
+      "content_text": "Đất đen như mặc ( mực)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

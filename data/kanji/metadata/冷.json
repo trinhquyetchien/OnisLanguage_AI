@@ -1,0 +1,97 @@
+{
+  "kanji": "冷",
+  "meta": {
+    "weight": 292,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ"
+    ],
+    "kun": [
+      "つめ.たい",
+      "ひ.える",
+      "ひ.や",
+      "ひ.ややか",
+      "ひ.やす",
+      "ひ.やかす",
+      "さ.める",
+      "さ.ます"
+    ],
+    "am_han": "LÃNH"
+  },
+  "meaning": {
+    "vi": "lạnh",
+    "en": "cool, cold (beer, person), chill"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/冷.svg"
+  },
+  "frequency": 667,
+  "examples": [
+    "冷静",
+    "冷たい",
+    "冷蔵庫",
+    "冷凍",
+    "冷戦"
+  ],
+  "explanation": {
+    "id": "8212",
+    "text": "冷 (đọc là \"rei\" hoặc \"samui\") có nghĩa là \"lạnh\", \"mát mẻ\", thường chỉ cảm giác lạnh lẽo hoặc nhiệt độ thấp.  \nVí dụ:  \n- 冷たい (tsumetai): Lạnh, mát.  \n- 冷房 (reibō): Điều hòa không khí, làm m"
+  },
+  "comments": [
+    {
+      "id": "36994",
+      "lang": "vi",
+      "content_html": "<p>Run lập cập trong cơn gió <strong>lạnh</strong>.</p>",
+      "content_text": "Run lập cập trong cơn gió\nlạnh\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4e4eeb5c9.jpg",
+      "image_path": "assets/images/冷_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190901",
+      "lang": "vi",
+      "content_html": "<p><strong>lạnh</strong></p>",
+      "content_text": "lạnh",
+      "image_url": "https://jpdictionary.com/upload/images/648a65c5f0315.jpg",
+      "image_path": "assets/images/冷_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "151925",
+      "lang": "vi",
+      "content_html": "<p>Mama ngồi trong nhà uống nước lạnh</p>",
+      "content_text": "Mama ngồi trong nhà uống nước lạnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

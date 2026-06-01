@@ -1,0 +1,95 @@
+{
+  "kanji": "焦",
+  "meta": {
+    "weight": 1658,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "こ.げる",
+      "こ.がす",
+      "こ.がれる",
+      "あせ.る",
+      "じ.れる",
+      "じ.らす"
+    ],
+    "am_han": "TIÊU, TIỀU"
+  },
+  "meaning": {
+    "vi": "char, vội vàng, thiếu kiên nhẫn, kích thích, đốt cháy, thiêu đốt, singe",
+    "en": "char, hurry, impatient, irritate, burn, scorch, singe"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/焦.svg"
+  },
+  "frequency": 973,
+  "examples": [
+    "焦点",
+    "焦り",
+    "焦る",
+    "焦げ",
+    "焦燥"
+  ],
+  "explanation": {
+    "id": "3865",
+    "text": "焦 (đọc là \"shō\" hoặc \"kaku\") có nghĩa là \"cháy\", \"nướng\" để chỉ các hành động liên quan đến việc đốt, nướng hoặc tình trạng bị cháy.  \nVí dụ:  \n- 焦点 (shōten): Điểm tập trung, trọng tâm.  \n- "
+  },
+  "comments": [
+    {
+      "id": "155171",
+      "lang": "vi",
+      "content_html": "<p>Con CHIM bị CHÁY thì TIÊU đời rồi còn gì</p>",
+      "content_text": "Con CHIM bị CHÁY thì TIÊU đời rồi còn gì",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155172",
+      "lang": "vi",
+      "content_html": "<p>Dùng LỬA nướng CHIM \"vội quá\" nên \"cháy\" mất TIÊU.</p>",
+      "content_text": "Dùng LỬA nướng CHIM \"vội quá\" nên \"cháy\" mất TIÊU.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155173",
+      "lang": "vi",
+      "content_html": "<p>Làm thịt chim phải hui cháy sém</p>",
+      "content_text": "Làm thịt chim phải hui cháy sém",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

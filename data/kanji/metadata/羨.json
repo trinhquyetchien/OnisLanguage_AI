@@ -1,0 +1,86 @@
+{
+  "kanji": "羨",
+  "meta": {
+    "weight": 2135,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン",
+      "エン"
+    ],
+    "kun": [
+      "うらや.む",
+      "あまり"
+    ],
+    "am_han": "TIỆN"
+  },
+  "meaning": {
+    "vi": "ghen tị, thèm muốn",
+    "en": "envious, be jealous, covet"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/羨.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4541",
+    "text": "羨 (đọc là \"sen\") có nghĩa là \"ganh tị\", \"thèm muốn\" để chỉ cảm giác ao ước, mong mỏi những gì người khác có.\n\nVí dụ:\n- 羨望 (senbō): Sự ganh tị, ước ao.\n- 羨ましい (senyamashii): Ghen tị, đáng thè"
+  },
+  "comments": [
+    {
+      "id": "220393",
+      "lang": "vi",
+      "content_html": "<p>Dương: là đẹp 美しい「MĨ」。Thiếu nét đẹp, thiếu vẻ đẹp......=&#62; muốn có, ghen tỵ...</p>",
+      "content_text": "Dương: là đẹp 美しい「MĨ」。Thiếu nét đẹp, thiếu vẻ đẹp......=> muốn có, ghen tỵ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220394",
+      "lang": "vi",
+      "content_html": "<p>con dê mắc khuyết điểm đi tiểu tiện bừa bãi</p>",
+      "content_text": "con dê mắc khuyết điểm đi tiểu tiện bừa bãi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220395",
+      "lang": "vi",
+      "content_html": "<p>Ngưỡng mộ cậu kia hớt hả vác cả con dê chạy, toát cả mồ hôi.</p>",
+      "content_text": "Ngưỡng mộ cậu kia hớt hả vác cả con dê chạy, toát cả mồ hôi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

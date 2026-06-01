@@ -1,0 +1,87 @@
+{
+  "kanji": "罷",
+  "meta": {
+    "weight": 2130,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "まか.り-",
+      "や.める"
+    ],
+    "am_han": "BÃI, BÌ"
+  },
+  "meaning": {
+    "vi": "bỏ, dừng lại, rời khỏi, rút lui, đi",
+    "en": "quit, stop, leave, withdraw, go"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/罷.svg"
+  },
+  "frequency": 2104,
+  "examples": [
+    "罷免"
+  ],
+  "explanation": {
+    "id": "6583",
+    "text": "罷 (đọc là \"hi\") có nghĩa là \"ngừng\", \"dừng lại\" hoặc \"thoái lui\", thường được sử dụng để chỉ các hành động liên quan đến việc ngừng làm gì đó hoặc từ chức.\n\nVí dụ:\n- 罷免 (himen): Bãi nhiệm, m"
+  },
+  "comments": [
+    {
+      "id": "156184",
+      "lang": "vi",
+      "content_html": "<p>Tài năng mà mắt kém thì sẽ bị bãi chức</p>",
+      "content_text": "Tài năng mà mắt kém thì sẽ bị bãi chức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156185",
+      "lang": "vi",
+      "content_html": "<p>bãi bỏ những người có tài năng mà mắt kém</p>",
+      "content_text": "bãi bỏ những người có tài năng mà mắt kém",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156186",
+      "lang": "vi",
+      "content_html": "<p>đi khám quân sự: đứa nào mà có tài năng nhưng mắt kém ( cận ) thì bãi bỏ k đc chọn</p>",
+      "content_text": "đi khám quân sự: đứa nào mà có tài năng nhưng mắt kém ( cận ) thì bãi bỏ k đc chọn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

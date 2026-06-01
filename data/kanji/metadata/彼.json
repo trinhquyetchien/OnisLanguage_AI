@@ -1,0 +1,109 @@
+{
+  "kanji": "彼",
+  "meta": {
+    "weight": 919,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "かれ",
+      "かの",
+      "か.の"
+    ],
+    "am_han": "BỈ"
+  },
+  "meaning": {
+    "vi": "anh ấy",
+    "en": "he, that, the"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/彼.svg"
+  },
+  "frequency": 648,
+  "examples": [
+    "彼",
+    "彼女",
+    "彼ら",
+    "彼等",
+    "彼氏"
+  ],
+  "explanation": {
+    "id": "6541",
+    "text": "彼 (đọc là \"kareshi\" hoặc \"kare\") có nghĩa là \"anh ấy\", \"cậu ấy\", thường được sử dụng để chỉ một người đàn ông trong ngữ cảnh thân mật. \n\nVí dụ:\n- 彼氏 (kareshi): Bạn trai.\n- 彼女 (kanojo): Bạn g"
+  },
+  "comments": [
+    {
+      "id": "37089",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã định nắm lấy tay <strong>anh ấy</strong> nhưng anh ấy đã đi rồi.</p>",
+      "content_text": "Tôi đã định nắm lấy tay\nanh ấy\nnhưng anh ấy đã đi rồi.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb03022b1a.jpg",
+      "image_path": "assets/images/彼_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153450",
+      "lang": "vi",
+      "content_html": "<p>Bỉ nhân cũng có Da và xúc Xích</p>",
+      "content_text": "Bỉ nhân cũng có Da và xúc Xích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153451",
+      "lang": "vi",
+      "content_html": "<p>Một ANH CHÀNG chuyên ĐI đổ VỎ bị khinh BỈ.</p>",
+      "content_text": "Một ANH CHÀNG chuyên ĐI đổ VỎ bị khinh BỈ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153452",
+      "lang": "vi",
+      "content_html": "<p>anh chàng người Bỉ đang ăn xúc Xích Bì</p>",
+      "content_text": "anh chàng người Bỉ đang ăn xúc Xích Bì",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

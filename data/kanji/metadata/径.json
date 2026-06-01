@@ -1,0 +1,93 @@
+{
+  "kanji": "径",
+  "meta": {
+    "weight": 922,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "みち",
+      "こみち",
+      "さしわたし",
+      "ただちに"
+    ],
+    "am_han": "KÍNH"
+  },
+  "meaning": {
+    "vi": "đường kính, đường dẫn, phương pháp",
+    "en": "diameter, path, method"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/径.svg"
+  },
+  "frequency": 1435,
+  "examples": [
+    "直径",
+    "径",
+    "半径",
+    "口径",
+    "小径"
+  ],
+  "explanation": {
+    "id": "1961",
+    "text": "径 (đọc là \"kei\") có nghĩa là \"đường kính\" hoặc \"lối đi\", thường chỉ kích thước hay một con đường nào đó.  \nVí dụ:  \n- 径路 (keiro): Lối đi, đường đi.  \n- 半径 (hankei): Bán kính.  \n- 径庭 (keitei)"
+  },
+  "comments": [
+    {
+      "id": "153459",
+      "lang": "vi",
+      "content_html": "<p>1 người chạy trên đất của mình để đo đường kích</p>",
+      "content_text": "1 người chạy trên đất của mình để đo đường kích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153460",
+      "lang": "vi",
+      "content_html": "<p>BƯỚC CHÂN của thần THÁNH có đường KÍNH rất dài.</p>",
+      "content_text": "BƯỚC CHÂN của thần THÁNH có đường KÍNH rất dài.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153461",
+      "lang": "vi",
+      "content_html": "<p>đặt chân trái(xích) xuống đất để đo đường KÍNH</p>",
+      "content_text": "đặt chân trái(xích) xuống đất để đo đường KÍNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

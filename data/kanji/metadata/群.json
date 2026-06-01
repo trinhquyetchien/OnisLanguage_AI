@@ -1,0 +1,93 @@
+{
+  "kanji": "群",
+  "meta": {
+    "weight": 2134,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "グン"
+    ],
+    "kun": [
+      "む.れる",
+      "む.れ",
+      "むら",
+      "むら.がる"
+    ],
+    "am_han": "QUẦN"
+  },
+  "meaning": {
+    "vi": "quần chúng, quần thể",
+    "en": "flock, group, crowd, herd, swarm, cluster"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/群.svg"
+  },
+  "frequency": 1012,
+  "examples": [
+    "群",
+    "症候群",
+    "抜群",
+    "群馬",
+    "群れ"
+  ],
+  "explanation": {
+    "id": "1914",
+    "text": "群 (đọc là \"gun\") có nghĩa là \"đám đông\", \"nhóm\" để chỉ sự tập hợp của nhiều cá thể hoặc vật thể.  \nVí dụ:  \n- 群れ (mure): Đàn, bầy, nhóm.  \n- 群集 (gunshuu): Tập hợp, đám đông.  \n- 群れを成す (mure "
+  },
+  "comments": [
+    {
+      "id": "156196",
+      "lang": "vi",
+      "content_html": "<p>quân lính và bầy dê là diễn viên QUẦN chúng</p>",
+      "content_text": "quân lính và bầy dê là diễn viên QUẦN chúng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156197",
+      "lang": "vi",
+      "content_html": "<p>Quần thể quân dương</p>",
+      "content_text": "Quần thể quân dương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156198",
+      "lang": "vi",
+      "content_html": "<p>dê núi sống quần thể.</p>",
+      "content_text": "dê núi sống quần thể.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

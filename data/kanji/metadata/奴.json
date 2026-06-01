@@ -1,0 +1,91 @@
+{
+  "kanji": "奴",
+  "meta": {
+    "weight": 643,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ド"
+    ],
+    "kun": [
+      "やつ",
+      "やっこ"
+    ],
+    "am_han": "NÔ"
+  },
+  "meaning": {
+    "vi": "anh chàng, nô lệ, manservant, đồng nghiệp",
+    "en": "guy, slave, manservant, fellow"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/奴.svg"
+  },
+  "frequency": 1932,
+  "examples": [
+    "奴",
+    "奴隷",
+    "奴ら",
+    "奴等",
+    "売国奴"
+  ],
+  "explanation": {
+    "id": "5754",
+    "text": "奴 (đọc là \"do\") có nghĩa là \"nô lệ\" hoặc \"người hầu\", thường chỉ những người bị áp bức hoặc trong tình trạng phục vụ cho người khác. \n\nVí dụ:\n- 奴隷 (dorei): Nô lệ.\n- 奴ら (yatsura): Bọn họ, thư"
+  },
+  "comments": [
+    {
+      "id": "152779",
+      "lang": "vi",
+      "content_html": "<p>người phụ nữ đứng khép 2 chân lại <br>là nô tì</p>",
+      "content_text": "người phụ nữ đứng khép 2 chân lại\nlà nô tì",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152780",
+      "lang": "vi",
+      "content_html": "<p>người phụ nữ lại là nô tì</p>",
+      "content_text": "người phụ nữ lại là nô tì",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152781",
+      "lang": "vi",
+      "content_html": "<p>Còn có nghĩa là “loại”<br>Loại nhỏ 小さいやつ<br>Cái loại(người)đó あの奴</p>",
+      "content_text": "Còn có nghĩa là “loại”\nLoại nhỏ 小さいやつ\nCái loại(người)đó あの奴",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

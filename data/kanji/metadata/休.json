@@ -1,0 +1,92 @@
+{
+  "kanji": "休",
+  "meta": {
+    "weight": 157,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "やす.む",
+      "やす.まる",
+      "やす.める"
+    ],
+    "am_han": "HƯU"
+  },
+  "meaning": {
+    "vi": "nghỉ ngơi, hưu trí",
+    "en": "rest, day off, retire, sleep"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/休.svg"
+  },
+  "frequency": 642,
+  "examples": [
+    "休み",
+    "休日",
+    "休憩",
+    "夏休み",
+    "休暇"
+  ],
+  "explanation": {
+    "id": "1506",
+    "text": "休 (đọc là \"kyū\" hoặc \"yasu(mu)\") có nghĩa là \"nghỉ ngơi\", \"nghỉ\". Chữ này chỉ các hành động liên quan đến việc nghỉ ngơi, thư giãn hoặc tạm dừng hoạt động.\n\nVí dụ:\n- 休日 (kyūjitsu): Ngày nghỉ"
+  },
+  "comments": [
+    {
+      "id": "638",
+      "lang": "vi",
+      "content_html": "<p>Một người đang <strong>nghỉ ngơi</strong> bên cái cây (木).</p>",
+      "content_text": "Một người đang\nnghỉ ngơi\nbên cái cây (木).",
+      "image_url": "https://jpdictionary.com/upload/images/629823fc71eca.jpg",
+      "image_path": "assets/images/休_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151585",
+      "lang": "vi",
+      "content_html": "<p>Người 亻ngồi dưới gốc Cây 木 để Nghỉ Ngơi 休.</p>",
+      "content_text": "Người 亻ngồi dưới gốc Cây 木 để Nghỉ Ngơi 休.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158467",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>休む (やすむ): nghỉ ngơi</p><p>休み (やすみ): nghỉ</p><p>夏休み (なつやすみ): kì nghỉ hè<br>ひる休み (ひるやすみ): nghỉ trưa</p>",
+      "content_text": "JLPT N5\n休む (やすむ): nghỉ ngơi\n休み (やすみ): nghỉ\n夏休み (なつやすみ): kì nghỉ hè\nひる休み (ひるやすみ): nghỉ trưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

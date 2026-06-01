@@ -1,0 +1,92 @@
+{
+  "kanji": "浄",
+  "meta": {
+    "weight": 1536,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ",
+      "セイ"
+    ],
+    "kun": [
+      "きよ.める",
+      "きよ.い"
+    ],
+    "am_han": "TỊNH, TẠNH, TĨNH"
+  },
+  "meaning": {
+    "vi": "làm sạch, thanh tẩy, tẩy rửa, trừ tà, triều đại Mãn Châu",
+    "en": "clean, purify, cleanse, exorcise, Manchu Dynasty"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/浄.svg"
+  },
+  "frequency": 1383,
+  "examples": [
+    "浄化",
+    "洗浄",
+    "清浄",
+    "浄水",
+    "浄土真宗"
+  ],
+  "explanation": {
+    "id": "3977",
+    "text": "浄 (đọc là \"jō\" hoặc \"sei\") có nghĩa là \"thanh tẩy\", \"trong sạch\", để chỉ các hành động liên quan đến việc làm sạch hoặc tinh khiết hóa.\n\nVí dụ:\n- 浄化 (jōka): Làm sạch, thanh lọc.\n- 浄水 (jōsui)"
+  },
+  "comments": [
+    {
+      "id": "154889",
+      "lang": "vi",
+      "content_html": "<p>Đất Nước không còn chiến Tranh trở thành nơi thanh TỊNH</p>",
+      "content_text": "Đất Nước không còn chiến Tranh trở thành nơi thanh TỊNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154890",
+      "lang": "vi",
+      "content_html": "<p>các NƯỚC mà có chiến TRANH thì k thanh TỊNH</p>",
+      "content_text": "các NƯỚC mà có chiến TRANH thì k thanh TỊNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154891",
+      "lang": "vi",
+      "content_html": "<p>Tịnh là cái nơi mà có dòng nước tranh nhau mà chảy</p>",
+      "content_text": "Tịnh là cái nơi mà có dòng nước tranh nhau mà chảy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

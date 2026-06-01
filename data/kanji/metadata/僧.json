@@ -1,0 +1,88 @@
+{
+  "kanji": "僧",
+  "meta": {
+    "weight": 246,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [],
+    "am_han": "TĂNG"
+  },
+  "meaning": {
+    "vi": "Tu sĩ Phật giáo",
+    "en": "Buddhist priest, monk"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/僧.svg"
+  },
+  "frequency": 1724,
+  "examples": [
+    "僧",
+    "僧侶",
+    "小僧",
+    "尼僧",
+    "僧院"
+  ],
+  "explanation": {
+    "id": "4667",
+    "text": "僧 (đọc là \"sō\") có nghĩa là \"tu sĩ\", \"người tu hành\" trong bối cảnh tôn giáo, thường chỉ các nhà sư trong Phật giáo.  \nVí dụ:  \n- 僧侶 (sōryo): Tu sĩ, nhà sư.  \n- 僧院 (sōin): Tu viện, chùa.  \n-"
+  },
+  "comments": [
+    {
+      "id": "151807",
+      "lang": "vi",
+      "content_html": "<p>曽：Tằng(そう、そ、ぞう)<br><br>層: Tằng ở nhà nhiều tầng<br><br>憎：Tằng giận tim dựng đứng lên<br><br>贈：Tằng được tặng bảo bối<br><br>増：Tằng mua thêm đất<br><br>僧：Tằng tăng nhân thành nhà sư<br><br>以上、Mọi người học kanji vui vẻ, Tằng vào chùa đây</p>",
+      "content_text": "曽：Tằng(そう、そ、ぞう)\n層: Tằng ở nhà nhiều tầng\n憎：Tằng giận tim dựng đứng lên\n贈：Tằng được tặng bảo bối\n増：Tằng mua thêm đất\n僧：Tằng tăng nhân thành nhà sư\n以上、Mọi người học kanji vui vẻ, Tằng vào chùa đây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151808",
+      "lang": "vi",
+      "content_html": "<p>Người đi tu phải làm ruộng vào chủ nhật</p>",
+      "content_text": "Người đi tu phải làm ruộng vào chủ nhật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151809",
+      "lang": "vi",
+      "content_html": "<p>Người đi tu đã từng làm ruộng hàng ngày</p>",
+      "content_text": "Người đi tu đã từng làm ruộng hàng ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "kanji": "盾",
+  "meta": {
+    "weight": 1840,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュン"
+    ],
+    "kun": [
+      "たて"
+    ],
+    "am_han": "THUẪN"
+  },
+  "meaning": {
+    "vi": "lá chắn, escutcheon, duyên cớ",
+    "en": "shield, escutcheon, pretext"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/盾.svg"
+  },
+  "frequency": 1476,
+  "examples": [
+    "矛盾",
+    "盾"
+  ],
+  "explanation": {
+    "id": "3661",
+    "text": "盾 (đọc là \"jun\") có nghĩa là \"lá chắn\", chỉ vật dụng bảo vệ hoặc hành động che chở.  \nVí dụ:  \n- 盾牌 (junpai): Lá chắn, khiên.  \n- 防御盾 (bōgyo jun): Lá chắn phòng thủ.  \n- 盾となる (jun to naru): "
+  },
+  "comments": [
+    {
+      "id": "155553",
+      "lang": "vi",
+      "content_html": "<p>Dưới SƯỜN NÚI có 10 CON MẮT mâu thuẫn nhau</p>",
+      "content_text": "Dưới SƯỜN NÚI có 10 CON MẮT mâu thuẫn nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155554",
+      "lang": "vi",
+      "content_html": "<p>Khi có mâu thuẫn đứng trong nhà dương 10 con mắt nhìn ra</p>",
+      "content_text": "Khi có mâu thuẫn đứng trong nhà dương 10 con mắt nhìn ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155555",
+      "lang": "vi",
+      "content_html": "<p>dùng cái khiên bảo vệ 10 con mắt</p>",
+      "content_text": "dùng cái khiên bảo vệ 10 con mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

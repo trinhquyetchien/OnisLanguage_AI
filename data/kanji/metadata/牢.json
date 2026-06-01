@@ -1,0 +1,73 @@
+{
+  "kanji": "牢",
+  "meta": {
+    "weight": 1696,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロウ"
+    ],
+    "kun": [
+      "かた.い",
+      "ひとや"
+    ],
+    "am_han": "LAO"
+  },
+  "meaning": {
+    "vi": "nhà tù, độ cứng",
+    "en": "prison, jail, hardness"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/牢.svg"
+  },
+  "frequency": 2472,
+  "examples": [
+    "牢",
+    "牢獄",
+    "堅牢",
+    "牢屋"
+  ],
+  "explanation": {
+    "id": "8341",
+    "text": "牢 (đọc là \"ろう\", \"rou\") có nghĩa là \"nhà tù\", \"giam giữ\", chỉ nơi giam giữ hoặc tình trạng bị giam cầm.\n\nVí dụ:\n- 牢獄 (ろうごく, rougoku): Nhà tù.\n- 牢屋 (ろうや, rouya): Buồng giam.\n- 監牢 (かんろう, kanrou"
+  },
+  "comments": [
+    {
+      "id": "155237",
+      "lang": "vi",
+      "content_html": "<p>hình ảnh con bò ở dưới mái nhà như bị nhốt trong LAO.</p>",
+      "content_text": "hình ảnh con bò ở dưới mái nhà như bị nhốt trong LAO.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155238",
+      "lang": "vi",
+      "content_html": "<p>Hình ảnh Cái chuồng để nhốt con bò.</p>",
+      "content_text": "Hình ảnh Cái chuồng để nhốt con bò.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

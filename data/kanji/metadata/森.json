@@ -1,0 +1,90 @@
+{
+  "kanji": "森",
+  "meta": {
+    "weight": 1378,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "もり"
+    ],
+    "am_han": "SÂM"
+  },
+  "meaning": {
+    "vi": "rừng",
+    "en": "forest, woods"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/森.svg"
+  },
+  "frequency": 609,
+  "examples": [
+    "森",
+    "森林",
+    "青森",
+    "大森",
+    "森羅万象"
+  ],
+  "explanation": {
+    "id": "4085",
+    "text": "森 (đọc là \"mori\") có nghĩa là \"rừng\" để chỉ khu vực có nhiều cây cối, thường được dùng để nói về thiên nhiên và môi trường sống.  \nVí dụ:  \n- 森林 (shinrin): Rừng núi, khu rừng.  \n- 森の中 (mori "
+  },
+  "comments": [
+    {
+      "id": "191069",
+      "lang": "vi",
+      "content_html": "<p><strong>rừng</strong></p>",
+      "content_text": "rừng",
+      "image_url": "https://jpdictionary.com/upload/images/648a947fb6c12.jpg",
+      "image_path": "assets/images/森_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "745",
+      "lang": "vi",
+      "content_html": "<p>Ba cây trở thành <strong>rừng rậm</strong>.</p>",
+      "content_text": "Ba cây trở thành\nrừng rậm\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62984a81b4504.jpg",
+      "image_path": "assets/images/森_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154554",
+      "lang": "vi",
+      "content_html": "<p>Vao rung tim 3 cay SAM</p>",
+      "content_text": "Vao rung tim 3 cay SAM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

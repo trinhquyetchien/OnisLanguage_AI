@@ -1,0 +1,94 @@
+{
+  "kanji": "鈍",
+  "meta": {
+    "weight": 2745,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドン"
+    ],
+    "kun": [
+      "にぶ.い",
+      "にぶ.る",
+      "にぶ-",
+      "なま.る",
+      "なまく.ら"
+    ],
+    "am_han": "ĐỘN"
+  },
+  "meaning": {
+    "vi": "đần độn, chậm chạp",
+    "en": "dull, slow, foolish, blunt"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/鈍.svg"
+  },
+  "frequency": 1574,
+  "examples": [
+    "鈍い",
+    "鈍感",
+    "鈍化",
+    "鈍",
+    "愚鈍"
+  ],
+  "explanation": {
+    "id": "6032",
+    "text": "鈍 (đọc là \"don\") có nghĩa là \"cùn\", \"mờ nhạt\" để chỉ sự không sắc bén hoặc kém tinh tế.  \nVí dụ:  \n- 鈍感 (donkan): Không nhạy cảm, thờ ơ.  \n- 鈍化 (donka): Sự suy giảm, giảm tốc độ.  \n- 鈍い (dul"
+  },
+  "comments": [
+    {
+      "id": "157534",
+      "lang": "vi",
+      "content_html": "<p>Vàng đeo lộn ngược đúng là đần độn</p>",
+      "content_text": "Vàng đeo lộn ngược đúng là đần độn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157535",
+      "lang": "vi",
+      "content_html": "<p>dùng kim loại đi chém 7 ngọn núi thì kiểu gì chả cùn, đúng là đần Độn mà</p>",
+      "content_text": "dùng kim loại đi chém 7 ngọn núi thì kiểu gì chả cùn, đúng là đần Độn mà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157536",
+      "lang": "vi",
+      "content_html": "<p>Dù là kim loại nhưng chém bay ngọn núi thì cũng cùn thôi, thằng đần độn</p>",
+      "content_text": "Dù là kim loại nhưng chém bay ngọn núi thì cũng cùn thôi, thằng đần độn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

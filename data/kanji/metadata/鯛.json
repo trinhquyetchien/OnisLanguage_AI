@@ -1,0 +1,52 @@
+{
+  "kanji": "鯛",
+  "meta": {
+    "weight": 2982,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "たい"
+    ],
+    "am_han": "ĐIÊU"
+  },
+  "meaning": {
+    "vi": "cá tráp biển, cá hồng",
+    "en": "sea bream, red snapper"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/鯛.svg"
+  },
+  "frequency": 2446,
+  "examples": [
+    "鯛"
+  ],
+  "explanation": {
+    "id": "4992",
+    "text": "鯛 (đọc là \"tai\") có nghĩa là \"cá thu\" hoặc \"cá điêu hồng\", một loại cá quý trong ẩm thực Nhật Bản, thường được xem là biểu tượng của sự may mắn.  \nVí dụ:  \n- 鯛焼き (taiyaki): Bánh cá nướng, mộ"
+  },
+  "comments": [
+    {
+      "id": "158049",
+      "lang": "vi",
+      "content_html": "<p>không phải nói điêu chứ tôi ăn được cá tráp nguyên tuần</p>",
+      "content_text": "không phải nói điêu chứ tôi ăn được cá tráp nguyên tuần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

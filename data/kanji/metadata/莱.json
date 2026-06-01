@@ -1,0 +1,53 @@
+{
+  "kanji": "莱",
+  "meta": {
+    "weight": 2289,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ライ",
+      "リ"
+    ],
+    "kun": [
+      "あかざ",
+      "あわち",
+      "こうがい"
+    ],
+    "am_han": "LAI"
+  },
+  "meaning": {
+    "vi": "chân ngỗng, cây cỏ heo",
+    "en": "goosefoot, pigweed"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/莱.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7949",
+    "text": "莱 (đọc là \"rai\") có nghĩa là \"rau diếp\" để chỉ một loại rau lá thường được sử dụng trong ẩm thực Nhật Bản.\n\nVí dụ:\n- 莱菜 (raisa): Rau diếp.\n- 莱の花 (rai no hana): Hoa của rau diếp.\n- 莱州 (Raishū"
+  },
+  "comments": [
+    {
+      "id": "220543",
+      "lang": "vi",
+      "content_html": "<p>LAi CỎ(chở cỏ) đến rồi THÁI thành RAU</p>",
+      "content_text": "LAi CỎ(chở cỏ) đến rồi THÁI thành RAU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

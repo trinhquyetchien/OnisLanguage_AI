@@ -1,0 +1,91 @@
+{
+  "kanji": "預",
+  "meta": {
+    "weight": 2902,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨ"
+    ],
+    "kun": [
+      "あず.ける",
+      "あず.かる"
+    ],
+    "am_han": "DỰ"
+  },
+  "meaning": {
+    "vi": "ký gửi",
+    "en": "deposit, custody, leave with, entrust to"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/預.svg"
+  },
+  "frequency": 981,
+  "examples": [
+    "預金",
+    "預け",
+    "預言",
+    "預かり",
+    "預ける"
+  ],
+  "explanation": {
+    "id": "7835",
+    "text": "預 (đọc là \"yo\") có nghĩa là \"dự đoán\", \"gửi trước\" để chỉ các hành động liên quan đến việc đặt trước hoặc dự báo điều gì đó.  \nVí dụ:  \n- 預金 (yokin): Tiền gửi, tiết kiệm.  \n- 預ける (azukeru): "
+  },
+  "comments": [
+    {
+      "id": "157877",
+      "lang": "vi",
+      "content_html": "<p>Nhiều dự định dự trữ trong đầu</p>",
+      "content_text": "Nhiều dự định dự trữ trong đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157878",
+      "lang": "vi",
+      "content_html": "<p>Nếu có DƯ  một cái đầu để trông nom nhà cửa thì hay quá</p>",
+      "content_text": "Nếu có DƯ  một cái đầu để trông nom nhà cửa thì hay quá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157879",
+      "lang": "vi",
+      "content_html": "<p>tôi DỰ tính DỮ trữ một ít GIẤY để khi gấp thì dùng ngay...</p>",
+      "content_text": "tôi DỰ tính DỮ trữ một ít GIẤY để khi gấp thì dùng ngay...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

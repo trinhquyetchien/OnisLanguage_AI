@@ -1,0 +1,91 @@
+{
+  "kanji": "姫",
+  "meta": {
+    "weight": 667,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "ひめ",
+      "ひめ-"
+    ],
+    "am_han": "CƠ"
+  },
+  "meaning": {
+    "vi": "công chúa",
+    "en": "princess"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/姫.svg"
+  },
+  "frequency": 1566,
+  "examples": [
+    "姫",
+    "お姫様",
+    "織姫",
+    "白雪姫",
+    "姫君"
+  ],
+  "explanation": {
+    "id": "6679",
+    "text": "姫 (đọc là \"hime\") có nghĩa là \"công chúa\", \"nữ quý tộc\" để chỉ những người phụ nữ có địa vị cao trong xã hội, thường liên quan đến gia đình hoàng gia hoặc tầng lớp quý tộc.  \nVí dụ:  \n- 姫様 ("
+  },
+  "comments": [
+    {
+      "id": "152833",
+      "lang": "vi",
+      "content_html": "<p>Công chúa là Nữ Thần</p>",
+      "content_text": "Công chúa là Nữ Thần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152834",
+      "lang": "vi",
+      "content_html": "<p>臣 THẦN ( hạ thần , bề tôi )<br>( xoay chữ sang 90 độ , ta thấy như cái bục xếp hạng , ở giữa là vua , 2 bên là hạ THẦN ) <br><br>người con gái luôn có hạ thần đi theo là CÔNG CHÚA , điều CƠ bản này ai chả biết . ( chị hiểu hôn )</p>",
+      "content_text": "臣 THẦN ( hạ thần , bề tôi )\n( xoay chữ sang 90 độ , ta thấy như cái bục xếp hạng , ở giữa là vua , 2 bên là hạ THẦN )\nngười con gái luôn có hạ thần đi theo là CÔNG CHÚA , điều CƠ bản này ai chả biết . ( chị hiểu hôn )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152835",
+      "lang": "vi",
+      "content_html": "<p>Nữ Thần đăng Cơ làm Công Chúa.</p>",
+      "content_text": "Nữ Thần đăng Cơ làm Công Chúa.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

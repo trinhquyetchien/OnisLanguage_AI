@@ -1,0 +1,86 @@
+{
+  "kanji": "翁",
+  "meta": {
+    "weight": 2138,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オウ"
+    ],
+    "kun": [
+      "おきな"
+    ],
+    "am_han": "ÔNG"
+  },
+  "meaning": {
+    "vi": "ông già đáng kính",
+    "en": "venerable old man"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/翁.svg"
+  },
+  "frequency": 2064,
+  "examples": [
+    "翁"
+  ],
+  "explanation": {
+    "id": "541",
+    "text": "翁 (đọc là \"おきな\" / okina) có nghĩa là \"ông lão\", thường chỉ người đàn ông lớn tuổi, khôn ngoan hoặc có kinh nghiệm. \n\nVí dụ:\n- 翁長 (おきなが / Okinaga): Một họ phổ biến, có thể tham khảo đến nhân "
+  },
+  "comments": [
+    {
+      "id": "156205",
+      "lang": "vi",
+      "content_html": "<p>ông già nhà tớ từng là 1 vũ công</p>",
+      "content_text": "ông già nhà tớ từng là 1 vũ công",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156206",
+      "lang": "vi",
+      "content_html": "<p>Vũ 羽 công 公 là 1 nghề không giành cho ông già</p>",
+      "content_text": "Vũ 羽 công 公 là 1 nghề không giành cho ông già",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156207",
+      "lang": "vi",
+      "content_html": "<p>vũ công là nghề mà ông già tôi từng theo đuổi</p>",
+      "content_text": "vũ công là nghề mà ông già tôi từng theo đuổi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

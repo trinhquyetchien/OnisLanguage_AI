@@ -1,0 +1,110 @@
+{
+  "kanji": "恥",
+  "meta": {
+    "weight": 965,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チ"
+    ],
+    "kun": [
+      "は.じる",
+      "はじ",
+      "は.じらう",
+      "は.ずかしい"
+    ],
+    "am_han": "SỈ"
+  },
+  "meaning": {
+    "vi": "xấu hổ, sỉ nhục",
+    "en": "shame, dishonor"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/恥.svg"
+  },
+  "frequency": 1575,
+  "examples": [
+    "恥ずかしい",
+    "恥",
+    "恥じ",
+    "恥じる",
+    "恥知らず"
+  ],
+  "explanation": {
+    "id": "5205",
+    "text": "恥 (đọc là \"chi\") có nghĩa là \"xấu hổ\", \"nhục nhã\" để chỉ cảm giác không thoải mái hoặc sự xấu hổ về hành động của bản thân hoặc người khác.  \nVí dụ:  \n- 恥ずかしい (hazukashii): Xấu hổ, ngại ngùn"
+  },
+  "comments": [
+    {
+      "id": "37036",
+      "lang": "vi",
+      "content_html": "<p>Thật đáng<strong> xấu hổ</strong> nếu bạn không lắng nghe tiếng gọi của con tim (心) mình.</p>",
+      "content_text": "Thật đáng\nxấu hổ\nnếu bạn không lắng nghe tiếng gọi của con tim (心) mình.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc521d95b69.jpg",
+      "image_path": "assets/images/恥_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153575",
+      "lang": "vi",
+      "content_html": "<p>khi NGHE 耳 những lời SỈ 恥 nhục đó. trong TÂM 心 tôi cảm thấy rất là XẤU HỔ...</p>",
+      "content_text": "khi NGHE 耳 những lời SỈ 恥 nhục đó. trong TÂM 心 tôi cảm thấy rất là XẤU HỔ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153576",
+      "lang": "vi",
+      "content_html": "<p>TAI nghe lời SỈ vả, con TIM sẽ quặn lên vì XẤU HỔ</p>",
+      "content_text": "TAI nghe lời SỈ vả, con TIM sẽ quặn lên vì XẤU HỔ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153577",
+      "lang": "vi",
+      "content_html": "<p>Tai nghe thấy mà tim đã đập nhất định là do xấu hổ</p>",
+      "content_text": "Tai nghe thấy mà tim đã đập nhất định là do xấu hổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

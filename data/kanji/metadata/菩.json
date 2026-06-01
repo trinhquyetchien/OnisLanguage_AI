@@ -1,0 +1,52 @@
+{
+  "kanji": "菩",
+  "meta": {
+    "weight": 2297,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボ"
+    ],
+    "kun": [],
+    "am_han": "BỒ"
+  },
+  "meaning": {
+    "vi": "loại cỏ, cây thiêng",
+    "en": "kind of grass, sacred tree"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/菩.svg"
+  },
+  "frequency": 2086,
+  "examples": [
+    "菩薩",
+    "菩提樹",
+    "菩提寺"
+  ],
+  "explanation": {
+    "id": "7135",
+    "text": "菩 (đọc là \"bo\") có nghĩa là \"Bồ tát\", chỉ những người đã đạt được giác ngộ nhưng vẫn ở lại thế gian để giúp đỡ chúng sinh.\n\nVí dụ:\n- 菩薩 (bosatsu): Bồ tát, người chứng ngộ.\n- 菩提 (bodai): Giác"
+  },
+  "comments": [
+    {
+      "id": "156546",
+      "lang": "vi",
+      "content_html": "<p>Bồ đề cầm ngọn cỏ, đứng trên cao miệng tuôn những lời vàng ngọc</p>",
+      "content_text": "Bồ đề cầm ngọn cỏ, đứng trên cao miệng tuôn những lời vàng ngọc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

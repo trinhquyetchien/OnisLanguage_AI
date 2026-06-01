@@ -1,0 +1,92 @@
+{
+  "kanji": "限",
+  "meta": {
+    "weight": 2823,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲン"
+    ],
+    "kun": [
+      "かぎ.る",
+      "かぎ.り",
+      "-かぎ.り"
+    ],
+    "am_han": "HẠN"
+  },
+  "meaning": {
+    "vi": "giới hạn, hạn chế",
+    "en": "limit, restrict, to best of ability"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/限.svg"
+  },
+  "frequency": 405,
+  "examples": [
+    "限り",
+    "限定",
+    "制限",
+    "限界",
+    "権限"
+  ],
+  "explanation": {
+    "id": "2239",
+    "text": "限 (đọc là \"gen\") có nghĩa là \"giới hạn\", \"hạn chế\" để chỉ các điều kiện hoặc ranh giới mà không được vượt qua.\n\nVí dụ:\n- 限界 (genkai): Giới hạn, ranh giới.\n- 限定 (gentei): Hạn chế, giới hạn (s"
+  },
+  "comments": [
+    {
+      "id": "157678",
+      "lang": "vi",
+      "content_html": "<p>Lương thực bị Giới hạn bới bức tường</p>",
+      "content_text": "Lương thực bị Giới hạn bới bức tường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157679",
+      "lang": "vi",
+      "content_html": "<p>阝gò đất , to lớn , béo .<br>艮 cấn ,.. quẻ Cấn (Kinh Dịch); dừng, bền cứng<br><br> muốn dừng béo thì phải hạn chế , giới hạn ăn uống lại</p>",
+      "content_text": "阝gò đất , to lớn , béo .\n艮 cấn ,.. quẻ Cấn (Kinh Dịch); dừng, bền cứng\nmuốn dừng béo thì phải hạn chế , giới hạn ăn uống lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157680",
+      "lang": "vi",
+      "content_html": "<p>LƯƠNG thực trên ĐỒI  thì HẠN chế</p>",
+      "content_text": "LƯƠNG thực trên ĐỒI  thì HẠN chế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

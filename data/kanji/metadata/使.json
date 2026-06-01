@@ -1,0 +1,76 @@
+{
+  "kanji": "使",
+  "meta": {
+    "weight": 181,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "つか.う",
+      "つか.い",
+      "-つか.い",
+      "-づか.い"
+    ],
+    "am_han": "SỬ, SỨ"
+  },
+  "meaning": {
+    "vi": "sử dụng",
+    "en": "use, send on a mission, order, messenger, envoy, ambassador, cause"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/使.svg"
+  },
+  "frequency": 219,
+  "examples": [
+    "使用",
+    "使う",
+    "使い",
+    "使える",
+    "使い方"
+  ],
+  "explanation": {
+    "id": "3045",
+    "text": "使 (đọc là \"shi\" hoặc \"suka\") có nghĩa là \"sử dụng\", \"cho phép\" hoặc \"làm cho\" để chỉ các hành động liên quan đến việc sử dụng, thực hiện hoặc giao phó một nhiệm vụ nào đó.  \nVí dụ:  \n- 使う (t"
+  },
+  "comments": [
+    {
+      "id": "36831",
+      "lang": "vi",
+      "content_html": "<p>Anh ấy đang <strong>dùng </strong>người.</p>",
+      "content_text": "Anh ấy đang\ndùng\nngười.",
+      "image_url": "https://jpdictionary.com/upload/images/62ac7bd38ceb8.jpg",
+      "image_path": "assets/images/使_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158377",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>使う (つかう): sử dụng</p><p>大使館 (たいしかん): đại sứ quán</p>",
+      "content_text": "JLPT N4\n使う (つかう): sử dụng\n大使館 (たいしかん): đại sứ quán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "kanji": "俺",
+  "meta": {
+    "weight": 207,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "おれ",
+      "われ"
+    ],
+    "am_han": "YÊM"
+  },
+  "meaning": {
+    "vi": "Tôi, chính tôi",
+    "en": "I, myself"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/俺.svg"
+  },
+  "frequency": 1946,
+  "examples": [
+    "俺"
+  ],
+  "explanation": {
+    "id": "582",
+    "text": "俺 (đọc là \"ore\") có nghĩa là \"tôi\", thường được sử dụng bởi nam giới trong ngữ cảnh thân mật hoặc tự tin. \n\nVí dụ:\n- 俺は行く (ore wa iku): Tôi đi.\n- 俺たち (ore-tachi): Chúng tôi (cách nói thân mậ"
+  },
+  "comments": [
+    {
+      "id": "151708",
+      "lang": "vi",
+      "content_html": "<p>Người to chẻ đôi mặt trời là tao : o yêm</p>",
+      "content_text": "Người to chẻ đôi mặt trời là tao : o yêm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151709",
+      "lang": "vi",
+      "content_html": "<p>người đứng dạng 2 chân ra cầm cái liềm cắt lúa hết cả cánh đồng là yêm (tao)</p>",
+      "content_text": "người đứng dạng 2 chân ra cầm cái liềm cắt lúa hết cả cánh đồng là yêm (tao)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151710",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI ĐỨNG cho mình TO LỚN khi THÂN THUYẾT TRƯỚC VỊ ẤT --  đó là TAO</p>",
+      "content_text": "NGƯỜI ĐỨNG cho mình TO LỚN khi THÂN THUYẾT TRƯỚC VỊ ẤT --  đó là TAO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

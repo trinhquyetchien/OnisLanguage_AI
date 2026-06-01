@@ -1,0 +1,85 @@
+{
+  "kanji": "倖",
+  "meta": {
+    "weight": 212,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "しあわ.せ",
+      "さいわ.い"
+    ],
+    "am_han": "HÃNH"
+  },
+  "meaning": {
+    "vi": "hạnh phúc, may mắn",
+    "en": "happiness, luck"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/倖.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2381",
+    "text": "倖 (đọc là \"kō\") có nghĩa là \"may mắn\" hoặc \"hạnh phúc\", thường được dùng để chỉ những điều tốt đẹp, may rủi trong cuộc sống.\n\nVí dụ:\n- 倖せ (shiawase): Hạnh phúc.\n- 倖運 (kōun): Vận may, số đỏ.\n"
+  },
+  "comments": [
+    {
+      "id": "218881",
+      "lang": "vi",
+      "content_html": "<p>Người hạnh phúc thì luôn HÃNH diện</p>",
+      "content_text": "Người hạnh phúc thì luôn HÃNH diện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218882",
+      "lang": "vi",
+      "content_html": "<p>hãnh diện, hp</p>",
+      "content_text": "hãnh diện, hp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218883",
+      "lang": "vi",
+      "content_html": "<p>nguời có đất có tiền(yên) thì hạnh phúc rùi</p>",
+      "content_text": "nguời có đất có tiền(yên) thì hạnh phúc rùi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

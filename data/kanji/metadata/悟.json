@@ -1,0 +1,88 @@
+{
+  "kanji": "悟",
+  "meta": {
+    "weight": 975,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴ"
+    ],
+    "kun": [
+      "さと.る"
+    ],
+    "am_han": "NGỘ"
+  },
+  "meaning": {
+    "vi": "giác ngộ, nhận thức, phân biệt, nhận ra, hiểu",
+    "en": "enlightenment, perceive, discern, realize, understand"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/悟.svg"
+  },
+  "frequency": 1411,
+  "examples": [
+    "覚悟",
+    "悟り",
+    "悟る"
+  ],
+  "explanation": {
+    "id": "2337",
+    "text": "悟 (đọc là \"go\") có nghĩa là \"hiểu biết\", \"thấu hiểu\", thường chỉ trạng thái nhận thức sâu sắc hoặc sáng suốt về một vấn đề.  \nVí dụ:  \n- 悟る (satoru): Hiểu, thấu hiểu.  \n- 悟性 (gosei): Trí tuệ"
+  },
+  "comments": [
+    {
+      "id": "153596",
+      "lang": "vi",
+      "content_html": "<p>Nói 5 câu thì CON TIM mới NGỘ ra</p>",
+      "content_text": "Nói 5 câu thì CON TIM mới NGỘ ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153597",
+      "lang": "vi",
+      "content_html": "<p>Con tim giác Ngộ 5 điều BÁC HỒ dạy</p>",
+      "content_text": "Con tim giác Ngộ 5 điều BÁC HỒ dạy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153598",
+      "lang": "vi",
+      "content_html": "<p>悟空</p>",
+      "content_text": "悟空",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

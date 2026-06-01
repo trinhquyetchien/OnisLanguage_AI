@@ -1,0 +1,92 @@
+{
+  "kanji": "暴",
+  "meta": {
+    "weight": 1253,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ",
+      "バク"
+    ],
+    "kun": [
+      "あば.く",
+      "あば.れる"
+    ],
+    "am_han": "BẠO, BỘC"
+  },
+  "meaning": {
+    "vi": "bạo lực, thịnh nộ",
+    "en": "outburst, rave, fret, force, violence, cruelty, outrage"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/暴.svg"
+  },
+  "frequency": 692,
+  "examples": [
+    "暴力",
+    "暴走",
+    "暴露",
+    "暴行",
+    "乱暴"
+  ],
+  "explanation": {
+    "id": "7270",
+    "text": "暴 (đọc là \"bō\") có nghĩa là \"bạo lực\", \"nổi giận\" để chỉ các hành động thể hiện sự thô bạo hoặc cơn giận dữ.\n\nVí dụ:\n- 暴力 (bōryoku): Bạo lực.\n- 暴れる (abare): Nổi giận, hành động ẩu đả.\n- 暴動 ("
+  },
+  "comments": [
+    {
+      "id": "154289",
+      "lang": "vi",
+      "content_html": "<p>Cộng đồng Nước Nhật rất hiếm khi xảy ra BẠO động</p>",
+      "content_text": "Cộng đồng Nước Nhật rất hiếm khi xảy ra BẠO động",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154290",
+      "lang": "vi",
+      "content_html": "<p>tàn bạo 暴 nhất là giữa ngày 日 đông lạnh giá. bắt trẻ con ngâm mình trong nước 水 lạnh.</p>",
+      "content_text": "tàn bạo 暴 nhất là giữa ngày 日 đông lạnh giá. bắt trẻ con ngâm mình trong nước 水 lạnh.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154291",
+      "lang": "vi",
+      "content_html": "<p>Ngày nào đó 日 cung cấp 共 quá nhiều 水 sẽ gây ra bạo loạn 暴</p>",
+      "content_text": "Ngày nào đó 日 cung cấp 共 quá nhiều 水 sẽ gây ra bạo loạn 暴",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

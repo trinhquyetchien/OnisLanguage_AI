@@ -1,0 +1,108 @@
+{
+  "kanji": "陸",
+  "meta": {
+    "weight": 2834,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リク",
+      "ロク"
+    ],
+    "kun": [
+      "おか"
+    ],
+    "am_han": "LỤC"
+  },
+  "meaning": {
+    "vi": "đất liền, lục địa",
+    "en": "land, six"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/陸.svg"
+  },
+  "frequency": 736,
+  "examples": [
+    "大陸",
+    "陸上",
+    "上陸",
+    "陸軍",
+    "陸"
+  ],
+  "explanation": {
+    "id": "8031",
+    "text": "陸 (đọc là \"riku\") có nghĩa là \"đất liền\", \"bờ\" để chỉ các vùng đất không phải là nước, thường liên quan đến địa lý và môi trường tự nhiên.\n\nVí dụ:\n- 陸上 (rikujō): Trên cạn, thể thao điền kinh"
+  },
+  "comments": [
+    {
+      "id": "37306",
+      "lang": "vi",
+      "content_html": "<p>Ở <strong>vùng đất</strong> này chỉ toàn trạm xe buýt.</p>",
+      "content_text": "Ở\nvùng đất\nnày chỉ toàn trạm xe buýt.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe27a1eaa3.jpg",
+      "image_path": "assets/images/陸_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157711",
+      "lang": "vi",
+      "content_html": "<p>Lục đia là nơi chân đi bộ từ vùng đất này qua vùng đất khác mãi không hết</p>",
+      "content_text": "Lục đia là nơi chân đi bộ từ vùng đất này qua vùng đất khác mãi không hết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157712",
+      "lang": "vi",
+      "content_html": "<p>LỤC ĐỊA là VÙNG ĐẤT đầu TIÊN có ĐẤT</p>",
+      "content_text": "LỤC ĐỊA là VÙNG ĐẤT đầu TIÊN có ĐẤT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157713",
+      "lang": "vi",
+      "content_html": "<p>Người đi trước -先 đã đi mọi vùng đất 阝, lãnh thổ 土 để khám phá châu  LỤC -陸</p>",
+      "content_text": "Người đi trước -先 đã đi mọi vùng đất 阝, lãnh thổ 土 để khám phá châu  LỤC -陸",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

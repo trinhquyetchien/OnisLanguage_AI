@@ -1,0 +1,96 @@
+{
+  "kanji": "縁",
+  "meta": {
+    "weight": 2105,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン",
+      "-ネン"
+    ],
+    "kun": [
+      "ふち",
+      "ふち.どる",
+      "ゆかり",
+      "よすが",
+      "へり",
+      "えにし"
+    ],
+    "am_han": "DUYÊN"
+  },
+  "meaning": {
+    "vi": "mối quan hệ, kết nối, cạnh, biên giới, bờ vực",
+    "en": "affinity, relation, connection, edge, border, verge, brink"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/縁.svg"
+  },
+  "frequency": 1291,
+  "examples": [
+    "縁",
+    "無縁",
+    "縁起",
+    "因縁",
+    "絶縁"
+  ],
+  "explanation": {
+    "id": "477",
+    "text": "縁 (đọc là \"en\") có nghĩa là \"mối liên hệ\", \"mối quan hệ\" để chỉ các mối liên kết hay sự kết nối giữa con người hoặc giữa các sự vật.\n\nVí dụ:\n- 縁側 (engawa): Lối đi quanh nhà, thường là nơi kế"
+  },
+  "comments": [
+    {
+      "id": "156125",
+      "lang": "vi",
+      "content_html": "<p>sợi dây kéo con nhím và con lợn thành mối lương duyên</p>",
+      "content_text": "sợi dây kéo con nhím và con lợn thành mối lương duyên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156126",
+      "lang": "vi",
+      "content_html": "<p>Sợi Tơ hồng quấn quanh chuồng Lợn<br>Duyên chúng mình có tợn quá ko Em</p>",
+      "content_text": "Sợi Tơ hồng quấn quanh chuồng Lợn\nDuyên chúng mình có tợn quá ko Em",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156127",
+      "lang": "vi",
+      "content_html": "<p>Sợi dây kéo dài duyên trao cho lợn</p>",
+      "content_text": "Sợi dây kéo dài duyên trao cho lợn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

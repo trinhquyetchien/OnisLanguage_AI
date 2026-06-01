@@ -1,0 +1,89 @@
+{
+  "kanji": "峡",
+  "meta": {
+    "weight": 797,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ",
+      "コウ"
+    ],
+    "kun": [
+      "はざま"
+    ],
+    "am_han": "HẠP, HIỆP, GIÁP, KẼM"
+  },
+  "meaning": {
+    "vi": "hẻm núi, khe núi",
+    "en": "gorge, ravine"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/峡.svg"
+  },
+  "frequency": 1833,
+  "examples": [
+    "海峡",
+    "峡",
+    "峡谷"
+  ],
+  "explanation": {
+    "id": "1653",
+    "text": "峡 (đọc là \"kyō\") có nghĩa là \"canyon\", \"hẻm núi\" để chỉ các vùng đất bị cắt xén bởi nước hoặc địa hình dốc.  \nVí dụ:  \n- 峡谷 (kyōkoku): Hẻm núi, canyon.  \n- 峡道 (kyōdō): Đường hẻm núi.  \n- 雪峡 "
+  },
+  "comments": [
+    {
+      "id": "153157",
+      "lang": "vi",
+      "content_html": "<p>khe núi không còn hẹp(狭い ）vì ko có chó</p>",
+      "content_text": "khe núi không còn hẹp(狭い ）vì ko có chó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153158",
+      "lang": "vi",
+      "content_html": "<p>Tương lai (来) HẠP(峡) với công việc ở HẺM NÚI(山)</p>",
+      "content_text": "Tương lai (来) HẠP(峡) với công việc ở HẺM NÚI(山)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153159",
+      "lang": "vi",
+      "content_html": "<p>thằng HẠP đốt 2 ngọn LỬA ở HẺM NÚI</p>",
+      "content_text": "thằng HẠP đốt 2 ngọn LỬA ở HẺM NÚI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

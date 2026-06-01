@@ -1,0 +1,93 @@
+{
+  "kanji": "蛇",
+  "meta": {
+    "weight": 2377,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジャ",
+      "ダ",
+      "イ",
+      "ヤ"
+    ],
+    "kun": [
+      "へび"
+    ],
+    "am_han": "XÀ, DI"
+  },
+  "meaning": {
+    "vi": "con rắn, người uống rượu mạnh",
+    "en": "snake, serpent, hard drinker"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/蛇.svg"
+  },
+  "frequency": 1721,
+  "examples": [
+    "蛇",
+    "蛇足",
+    "長蛇",
+    "蛇口",
+    "蛇行"
+  ],
+  "explanation": {
+    "id": "3360",
+    "text": "蛇 (đọc là \"ja\" hoặc \"hebi\") có nghĩa là \"rắn\", chỉ loài động vật có thân hình dài, không chân và thường được biết đến với khả năng bò, trườn.  \nVí dụ:  \n- 蛇口 (jakuchi): Vòi nước.  \n- 蛇行 (dah"
+  },
+  "comments": [
+    {
+      "id": "156667",
+      "lang": "vi",
+      "content_html": "<p>con sâu (虫) mà bò vào nhà (宅) là con rắn (蛇)</p>",
+      "content_text": "con sâu (虫) mà bò vào nhà (宅) là con rắn (蛇)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156668",
+      "lang": "vi",
+      "content_html": "<p>con sâu ngồi trong phòng uống caphe, biến thành con rắn</p>",
+      "content_text": "con sâu ngồi trong phòng uống caphe, biến thành con rắn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156669",
+      "lang": "vi",
+      "content_html": "<p>con sâu(虫) ngậm thìa (匕) dưới mái nhà( 宀) hoá ra là con Rắn</p>",
+      "content_text": "con sâu(虫) ngậm thìa (匕) dưới mái nhà( 宀) hoá ra là con Rắn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

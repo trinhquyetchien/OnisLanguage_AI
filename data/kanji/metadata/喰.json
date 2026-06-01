@@ -1,0 +1,49 @@
+{
+  "kanji": "喰",
+  "meta": {
+    "weight": 512,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "く.う",
+      "く.らう"
+    ],
+    "am_han": "THẶC, THỰC, TỰ"
+  },
+  "meaning": {
+    "vi": "ăn, uống, nhận (một đòn), (kokuji)",
+    "en": "eat, drink, receive (a blow), (kokuji)"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/喰.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1845",
+    "text": "喰 (đọc là \"ku\" hoặc \"shoku\") có nghĩa là \"ăn\", \"nuốt\" để chỉ các hành động liên quan đến việc tiêu thụ thực phẩm hoặc ăn uống.\n\nVí dụ:\n- 喰う (kuu): Ăn, nuốt.\n- 食喰 (shokuki): Sự ăn uống, khẩu "
+  },
+  "comments": [
+    {
+      "id": "219140",
+      "lang": "vi",
+      "content_html": "<p>Âm Hán Việt: san/xan/tôn/sôn</p>",
+      "content_text": "Âm Hán Việt: san/xan/tôn/sôn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

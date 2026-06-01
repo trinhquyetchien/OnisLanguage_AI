@@ -1,0 +1,108 @@
+{
+  "kanji": "突",
+  "meta": {
+    "weight": 1960,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トツ",
+      "カ"
+    ],
+    "kun": [
+      "つ.く"
+    ],
+    "am_han": "ĐỘT"
+  },
+  "meaning": {
+    "vi": "đột nhiên, đột phá",
+    "en": "stab, protruding, thrust, pierce, prick, collision, sudden"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/突.svg"
+  },
+  "frequency": 521,
+  "examples": [
+    "突然",
+    "突破",
+    "衝突",
+    "突入",
+    "突き"
+  ],
+  "explanation": {
+    "id": "5984",
+    "text": "突 (đọc là \"totsu\") có nghĩa là \"đâm\", \"xô\", \"đột ngột\" để chỉ các hành động liên quan đến việc tấn công hoặc đột nhiên xảy ra.\n\nVí dụ:\n- 突然 (totsuzen): Đột nhiên, bất ngờ.\n- 突っ込む (tsukkomu):"
+  },
+  "comments": [
+    {
+      "id": "155812",
+      "lang": "vi",
+      "content_html": "<p>Đột nhiên có cái lỗ to</p>",
+      "content_text": "Đột nhiên có cái lỗ to",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155813",
+      "lang": "vi",
+      "content_html": "<p>Đột(突) nhiên lao xuống cái Hố(穴) To(大)</p>",
+      "content_text": "Đột(突) nhiên lao xuống cái Hố(穴) To(大)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155814",
+      "lang": "vi",
+      "content_html": "<p>cái Huyệt To quá nên thấy Đột ngột</p>",
+      "content_text": "cái Huyệt To quá nên thấy Đột ngột",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222380",
+      "lang": "vi",
+      "content_html": "<p>Đột nhiên xuất hiện cái hố to</p>",
+      "content_text": "Đột nhiên xuất hiện cái hố to",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "9744",
+        "name": "Tài Trần Vĩnh",
+        "image_url": "https://jpdictionary.com/upload/images/6930290390612.png"
+      }
+    }
+  ]
+}

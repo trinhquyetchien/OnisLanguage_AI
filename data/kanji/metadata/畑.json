@@ -1,0 +1,90 @@
+{
+  "kanji": "畑",
+  "meta": {
+    "weight": 1782,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "はた",
+      "はたけ",
+      "-ばたけ"
+    ],
+    "am_han": "ĐÈN"
+  },
+  "meaning": {
+    "vi": "nông trại, cánh đồng, khu vườn, đặc sản của một người, (kokuji)",
+    "en": "farm, field, garden, one's specialty, (kokuji)"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/畑.svg"
+  },
+  "frequency": 1176,
+  "examples": [
+    "畑",
+    "田畑",
+    "お花畑",
+    "畑作",
+    "麦畑"
+  ],
+  "explanation": {
+    "id": "6390",
+    "text": "畑 (đọc là \"hatake\") có nghĩa là \"ruộng\" để chỉ các mảnh đất trồng trọt, thường là rau củ hoặc hoa màu.  \nVí dụ:  \n- 畑作 (hatasaku): Canh tác, làm ruộng.  \n- 畑仕事 (hatake shigoto): Công việc nô"
+  },
+  "comments": [
+    {
+      "id": "155417",
+      "lang": "vi",
+      "content_html": "<p>Năm nào cũng vậy, nông gia đốt 火 rơm dạ để ruộng 田 vườn 畑 tươi tốt hơn</p>",
+      "content_text": "Năm nào cũng vậy, nông gia đốt 火 rơm dạ để ruộng 田 vườn 畑 tươi tốt hơn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155418",
+      "lang": "vi",
+      "content_html": "<p>đốt ruộng làm vườn</p>",
+      "content_text": "đốt ruộng làm vườn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155419",
+      "lang": "vi",
+      "content_html": "<p>Vườn</p>",
+      "content_text": "Vườn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "kanji": "春",
+  "meta": {
+    "weight": 1227,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュン"
+    ],
+    "kun": [
+      "はる"
+    ],
+    "am_han": "XUÂN"
+  },
+  "meaning": {
+    "vi": "mùa xuân",
+    "en": "springtime, spring (season)"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/春.svg"
+  },
+  "frequency": 579,
+  "examples": [
+    "春",
+    "青春",
+    "売春",
+    "思春期",
+    "春日"
+  ],
+  "explanation": {
+    "id": "3623",
+    "text": "春 (đọc là \"haru\") có nghĩa là \"xuân\", chỉ mùa xuân hoặc các khía cạnh liên quan đến sự tươi mới, sinh sôi.  \nVí dụ:  \n- 春休み (haruyasumi): Nghỉ xuân.  \n- 春風 (harukaze): Gió xuân.  \n- 春巻き (har"
+  },
+  "comments": [
+    {
+      "id": "705",
+      "lang": "vi",
+      "content_html": "<p>Mùa <strong>xuân </strong>(春) đến rồi. Ba (三) người (人) đang ngắm mặt trời (日).</p>",
+      "content_text": "Mùa\nxuân\n(春) đến rồi. Ba (三) người (人) đang ngắm mặt trời (日).",
+      "image_url": "https://jpdictionary.com/upload/images/62983dbd5c101.png",
+      "image_path": "assets/images/春_1.png",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154222",
+      "lang": "vi",
+      "content_html": "<p>Mùa xuân có 3 ngày quan trọng ( 3 ngay tet)với mọi người</p>",
+      "content_text": "Mùa xuân có 3 ngày quan trọng ( 3 ngay tet)với mọi người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158722",
+      "lang": "vi",
+      "content_html": "<p>新春 (しんしゅん ): Đầu xuân năm mới</p><p>青春 (せいしゅん ): Thanh Xuân<br>立春 (りっしゅん ): Lập xuân<br>&nbsp;</p>",
+      "content_text": "新春 (しんしゅん ): Đầu xuân năm mới\n青春 (せいしゅん ): Thanh Xuân\n立春 (りっしゅん ): Lập xuân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "158574",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>春 (はる): mùa xuân</p>",
+      "content_text": "JLPT N4\n春 (はる): mùa xuân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

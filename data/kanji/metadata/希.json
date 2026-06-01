@@ -1,0 +1,92 @@
+{
+  "kanji": "希",
+  "meta": {
+    "weight": 832,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ",
+      "ケ"
+    ],
+    "kun": [
+      "まれ",
+      "こいねが.う"
+    ],
+    "am_han": "HI"
+  },
+  "meaning": {
+    "vi": "hy vọng",
+    "en": "hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/希.svg"
+  },
+  "frequency": 896,
+  "examples": [
+    "希望",
+    "希薄",
+    "希",
+    "希少",
+    "希求"
+  ],
+  "explanation": {
+    "id": "1282",
+    "text": "希 (đọc là \"ki\") có nghĩa là \"hiếm\", \"khát khao\" để chỉ sự mong muốn hoặc điều gì đó không phổ biến, hiếm gặp.  \nVí dụ:  \n- 希望 (kibō): Hy vọng, mong muốn.  \n- 希薄 (kihaku): Thưa thớt, loãng.  "
+  },
+  "comments": [
+    {
+      "id": "153241",
+      "lang": "vi",
+      "content_html": "<p>Hi hữu mới có tấm vải to buộc chéo đc</p>",
+      "content_text": "Hi hữu mới có tấm vải to buộc chéo đc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153242",
+      "lang": "vi",
+      "content_html": "<p>Khu đc đánh dấu công bố đầy hy vọng</p>",
+      "content_text": "Khu đc đánh dấu công bố đầy hy vọng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153243",
+      "lang": "vi",
+      "content_html": "<p>thành phố bắn phao hoa hi vọng</p>",
+      "content_text": "thành phố bắn phao hoa hi vọng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

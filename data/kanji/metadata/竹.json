@@ -1,0 +1,107 @@
+{
+  "kanji": "竹",
+  "meta": {
+    "weight": 1979,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チク"
+    ],
+    "kun": [
+      "たけ"
+    ],
+    "am_han": "TRÚC"
+  },
+  "meaning": {
+    "vi": "trúc, cây tre",
+    "en": "bamboo"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/竹.svg"
+  },
+  "frequency": 593,
+  "examples": [
+    "竹",
+    "竹林",
+    "爆竹",
+    "竹刀",
+    "竹の子"
+  ],
+  "explanation": {
+    "id": "5241",
+    "text": "竹 (đọc là \"take\") có nghĩa là \"tre\", chỉ loại cây thuộc họ gramineae, thường được sử dụng trong xây dựng, thủ công mỹ nghệ và ẩm thực.\nVí dụ:\n- 竹刀 (shina): Kiếm tre, dùng trong võ thuật kend"
+  },
+  "comments": [
+    {
+      "id": "36936",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của cây <strong>tre</strong>.</p>",
+      "content_text": "Hình dạng của cây\ntre\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc44ff3034d.jpg",
+      "image_path": "assets/images/竹_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155850",
+      "lang": "vi",
+      "content_html": "<p>tiếng kêu keke phát ra từ bụi trúc</p>",
+      "content_text": "tiếng kêu keke phát ra từ bụi trúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155851",
+      "lang": "vi",
+      "content_html": "<p>Tre giữ làng giữ nước, giữ mái nhà tranh.</p>",
+      "content_text": "Tre giữ làng giữ nước, giữ mái nhà tranh.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155852",
+      "lang": "vi",
+      "content_html": "<p>2 người nằm ngang trên tre trúc</p>",
+      "content_text": "2 người nằm ngang trên tre trúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

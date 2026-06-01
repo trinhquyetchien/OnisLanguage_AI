@@ -1,0 +1,87 @@
+{
+  "kanji": "絹",
+  "meta": {
+    "weight": 2081,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "きぬ"
+    ],
+    "am_han": "QUYÊN"
+  },
+  "meaning": {
+    "vi": "lụa",
+    "en": "silk"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/絹.svg"
+  },
+  "frequency": 1916,
+  "examples": [
+    "絹",
+    "絹糸"
+  ],
+  "explanation": {
+    "id": "2161",
+    "text": "絹 (đọc là \"ken\") có nghĩa là \"lụa\", chỉ loại vải được làm từ tơ của con tằm. \n\nVí dụ:\n- 絹糸 (kinu ito): Chỉ lụa.\n- 絹製 (kinusei): Được làm bằng lụa.\n- 絹のような (kinu no you na): Như lụa, mịn màng"
+  },
+  "comments": [
+    {
+      "id": "156062",
+      "lang": "vi",
+      "content_html": "<p>chỉ được nhả từ miệng ông trăng ra gọi là lụa</p>",
+      "content_text": "chỉ được nhả từ miệng ông trăng ra gọi là lụa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156063",
+      "lang": "vi",
+      "content_html": "<p>Nguyệt mồm to kêu gọi quyên góp chỉ làm lụa</p>",
+      "content_text": "Nguyệt mồm to kêu gọi quyên góp chỉ làm lụa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156064",
+      "lang": "vi",
+      "content_html": "<p>Nguyệt đang Kêu Gọi QUÊN góp Chỉ may áo từ thiện</p>",
+      "content_text": "Nguyệt đang Kêu Gọi QUÊN góp Chỉ may áo từ thiện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

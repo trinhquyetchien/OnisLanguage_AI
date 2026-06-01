@@ -1,0 +1,111 @@
+{
+  "kanji": "主",
+  "meta": {
+    "weight": 93,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ",
+      "ス",
+      "シュウ"
+    ],
+    "kun": [
+      "ぬし",
+      "おも",
+      "あるじ"
+    ],
+    "am_han": "CHỦ"
+  },
+  "meaning": {
+    "vi": "chủ, ông chủ",
+    "en": "lord, chief, master, main thing, principal"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/主.svg"
+  },
+  "frequency": 95,
+  "examples": [
+    "主義",
+    "主",
+    "主張",
+    "民主",
+    "主人公"
+  ],
+  "explanation": {
+    "id": "3403",
+    "text": "主 (đọc là \"shu\" hoặc \"nushi\") có nghĩa là \"chủ\", \"người đứng đầu\" để chỉ quyền sở hữu, lãnh đạo hay người phụ trách.  \nVí dụ:  \n- 主人 (shujin): Chủ nhân, người chủ.  \n- 主張 (shuchou): Quan điể"
+  },
+  "comments": [
+    {
+      "id": "951",
+      "lang": "vi",
+      "content_html": "<p>Người đàn ông đội nón là ông <strong>chủ</strong>.</p>",
+      "content_text": "Người đàn ông đội nón là ông\nchủ\n.",
+      "image_url": "https://jpdictionary.com/upload/images/6298caae666ae.jpg",
+      "image_path": "assets/images/主_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151436",
+      "lang": "vi",
+      "content_html": "<p>vua chỉ vào đầu nói tao là CHỦ</p>",
+      "content_text": "vua chỉ vào đầu nói tao là CHỦ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158290",
+      "lang": "vi",
+      "content_html": "<p>主に (おもに): chủ yếu</p><p>主人公 (しゅじんこう): nhân vật chính</p>",
+      "content_text": "主に (おもに): chủ yếu\n主人公 (しゅじんこう): nhân vật chính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221828",
+      "lang": "vi",
+      "content_html": "<p>1 nước có nhiều <strong>Vương</strong> nhưng chỉ có 1 người làm <strong>Chủ</strong> tất cả (Hoàng đế)</p>",
+      "content_text": "1 nước có nhiều\nVương\nnhưng chỉ có 1 người làm\nChủ\ntất cả (Hoàng đế)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

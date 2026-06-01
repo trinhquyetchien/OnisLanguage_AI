@@ -1,0 +1,92 @@
+{
+  "kanji": "那",
+  "meta": {
+    "weight": 2696,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ナ",
+      "ダ"
+    ],
+    "kun": [
+      "なに",
+      "なんぞ",
+      "いかん"
+    ],
+    "am_han": "NA, NẢ"
+  },
+  "meaning": {
+    "vi": "gì?",
+    "en": "what?"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/那.svg"
+  },
+  "frequency": 1621,
+  "examples": [
+    "旦那",
+    "那覇",
+    "刹那",
+    "若旦那"
+  ],
+  "explanation": {
+    "id": "6038",
+    "text": "那 (đọc là \"na\") có nghĩa là \"cái đó\", \"những điều đó\" để chỉ sự vật hoặc khái niệm ở gần người nghe hoặc được nhắc đến trong cuộc hội thoại.\n\nVí dụ:\n- 何だそれ (nanda sore): Cái đó là gì?\n- あれは何"
+  },
+  "comments": [
+    {
+      "id": "157424",
+      "lang": "vi",
+      "content_html": "<p>印度支那  ấn độ chi na ：đông dương</p>",
+      "content_text": "印度支那  ấn độ chi na ：đông dương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157425",
+      "lang": "vi",
+      "content_html": "<p>2 nhát đao chia tay bạn ở china</p>",
+      "content_text": "2 nhát đao chia tay bạn ở china",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157426",
+      "lang": "vi",
+      "content_html": "<p>Bé Na có cục Thịt Dư</p>",
+      "content_text": "Bé Na có cục Thịt Dư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

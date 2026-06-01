@@ -1,0 +1,84 @@
+{
+  "kanji": "芯",
+  "meta": {
+    "weight": 2255,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [],
+    "am_han": "TÂM"
+  },
+  "meaning": {
+    "vi": "tim",
+    "en": "wick"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/芯.svg"
+  },
+  "frequency": 2202,
+  "examples": [
+    "芯"
+  ],
+  "explanation": {
+    "id": "4116",
+    "text": "芯 (đọc là \"shin\") có nghĩa là \"tim\", \"lõi\" để chỉ phần trung tâm hoặc cốt lõi của một vật.  \nVí dụ:  \n- 芯材 (shinzai): Vật liệu lõi, thường dùng trong xây dựng.  \n- 芯温 (shin-on): Nhiệt độ lõi"
+  },
+  "comments": [
+    {
+      "id": "156467",
+      "lang": "vi",
+      "content_html": "<p>Tâm + thảo  =  tận đáy lòng</p>",
+      "content_text": "Tâm + thảo  =  tận đáy lòng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156468",
+      "lang": "vi",
+      "content_html": "<p>TÂM Thảo Xuất phát từ ĐÁY LÒNG</p>",
+      "content_text": "TÂM Thảo Xuất phát từ ĐÁY LÒNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156469",
+      "lang": "vi",
+      "content_html": "<p>Cỏ cây hoa lá đều có cái TÂM</p>",
+      "content_text": "Cỏ cây hoa lá đều có cái TÂM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

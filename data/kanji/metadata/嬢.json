@@ -1,0 +1,89 @@
+{
+  "kanji": "嬢",
+  "meta": {
+    "weight": 690,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [
+      "むすめ"
+    ],
+    "am_han": "NƯƠNG"
+  },
+  "meaning": {
+    "vi": "lass, cô gái, cô, con gái",
+    "en": "lass, girl, Miss, daughter"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/嬢.svg"
+  },
+  "frequency": 2059,
+  "examples": [
+    "嬢",
+    "お嬢さん",
+    "お嬢様",
+    "令嬢"
+  ],
+  "explanation": {
+    "id": "3961",
+    "text": "嬢 (đọc là \"jō\") có nghĩa là \"cô gái\", \"tiểu thư\", thường chỉ những người phụ nữ trẻ tuổi, lịch sự hoặc được tôn trọng.  \nVí dụ:  \n- 娘 (musume): Con gái.  \n- お嬢様 (ojōsama): Tiểu thư, cô gái c"
+  },
+  "comments": [
+    {
+      "id": "152888",
+      "lang": "vi",
+      "content_html": "<p>Cô Nương đi lấy ck. Được tặng cho 6(六) cái tô (丼) và bộ y phục (衣)</p>",
+      "content_text": "Cô Nương đi lấy ck. Được tặng cho 6(六) cái tô (丼) và bộ y phục (衣)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152889",
+      "lang": "vi",
+      "content_html": "<p>Cô nương tốt bụng biết nhường nhịn ng khác 譲る</p>",
+      "content_text": "Cô nương tốt bụng biết nhường nhịn ng khác 譲る",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152890",
+      "lang": "vi",
+      "content_html": "<p>Cô gái cạnh 6 biểu đất là thành cô nương</p>",
+      "content_text": "Cô gái cạnh 6 biểu đất là thành cô nương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

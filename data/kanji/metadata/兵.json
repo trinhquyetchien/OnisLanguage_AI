@@ -1,0 +1,91 @@
+{
+  "kanji": "兵",
+  "meta": {
+    "weight": 274,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘイ",
+      "ヒョウ"
+    ],
+    "kun": [
+      "つわもの"
+    ],
+    "am_han": "BINH"
+  },
+  "meaning": {
+    "vi": "binh lính",
+    "en": "soldier, private, troops, army, warfare, strategy, tactics"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/兵.svg"
+  },
+  "frequency": 522,
+  "examples": [
+    "兵器",
+    "兵士",
+    "兵",
+    "兵庫",
+    "核兵器"
+  ],
+  "explanation": {
+    "id": "6990",
+    "text": "兵 (đọc là \"hei\" hoặc \"bō\") có nghĩa là \"binh lính\", \"quân đội\", thường chỉ các khía cạnh liên quan đến quân sự và chiến tranh.  \nVí dụ:  \n- 兵士 (heishi): Binh sĩ, lính.  \n- 軍兵 (gunpei): Quân "
+  },
+  "comments": [
+    {
+      "id": "151877",
+      "lang": "vi",
+      "content_html": "<p>Binh lính đông chỉ thấy đao và chân</p>",
+      "content_text": "Binh lính đông chỉ thấy đao và chân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151878",
+      "lang": "vi",
+      "content_html": "<p>8 thằng BINH sĩ nấp dưới ngon ĐỒI (khâu)</p>",
+      "content_text": "8 thằng BINH sĩ nấp dưới ngon ĐỒI (khâu)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151879",
+      "lang": "vi",
+      "content_html": "<p>8 thằng binh sĩ đang cầm rìu</p>",
+      "content_text": "8 thằng binh sĩ đang cầm rìu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "用",
+  "meta": {
+    "weight": 1771,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "もち.いる"
+    ],
+    "am_han": "DỤNG"
+  },
+  "meaning": {
+    "vi": "sử dụng",
+    "en": "utilize, business, service, use, employ"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/用.svg"
+  },
+  "frequency": 107,
+  "examples": [
+    "利用",
+    "用",
+    "使用",
+    "活用",
+    "採用"
+  ],
+  "explanation": {
+    "id": "7881",
+    "text": "用 (đọc là \"yō\") có nghĩa là \"sử dụng\" hoặc \"dùng\" để chỉ hành động sử dụng một cái gì đó hoặc vận dụng nó vào mục đích nào đó.  \nVí dụ:  \n- 使用 (shiyō): Sử dụng, áp dụng.  \n- 用事 (yōji): Việc "
+  },
+  "comments": [
+    {
+      "id": "36918",
+      "lang": "vi",
+      "content_html": "<p>Đây là hàng rào mà chúng tôi đang <strong>sử dụng</strong>.</p>",
+      "content_text": "Đây là hàng rào mà chúng tôi đang\nsử dụng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4162eb548.jpg",
+      "image_path": "assets/images/用_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191117",
+      "lang": "vi",
+      "content_html": "<p><strong>sử dụng</strong></p>",
+      "content_text": "sử dụng",
+      "image_url": "https://jpdictionary.com/upload/images/648ac374070ed.jpg",
+      "image_path": "assets/images/用_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158295",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>用意 (ようい): chuẩn bị<br>用事 (ようじ): việc bận<br>利用 (りよう): sử dụng</p>",
+      "content_text": "JLPT N4\n用意 (ようい): chuẩn bị\n用事 (ようじ): việc bận\n利用 (りよう): sử dụng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

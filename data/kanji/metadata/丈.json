@@ -1,0 +1,91 @@
+{
+  "kanji": "丈",
+  "meta": {
+    "weight": 75,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [
+      "たけ",
+      "だけ"
+    ],
+    "am_han": "TRƯỢNG"
+  },
+  "meaning": {
+    "vi": "chiều dài, mười shaku, số đo, ông, bà, chiều cao, tầm vóc, tất cả (một người có), chỉ, vậy thôi, đơn thuần",
+    "en": "length, ten shaku, measure, Mr., Ms., height, stature, all (one has), only, that's all, merely"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/丈.svg"
+  },
+  "frequency": 1375,
+  "examples": [
+    "大丈夫",
+    "丈夫",
+    "丈",
+    "頑丈",
+    "背丈"
+  ],
+  "explanation": {
+    "id": "3942",
+    "text": "丈 (đọc là \"jō\") có nghĩa là \"chiều dài\" hoặc \"độ dài\", thường được dùng để chỉ kích thước, chiều cao của một người hoặc vật. \n\nVí dụ:\n- 身丈 (mitake): Chiều cao cơ thể.\n-丈青 (jōsei): Độ dài của"
+  },
+  "comments": [
+    {
+      "id": "151393",
+      "lang": "vi",
+      "content_html": "<p>TRƯỢNG phu thì NHẤT(一) định là có tài NGHỆ (乂)</p>",
+      "content_text": "TRƯỢNG phu thì NHẤT(一) định là có tài NGHỆ (乂)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151394",
+      "lang": "vi",
+      "content_html": "<p>đã là trượng phu thì phải có name ナメ</p>",
+      "content_text": "đã là trượng phu thì phải có name ナメ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151395",
+      "lang": "vi",
+      "content_html": "<p>TRƯỢNG phu cao 10 THƯỚC --» THỨ NHẤT là phải có TÀI NGHỆ</p>",
+      "content_text": "TRƯỢNG phu cao 10 THƯỚC --» THỨ NHẤT là phải có TÀI NGHỆ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

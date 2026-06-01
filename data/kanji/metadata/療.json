@@ -1,0 +1,105 @@
+{
+  "kanji": "療",
+  "meta": {
+    "weight": 1813,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [],
+    "am_han": "LIỆU"
+  },
+  "meaning": {
+    "vi": "chữa, trị liệu",
+    "en": "heal, cure"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/療.svg"
+  },
+  "frequency": 600,
+  "examples": [
+    "医療",
+    "治療",
+    "療法",
+    "診療",
+    "療養"
+  ],
+  "explanation": {
+    "id": "8120",
+    "text": "療 (đọc là \"ryō\") có nghĩa là \"chữa trị\", \"khôi phục\" để chỉ các hành động liên quan đến việc điều trị bệnh tật hoặc phục hồi sức khỏe.\n\nVí dụ:\n- 療養 (ryōyō): Điều trị, chăm sóc sức khỏe.\n- 治療"
+  },
+  "comments": [
+    {
+      "id": "155479",
+      "lang": "vi",
+      "content_html": "<p>寮: Có mái nhà là kí túc xá<br><br>療: Bị bệnh thì phải điều trị<br><br>僚: Người quan liêu</p>",
+      "content_text": "寮: Có mái nhà là kí túc xá\n療: Bị bệnh thì phải điều trị\n僚: Người quan liêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190706",
+      "lang": "vi",
+      "content_html": "<p>có Bệnh thì hái Cây cỏ mỗi Ngày dùng 1 lượng Nhỏ để trị Liệu</p>",
+      "content_text": "có Bệnh thì hái Cây cỏ mỗi Ngày dùng 1 lượng Nhỏ để trị Liệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "155480",
+      "lang": "vi",
+      "content_html": "<p>Trị liệu chữa bệnh trong giường 1 ngày từ nhỏ đến to</p>",
+      "content_text": "Trị liệu chữa bệnh trong giường 1 ngày từ nhỏ đến to",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155481",
+      "lang": "vi",
+      "content_html": "<p>Đại y trong Bệnh viện ở Nhật dùng phương pháp Trị LIỆU bằng Nước Tiểu</p>",
+      "content_text": "Đại y trong Bệnh viện ở Nhật dùng phương pháp Trị LIỆU bằng Nước Tiểu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

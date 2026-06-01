@@ -1,0 +1,88 @@
+{
+  "kanji": "巴",
+  "meta": {
+    "weight": 824,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハ"
+    ],
+    "kun": [
+      "ともえ",
+      "うずまき"
+    ],
+    "am_han": "BA"
+  },
+  "meaning": {
+    "vi": "dấu phẩy-thiết kế",
+    "en": "comma-design"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/巴.svg"
+  },
+  "frequency": 2082,
+  "examples": [
+    "巴",
+    "巴里"
+  ],
+  "explanation": {
+    "id": "6216",
+    "text": "巴 (đọc là \"ha\", \"tomoe\") có nghĩa là \"quá khứ\", \"dấu vết\", thường được dùng để chỉ hình ảnh hoặc biểu tượng cổ truyền, đặc biệt trong văn hóa Nhật Bản. \n\nVí dụ:\n- 巴 (tomoe): Một loại biểu tư"
+  },
+  "comments": [
+    {
+      "id": "153220",
+      "lang": "vi",
+      "content_html": "<p>sắc.. người có sắc.. mà mất đầu...thì có 3 vòng đẹp</p>",
+      "content_text": "sắc.. người có sắc.. mà mất đầu...thì có 3 vòng đẹp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153221",
+      "lang": "vi",
+      "content_html": "<p>Ba có cái mũi rất to</p>",
+      "content_text": "Ba có cái mũi rất to",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153222",
+      "lang": "vi",
+      "content_html": "<p>Ba có đôi mắt cái mũi rất to.</p>",
+      "content_text": "Ba có đôi mắt cái mũi rất to.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

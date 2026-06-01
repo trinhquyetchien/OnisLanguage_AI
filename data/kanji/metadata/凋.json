@@ -1,0 +1,67 @@
+{
+  "kanji": "凋",
+  "meta": {
+    "weight": 295,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "しぼ.む"
+    ],
+    "am_han": "ĐIÊU"
+  },
+  "meaning": {
+    "vi": "khô héo, rũ xuống, què quặt",
+    "en": "wither, droop, lame"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/凋.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5328",
+    "text": "凋 (đọc là \"chō\") có nghĩa là \"héo úa\", \"tàn phai\", thường dùng để chỉ sự suy giảm, mất đi sức sống của cây cối hoặc hoa lá.\n\nVí dụ:\n- 凋落 (chōraku): Sự rụng lá, sự tàn lụi.\n- 凋む (chidomu): Hé"
+  },
+  "comments": [
+    {
+      "id": "218956",
+      "lang": "vi",
+      "content_html": "<p>xung quanh toàn băng giá khung cảnh rất điêu tàn</p>",
+      "content_text": "xung quanh toàn băng giá khung cảnh rất điêu tàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218957",
+      "lang": "vi",
+      "content_html": "<p>BĂNG(冫) dính XUNG QUANH(周), hoa lá ĐIÊU(凋) tàn</p>",
+      "content_text": "BĂNG(冫) dính XUNG QUANH(周), hoa lá ĐIÊU(凋) tàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "具",
+  "meta": {
+    "weight": 276,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "グ"
+    ],
+    "kun": [
+      "そな.える",
+      "つぶさ.に"
+    ],
+    "am_han": "CỤ"
+  },
+  "meaning": {
+    "vi": "công cụ, dụng cụ",
+    "en": "tool, utensil, means, possess, ingredients, counter for armor, suits, sets of furniture"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/具.svg"
+  },
+  "frequency": 629,
+  "examples": [
+    "具体",
+    "道具",
+    "具合",
+    "家具",
+    "具"
+  ],
+  "explanation": {
+    "id": "1838",
+    "text": "具 (đọc là \"gu\") có nghĩa là \"có đủ\", \"đầy đủ\" hoặc \"cung cấp\". Nó thường chỉ sự vật hoặc công cụ cần thiết để hoàn thành một công việc.\n\nVí dụ:\n- 具合 (guai): Tình trạng, tình hình.\n- 道具 (doug"
+  },
+  "comments": [
+    {
+      "id": "190899",
+      "lang": "vi",
+      "content_html": "<p><strong>dụng cụ</strong></p>",
+      "content_text": "dụng cụ",
+      "image_url": "https://jpdictionary.com/upload/images/648a65a9ea9eb.jpg",
+      "image_path": "assets/images/具_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "151883",
+      "lang": "vi",
+      "content_html": "<p>Chặt đôi bảo bối làm dụng cụ</p>",
+      "content_text": "Chặt đôi bảo bối làm dụng cụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151884",
+      "lang": "vi",
+      "content_html": "<p>Con sò 貝 cắt chân làm dụng Cụ</p>",
+      "content_text": "Con sò 貝 cắt chân làm dụng Cụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151885",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: Nằm trên Giường (丬) Mắt (目) dán vào điện thoại.<br>==&#62; dùng một lúc phải đi tìm dụng Cụ (具) sạc pin.<br>..性..</p>",
+      "content_text": "Góc Nhìn: Nằm trên Giường (丬) Mắt (目) dán vào điện thoại.\n==> dùng một lúc phải đi tìm dụng Cụ (具) sạc pin.\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

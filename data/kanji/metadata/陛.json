@@ -1,0 +1,85 @@
+{
+  "kanji": "陛",
+  "meta": {
+    "weight": 2824,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘイ"
+    ],
+    "kun": [],
+    "am_han": "BỆ"
+  },
+  "meaning": {
+    "vi": "độ cao, các bước (của ngai vàng)",
+    "en": "highness, steps (of throne)"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/陛.svg"
+  },
+  "frequency": 1429,
+  "examples": [
+    "陛下",
+    "天皇陛下"
+  ],
+  "explanation": {
+    "id": "7017",
+    "text": "陛 (đọc là \"hei\") có nghĩa là \"bệ hạ\", thường được dùng để chỉ vua hoặc hoàng đế, thể hiện sự tôn kính.\n\nVí dụ:\n- 陛下 (heika): Bệ hạ, như cách gọi tôn kính dành cho vua hoặc hoàng hậu.\n- 陛邸 (h"
+  },
+  "comments": [
+    {
+      "id": "157681",
+      "lang": "vi",
+      "content_html": "<p>Bệ hạ có hàng Tỉ miếng Đất</p>",
+      "content_text": "Bệ hạ có hàng Tỉ miếng Đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157682",
+      "lang": "vi",
+      "content_html": "<p>chữ Tỷ như 2 chân quỳ trên vùng Đất thưa BỆ hạ</p>",
+      "content_text": "chữ Tỷ như 2 chân quỳ trên vùng Đất thưa BỆ hạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157683",
+      "lang": "vi",
+      "content_html": "<p>BỆ hạ ngồi trên bãi (B) ĐẤT xem TỶ thí</p>",
+      "content_text": "BỆ hạ ngồi trên bãi (B) ĐẤT xem TỶ thí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

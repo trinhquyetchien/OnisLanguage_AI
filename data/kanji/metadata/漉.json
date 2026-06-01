@@ -1,0 +1,52 @@
+{
+  "kanji": "漉",
+  "meta": {
+    "weight": 1607,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロク"
+    ],
+    "kun": [
+      "こ.し",
+      "こ.す",
+      "す.く"
+    ],
+    "am_han": "LỘC"
+  },
+  "meaning": {
+    "vi": "sản xuất giấy, trải ra mỏng, căng, thấm",
+    "en": "manufacture paper, spread out thin, strain, percolate"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/漉.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2653",
+    "text": "漉 (đọc là \"ro\") có nghĩa là \"lọc\", \"rây\" để chỉ các hành động liên quan đến việc tách hoặc làm sạch chất lỏng bằng cách loại bỏ phần rắn.  \nVí dụ:  \n- 漉す (rosu): Lọc, rây.  \n- 漉き紙 (sukigami)"
+  },
+  "comments": [
+    {
+      "id": "219978",
+      "lang": "vi",
+      "content_html": "<p>Con hươu uống nước lọc</p>",
+      "content_text": "Con hươu uống nước lọc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

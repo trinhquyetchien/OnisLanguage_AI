@@ -1,0 +1,70 @@
+{
+  "kanji": "縞",
+  "meta": {
+    "weight": 2108,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "しま",
+      "しろぎぬ"
+    ],
+    "am_han": "CẢO"
+  },
+  "meaning": {
+    "vi": "vạch sọc",
+    "en": "stripe"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/縞.svg"
+  },
+  "frequency": 2491,
+  "examples": [
+    "縞"
+  ],
+  "explanation": {
+    "id": "3318",
+    "text": "縞 (đọc là \"shima\") có nghĩa là \"dải\" hoặc \"vằn\" để chỉ các họa tiết có sọc hoặc kẻ.  \nVí dụ:  \n- 縞模様 (shimamoyō): Họa tiết sọc.  \n- 縞馬 (shimaba): Ngựa vằn.  \n- 縞の布 (shima no nuno): Vải sọc."
+  },
+  "comments": [
+    {
+      "id": "156134",
+      "lang": "vi",
+      "content_html": "<p>縞：kẻ hoa, sổ dọc=&#62; 糸：sợi chỉ, 高：Cao、=&#62; sổ dọc nhìn như những sợi chỉ cao, dài...</p>",
+      "content_text": "縞：kẻ hoa, sổ dọc=> 糸：sợi chỉ, 高：Cao、=> sổ dọc nhìn như những sợi chỉ cao, dài...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156135",
+      "lang": "vi",
+      "content_html": "<p>Những sợi chỉ cao là những sọc vằn vằn đc CẢO CẢO ( cào cào ) lên</p>",
+      "content_text": "Những sợi chỉ cao là những sọc vằn vằn đc CẢO CẢO ( cào cào ) lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

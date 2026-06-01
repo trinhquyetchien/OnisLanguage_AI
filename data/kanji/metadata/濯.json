@@ -1,0 +1,104 @@
+{
+  "kanji": "濯",
+  "meta": {
+    "weight": 1633,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タク"
+    ],
+    "kun": [
+      "すす.ぐ",
+      "ゆす.ぐ"
+    ],
+    "am_han": "TRẠC"
+  },
+  "meaning": {
+    "vi": "giặt",
+    "en": "laundry, wash, pour on, rinse"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/濯.svg"
+  },
+  "frequency": 1698,
+  "examples": [
+    "洗濯"
+  ],
+  "explanation": {
+    "id": "5041",
+    "text": "濯 (đọc là \"taku\") có nghĩa là \"giặt\" hoặc \"rửa\", chỉ các hành động liên quan đến việc làm sạch hoặc giặt giũ.  \nVí dụ:  \n- 濯ぎ (tagai): Giặt, rửa.  \n- 濯水 (takusui): Nước dùng để giặt.  \n- 濯洗 "
+  },
+  "comments": [
+    {
+      "id": "37109",
+      "lang": "vi",
+      "content_html": "<p>Thứ (曜) mấy bạn <strong>giặt </strong>đồ?</p>",
+      "content_text": "Thứ (曜) mấy bạn\ngiặt\nđồ?",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb3c45101e.jpg",
+      "image_path": "assets/images/濯_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155122",
+      "lang": "vi",
+      "content_html": "<p>Diệu (曜) cầm Trạc bắn thằng Nhật rơi xuống nước</p>",
+      "content_text": "Diệu (曜) cầm Trạc bắn thằng Nhật rơi xuống nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155123",
+      "lang": "vi",
+      "content_html": "<p>2 con chim Trạc tuổi nhau đang tắm mát</p>",
+      "content_text": "2 con chim Trạc tuổi nhau đang tắm mát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155124",
+      "lang": "vi",
+      "content_html": "<p>TRẠC tuổi 2 E anh đã biết RỬA CHIM rồi đấy!</p>",
+      "content_text": "TRẠC tuổi 2 E anh đã biết RỬA CHIM rồi đấy!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

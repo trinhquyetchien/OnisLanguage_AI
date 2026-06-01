@@ -1,0 +1,85 @@
+{
+  "kanji": "浩",
+  "meta": {
+    "weight": 1540,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "おおき.い",
+      "ひろ.い"
+    ],
+    "am_han": "HẠO"
+  },
+  "meaning": {
+    "vi": "mở rộng, phong phú, mạnh mẽ",
+    "en": "wide expanse, abundance, vigorous"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/浩.svg"
+  },
+  "frequency": 1149,
+  "examples": [],
+  "explanation": {
+    "id": "2492",
+    "text": "浩 (đọc là \"hào\") có nghĩa là \"vĩ đại\", \"rộng lớn\", thường dùng để chỉ sự phong phú hoặc mênh mông.  \nVí dụ:  \n- 浩瀚 (koukan): Rộng lớn, mênh mông (thường dùng để nói về biển cả hay không gian"
+  },
+  "comments": [
+    {
+      "id": "154902",
+      "lang": "vi",
+      "content_html": "<p>Cáo nước nhìn rất “to lớn” như Hạo thiên khuyển</p>",
+      "content_text": "Cáo nước nhìn rất “to lớn” như Hạo thiên khuyển",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154903",
+      "lang": "vi",
+      "content_html": "<p>giám tố cáo đất nước tư tưởng rộng rãi hào hiệp đó là hạo nhiên nhân vật nổi tiếng nhà đường</p>",
+      "content_text": "giám tố cáo đất nước tư tưởng rộng rãi hào hiệp đó là hạo nhiên nhân vật nổi tiếng nhà đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154904",
+      "lang": "vi",
+      "content_html": "<p>Nước mênh mông như báo cáo của HẠO nhiên</p>",
+      "content_text": "Nước mênh mông như báo cáo của HẠO nhiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

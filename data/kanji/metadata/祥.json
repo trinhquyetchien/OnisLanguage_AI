@@ -1,0 +1,91 @@
+{
+  "kanji": "祥",
+  "meta": {
+    "weight": 1908,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "さいわ.い",
+      "きざ.し",
+      "よ.い",
+      "つまび.らか"
+    ],
+    "am_han": "TƯỜNG"
+  },
+  "meaning": {
+    "vi": "tốt lành, hạnh phúc, phước lành, điềm lành, may mắn",
+    "en": "auspicious, happiness, blessedness, good omen, good fortune"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/祥.svg"
+  },
+  "frequency": 1273,
+  "examples": [
+    "不祥事",
+    "発祥",
+    "祥"
+  ],
+  "explanation": {
+    "id": "3883",
+    "text": "祥 (đọc là \"shō\") có nghĩa là \"hạnh phúc\", \"cát tường\" để chỉ các điều tốt đẹp, may mắn trong cuộc sống.  \nVí dụ:  \n- 祥瑞 (shōzui): Điềm tốt, dấu hiệu may mắn.  \n- 吉祥 (kigyō): Điều may mắn, cá"
+  },
+  "comments": [
+    {
+      "id": "155700",
+      "lang": "vi",
+      "content_html": "<p>Dương Thị TƯỜNG là cái tên MAY MẮN</p>",
+      "content_text": "Dương Thị TƯỜNG là cái tên MAY MẮN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155701",
+      "lang": "vi",
+      "content_html": "<p>con cừu ăn trái thị là điều  cát tường</p>",
+      "content_text": "con cừu ăn trái thị là điều  cát tường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155702",
+      "lang": "vi",
+      "content_html": "<p>mặc áo lông cừu sẽ may mắn cát tường</p>",
+      "content_text": "mặc áo lông cừu sẽ may mắn cát tường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

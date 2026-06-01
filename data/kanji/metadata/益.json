@@ -1,0 +1,91 @@
+{
+  "kanji": "益",
+  "meta": {
+    "weight": 1830,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エキ",
+      "ヤク"
+    ],
+    "kun": [
+      "ま.す"
+    ],
+    "am_han": "ÍCH"
+  },
+  "meaning": {
+    "vi": "lợi ích, lợi nhuận, lợi thế",
+    "en": "benefit, gain, profit, advantage"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/益.svg"
+  },
+  "frequency": 674,
+  "examples": [
+    "利益",
+    "収益",
+    "公益",
+    "有益",
+    "益"
+  ],
+  "explanation": {
+    "id": "413",
+    "text": "益 (đọc là \"eki\") có nghĩa là \"lợi ích\", \"tăng trưởng\" để chỉ các khía cạnh liên quan đến sự gia tăng, lợi ích hoặc sự phát triển tích cực.\n\nVí dụ:\n- 益虫 (ekichuu): Côn trùng có lợi.\n- 利益 (rie"
+  },
+  "comments": [
+    {
+      "id": "155523",
+      "lang": "vi",
+      "content_html": "<p>Một chiếc đĩa có 8 lợi ÍCH</p>",
+      "content_text": "Một chiếc đĩa có 8 lợi ÍCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155524",
+      "lang": "vi",
+      "content_html": "<p>Đĩa có ích là đựng đồ ăn</p>",
+      "content_text": "Đĩa có ích là đựng đồ ăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155525",
+      "lang": "vi",
+      "content_html": "<p>dưới TƯỜNG (tường ngang) có 8 CÁI ĐĨA hữu ÍCH.</p>",
+      "content_text": "dưới TƯỜNG (tường ngang) có 8 CÁI ĐĨA hữu ÍCH.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

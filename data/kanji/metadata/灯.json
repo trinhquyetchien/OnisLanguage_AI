@@ -1,0 +1,94 @@
+{
+  "kanji": "灯",
+  "meta": {
+    "weight": 1641,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "ひ",
+      "ほ-",
+      "ともしび",
+      "とも.す",
+      "あかり"
+    ],
+    "am_han": "ĐĂNG"
+  },
+  "meaning": {
+    "vi": "đèn, hải đăng",
+    "en": "lamp, a light, light, counter for lights"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/灯.svg"
+  },
+  "frequency": 1605,
+  "examples": [
+    "灯",
+    "電灯",
+    "点灯",
+    "灯油",
+    "灯り"
+  ],
+  "explanation": {
+    "id": "5824",
+    "text": "灯 (đọc là \"tō\" hoặc \"hi\") có nghĩa là \"đèn\", \"ngọn đèn\", chỉ các nguồn sáng nhân tạo.  \nVí dụ:  \n- 灯台 (tōdai): Ngọn hải đăng.  \n- 照明灯 (shōmeitō): Đèn chiếu sáng.  \n- 提灯 (chōchin): Đèn lồng."
+  },
+  "comments": [
+    {
+      "id": "155132",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa dùng LỬA đốt cái ĐINH lên cho phát sáng để làm ĐÈN hải ĐĂNG</p>",
+      "content_text": "Ngày xưa dùng LỬA đốt cái ĐINH lên cho phát sáng để làm ĐÈN hải ĐĂNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155133",
+      "lang": "vi",
+      "content_html": "<p>Nhất (一)  quyết (亅)  đốt lửa (火) làm đèn (灯)</p>",
+      "content_text": "Nhất (一)  quyết (亅)  đốt lửa (火) làm đèn (灯)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155134",
+      "lang": "vi",
+      "content_html": "<p>LỬA đốt ĐINH làm ĐÈN sợi đốt</p>",
+      "content_text": "LỬA đốt ĐINH làm ĐÈN sợi đốt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

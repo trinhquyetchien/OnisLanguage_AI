@@ -1,0 +1,86 @@
+{
+  "kanji": "遜",
+  "meta": {
+    "weight": 2680,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソン"
+    ],
+    "kun": [
+      "したが.う",
+      "へりくだ.る",
+      "ゆず.る"
+    ],
+    "am_han": "TỐN"
+  },
+  "meaning": {
+    "vi": "khiêm tốn",
+    "en": "humble, modest"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/遜.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4858",
+    "text": "遜 (đọc là \"son\") có nghĩa là \"khiêm tốn\", chỉ sự nhún nhường hoặc tôn trọng người khác.  \nVí dụ:  \n- 遜色 (sonshoku): Kém hơn, không bằng.  \n- 遜辞 (sonji): Từ chối khiêm tốn, lịch sự từ chối.  "
+  },
+  "comments": [
+    {
+      "id": "220852",
+      "lang": "vi",
+      "content_html": "<p>Dạy con cháu đi lại khiêm tốn</p>",
+      "content_text": "Dạy con cháu đi lại khiêm tốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220853",
+      "lang": "vi",
+      "content_html": "<p>dạy con. khi di xa, trong các mối quan hệ phải khiêm tốn.... (tưởng tượng theo Bộ nhé)</p>",
+      "content_text": "dạy con. khi di xa, trong các mối quan hệ phải khiêm tốn.... (tưởng tượng theo Bộ nhé)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220854",
+      "lang": "vi",
+      "content_html": "<p>Trẻ con nghịch dây trên đường thì rất TỐN kém</p>",
+      "content_text": "Trẻ con nghịch dây trên đường thì rất TỐN kém",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

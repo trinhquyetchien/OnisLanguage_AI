@@ -1,0 +1,68 @@
+{
+  "kanji": "梢",
+  "meta": {
+    "weight": 1364,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "こずえ",
+      "くすのき"
+    ],
+    "am_han": "SAO, TIÊU"
+  },
+  "meaning": {
+    "vi": "ngọn cây, cành cây",
+    "en": "treetops, twig"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/梢.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3842",
+    "text": "梢 (đọc là \"shō\") có nghĩa là \"ngọn cây\", chỉ phần đầu của cành hoặc nhánh cây.  \nVí dụ:  \n- 梢 (shō): Ngọn cây.  \n- 木の梢 (ki no shō): Ngọn cây (của một cái cây).  \n- 鳥が梢に止まる (tori ga shō ni to"
+  },
+  "comments": [
+    {
+      "id": "219816",
+      "lang": "vi",
+      "content_html": "<p>Cây bị ánh trăng che chỉ còn thấy ngọn cây và SAO</p>",
+      "content_text": "Cây bị ánh trăng che chỉ còn thấy ngọn cây và SAO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219817",
+      "lang": "vi",
+      "content_html": "<p>tiêu bản là bản sao của cây hay là ngọn cây</p>",
+      "content_text": "tiêu bản là bản sao của cây hay là ngọn cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

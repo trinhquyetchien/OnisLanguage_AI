@@ -1,0 +1,88 @@
+{
+  "kanji": "餓",
+  "meta": {
+    "weight": 2937,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガ"
+    ],
+    "kun": [
+      "う.える"
+    ],
+    "am_han": "NGẠ"
+  },
+  "meaning": {
+    "vi": "đói, khát",
+    "en": "starve, hungry, thirst"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/餓.svg"
+  },
+  "frequency": 1754,
+  "examples": [
+    "飢餓",
+    "餓死",
+    "餓鬼"
+  ],
+  "explanation": {
+    "id": "740",
+    "text": "餓 (đọc là \"ga\") có nghĩa là \"đói\" để chỉ trạng thái đói bụng hoặc thiếu thức ăn.  \nVí dụ:  \n- 餓死 (gashi): Chết đói.  \n- 餓鬼 (gaki): Đứa trẻ đói, thường dùng để chỉ những đứa trẻ nghèo khó.  \n"
+  },
+  "comments": [
+    {
+      "id": "157958",
+      "lang": "vi",
+      "content_html": "<p>Khi đói tôi phải ăn</p>",
+      "content_text": "Khi đói tôi phải ăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157959",
+      "lang": "vi",
+      "content_html": "<p>Thực + Ngã = Ngạ (đói)</p>",
+      "content_text": "Thực + Ngã = Ngạ (đói)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157960",
+      "lang": "vi",
+      "content_html": "<p>ngạ quỷ: quỷ đói, 1 trong 6 cõi luân hồi.</p>",
+      "content_text": "ngạ quỷ: quỷ đói, 1 trong 6 cõi luân hồi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

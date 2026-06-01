@@ -1,0 +1,34 @@
+{
+  "kanji": "姐",
+  "meta": {
+    "weight": 660,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ",
+      "シャ"
+    ],
+    "kun": [
+      "あね",
+      "ねえさん"
+    ],
+    "am_han": "TẢ, THƯ"
+  },
+  "meaning": {
+    "vi": "chị cả, người giúp việc",
+    "en": "elder sister, maidservant"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/姐.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "67",
+    "text": "姐 (đọc là \"ja\" hoặc \"ane\") có nghĩa là \"chị gái\", thường dùng để chỉ người chị trong gia đình hoặc thể hiện sự thân mật giữa phụ nữ.  \nVí dụ:  \n- 姉妹 (shimai): Chị em.  \n- お姉さん (oneesan): Chị"
+  },
+  "comments": []
+}

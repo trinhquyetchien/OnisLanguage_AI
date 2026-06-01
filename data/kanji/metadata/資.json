@@ -1,0 +1,88 @@
+{
+  "kanji": "資",
+  "meta": {
+    "weight": 2564,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [],
+    "am_han": "TƯ"
+  },
+  "meaning": {
+    "vi": "tài sản, đầu tư",
+    "en": "assets, resources, capital, funds, data, be conducive to, contribute to"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/資.svg"
+  },
+  "frequency": 179,
+  "examples": [
+    "投資",
+    "資料",
+    "資金",
+    "資本",
+    "資産"
+  ],
+  "explanation": {
+    "id": "3159",
+    "text": "資 (đọc là \"shi\" hoặc \"su\") có nghĩa là \"tài sản\", \"vốn\" để chỉ các khía cạnh liên quan đến tài chính, nguồn lực và sự hỗ trợ.  \nVí dụ:  \n- 資本 (shihon): Vốn, nguồn vốn đầu tư.  \n- 資格 (shikaku"
+  },
+  "comments": [
+    {
+      "id": "157103",
+      "lang": "vi",
+      "content_html": "<p>TƯ (資) bản lúc nào cũng TIỀN (貝) tiền, TIẾP (次) theo vẫn là tiền</p>",
+      "content_text": "TƯ (資) bản lúc nào cũng TIỀN (貝) tiền, TIẾP (次) theo vẫn là tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157104",
+      "lang": "vi",
+      "content_html": "<p>đầu tư vào vụ xò tiếp theo</p>",
+      "content_text": "đầu tư vào vụ xò tiếp theo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157105",
+      "lang": "vi",
+      "content_html": "<p>Đầu tư tiền bạc phải theo thứ tự mới được</p>",
+      "content_text": "Đầu tư tiền bạc phải theo thứ tự mới được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

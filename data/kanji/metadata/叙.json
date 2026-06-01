@@ -1,0 +1,90 @@
+{
+  "kanji": "叙",
+  "meta": {
+    "weight": 427,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョ"
+    ],
+    "kun": [
+      "つい.ず",
+      "ついで"
+    ],
+    "am_han": "TỰ"
+  },
+  "meaning": {
+    "vi": "trao đổi, liên hệ, tường thuật, mô tả",
+    "en": "confer, relate, narrate, describe"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/叙.svg"
+  },
+  "frequency": 1954,
+  "examples": [
+    "叙述",
+    "叙情",
+    "自叙伝",
+    "叙事詩"
+  ],
+  "explanation": {
+    "id": "3722",
+    "text": "叙 (đọc là \"jo\") có nghĩa là \"kể lại\", \"thuật lại\" để chỉ các hành động liên quan đến việc mô tả, trình bày hoặc ghi chép thông tin.  \nVí dụ:  \n- 叙述 (jojutsu): Miêu tả, thuật lại.  \n- 叙情詩 (jo"
+  },
+  "comments": [
+    {
+      "id": "152262",
+      "lang": "vi",
+      "content_html": "<p>Ông Dư Lại TỰ chuyện về bản thân</p>",
+      "content_text": "Ông Dư Lại TỰ chuyện về bản thân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152263",
+      "lang": "vi",
+      "content_html": "<p>tự kể đi kể lại những chuyện dư thừa</p>",
+      "content_text": "tự kể đi kể lại những chuyện dư thừa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152264",
+      "lang": "vi",
+      "content_html": "<p>Mấy chuyện DƯ thừa mà cứ kể đi kể lại (HỰU) thì TỰ đi mà nghe.</p>",
+      "content_text": "Mấy chuyện DƯ thừa mà cứ kể đi kể lại (HỰU) thì TỰ đi mà nghe.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

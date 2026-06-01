@@ -1,0 +1,95 @@
+{
+  "kanji": "折",
+  "meta": {
+    "weight": 1061,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セツ",
+      "シャク"
+    ],
+    "kun": [
+      "お.る",
+      "おり",
+      "お.り",
+      "-お.り",
+      "お.れる"
+    ],
+    "am_han": "CHIẾT"
+  },
+  "meaning": {
+    "vi": "bẻ gãy, chiết suất",
+    "en": "fold, break, fracture, bend, yield, submit"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/折.svg"
+  },
+  "frequency": 962,
+  "examples": [
+    "折",
+    "挫折",
+    "時折",
+    "折れ",
+    "骨折"
+  ],
+  "explanation": {
+    "id": "4442",
+    "text": "折 (đọc là \"oku\" hoặc \"tasu\") có nghĩa là \"gập lại\", \"bẻ gãy\" để chỉ các hành động liên quan đến việc uốn cong hoặc làm gãy một vật gì đó.\n\nVí dụ:\n- 折り紙 (origami): Nghệ thuật gấp giấy.\n- 折れる "
+  },
+  "comments": [
+    {
+      "id": "153823",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm đao chiết cành</p>",
+      "content_text": "Tay cầm đao chiết cành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153824",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: mấy bác tiều phu. Tay (扌) cầm Rìu (斤) <br>==&#62; để chặt Gãy cây (折 Chiết) <br>..Tâm Sinh Tính..</p>",
+      "content_text": "Góc Nhìn: mấy bác tiều phu. Tay (扌) cầm Rìu (斤)\n==> để chặt Gãy cây (折 Chiết)\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153825",
+      "lang": "vi",
+      "content_html": "<p>Cầm búa đi Chiết cành cây.</p>",
+      "content_text": "Cầm búa đi Chiết cành cây.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

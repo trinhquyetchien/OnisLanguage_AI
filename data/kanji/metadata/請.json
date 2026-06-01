@@ -1,0 +1,93 @@
+{
+  "kanji": "請",
+  "meta": {
+    "weight": 2503,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "シン",
+      "ショウ"
+    ],
+    "kun": [
+      "こ.う",
+      "う.ける"
+    ],
+    "am_han": "THỈNH, TÍNH"
+  },
+  "meaning": {
+    "vi": "mời, hỏi",
+    "en": "solicit, invite, ask"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/請.svg"
+  },
+  "frequency": 524,
+  "examples": [
+    "請求",
+    "申請",
+    "要請",
+    "請願",
+    "請負"
+  ],
+  "explanation": {
+    "id": "4356",
+    "text": "請 (đọc là \"sei\" hoặc \"shou\") có nghĩa là \"yêu cầu\", \"xin phép\" để chỉ các hành động liên quan đến việc yêu cầu hoặc xin điều gì đó.\n\nVí dụ:\n- 請求書 (seikyuu-sho): Hóa đơn, yêu cầu thanh toán.\n"
+  },
+  "comments": [
+    {
+      "id": "156955",
+      "lang": "vi",
+      "content_html": "<p>Nói lời thanh xanh là để thỉnh cầu gì đó</p>",
+      "content_text": "Nói lời thanh xanh là để thỉnh cầu gì đó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156956",
+      "lang": "vi",
+      "content_html": "<p>muốn THỈNH cầu 請 ai đó .phát NGÔN 言 phải chân thành giọng phải THANH 青 nhé ...</p>",
+      "content_text": "muốn THỈNH cầu 請 ai đó .phát NGÔN 言 phải chân thành giọng phải THANH 青 nhé ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156957",
+      "lang": "vi",
+      "content_html": "<p>muốn thỉnh cầu 1 ai đó thì Lời nói phải Thanh thoát</p>",
+      "content_text": "muốn thỉnh cầu 1 ai đó thì Lời nói phải Thanh thoát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

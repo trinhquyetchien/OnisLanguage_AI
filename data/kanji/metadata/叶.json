@@ -1,0 +1,88 @@
+{
+  "kanji": "叶",
+  "meta": {
+    "weight": 443,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "かな.える",
+      "かな.う"
+    ],
+    "am_han": "HIỆP"
+  },
+  "meaning": {
+    "vi": "cấp, trả lời",
+    "en": "grant, answer"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/叶.svg"
+  },
+  "frequency": 2312,
+  "examples": [
+    "叶う",
+    "叶える"
+  ],
+  "explanation": {
+    "id": "1007",
+    "text": "叶 (đọc là \"ye\" hoặc \"ha\") có nghĩa là \"lá\" hoặc \"đạt được\", để chỉ sự hoàn thành, đạt đến một điều gì đó. \n\nVí dụ:\n- 叶っぱ (happa): Lá cây.\n- 叶える (kanaeru): Đáp ứng, thực hiện (ước mơ).\n- 叶状 ("
+  },
+  "comments": [
+    {
+      "id": "152298",
+      "lang": "vi",
+      "content_html": "<p>Một mình anh diệp đáp ứng mừoi cái miệng</p>",
+      "content_text": "Một mình anh diệp đáp ứng mừoi cái miệng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152299",
+      "lang": "vi",
+      "content_html": "<p>10 cái miệng cùng Hiệp lực thì mới đạt được mục tiêu</p>",
+      "content_text": "10 cái miệng cùng Hiệp lực thì mới đạt được mục tiêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152300",
+      "lang": "vi",
+      "content_html": "<p>múa mếp như 10 cái miệng , được gọi là đại hiệp chăng&#62; sao hoàn thành được nghệp lớn</p>",
+      "content_text": "múa mếp như 10 cái miệng , được gọi là đại hiệp chăng> sao hoàn thành được nghệp lớn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

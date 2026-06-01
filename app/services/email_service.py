@@ -1,6 +1,5 @@
-import random
-import string
 import logging
+from fastapi import HTTPException, status
 from fastapi_mail import ConnectionConfig, FastMail, MessageSchema, MessageType
 from app.core.config import settings
 
@@ -20,23 +19,33 @@ conf = ConnectionConfig(
 
 class EmailService:
     @staticmethod
+    def _validate_smtp_config() -> None:
+        if not settings.MAIL_USERNAME or not settings.MAIL_PASSWORD:
+            raise HTTPException(
+                status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+                detail="SMTP is not configured. Please set MAIL_USERNAME and MAIL_PASSWORD.",
+            )
+
+    @staticmethod
     async def send_otp_email(email: str, otp: str):
+        EmailService._validate_smtp_config()
         message = MessageSchema(
             subject="OnisLanguage - Xác thực tài khoản",
             recipients=[email],
             body=f"Mã OTP của bạn là: {otp}. Mã này sẽ hết hạn sau 10 phút.",
             subtype=MessageType.plain
         )
-        
-        # In a real environment, we'd use fastmail.send_message(message)
-        # For development without real SMTP credentials, we mock it:
-        print("\n" + "="*50)
-        print(f"📧 [MOCK EMAIL] Gửi đến: {email}")
-        print(f"🔑 Mã OTP xác thực là: {otp}")
-        print("💡 Mã này sẽ hết hạn sau 10 phút.")
-        print("="*50 + "\n")
-        
-        # fm = FastMail(conf)
-        # await fm.send_message(message)
+
+        try:
+            fm = FastMail(conf)
+            await fm.send_message(message)
+            logger.info(f"Real email sent to {email}")
+        except Exception as e:
+            logger.error(f"Failed to send real email to {email}: {e}")
+            raise HTTPException(
+                status_code=status.HTTP_502_BAD_GATEWAY,
+                detail="Unable to send OTP email. Please verify SMTP settings and try again.",
+            ) from e
+
 
 email_service = EmailService()

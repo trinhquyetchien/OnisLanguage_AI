@@ -1,0 +1,109 @@
+{
+  "kanji": "燃",
+  "meta": {
+    "weight": 1673,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ネン"
+    ],
+    "kun": [
+      "も.える",
+      "も.やす",
+      "も.す"
+    ],
+    "am_han": "NHIÊN"
+  },
+  "meaning": {
+    "vi": "cháy, nhiên liệu",
+    "en": "burn, blaze, glow"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/燃.svg"
+  },
+  "frequency": 948,
+  "examples": [
+    "燃料",
+    "燃焼",
+    "燃費",
+    "燃える",
+    "燃やす"
+  ],
+  "explanation": {
+    "id": "6171",
+    "text": "燃 (đọc là \"nen\") có nghĩa là \"cháy\", \"đốt\", để chỉ các hành động liên quan đến lửa hoặc sự cháy.  \nVí dụ:  \n- 燃料 (nenryō): Nhiên liệu.  \n- 燃える (moeru): Cháy, bùng lên.  \n- 燃焼 (nen shō): Sự đ"
+  },
+  "comments": [
+    {
+      "id": "155205",
+      "lang": "vi",
+      "content_html": "<p>Dùng lửa thui chó ta tự Nhiên ngon</p>",
+      "content_text": "Dùng lửa thui chó ta tự Nhiên ngon",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222516",
+      "lang": "vi",
+      "content_html": "<p>Đốt cháy thiên NHIÊN<br>ta được NHIÊN liệu</p>",
+      "content_text": "Đốt cháy thiên NHIÊN\nta được NHIÊN liệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5155",
+        "name": "Doan The Anh (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/66e4a5e9678a0.png"
+      }
+    },
+    {
+      "id": "155206",
+      "lang": "vi",
+      "content_html": "<p>có LỬA thì ĐƯƠNG NHIÊN  --  sẽ ĐỐT CHÁY được mọi thứ</p>",
+      "content_text": "có LỬA thì ĐƯƠNG NHIÊN  --  sẽ ĐỐT CHÁY được mọi thứ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155207",
+      "lang": "vi",
+      "content_html": "<p>Chó 犬 ta タ muốn ngon tự NHIÊN 燃 phải thui qua 2 lần lửa 火 và</p>",
+      "content_text": "Chó 犬 ta タ muốn ngon tự NHIÊN 燃 phải thui qua 2 lần lửa 火 và",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

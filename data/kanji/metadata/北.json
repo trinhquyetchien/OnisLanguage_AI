@@ -1,0 +1,107 @@
+{
+  "kanji": "北",
+  "meta": {
+    "weight": 374,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホク"
+    ],
+    "kun": [
+      "きた"
+    ],
+    "am_han": "BẮC"
+  },
+  "meaning": {
+    "vi": "phía bắc",
+    "en": "north"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/北.svg"
+  },
+  "frequency": 153,
+  "examples": [
+    "北朝鮮",
+    "北",
+    "北海道",
+    "北京",
+    "東北"
+  ],
+  "explanation": {
+    "id": "7313",
+    "text": "北 (đọc là \"bêki\" hoặc \"kita\") có nghĩa là \"phía Bắc\", chỉ hướng hoặc địa điểm ở phía bắc.\n\nVí dụ:\n- 北海道 (Hokkaidō): Đảo Hokkaido, một trong những hòn đảo lớn của Nhật Bản.\n- 北風 (kitakaze): G"
+  },
+  "comments": [
+    {
+      "id": "537",
+      "lang": "vi",
+      "content_html": "<p>Vì phía <strong>bắc </strong>trời lạnh nên 2 người ngồi đâu lưng lại với nhau.</p>",
+      "content_text": "Vì phía\nbắc\ntrời lạnh nên 2 người ngồi đâu lưng lại với nhau.",
+      "image_url": "https://jpdictionary.com/upload/images/62976a079d89e.jpg",
+      "image_path": "assets/images/北_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152136",
+      "lang": "vi",
+      "content_html": "<p>Hai người ngồi đối lưng vào nhau bởi vì phương Bắc rất lạnh</p>",
+      "content_text": "Hai người ngồi đối lưng vào nhau bởi vì phương Bắc rất lạnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158455",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>北 (きた): phia Bắc</p>",
+      "content_text": "JLPT N5\n北 (きた): phia Bắc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "158456",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>北 (きた): phia Bắc</p>",
+      "content_text": "JLPT N5\n北 (きた): phia Bắc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

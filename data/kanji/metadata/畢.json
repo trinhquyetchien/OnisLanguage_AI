@@ -1,0 +1,53 @@
+{
+  "kanji": "畢",
+  "meta": {
+    "weight": 1788,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒツ"
+    ],
+    "kun": [
+      "おわ.る",
+      "あみ",
+      "おわ.り",
+      "ことごとく"
+    ],
+    "am_han": "TẤT"
+  },
+  "meaning": {
+    "vi": "kết thúc",
+    "en": "the end, finish"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/畢.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6669",
+    "text": "畢 (đọc là \"hitsu\") có nghĩa là \"kết thúc\", \"hoàn thành\" để chỉ việc hoàn tất một điều gì đó hoặc sự kết thúc của một quá trình.\n\nVí dụ:\n- 畢業 (hatsugyō): Tốt nghiệp.\n- 畢竟 (hikkyo): Cuối cùng,"
+  },
+  "comments": [
+    {
+      "id": "220117",
+      "lang": "vi",
+      "content_html": "<p>畢業： tốt nghiệp</p>",
+      "content_text": "畢業： tốt nghiệp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "kanji": "匠",
+  "meta": {
+    "weight": 377,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "たくみ"
+    ],
+    "am_han": "TƯỢNG"
+  },
+  "meaning": {
+    "vi": "nghệ nhân, công nhân, thợ mộc",
+    "en": "artisan, workman, carpenter"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/匠.svg"
+  },
+  "frequency": 1718,
+  "examples": [
+    "師匠",
+    "巨匠",
+    "意匠",
+    "匠"
+  ],
+  "explanation": {
+    "id": "3752",
+    "text": "匠 (đọc là \"shō\") có nghĩa là \"thợ\", \"nghệ nhân\" để chỉ các người có tay nghề cao trong một lĩnh vực thủ công hoặc nghệ thuật.  \nVí dụ:  \n- 匠人 (shōnin): Nghệ nhân, thợ thủ công.  \n- 匠の技 (shō "
+  },
+  "comments": [
+    {
+      "id": "152139",
+      "lang": "vi",
+      "content_html": "<p>Chiếc Rìu trong tủ kia là của anh Thợ tạc Tượng</p>",
+      "content_text": "Chiếc Rìu trong tủ kia là của anh Thợ tạc Tượng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152140",
+      "lang": "vi",
+      "content_html": "<p>Người trong túi lúc nào cũng có đao thì làm nghề thủ công</p>",
+      "content_text": "Người trong túi lúc nào cũng có đao thì làm nghề thủ công",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152141",
+      "lang": "vi",
+      "content_html": "<p>anh THỢ luôn để BÚA(CÂN) ở trong TỦ ĐỰNG(PHƯƠNG)</p>",
+      "content_text": "anh THỢ luôn để BÚA(CÂN) ở trong TỦ ĐỰNG(PHƯƠNG)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

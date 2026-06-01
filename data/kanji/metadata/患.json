@@ -1,0 +1,90 @@
+{
+  "kanji": "患",
+  "meta": {
+    "weight": 977,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "わずら.う"
+    ],
+    "am_han": "HOẠN"
+  },
+  "meaning": {
+    "vi": "bệnh tật",
+    "en": "afflicted, disease, suffer from, be ill"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/患.svg"
+  },
+  "frequency": 796,
+  "examples": [
+    "患者",
+    "疾患",
+    "罹患",
+    "急患",
+    "患部"
+  ],
+  "explanation": {
+    "id": "1102",
+    "text": "患 (đọc là \"kan\") có nghĩa là \"bệnh tật\", \"khổ đau\" để chỉ các vấn đề liên quan đến sức khỏe hoặc tình trạng khổ sở.\n\nVí dụ:\n- 患者 (kanja): Bệnh nhân.\n- 患う (wazurau): Bị bệnh, mắc phải.\n- 患難 ("
+  },
+  "comments": [
+    {
+      "id": "153602",
+      "lang": "vi",
+      "content_html": "<p>2 ông Trung 串 quốc có trái Tim 心 Bệnh HOẠN</p>",
+      "content_text": "2 ông Trung 串 quốc có trái Tim 心 Bệnh HOẠN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153603",
+      "lang": "vi",
+      "content_html": "<p>Cái XIÊN mà đâm vào TIM có mà đau hơn HOẠN</p>",
+      "content_text": "Cái XIÊN mà đâm vào TIM có mà đau hơn HOẠN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153604",
+      "lang": "vi",
+      "content_html": "<p>Hai bệnh nhân người Trung quốc có trái Tim bệnh HOẠN</p>",
+      "content_text": "Hai bệnh nhân người Trung quốc có trái Tim bệnh HOẠN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

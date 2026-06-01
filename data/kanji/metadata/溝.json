@@ -1,0 +1,88 @@
+{
+  "kanji": "溝",
+  "meta": {
+    "weight": 1594,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "みぞ"
+    ],
+    "am_han": "CÂU"
+  },
+  "meaning": {
+    "vi": "máng xối, mương, cống rãnh, 10 ** 32",
+    "en": "gutter, ditch, sewer, drain, 10**32"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/溝.svg"
+  },
+  "frequency": 1736,
+  "examples": [
+    "溝",
+    "海溝",
+    "側溝"
+  ],
+  "explanation": {
+    "id": "2498",
+    "text": "溝 (đọc là \"こう\" hoặc \"みぞ\") có nghĩa là \"mương\", \"rãnh\" để chỉ các cấu trúc hạ tầng dẫn nước hoặc thoát nước.\n\nVí dụ:\n- 溝渠 (こうきょ, koukyo): Mương rãnh, hệ thống thoát nước.\n- 溝 (みぞ, mizo): Rãnh"
+  },
+  "comments": [
+    {
+      "id": "155025",
+      "lang": "vi",
+      "content_html": "<p>Chỗ nước chảy đi chảy lại 40 lần tạo thành rãnh</p>",
+      "content_text": "Chỗ nước chảy đi chảy lại 40 lần tạo thành rãnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155026",
+      "lang": "vi",
+      "content_html": "<p>Nước chảy đá mòn Cấu thành Rãnh CÂU cá</p>",
+      "content_text": "Nước chảy đá mòn Cấu thành Rãnh CÂU cá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155027",
+      "lang": "vi",
+      "content_html": "<p>Phòng kín nước chảy ra Cống</p>",
+      "content_text": "Phòng kín nước chảy ra Cống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

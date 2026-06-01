@@ -1,0 +1,89 @@
+{
+  "kanji": "蛮",
+  "meta": {
+    "weight": 2384,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バン"
+    ],
+    "kun": [
+      "えびす"
+    ],
+    "am_han": "MAN"
+  },
+  "meaning": {
+    "vi": "Man rợ",
+    "en": "barbarian"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/蛮.svg"
+  },
+  "frequency": 2339,
+  "examples": [
+    "野蛮",
+    "南蛮",
+    "蛮行",
+    "蛮族"
+  ],
+  "explanation": {
+    "id": "6524",
+    "text": "蛮 (đọc là \"ban\") có nghĩa là \"man rợ\", \"thô bạo\" để chỉ các hành động hoặc tính cách hung dữ, không văn minh.  \nVí dụ:  \n- 蛮族 (banzoku): Bộ tộc man rợ, dân tộc chưa văn minh.  \n- 蛮行 (ban-kō)"
+  },
+  "comments": [
+    {
+      "id": "156673",
+      "lang": "vi",
+      "content_html": "<p>DIỆC bọn côn TRÙNG dã MAN.</p>",
+      "content_text": "DIỆC bọn côn TRÙNG dã MAN.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156674",
+      "lang": "vi",
+      "content_html": "<p>Cắt Đầu bọn côn Trùng dã  MAN</p>",
+      "content_text": "Cắt Đầu bọn côn Trùng dã  MAN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156675",
+      "lang": "vi",
+      "content_html": "<p>con bọ đầu đỏ nhìn rất man rợ</p>",
+      "content_text": "con bọ đầu đỏ nhìn rất man rợ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

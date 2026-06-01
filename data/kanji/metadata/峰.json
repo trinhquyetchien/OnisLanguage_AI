@@ -1,0 +1,90 @@
+{
+  "kanji": "峰",
+  "meta": {
+    "weight": 800,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "みね",
+      "ね"
+    ],
+    "am_han": "PHONG"
+  },
+  "meaning": {
+    "vi": "đỉnh",
+    "en": "summit, peak"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/峰.svg"
+  },
+  "frequency": 1836,
+  "examples": [
+    "峰",
+    "最高峰",
+    "高峰",
+    "連峰"
+  ],
+  "explanation": {
+    "id": "7160",
+    "text": "峰 (đọc là \"hō\" hoặc \"mine\") có nghĩa là \"đỉnh núi\" hoặc \"điểm cao nhất\" để chỉ các điểm cao trong tự nhiên.  \nVí dụ:  \n- 山峰 (sanpō): Đỉnh núi.  \n- 峰々 (minegai): Những đỉnh cao, các ngọn núi."
+  },
+  "comments": [
+    {
+      "id": "153161",
+      "lang": "vi",
+      "content_html": "<p>TRUY đuổi Trương TAM PHONG lên đỉnh NÚI</p>",
+      "content_text": "TRUY đuổi Trương TAM PHONG lên đỉnh NÚI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153162",
+      "lang": "vi",
+      "content_html": "<p>Các dãy núi cao thường có 3 tầng</p>",
+      "content_text": "Các dãy núi cao thường có 3 tầng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153163",
+      "lang": "vi",
+      "content_html": "<p>Tam phong xuống núi 13 năm</p>",
+      "content_text": "Tam phong xuống núi 13 năm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

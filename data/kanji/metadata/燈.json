@@ -1,0 +1,38 @@
+{
+  "kanji": "燈",
+  "meta": {
+    "weight": 1674,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "ひ",
+      "ほ-",
+      "ともしび",
+      "とも.す",
+      "あかり"
+    ],
+    "am_han": "ĐĂNG"
+  },
+  "meaning": {
+    "vi": "đèn, ánh sáng, đếm đèn",
+    "en": "lamp, light, counter for lights"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/燈.svg"
+  },
+  "frequency": 2456,
+  "examples": [
+    "燈"
+  ],
+  "explanation": {
+    "id": "5827",
+    "text": "燈 (đọc là \"tō\") có nghĩa là \"đèn\" hoặc \"ngọn đèn\" để chỉ các nguồn sáng nhân tạo, thường dùng trong việc chiếu sáng.\n\nVí dụ:\n- 燈台 (tōdai): Ngọn hải đăng.\n- 明燈 (meitō): Đèn sáng, ánh sáng rõ "
+  },
+  "comments": []
+}

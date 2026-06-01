@@ -1,0 +1,107 @@
+{
+  "kanji": "領",
+  "meta": {
+    "weight": 2907,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [
+      "えり"
+    ],
+    "am_han": "LĨNH, LÃNH"
+  },
+  "meaning": {
+    "vi": "thống lĩnh, lãnh thổ",
+    "en": "jurisdiction, dominion, territory, fief, reign"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/領.svg"
+  },
+  "frequency": 138,
+  "examples": [
+    "大統領",
+    "領域",
+    "占領",
+    "要領",
+    "領土"
+  ],
+  "explanation": {
+    "id": "8147",
+    "text": "領 (đọc là \"ryō\") có nghĩa là \"lãnh thổ\", \"tiếp nhận\" để chỉ các khái niệm liên quan đến việc quản lý, lãnh đạo hoặc sở hữu.\n\nVí dụ:\n- 領土 (ryōdo): Lãnh thổ.\n- 領収書 (ryōshūsho): Hóa đơn, biên n"
+  },
+  "comments": [
+    {
+      "id": "157886",
+      "lang": "vi",
+      "content_html": "<p>Người đứng đầu đc ra LỆNH nên gọi THỦ LĨNH</p>",
+      "content_text": "Người đứng đầu đc ra LỆNH nên gọi THỦ LĨNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190692",
+      "lang": "vi",
+      "content_html": "<p>Khi ra Mệnh lệnh phải suy nghĩ bằng đầu mới làm được thống lĩnh</p>",
+      "content_text": "Khi ra Mệnh lệnh phải suy nghĩ bằng đầu mới làm được thống lĩnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157887",
+      "lang": "vi",
+      "content_html": "<p>Viết mệnh lệnh lên giấy là người LÃNH đạo</p>",
+      "content_text": "Viết mệnh lệnh lên giấy là người LÃNH đạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221887",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa, một vị <strong>lãnh đạo (領)</strong> vĩ đại luôn có <strong>cái đầu (頁)</strong> thông minh. Ông ta ra <strong>mệnh lệnh (令)</strong> rõ ràng và công bằng, khiến ai cũng muốn <strong>lĩnh hội (領)</strong> những lời chỉ dạy của ông.</p>",
+      "content_text": "Ngày xưa, một vị\nlãnh đạo (領)\nvĩ đại luôn có\ncái đầu (頁)\nthông minh. Ông ta ra\nmệnh lệnh (令)\nrõ ràng và công bằng, khiến ai cũng muốn\nlĩnh hội (領)\nnhững lời chỉ dạy của ông.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "2097",
+        "name": "Huỳnh Quý",
+        "image_url": null
+      }
+    }
+  ]
+}

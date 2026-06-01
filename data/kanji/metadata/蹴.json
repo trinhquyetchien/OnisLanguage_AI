@@ -1,0 +1,107 @@
+{
+  "kanji": "蹴",
+  "meta": {
+    "weight": 2601,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュク",
+      "シュウ"
+    ],
+    "kun": [
+      "け.る"
+    ],
+    "am_han": "XÚC"
+  },
+  "meaning": {
+    "vi": "đá",
+    "en": "kick"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/蹴.svg"
+  },
+  "frequency": 2377,
+  "examples": [
+    "蹴り",
+    "蹴る",
+    "一蹴",
+    "蹴球"
+  ],
+  "explanation": {
+    "id": "3524",
+    "text": "蹴 (đọc là \"shaku\" hoặc \"keru\") có nghĩa là \"đá\", chỉ hành động dùng chân để đá hoặc thúc đẩy một vật gì đó.  \nVí dụ:  \n- 蹴飛ばす (ketobasu): Đá bay, đá ra xa.  \n- 蹴る (keru): Đá.  \n- 蹴球 (kyūkyū)"
+  },
+  "comments": [
+    {
+      "id": "157194",
+      "lang": "vi",
+      "content_html": "<p>Túc lấy Chân XÚC bóng cho Tựu</p>",
+      "content_text": "Túc lấy Chân XÚC bóng cho Tựu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157195",
+      "lang": "vi",
+      "content_html": "<p>Dùng chân đá con chó ở kinh đô 東京</p>",
+      "content_text": "Dùng chân đá con chó ở kinh đô 東京",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157196",
+      "lang": "vi",
+      "content_html": "<p>đừng vì bức Xúc mà tự dùng Chân Đá đi những thành Tựu mà mình đã đạt được</p>",
+      "content_text": "đừng vì bức Xúc mà tự dùng Chân Đá đi những thành Tựu mà mình đã đạt được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221197",
+      "lang": "vi",
+      "content_html": "<p>ボールを蹴ってください</p>",
+      "content_text": "ボールを蹴ってください",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "992",
+        "name": "A An",
+        "image_url": "https://jpdictionary.com/upload/images/642763034b8aa.png"
+      }
+    }
+  ]
+}

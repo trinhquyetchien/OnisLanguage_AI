@@ -1,0 +1,97 @@
+{
+  "kanji": "揺",
+  "meta": {
+    "weight": 1138,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "ゆ.れる",
+      "ゆ.る",
+      "ゆ.らぐ",
+      "ゆ.るぐ",
+      "ゆ.する",
+      "ゆ.さぶる",
+      "ゆ.すぶる",
+      "うご.く"
+    ],
+    "am_han": "DAO, ĐAO, DIÊU"
+  },
+  "meaning": {
+    "vi": "lắc lư, đá, run rẩy, rung chuyển",
+    "en": "swing, shake, sway, rock, tremble, vibrate"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/揺.svg"
+  },
+  "frequency": 1079,
+  "examples": [
+    "揺れ",
+    "動揺",
+    "揺れる",
+    "揺らぎ",
+    "揺るがす"
+  ],
+  "explanation": {
+    "id": "7858",
+    "text": "揺 (đọc là \"yū\" hoặc \"yureru\") có nghĩa là \"rung\", \"lắc\", chỉ sự chuyển động không ổn định hoặc dao động.\n\nVí dụ:\n- 揺れる (yureru): Rung, lắc.\n- 揺らす (yurasu): Làm rung, làm lắc.\n- 揺れ動く (yuredok"
+  },
+  "comments": [
+    {
+      "id": "154004",
+      "lang": "vi",
+      "content_html": "<p>tay và móng tay đè lên 2 quả núi đôi==&#62;dao động, rung lắc</p>",
+      "content_text": "tay và móng tay đè lên 2 quả núi đôi==>dao động, rung lắc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154005",
+      "lang": "vi",
+      "content_html": "<p>Tay và móng tay đang dao động cái can trên núi</p>",
+      "content_text": "Tay và móng tay đang dao động cái can trên núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154006",
+      "lang": "vi",
+      "content_html": "<p>Tay trao cho 2 quả núi thì chẳng dao động làm sao</p>",
+      "content_text": "Tay trao cho 2 quả núi thì chẳng dao động làm sao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

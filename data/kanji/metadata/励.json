@@ -1,0 +1,91 @@
+{
+  "kanji": "励",
+  "meta": {
+    "weight": 350,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ"
+    ],
+    "kun": [
+      "はげ.む",
+      "はげ.ます"
+    ],
+    "am_han": "LỆ"
+  },
+  "meaning": {
+    "vi": "khuyến khích, siêng năng, truyền cảm hứng",
+    "en": "encourage, be diligent, inspire"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/励.svg"
+  },
+  "frequency": 1254,
+  "examples": [
+    "奨励",
+    "励まし",
+    "励み",
+    "激励",
+    "励む"
+  ],
+  "explanation": {
+    "id": "8215",
+    "text": "励 (đọc là \"riki\") có nghĩa là \"cổ vũ\", \"khuyến khích\" để chỉ các hành động liên quan đến việc khuyến khích, động viên người khác.  \nVí dụ:  \n- 励ます (hagemasu): Cổ vũ, động viên.  \n- 励み (hagam"
+  },
+  "comments": [
+    {
+      "id": "152079",
+      "lang": "vi",
+      "content_html": "<p>Theo lệ thì  có  man trong nhà kích thích sức lực</p>",
+      "content_text": "Theo lệ thì  có  man trong nhà kích thích sức lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152080",
+      "lang": "vi",
+      "content_html": "<p>Man (万) là động Lực KHÍCH LỆ tôi</p>",
+      "content_text": "Man (万) là động Lực KHÍCH LỆ tôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152081",
+      "lang": "vi",
+      "content_html": "<p>Rủ ra Vách núi dúi cho 1 Man khích LỆ lấy động Lực</p>",
+      "content_text": "Rủ ra Vách núi dúi cho 1 Man khích LỆ lấy động Lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

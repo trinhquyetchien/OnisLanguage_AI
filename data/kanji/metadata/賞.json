@@ -1,0 +1,107 @@
+{
+  "kanji": "賞",
+  "meta": {
+    "weight": 2571,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "ほ.める"
+    ],
+    "am_han": "THƯỞNG"
+  },
+  "meaning": {
+    "vi": "giải thưởng",
+    "en": "prize, reward, praise"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/賞.svg"
+  },
+  "frequency": 426,
+  "examples": [
+    "賞",
+    "受賞",
+    "鑑賞",
+    "大賞",
+    "懸賞"
+  ],
+  "explanation": {
+    "id": "3925",
+    "text": "賞 (đọc là \"shō\") có nghĩa là \"thưởng\", \"khen thưởng\" để chỉ các hành động liên quan đến việc công nhận, tôn vinh hoặc trao giải thưởng cho thành tích nào đó.\n\nVí dụ:\n- 賞品 (shōhin): Giải thưở"
+  },
+  "comments": [
+    {
+      "id": "157118",
+      "lang": "vi",
+      "content_html": "<p>Nhân Viên đội Mũ lên nhận THƯỞNG</p>",
+      "content_text": "Nhân Viên đội Mũ lên nhận THƯỞNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190700",
+      "lang": "vi",
+      "content_html": "<p>vua miền Thượng dùng vỏ sò làm phần Thưởng</p>",
+      "content_text": "vua miền Thượng dùng vỏ sò làm phần Thưởng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157119",
+      "lang": "vi",
+      "content_html": "<p>Nhân viên được đội vương niệm trên đầu gọi là thưởng</p>",
+      "content_text": "Nhân viên được đội vương niệm trên đầu gọi là thưởng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157120",
+      "lang": "vi",
+      "content_html": "<p>thưởng cái mũ cho nhân viên</p>",
+      "content_text": "thưởng cái mũ cho nhân viên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

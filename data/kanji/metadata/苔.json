@@ -1,0 +1,85 @@
+{
+  "kanji": "苔",
+  "meta": {
+    "weight": 2264,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ"
+    ],
+    "kun": [
+      "こけ",
+      "こけら"
+    ],
+    "am_han": "ĐÀI"
+  },
+  "meaning": {
+    "vi": "rêu, địa y",
+    "en": "moss, lichen"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/苔.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4971",
+    "text": "苔 (đọc là \"tai\" hoặc \"koke\") có nghĩa là \"rêu\", chỉ những loại thực vật nhỏ thường mọc ở nơi ẩm ướt.  \nVí dụ:  \n- 苔むす (kokemus): Nơi có rêu che phủ, thường chỉ địa điểm tự nhiên.  \n- 苔庭 (kok"
+  },
+  "comments": [
+    {
+      "id": "220509",
+      "lang": "vi",
+      "content_html": "<p>Miệng huynh đài đầy rêu</p>",
+      "content_text": "Miệng huynh đài đầy rêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220510",
+      "lang": "vi",
+      "content_html": "<p>Cỏ trên đài là Rêu</p>",
+      "content_text": "Cỏ trên đài là Rêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220511",
+      "lang": "vi",
+      "content_html": "<p>Rau Thai của Thảo( cỏ cây) là rong rêu</p>",
+      "content_text": "Rau Thai của Thảo( cỏ cây) là rong rêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

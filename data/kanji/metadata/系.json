@@ -1,0 +1,88 @@
+{
+  "kanji": "系",
+  "meta": {
+    "weight": 2045,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [],
+    "am_han": "HỆ"
+  },
+  "meaning": {
+    "vi": "dòng dõi, hệ thống",
+    "en": "lineage, system"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/系.svg"
+  },
+  "frequency": 567,
+  "examples": [
+    "系",
+    "体系",
+    "系統",
+    "日系",
+    "系列"
+  ],
+  "explanation": {
+    "id": "1999",
+    "text": "系 (đọc là \"kē\" hoặc \"suke\") có nghĩa là \"hệ thống\", \"đường dây\" để chỉ mối liên hệ, sự liên kết giữa các yếu tố hoặc cá nhân trong một tổ chức hay lĩnh vực nào đó.\n\nVí dụ:\n- 系列 (keiretsu): H"
+  },
+  "comments": [
+    {
+      "id": "155967",
+      "lang": "vi",
+      "content_html": "<p>Các sợi tơ treo theo 1 hệ thống</p>",
+      "content_text": "Các sợi tơ treo theo 1 hệ thống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155968",
+      "lang": "vi",
+      "content_html": "<p>1 sợi chỉ nối cả 1 HỆ thống , dòng dõi</p>",
+      "content_text": "1 sợi chỉ nối cả 1 HỆ thống , dòng dõi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155969",
+      "lang": "vi",
+      "content_html": "<p>nét PHIỆT chỉ kim khâu cách học: Các sợi CHỈ được khâu theo 1 HỆ THỐNG</p>",
+      "content_text": "nét PHIỆT chỉ kim khâu cách học: Các sợi CHỈ được khâu theo 1 HỆ THỐNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

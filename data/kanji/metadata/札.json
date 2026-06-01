@@ -1,0 +1,90 @@
+{
+  "kanji": "札",
+  "meta": {
+    "weight": 1281,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サツ"
+    ],
+    "kun": [
+      "ふだ"
+    ],
+    "am_han": "TRÁT"
+  },
+  "meaning": {
+    "vi": "tiền giấy",
+    "en": "tag, paper money, counter for bonds, placard, bid"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/札.svg"
+  },
+  "frequency": 921,
+  "examples": [
+    "札幌",
+    "入札",
+    "札",
+    "落札",
+    "改札"
+  ],
+  "explanation": {
+    "id": "2946",
+    "text": "札 (đọc là \"satsu\" hoặc \"fuda\") có nghĩa là \"thẻ\", \"giấy ghi\", thường chỉ về các loại thẻ, nhãn hoặc giấy được sử dụng trong ghi chép và đánh dấu. \n\nVí dụ:\n- 札束 (satsutaba): Bó tiền, chồng ti"
+  },
+  "comments": [
+    {
+      "id": "154361",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa tờ tiền làm bằng giấy gỗ có hình chữ L</p>",
+      "content_text": "Ngày xưa tờ tiền làm bằng giấy gỗ có hình chữ L",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154362",
+      "lang": "vi",
+      "content_html": "<p>dựng cái cuốc vào thân Cây sau khi đã đào được cái Trát tiền</p>",
+      "content_text": "dựng cái cuốc vào thân Cây sau khi đã đào được cái Trát tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154363",
+      "lang": "vi",
+      "content_html": "<p>Treo cái L lên cây để làm bùa</p>",
+      "content_text": "Treo cái L lên cây để làm bùa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

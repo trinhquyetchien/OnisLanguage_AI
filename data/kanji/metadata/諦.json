@@ -1,0 +1,91 @@
+{
+  "kanji": "諦",
+  "meta": {
+    "weight": 2509,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ",
+      "タイ"
+    ],
+    "kun": [
+      "あきら.める",
+      "つまびらか",
+      "まこと"
+    ],
+    "am_han": "ĐẾ, ĐỀ"
+  },
+  "meaning": {
+    "vi": "sự thật, rõ ràng, từ bỏ",
+    "en": "truth, clarity, abandon, give up"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/諦.svg"
+  },
+  "frequency": 2457,
+  "examples": [
+    "諦め",
+    "諦める",
+    "要諦"
+  ],
+  "explanation": {
+    "id": "5594",
+    "text": "諦 (đọc là \"tai\") có nghĩa là \"thấu hiểu\", \"nhận thức rõ ràng\" để chỉ hành động hiểu rõ bản chất của sự vật, hiện tượng.\n\nVí dụ:\n- 諦める (akirameru): Từ bỏ, đầu hàng.\n- 諦観 (taikan): Nhìn nhận m"
+  },
+  "comments": [
+    {
+      "id": "156963",
+      "lang": "vi",
+      "content_html": "<p>ông vua nói rằng sẽ từ bỏ chức vua</p>",
+      "content_text": "ông vua nói rằng sẽ từ bỏ chức vua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156964",
+      "lang": "vi",
+      "content_html": "<p>Hoàng đế nói bỏ là bỏ</p>",
+      "content_text": "Hoàng đế nói bỏ là bỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156965",
+      "lang": "vi",
+      "content_html": "<p>người  HOÀNG ĐẾ NÓI rằng ko đc TỪ BỎ</p>",
+      "content_text": "người  HOÀNG ĐẾ NÓI rằng ko đc TỪ BỎ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

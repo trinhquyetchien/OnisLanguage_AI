@@ -1,0 +1,91 @@
+{
+  "kanji": "宜",
+  "meta": {
+    "weight": 718,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギ"
+    ],
+    "kun": [
+      "よろ.しい",
+      "よろ.しく"
+    ],
+    "am_han": "NGHI"
+  },
+  "meaning": {
+    "vi": "Trân trọng, tốt",
+    "en": "best regards, good"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/宜.svg"
+  },
+  "frequency": 1766,
+  "examples": [
+    "適宜",
+    "宜しく",
+    "便宜",
+    "宜",
+    "宜しい"
+  ],
+  "explanation": {
+    "id": "1412",
+    "text": "宜 (đọc là \"gi\") có nghĩa là \"thích hợp\", \"phù hợp\" để chỉ các điều kiện hoặc tình huống được xem là thích đáng.  \nVí dụ:  \n- 宜しい (yoroshii): Tốt, được chấp nhận.  \n- 宜しく (yoroshiku): Mong đư"
+  },
+  "comments": [
+    {
+      "id": "152947",
+      "lang": "vi",
+      "content_html": "<p>Thả trong ngôi Nhà tiện NGHI</p>",
+      "content_text": "Thả trong ngôi Nhà tiện NGHI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152948",
+      "lang": "vi",
+      "content_html": "<p>ở nhà 3 tầng thì thật tiện nghi</p>",
+      "content_text": "ở nhà 3 tầng thì thật tiện nghi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152949",
+      "lang": "vi",
+      "content_html": "<p>tầng trên NHÀ có CẦU thang thật TIỆN NGHI...</p>",
+      "content_text": "tầng trên NHÀ có CẦU thang thật TIỆN NGHI...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

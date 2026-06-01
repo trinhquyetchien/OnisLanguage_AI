@@ -1,0 +1,110 @@
+{
+  "kanji": "歩",
+  "meta": {
+    "weight": 1454,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホ",
+      "ブ",
+      "フ"
+    ],
+    "kun": [
+      "ある.く",
+      "あゆ.む"
+    ],
+    "am_han": "BỘ"
+  },
+  "meaning": {
+    "vi": "đi bộ, bộ hành",
+    "en": "walk, counter for steps"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/歩.svg"
+  },
+  "frequency": 554,
+  "examples": [
+    "歩",
+    "歩き",
+    "歩く",
+    "散歩",
+    "進歩"
+  ],
+  "explanation": {
+    "id": "7098",
+    "text": "歩 (đọc là \"bu\" hoặc \"ho\") có nghĩa là \"bước đi\", chỉ hành động di chuyển bằng cách đi bộ hoặc tiến về phía trước.  \nVí dụ:  \n- 歩道 (hodō): Lề đường, vỉa hè.  \n- 歩行 (hokō): Đi bộ.  \n- 一歩 (ippo"
+  },
+  "comments": [
+    {
+      "id": "36829",
+      "lang": "vi",
+      "content_html": "<p>Dừng lại (止) một chút (少) rồi <strong>đi bộ </strong>(歩)<strong> </strong>tiếp!</p>",
+      "content_text": "Dừng lại (止) một chút (少) rồi\nđi bộ\n(歩)\ntiếp!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154681",
+      "lang": "vi",
+      "content_html": "<p>Đi 歩 một vài 少 bước nhỏ rồi dừng lại 止 ấy là đi bộ.</p>",
+      "content_text": "Đi 歩 một vài 少 bước nhỏ rồi dừng lại 止 ấy là đi bộ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158721",
+      "lang": "vi",
+      "content_html": "<p>一歩（いっぽ）：Một bước</p><p>歩道（ほどう）: &nbsp;Đường Bộ vỉa hè</p>",
+      "content_text": "一歩（いっぽ）：Một bước\n歩道（ほどう）:  Đường Bộ vỉa hè",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "158569",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>歩く (あるく): đi bộ</p><p>散歩 (さんぽ): đi dạo</p>",
+      "content_text": "JLPT N4\n歩く (あるく): đi bộ\n散歩 (さんぽ): đi dạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

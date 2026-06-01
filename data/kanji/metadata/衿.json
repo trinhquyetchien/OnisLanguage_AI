@@ -1,0 +1,68 @@
+{
+  "kanji": "衿",
+  "meta": {
+    "weight": 2412,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キン",
+      "コン"
+    ],
+    "kun": [
+      "えり"
+    ],
+    "am_han": "CÂM"
+  },
+  "meaning": {
+    "vi": "cổ, cổ áo, ve áo",
+    "en": "neck, collar, lapel"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/衿.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1786",
+    "text": "衿 (đọc là \"eri\") có nghĩa là \"cổ áo\", chỉ phần viền hoặc cổ áo của trang phục.  \nVí dụ:  \n- 衿付き (eri tsuki): Áo có cổ.  \n- 襟元 (erimoto): Vùng cổ áo.  \n- 衿を立てる (eri o tateru): Đứng cổ áo lên."
+  },
+  "comments": [
+    {
+      "id": "220641",
+      "lang": "vi",
+      "content_html": "<p>áo ngày nay may có cổ</p>",
+      "content_text": "áo ngày nay may có cổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220642",
+      "lang": "vi",
+      "content_html": "<p>áo BÂY GIỜ may có CỔ (neck) ネ</p>",
+      "content_text": "áo BÂY GIỜ may có CỔ (neck) ネ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

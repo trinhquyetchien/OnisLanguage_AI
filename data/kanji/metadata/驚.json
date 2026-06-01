@@ -1,0 +1,91 @@
+{
+  "kanji": "驚",
+  "meta": {
+    "weight": 2960,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "おどろ.く",
+      "おどろ.かす"
+    ],
+    "am_han": "KINH"
+  },
+  "meaning": {
+    "vi": "ngạc nhiên, sợ hãi, kinh ngạc",
+    "en": "wonder, be surprised, frightened, amazed"
+  },
+  "stroke": {
+    "count": 22,
+    "svg": "assets/svg/驚.svg"
+  },
+  "frequency": 1141,
+  "examples": [
+    "驚き",
+    "驚く",
+    "驚異",
+    "驚愕",
+    "驚嘆"
+  ],
+  "explanation": {
+    "id": "1709",
+    "text": "驚 (đọc là \"kyou\" hoặc \"odoro\") có nghĩa là \"ngạc nhiên\", \"kinh ngạc\" để chỉ cảm giác sửng sốt hoặc bất ngờ trước điều gì đó.\n\nVí dụ:\n- 驚く (odoroku): Ngạc nhiên, sửng sốt.\n- 驚異 (kyoui): Kỳ di"
+  },
+  "comments": [
+    {
+      "id": "158005",
+      "lang": "vi",
+      "content_html": "<p>Mọi người kinh ngạc về sự tôn kính của con ngựa</p>",
+      "content_text": "Mọi người kinh ngạc về sự tôn kính của con ngựa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158006",
+      "lang": "vi",
+      "content_html": "<p>con NGỰA mà biết dùng KÍNH ngữ thì quả là KINH ngạc</p>",
+      "content_text": "con NGỰA mà biết dùng KÍNH ngữ thì quả là KINH ngạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158007",
+      "lang": "vi",
+      "content_html": "<p>việc Kính trọng con Ngựa gây nên sự Kinh ngạc</p>",
+      "content_text": "việc Kính trọng con Ngựa gây nên sự Kinh ngạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "kanji": "裡",
+  "meta": {
+    "weight": 2426,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リ"
+    ],
+    "kun": [
+      "うち",
+      "うら"
+    ],
+    "am_han": "LÝ"
+  },
+  "meaning": {
+    "vi": "đảo ngược, bên trong, lòng bàn tay, đế, phía sau, lớp lót, mặt trái",
+    "en": "reverse, inside, palm, sole, rear, lining, wrong side"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/裡.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8024",
+    "text": "裡 (đọc là \"ri\") có nghĩa là \"bên trong\", \"ở trong\" để chỉ những điều nằm ở bên trong một không gian hay một khái niệm nào đó.\n\nVí dụ:\n- 裡面 (rimen): Bên trong, nội thất.\n- 裡側 (uragawa): Mặt t"
+  },
+  "comments": []
+}

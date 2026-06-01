@@ -1,0 +1,107 @@
+{
+  "kanji": "挟",
+  "meta": {
+    "weight": 1092,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ",
+      "ショウ"
+    ],
+    "kun": [
+      "はさ.む",
+      "はさ.まる",
+      "わきばさ.む",
+      "さしはさ.む"
+    ],
+    "am_han": "HIỆP"
+  },
+  "meaning": {
+    "vi": "kẹp",
+    "en": "pinch, between"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/挟.svg"
+  },
+  "frequency": 1870,
+  "examples": [
+    "挟む"
+  ],
+  "explanation": {
+    "id": "1670",
+    "text": "挟 (đọc là \"kyō\" hoặc \"hasamu\") có nghĩa là \"kẹp\", \"chen vào\" hoặc \"tham gia\". Chữ này chỉ những hành động liên quan đến việc kẹp giữa hoặc can thiệp vào một tình huống.\n\nVí dụ:\n- 挟持 (kyōji):"
+  },
+  "comments": [
+    {
+      "id": "153910",
+      "lang": "vi",
+      "content_html": "<p>Tay ông Chồng Đại HIỆP bị KẸP</p>",
+      "content_text": "Tay ông Chồng Đại HIỆP bị KẸP",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190767",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm 2 đốm lửa như đại Hiệp</p>",
+      "content_text": "Tay cầm 2 đốm lửa như đại Hiệp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "153911",
+      "lang": "vi",
+      "content_html": "<p>HAI TAY cầm HOẢ là đại HIỆP</p>",
+      "content_text": "HAI TAY cầm HOẢ là đại HIỆP",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153912",
+      "lang": "vi",
+      "content_html": "<p>đại hiệp dùng tay gặt lúa</p>",
+      "content_text": "đại hiệp dùng tay gặt lúa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

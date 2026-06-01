@@ -1,0 +1,69 @@
+{
+  "kanji": "丞",
+  "meta": {
+    "weight": 86,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ",
+      "ショウ"
+    ],
+    "kun": [
+      "すく.う",
+      "たす.ける"
+    ],
+    "am_han": "THỪA, CHƯNG"
+  },
+  "meaning": {
+    "vi": "Cứu giúp",
+    "en": "help"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/丞.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3944",
+    "text": "丞 (đọc là \"jō\") có nghĩa là \"trợ giúp\", \"hỗ trợ\". Chữ này thường được dùng để chỉ sự hỗ trợ hoặc giúp đỡ trong các tình huống khác nhau.\n\nVí dụ:\n- 丞助 (jōsuke): Hỗ trợ, giúp đỡ.\n- 侍丞 (jijō): "
+  },
+  "comments": [
+    {
+      "id": "218787",
+      "lang": "vi",
+      "content_html": "<p>thừa tướng</p>",
+      "content_text": "thừa tướng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218788",
+      "lang": "vi",
+      "content_html": "<p>Tôi Thừa 拯 biết 了 là nước 水 là 1 vật chất sống còn của trái đấy</p>",
+      "content_text": "Tôi Thừa 拯 biết 了 là nước 水 là 1 vật chất sống còn của trái đấy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "境",
+  "meta": {
+    "weight": 596,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ",
+      "ケイ"
+    ],
+    "kun": [
+      "さかい"
+    ],
+    "am_han": "CẢNH"
+  },
+  "meaning": {
+    "vi": "ranh giới, nhập cảnh",
+    "en": "boundary, border, region"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/境.svg"
+  },
+  "frequency": 346,
+  "examples": [
+    "環境",
+    "国境",
+    "境界",
+    "境",
+    "心境"
+  ],
+  "explanation": {
+    "id": "1649",
+    "text": "境 (đọc là \"kyō\" hoặc \"sakai\") có nghĩa là \"biên giới\", \"ranh giới\" để chỉ các điểm phân chia giữa hai khu vực hoặc trạng thái khác nhau.\n\nVí dụ:\n- 境界 (kyōkai): Biên giới, ranh giới.\n- 境遇 (ky"
+  },
+  "comments": [
+    {
+      "id": "152660",
+      "lang": "vi",
+      "content_html": "<p>Đứng trên vùng đất ranh giới để ngắm CẢNH</p>",
+      "content_text": "Đứng trên vùng đất ranh giới để ngắm CẢNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152661",
+      "lang": "vi",
+      "content_html": "<p>ĐỨNG(立) lại mảnh ĐẤT(土) quê hương NGẮM NHÌN(見) CẢNH(境) vật trước khi đi XA CÁI(さかい).</p>",
+      "content_text": "ĐỨNG(立) lại mảnh ĐẤT(土) quê hương NGẮM NHÌN(見) CẢNH(境) vật trước khi đi XA CÁI(さかい).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152662",
+      "lang": "vi",
+      "content_html": "<p>Mang âm thanh đi ra khỏi Cảnh biên giới.</p>",
+      "content_text": "Mang âm thanh đi ra khỏi Cảnh biên giới.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

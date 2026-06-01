@@ -1,0 +1,55 @@
+{
+  "kanji": "舵",
+  "meta": {
+    "weight": 2239,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダ",
+      "タ"
+    ],
+    "kun": [
+      "かじ"
+    ],
+    "am_han": "ĐÀ"
+  },
+  "meaning": {
+    "vi": "bánh lái, bánh xe",
+    "en": "rudder, helm, wheel"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/舵.svg"
+  },
+  "frequency": 2225,
+  "examples": [
+    "舵",
+    "舵取り",
+    "操舵"
+  ],
+  "explanation": {
+    "id": "4904",
+    "text": "舵 (đọc là \"da\") có nghĩa là \"bánh lái\" hay \"thiết bị điều khiển tàu bè\". Nó chỉ đến những hành động liên quan đến việc điều khiển phương tiện đường thủy.\n\nVí dụ:\n- 舵輪 (darin): Bánh lái.\n- 舵取"
+  },
+  "comments": [
+    {
+      "id": "156435",
+      "lang": "vi",
+      "content_html": "<p>con thuyền 舟ở trong nhà 宅 trên sông ĐÀ 舵</p>",
+      "content_text": "con thuyền 舟ở trong nhà 宅 trên sông ĐÀ 舵",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

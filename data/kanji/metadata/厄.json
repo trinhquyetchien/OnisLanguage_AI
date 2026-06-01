@@ -1,0 +1,88 @@
+{
+  "kanji": "厄",
+  "meta": {
+    "weight": 407,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヤク"
+    ],
+    "kun": [],
+    "am_han": "ÁCH, NGỎA"
+  },
+  "meaning": {
+    "vi": "xui xẻo, tai họa",
+    "en": "unlucky, misfortune, bad luck, disaster"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/厄.svg"
+  },
+  "frequency": 2123,
+  "examples": [
+    "厄介",
+    "厄",
+    "災厄",
+    "厄年",
+    "厄除け"
+  ],
+  "explanation": {
+    "id": "7688",
+    "text": "厄 (đọc là \"yaku\") có nghĩa là \"khó khăn\", \"tai họa\", chỉ những điều xui xẻo hoặc bất hạnh.  \nVí dụ:  \n- 厄年 (yakunen): Năm tai ương, năm không may.  \n- 厄介 (yakkai): Phiền phức, rắc rối.  \n- 厄"
+  },
+  "comments": [
+    {
+      "id": "152213",
+      "lang": "vi",
+      "content_html": "<p>Một người đang quỳ dưới vách núi khi gặp tai hoạ</p>",
+      "content_text": "Một người đang quỳ dưới vách núi khi gặp tai hoạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152214",
+      "lang": "vi",
+      "content_html": "<p>Tai ÁCH ập tới khi Tre trên Núi không còn</p>",
+      "content_text": "Tai ÁCH ập tới khi Tre trên Núi không còn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152215",
+      "lang": "vi",
+      "content_html": "<p>ách cc,chữ khó chịu vdd</p>",
+      "content_text": "ách cc,chữ khó chịu vdd",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

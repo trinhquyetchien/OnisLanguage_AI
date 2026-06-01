@@ -1,0 +1,93 @@
+{
+  "kanji": "更",
+  "meta": {
+    "weight": 1260,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "さら",
+      "さら.に",
+      "ふ.ける",
+      "ふ.かす"
+    ],
+    "am_han": "CANH"
+  },
+  "meaning": {
+    "vi": "cập nhật",
+    "en": "grow late, night watch, sit up late, of course, renew, renovate, again, more and more, further"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/更.svg"
+  },
+  "frequency": 861,
+  "examples": [
+    "更新",
+    "変更",
+    "更に",
+    "今更",
+    "更"
+  ],
+  "explanation": {
+    "id": "2471",
+    "text": "更 (đọc là \"kou\" hoặc \"sarasu\") có nghĩa là \"thay đổi\", \"tăng cường\" để chỉ các hành động điều chỉnh, cải thiện hoặc làm mới.\nVí dụ:\n- 更衣 (kōi): Thay đồ, đổi trang phục.\n- 更新 (kōshin): Cập nh"
+  },
+  "comments": [
+    {
+      "id": "154302",
+      "lang": "vi",
+      "content_html": "<p>(ー）một (日）ngày có 10(x) canh</p>",
+      "content_text": "(ー）một (日）ngày có 10(x) canh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154303",
+      "lang": "vi",
+      "content_html": "<p>MỘT NGÀY dùng NGHỆ nấu CANH</p>",
+      "content_text": "MỘT NGÀY dùng NGHỆ nấu CANH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154304",
+      "lang": "vi",
+      "content_html": "<p>không có Người (イ) Canh (更)</p>",
+      "content_text": "không có Người (イ) Canh (更)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

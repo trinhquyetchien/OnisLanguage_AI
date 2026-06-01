@@ -1,0 +1,90 @@
+{
+  "kanji": "顧",
+  "meta": {
+    "weight": 2922,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "かえり.みる"
+    ],
+    "am_han": "CỐ"
+  },
+  "meaning": {
+    "vi": "nhìn lại, xem xét, kiểm tra bản thân, quay đầu lại",
+    "en": "look back, review, examine oneself, turn around"
+  },
+  "stroke": {
+    "count": 21,
+    "svg": "assets/svg/顧.svg"
+  },
+  "frequency": 1058,
+  "examples": [
+    "顧客",
+    "顧問",
+    "回顧",
+    "顧み",
+    "愛顧"
+  ],
+  "explanation": {
+    "id": "2312",
+    "text": "顧 (đọc là \"ko\") có nghĩa là \"nhìn lại\", \"quan tâm\", chỉ các hành động liên quan đến việc suy nghĩ về quá khứ hoặc chú ý đến điều gì đó.\n\nVí dụ:\n- 顧問 (komon): Cố vấn.\n- 顧みる (kaerimiru): Nhìn "
+  },
+  "comments": [
+    {
+      "id": "157919",
+      "lang": "vi",
+      "content_html": "<p>thấy biển THUÊ người ĐẦU quay lại (CỐ) xem</p>",
+      "content_text": "thấy biển THUÊ người ĐẦU quay lại (CỐ) xem",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157920",
+      "lang": "vi",
+      "content_html": "<p>Cố vấn cho việc treo  con chim đầu cửa cho hợp lý</p>",
+      "content_text": "Cố vấn cho việc treo  con chim đầu cửa cho hợp lý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157921",
+      "lang": "vi",
+      "content_html": "<p>Nhìn lại cái cửa thì thấy cái đầu con chim đang lấp ló thò  vào</p>",
+      "content_text": "Nhìn lại cái cửa thì thấy cái đầu con chim đang lấp ló thò  vào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

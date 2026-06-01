@@ -1,0 +1,89 @@
+{
+  "kanji": "咽",
+  "meta": {
+    "weight": 482,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イン",
+      "エン",
+      "エツ"
+    ],
+    "kun": [
+      "むせ.ぶ",
+      "むせ.る",
+      "のど",
+      "の.む"
+    ],
+    "am_han": "YẾT, YẾN, Ế"
+  },
+  "meaning": {
+    "vi": "cổ họng, nghẹn ngào, ngạt thở, nghẹt thở",
+    "en": "throat, choked, smothered, stuffy"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/咽.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "242",
+    "text": "咽 (đọc là \"en\") có nghĩa là \"họng\", \"thanh quản\" để chỉ vùng cổ họng và các vấn đề liên quan đến nó.  \nVí dụ:  \n- 咽頭 (entou): Họng, thanh quản.  \n- 咽喉 (inkou): Cổ họng.  \n- 咽せる (haneseru): S"
+  },
+  "comments": [
+    {
+      "id": "219111",
+      "lang": "vi",
+      "content_html": "<p>Cái Nhân ở trong Miệng là cái YẾT hầu</p>",
+      "content_text": "Cái Nhân ở trong Miệng là cái YẾT hầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219112",
+      "lang": "vi",
+      "content_html": "<p>Mở miệng口 tìm nguyên nhân因 đau họng咽</p>",
+      "content_text": "Mở miệng口 tìm nguyên nhân因 đau họng咽",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219113",
+      "lang": "vi",
+      "content_html": "<p>Nguyên nhân của việc đau họng (yết hầu) là do miệng nói nhiều</p>",
+      "content_text": "Nguyên nhân của việc đau họng (yết hầu) là do miệng nói nhiều",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

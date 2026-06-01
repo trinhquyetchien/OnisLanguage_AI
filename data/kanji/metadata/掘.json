@@ -1,0 +1,90 @@
+{
+  "kanji": "掘",
+  "meta": {
+    "weight": 1115,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "クツ"
+    ],
+    "kun": [
+      "ほ.る"
+    ],
+    "am_han": "QUẬT"
+  },
+  "meaning": {
+    "vi": "đào",
+    "en": "dig, delve, excavate"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/掘.svg"
+  },
+  "frequency": 1257,
+  "examples": [
+    "発掘",
+    "採掘",
+    "掘る",
+    "掘削",
+    "掘り出し物"
+  ],
+  "explanation": {
+    "id": "1869",
+    "text": "掘 (đọc là \"kutsu\" hoặc \"horu\") có nghĩa là \"đào\", \"khai thác\" để chỉ các hành động liên quan đến việc đào bới đất, hoặc khai thác tài nguyên.\n\nVí dụ:\n- 掘削 (kusaku): Đào xới, khai thác.\n- 掘る "
+  },
+  "comments": [
+    {
+      "id": "153953",
+      "lang": "vi",
+      "content_html": "<p>Dùng TAY khai QUẬT tử THI ròi MANG ĐI</p>",
+      "content_text": "Dùng TAY khai QUẬT tử THI ròi MANG ĐI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153954",
+      "lang": "vi",
+      "content_html": "<p>dùng tay khai quật tử thi đưa ra ngoài</p>",
+      "content_text": "dùng tay khai quật tử thi đưa ra ngoài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153955",
+      "lang": "vi",
+      "content_html": "<p>dùng tay khai quật được một cái cửa cũ, đưa ra khỏi mặt đất</p>",
+      "content_text": "dùng tay khai quật được một cái cửa cũ, đưa ra khỏi mặt đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "昔",
+  "meta": {
+    "weight": 1224,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ",
+      "シャク"
+    ],
+    "kun": [
+      "むかし"
+    ],
+    "am_han": "TÍCH"
+  },
+  "meaning": {
+    "vi": "ngày xưa",
+    "en": "once upon a time, antiquity, old times"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/昔.svg"
+  },
+  "frequency": 1197,
+  "examples": [
+    "昔",
+    "昔ながら",
+    "昔話",
+    "一昔",
+    "大昔"
+  ],
+  "explanation": {
+    "id": "4397",
+    "text": "昔 (đọc là \"mukashi\") có nghĩa là \"ngày xưa\", \"thời xưa\" để chỉ thời gian trong quá khứ hoặc những câu chuyện cổ xưa.  \nVí dụ:  \n- 昔話 (mukashibanashi): Truyện cổ tích, chuyện ngày xưa.  \n- 昔日"
+  },
+  "comments": [
+    {
+      "id": "36900",
+      "lang": "vi",
+      "content_html": "<p>Cách đây 21 ngày là chuyện của <strong>ngày xưa</strong>.</p>",
+      "content_text": "Cách đây 21 ngày là chuyện của\nngày xưa\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc27dda5f3c.jpg",
+      "image_path": "assets/images/昔_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154213",
+      "lang": "vi",
+      "content_html": "<p>Sự TÍCH Trái Đất quay quanh Mặt Trời</p>",
+      "content_text": "Sự TÍCH Trái Đất quay quanh Mặt Trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154214",
+      "lang": "vi",
+      "content_html": "<p>Ngày xửa ngày xưa chỉ có mặt trời và 2 miếng đất</p>",
+      "content_text": "Ngày xửa ngày xưa chỉ có mặt trời và 2 miếng đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154215",
+      "lang": "vi",
+      "content_html": "<p>Bộ 龷 chỉ sự xếp chồng lên nhau. Ngày xếp chồng lên ngày chỉ sự quá khứ.</p>",
+      "content_text": "Bộ 龷 chỉ sự xếp chồng lên nhau. Ngày xếp chồng lên ngày chỉ sự quá khứ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

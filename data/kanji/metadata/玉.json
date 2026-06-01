@@ -1,0 +1,92 @@
+{
+  "kanji": "玉",
+  "meta": {
+    "weight": 1732,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギョク"
+    ],
+    "kun": [
+      "たま",
+      "たま-",
+      "-だま"
+    ],
+    "am_han": "NGỌC"
+  },
+  "meaning": {
+    "vi": "viên ngọc",
+    "en": "jewel, ball"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/玉.svg"
+  },
+  "frequency": 737,
+  "examples": [
+    "玉",
+    "埼玉",
+    "目玉",
+    "玉子",
+    "玉ねぎ"
+  ],
+  "explanation": {
+    "id": "1735",
+    "text": "玉 (đọc là \"gyoku\" hoặc \"tama\") có nghĩa là \"ngọc\", \"hạt\", hoặc \"quý giá\", thường chỉ các vật thể quý giá hoặc biểu tượng cho sự hoàn hảo, tinh khiết.\n\nVí dụ:\n- 玉石 (gyoku seki): Ngọc và đá; c"
+  },
+  "comments": [
+    {
+      "id": "155318",
+      "lang": "vi",
+      "content_html": "<p>Bảo Ngọc 玉 trong thiên hạ đều do Vua 王 làm Chủ 丶 nhân.</p>",
+      "content_text": "Bảo Ngọc 玉 trong thiên hạ đều do Vua 王 làm Chủ 丶 nhân.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155319",
+      "lang": "vi",
+      "content_html": "<p>vương là chủ nhân của viên Ngọc</p>",
+      "content_text": "vương là chủ nhân của viên Ngọc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155320",
+      "lang": "vi",
+      "content_html": "<p>Không hiểu tại sao nhưng bộ của chữ này và chữ 王 đều là 玉 nhé</p>",
+      "content_text": "Không hiểu tại sao nhưng bộ của chữ này và chữ 王 đều là 玉 nhé",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "kanji": "池",
+  "meta": {
+    "weight": 1493,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チ"
+    ],
+    "kun": [
+      "いけ"
+    ],
+    "am_han": "TRÌ"
+  },
+  "meaning": {
+    "vi": "cái ao",
+    "en": "pond, cistern, pool, reservoir"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/池.svg"
+  },
+  "frequency": 827,
+  "examples": [
+    "池",
+    "電池",
+    "乾電池",
+    "溜池",
+    "ため池"
+  ],
+  "explanation": {
+    "id": "5211",
+    "text": "池 (đọc là \"chi\") có nghĩa là \"ao\", \"hồ\" để chỉ những vùng nước nhỏ, thường được nhân tạo.  \nVí dụ:  \n- 池塘 (chidang): Ao, hồ.  \n- 池水 (chimizu): Nước trong ao/hồ.  \n- 魚池 (uoichi): Hồ nuôi cá."
+  },
+  "comments": [
+    {
+      "id": "36974",
+      "lang": "vi",
+      "content_html": "<p>Có con tôm trong <strong>ao</strong>.</p>",
+      "content_text": "Có con tôm trong\nao\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4c0723d24.jpg",
+      "image_path": "assets/images/池_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154781",
+      "lang": "vi",
+      "content_html": "<p>Cái VÙNG(地) mà ĐẤT(土) được đào đi để trữ NƯỚC( 氵) gọi là AO(池).</p>",
+      "content_text": "Cái VÙNG(地) mà ĐẤT(土) được đào đi để trữ NƯỚC( 氵) gọi là AO(池).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154782",
+      "lang": "vi",
+      "content_html": "<p>Cái Ao duy Trì Nước dư Dã để dùng.</p>",
+      "content_text": "Cái Ao duy Trì Nước dư Dã để dùng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154783",
+      "lang": "vi",
+      "content_html": "<p>dã thổ là đất, dã thuỷ là ao</p>",
+      "content_text": "dã thổ là đất, dã thuỷ là ao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

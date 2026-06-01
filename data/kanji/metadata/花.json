@@ -1,0 +1,108 @@
+{
+  "kanji": "花",
+  "meta": {
+    "weight": 2256,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "ケ"
+    ],
+    "kun": [
+      "はな"
+    ],
+    "am_han": "HOA"
+  },
+  "meaning": {
+    "vi": "hoa",
+    "en": "flower"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/花.svg"
+  },
+  "frequency": 578,
+  "examples": [
+    "花",
+    "花火",
+    "花粉",
+    "花見",
+    "開花"
+  ],
+  "explanation": {
+    "id": "676",
+    "text": "花 (đọc là \"hana\") có nghĩa là \"hoa\", thể hiện sự sống, sắc đẹp và thiên nhiên.\nVí dụ:\n- 花火 (hanabi): Pháo hoa.\n- 花瓶 (kabin): Bình hoa.\n- 花壇 (kadan): Vườn hoa."
+  },
+  "comments": [
+    {
+      "id": "753",
+      "lang": "vi",
+      "content_html": "<p>Cỏ biến đổi (化) và trở thành <strong>hoa</strong>.</p>",
+      "content_text": "Cỏ biến đổi (化) và trở thành\nhoa\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62984bdfc7602.jpg",
+      "image_path": "assets/images/花_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156470",
+      "lang": "vi",
+      "content_html": "<p>cỏ hoá hoa</p>",
+      "content_text": "cỏ hoá hoa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158573",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>花 (はな): hoa</p><p>花瓶 (かびん): bình hoa</p><p>花見 (はなみ): ngắm hoa</p><p>花火 (はなび): pháo hoa</p>",
+      "content_text": "JLPT N4\n花 (はな): hoa\n花瓶 (かびん): bình hoa\n花見 (はなみ): ngắm hoa\n花火 (はなび): pháo hoa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "158657",
+      "lang": "vi",
+      "content_html": "<p><strong>Thảo </strong>trên <strong>Nhân </strong>phải Trái <strong>Chủy</strong></p>",
+      "content_text": "Thảo\ntrên\nNhân\nphải Trái\nChủy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "299",
+        "name": "Khoi Nguyen",
+        "image_url": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "策",
+  "meta": {
+    "weight": 1998,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サク"
+    ],
+    "kun": [],
+    "am_han": "SÁCH"
+  },
+  "meaning": {
+    "vi": "kế hoạch, kế sách",
+    "en": "scheme, plan, policy, step, means"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/策.svg"
+  },
+  "frequency": 209,
+  "examples": [
+    "政策",
+    "対策",
+    "策",
+    "施策",
+    "策定"
+  ],
+  "explanation": {
+    "id": "2907",
+    "text": "策 (đọc là \"saku\") có nghĩa là \"kế hoạch\", \"chiến lược\" để chỉ các hành động liên quan đến việc lập kế hoạch hoặc đề xuất phương án.  \nVí dụ:  \n- 策略 (sakuryaku): Chiến lược, kế hoạch.  \n- 計策 "
+  },
+  "comments": [
+    {
+      "id": "155887",
+      "lang": "vi",
+      "content_html": "<p>sách thời xưa làm bằng trúc, lấy dây buộc lại từng thanh với nhau.</p>",
+      "content_text": "sách thời xưa làm bằng trúc, lấy dây buộc lại từng thanh với nhau.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155888",
+      "lang": "vi",
+      "content_html": "<p>Trồng trúc ở thành thị là chính SÁCH hay</p>",
+      "content_text": "Trồng trúc ở thành thị là chính SÁCH hay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155889",
+      "lang": "vi",
+      "content_html": "<p>Trúc buộc thiếu là Hạ SÁCH</p>",
+      "content_text": "Trúc buộc thiếu là Hạ SÁCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kanji": "函",
+  "meta": {
+    "weight": 308,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "はこ",
+      "い.れる"
+    ],
+    "am_han": "HÀM"
+  },
+  "meaning": {
+    "vi": "hộp (cổ xưa)",
+    "en": "box (archaic)"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/函.svg"
+  },
+  "frequency": 1781,
+  "examples": [
+    "函",
+    "函館",
+    "投函"
+  ],
+  "explanation": {
+    "id": "6369",
+    "text": "函 (đọc là \"kan\") có nghĩa là \"hộp\", \"thùng\" để chỉ các vật dụng dùng để chứa đựng hoặc bảo quản.\n\nVí dụ:\n- 箱函 (hakokan): Hộp lưu trữ, thùng đựng.\n- 函館 (Hakodate): Tên một thành phố ở Nhật Bả"
+  },
+  "comments": [
+    {
+      "id": "151964",
+      "lang": "vi",
+      "content_html": "<p>năm hạt gạo được đặt trong cái hộp</p>",
+      "content_text": "năm hạt gạo được đặt trong cái hộp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

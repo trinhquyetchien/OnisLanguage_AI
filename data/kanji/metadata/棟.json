@@ -1,0 +1,90 @@
+{
+  "kanji": "棟",
+  "meta": {
+    "weight": 1377,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "むね",
+      "むな-"
+    ],
+    "am_han": "ĐỐNG"
+  },
+  "meaning": {
+    "vi": "ngọn núi",
+    "en": "ridgepole, ridge"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/棟.svg"
+  },
+  "frequency": 1406,
+  "examples": [
+    "棟",
+    "病棟",
+    "棟梁",
+    "上棟"
+  ],
+  "explanation": {
+    "id": "5811",
+    "text": "棟 (đọc là \"mune\") có nghĩa là \"căn nhà\", \"toà nhà\" hoặc phần mái của một tòa nhà để chỉ cấu trúc kiến trúc.  \nVí dụ:  \n- 棟上げ (munenage): Lễ khởi công xây dựng.  \n- 棟木 (muneboki): Xà gồ, than"
+  },
+  "comments": [
+    {
+      "id": "154551",
+      "lang": "vi",
+      "content_html": "<p>Cây chất đống phía đông để làm nhà</p>",
+      "content_text": "Cây chất đống phía đông để làm nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154552",
+      "lang": "vi",
+      "content_html": "<p>ĐÔNG cây thì sẽ chất ĐỐNG</p>",
+      "content_text": "ĐÔNG cây thì sẽ chất ĐỐNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154553",
+      "lang": "vi",
+      "content_html": "<p>đốn 2 cây làm nóc nhà che nắng</p>",
+      "content_text": "đốn 2 cây làm nóc nhà che nắng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

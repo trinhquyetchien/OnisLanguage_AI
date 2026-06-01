@@ -1,0 +1,88 @@
+{
+  "kanji": "隷",
+  "meta": {
+    "weight": 2849,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ"
+    ],
+    "kun": [
+      "したが.う",
+      "しもべ"
+    ],
+    "am_han": "LỆ"
+  },
+  "meaning": {
+    "vi": "nô lệ, người hầu, tù nhân, tội phạm, người theo dõi",
+    "en": "slave, servant, prisoner, criminal, follower"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/隷.svg"
+  },
+  "frequency": 2009,
+  "examples": [
+    "奴隷",
+    "隷属"
+  ],
+  "explanation": {
+    "id": "8235",
+    "text": "隷 (đọc là \"rei\") có nghĩa là \"nô lệ\" hoặc \"thuộc về nô lệ\", chỉ các khía cạnh liên quan đến sự phục tùng hay lệ thuộc.\n\nVí dụ:\n- 隷属 (reizoku): Sự nô lệ, sự phục tùng.\n- 隷書 (reisho): Thể chữ "
+  },
+  "comments": [
+    {
+      "id": "157751",
+      "lang": "vi",
+      "content_html": "<p>Nguyên là quân sĩ nhưng bị bắt về cầm chổi quét nhà như là nô lệ</p>",
+      "content_text": "Nguyên là quân sĩ nhưng bị bắt về cầm chổi quét nhà như là nô lệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157752",
+      "lang": "vi",
+      "content_html": "<p>SĨ  tử mà bị đối ĐÃI chỉ THỊ như nô LỆ</p>",
+      "content_text": "SĨ  tử mà bị đối ĐÃI chỉ THỊ như nô LỆ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157753",
+      "lang": "vi",
+      "content_html": "<p>kẻ vô liêm Sỉ士 bị kì thị示 và ngược Đãi như nô Lệ</p>",
+      "content_text": "kẻ vô liêm Sỉ士 bị kì thị示 và ngược Đãi như nô Lệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

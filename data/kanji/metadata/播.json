@@ -1,0 +1,73 @@
+{
+  "kanji": "播",
+  "meta": {
+    "weight": 1155,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハ",
+      "バン",
+      "ハン"
+    ],
+    "kun": [
+      "ま.く"
+    ],
+    "am_han": "BÁ, BẢ"
+  },
+  "meaning": {
+    "vi": "trồng cây, gieo hạt",
+    "en": "plant, sow"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/播.svg"
+  },
+  "frequency": 2204,
+  "examples": [
+    "伝播",
+    "播種",
+    "播磨"
+  ],
+  "explanation": {
+    "id": "6222",
+    "text": "播 (đọc là \"ha\") có nghĩa là \"gieo trồng\", \"phát sóng\" để chỉ các hành động liên quan đến việc gieo hạt hoặc truyền tải thông tin.  \nVí dụ:  \n- 播種 (hajyu): Gieo hạt, trồng cây.  \n- 播報 (hahou)"
+  },
+  "comments": [
+    {
+      "id": "154045",
+      "lang": "vi",
+      "content_html": "<p>Bả là một Tay có Số má</p>",
+      "content_text": "Bả là một Tay có Số má",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154046",
+      "lang": "vi",
+      "content_html": "<p>Bả là người dùng Tay NÉM hạt Lúa ra cánh ĐỒNG.</p>",
+      "content_text": "Bả là người dùng Tay NÉM hạt Lúa ra cánh ĐỒNG.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "導",
+  "meta": {
+    "weight": 759,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドウ"
+    ],
+    "kun": [
+      "みちび.く"
+    ],
+    "am_han": "ĐẠO"
+  },
+  "meaning": {
+    "vi": "chỉ đạo",
+    "en": "guidance, leading, conduct, usher"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/導.svg"
+  },
+  "frequency": 354,
+  "examples": [
+    "指導",
+    "導入",
+    "誘導",
+    "主導",
+    "導く"
+  ],
+  "explanation": {
+    "id": "5910",
+    "text": "導 (đọc là \"dō\") có nghĩa là \"hướng dẫn\", \"chỉ đạo\" để chỉ các hành động liên quan đến việc dẫn dắt, hướng dẫn hoặc chỉ đường.\n\nVí dụ:\n- 指導 (shidō): Hướng dẫn, chỉ đạo.\n- 導入 (dōnyū): Sự đưa v"
+  },
+  "comments": [
+    {
+      "id": "153061",
+      "lang": "vi",
+      "content_html": "<p>chỉ đường đắc ĐẠO thật là thốn</p>",
+      "content_text": "chỉ đường đắc ĐẠO thật là thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153062",
+      "lang": "vi",
+      "content_html": "<p>Thằng chỉ đạo làm con đường này nhìn thốn vl</p>",
+      "content_text": "Thằng chỉ đạo làm con đường này nhìn thốn vl",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153063",
+      "lang": "vi",
+      "content_html": "<p>THỦ tướng từng bước chỉ ĐẠO thật là THỐN</p>",
+      "content_text": "THỦ tướng từng bước chỉ ĐẠO thật là THỐN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

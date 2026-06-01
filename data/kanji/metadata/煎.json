@@ -1,0 +1,90 @@
+{
+  "kanji": "煎",
+  "meta": {
+    "weight": 1662,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "せん.じる",
+      "い.る",
+      "に.る"
+    ],
+    "am_han": "TIÊN, TIỄN"
+  },
+  "meaning": {
+    "vi": "broil, parch, roast, luộc",
+    "en": "broil, parch, roast, boil"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/煎.svg"
+  },
+  "frequency": 2458,
+  "examples": [
+    "煎",
+    "煎餅",
+    "煎茶"
+  ],
+  "explanation": {
+    "id": "4522",
+    "text": "煎 (đọc là \"sen\") có nghĩa là \"chiên\", \"rán\" để chỉ các hành động nấu ăn bằng cách áp dụng nhiệt độ cao, thường trong dầu hoặc chảo.  \nVí dụ:  \n- 煎餅 (senbei): Bánh gạo nướng.  \n- 煎茶 (sencha):"
+  },
+  "comments": [
+    {
+      "id": "155180",
+      "lang": "vi",
+      "content_html": "<p>Nấu tiền rang tiên</p>",
+      "content_text": "Nấu tiền rang tiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155181",
+      "lang": "vi",
+      "content_html": "<p>lấy tiền nhóm lửa thì cảm giác sướng như TIÊN</p>",
+      "content_text": "lấy tiền nhóm lửa thì cảm giác sướng như TIÊN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155182",
+      "lang": "vi",
+      "content_html": "<p>Trước TIÊN phải nhóm lửa bên dưới mới có thể sắc thuốc và hãm chè</p>",
+      "content_text": "Trước TIÊN phải nhóm lửa bên dưới mới có thể sắc thuốc và hãm chè",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

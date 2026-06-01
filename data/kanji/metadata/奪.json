@@ -1,0 +1,90 @@
+{
+  "kanji": "奪",
+  "meta": {
+    "weight": 640,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダツ"
+    ],
+    "kun": [
+      "うば.う"
+    ],
+    "am_han": "ĐOẠT"
+  },
+  "meaning": {
+    "vi": "cướp, chiếm đoạt bằng vũ lực, cướp đi, chiếm đoạt, cướp bóc",
+    "en": "rob, take by force, snatch away, dispossess, plunder, usurp"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/奪.svg"
+  },
+  "frequency": 974,
+  "examples": [
+    "奪う",
+    "略奪",
+    "剥奪",
+    "奪取",
+    "争奪"
+  ],
+  "explanation": {
+    "id": "5081",
+    "text": "奪 (đọc là \"daku\") có nghĩa là \"cướp\", \"chiếm đoạt\" để chỉ các hành động liên quan đến việc lấy đi một thứ gì đó từ người khác.  \nVí dụ:  \n- 奪取 (dasshu): Cướp đoạt, chiếm lấy.  \n- 奪う (ubau): "
+  },
+  "comments": [
+    {
+      "id": "152771",
+      "lang": "vi",
+      "content_html": "<p>Lúc Chiếm đoạt đc con chim lớn cảm giác hơi thốn</p>",
+      "content_text": "Lúc Chiếm đoạt đc con chim lớn cảm giác hơi thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152772",
+      "lang": "vi",
+      "content_html": "<p>cảm thấy thốn khi thấy con chim lớn (vd : đại bàng ) lao xuống ĐOẠT lấy con mồi . <br>như vầy hợp lí hơn chưa !</p>",
+      "content_text": "cảm thấy thốn khi thấy con chim lớn (vd : đại bàng ) lao xuống ĐOẠT lấy con mồi .\nnhư vầy hợp lí hơn chưa !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152773",
+      "lang": "vi",
+      "content_html": "<p>Chim to mà bị gái chiếm đoạt thì cảm thấy thốn</p>",
+      "content_text": "Chim to mà bị gái chiếm đoạt thì cảm thấy thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

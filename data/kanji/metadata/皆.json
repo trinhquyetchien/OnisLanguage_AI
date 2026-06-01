@@ -1,0 +1,108 @@
+{
+  "kanji": "皆",
+  "meta": {
+    "weight": 1822,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "みな",
+      "みんな"
+    ],
+    "am_han": "GIAI"
+  },
+  "meaning": {
+    "vi": "tất cả",
+    "en": "all, everything"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/皆.svg"
+  },
+  "frequency": 1267,
+  "examples": [
+    "皆さん",
+    "皆",
+    "皆様",
+    "皆さま",
+    "皆無"
+  ],
+  "explanation": {
+    "id": "801",
+    "text": "皆 (đọc là \"kai\" hoặc \"mina\") có nghĩa là \"tất cả\", \"mọi người\" để chỉ sự tổng hợp hoặc một nhóm lớn người hay vật.  \nVí dụ:  \n- 皆さん (minasan): Tất cả mọi người.  \n- 皆無 (kaimu): Không còn gì,"
+  },
+  "comments": [
+    {
+      "id": "37087",
+      "lang": "vi",
+      "content_html": "<p>Hãy so sánh (比) những người trên toà nhà màu trắng (白).</p><p><strong>Mọi người</strong> trông giống nhau.</p>",
+      "content_text": "Hãy so sánh (比) những người trên toà nhà màu trắng (白).\nMọi người\ntrông giống nhau.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb041daa01.jpg",
+      "image_path": "assets/images/皆_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155506",
+      "lang": "vi",
+      "content_html": "<p>MỌI NGƯỜI cười HI HI xem răng ai TRẮNG hơn</p>",
+      "content_text": "MỌI NGƯỜI cười HI HI xem răng ai TRẮNG hơn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155507",
+      "lang": "vi",
+      "content_html": "<p>比 Tỷ (so sánh), 白 Bạch (màu trắng).<br>- So Sánh (比) xem đứa nào trắng (白) hơn. (ở lớp học, công ty .v.v..)<br>-&#62; Mọi Người (皆 GIAI) cùng chu đầu vào nhận xét.<br>..Tâm Sinh Tính..</p>",
+      "content_text": "比 Tỷ (so sánh), 白 Bạch (màu trắng).\n- So Sánh (比) xem đứa nào trắng (白) hơn. (ở lớp học, công ty .v.v..)\n-> Mọi Người (皆 GIAI) cùng chu đầu vào nhận xét.\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155508",
+      "lang": "vi",
+      "content_html": "<p>So sánh mọi người ở tất cả các GIAI cấp xem ai trắng hơn</p>",
+      "content_text": "So sánh mọi người ở tất cả các GIAI cấp xem ai trắng hơn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

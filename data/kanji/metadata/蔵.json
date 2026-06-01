@@ -1,0 +1,93 @@
+{
+  "kanji": "蔵",
+  "meta": {
+    "weight": 2338,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゾウ",
+      "ソウ"
+    ],
+    "kun": [
+      "くら",
+      "おさ.める",
+      "かく.れる"
+    ],
+    "am_han": "TÀNG"
+  },
+  "meaning": {
+    "vi": "kho, bảo tàng",
+    "en": "storehouse, hide, own, have, possess"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/蔵.svg"
+  },
+  "frequency": 468,
+  "examples": [
+    "蔵",
+    "冷蔵庫",
+    "大蔵省",
+    "大蔵",
+    "内蔵"
+  ],
+  "explanation": {
+    "id": "4779",
+    "text": "蔵 (đọc là \"zō\") có nghĩa là \"kho\", \"cất giữ\", thường được dùng để chỉ nơi lưu trữ hoặc bảo quản đồ vật, tài sản.  \nVí dụ:  \n- 蔵書 (zōsho): Tủ sách, bộ sưu tập sách.  \n- 倉蔵 (sōzō): Kho chứa, n"
+  },
+  "comments": [
+    {
+      "id": "156599",
+      "lang": "vi",
+      "content_html": "<p>Bảo TÀNG cây KIẾM của THẦN nằm trong ngọn ĐỒi đầy CỎ</p>",
+      "content_text": "Bảo TÀNG cây KIẾM của THẦN nằm trong ngọn ĐỒi đầy CỎ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156600",
+      "lang": "vi",
+      "content_html": "<p>cô giáo Thảo (艹) đang ở sườn núi (厂) tàng trữ (蔵) gian thần (臣) rồi qua (戈) lại XXX với gian thần. sốc thì mới dễ nhớ nhé mọi người. ai thấy phát thuộc luôn thì cho xin một like nào.</p>",
+      "content_text": "cô giáo Thảo (艹) đang ở sườn núi (厂) tàng trữ (蔵) gian thần (臣) rồi qua (戈) lại XXX với gian thần. sốc thì mới dễ nhớ nhé mọi người. ai thấy phát thuộc luôn thì cho xin một like nào.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156601",
+      "lang": "vi",
+      "content_html": "<p>Tàng kho bỏ đồ khiên chiến tranh lấp dưới cỏ hoa</p>",
+      "content_text": "Tàng kho bỏ đồ khiên chiến tranh lấp dưới cỏ hoa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

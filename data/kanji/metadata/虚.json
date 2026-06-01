@@ -1,0 +1,92 @@
+{
+  "kanji": "虚",
+  "meta": {
+    "weight": 2368,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョ",
+      "コ"
+    ],
+    "kun": [
+      "むな.しい",
+      "うつ.ろ"
+    ],
+    "am_han": "HƯ, KHƯ, HƠ, HỬ, HỰ, HƯA, KHỜ"
+  },
+  "meaning": {
+    "vi": "void, trống rỗng, không chuẩn bị, crack, fissure, không đúng sự thật",
+    "en": "void, emptiness, unpreparedness, crack, fissure, untruth"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/虚.svg"
+  },
+  "frequency": 1454,
+  "examples": [
+    "虚偽",
+    "謙虚",
+    "虚構",
+    "空虚",
+    "虚"
+  ],
+  "explanation": {
+    "id": "1586",
+    "text": "虚 (đọc là \"kyo\" hoặc \"ko\") có nghĩa là \"hư vô\", \"trống rỗng\", chỉ trạng thái không có thực hay thiếu nội dung. \n\nVí dụ:\n- 虚無 (kyomu): Hư vô, trống rỗng.\n- 虚言 (kogen): Lời nói dối, lời nói hư"
+  },
+  "comments": [
+    {
+      "id": "156649",
+      "lang": "vi",
+      "content_html": "<p>răng hô và xếp thẳng hàng được thì thật là hư cấu</p>",
+      "content_text": "răng hô và xếp thẳng hàng được thì thật là hư cấu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156650",
+      "lang": "vi",
+      "content_html": "<p>Xếp thành 7 hàng trên sườn núi nhìn về hư không</p>",
+      "content_text": "Xếp thành 7 hàng trên sườn núi nhìn về hư không",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156651",
+      "lang": "vi",
+      "content_html": "<p>嘘 uso</p>",
+      "content_text": "嘘 uso",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

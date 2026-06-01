@@ -1,0 +1,109 @@
+{
+  "kanji": "断",
+  "meta": {
+    "weight": 1198,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダン"
+    ],
+    "kun": [
+      "た.つ",
+      "ことわ.る",
+      "さだ.める"
+    ],
+    "am_han": "ĐOẠN, ĐOÁN"
+  },
+  "meaning": {
+    "vi": "đoạn tuyệt, phán đoán",
+    "en": "severance, decline, refuse, apologize, warn, dismiss, prohibit, decision, judgement, cutting"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/断.svg"
+  },
+  "frequency": 338,
+  "examples": [
+    "判断",
+    "診断",
+    "決断",
+    "中断",
+    "無断"
+  ],
+  "explanation": {
+    "id": "5175",
+    "text": "断 (đọc là \"dan\" hoặc \"datsu\") có nghĩa là \"cắt đứt\", \"từ chối\", chỉ hành động ngăn chặn hoặc quyết định không tiếp tục. \n\nVí dụ:\n- 断言 (dangan): Khẳng định, tuyên bố rõ ràng.\n- 断る (kotowaru):"
+  },
+  "comments": [
+    {
+      "id": "154149",
+      "lang": "vi",
+      "content_html": "<p>Cầm cái RỪU chặt hạt GẠO ra từng ĐOẠN</p>",
+      "content_text": "Cầm cái RỪU chặt hạt GẠO ra từng ĐOẠN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154150",
+      "lang": "vi",
+      "content_html": "<p>Chú ý phân biệt: 断 (Đoạn) = đứt, cắt đứt vd 断髪 cắt cụt tóc, 断絶 đoạn tuyệt<br>段 (Đoạn) = quãng, khoảng, vd 階段 cầu thang.<br>Góc nhìn: dùng Búa (斤) giã Gạo (米).<br>==&#62; làm hạt gạo bị Đứt Gãy hết. (lẽ ra phải dùng chày)<br> ..性..</p>",
+      "content_text": "Chú ý phân biệt: 断 (Đoạn) = đứt, cắt đứt vd 断髪 cắt cụt tóc, 断絶 đoạn tuyệt\n段 (Đoạn) = quãng, khoảng, vd 階段 cầu thang.\nGóc nhìn: dùng Búa (斤) giã Gạo (米).\n==> làm hạt gạo bị Đứt Gãy hết. (lẽ ra phải dùng chày)\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154151",
+      "lang": "vi",
+      "content_html": "<p>Dùng rìu cắt lúa thành đoạn cho lên xe</p>",
+      "content_text": "Dùng rìu cắt lúa thành đoạn cho lên xe",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222503",
+      "lang": "vi",
+      "content_html": "<p>断る　từ chối</p><p>無断　không xin phép, tự ý</p>",
+      "content_text": "断る　từ chối\n無断　không xin phép, tự ý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "9810",
+        "name": "Hạnh Hạnh",
+        "image_url": "https://jpdictionary.com/upload/images/693795a72fd75.png"
+      }
+    }
+  ]
+}

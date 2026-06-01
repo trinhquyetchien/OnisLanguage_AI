@@ -1,0 +1,108 @@
+{
+  "kanji": "格",
+  "meta": {
+    "weight": 1345,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク",
+      "コウ",
+      "キャク",
+      "ゴウ"
+    ],
+    "kun": [],
+    "am_han": "CÁCH"
+  },
+  "meaning": {
+    "vi": "tính cách",
+    "en": "status, rank, capacity, character, case (law, grammar)"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/格.svg"
+  },
+  "frequency": 281,
+  "examples": [
+    "価格",
+    "資格",
+    "性格",
+    "本格",
+    "合格"
+  ],
+  "explanation": {
+    "id": "900",
+    "text": "格 (đọc là \"kaku\" hoặc \"tachi\") có nghĩa là \"cấu trúc\", \"tiêu chuẩn\", \"quy tắc\" để chỉ các nguyên tắc hoặc mô hình trong một hệ thống nào đó. \n\nVí dụ:\n- 格闘技 (kakutōgi): Nghệ thuật võ thuật, t"
+  },
+  "comments": [
+    {
+      "id": "191067",
+      "lang": "vi",
+      "content_html": "<p><strong>cách</strong></p>",
+      "content_text": "cách",
+      "image_url": "https://jpdictionary.com/upload/images/648a942e70050.jpg",
+      "image_path": "assets/images/格_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "154498",
+      "lang": "vi",
+      "content_html": "<p>Mỗi Cây (木) đều có CÁCH để sinh trưởng trong Các (各) môi trường khác nhau</p>",
+      "content_text": "Mỗi Cây (木) đều có CÁCH để sinh trưởng trong Các (各) môi trường khác nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154499",
+      "lang": "vi",
+      "content_html": "<p>Cái cây thể hiện nhân cách con người chân đứng im miệng lặng im</p>",
+      "content_text": "Cái cây thể hiện nhân cách con người chân đứng im miệng lặng im",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154500",
+      "lang": "vi",
+      "content_html": "<p>資格: しかく bằng cấp.</p>",
+      "content_text": "資格: しかく bằng cấp.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

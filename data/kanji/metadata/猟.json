@@ -1,0 +1,91 @@
+{
+  "kanji": "猟",
+  "meta": {
+    "weight": 1719,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [
+      "かり",
+      "か.る"
+    ],
+    "am_han": "LIỆP"
+  },
+  "meaning": {
+    "vi": "trò chơi săn bắn, bắn súng, trò chơi, túi",
+    "en": "game-hunting, shooting, game, bag"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/猟.svg"
+  },
+  "frequency": 1851,
+  "examples": [
+    "狩猟",
+    "猟",
+    "猟奇",
+    "猟師",
+    "猟犬"
+  ],
+  "explanation": {
+    "id": "8117",
+    "text": "猟 (đọc là \"ryō\") có nghĩa là \"săn bắn\", chỉ các hoạt động liên quan đến việc săn bắt động vật.  \nVí dụ:  \n- 猟師 (ryōshi): Thợ săn.  \n- 猟犬 (ryōken): Chó săn.  \n- 猟場 (ryōba): Khu vực săn bắn."
+  },
+  "comments": [
+    {
+      "id": "155284",
+      "lang": "vi",
+      "content_html": "<p>Sử dụng 3 con lợn làm mồi săn</p>",
+      "content_text": "Sử dụng 3 con lợn làm mồi săn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155285",
+      "lang": "vi",
+      "content_html": "<p>thằng liệp dùng 3 cái que săn con lợn</p>",
+      "content_text": "thằng liệp dùng 3 cái que săn con lợn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155286",
+      "lang": "vi",
+      "content_html": "<p>LIỆP 3 con Cẩu lại để sử Dụng làm mồi Săn bắt.</p>",
+      "content_text": "LIỆP 3 con Cẩu lại để sử Dụng làm mồi Săn bắt.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

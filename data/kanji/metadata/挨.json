@@ -1,0 +1,86 @@
+{
+  "kanji": "挨",
+  "meta": {
+    "weight": 1093,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アイ"
+    ],
+    "kun": [
+      "ひら.く"
+    ],
+    "am_han": "AI, ẢI"
+  },
+  "meaning": {
+    "vi": "tiếp cận, đến gần, đẩy mở",
+    "en": "approach, draw near, push open"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/挨.svg"
+  },
+  "frequency": 2258,
+  "examples": [
+    "挨拶"
+  ],
+  "explanation": {
+    "id": "19",
+    "text": "挨 (đọc là \"ai\") có nghĩa là \"tiếp xúc\", \"gặp gỡ\" trong ngữ cảnh giao tiếp hoặc liên lạc. \n\nVí dụ:\n- 挨拶 (aisatsu): Lời chào, chào hỏi.\n- 挨拶する (aisatsu suru): Chào hỏi, giao tiếp.\n- 挨拶回り (aisa"
+  },
+  "comments": [
+    {
+      "id": "153913",
+      "lang": "vi",
+      "content_html": "<p>Ai đó tay đang cầm mũi tên đến hỏi thăm tôi</p>",
+      "content_text": "Ai đó tay đang cầm mũi tên đến hỏi thăm tôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153914",
+      "lang": "vi",
+      "content_html": "<p>Tôi (ム) bị Tên(矢)cắm vào Tay(扌) mà không AI (挨)đến Thăm hỏi. Sad sad</p>",
+      "content_text": "Tôi (ム) bị Tên(矢)cắm vào Tay(扌) mà không AI (挨)đến Thăm hỏi. Sad sad",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153915",
+      "lang": "vi",
+      "content_html": "<p>Ai đó tay cầm mũi tên đến hỏi tôi về chuyện riêng tư</p>",
+      "content_text": "Ai đó tay cầm mũi tên đến hỏi tôi về chuyện riêng tư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

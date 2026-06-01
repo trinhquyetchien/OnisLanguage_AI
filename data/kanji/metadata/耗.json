@@ -1,0 +1,83 @@
+{
+  "kanji": "耗",
+  "meta": {
+    "weight": 2153,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モウ",
+      "コウ"
+    ],
+    "kun": [],
+    "am_han": "HÁO, MẠO, MAO"
+  },
+  "meaning": {
+    "vi": "giảm bớt",
+    "en": "decrease"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/耗.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7613",
+    "text": "耗 (đọc là \"こう\" - \"kou\") có nghĩa là \"tiêu hao\", \"tiêu tốn\", chỉ các hành động liên quan đến việc tiêu thụ hoặc làm giảm đi một cái gì đó.  \nVí dụ:  \n- 消耗 (しょうこう, shoukou): Tiêu hao, tiêu thụ"
+  },
+  "comments": [
+    {
+      "id": "220409",
+      "lang": "vi",
+      "content_html": "<p>Ông Mao phạm Lỗi làm HAO tài tốn của</p>",
+      "content_text": "Ông Mao phạm Lỗi làm HAO tài tốn của",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220410",
+      "lang": "vi",
+      "content_html": "<p>Đất đai cây cối lông lá hao hụt từng ngày</p>",
+      "content_text": "Đất đai cây cối lông lá hao hụt từng ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220411",
+      "lang": "vi",
+      "content_html": "<p>Làm nông thì lông trâu phải rụng, cuốc cày phải tiêu Hao</p>",
+      "content_text": "Làm nông thì lông trâu phải rụng, cuốc cày phải tiêu Hao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

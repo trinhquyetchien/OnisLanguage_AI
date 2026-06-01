@@ -1,0 +1,107 @@
+{
+  "kanji": "菜",
+  "meta": {
+    "weight": 2295,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "な"
+    ],
+    "am_han": "THÁI"
+  },
+  "meaning": {
+    "vi": "rau",
+    "en": "vegetable, side dish, greens"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/菜.svg"
+  },
+  "frequency": 1327,
+  "examples": [
+    "野菜",
+    "菜",
+    "前菜",
+    "菜の花",
+    "菜園"
+  ],
+  "explanation": {
+    "id": "2830",
+    "text": "菜 (đọc là \"sai\") có nghĩa là \"rau\", \"món ăn\" để chỉ các loại rau củ hoặc thực phẩm từ thực vật.\nVí dụ:\n- 野菜 (yasai): Rau củ.\n- 菜食 (saishoku): Chế độ ăn chay.\n- おひたし (ohitashi): Món rau luộc."
+  },
+  "comments": [
+    {
+      "id": "885",
+      "lang": "vi",
+      "content_html": "<p>Hái <strong>rau </strong>từ trong đám cỏ cây (木).</p>",
+      "content_text": "Hái\nrau\ntừ trong đám cỏ cây (木).",
+      "image_url": "https://jpdictionary.com/upload/images/6298a082b5abb.jpg",
+      "image_path": "assets/images/菜_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156543",
+      "lang": "vi",
+      "content_html": "<p>Những Cây (木) mà mọc chung với cỏ (艹 THẢO),  dùng móng tay có thể ngắt về (爫 TRẢO) đó là Rau (菜 THÁI).<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Những Cây (木) mà mọc chung với cỏ (艹 THẢO),  dùng móng tay có thể ngắt về (爫 TRẢO) đó là Rau (菜 THÁI).\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156544",
+      "lang": "vi",
+      "content_html": "<p>Rau thì hay mọc lẫn với CỎ, mang rau về muốn ăn phải THÁI (菜)</p>",
+      "content_text": "Rau thì hay mọc lẫn với CỎ, mang rau về muốn ăn phải THÁI (菜)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156545",
+      "lang": "vi",
+      "content_html": "<p>Dùng Móng Tay hái Cỏ Cây.</p>",
+      "content_text": "Dùng Móng Tay hái Cỏ Cây.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

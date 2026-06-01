@@ -1,0 +1,87 @@
+{
+  "kanji": "逐",
+  "meta": {
+    "weight": 2653,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チク"
+    ],
+    "kun": [],
+    "am_han": "TRỤC"
+  },
+  "meaning": {
+    "vi": "theo đuổi, xua đuổi, đuổi theo, hoàn thành, đạt được, cam kết",
+    "en": "pursue, drive away, chase, accomplish, attain, commit"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/逐.svg"
+  },
+  "frequency": 2230,
+  "examples": [
+    "逐次",
+    "駆逐",
+    "逐一",
+    "放逐"
+  ],
+  "explanation": {
+    "id": "5250",
+    "text": "逐 (đọc là \"chiku\") có nghĩa là \"đuổi\", \"truy đuổi\" để chỉ các hành động liên quan đến việc theo đuổi hoặc đuổi đi ai đó.\n\nVí dụ:\n- 逐次 (chikujiji): Từng bước, lần lượt.\n- 逐る (chikaru): Đuổi t"
+  },
+  "comments": [
+    {
+      "id": "157318",
+      "lang": "vi",
+      "content_html": "<p>ngu như Lợn thì bị trục xuất ra ĐƯỜNG</p>",
+      "content_text": "ngu như Lợn thì bị trục xuất ra ĐƯỜNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157319",
+      "lang": "vi",
+      "content_html": "<p>Đuổi theo con heo bị trục xuất đi xa</p>",
+      "content_text": "Đuổi theo con heo bị trục xuất đi xa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157320",
+      "lang": "vi",
+      "content_html": "<p>con lợn bị TRỤC xuất đi vì không có Sừng</p>",
+      "content_text": "con lợn bị TRỤC xuất đi vì không có Sừng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

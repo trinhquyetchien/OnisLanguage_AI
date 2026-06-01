@@ -1,0 +1,88 @@
+{
+  "kanji": "掬",
+  "meta": {
+    "weight": 1125,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キク",
+      "コク"
+    ],
+    "kun": [
+      "きく.す",
+      "むす.ぶ",
+      "すく.う",
+      "たなごころ"
+    ],
+    "am_han": "CÚC"
+  },
+  "meaning": {
+    "vi": "lấy tay múc nước",
+    "en": "scoop up water with the hand"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/掬.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1448",
+    "text": "掬 (đọc là \"kiku\") có nghĩa là \"múc\" hoặc \"hứng\" để chỉ hành động múc nước hoặc chất lỏng bằng tay hoặc dụng cụ.  \nVí dụ:  \n- 掬う (mikukau): Múc, hứng (nước).  \n- 掬い取る (mikuitoru): Hứng lấy (c"
+  },
+  "comments": [
+    {
+      "id": "219630",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay lấy 1 lượng nhỏ gạo nhỏ như CÚC áo rồi cho vào bao</p>",
+      "content_text": "Dùng tay lấy 1 lượng nhỏ gạo nhỏ như CÚC áo rồi cho vào bao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219631",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay bao bọc hạt gạo hình hoa cúc</p>",
+      "content_text": "Dùng tay bao bọc hạt gạo hình hoa cúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219632",
+      "lang": "vi",
+      "content_html": "<p>Hai bang tay chét lại với nhau gọi là CÚC, CÚC là MÚC (múc nước). Vậy, CÚC hạt GẠO nổi trong nồi canh ra. (hề, giải thích hơi điên điên cho dễ nhớ ;)</p>",
+      "content_text": "Hai bang tay chét lại với nhau gọi là CÚC, CÚC là MÚC (múc nước). Vậy, CÚC hạt GẠO nổi trong nồi canh ra. (hề, giải thích hơi điên điên cho dễ nhớ ;)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "卸",
+  "meta": {
+    "weight": 405,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "おろ.す",
+      "おろし",
+      "おろ.し"
+    ],
+    "am_han": "TÁ"
+  },
+  "meaning": {
+    "vi": "bán sỉ",
+    "en": "wholesale"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/卸.svg"
+  },
+  "frequency": 1520,
+  "examples": [
+    "卸売",
+    "卸",
+    "卸売り",
+    "棚卸",
+    "卸し"
+  ],
+  "explanation": {
+    "id": "585",
+    "text": "卸 (đọc là \"o\" hoặc \"oroshi\") có nghĩa là \"bán buôn\", \"xuất hàng\" để chỉ các hành động liên quan đến việc giao hàng, phân phối sản phẩm.  \nVí dụ:  \n- 卸売 (oroshiuri): Bán buôn.  \n- 卸す (orosu):"
+  },
+  "comments": [
+    {
+      "id": "152210",
+      "lang": "vi",
+      "content_html": "<p>Dừng Trâu lại dỡ cả Tá hàng xuống mệt Tiết mồ hôi hột.</p>",
+      "content_text": "Dừng Trâu lại dỡ cả Tá hàng xuống mệt Tiết mồ hôi hột.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152211",
+      "lang": "vi",
+      "content_html": "<p>thằng Chính nằm bán cả Tá đốt tre</p>",
+      "content_text": "thằng Chính nằm bán cả Tá đốt tre",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152212",
+      "lang": "vi",
+      "content_html": "<p>Giờ Ngọ rồi dừng chân cạnh khóm Tre bán sỉ hết hàng còn về</p>",
+      "content_text": "Giờ Ngọ rồi dừng chân cạnh khóm Tre bán sỉ hết hàng còn về",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "幹",
+  "meta": {
+    "weight": 852,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "みき"
+    ],
+    "am_han": "CÁN"
+  },
+  "meaning": {
+    "vi": "thân cây, bộ phận chính, tài năng, khả năng",
+    "en": "tree trunk, main part, talent, capability"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/幹.svg"
+  },
+  "frequency": 364,
+  "examples": [
+    "幹部",
+    "新幹線",
+    "幹事",
+    "幹",
+    "根幹"
+  ],
+  "explanation": {
+    "id": "1099",
+    "text": "幹 (đọc là \"kan\") có nghĩa là \"cành cây\", \"thân cây\" hoặc chỉ phần chính, cốt lõi của một vấn đề. \n\nVí dụ:\n- 幹部 (kanbu): Cán bộ, người lãnh đạo.\n- 幹線 (kansen): Tuyến đường chính, đường chính."
+  },
+  "comments": [
+    {
+      "id": "153296",
+      "lang": "vi",
+      "content_html": "<p>THẬP-TẢO-NHÂN-CAN) NGƯỜI CÁN bộ  mang mệnh CAN thường làm việc NHANH nhẹn gấp MƯỜI lần.</p>",
+      "content_text": "THẬP-TẢO-NHÂN-CAN) NGƯỜI CÁN bộ  mang mệnh CAN thường làm việc NHANH nhẹn gấp MƯỜI lần.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153297",
+      "lang": "vi",
+      "content_html": "<p>Trên dưới 10 ngày nhà CÁN bộ mới Khô được</p>",
+      "content_text": "Trên dưới 10 ngày nhà CÁN bộ mới Khô được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153298",
+      "lang": "vi",
+      "content_html": "<p>cán bộ, tài cán ,cán sự</p>",
+      "content_text": "cán bộ, tài cán ,cán sự",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

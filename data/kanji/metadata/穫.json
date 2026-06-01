@@ -1,0 +1,84 @@
+{
+  "kanji": "穫",
+  "meta": {
+    "weight": 1955,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク"
+    ],
+    "kun": [],
+    "am_han": "HOẠCH"
+  },
+  "meaning": {
+    "vi": "thu hoạch, gặt hái",
+    "en": "harvest, reap"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/穫.svg"
+  },
+  "frequency": 1642,
+  "examples": [
+    "収穫"
+  ],
+  "explanation": {
+    "id": "913",
+    "text": "穫 (đọc là \"kaku\") có nghĩa là \"thu hoạch\" để chỉ hành động thu thập sản phẩm nông nghiệp hoặc kết quả.  \nVí dụ:  \n- 穫穫 (kakukaku): Thu hoạch bội thu.  \n- 捕穫 (hokaku): Sự bắt giữ, thu hoạch ("
+  },
+  "comments": [
+    {
+      "id": "155800",
+      "lang": "vi",
+      "content_html": "<p>Đến  mùa thu hoạch lúa lại thấy chim thảo bay về</p>",
+      "content_text": "Đến  mùa thu hoạch lúa lại thấy chim thảo bay về",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155801",
+      "lang": "vi",
+      "content_html": "<p>Cảnh thu hoạch có cảm giác hoà bình có chim chóc cỏ cây chân bớt mệt nhọc</p>",
+      "content_text": "Cảnh thu hoạch có cảm giác hoà bình có chim chóc cỏ cây chân bớt mệt nhọc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155802",
+      "lang": "vi",
+      "content_html": "<p>hãy thử một chuyến về thăm đồng bằng sông Cửu Long vào mùa THU HOẠCH nhé, <br>đầu tiên bạn sẽ cảm nhận được cảm giác thật HOÀ bình và ấm no,<br>bạn cũng sẽ có cơ hội biết thêm được rất nhiều loài chim nhỏ sống ẩn mình trong những đám CỎ mà chỉ có mùa này mới xu</p>",
+      "content_text": "hãy thử một chuyến về thăm đồng bằng sông Cửu Long vào mùa THU HOẠCH nhé,\nđầu tiên bạn sẽ cảm nhận được cảm giác thật HOÀ bình và ấm no,\nbạn cũng sẽ có cơ hội biết thêm được rất nhiều loài chim nhỏ sống ẩn mình trong những đám CỎ mà chỉ có mùa này mới xu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

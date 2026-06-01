@@ -1,0 +1,33 @@
+{
+  "kanji": "夙",
+  "meta": {
+    "weight": 619,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュク"
+    ],
+    "kun": [
+      "つとに",
+      "はやい"
+    ],
+    "am_han": "TÚC"
+  },
+  "meaning": {
+    "vi": "sáng và sớm, từ lâu, sớm trong cuộc sống",
+    "en": "bright and early, long ago, early in life"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/夙.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3586",
+    "text": "夙 (đọc là \"soku\") có nghĩa là \"sớm\", thường chỉ về thời gian, sự kiện xảy ra sớm hoặc thói quen dậy sớm.\nVí dụ:\n- 夙に (soku ni): Từ sớm, từ lâu.\n- 夙願 (sokugan): Nguyện vọng từ lâu, tâm nguyện"
+  },
+  "comments": []
+}

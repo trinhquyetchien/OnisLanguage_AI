@@ -1,0 +1,91 @@
+{
+  "kanji": "右",
+  "meta": {
+    "weight": 442,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ウ",
+      "ユウ"
+    ],
+    "kun": [
+      "みぎ"
+    ],
+    "am_han": "HỮU"
+  },
+  "meaning": {
+    "vi": "bên phải",
+    "en": "right"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/右.svg"
+  },
+  "frequency": 602,
+  "examples": [
+    "右",
+    "左右",
+    "右手",
+    "右側",
+    "右翼"
+  ],
+  "explanation": {
+    "id": "282",
+    "text": "右 (đọc là \"yuu\" hoặc \"migi\") có nghĩa là \"bên phải\", chỉ vị trí hoặc hướng bên phải của một đối tượng.  \nVí dụ:  \n- 右側 (migigawa): Bên phải.  \n- 右手 (migite): Tay phải.  \n- 右折 (usetsu): Rẽ ph"
+  },
+  "comments": [
+    {
+      "id": "515",
+      "lang": "vi",
+      "content_html": "<p>Ăn bằng tay <strong>phải</strong>.</p>",
+      "content_text": "Ăn bằng tay\nphải\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629767c60e91c.jpg",
+      "image_path": "assets/images/右_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152295",
+      "lang": "vi",
+      "content_html": "<p>Bạn Na ナ Mồm 口 nói điều phải 右</p>",
+      "content_text": "Bạn Na ナ Mồm 口 nói điều phải 右",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158464",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>右 (みぎ): bên phải</p>",
+      "content_text": "JLPT N5\n右 (みぎ): bên phải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

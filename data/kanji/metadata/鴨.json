@@ -1,0 +1,70 @@
+{
+  "kanji": "鴨",
+  "meta": {
+    "weight": 3002,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オウ"
+    ],
+    "kun": [
+      "かも",
+      "あひる"
+    ],
+    "am_han": "ÁP"
+  },
+  "meaning": {
+    "vi": "vịt hoang dã, đánh dấu dễ dàng",
+    "en": "wild duck, easy mark"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/鴨.svg"
+  },
+  "frequency": 1797,
+  "examples": [
+    "鴨"
+  ],
+  "explanation": {
+    "id": "1034",
+    "text": "鴨 (đọc là \"kamo\") có nghĩa là \"vịt\", chỉ loài chim nước sống ở nhiều nơi, thường được nuôi để lấy thịt và trứng.  \nVí dụ:  \n- 鴨肉 (kamoniku): Thịt vịt.  \n- 鴨川 (Kamo-gawa): Sông Kamo, một con "
+  },
+  "comments": [
+    {
+      "id": "158065",
+      "lang": "vi",
+      "content_html": "<p>chim đang đứng 1 chân ngoài đồng là vịt trời</p>",
+      "content_text": "chim đang đứng 1 chân ngoài đồng là vịt trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158066",
+      "lang": "vi",
+      "content_html": "<p>Ra đồng ruộng bắt vịt về ÁP chảo</p>",
+      "content_text": "Ra đồng ruộng bắt vịt về ÁP chảo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

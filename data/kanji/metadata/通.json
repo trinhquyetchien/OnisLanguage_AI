@@ -1,0 +1,115 @@
+{
+  "kanji": "通",
+  "meta": {
+    "weight": 2658,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ツウ",
+      "ツ"
+    ],
+    "kun": [
+      "とお.る",
+      "とお.り",
+      "-とお.り",
+      "-どお.り",
+      "とお.す",
+      "とお.し",
+      "-どお.し",
+      "かよ.う"
+    ],
+    "am_han": "THÔNG"
+  },
+  "meaning": {
+    "vi": "giao thông, phổ thông",
+    "en": "traffic, pass through, avenue, commute, counter for letters, notes, documents, etc."
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/通.svg"
+  },
+  "frequency": 80,
+  "examples": [
+    "通り",
+    "普通",
+    "通信",
+    "共通",
+    "通常"
+  ],
+  "explanation": {
+    "id": "5463",
+    "text": "通 (đọc là \"tsū\" hoặc \"tō\") có nghĩa là \"thông qua\", \"liên lạc\" để chỉ các hành động liên quan đến việc giao tiếp, thông tin hoặc sự di chuyển.\n\nVí dụ:\n- 通信 (tsūshin): Thông tin liên lạc.\n- 通"
+  },
+  "comments": [
+    {
+      "id": "36986",
+      "lang": "vi",
+      "content_html": "<p>Tôi vượt hàng rào để tham gia <strong>giao thông</strong>.</p>",
+      "content_text": "Tôi vượt hàng rào để tham gia\ngiao thông\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4d4d0b781.png",
+      "image_path": "assets/images/通_1.png",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157327",
+      "lang": "vi",
+      "content_html": "<p>Dũng cảm thông qua đường</p>",
+      "content_text": "Dũng cảm thông qua đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158285",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>通う (かよう): đi học, đi làm<br>交通 (こうつう): giao thông<br>通る (とおる): băng qua<br>普通 (ふつう): thông thường<br>通訳 (つうやく): thông dịch (dịch nói)<br>通り (とおり): con đường, đúng (giờ)</p>",
+      "content_text": "JLPT N4\n通う (かよう): đi học, đi làm\n交通 (こうつう): giao thông\n通る (とおる): băng qua\n普通 (ふつう): thông thường\n通訳 (つうやく): thông dịch (dịch nói)\n通り (とおり): con đường, đúng (giờ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221840",
+      "lang": "vi",
+      "content_html": "<p><strong>甬</strong> trong chữ <strong>甬道</strong> có nghĩa là đường dành cho quan đi (Tương tự <strong>Quan đạo</strong>), mà <strong>Sước ⻌ </strong>(<strong>Bước</strong>) trên <strong>Quan đạo </strong>thì tất nhiên là <strong>Thông </strong>suốt rồi.</p>",
+      "content_text": "甬\ntrong chữ\n甬道\ncó nghĩa là đường dành cho quan đi (Tương tự\nQuan đạo\n), mà\nSước ⻌\n(\nBước\n) trên\nQuan đạo\nthì tất nhiên là\nThông\nsuốt rồi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

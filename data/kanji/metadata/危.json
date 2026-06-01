@@ -1,0 +1,109 @@
+{
+  "kanji": "危",
+  "meta": {
+    "weight": 401,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "あぶ.ない",
+      "あや.うい",
+      "あや.ぶむ"
+    ],
+    "am_han": "NGUY"
+  },
+  "meaning": {
+    "vi": "nguy hiểm",
+    "en": "dangerous, fear, uneasy"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/危.svg"
+  },
+  "frequency": 606,
+  "examples": [
+    "危険",
+    "危機",
+    "危ない",
+    "危惧",
+    "危うく"
+  ],
+  "explanation": {
+    "id": "1249",
+    "text": "危 (đọc là \"ki\" hoặc \"ayamaru\") có nghĩa là \"nguy hiểm\", \"rủi ro\", chỉ tình huống không an toàn hoặc có nguy cơ.  \nVí dụ:  \n- 危険 (kiken): Nguy hiểm.  \n- 危うい (ayaui): Nguy hiểm, có khả năng xả"
+  },
+  "comments": [
+    {
+      "id": "37346",
+      "lang": "vi",
+      "content_html": "<p>Hòn đá trên dốc đứng và có người ngồi dưới kia!</p><p>Thật <strong>nguy hiểm</strong>!</p>",
+      "content_text": "Hòn đá trên dốc đứng và có người ngồi dưới kia!\nThật\nnguy hiểm\n!",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe93e87739.jpg",
+      "image_path": "assets/images/危_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152198",
+      "lang": "vi",
+      "content_html": "<p>Đứng trên Vách núi thấy con quái vật trong núi rất nguy hiểm</p>",
+      "content_text": "Đứng trên Vách núi thấy con quái vật trong núi rất nguy hiểm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152199",
+      "lang": "vi",
+      "content_html": "<p>Đứng trên VÁCH NÚI thì rất NGUY HIỂM</p>",
+      "content_text": "Đứng trên VÁCH NÚI thì rất NGUY HIỂM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152200",
+      "lang": "vi",
+      "content_html": "<p>ク đứng trên Vách Núi hình trôn ốc rất Nguy hiểm</p>",
+      "content_text": "ク đứng trên Vách Núi hình trôn ốc rất Nguy hiểm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

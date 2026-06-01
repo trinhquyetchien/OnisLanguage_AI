@@ -1,0 +1,92 @@
+{
+  "kanji": "狂",
+  "meta": {
+    "weight": 1707,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "くる.う",
+      "くる.おしい",
+      "くるお.しい"
+    ],
+    "am_han": "CUỒNG"
+  },
+  "meaning": {
+    "vi": "mất trí, điên rồ, nhầm lẫn",
+    "en": "lunatic, insane, crazy, confuse"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/狂.svg"
+  },
+  "frequency": 1425,
+  "examples": [
+    "熱狂",
+    "狂気",
+    "狂",
+    "狂い",
+    "狂牛病"
+  ],
+  "explanation": {
+    "id": "1682",
+    "text": "狂 (đọc là \"kyou\" hoặc \"wara\") có nghĩa là \"điên cuồng\", \"cuồng loạn\" để chỉ trạng thái tâm lý mất kiểm soát hoặc thái độ cực đoan.\n\nVí dụ:\n- 狂気 (kyouki): Điên cuồng, sự điên rồ.\n- 狂った (kurut"
+  },
+  "comments": [
+    {
+      "id": "155264",
+      "lang": "vi",
+      "content_html": "<p>ông VUA rất cuồng ăn thịt CHÓ :D</p>",
+      "content_text": "ông VUA rất cuồng ăn thịt CHÓ :D",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 2,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155265",
+      "lang": "vi",
+      "content_html": "<p>chó mà đòi làn vua thì thật là điên cuồng</p>",
+      "content_text": "chó mà đòi làn vua thì thật là điên cuồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155266",
+      "lang": "vi",
+      "content_html": "<p>Con lợn mà làm vua thì quá ngông cuồng</p>",
+      "content_text": "Con lợn mà làm vua thì quá ngông cuồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

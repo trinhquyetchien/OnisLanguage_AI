@@ -1,0 +1,109 @@
+{
+  "kanji": "装",
+  "meta": {
+    "weight": 2421,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "ショウ"
+    ],
+    "kun": [
+      "よそお.う",
+      "よそお.い"
+    ],
+    "am_han": "TRANG"
+  },
+  "meaning": {
+    "vi": "trang phục",
+    "en": "attire, dress, pretend, disguise, profess"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/装.svg"
+  },
+  "frequency": 657,
+  "examples": [
+    "装置",
+    "装備",
+    "武装",
+    "衣装",
+    "実装"
+  ],
+  "explanation": {
+    "id": "4757",
+    "text": "装 (đọc là \"sō\") có nghĩa là \"trang trí\", \"bố trí\" để chỉ các hành động liên quan đến việc trang hoàng, trang phục hoặc lắp đặt.  \nVí dụ:  \n- 装飾 (sōshoku): Trang trí.  \n- 装置 (sōchi): Thiết bị"
+  },
+  "comments": [
+    {
+      "id": "156745",
+      "lang": "vi",
+      "content_html": "<p>Tên sĩ quan mặc TRANG phục đứng dựa vào tường làm dáng</p>",
+      "content_text": "Tên sĩ quan mặc TRANG phục đứng dựa vào tường làm dáng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190716",
+      "lang": "vi",
+      "content_html": "<p>sau bức tường kẻ sĩ lấy áo làm Trang phục</p>",
+      "content_text": "sau bức tường kẻ sĩ lấy áo làm Trang phục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156746",
+      "lang": "vi",
+      "content_html": "<p>TRÁNG sĩ mặc Y phục rất TRANG nghiêm.</p>",
+      "content_text": "TRÁNG sĩ mặc Y phục rất TRANG nghiêm.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156747",
+      "lang": "vi",
+      "content_html": "<p>kẻ sĩ mà treo trang phục lên bờ tường  tì biến thành trang sức</p>",
+      "content_text": "kẻ sĩ mà treo trang phục lên bờ tường  tì biến thành trang sức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

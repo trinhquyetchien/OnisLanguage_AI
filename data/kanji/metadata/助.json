@@ -1,0 +1,93 @@
+{
+  "kanji": "助",
+  "meta": {
+    "weight": 347,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョ"
+    ],
+    "kun": [
+      "たす.ける",
+      "たす.かる",
+      "す.ける",
+      "すけ"
+    ],
+    "am_han": "TRỢ"
+  },
+  "meaning": {
+    "vi": "hộ trợ, trợ giúp",
+    "en": "help, rescue, assist"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/助.svg"
+  },
+  "frequency": 397,
+  "examples": [
+    "補助",
+    "援助",
+    "助け",
+    "助成",
+    "助言"
+  ],
+  "explanation": {
+    "id": "3719",
+    "text": "助 (đọc là \"jo\") có nghĩa là \"giúp đỡ\", \"hỗ trợ\" để chỉ các hành động liên quan đến việc cung cấp sự trợ giúp hoặc hỗ trợ cho người khác.  \nVí dụ:  \n- 助ける (tasukeru): Giúp đỡ, cứu giúp.  \n- 助"
+  },
+  "comments": [
+    {
+      "id": "152073",
+      "lang": "vi",
+      "content_html": "<p>1 mắt nên cần lực giúp đỡ</p>",
+      "content_text": "1 mắt nên cần lực giúp đỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152074",
+      "lang": "vi",
+      "content_html": "<p>Dùng Tai Mắt và sức Lực để TRỢ giúp</p>",
+      "content_text": "Dùng Tai Mắt và sức Lực để TRỢ giúp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152075",
+      "lang": "vi",
+      "content_html": "<p>Thả sức lực của mình để giúp đỡ</p>",
+      "content_text": "Thả sức lực của mình để giúp đỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

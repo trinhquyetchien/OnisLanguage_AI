@@ -1,0 +1,84 @@
+{
+  "kanji": "瑳",
+  "meta": {
+    "weight": 1756,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サ"
+    ],
+    "kun": [
+      "みが.く"
+    ],
+    "am_han": "THA"
+  },
+  "meaning": {
+    "vi": "đánh bóng, ánh trắng rực rỡ của một viên đá quý, nụ cười đầy nghệ thuật",
+    "en": "polish, brilliant white luster of a gem, artful smile"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/瑳.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2751",
+    "text": "瑳 (đọc là \"sa\") có nghĩa là \"ngọc\" hoặc \"đá quý\", thường được dùng để chỉ sự lấp lánh, quý giá trong ngữ cảnh văn hóa Nhật Bản.\n\nVí dụ:\n- 瑳瑛 (saei): Ngọc quý, đá quý sáng lấp lánh.\n- 瑳綾 (sai"
+  },
+  "comments": [
+    {
+      "id": "220094",
+      "lang": "vi",
+      "content_html": "<p>Âm Hán Việt là “Tha”<br>1. Vẻ lộng lẫy tinh khiết của ngọc bích<br>2. Đẹp rực rỡ<br>3. Vẻ sáng trắng của răng</p>",
+      "content_text": "Âm Hán Việt là “Tha”\n1. Vẻ lộng lẫy tinh khiết của ngọc bích\n2. Đẹp rực rỡ\n3. Vẻ sáng trắng của răng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220095",
+      "lang": "vi",
+      "content_html": "<p>Vua Tha  cho con cừu của công công</p>",
+      "content_text": "Vua Tha  cho con cừu của công công",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220096",
+      "lang": "vi",
+      "content_html": "<p>Tha. Bóng loáng</p>",
+      "content_text": "Tha. Bóng loáng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

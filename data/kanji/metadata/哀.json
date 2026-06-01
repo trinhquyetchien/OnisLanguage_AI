@@ -1,0 +1,92 @@
+{
+  "kanji": "哀",
+  "meta": {
+    "weight": 483,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アイ"
+    ],
+    "kun": [
+      "あわ.れ",
+      "あわ.れむ",
+      "かな.しい"
+    ],
+    "am_han": "AI"
+  },
+  "meaning": {
+    "vi": "thảm hại, đau buồn, bệnh hoạn, thương hại, thông cảm",
+    "en": "pathetic, grief, sorrow, pathos, pity, sympathize"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/哀.svg"
+  },
+  "frequency": 1715,
+  "examples": [
+    "可哀想",
+    "哀れ",
+    "哀しい",
+    "哀愁",
+    "哀"
+  ],
+  "explanation": {
+    "id": "13",
+    "text": "哀 (đọc là \"ai\") có nghĩa là \"buồn\", \"thương xót\" để chỉ cảm xúc đau buồn hoặc thương tiếc.\n\nVí dụ:\n- 哀悼 (aitō): Sự thương tiếc, chia buồn.\n- 哀れ (aware): Đáng thương, đáng tiếc.\n- 哀歌 (aika): "
+  },
+  "comments": [
+    {
+      "id": "152397",
+      "lang": "vi",
+      "content_html": "<p>Hình ảnh ai đội mũ mặc y phục rách rưởi mồm đi xin ăn nhìn bi thương lắm</p>",
+      "content_text": "Hình ảnh ai đội mũ mặc y phục rách rưởi mồm đi xin ăn nhìn bi thương lắm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152398",
+      "lang": "vi",
+      "content_html": "<p>Cái đầu lúc nào cũng phải suy nghĩ đến miệng ăn, áo mặc thật là bi AI, đáng thương</p>",
+      "content_text": "Cái đầu lúc nào cũng phải suy nghĩ đến miệng ăn, áo mặc thật là bi AI, đáng thương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152399",
+      "lang": "vi",
+      "content_html": "<p>ở tokyou mà ko có quần áo mac thật đáng thương</p>",
+      "content_text": "ở tokyou mà ko có quần áo mac thật đáng thương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

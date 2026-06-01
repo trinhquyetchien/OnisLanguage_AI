@@ -1,0 +1,90 @@
+{
+  "kanji": "報",
+  "meta": {
+    "weight": 578,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "むく.いる"
+    ],
+    "am_han": "BÁO"
+  },
+  "meaning": {
+    "vi": "báo cáo",
+    "en": "report, news, reward, retribution"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/報.svg"
+  },
+  "frequency": 167,
+  "examples": [
+    "情報",
+    "報告",
+    "報道",
+    "報酬",
+    "広報"
+  ],
+  "explanation": {
+    "id": "7151",
+    "text": "報 (đọc là \"hō\") có nghĩa là \"báo cáo\", \"thông báo\", chỉ các hành động liên quan đến việc truyền đạt thông tin hoặc tin tức.  \nVí dụ:  \n- 報告 (hōkoku): Báo cáo, thông báo.  \n- 報酬 (hōshū): Thù "
+  },
+  "comments": [
+    {
+      "id": "152629",
+      "lang": "vi",
+      "content_html": "<p>phân biệt 報 BÁO và 服 PHỤC<br>cách nhớ: ta tưởng tượng nét bên phải như hình cái máy may áo quần<br>*BÁO: hạnh 幸　phúc quá nên ngồi may áo quần đám cưới BÁO hỉ<br>* PHỤC: chị nguyệt 月 ngồi may trang PHỤC trong đêm trăng</p>",
+      "content_text": "phân biệt 報 BÁO và 服 PHỤC\ncách nhớ: ta tưởng tượng nét bên phải như hình cái máy may áo quần\n*BÁO: hạnh 幸　phúc quá nên ngồi may áo quần đám cưới BÁO hỉ\n* PHỤC: chị nguyệt 月 ngồi may trang PHỤC trong đêm trăng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152630",
+      "lang": "vi",
+      "content_html": "<p>Báo( thù đáp trả lại) : Cảm thấy vui khi bắt người khác phục tùng ( bắt quỳ)</p>",
+      "content_text": "Báo( thù đáp trả lại) : Cảm thấy vui khi bắt người khác phục tùng ( bắt quỳ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152631",
+      "lang": "vi",
+      "content_html": "<p>hạnh phúc vì nhận được áo thì BÁO nhé!</p>",
+      "content_text": "hạnh phúc vì nhận được áo thì BÁO nhé!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

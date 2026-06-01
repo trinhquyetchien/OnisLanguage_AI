@@ -1,0 +1,95 @@
+{
+  "kanji": "終",
+  "meta": {
+    "weight": 2069,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "お.わる",
+      "-お.わる",
+      "おわ.る",
+      "お.える",
+      "つい",
+      "つい.に"
+    ],
+    "am_han": "CHUNG"
+  },
+  "meaning": {
+    "vi": "kết thúc, chung kết",
+    "en": "end, finish"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/終.svg"
+  },
+  "frequency": 256,
+  "examples": [
+    "最終",
+    "終了",
+    "終わり",
+    "終わる",
+    "終始"
+  ],
+  "explanation": {
+    "id": "3499",
+    "text": "終 (đọc là \"shū\" hoặc \"owaru\") có nghĩa là \"kết thúc\", \"hoàn thành\", chỉ sự chấm dứt của một sự việc hay quá trình.\n\nVí dụ:\n- 終わる (owaru): Kết thúc, hoàn thành.\n- 終日 (shūjitsu): Cả ngày, suốt"
+  },
+  "comments": [
+    {
+      "id": "36861",
+      "lang": "vi",
+      "content_html": "<p>Chuyện tình ta như sợi chỉ (糸) nhưng đã <strong>kết thúc</strong> vào mùa đông (冬)</p>",
+      "content_text": "Chuyện tình ta như sợi chỉ (糸) nhưng đã\nkết thúc\nvào mùa đông (冬)",
+      "image_url": "https://jpdictionary.com/upload/images/62addb3c2124d.jpg",
+      "image_path": "assets/images/終_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191157",
+      "lang": "vi",
+      "content_html": "<p><strong>kết thúc</strong> - 終了</p>",
+      "content_text": "kết thúc\n- 終了",
+      "image_url": "https://jpdictionary.com/upload/images/648acdc9ee0b2.jpg",
+      "image_path": "assets/images/終_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158386",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>終る (おわる): kết thúc</p>",
+      "content_text": "JLPT N4\n終る (おわる): kết thúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "kanji": "錫",
+  "meta": {
+    "weight": 2776,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ",
+      "シャク"
+    ],
+    "kun": [
+      "すず",
+      "たま.う"
+    ],
+    "am_han": "TÍCH"
+  },
+  "meaning": {
+    "vi": "đồng, thiếc",
+    "en": "copper, tin"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/錫.svg"
+  },
+  "frequency": 2095,
+  "examples": [
+    "錫"
+  ],
+  "explanation": {
+    "id": "3388",
+    "text": "錫 (đọc là \"suzu\") có nghĩa là \"chì,\" thường chỉ về một loại kim loại hoặc vật liệu liên quan đến sản xuất đồ dùng. \n\nVí dụ:\n- 錫箔 (suzuhaku): Giấy thiếc, giấy bạc.\n- 錫器 (suzuki): Đồ dùng bằng"
+  },
+  "comments": [
+    {
+      "id": "157582",
+      "lang": "vi",
+      "content_html": "<p>Thiếc đang TÍCH tụ là DỊCH chuyển từ KIM loại.</p>",
+      "content_text": "Thiếc đang TÍCH tụ là DỊCH chuyển từ KIM loại.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

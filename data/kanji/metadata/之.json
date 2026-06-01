@@ -1,0 +1,89 @@
+{
+  "kanji": "之",
+  "meta": {
+    "weight": 96,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "の",
+      "これ",
+      "ゆく",
+      "この"
+    ],
+    "am_han": "CHI"
+  },
+  "meaning": {
+    "vi": "điều này",
+    "en": "of, this"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/之.svg"
+  },
+  "frequency": 1318,
+  "examples": [
+    "之"
+  ],
+  "explanation": {
+    "id": "6181",
+    "text": "之 (đọc là \"shi\" hoặc \"no\") có nghĩa là \"của\", thường được dùng để chỉ sự sở hữu hoặc liên kết giữa các danh từ. \n\nVí dụ:\n- 之物 (shimono): Đồ vật của, đồ vật nào đó.\n- 私之友 (watashi no tomo): B"
+  },
+  "comments": [
+    {
+      "id": "151446",
+      "lang": "vi",
+      "content_html": "<p>Ta hay gọi đi theo hình chữ chi tức là đi zikzak vậy nè</p>",
+      "content_text": "Ta hay gọi đi theo hình chữ chi tức là đi zikzak vậy nè",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151447",
+      "lang": "vi",
+      "content_html": "<p>cái này là cái CHI ZZZậy. số 1 đè số 2 làm CHI Zậy</p>",
+      "content_text": "cái này là cái CHI ZZZậy. số 1 đè số 2 làm CHI Zậy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151448",
+      "lang": "vi",
+      "content_html": "<p>Chi ? Cái này là z</p>",
+      "content_text": "Chi ? Cái này là z",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

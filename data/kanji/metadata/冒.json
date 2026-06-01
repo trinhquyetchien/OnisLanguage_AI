@@ -1,0 +1,88 @@
+{
+  "kanji": "冒",
+  "meta": {
+    "weight": 283,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [
+      "おか.す"
+    ],
+    "am_han": "MẠO, MẶC"
+  },
+  "meaning": {
+    "vi": "rủi ro, đối mặt, thách thức, dám, thiệt hại, giả định (một cái tên)",
+    "en": "risk, face, defy, dare, damage, assume (a name)"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/冒.svg"
+  },
+  "frequency": 1317,
+  "examples": [
+    "冒頭",
+    "冒険",
+    "冒涜"
+  ],
+  "explanation": {
+    "id": "7282",
+    "text": "冒 (đọc là \"mō\") có nghĩa là \"mạo hiểm\", \"xâm phạm\" để chỉ các hành động liên quan đến việc liều lĩnh hoặc xâm nhập vào điều gì đó.\n\nVí dụ:\n- 冒険 (bōken): Mạo hiểm, phiêu lưu.\n- 冒す (okasu): Li"
+  },
+  "comments": [
+    {
+      "id": "151903",
+      "lang": "vi",
+      "content_html": "<p>Mắt nhìn trực tiếp mặt trời thì mạo hiểm quá</p>",
+      "content_text": "Mắt nhìn trực tiếp mặt trời thì mạo hiểm quá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151904",
+      "lang": "vi",
+      "content_html": "<p>Mặt trời ngay trên mắt mà ko đội mũ che thật MẠO hiểm</p>",
+      "content_text": "Mặt trời ngay trên mắt mà ko đội mũ che thật MẠO hiểm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151905",
+      "lang": "vi",
+      "content_html": "<p>MẶT TRỜI chiếu thẳng MẮT --» rất MẠO HIỂM</p>",
+      "content_text": "MẶT TRỜI chiếu thẳng MẮT --» rất MẠO HIỂM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

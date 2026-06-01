@@ -1,0 +1,88 @@
+{
+  "kanji": "培",
+  "meta": {
+    "weight": 567,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バイ"
+    ],
+    "kun": [
+      "つちか.う"
+    ],
+    "am_han": "BỒI, BẬU"
+  },
+  "meaning": {
+    "vi": "trau dồi, bồi dưỡng",
+    "en": "cultivate, foster"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/培.svg"
+  },
+  "frequency": 1431,
+  "examples": [
+    "栽培",
+    "培養",
+    "培う"
+  ],
+  "explanation": {
+    "id": "6285",
+    "text": "培 (đọc là \"pei\") có nghĩa là \"bồi dưỡng\", \"nuôi nấng\" để chỉ các hành động liên quan đến việc phát triển, nuôi dưỡng hoặc nâng cao một cái gì đó.\n\nVí dụ:\n- 培養 (baiyō): Nuôi cấy, bồi dưỡng.\n-"
+  },
+  "comments": [
+    {
+      "id": "152599",
+      "lang": "vi",
+      "content_html": "<p>bồi đất lên gấp bội</p>",
+      "content_text": "bồi đất lên gấp bội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152600",
+      "lang": "vi",
+      "content_html": "<p>つちかう。つち đất. かうmua. mua phân về bồi dưỡng đất. Bồi dưỡng là mua đất. tsuchikau. Cách nhớ động từ dài có 4 âm tiết.</p>",
+      "content_text": "つちかう。つち đất. かうmua. mua phân về bồi dưỡng đất. Bồi dưỡng là mua đất. tsuchikau. Cách nhớ động từ dài có 4 âm tiết.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152601",
+      "lang": "vi",
+      "content_html": "<p>tự lập vun xới đất đai mới có thứ cho vào mồm đc</p>",
+      "content_text": "tự lập vun xới đất đai mới có thứ cho vào mồm đc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

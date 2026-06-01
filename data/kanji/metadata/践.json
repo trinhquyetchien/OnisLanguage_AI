@@ -1,0 +1,86 @@
+{
+  "kanji": "践",
+  "meta": {
+    "weight": 2596,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "ふ.む"
+    ],
+    "am_han": "TIỄN"
+  },
+  "meaning": {
+    "vi": "giẫm lên, giẫm đạp, luyện tập, vượt qua",
+    "en": "tread, step on, trample, practice, carry through"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/践.svg"
+  },
+  "frequency": 1570,
+  "examples": [
+    "実践"
+  ],
+  "explanation": {
+    "id": "4562",
+    "text": "践 (đọc là \"sen\") có nghĩa là \"thực hiện\", \"đi trên\" để chỉ các hành động liên quan đến việc thực hiện hoặc đi lại.\n\nVí dụ:\n- 践行 (senkō): Thực hiện, thực hành.\n- 践踏 (sentatsu): Dẫm lên, giẫm "
+  },
+  "comments": [
+    {
+      "id": "157183",
+      "lang": "vi",
+      "content_html": "<p>TIỄN chân anh đi đánh Dặc</p>",
+      "content_text": "TIỄN chân anh đi đánh Dặc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157184",
+      "lang": "vi",
+      "content_html": "<p>Cầm gươm tiễn người ra biên ải</p>",
+      "content_text": "Cầm gươm tiễn người ra biên ải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157185",
+      "lang": "vi",
+      "content_html": "<p>bước tới chém 2 nhát TIỄN e nó về cực lạc</p>",
+      "content_text": "bước tới chém 2 nhát TIỄN e nó về cực lạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

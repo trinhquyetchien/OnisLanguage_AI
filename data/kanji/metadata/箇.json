@@ -1,0 +1,83 @@
+{
+  "kanji": "箇",
+  "meta": {
+    "weight": 2000,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "コ"
+    ],
+    "kun": [],
+    "am_han": "CÁ"
+  },
+  "meaning": {
+    "vi": "truy cập các bài báo",
+    "en": "counter for articles"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/箇.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "673",
+    "text": "箇 (đọc là \"ka\" hoặc \"ko\") có nghĩa là chỉ một đơn vị, một cái gì đó, thường được dùng để đếm các đối tượng cụ thể. \n\nVí dụ:\n- 一個 (ikko): Một cái, một món.\n- 個別 (kobetsu): Cá nhân, riêng lẻ.\n"
+  },
+  "comments": [
+    {
+      "id": "220295",
+      "lang": "vi",
+      "content_html": "<p>Đếm các con Cá ngoan Cố chui vào ống Trúc</p>",
+      "content_text": "Đếm các con Cá ngoan Cố chui vào ống Trúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220296",
+      "lang": "vi",
+      "content_html": "<p>Đếm ngày tháng dựa vào độ cứng của đốt tre</p>",
+      "content_text": "Đếm ngày tháng dựa vào độ cứng của đốt tre",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220297",
+      "lang": "vi",
+      "content_html": "<p>Cây tre cứng là cây tre Cá biệt</p>",
+      "content_text": "Cây tre cứng là cây tre Cá biệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "kanji": "桶",
+  "meta": {
+    "weight": 1359,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ",
+      "トウ"
+    ],
+    "kun": [
+      "おけ"
+    ],
+    "am_han": "DŨNG"
+  },
+  "meaning": {
+    "vi": "bồn tắm, xô",
+    "en": "tub, bucket"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/桶.svg"
+  },
+  "frequency": 2210,
+  "examples": [
+    "桶",
+    "棺桶"
+  ],
+  "explanation": {
+    "id": "573",
+    "text": "桶 (đọc là \"おけ\" - oke) có nghĩa là \"thùng\", \"chậu\" để chỉ các dụng cụ chứa đựng chất lỏng hoặc vật liệu rời.  \nVí dụ:  \n- 桶 (おけ - oke): Thùng, chậu.  \n- 桶屋 (おけや - okaya): Người làm thùng, cơ "
+  },
+  "comments": [
+    {
+      "id": "221838",
+      "lang": "vi",
+      "content_html": "<p><strong>Mộc 木 + 用</strong> (Tượng hình của<strong> Thùng</strong>, xem trong giải thích hán tự <strong>用</strong>). Thì là<strong> bồn tắm, vật chứa nước, xô.</strong></p>",
+      "content_text": "Mộc 木 + 用\n(Tượng hình của\nThùng\n, xem trong giải thích hán tự\n用\n). Thì là\nbồn tắm, vật chứa nước, xô.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    },
+    {
+      "id": "154524",
+      "lang": "vi",
+      "content_html": "<p>mấy Cây Dũng mạnh lấy làm thùng nước</p>",
+      "content_text": "mấy Cây Dũng mạnh lấy làm thùng nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

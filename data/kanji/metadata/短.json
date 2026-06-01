@@ -1,0 +1,90 @@
+{
+  "kanji": "短",
+  "meta": {
+    "weight": 1862,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "みじか.い"
+    ],
+    "am_han": "ĐOẢN"
+  },
+  "meaning": {
+    "vi": "ngắn, đoản mệnh",
+    "en": "short, brevity, fault, defect, weak point"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/短.svg"
+  },
+  "frequency": 689,
+  "examples": [
+    "短い",
+    "短期",
+    "短縮",
+    "短編",
+    "短期間"
+  ],
+  "explanation": {
+    "id": "5141",
+    "text": "短 (đọc là \"tan\") có nghĩa là \"ngắn\" để chỉ độ dài hoặc thời gian không kéo dài.  \nVí dụ:  \n- 短い (minai): Ngắn.  \n- 短縮 (tanshuku): Rút ngắn, giảm thiểu.  \n- 短期 (tanki): Thời gian ngắn."
+  },
+  "comments": [
+    {
+      "id": "1052",
+      "lang": "vi",
+      "content_html": "<p>Cả mũi tên (矢) lẫn hạt đậu (豆) đều <strong>ngắn</strong>.</p>",
+      "content_text": "Cả mũi tên (矢) lẫn hạt đậu (豆) đều\nngắn\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62a1fac7a69d5.jpg",
+      "image_path": "assets/images/短_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155614",
+      "lang": "vi",
+      "content_html": "<p>mũi TÊN bắn trúng hạt ĐẬU ở khoảng cách NGẮN</p>",
+      "content_text": "mũi TÊN bắn trúng hạt ĐẬU ở khoảng cách NGẮN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191137",
+      "lang": "vi",
+      "content_html": "<p><strong>ngắn</strong></p>",
+      "content_text": "ngắn",
+      "image_url": "https://jpdictionary.com/upload/images/648ac6d059ceb.jpg",
+      "image_path": "assets/images/短_3.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "kanji": "兇",
+  "meta": {
+    "weight": 259,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "おそ.れる",
+      "わる.い"
+    ],
+    "am_han": "HUNG"
+  },
+  "meaning": {
+    "vi": "sự gian ác",
+    "en": "wickedness"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/兇.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1624",
+    "text": "兇 (đọc là \"kyō\") có nghĩa là \"khắc nghiệt\", \"độc ác\" để chỉ những điều liên quan đến sự tàn bạo, nguy hiểm hoặc xấu xa.\n\nVí dụ:\n- 兇悪 (kyōaku): Độc ác, tội ác.\n- 兇事件 (kyōjiken): Vụ án nghiêm "
+  },
+  "comments": [
+    {
+      "id": "218922",
+      "lang": "vi",
+      "content_html": "<p>Mọi người sợ hãi khi thấy hung thủ với khuôn mặt X dang chạy (ル</p>",
+      "content_text": "Mọi người sợ hãi khi thấy hung thủ với khuôn mặt X dang chạy (ル",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

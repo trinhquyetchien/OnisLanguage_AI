@@ -1,0 +1,87 @@
+{
+  "kanji": "杉",
+  "meta": {
+    "weight": 1286,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン"
+    ],
+    "kun": [
+      "すぎ"
+    ],
+    "am_han": "SAM"
+  },
+  "meaning": {
+    "vi": "tuyết tùng, cryptomeria",
+    "en": "cedar, cryptomeria"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/杉.svg"
+  },
+  "frequency": 1095,
+  "examples": [
+    "杉",
+    "小杉"
+  ],
+  "explanation": {
+    "id": "4263",
+    "text": "杉 (đọc là \"sugi\") có nghĩa là \"cây tuyết tùng\", chỉ các loại cây thuộc họ này, thường được dùng trong xây dựng và trang trí.  \nVí dụ:  \n- 杉の木 (sugi no ki): Cây tuyết tùng.  \n- 杉材 (sugizai): "
+  },
+  "comments": [
+    {
+      "id": "154376",
+      "lang": "vi",
+      "content_html": "<p>cây trông giống tóc đuôi SAM là cây tuyết tùng</p>",
+      "content_text": "cây trông giống tóc đuôi SAM là cây tuyết tùng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154377",
+      "lang": "vi",
+      "content_html": "<p>cây + sam= cây sam ( tuyết tùng)</p>",
+      "content_text": "cây + sam= cây sam ( tuyết tùng)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154378",
+      "lang": "vi",
+      "content_html": "<p>cây 木 trông giống tóc đuôi SAM彡 là cây liễu SAM (xưa gọi là cây tuyết tùng).</p>",
+      "content_text": "cây 木 trông giống tóc đuôi SAM彡 là cây liễu SAM (xưa gọi là cây tuyết tùng).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "捻",
+  "meta": {
+    "weight": 1110,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ネン",
+      "ジョウ"
+    ],
+    "kun": [
+      "ね.じる",
+      "ねじ.る",
+      "ひね.くる",
+      "ひね.る"
+    ],
+    "am_han": "NIỆP, NIỆM"
+  },
+  "meaning": {
+    "vi": "xoay, xoắn, chơi với",
+    "en": "twirl, twist, play with"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/捻.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6165",
+    "text": "捻 (đọc là \"nen\") có nghĩa là \"vặn\", \"xoắn\" để chỉ các hành động liên quan đến việc xoay, vặn hoặc điều chỉnh một cách khéo léo.  \nVí dụ:  \n- 捻出 (nenshi): Tìm ra, nghĩ ra (thường dùng trong b"
+  },
+  "comments": [
+    {
+      "id": "219621",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay quay lại kỉ niệm</p>",
+      "content_text": "Dùng tay quay lại kỉ niệm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219622",
+      "lang": "vi",
+      "content_html": "<p>Kỉ niệm nắm trong tay<br>Vặn xoay như con vít</p>",
+      "content_text": "Kỉ niệm nắm trong tay\nVặn xoay như con vít",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219623",
+      "lang": "vi",
+      "content_html": "<p>Tâm niệm rằng tay có thể đánh bại cũng có thể vắt óc làm thơ</p>",
+      "content_text": "Tâm niệm rằng tay có thể đánh bại cũng có thể vắt óc làm thơ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

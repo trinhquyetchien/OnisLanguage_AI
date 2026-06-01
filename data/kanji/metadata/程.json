@@ -1,0 +1,108 @@
+{
+  "kanji": "程",
+  "meta": {
+    "weight": 1936,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "ほど",
+      "-ほど"
+    ],
+    "am_han": "TRÌNH"
+  },
+  "meaning": {
+    "vi": "trình độ, mức độ",
+    "en": "extent, degree, law, formula, distance, limits, amount"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/程.svg"
+  },
+  "frequency": 514,
+  "examples": [
+    "程度",
+    "ある程度",
+    "過程",
+    "程",
+    "日程"
+  ],
+  "explanation": {
+    "id": "5582",
+    "text": "程 (đọc là \"tei\" hoặc \"nori\") có nghĩa là \"quy trình\", \"khoảng cách\", \"danh sách\" để chỉ các khái niệm liên quan đến việc đo đạc, quy định hay lập kế hoạch.  \nVí dụ:  \n- 程度 (teido): Mức độ, c"
+  },
+  "comments": [
+    {
+      "id": "155760",
+      "lang": "vi",
+      "content_html": "<p>TRÌNH độ nịnh VUA bằng MIỆNG của HÒA thân thì không ai sánh được</p>",
+      "content_text": "TRÌNH độ nịnh VUA bằng MIỆNG của HÒA thân thì không ai sánh được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190664",
+      "lang": "vi",
+      "content_html": "<p>xin Lúa bằng Miệng với Vua thì phải có Trình độ</p>",
+      "content_text": "xin Lúa bằng Miệng với Vua thì phải có Trình độ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "155761",
+      "lang": "vi",
+      "content_html": "<p>Dùng miệng nói mà vua đưa cho lúa về trồng phải có TRÌNH độ lắm</p>",
+      "content_text": "Dùng miệng nói mà vua đưa cho lúa về trồng phải có TRÌNH độ lắm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155762",
+      "lang": "vi",
+      "content_html": "<p>Vua ăn lúa có trình độ</p>",
+      "content_text": "Vua ăn lúa có trình độ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

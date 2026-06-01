@@ -1,0 +1,90 @@
+{
+  "kanji": "迎",
+  "meta": {
+    "weight": 2638,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲイ"
+    ],
+    "kun": [
+      "むか.える"
+    ],
+    "am_han": "NGHÊNH"
+  },
+  "meaning": {
+    "vi": "hoan nghênh, nghênh đón",
+    "en": "welcome, meet, greet"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/迎.svg"
+  },
+  "frequency": 625,
+  "examples": [
+    "迎え",
+    "歓迎",
+    "迎える",
+    "お迎え",
+    "出迎え"
+  ],
+  "explanation": {
+    "id": "2042",
+    "text": "迎 (đọc là \"gei\" hoặc \"mukaeru\") có nghĩa là \"chào đón\", \"tiếp đón\" để chỉ hành động chào mừng hoặc tiếp nhận ai đó.  \nVí dụ:  \n- 迎える (mukaeru): Chào đón, tiếp đón.  \n- 迎合 (geigō): Cúi mình, "
+  },
+  "comments": [
+    {
+      "id": "157278",
+      "lang": "vi",
+      "content_html": "<p>Nghênh đón những cái đĩa CD trên đường</p>",
+      "content_text": "Nghênh đón những cái đĩa CD trên đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157279",
+      "lang": "vi",
+      "content_html": "<p>Ngênh đón Công Phượng đang tới</p>",
+      "content_text": "Ngênh đón Công Phượng đang tới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157280",
+      "lang": "vi",
+      "content_html": "<p>Ra Đường NGHÊNH đón Công Phượng</p>",
+      "content_text": "Ra Đường NGHÊNH đón Công Phượng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

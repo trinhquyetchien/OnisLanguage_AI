@@ -1,0 +1,68 @@
+{
+  "kanji": "卜",
+  "meta": {
+    "weight": 396,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボク"
+    ],
+    "kun": [
+      "うらな.う",
+      "うらない"
+    ],
+    "am_han": "BẶC"
+  },
+  "meaning": {
+    "vi": "bói toán, bói toán hoặc katakana để cấp tiến (số 25)",
+    "en": "divining, fortune-telling, divination or katakana to radical (no. 25)"
+  },
+  "stroke": {
+    "count": 2,
+    "svg": "assets/svg/卜.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7319",
+    "text": "卜 (đọc là \"boku\" hoặc \"urana(u)\") có nghĩa là \"dự đoán\", \"tiên đoán\" để chỉ các hành động liên quan đến việc tiên đoán tương lai hoặc bói toán.\nVí dụ:\n- 卜占 (bokusen): Bói toán, dự đoán.\n- 卜す"
+  },
+  "comments": [
+    {
+      "id": "219036",
+      "lang": "vi",
+      "content_html": "<p>Bốc quẻ Xem Bói bằng Tô.</p>",
+      "content_text": "Bốc quẻ Xem Bói bằng Tô.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219037",
+      "lang": "vi",
+      "content_html": "<p>Muốn bói toán thì phải với tay bốc quẻ</p>",
+      "content_text": "Muốn bói toán thì phải với tay bốc quẻ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

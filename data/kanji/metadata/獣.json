@@ -1,0 +1,91 @@
+{
+  "kanji": "獣",
+  "meta": {
+    "weight": 1728,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュウ"
+    ],
+    "kun": [
+      "けもの",
+      "けだもの"
+    ],
+    "am_han": "THÚ"
+  },
+  "meaning": {
+    "vi": "động vật, con thú",
+    "en": "animal, beast"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/獣.svg"
+  },
+  "frequency": 1714,
+  "examples": [
+    "獣",
+    "怪獣",
+    "獣医",
+    "鳥獣",
+    "野獣"
+  ],
+  "explanation": {
+    "id": "3570",
+    "text": "獣 (đọc là \"shuu\" hoặc \"kemono\") có nghĩa là \"thú\", chỉ các loài động vật hoang dã hoặc động vật nói chung.  \nVí dụ:  \n- 獣医 (juui): Bác sĩ thú y.  \n- 獣道 (kemono-michi): Đường đi của thú rừng."
+  },
+  "comments": [
+    {
+      "id": "155306",
+      "lang": "vi",
+      "content_html": "<p>Có 3 con THÚ và 10 con chó ở ngoài đồng</p>",
+      "content_text": "Có 3 con THÚ và 10 con chó ở ngoài đồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155307",
+      "lang": "vi",
+      "content_html": "<p>Con chó là điển hình cho loài thú nhiều lông hay ra đôngf ăn cỏ khi chán thịt nhà</p>",
+      "content_text": "Con chó là điển hình cho loài thú nhiều lông hay ra đôngf ăn cỏ khi chán thịt nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155308",
+      "lang": "vi",
+      "content_html": "<p>Dùng 10 con chó để săn thú ăn cỏ ở ngoài đồng.</p>",
+      "content_text": "Dùng 10 con chó để săn thú ăn cỏ ở ngoài đồng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

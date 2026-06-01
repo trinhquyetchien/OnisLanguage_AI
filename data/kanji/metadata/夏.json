@@ -1,0 +1,109 @@
+{
+  "kanji": "夏",
+  "meta": {
+    "weight": 616,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "ガ",
+      "ゲ"
+    ],
+    "kun": [
+      "なつ"
+    ],
+    "am_han": "HẠ"
+  },
+  "meaning": {
+    "vi": "mùa hạ",
+    "en": "summer"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/夏.svg"
+  },
+  "frequency": 659,
+  "examples": [
+    "夏",
+    "夏休み",
+    "真夏",
+    "初夏",
+    "夏場"
+  ],
+  "explanation": {
+    "id": "630",
+    "text": "夏 (đọc là \"natsu\") có nghĩa là \"mùa hè\" để chỉ thời gian trong năm khi thời tiết nóng nhất.  \nVí dụ:  \n- 夏休み (natsuyasumi): Kỳ nghỉ hè.  \n- 夏祭り (natsumatsuri): Lễ hội mùa hè.  \n- 夏服 (natsufu"
+  },
+  "comments": [
+    {
+      "id": "708",
+      "lang": "vi",
+      "content_html": "<p>Vì mùa <strong>hè</strong> quá nóng, nên con người mệt lử dưới bóng râm.</p>",
+      "content_text": "Vì mùa\nhè\nquá nóng, nên con người mệt lử dưới bóng râm.",
+      "image_url": "https://jpdictionary.com/upload/images/62983e6c387d6.jpg",
+      "image_path": "assets/images/夏_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152711",
+      "lang": "vi",
+      "content_html": "<p>Hội ý: Có Một thứ (一) luôn Tự (自) Theo Sau (夂) mình.<br>==&#62; ám chỉ cái bóng, luôn xuất hiện vào mùa Hạ (夏). Do có nhiều nắng<br>..性..</p>",
+      "content_text": "Hội ý: Có Một thứ (一) luôn Tự (自) Theo Sau (夂) mình.\n==> ám chỉ cái bóng, luôn xuất hiện vào mùa Hạ (夏). Do có nhiều nắng\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152712",
+      "lang": "vi",
+      "content_html": "<p>Còn lại Mình 自 ta Sau 夂 Mùa Hạ 夏.</p>",
+      "content_text": "Còn lại Mình 自 ta Sau 夂 Mùa Hạ 夏.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158582",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>夏 (なつ): mùa hè</p><p>夏休み (なつやすみ): kì nghỉ hè</p>",
+      "content_text": "JLPT N4\n夏 (なつ): mùa hè\n夏休み (なつやすみ): kì nghỉ hè",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

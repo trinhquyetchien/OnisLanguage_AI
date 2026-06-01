@@ -1,0 +1,109 @@
+{
+  "kanji": "省",
+  "meta": {
+    "weight": 1841,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "かえり.みる",
+      "はぶ.く"
+    ],
+    "am_han": "TỈNH"
+  },
+  "meaning": {
+    "vi": "nhìn lại, hồi tỉnh",
+    "en": "focus, government ministry, conserve"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/省.svg"
+  },
+  "frequency": 548,
+  "examples": [
+    "省",
+    "反省",
+    "外務省",
+    "労働省",
+    "省庁"
+  ],
+  "explanation": {
+    "id": "3874",
+    "text": "省 (đọc là \"shō\" hoặc \"sei\") có nghĩa là \"tiểu bang\", \"bộ\", hoặc \"giảm\" để chỉ các hành động liên quan đến việc quản lý, giảm bớt hoặc suy nghĩ.\n\nVí dụ:\n- 省庁 (shōchō): Bộ ngành, cơ quan chính"
+  },
+  "comments": [
+    {
+      "id": "191133",
+      "lang": "vi",
+      "content_html": "<p><strong>tiết kiệm</strong> năng lượng - 省エネ</p>",
+      "content_text": "tiết kiệm\nnăng lượng - 省エネ",
+      "image_url": "https://jpdictionary.com/upload/images/648ac64fce83c.jpg",
+      "image_path": "assets/images/省_1.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "155556",
+      "lang": "vi",
+      "content_html": "<p>MẮT mà THIẾU ngủ thì k TỈNH đc</p>",
+      "content_text": "MẮT mà THIẾU ngủ thì k TỈNH đc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190705",
+      "lang": "vi",
+      "content_html": "<p>ít người mở mắt khi Tỉnh</p>",
+      "content_text": "ít người mở mắt khi Tỉnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "155557",
+      "lang": "vi",
+      "content_html": "<p>Mới TỈNH dậy mắt thường ko Mở to được</p>",
+      "content_text": "Mới TỈNH dậy mắt thường ko Mở to được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

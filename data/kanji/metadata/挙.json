@@ -1,0 +1,109 @@
+{
+  "kanji": "挙",
+  "meta": {
+    "weight": 1091,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョ"
+    ],
+    "kun": [
+      "あ.げる",
+      "あ.がる",
+      "こぞ.る"
+    ],
+    "am_han": "CỬ, GỠ, GỞ"
+  },
+  "meaning": {
+    "vi": "nêu ra, lập kế hoạch, dự án, hành vi, hành động",
+    "en": "raise, plan, project, behavior, actions"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/挙.svg"
+  },
+  "frequency": 257,
+  "examples": [
+    "選挙",
+    "挙げる",
+    "一挙",
+    "列挙",
+    "検挙"
+  ],
+  "explanation": {
+    "id": "1582",
+    "text": "挙 (đọc là \"kyo\" hoặc \"ageru\") có nghĩa là \"nâng lên\", \"tổ chức\" để chỉ các hành động liên quan đến việc nâng cao, tổ chức sự kiện hoặc hành động.  \nVí dụ:  \n- 挙式 (kyoshiki): Lễ cưới, tổ chức"
+  },
+  "comments": [
+    {
+      "id": "153907",
+      "lang": "vi",
+      "content_html": "<p>dưới ánh SÁNG (光) , tuyển THỦ (手) GIƠ tay (あがる) xin ứng CỬ  (挙)</p>",
+      "content_text": "dưới ánh SÁNG (光) , tuyển THỦ (手) GIƠ tay (あがる) xin ứng CỬ  (挙)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153908",
+      "lang": "vi",
+      "content_html": "<p>tay cầm bông hoa đi tuyển cử</p>",
+      "content_text": "tay cầm bông hoa đi tuyển cử",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153909",
+      "lang": "vi",
+      "content_html": "<p>người trúng CỬ TAY giơ cao ngọn đuốc 光</p>",
+      "content_text": "người trúng CỬ TAY giơ cao ngọn đuốc 光",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221629",
+      "lang": "vi",
+      "content_html": "<p>Chữ Hán 挙 (đọc là \"kyo\") có nghĩa là \"nâng lên,\" \"nâng cao,\" \"giơ lên,\" hoặc \"dẫn dắt.\"</p><p>Ví dụ:</p><ol><li><strong>挙げる (ageru)</strong>: Nâng lên, giơ lên, đưa ra (ví dụ).</li><li><strong>推進する (suishin suru)</strong>: Thúc đẩy, đẩy mạnh (nâng cao).</li><li><strong>挙手する (kyoshu suru)</strong>: Giơ tay (trong cuộc họp).</li><li><strong>挙動 (kyodou)</strong>: Hành vi, cử chỉ.</li></ol>",
+      "content_text": "Chữ Hán 挙 (đọc là \"kyo\") có nghĩa là \"nâng lên,\" \"nâng cao,\" \"giơ lên,\" hoặc \"dẫn dắt.\"\nVí dụ:\n挙げる (ageru)\n: Nâng lên, giơ lên, đưa ra (ví dụ).\n推進する (suishin suru)\n: Thúc đẩy, đẩy mạnh (nâng cao).\n挙手する (kyoshu suru)\n: Giơ tay (trong cuộc họp).\n挙動 (kyodou)\n: Hành vi, cử chỉ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

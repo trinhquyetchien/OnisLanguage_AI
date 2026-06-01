@@ -1,0 +1,88 @@
+{
+  "kanji": "寸",
+  "meta": {
+    "weight": 748,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スン"
+    ],
+    "kun": [],
+    "am_han": "THỐN"
+  },
+  "meaning": {
+    "vi": "số đo, một phần mười của shaku, một chút, nhỏ",
+    "en": "measurement, tenth of a shaku, a little, small"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/寸.svg"
+  },
+  "frequency": 1669,
+  "examples": [
+    "寸前",
+    "寸法",
+    "一寸",
+    "寸",
+    "寸評"
+  ],
+  "explanation": {
+    "id": "4278",
+    "text": "寸 (đọc là \"sun\") có nghĩa là \"khoảng cách nhỏ\" hoặc \"đo lường\", thường được sử dụng để chỉ kích thước hoặc chiều dài. \n\nVí dụ:\n- 寸法 (sunpō): Kích thước, số đo.\n- 一寸 (issun): Một inch (khoảng"
+  },
+  "comments": [
+    {
+      "id": "153028",
+      "lang": "vi",
+      "content_html": "<p>có 2 nghĩa chính:<br>- Đơn vị đo = 3.03cm ( ám chỉ 1 đốt ngón tay).<br>- Trong Y học 寸 chỉ việc \"bắt mạch\" (chỗ bắt mạch cách cổ tay 1 寸)</p>",
+      "content_text": "có 2 nghĩa chính:\n- Đơn vị đo = 3.03cm ( ám chỉ 1 đốt ngón tay).\n- Trong Y học 寸 chỉ việc \"bắt mạch\" (chỗ bắt mạch cách cổ tay 1 寸)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153029",
+      "lang": "vi",
+      "content_html": "<p>10 chấm chủ ( vạch  trên thước) bằng 1 đơn vị đo (1 cm)</p>",
+      "content_text": "10 chấm chủ ( vạch  trên thước) bằng 1 đơn vị đo (1 cm)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153030",
+      "lang": "vi",
+      "content_html": "<p>Thốn quá lấy Đơn vị đo Mười chấm chủ.</p>",
+      "content_text": "Thốn quá lấy Đơn vị đo Mười chấm chủ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

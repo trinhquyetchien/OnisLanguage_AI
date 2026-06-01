@@ -1,0 +1,91 @@
+{
+  "kanji": "判",
+  "meta": {
+    "weight": 318,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン",
+      "バン"
+    ],
+    "kun": [
+      "わか.る"
+    ],
+    "am_han": "PHÁN"
+  },
+  "meaning": {
+    "vi": "phán quyết, phán đoán",
+    "en": "judgement, signature, stamp, seal"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/判.svg"
+  },
+  "frequency": 197,
+  "examples": [
+    "判断",
+    "批判",
+    "裁判",
+    "判決",
+    "裁判所"
+  ],
+  "explanation": {
+    "id": "6438",
+    "text": "判 (đọc là \"han\") có nghĩa là \"phán quyết\", \"quyết định\" để chỉ các hành động liên quan đến việc đưa ra phán xét hoặc nhận định.\n\nVí dụ:\n- 判決 (hanketsu): Phán quyết, quyết định của tòa án.\n- "
+  },
+  "comments": [
+    {
+      "id": "151992",
+      "lang": "vi",
+      "content_html": "<p>Dùng dao cắt đôi tờ phán quyết</p>",
+      "content_text": "Dùng dao cắt đôi tờ phán quyết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151993",
+      "lang": "vi",
+      "content_html": "<p>Phán quyết bằng nửa con dao</p>",
+      "content_text": "Phán quyết bằng nửa con dao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151994",
+      "lang": "vi",
+      "content_html": "<p>Bạn đã dùng dao 刀 chặt đôi 半 những cái cột nhà tôi. Quan toà rẽ đưa ra phán 判 quyết trừng phạt bạn.</p>",
+      "content_text": "Bạn đã dùng dao 刀 chặt đôi 半 những cái cột nhà tôi. Quan toà rẽ đưa ra phán 判 quyết trừng phạt bạn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

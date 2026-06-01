@@ -1,0 +1,92 @@
+{
+  "kanji": "幸",
+  "meta": {
+    "weight": 851,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "さいわ.い",
+      "さち",
+      "しあわ.せ"
+    ],
+    "am_han": "HẠNH"
+  },
+  "meaning": {
+    "vi": "hạnh phúc",
+    "en": "happiness, blessing, fortune"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/幸.svg"
+  },
+  "frequency": 786,
+  "examples": [
+    "幸せ",
+    "幸い",
+    "不幸",
+    "幸福",
+    "幸運"
+  ],
+  "explanation": {
+    "id": "2432",
+    "text": "幸 (đọc là \"sachi\" hoặc \"kou\") có nghĩa là \"hạnh phúc\", \"may mắn\", chỉ những điều tốt đẹp và bình an trong cuộc sống.  \nVí dụ:  \n- 幸せ (shiawase): Hạnh phúc.  \n- 幸運 (kouun): May mắn, vận may. "
+  },
+  "comments": [
+    {
+      "id": "191000",
+      "lang": "vi",
+      "content_html": "<p><strong>hạnh phúc</strong></p>",
+      "content_text": "hạnh phúc",
+      "image_url": "https://jpdictionary.com/upload/images/648a8c985efd1.jpg",
+      "image_path": "assets/images/幸_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "37028",
+      "lang": "vi",
+      "content_html": "<p>Vì tôi có nhiều tiền yên (￥) được chôn dưới đất (土) nên tôi rất <strong>hạnh phúc</strong>.</p>",
+      "content_text": "Vì tôi có nhiều tiền yên (￥) được chôn dưới đất (土) nên tôi rất\nhạnh phúc\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc5154e0f48.jpg",
+      "image_path": "assets/images/幸_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153293",
+      "lang": "vi",
+      "content_html": "<p>Có Đất ( 土 ）có Tiền ( ¥ ) thì Hạnh phúc</p>",
+      "content_text": "Có Đất ( 土 ）có Tiền ( ¥ ) thì Hạnh phúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

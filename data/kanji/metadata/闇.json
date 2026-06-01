@@ -1,0 +1,92 @@
+{
+  "kanji": "闇",
+  "meta": {
+    "weight": 2813,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アン",
+      "オン"
+    ],
+    "kun": [
+      "やみ",
+      "くら.い"
+    ],
+    "am_han": "ÁM"
+  },
+  "meaning": {
+    "vi": "tối tăm, u ám, rối loạn",
+    "en": "get dark, gloom, disorder"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/闇.svg"
+  },
+  "frequency": 1969,
+  "examples": [
+    "闇",
+    "暗闇",
+    "闇雲",
+    "無闇",
+    "夕闇"
+  ],
+  "explanation": {
+    "id": "103",
+    "text": "闇 (đọc là \"yami\") có nghĩa là \"bóng tối\", \"tối tăm\", thường chỉ những điều bí ẩn hoặc tiêu cực. \n\nVí dụ:\n- 闇夜 (yamiyo): Đêm tối, bóng đêm.\n- 闇金融 (yamikin'yū): Tín dụng đen, tài chính phi phá"
+  },
+  "comments": [
+    {
+      "id": "157650",
+      "lang": "vi",
+      "content_html": "<p>cổng vào cõi 音 ÂM thì u ám</p>",
+      "content_text": "cổng vào cõi 音 ÂM thì u ám",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157651",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa trời tối phải phát ra âm thanh trước cổng mới nhận ra nhau</p>",
+      "content_text": "Thời xưa trời tối phải phát ra âm thanh trước cổng mới nhận ra nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157652",
+      "lang": "vi",
+      "content_html": "<p>âm thanh 音 ở cổng 門 rất u ám 闇</p>",
+      "content_text": "âm thanh 音 ở cổng 門 rất u ám 闇",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

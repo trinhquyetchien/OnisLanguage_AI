@@ -1,0 +1,90 @@
+{
+  "kanji": "骨",
+  "meta": {
+    "weight": 2961,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コツ"
+    ],
+    "kun": [
+      "ほね"
+    ],
+    "am_han": "CỐT"
+  },
+  "meaning": {
+    "vi": "xương, cốt nhục",
+    "en": "skeleton, bone, remains, frame"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/骨.svg"
+  },
+  "frequency": 936,
+  "examples": [
+    "骨",
+    "骨折",
+    "骨格",
+    "鉄骨",
+    "露骨"
+  ],
+  "explanation": {
+    "id": "2666",
+    "text": "骨 (đọc là \"kotsu\") có nghĩa là \"xương\" để chỉ các bộ phận cứng bên trong cơ thể động vật hoặc con người.\n\nVí dụ:\n- 骨格 (kokkaku): Khung xương, cấu trúc xương.\n- 骨折 (kossetsu): Gãy xương.\n- 骨髄"
+  },
+  "comments": [
+    {
+      "id": "158008",
+      "lang": "vi",
+      "content_html": "<p>chị nguyệt cho xương CỐT vào quan tài</p>",
+      "content_text": "chị nguyệt cho xương CỐT vào quan tài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158009",
+      "lang": "vi",
+      "content_html": "<p>Đứng trên nhà 2 tầng cốt là để thấy nguyệt quàng khăn</p>",
+      "content_text": "Đứng trên nhà 2 tầng cốt là để thấy nguyệt quàng khăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158010",
+      "lang": "vi",
+      "content_html": "<p>Tượng hình: khúc xương. [Trí tưởng tượng]<br>Chiết tự: nhìn hình ta thấy: thịt 月 trùm lên 冖 khúc xương 骨 lỗ vuông đôi 冎.</p>",
+      "content_text": "Tượng hình: khúc xương. [Trí tưởng tượng]\nChiết tự: nhìn hình ta thấy: thịt 月 trùm lên 冖 khúc xương 骨 lỗ vuông đôi 冎.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

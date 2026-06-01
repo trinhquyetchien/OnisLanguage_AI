@@ -1,0 +1,91 @@
+{
+  "kanji": "飾",
+  "meta": {
+    "weight": 2932,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショク"
+    ],
+    "kun": [
+      "かざ.る",
+      "かざ.り"
+    ],
+    "am_han": "SỨC"
+  },
+  "meaning": {
+    "vi": "trang trí, tô điểm, tôn tạo",
+    "en": "decorate, ornament, adorn, embellish"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/飾.svg"
+  },
+  "frequency": 1193,
+  "examples": [
+    "飾り",
+    "装飾",
+    "飾る",
+    "粉飾",
+    "修飾"
+  ],
+  "explanation": {
+    "id": "4009",
+    "text": "飾 (đọc là \"shaku\" hoặc \"saku\") có nghĩa là \"trang trí\", \"phô bày\" để chỉ các hành động liên quan đến việc làm đẹp, trang hoàng hoặc thể hiện.\n\nVí dụ:\n- 飾り (kazari): Đồ trang trí.\n- 飾る (kazar"
+  },
+  "comments": [
+    {
+      "id": "157946",
+      "lang": "vi",
+      "content_html": "<p>Người có của ăn của để (食) ở thành thị (市) thường thích làm đẹp, trang trí, đeo trang SỨC</p>",
+      "content_text": "Người có của ăn của để (食) ở thành thị (市) thường thích làm đẹp, trang trí, đeo trang SỨC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157947",
+      "lang": "vi",
+      "content_html": "<p>Người suốt ngày lo ăn với lên thành thị chơi đầu còn cắm tranh Sức</p>",
+      "content_text": "Người suốt ngày lo ăn với lên thành thị chơi đầu còn cắm tranh Sức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157948",
+      "lang": "vi",
+      "content_html": "<p>Ăn hay nằm đều ở trạng thái cân sức...</p>",
+      "content_text": "Ăn hay nằm đều ở trạng thái cân sức...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

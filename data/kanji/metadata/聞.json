@@ -1,0 +1,109 @@
+{
+  "kanji": "聞",
+  "meta": {
+    "weight": 2158,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ブン",
+      "モン"
+    ],
+    "kun": [
+      "き.く",
+      "き.こえる"
+    ],
+    "am_han": "VĂN"
+  },
+  "meaning": {
+    "vi": "nghe, hỏi",
+    "en": "hear, ask, listen"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/聞.svg"
+  },
+  "frequency": 319,
+  "examples": [
+    "新聞",
+    "聞き",
+    "聞く",
+    "聞こえ",
+    "朝日新聞"
+  ],
+  "explanation": {
+    "id": "6981",
+    "text": "聞 (đọc là \"bun\" hoặc \"ki\") có nghĩa là \"nghe\", \"hỏi\" để chỉ các hành động liên quan đến việc tiếp nhận âm thanh hoặc thông tin.  \nVí dụ:  \n- 聞く (kiku): Nghe, hỏi.  \n- 意見を聞く (iken o kiku): Ng"
+  },
+  "comments": [
+    {
+      "id": "691",
+      "lang": "vi",
+      "content_html": "<p>Ai đó đang ghé tai (耳) vào cổng (門) để <strong>nghe </strong>ngóng.</p>",
+      "content_text": "Ai đó đang ghé tai (耳) vào cổng (門) để\nnghe\nngóng.",
+      "image_url": "https://jpdictionary.com/upload/images/62983798c9fab.jpg",
+      "image_path": "assets/images/聞_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156245",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: áp Tai (耳) vào Cửa (門)<br>==&#62; để Nghe lén (聞 Văn).<br>..性..</p>",
+      "content_text": "Góc Nhìn: áp Tai (耳) vào Cửa (門)\n==> để Nghe lén (聞 Văn).\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158442",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>聞く (きく): nghe, hỏi<br>新聞 (しんぶん): báo</p>",
+      "content_text": "JLPT N5\n聞く (きく): nghe, hỏi\n新聞 (しんぶん): báo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221915",
+      "lang": "vi",
+      "content_html": "<p>聞きます - VĂN (ききます): nghe, hỏi</p><p>新聞 - TÂN VĂN (しんぶん): báo</p>",
+      "content_text": "聞きます - VĂN (ききます): nghe, hỏi\n新聞 - TÂN VĂN (しんぶん): báo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5167",
+        "name": "v v",
+        "image_url": "https://jpdictionary.com/upload/images/681ca46917089.jpg"
+      }
+    }
+  ]
+}

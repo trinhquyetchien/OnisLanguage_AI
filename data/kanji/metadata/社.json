@@ -1,0 +1,90 @@
+{
+  "kanji": "社",
+  "meta": {
+    "weight": 1898,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "やしろ"
+    ],
+    "am_han": "XÃ"
+  },
+  "meaning": {
+    "vi": "công ty, xã hội",
+    "en": "company, firm, office, association, shrine"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/社.svg"
+  },
+  "frequency": 21,
+  "examples": [
+    "社会",
+    "会社",
+    "社",
+    "社長",
+    "株式会社"
+  ],
+  "explanation": {
+    "id": "3342",
+    "text": "社 (đọc là \"sha\") có nghĩa là \"xã hội\", \"công ty\" để chỉ các tổ chức hoặc cộng đồng.  \nVí dụ:  \n- 社会 (shakai): Xã hội.  \n- 会社 (kaisha): Công ty, doanh nghiệp.  \n- 社長 (shachō): Giám đốc công t"
+  },
+  "comments": [
+    {
+      "id": "631",
+      "lang": "vi",
+      "content_html": "<p>Tại <strong>đền thờ</strong> mọi người cúng bái và cầu nguyện cho mùa màng bội thu.</p>",
+      "content_text": "Tại\nđền thờ\nmọi người cúng bái và cầu nguyện cho mùa màng bội thu.",
+      "image_url": "https://jpdictionary.com/upload/images/62978a79a753d.jpg",
+      "image_path": "assets/images/社_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191139",
+      "lang": "vi",
+      "content_html": "<p><strong>công ty</strong> - 会社</p><p><strong>xã </strong>hội - 社会</p>",
+      "content_text": "công ty\n- 会社\nxã\nhội - 社会",
+      "image_url": "https://jpdictionary.com/upload/images/648ac70a2a69e.jpg",
+      "image_path": "assets/images/社_2.jpg",
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "155680",
+      "lang": "vi",
+      "content_html": "<p>Trên mặt ( Đất - 土) có nhiều chuyện Thị phi ( 礻) làm nên XÃ HỘI ( 社)</p>",
+      "content_text": "Trên mặt ( Đất - 土) có nhiều chuyện Thị phi ( 礻) làm nên XÃ HỘI ( 社)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

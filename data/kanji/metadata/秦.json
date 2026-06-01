@@ -1,0 +1,52 @@
+{
+  "kanji": "秦",
+  "meta": {
+    "weight": 1931,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "はた"
+    ],
+    "am_han": "TẦN"
+  },
+  "meaning": {
+    "vi": "Vương triều Mãn Thanh, tên được đặt cho người nước ngoài nhập tịch",
+    "en": "Manchu dynasty, name given to naturalized foreigners"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/秦.svg"
+  },
+  "frequency": 1894,
+  "examples": [
+    "秦"
+  ],
+  "explanation": {
+    "id": "4107",
+    "text": "秦 (đọc là \"shin\") có nghĩa là \"Triều đại Tần\", chỉ về một trong những triều đại cổ đại của Trung Quốc, nổi bật với việc thống nhất đất nước vào thế kỷ 3 trước Công nguyên. \n\nVí dụ:\n- 秦帝国 (Sh"
+  },
+  "comments": [
+    {
+      "id": "155747",
+      "lang": "vi",
+      "content_html": "<p>3 người trồng lúa thời nhà TẦN</p>",
+      "content_text": "3 người trồng lúa thời nhà TẦN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "kanji": "舜",
+  "meta": {
+    "weight": 2234,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュン"
+    ],
+    "kun": [],
+    "am_han": "THUẤN"
+  },
+  "meaning": {
+    "vi": "loại rau muống, hoa hồng Sharon, cây althea",
+    "en": "type of morning glory, rose of Sharon, althea"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/舜.svg"
+  },
+  "frequency": 2384,
+  "examples": [],
+  "explanation": {
+    "id": "3632",
+    "text": "舜 (đọc là \"shun\") có nghĩa là tên một nhân vật lịch sử trong truyền thuyết Trung Quốc, biểu trưng cho trí tuệ và đức hạnh. Trong tiếng Nhật, chữ này ít được sử dụng nhưng vẫn giữ nguyên ý ng"
+  },
+  "comments": [
+    {
+      "id": "156421",
+      "lang": "vi",
+      "content_html": "<p>VUI VẺ với con bò lộn ngược lm xiếc ở trong Nhà</p>",
+      "content_text": "VUI VẺ với con bò lộn ngược lm xiếc ở trong Nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156422",
+      "lang": "vi",
+      "content_html": "<p>Thuấn dùng Móng tay viết lên Mái nhà Một chữ Suyễn.</p>",
+      "content_text": "Thuấn dùng Móng tay viết lên Mái nhà Một chữ Suyễn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

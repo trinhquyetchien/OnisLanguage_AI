@@ -1,0 +1,112 @@
+{
+  "kanji": "涼",
+  "meta": {
+    "weight": 1554,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [
+      "すず.しい",
+      "すず.む",
+      "すず.やか",
+      "うす.い",
+      "ひや.す",
+      "まことに"
+    ],
+    "am_han": "LƯƠNG"
+  },
+  "meaning": {
+    "vi": "mát mẻ",
+    "en": "refreshing, nice and cool"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/涼.svg"
+  },
+  "frequency": 1783,
+  "examples": [
+    "涼",
+    "涼しい",
+    "清涼",
+    "涼しげ",
+    "納涼"
+  ],
+  "explanation": {
+    "id": "8114",
+    "text": "涼 (đọc là \"ryou\" hoặc \"suzushi\") có nghĩa là \"mát mẻ\", \"lạnh\", thường chỉ cảm giác thoải mái khi thời tiết không quá nóng. \n\nVí dụ:\n- 涼しい (suzushii): Mát mẻ, dễ chịu.\n- 涼風 (ryoufu): Gió mát."
+  },
+  "comments": [
+    {
+      "id": "37164",
+      "lang": "vi",
+      "content_html": "<p>Mưa xuống làm thủ đô (京) trở nên <strong>mát mẻ</strong>.</p>",
+      "content_text": "Mưa xuống làm thủ đô (京) trở nên\nmát mẻ\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd07d7f8c1.jpg",
+      "image_path": "assets/images/涼_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154932",
+      "lang": "vi",
+      "content_html": "<p>Kinh đô vảy thêm nước thì mát mẻ</p>",
+      "content_text": "Kinh đô vảy thêm nước thì mát mẻ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154933",
+      "lang": "vi",
+      "content_html": "<p>Thuỷ lấy LƯƠNG xong lên Kinh hóng MÁT</p>",
+      "content_text": "Thuỷ lấy LƯƠNG xong lên Kinh hóng MÁT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154934",
+      "lang": "vi",
+      "content_html": "<p>Thủ đô có nước thì mát mẻ</p>",
+      "content_text": "Thủ đô có nước thì mát mẻ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

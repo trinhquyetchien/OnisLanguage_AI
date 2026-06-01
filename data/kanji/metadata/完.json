@@ -1,0 +1,105 @@
+{
+  "kanji": "完",
+  "meta": {
+    "weight": 709,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [],
+    "am_han": "HOÀN"
+  },
+  "meaning": {
+    "vi": "hoàn hảo, hoàn thành",
+    "en": "perfect, completion, end"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/完.svg"
+  },
+  "frequency": 595,
+  "examples": [
+    "完全",
+    "完成",
+    "完了",
+    "完璧",
+    "補完"
+  ],
+  "explanation": {
+    "id": "1087",
+    "text": "完 (đọc là \"kan\") có nghĩa là \"hoàn thành\", \"kết thúc\" để chỉ trạng thái hoàn thiện hoặc một việc gì đó đã được thực hiện xong.\n\nVí dụ:\n- 完全 (kanzen): Hoàn toàn, đầy đủ.\n- 完成 (kansei): Hoàn t"
+  },
+  "comments": [
+    {
+      "id": "152931",
+      "lang": "vi",
+      "content_html": "<p>Nguyên 1 ngày trong nhà cũng hoàn thành</p>",
+      "content_text": "Nguyên 1 ngày trong nhà cũng hoàn thành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190675",
+      "lang": "vi",
+      "content_html": "<p>làm Nguyên mái nhà là nhiệm vụ Hoàn thành</p>",
+      "content_text": "làm Nguyên mái nhà là nhiệm vụ Hoàn thành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "152932",
+      "lang": "vi",
+      "content_html": "<p>Chồng nói với vợ.<br>Nhà mình (宀) có thêm 2 (二) đứa Trẻ nữa (儿 NHI) <br>==&#62; thì thật HOÀN hảo (完)。 ..性..</p>",
+      "content_text": "Chồng nói với vợ.\nNhà mình (宀) có thêm 2 (二) đứa Trẻ nữa (儿 NHI)\n==> thì thật HOÀN hảo (完)。 ..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152933",
+      "lang": "vi",
+      "content_html": "<p>ở trong nhà nguyên khí hồi phục hoàn toàn</p>",
+      "content_text": "ở trong nhà nguyên khí hồi phục hoàn toàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

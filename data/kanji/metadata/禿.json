@@ -1,0 +1,70 @@
+{
+  "kanji": "禿",
+  "meta": {
+    "weight": 1922,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トク"
+    ],
+    "kun": [
+      "ちび.る",
+      "かむろ",
+      "は.げる",
+      "はげ"
+    ],
+    "am_han": "NGỐC"
+  },
+  "meaning": {
+    "vi": "trở nên hói đầu, trọc lóc, gầy mòn, lãng phí, cô gái nhỏ làm việc tại một nhà chứa",
+    "en": "become bald, bare, wear out, waste away, little girl employed at a brothel"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/禿.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5962",
+    "text": "禿 (đọc là \"haku\" hoặc \"toku\") có nghĩa là \"trọc\", \"hói\" để chỉ tình trạng không có tóc hoặc tóc rụng.  \nVí dụ:  \n- 禿頭 (hakutō): Đầu hói.  \n- 禿げる (hageru): Rụng tóc, hói.  \n- 禿鷹 (hataka): Diề"
+  },
+  "comments": [
+    {
+      "id": "220248",
+      "lang": "vi",
+      "content_html": "<p>Cậu bé 儿 NGỐC ngếch, dùng dầu đội lúa 禾 ,đến nỗi HÓI đầu</p>",
+      "content_text": "Cậu bé 儿 NGỐC ngếch, dùng dầu đội lúa 禾 ,đến nỗi HÓI đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220249",
+      "lang": "vi",
+      "content_html": "<p>Ngốc (禿) mới đi (儿) trồng lúa (禾)</p>",
+      "content_text": "Ngốc (禿) mới đi (儿) trồng lúa (禾)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

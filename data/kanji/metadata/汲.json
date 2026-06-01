@@ -1,0 +1,84 @@
+{
+  "kanji": "汲",
+  "meta": {
+    "weight": 1495,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "く.む"
+    ],
+    "am_han": "CẤP"
+  },
+  "meaning": {
+    "vi": "rút (nước), gáo, xúc, bơm",
+    "en": "draw (water), ladle, scoop, pump"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/汲.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1533",
+    "text": "汲 (đọc là \"kyū\") có nghĩa là \"múc nước\" để chỉ hành động lấy nước từ nguồn nào đó, thường là giếng hoặc ao.\n\nVí dụ:\n- 汲み上げる (kumiageru): Múc lên, kéo nước lên.\n- 汲水 (kyūsui): Múc nước, lấy n"
+  },
+  "comments": [
+    {
+      "id": "219911",
+      "lang": "vi",
+      "content_html": "<p>Ba người hợp sức múc nước trong giếng</p>",
+      "content_text": "Ba người hợp sức múc nước trong giếng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219912",
+      "lang": "vi",
+      "content_html": "<p>cập nhật tình hình cấp nước</p>",
+      "content_text": "cập nhật tình hình cấp nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219913",
+      "lang": "vi",
+      "content_html": "<p>THỦY được PHỔ CẬP để MÚC NƯỚC</p>",
+      "content_text": "THỦY được PHỔ CẬP để MÚC NƯỚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

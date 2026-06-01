@@ -1,0 +1,105 @@
+{
+  "kanji": "談",
+  "meta": {
+    "weight": 2502,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダン"
+    ],
+    "kun": [],
+    "am_han": "ĐÀM"
+  },
+  "meaning": {
+    "vi": "thảo luận, đàm phán",
+    "en": "discuss, talk"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/談.svg"
+  },
+  "frequency": 272,
+  "examples": [
+    "相談",
+    "会談",
+    "冗談",
+    "談",
+    "懇談"
+  ],
+  "explanation": {
+    "id": "5190",
+    "text": "談 (đọc là \"dan\") có nghĩa là \"nói chuyện\", \"thảo luận\" để chỉ các hành động liên quan đến việc trò chuyện hoặc trao đổi thông tin.\n\nVí dụ:\n- 談話 (danwa): Cuộc nói chuyện, cuộc thảo luận.\n- 談判"
+  },
+  "comments": [
+    {
+      "id": "37328",
+      "lang": "vi",
+      "content_html": "<p>Chúng ta hãy<strong> đàm phán</strong> bên đống lửa (火)</p>",
+      "content_text": "Chúng ta hãy\nđàm phán\nbên đống lửa (火)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156952",
+      "lang": "vi",
+      "content_html": "<p>Ngôn từ bốc cháy liên tục là đang đàm thoại</p>",
+      "content_text": "Ngôn từ bốc cháy liên tục là đang đàm thoại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156953",
+      "lang": "vi",
+      "content_html": "<p>đàm thoại bên 2 đốm lửa</p>",
+      "content_text": "đàm thoại bên 2 đốm lửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156954",
+      "lang": "vi",
+      "content_html": "<p>Dùng LỜI NÓI thuyết phục người khác tới đau VIÊM cả cổ họng gọi là ĐÀM phán</p>",
+      "content_text": "Dùng LỜI NÓI thuyết phục người khác tới đau VIÊM cả cổ họng gọi là ĐÀM phán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

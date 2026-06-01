@@ -1,0 +1,88 @@
+{
+  "kanji": "猪",
+  "meta": {
+    "weight": 1720,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョ"
+    ],
+    "kun": [
+      "い",
+      "いのしし"
+    ],
+    "am_han": "TRƯ"
+  },
+  "meaning": {
+    "vi": "heo rừng",
+    "en": "boar"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/猪.svg"
+  },
+  "frequency": 1684,
+  "examples": [
+    "猪",
+    "猪口"
+  ],
+  "explanation": {
+    "id": "20286",
+    "text": "猪 (đọc là \"inoshishi\") có nghĩa là \"lợn rừng\" hoặc \"heo núi\", chỉ loài vật hoang dã sống trong rừng. \n\nVí dụ:\n- 猪肉 (inoshishi niku): Thịt lợn rừng.\n- 猪を狩る (inoshishi o karu): Săn lợn rừng.\n-"
+  },
+  "comments": [
+    {
+      "id": "155287",
+      "lang": "vi",
+      "content_html": "<p>Con chó và người học Giả đi săn heo Rừng</p>",
+      "content_text": "Con chó và người học Giả đi săn heo Rừng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155288",
+      "lang": "vi",
+      "content_html": "<p>thịt heo rừng 猪 giả 者 cầy.</p>",
+      "content_text": "thịt heo rừng 猪 giả 者 cầy.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155289",
+      "lang": "vi",
+      "content_html": "<p>Chó giả làm TRƯ bát giới</p>",
+      "content_text": "Chó giả làm TRƯ bát giới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

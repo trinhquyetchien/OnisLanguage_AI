@@ -1,0 +1,51 @@
+{
+  "kanji": "祐",
+  "meta": {
+    "weight": 1903,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ",
+      "ウ"
+    ],
+    "kun": [
+      "たす.ける"
+    ],
+    "am_han": "HỮU"
+  },
+  "meaning": {
+    "vi": "Cứu giúp",
+    "en": "help"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/祐.svg"
+  },
+  "frequency": 1706,
+  "examples": [],
+  "explanation": {
+    "id": "7781",
+    "text": "祐 (đọc là \"yuu\") có nghĩa là \"trợ giúp\", \"hỗ trợ\" để chỉ các hành động liên quan đến việc giúp đỡ hoặc hỗ trợ người khác.  \nVí dụ:  \n- 祐助 (yuujo): Sự giúp đỡ, hỗ trợ.  \n- 祐める (yuumeru): Giúp"
+  },
+  "comments": [
+    {
+      "id": "155690",
+      "lang": "vi",
+      "content_html": "<p>Thắp nến rồi cầm tay phải nhờ thiên HỮU giúp đỡ</p>",
+      "content_text": "Thắp nến rồi cầm tay phải nhờ thiên HỮU giúp đỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

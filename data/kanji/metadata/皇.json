@@ -1,0 +1,89 @@
+{
+  "kanji": "皇",
+  "meta": {
+    "weight": 1823,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "オウ"
+    ],
+    "kun": [],
+    "am_han": "HOÀNG"
+  },
+  "meaning": {
+    "vi": "Hoàng đế",
+    "en": "emperor"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/皇.svg"
+  },
+  "frequency": 721,
+  "examples": [
+    "天皇",
+    "皇帝",
+    "皇室",
+    "皇太子",
+    "教皇"
+  ],
+  "explanation": {
+    "id": "2505",
+    "text": "皇 (đọc là \"kō\" hoặc \"ō\") có nghĩa là \"hoàng đế\", \"vị vua\" để chỉ những người đứng đầu trong các triều đại, thường liên quan đến quyền lực tối cao và sự tôn kính.  \nVí dụ:  \n- 皇帝 (kōtei): Hoà"
+  },
+  "comments": [
+    {
+      "id": "155509",
+      "lang": "vi",
+      "content_html": "<p>Hoàng đế bạch vương</p>",
+      "content_text": "Hoàng đế bạch vương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155510",
+      "lang": "vi",
+      "content_html": "<p>Ông vua tóc màu trắng thì gọi là tiên hoàng</p>",
+      "content_text": "Ông vua tóc màu trắng thì gọi là tiên hoàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155511",
+      "lang": "vi",
+      "content_html": "<p>Bạch vương =&#62; HOÀNG đế trắng</p>",
+      "content_text": "Bạch vương => HOÀNG đế trắng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

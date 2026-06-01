@@ -1,0 +1,87 @@
+{
+  "kanji": "閥",
+  "meta": {
+    "weight": 2811,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バツ"
+    ],
+    "kun": [],
+    "am_han": "PHIỆT"
+  },
+  "meaning": {
+    "vi": "bè phái, dòng dõi, phả hệ, phe phái, gia tộc",
+    "en": "clique, lineage, pedigree, faction, clan"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/閥.svg"
+  },
+  "frequency": 1072,
+  "examples": [
+    "派閥",
+    "財閥",
+    "閥",
+    "軍閥"
+  ],
+  "explanation": {
+    "id": "6423",
+    "text": "閥 (đọc là \"batsu\") có nghĩa là \"phe phái\", \"nhóm\" để chỉ các nhóm hoặc đảng phái trong xã hội hoặc chính trị.  \nVí dụ:  \n- 閥族 (batsuzoku): Gia tộc, dòng họ có quyền lực.  \n- 閥員 (batsuin): Th"
+  },
+  "comments": [
+    {
+      "id": "157644",
+      "lang": "vi",
+      "content_html": "<p>Trước cổng có người chia bè phái đánh nhau</p>",
+      "content_text": "Trước cổng có người chia bè phái đánh nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157645",
+      "lang": "vi",
+      "content_html": "<p>dưới cổng bọn quân phiệt chuẩn bị đi chinh phạt</p>",
+      "content_text": "dưới cổng bọn quân phiệt chuẩn bị đi chinh phạt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157646",
+      "lang": "vi",
+      "content_html": "<p>Những kẻ tài phiệt đánh nhau để giành cái cửa</p>",
+      "content_text": "Những kẻ tài phiệt đánh nhau để giành cái cửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

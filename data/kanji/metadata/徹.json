@@ -1,0 +1,88 @@
+{
+  "kanji": "徹",
+  "meta": {
+    "weight": 936,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テツ"
+    ],
+    "kun": [],
+    "am_han": "TRIỆT"
+  },
+  "meaning": {
+    "vi": "thâm nhập, rõ ràng, xuyên qua, tấn công nhà, ngồi dậy (cả đêm)",
+    "en": "penetrate, clear, pierce, strike home, sit up (all night)"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/徹.svg"
+  },
+  "frequency": 968,
+  "examples": [
+    "徹底",
+    "徹底的",
+    "徹夜",
+    "貫徹",
+    "徹する"
+  ],
+  "explanation": {
+    "id": "5633",
+    "text": "徹 (đọc là \"tetsu\") có nghĩa là \"thấu hiểu\", \"trong suốt\" hoặc \"quyết tâm\" để chỉ sự sâu sắc, rõ ràng trong việc suy nghĩ hoặc hành động.  \nVí dụ:  \n- 徹底 (tettei): Sự triệt để, đến cùng.  \n- "
+  },
+  "comments": [
+    {
+      "id": "153502",
+      "lang": "vi",
+      "content_html": "<p>Người xưa quán TRIỆT (徹) cách dạy con: luôn ĐI (彳) bên cạnh để giáo DỤC (育) và phải ĐÁNH (攵) nó lúc cần thiết.</p>",
+      "content_text": "Người xưa quán TRIỆT (徹) cách dạy con: luôn ĐI (彳) bên cạnh để giáo DỤC (育) và phải ĐÁNH (攵) nó lúc cần thiết.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153503",
+      "lang": "vi",
+      "content_html": "<p>Đi Giáo Dục là phải TRIỆT để</p>",
+      "content_text": "Đi Giáo Dục là phải TRIỆT để",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153504",
+      "lang": "vi",
+      "content_html": "<p>quán TRIỆT việc Đi(xích)dậy học (dục)bằng việc gõ đầu trẻ con ( phộc ).</p>",
+      "content_text": "quán TRIỆT việc Đi(xích)dậy học (dục)bằng việc gõ đầu trẻ con ( phộc ).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

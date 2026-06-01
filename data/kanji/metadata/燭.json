@@ -1,0 +1,51 @@
+{
+  "kanji": "燭",
+  "meta": {
+    "weight": 1679,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソク",
+      "ショク"
+    ],
+    "kun": [
+      "ともしび"
+    ],
+    "am_han": "CHÚC"
+  },
+  "meaning": {
+    "vi": "ánh sáng, ngọn nến",
+    "en": "light, candlepower"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/燭.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4021",
+    "text": "燭 (đọc là \"shoku\" hoặc \"ろうそく\" / rousoku) có nghĩa là \"nến\", chỉ ánh sáng tạo ra từ ngọn lửa của nến.  \nVí dụ:  \n- 燭台 (しょくだい / shokudai): Đế nến, chân nến.  \n- 燭火 (しょっか / shokka): Ngọn lửa củ"
+  },
+  "comments": [
+    {
+      "id": "220040",
+      "lang": "vi",
+      "content_html": "<p>Bắt côn trùng bỏ vào bao nhìn thấy phát sáng như ngọn lửa Chúc</p>",
+      "content_text": "Bắt côn trùng bỏ vào bao nhìn thấy phát sáng như ngọn lửa Chúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "普",
+  "meta": {
+    "weight": 1239,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "あまね.く",
+      "あまねし"
+    ],
+    "am_han": "PHỔ"
+  },
+  "meaning": {
+    "vi": "thông thường, phổ thông",
+    "en": "universal, wide(ly), generally, Prussia"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/普.svg"
+  },
+  "frequency": 757,
+  "examples": [
+    "普通",
+    "普段",
+    "普及",
+    "普遍",
+    "普段着"
+  ],
+  "explanation": {
+    "id": "6821",
+    "text": "普 (đọc là \"fu\") có nghĩa là \"phổ biến\", \"thông dụng\", chỉ sự lan rộng hoặc áp dụng rộng rãi.  \nVí dụ:  \n- 普通 (futsū): Thông thường, bình thường.  \n- 普及 (fukyū): Phổ cập, mở rộng.  \n- 普遍 (fuh"
+  },
+  "comments": [
+    {
+      "id": "154246",
+      "lang": "vi",
+      "content_html": "<p>Xếp hàng là việc PHỔ biến hằng ngày ở Nhật</p>",
+      "content_text": "Xếp hàng là việc PHỔ biến hằng ngày ở Nhật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154247",
+      "lang": "vi",
+      "content_html": "<p>để đạt tới sự phổ cập thì cần cải cách (tịnh tiến) từng ngày</p>",
+      "content_text": "để đạt tới sự phổ cập thì cần cải cách (tịnh tiến) từng ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154248",
+      "lang": "vi",
+      "content_html": "<p>XẾP HÀNG cả NGÀY nghe PHỔ biến</p>",
+      "content_text": "XẾP HÀNG cả NGÀY nghe PHỔ biến",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

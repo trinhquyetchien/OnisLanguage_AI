@@ -1,0 +1,88 @@
+{
+  "kanji": "暁",
+  "meta": {
+    "weight": 1244,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギョウ",
+      "キョウ"
+    ],
+    "kun": [
+      "あかつき",
+      "さと.る"
+    ],
+    "am_han": "HIỂU"
+  },
+  "meaning": {
+    "vi": "rạng đông, bình minh, trong sự kiện",
+    "en": "daybreak, dawn, in the event"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/暁.svg"
+  },
+  "frequency": 1924,
+  "examples": [
+    "暁"
+  ],
+  "explanation": {
+    "id": "1720",
+    "text": "暁 (đọc là \"gyou\" hoặc \"akatsuki\") có nghĩa là \"bình minh\", \"sáng sớm\" để chỉ thời điểm khi mặt trời bắt đầu mọc, đánh dấu sự khởi đầu của một ngày mới.  \nVí dụ:  \n- 暁に (akatsuki ni): Vào lúc"
+  },
+  "comments": [
+    {
+      "id": "154261",
+      "lang": "vi",
+      "content_html": "<p>30 NGÀY ĐI tìm HIỂU bình minh</p>",
+      "content_text": "30 NGÀY ĐI tìm HIỂU bình minh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154262",
+      "lang": "vi",
+      "content_html": "<p>Tên tổ chức Akatsuki nổi tiếng trong Naruto đó.</p>",
+      "content_text": "Tên tổ chức Akatsuki nổi tiếng trong Naruto đó.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154263",
+      "lang": "vi",
+      "content_html": "<p>nghêu ngao một ngày đàng, hiểu một sàng khôn</p>",
+      "content_text": "nghêu ngao một ngày đàng, hiểu một sàng khôn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

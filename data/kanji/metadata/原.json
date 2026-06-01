@@ -1,0 +1,90 @@
+{
+  "kanji": "原",
+  "meta": {
+    "weight": 410,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲン"
+    ],
+    "kun": [
+      "はら"
+    ],
+    "am_han": "NGUYÊN"
+  },
+  "meaning": {
+    "vi": "nguyên thủy",
+    "en": "meadow, original, primitive, field, plain, prairie, tundra, wilderness"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/原.svg"
+  },
+  "frequency": 172,
+  "examples": [
+    "原因",
+    "原則",
+    "原稿",
+    "原告",
+    "原理"
+  ],
+  "explanation": {
+    "id": "2203",
+    "text": "原 (đọc là \"gen\" hoặc \"hara\") có nghĩa là \"nguồn gốc\", \"căn nguyên\", cũng như chỉ \"đồng bằng\" hoặc \"vùng đất\". \n\nVí dụ:\n- 原因 (gen'in): Nguyên nhân.\n- 原野 (gen'ya): Đồng bằng, vùng đất rộng lớn"
+  },
+  "comments": [
+    {
+      "id": "152222",
+      "lang": "vi",
+      "content_html": "<p>Thảo nguyên được bao trùm bởi những con dốc nhỏ màu trắng</p>",
+      "content_text": "Thảo nguyên được bao trùm bởi những con dốc nhỏ màu trắng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152223",
+      "lang": "vi",
+      "content_html": "<p>Góc nhìn: Sườn núi (厂) bị bạc Trắng (白) và sói mòn Nhỏ đi (小).<br>==&#62; nạn chặt phá rừng chính là NGUYÊN nhân (原) .<br>..性..</p>",
+      "content_text": "Góc nhìn: Sườn núi (厂) bị bạc Trắng (白) và sói mòn Nhỏ đi (小).\n==> nạn chặt phá rừng chính là NGUYÊN nhân (原) .\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152224",
+      "lang": "vi",
+      "content_html": "<p>NGUỒN NGỐC của TIỂU 小 yêu BẠCH 白 Cốt Tinh là ở SƯỜN 厂 đồi</p>",
+      "content_text": "NGUỒN NGỐC của TIỂU 小 yêu BẠCH 白 Cốt Tinh là ở SƯỜN 厂 đồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

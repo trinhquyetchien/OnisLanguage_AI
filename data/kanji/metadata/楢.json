@@ -1,0 +1,33 @@
+{
+  "kanji": "楢",
+  "meta": {
+    "weight": 1396,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ",
+      "ユウ"
+    ],
+    "kun": [
+      "なら"
+    ],
+    "am_han": "DO"
+  },
+  "meaning": {
+    "vi": "cây sồi",
+    "en": "oak"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/楢.svg"
+  },
+  "frequency": 2032,
+  "examples": [],
+  "explanation": {
+    "id": "6062",
+    "text": "楢 (đọc là \"nara\") có nghĩa là \"cây sồi\" để chỉ loại cây thuộc họ Fagaceae, thường được sử dụng trong xây dựng và đồ nội thất.  \nVí dụ:  \n- 楢の木 (nara no ki): Cây sồi.  \n- 楢材 (narazai): Gỗ sồi"
+  },
+  "comments": []
+}

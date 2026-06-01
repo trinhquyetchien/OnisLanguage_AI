@@ -1,0 +1,85 @@
+{
+  "kanji": "誼",
+  "meta": {
+    "weight": 2500,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギ"
+    ],
+    "kun": [
+      "よしみ",
+      "よい"
+    ],
+    "am_han": "NGHỊ"
+  },
+  "meaning": {
+    "vi": "tình bạn, sự thân thiết",
+    "en": "friendship, intimacy"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/誼.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1441",
+    "text": "誼 (đọc là \"gi\") có nghĩa là \"tình bạn\", \"mối quan hệ\" để chỉ sự kết nối, thân thiết giữa con người.\n\nVí dụ:\n- 誼を結ぶ (gi o musubu): Kết bạn, thiết lập mối quan hệ.\n- 友情の誼 (yūjō no gi): Tình bạ"
+  },
+  "comments": [
+    {
+      "id": "220699",
+      "lang": "vi",
+      "content_html": "<p>nói chuyện ngọt ngào dưới mái nhà là tình hữu nghị</p>",
+      "content_text": "nói chuyện ngọt ngào dưới mái nhà là tình hữu nghị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220700",
+      "lang": "vi",
+      "content_html": "<p>Nói chuyện về sự tiện nghi dưới mái nhà chỉ có thể là tình hữu NGHỊ</p>",
+      "content_text": "Nói chuyện về sự tiện nghi dưới mái nhà chỉ có thể là tình hữu NGHỊ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220701",
+      "lang": "vi",
+      "content_html": "<p>Hữu nghị</p>",
+      "content_text": "Hữu nghị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

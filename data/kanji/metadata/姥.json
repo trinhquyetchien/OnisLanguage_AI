@@ -1,0 +1,33 @@
+{
+  "kanji": "姥",
+  "meta": {
+    "weight": 664,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボ",
+      "モ"
+    ],
+    "kun": [
+      "うば"
+    ],
+    "am_han": "MỖ, MỤ"
+  },
+  "meaning": {
+    "vi": "người đàn bà lớn tuổi",
+    "en": "old woman"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/姥.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "332",
+    "text": "姥 (đọc là \"uba\") có nghĩa là \"bà\" hay \"người phụ nữ lớn tuổi\", thường chỉ bà nội hoặc bà ngoại. \n\nVí dụ:\n- 姥捨て山 (ubasute-yama): Núi vứt bỏ bà, một truyền thuyết về việc bỏ rơi người già.\n- 姥"
+  },
+  "comments": []
+}

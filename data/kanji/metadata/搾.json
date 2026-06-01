@@ -1,0 +1,88 @@
+{
+  "kanji": "搾",
+  "meta": {
+    "weight": 1143,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サク"
+    ],
+    "kun": [
+      "しぼ.る"
+    ],
+    "am_han": "TRÁ"
+  },
+  "meaning": {
+    "vi": "vắt kiệt",
+    "en": "squeeze"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/搾.svg"
+  },
+  "frequency": 2046,
+  "examples": [
+    "搾取",
+    "搾り",
+    "搾乳"
+  ],
+  "explanation": {
+    "id": "2891",
+    "text": "搾 (đọc là \"saku\") có nghĩa là \"vắt\", \"chiết xuất\", chỉ hành động lấy chất lỏng từ vật thể nào đó.  \nVí dụ:  \n- 搾乳 (sakunyuu): Vắt sữa.  \n- 搾取 (sakushuu): Chiếm đoạt, bóc lột.  \n- 搾果 (sakuka)"
+  },
+  "comments": [
+    {
+      "id": "154020",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay không ép hoa quả bằng cái cào sưa</p>",
+      "content_text": "Dùng tay không ép hoa quả bằng cái cào sưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154021",
+      "lang": "vi",
+      "content_html": "<p>Tay xảo TRÁ bị ÉP cầm bồ Cào đào Huyệt</p>",
+      "content_text": "Tay xảo TRÁ bị ÉP cầm bồ Cào đào Huyệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154022",
+      "lang": "vi",
+      "content_html": "<p>dùng tay không vắt được cần chi cái cào 3 răng đúng là dối trá</p>",
+      "content_text": "dùng tay không vắt được cần chi cái cào 3 răng đúng là dối trá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

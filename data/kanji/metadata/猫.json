@@ -1,0 +1,90 @@
+{
+  "kanji": "猫",
+  "meta": {
+    "weight": 1721,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビョウ"
+    ],
+    "kun": [
+      "ねこ"
+    ],
+    "am_han": "MIÊU"
+  },
+  "meaning": {
+    "vi": "con mèo",
+    "en": "cat"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/猫.svg"
+  },
+  "frequency": 1702,
+  "examples": [
+    "猫",
+    "子猫",
+    "野良猫",
+    "猫背",
+    "招き猫"
+  ],
+  "explanation": {
+    "id": "6152",
+    "text": "猫 (đọc là \"neko\") có nghĩa là \"mèo\" để chỉ loài động vật mèo, thường được nuôi làm thú cưng hoặc trong văn hóa dân gian Nhật Bản.\n\nVí dụ:\n- 猫耳 (nekomimi): Tai mèo, thường chỉ các phụ kiện ta"
+  },
+  "comments": [
+    {
+      "id": "155290",
+      "lang": "vi",
+      "content_html": "<p>Con chó (犭) xồ vào bụi Cỏ (艹) ngoài Ruộng (田) <br>==&#62; để bắt con Mèo (猫) hoang.<br>..性..</p>",
+      "content_text": "Con chó (犭) xồ vào bụi Cỏ (艹) ngoài Ruộng (田)\n==> để bắt con Mèo (猫) hoang.\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155291",
+      "lang": "vi",
+      "content_html": "<p>Thời trước mèo sống ngoài ruộng hoa</p>",
+      "content_text": "Thời trước mèo sống ngoài ruộng hoa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155292",
+      "lang": "vi",
+      "content_html": "<p>MÈO hoang lang thang trên ĐỒNG CỎ</p>",
+      "content_text": "MÈO hoang lang thang trên ĐỒNG CỎ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

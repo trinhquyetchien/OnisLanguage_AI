@@ -1,0 +1,87 @@
+{
+  "kanji": "赦",
+  "meta": {
+    "weight": 2581,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ"
+    ],
+    "kun": [],
+    "am_han": "XÁ"
+  },
+  "meaning": {
+    "vi": "thứ lỗi, sự tha thứ",
+    "en": "pardon, forgiveness"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/赦.svg"
+  },
+  "frequency": 1868,
+  "examples": [
+    "容赦",
+    "赦し",
+    "赦",
+    "恩赦"
+  ],
+  "explanation": {
+    "id": "3333",
+    "text": "赦 (đọc là \"sha\" hoặc \"yurusu\") có nghĩa là \"tha thứ\", \"miễn tội\" để chỉ hành động tha thứ cho một lỗi lầm hoặc miễn trừ trách nhiệm pháp lý.  \nVí dụ:  \n- 赦免 (shamen): Tha tội, ân xá.  \n- 赦す "
+  },
+  "comments": [
+    {
+      "id": "157145",
+      "lang": "vi",
+      "content_html": "<p>dánh cho đỏ đít rồi mới ân xá</p>",
+      "content_text": "dánh cho đỏ đít rồi mới ân xá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157146",
+      "lang": "vi",
+      "content_html": "<p>Tha thứ cho kẻ tay nhuốm đỏ</p>",
+      "content_text": "Tha thứ cho kẻ tay nhuốm đỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157147",
+      "lang": "vi",
+      "content_html": "<p>「許す」と「赦す」の違い<br><br>「ゆるす」という言葉は一般的には「許す」という表記でよいのですが、「赦す」と表記する場合がありますね。<br><br>「赦す」と表記するのは、次のような場合です。①過失や失敗などを責めないでおく。とがめないことにする。②義務や負担などを引き受けなくて済むようにする。免除する。<br><br>以上、『大辞泉』を参考に回答いたしました。</p>",
+      "content_text": "「許す」と「赦す」の違い\n「ゆるす」という言葉は一般的には「許す」という表記でよいのですが、「赦す」と表記する場合がありますね。\n「赦す」と表記するのは、次のような場合です。①過失や失敗などを責めないでおく。とがめないことにする。②義務や負担などを引き受けなくて済むようにする。免除する。\n以上、『大辞泉』を参考に回答いたしました。",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

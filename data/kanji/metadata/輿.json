@@ -1,0 +1,68 @@
+{
+  "kanji": "輿",
+  "meta": {
+    "weight": 2621,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨ"
+    ],
+    "kun": [
+      "かご",
+      "こし"
+    ],
+    "am_han": "DƯ"
+  },
+  "meaning": {
+    "vi": "kiệu, bier, dư luận, trái đất",
+    "en": "palanquin, bier, public opinion, the earth"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/輿.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7831",
+    "text": "輿 (đọc là \"yo\") có nghĩa là \"xe ngựa\", \"kiệu\" chỉ các phương tiện di chuyển, đặc biệt trong bối cảnh hoàng gia hoặc cao quý.  \nVí dụ:  \n- 輿入れ (koshiire): Lễ rước dâu.  \n- 輿馬 (yobuma): Ngựa k"
+  },
+  "comments": [
+    {
+      "id": "220815",
+      "lang": "vi",
+      "content_html": "<p>oke, giờ mấy em mang cái xe, đem cắm 2 lá cờ yo, rồi để lên phản ha, sau gọi nó là cái miếu DƯ</p>",
+      "content_text": "oke, giờ mấy em mang cái xe, đem cắm 2 lá cờ yo, rồi để lên phản ha, sau gọi nó là cái miếu DƯ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220816",
+      "lang": "vi",
+      "content_html": "<p>Vầng trăng xẻ đôi, dặm trường xe đi, trên có cối xay, thong thả (chữ thả xẻ đôi) ăn uống, đôi điều trò chuyện, dư nửa bát cơm, một ngày không xa ta trở về nhà, thăm vợ ở quê.</p>",
+      "content_text": "Vầng trăng xẻ đôi, dặm trường xe đi, trên có cối xay, thong thả (chữ thả xẻ đôi) ăn uống, đôi điều trò chuyện, dư nửa bát cơm, một ngày không xa ta trở về nhà, thăm vợ ở quê.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

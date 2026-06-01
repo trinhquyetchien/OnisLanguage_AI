@@ -1,0 +1,102 @@
+{
+  "kanji": "掛",
+  "meta": {
+    "weight": 1116,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ",
+      "ケイ"
+    ],
+    "kun": [
+      "か.ける",
+      "-か.ける",
+      "か.け",
+      "-か.け",
+      "-が.け",
+      "か.かる",
+      "-か.かる",
+      "-が.かる",
+      "か.かり",
+      "-が.かり",
+      "かかり",
+      "-がかり"
+    ],
+    "am_han": "QUẢI"
+  },
+  "meaning": {
+    "vi": "treo",
+    "en": "hang, suspend, depend, arrive at, tax, pour"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/掛.svg"
+  },
+  "frequency": 1027,
+  "examples": [
+    "掛け",
+    "仕掛け",
+    "掛かる",
+    "出掛け",
+    "掛ける"
+  ],
+  "explanation": {
+    "id": "955",
+    "text": "掛 (đọc là \"ka\") có nghĩa là \"treo\", \"khóa\" để chỉ hành động treo vật gì đó lên hoặc liên quan đến việc kết nối, gắn kết.  \nVí dụ:  \n- 掛ける (kakeru): Treo, đeo.  \n- 掛かる (kakaru): Được treo, bị"
+  },
+  "comments": [
+    {
+      "id": "153956",
+      "lang": "vi",
+      "content_html": "<p>Có lòng tin mới đưa tay treo 2 miếng đất to(ト</p>",
+      "content_text": "Có lòng tin mới đưa tay treo 2 miếng đất to(ト",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153957",
+      "lang": "vi",
+      "content_html": "<p>tay(扌) to(ト)mới Quải(掛) được 2 mảnh đất(土)</p>",
+      "content_text": "tay(扌) to(ト)mới Quải(掛) được 2 mảnh đất(土)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190687",
+      "lang": "vi",
+      "content_html": "<p>Trao Tay cho người trên người dưới xem Bói thật là Quải</p>",
+      "content_text": "Trao Tay cho người trên người dưới xem Bói thật là Quải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "kanji": "珊",
+  "meta": {
+    "weight": 1738,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン"
+    ],
+    "kun": [
+      "センチ",
+      "さんち"
+    ],
+    "am_han": "SAN"
+  },
+  "meaning": {
+    "vi": "san hô, cm",
+    "en": "coral, centimeter"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/珊.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3003",
+    "text": "珊 (đọc là \"san\") có nghĩa là \"san hô\", chỉ các loài sinh vật biển thuộc họ san hô hoặc các vật phẩm liên quan đến san hô.  \nVí dụ:  \n- 珊瑚 (sango): San hô.  \n- 珊瑚礁 (sangojou): Rạn san hô.  \n-"
+  },
+  "comments": [
+    {
+      "id": "220084",
+      "lang": "vi",
+      "content_html": "<p>Nhà vua có quyển sách về loài SAN hô</p>",
+      "content_text": "Nhà vua có quyển sách về loài SAN hô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

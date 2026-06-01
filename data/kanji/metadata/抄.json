@@ -1,0 +1,86 @@
+{
+  "kanji": "抄",
+  "meta": {
+    "weight": 1056,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "SAO"
+  },
+  "meaning": {
+    "vi": "trích xuất, lựa chọn, tóm tắt, sao chép, trải mỏng",
+    "en": "extract, selection, summary, copy, spread thin"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/抄.svg"
+  },
+  "frequency": 2328,
+  "examples": [
+    "抄",
+    "抄録",
+    "抄訳"
+  ],
+  "explanation": {
+    "id": "3812",
+    "text": "抄 (đọc là \"shō\") có nghĩa là \"chép lại\", \"sao chép\" để chỉ hành động sao lại một văn bản hoặc tài liệu nào đó.\n\nVí dụ:\n- 抄録 (shōroku): Bản tóm tắt, bản sao.\n- 抄写 (shōsha): Sao chép, chép lại"
+  },
+  "comments": [
+    {
+      "id": "153808",
+      "lang": "vi",
+      "content_html": "<p>dùng tay viết chữ thật nhỏ để sao chép tài liệu</p>",
+      "content_text": "dùng tay viết chữ thật nhỏ để sao chép tài liệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153809",
+      "lang": "vi",
+      "content_html": "<p>SAO lại 1 ít Thủ thuật</p>",
+      "content_text": "SAO lại 1 ít Thủ thuật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153810",
+      "lang": "vi",
+      "content_html": "<p>Thiếu(少) tay(手) SAO (抄) chép bài ?</p>",
+      "content_text": "Thiếu(少) tay(手) SAO (抄) chép bài ?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

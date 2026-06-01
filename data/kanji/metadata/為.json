@@ -1,0 +1,96 @@
+{
+  "kanji": "為",
+  "meta": {
+    "weight": 1651,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "ため",
+      "な.る",
+      "な.す",
+      "す.る",
+      "たり",
+      "つく.る",
+      "なり"
+    ],
+    "am_han": "VI"
+  },
+  "meaning": {
+    "vi": "làm, thay đổi, thực hiện, lợi ích, phúc lợi, được sử dụng, tiếp cận, cố gắng, thực hành, chi phí, phục vụ như, tốt, lợi thế, do kết quả của",
+    "en": "do, change, make, benefit, welfare, be of use, reach to, try, practice, cost, serve as, good, advantage, as a result of"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/為.svg"
+  },
+  "frequency": 831,
+  "examples": [
+    "行為",
+    "為",
+    "為替",
+    "人為",
+    "外為"
+  ],
+  "explanation": {
+    "id": "155",
+    "text": "為 (đọc là \"i\" hoặc \"tamaru\") có nghĩa là \"làm\", \"trở thành\", chỉ các hành động liên quan đến việc tạo ra hoặc thực hiện một cái gì đó.\n\nVí dụ:\n- 為替 (kawase): Tỷ giá hối đoái.\n- 為になる (i ni na"
+  },
+  "comments": [
+    {
+      "id": "155159",
+      "lang": "vi",
+      "content_html": "<p>Đốt lửa dưới ruộng bậc thang là hành vi phá hoại</p>",
+      "content_text": "Đốt lửa dưới ruộng bậc thang là hành vi phá hoại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155160",
+      "lang": "vi",
+      "content_html": "<p>với mục đích vì nhân loại chúng sinh, mà những ngừoi tu<br>hành sẵn sàng leo qua từng bậc thang ユユユ để lên đến điểm<br>đỉnh cao nhất của sự tu hành (nét chấm trên cùng) cho dù có trải<br>qua khổ đâu (lửa 灬 đốt dưới chân). Việc làm mà họ thực hiện<br>thật phi thường.</p>",
+      "content_text": "với mục đích vì nhân loại chúng sinh, mà những ngừoi tu\nhành sẵn sàng leo qua từng bậc thang ユユユ để lên đến điểm\nđỉnh cao nhất của sự tu hành (nét chấm trên cùng) cho dù có trải\nqua khổ đâu (lửa 灬 đốt dưới chân). Việc làm mà họ thực hiện\nthật phi thường.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155161",
+      "lang": "vi",
+      "content_html": "<p>Minhthangtin tưởng tượng thật phi thường, VI diệu. Cứ tưởng tượng con ốc vặn có 4 cái chân tòi ra đang bò thật là VI diệu</p>",
+      "content_text": "Minhthangtin tưởng tượng thật phi thường, VI diệu. Cứ tưởng tượng con ốc vặn có 4 cái chân tòi ra đang bò thật là VI diệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

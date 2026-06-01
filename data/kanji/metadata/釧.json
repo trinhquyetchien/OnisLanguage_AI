@@ -1,0 +1,33 @@
+{
+  "kanji": "釧",
+  "meta": {
+    "weight": 2744,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "くしろ",
+      "うでわ"
+    ],
+    "am_han": "XUYẾN"
+  },
+  "meaning": {
+    "vi": "Vòng đeo tay",
+    "en": "bracelet"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/釧.svg"
+  },
+  "frequency": 1751,
+  "examples": [],
+  "explanation": {
+    "id": "1863",
+    "text": "釧 (đọc là \"sen\") có nghĩa là \"vòng tay\" hoặc \"vòng đeo tay\", chỉ các vật dụng trang sức hoặc đồ dùng liên quan đến tay. \n\nVí dụ:\n- 釧輪 (senrin): Nhẫn tay, vòng tay.\n- 釧形 (sengata): Hình dạng "
+  },
+  "comments": []
+}

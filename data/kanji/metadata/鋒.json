@@ -1,0 +1,34 @@
+{
+  "kanji": "鋒",
+  "meta": {
+    "weight": 2762,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "きっさき",
+      "とかり",
+      "ほこさき"
+    ],
+    "am_han": "PHONG"
+  },
+  "meaning": {
+    "vi": "dao găm, mũi kiếm, xe lễ hội, phao",
+    "en": "dagger, sword's point, festival car, float"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/鋒.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7230",
+    "text": "鋒 (đọc là \"hō\") có nghĩa là \"lưỡi dao\" hoặc \"đầu nhọn\", thường chỉ những vật sắc bén, như lưỡi kiếm hoặc mũi nhọn của vũ khí.\n\nVí dụ:\n- 鋒刃 (hōjin): Lưỡi sắc, lưỡi dao.\n- 鋒の立つ (hō no tatsu): "
+  },
+  "comments": []
+}

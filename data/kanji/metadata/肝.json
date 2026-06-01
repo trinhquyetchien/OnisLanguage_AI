@@ -1,0 +1,90 @@
+{
+  "kanji": "肝",
+  "meta": {
+    "weight": 2170,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "きも"
+    ],
+    "am_han": "CAN"
+  },
+  "meaning": {
+    "vi": "gan, nhổ, thần kinh, chutzpah",
+    "en": "liver, pluck, nerve, chutzpah"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/肝.svg"
+  },
+  "frequency": 1118,
+  "examples": [
+    "肝心",
+    "肝",
+    "肝臓",
+    "肝炎",
+    "肝要"
+  ],
+  "explanation": {
+    "id": "1171",
+    "text": "肝 (đọc là \"kan\") có nghĩa là \"gan\" để chỉ cơ quan trong cơ thể hoặc ý chí, bản lĩnh của một người.  \nVí dụ:  \n- 肝臓 (kanzō): Gan (cơ quan).  \n- 肝心 (kanjin): Quan trọng, cốt lõi (ý chỉ điều gì"
+  },
+  "comments": [
+    {
+      "id": "156268",
+      "lang": "vi",
+      "content_html": "<p>Phần thịt khô khan trong cơ thể là gan( bộ nguyệt khi nào cũng chỉ bộ phận thịt trong cơ thể người)</p>",
+      "content_text": "Phần thịt khô khan trong cơ thể là gan( bộ nguyệt khi nào cũng chỉ bộ phận thịt trong cơ thể người)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156269",
+      "lang": "vi",
+      "content_html": "<p>Công nhận gan luộc ăn khô thật :c</p>",
+      "content_text": "Công nhận gan luộc ăn khô thật :c",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156270",
+      "lang": "vi",
+      "content_html": "<p>bộ thủ giống chữ nguyệt, nhưng là bộ Nhục. bộ Nhục chỉ những từ liên quan đến thịt, cơ quan, cơ thể người</p>",
+      "content_text": "bộ thủ giống chữ nguyệt, nhưng là bộ Nhục. bộ Nhục chỉ những từ liên quan đến thịt, cơ quan, cơ thể người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "kanji": "矛",
+  "meta": {
+    "weight": 1857,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ム",
+      "ボウ"
+    ],
+    "kun": [
+      "ほこ"
+    ],
+    "am_han": "MÂU"
+  },
+  "meaning": {
+    "vi": "dây, cánh tay, lễ hội phao",
+    "en": "halberd, arms, festival float"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/矛.svg"
+  },
+  "frequency": 1538,
+  "examples": [
+    "矛盾",
+    "矛先",
+    "矛"
+  ],
+  "explanation": {
+    "id": "7524",
+    "text": "矛 (đọc là \"mō\") có nghĩa là \"mác\", \"giáo\" để chỉ các loại vũ khí nhọn, đặc biệt là vũ khí dùng để đâm hoặc chém. \n\nVí dụ:\n- 矛盾 (mujun): Mâu thuẫn, sự phản đối nhau giữa hai điều.\n- 矛先 (mōsak"
+  },
+  "comments": [
+    {
+      "id": "155602",
+      "lang": "vi",
+      "content_html": "<p>Quỷ xà MÂU là một con MA (マ) cầm Ô (オ)</p>",
+      "content_text": "Quỷ xà MÂU là một con MA (マ) cầm Ô (オ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155603",
+      "lang": "vi",
+      "content_html": "<p>cắt ngang dự định xảy ra mâu thuẫn</p>",
+      "content_text": "cắt ngang dự định xảy ra mâu thuẫn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155604",
+      "lang": "vi",
+      "content_html": "<p>Ma cầm ô ah. Thật mâu thuẫn</p>",
+      "content_text": "Ma cầm ô ah. Thật mâu thuẫn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

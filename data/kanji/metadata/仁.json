@@ -1,0 +1,90 @@
+{
+  "kanji": "仁",
+  "meta": {
+    "weight": 133,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジン",
+      "ニ",
+      "ニン"
+    ],
+    "kun": [],
+    "am_han": "NHÂN"
+  },
+  "meaning": {
+    "vi": "nhân loại, đức hạnh, nhân từ, bác ái, con người, hạt nhân",
+    "en": "humanity, virtue, benevolence, charity, man, kernel"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/仁.svg"
+  },
+  "frequency": 1332,
+  "examples": [
+    "仁",
+    "仁義",
+    "杏仁",
+    "御仁",
+    "仁川"
+  ],
+  "explanation": {
+    "id": "4147",
+    "text": "仁 (đọc là \"jin\" hoặc \"ni\") có nghĩa là \"nhân ái\", \"tình người\", chỉ lòng tốt và sự từ bi đối với người khác. \n\nVí dụ:\n- 仁義 (jingi): Nhân nghĩa, đạo lý.\n- 仁愛 (jin'ai): Tình yêu thương nhân lo"
+  },
+  "comments": [
+    {
+      "id": "151521",
+      "lang": "vi",
+      "content_html": "<p>Giữa hai<br>con người với nhau luôn phải có lòng nhân đạo và nhân nghĩa.</p>",
+      "content_text": "Giữa hai\ncon người với nhau luôn phải có lòng nhân đạo và nhân nghĩa.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151522",
+      "lang": "vi",
+      "content_html": "<p>Nhân nghĩa là chuyện giữa 2 người</p>",
+      "content_text": "Nhân nghĩa là chuyện giữa 2 người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151523",
+      "lang": "vi",
+      "content_html": "<p>Người đứng thứ 2 là người NHÂN nghĩa</p>",
+      "content_text": "Người đứng thứ 2 là người NHÂN nghĩa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

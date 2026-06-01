@@ -1,0 +1,90 @@
+{
+  "kanji": "茨",
+  "meta": {
+    "weight": 2277,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ",
+      "ジ"
+    ],
+    "kun": [
+      "いばら",
+      "かや",
+      "くさぶき"
+    ],
+    "am_han": "TỲ"
+  },
+  "meaning": {
+    "vi": "briar, gai",
+    "en": "briar, thorn"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/茨.svg"
+  },
+  "frequency": 1203,
+  "examples": [
+    "茨城",
+    "茨"
+  ],
+  "explanation": {
+    "id": "227",
+    "text": "茨 (đọc là \"tachi\" hoặc \"iba\") có nghĩa là \"gai\", \"mác\". Từ này thường chỉ những loại cây có gai hoặc những điều khó khăn, đau đớn.\n\nVí dụ:\n- 茨の道 (iba no michi): Con đường đầy chông gai, khó "
+  },
+  "comments": [
+    {
+      "id": "156512",
+      "lang": "vi",
+      "content_html": "<p>tiếp theo là loại cỏ Tì, hình dáng trông như cái gai</p>",
+      "content_text": "tiếp theo là loại cỏ Tì, hình dáng trông như cái gai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156513",
+      "lang": "vi",
+      "content_html": "<p>cô giáo thảo bị thằng thứ Tì Cái Gai vào người ra nước.</p>",
+      "content_text": "cô giáo thảo bị thằng thứ Tì Cái Gai vào người ra nước.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156514",
+      "lang": "vi",
+      "content_html": "<p>THỨ bậc mà như CỎ rác là nô TÌ</p>",
+      "content_text": "THỨ bậc mà như CỎ rác là nô TÌ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

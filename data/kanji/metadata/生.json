@@ -1,0 +1,108 @@
+{
+  "kanji": "生",
+  "meta": {
+    "weight": 1768,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "い.きる",
+      "い.かす",
+      "い.ける",
+      "う.まれる",
+      "うま.れる",
+      "う.まれ",
+      "うまれ",
+      "う.む",
+      "お.う",
+      "は.える",
+      "は.やす",
+      "き",
+      "なま",
+      "なま-",
+      "な.る",
+      "な.す",
+      "む.す",
+      "-う"
+    ],
+    "am_han": "SINH"
+  },
+  "meaning": {
+    "vi": "sinh sống",
+    "en": "life, genuine, birth"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/生.svg"
+  },
+  "frequency": 29,
+  "examples": [
+    "先生",
+    "生活",
+    "学生",
+    "生産",
+    "人生"
+  ],
+  "explanation": {
+    "id": "4329",
+    "text": "生 (đọc là \"sei\" hoặc \"shō\") có nghĩa là \"sống\", \"sinh ra\", chỉ sự sống và quá trình sinh trưởng. \n\nVí dụ:\n- 生まれる (umareru): Được sinh ra.\n- 生命 (seimei): Sự sống, sinh mệnh.\n- 学生 (gakusei): H"
+  },
+  "comments": [
+    {
+      "id": "552",
+      "lang": "vi",
+      "content_html": "<p>Cây cối được <strong>sinh </strong>ra từ mặt đất (土).</p>",
+      "content_text": "Cây cối được\nsinh\nra từ mặt đất (土).",
+      "image_url": "https://jpdictionary.com/upload/images/62977d71c04ce.jpg",
+      "image_path": "assets/images/生_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191115",
+      "lang": "vi",
+      "content_html": "<p><strong>sinh </strong>- 生む</p>",
+      "content_text": "sinh\n- 生む",
+      "image_url": "https://jpdictionary.com/upload/images/648ac3390c502.jpg",
+      "image_path": "assets/images/生_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158336",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5<br>学生 (がくせい): học sinh<br>生徒 (せいと): học sinh<br>先生 (せんせい): giáo viên, bác sĩ<br>誕生日 (たんじょうび): sinh nhật<br>留学生 (りゅうがくせい): du học sinh</p><p>生まれる (うまれる): được sinh ra</p>",
+      "content_text": "JLPT N5\n学生 (がくせい): học sinh\n生徒 (せいと): học sinh\n先生 (せんせい): giáo viên, bác sĩ\n誕生日 (たんじょうび): sinh nhật\n留学生 (りゅうがくせい): du học sinh\n生まれる (うまれる): được sinh ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

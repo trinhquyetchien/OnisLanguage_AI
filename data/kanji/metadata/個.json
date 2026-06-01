@@ -1,0 +1,106 @@
+{
+  "kanji": "個",
+  "meta": {
+    "weight": 209,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ",
+      "カ"
+    ],
+    "kun": [],
+    "am_han": "CÁ"
+  },
+  "meaning": {
+    "vi": "cá nhân, cá thể",
+    "en": "individual, counter for articles"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/個.svg"
+  },
+  "frequency": 451,
+  "examples": [
+    "個人",
+    "個",
+    "個別",
+    "個性",
+    "個々"
+  ],
+  "explanation": {
+    "id": "2246",
+    "text": "個 (đọc là \"ko\") có nghĩa là \"cá nhân\", \"mỗi cái\" để chỉ sự phân chia, đơn vị đếm cho các vật thể riêng lẻ.\nVí dụ:\n- 個人 (kojin): Cá nhân, người riêng lẻ.\n- 一個 (ikko): Một cái, một món.\n- 物個 ("
+  },
+  "comments": [
+    {
+      "id": "37020",
+      "lang": "vi",
+      "content_html": "<p>Mỗi <strong>cá nhân</strong> đều có một niềm tin vững chắc (固).</p>",
+      "content_text": "Mỗi\ncá nhân\nđều có một niềm tin vững chắc (固).",
+      "image_url": "https://jpdictionary.com/upload/images/62bc50290c59c.jpg",
+      "image_path": "assets/images/個_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151714",
+      "lang": "vi",
+      "content_html": "<p>Mỗi người có 1 tính cách cố định</p>",
+      "content_text": "Mỗi người có 1 tính cách cố định",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151715",
+      "lang": "vi",
+      "content_html": "<p>mỗi Cá Nhân đều mang trong mình bản chất Cố hữu</p>",
+      "content_text": "mỗi Cá Nhân đều mang trong mình bản chất Cố hữu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158681",
+      "lang": "vi",
+      "content_html": "<p>何個 (なんこ): mấy cái (vật nhỏ)</p><p>Trả lời: số đếm + 個 (こ)</p><p>Ngoại lệ:</p><p>1個: いっこ</p><p>6個: ろっこ</p><p>8個: はっこ</p><p>10個: じゅっこ</p>",
+      "content_text": "何個 (なんこ): mấy cái (vật nhỏ)\nTrả lời: số đếm + 個 (こ)\nNgoại lệ:\n1個: いっこ\n6個: ろっこ\n8個: はっこ\n10個: じゅっこ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

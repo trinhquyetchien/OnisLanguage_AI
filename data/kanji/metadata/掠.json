@@ -1,0 +1,87 @@
+{
+  "kanji": "掠",
+  "meta": {
+    "weight": 1117,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リャク",
+      "リョウ"
+    ],
+    "kun": [
+      "かす.める",
+      "かす.る",
+      "かす.れる"
+    ],
+    "am_han": "LƯỢC"
+  },
+  "meaning": {
+    "vi": "cướp bóc, ăn cỏ, lướt qua, quét qua, gian lận, gợi ý",
+    "en": "pillage, rob, graze, skim, sweep over, cheat, hint"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/掠.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8044",
+    "text": "掠 (đọc là \"ryaku\") có nghĩa là \"cướp\", \"lướt qua\" để chỉ các hành động liên quan đến việc lấy đi một cách nhanh chóng hoặc nhẹ nhàng.\n\nVí dụ:\n- 掠奪 (ryakudatsu): Cướp bóc, chiếm đoạt.\n- 掠める ("
+  },
+  "comments": [
+    {
+      "id": "219627",
+      "lang": "vi",
+      "content_html": "<p>Một tay cầm Lược che mờ kinh đô</p>",
+      "content_text": "Một tay cầm Lược che mờ kinh đô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219628",
+      "lang": "vi",
+      "content_html": "<p>Tay này cũng Kinh đấy, giám Xâm Lược cơ ak.</p>",
+      "content_text": "Tay này cũng Kinh đấy, giám Xâm Lược cơ ak.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219629",
+      "lang": "vi",
+      "content_html": "<p>Tay xâm lược kinh đô</p>",
+      "content_text": "Tay xâm lược kinh đô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

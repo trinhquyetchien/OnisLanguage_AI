@@ -1,0 +1,52 @@
+{
+  "kanji": "曙",
+  "meta": {
+    "weight": 1255,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショ"
+    ],
+    "kun": [
+      "あけぼの"
+    ],
+    "am_han": "THỰ"
+  },
+  "meaning": {
+    "vi": "bình minh, rạng đông",
+    "en": "dawn, daybreak"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/曙.svg"
+  },
+  "frequency": 1518,
+  "examples": [
+    "曙"
+  ],
+  "explanation": {
+    "id": "3691",
+    "text": "曙 (đọc là \"shoku\" hoặc \"akatsuki\") có nghĩa là \"ánh sáng ban mai\", chỉ thời điểm bình minh hoặc sự khởi đầu mới.  \nVí dụ:  \n- 曙光 (shokou): Ánh sáng bình minh, ánh sáng đầu ngày.  \n- 曙の海 (aka"
+  },
+  "comments": [
+    {
+      "id": "154295",
+      "lang": "vi",
+      "content_html": "<p>Mặt trời chiếu bên biệt THỰ lúc rạng đông</p>",
+      "content_text": "Mặt trời chiếu bên biệt THỰ lúc rạng đông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

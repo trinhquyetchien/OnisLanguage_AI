@@ -1,0 +1,88 @@
+{
+  "kanji": "了",
+  "meta": {
+    "weight": 109,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [],
+    "am_han": "LIỄU"
+  },
+  "meaning": {
+    "vi": "hoàn thành, kết thúc",
+    "en": "complete, finish"
+  },
+  "stroke": {
+    "count": 2,
+    "svg": "assets/svg/了.svg"
+  },
+  "frequency": 792,
+  "examples": [
+    "終了",
+    "完了",
+    "了承",
+    "了解",
+    "了"
+  ],
+  "explanation": {
+    "id": "8089",
+    "text": "了 (đọc là \"ryou\" hoặc \"shita\") có nghĩa là \"hoàn thành\", \"xong\", dùng để chỉ trạng thái đã xảy ra hoặc kết thúc một hành động.\n\nVí dụ:\n- 了解 (ryoukai): Hiểu biết, nhận thức.\n- 完了 (kanryou): H"
+  },
+  "comments": [
+    {
+      "id": "151475",
+      "lang": "vi",
+      "content_html": "<p>lá liễu mỏng manh</p>",
+      "content_text": "lá liễu mỏng manh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151476",
+      "lang": "vi",
+      "content_html": "<p>ア katakana là sự bắt đầu cũng là kết LIỄU</p>",
+      "content_text": "ア katakana là sự bắt đầu cũng là kết LIỄU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151477",
+      "lang": "vi",
+      "content_html": "<p>Liễu thì mỏng manh làm sao Quyết định được sự Kết thúc.</p>",
+      "content_text": "Liễu thì mỏng manh làm sao Quyết định được sự Kết thúc.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "位",
+  "meta": {
+    "weight": 169,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "くらい",
+      "ぐらい"
+    ],
+    "am_han": "VỊ"
+  },
+  "meaning": {
+    "vi": "vị trí, tước vị",
+    "en": "rank, grade, throne, crown, about, some"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/位.svg"
+  },
+  "frequency": 276,
+  "examples": [
+    "位",
+    "位置",
+    "単位",
+    "地位",
+    "上位"
+  ],
+  "explanation": {
+    "id": "116",
+    "text": "位 (đọc là \"i\") có nghĩa là \"vị trí\", \"địa vị\" để chỉ các khái niệm liên quan đến vị trí, cấp bậc trong xã hội hoặc trong một tổ chức.\n\nVí dụ:\n- 位 (kurai): Cấp bậc, địa vị.\n- 地位 (chii): Địa v"
+  },
+  "comments": [
+    {
+      "id": "151614",
+      "lang": "vi",
+      "content_html": "<p>người đứng một mình là vị trí cao nhất</p>",
+      "content_text": "người đứng một mình là vị trí cao nhất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151615",
+      "lang": "vi",
+      "content_html": "<p>Một người tự thân thành LẬP sẽ có địa VỊ trong xã hội</p>",
+      "content_text": "Một người tự thân thành LẬP sẽ có địa VỊ trong xã hội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151616",
+      "lang": "vi",
+      "content_html": "<p>1 mình tự lập sẽ tìm thấy địa VỊ của chính mình</p>",
+      "content_text": "1 mình tự lập sẽ tìm thấy địa VỊ của chính mình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

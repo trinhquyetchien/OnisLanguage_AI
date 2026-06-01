@@ -1,0 +1,33 @@
+{
+  "kanji": "駈",
+  "meta": {
+    "weight": 2950,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ク"
+    ],
+    "kun": [
+      "か.ける",
+      "か.る"
+    ],
+    "am_han": "KHU"
+  },
+  "meaning": {
+    "vi": "chạy, phi nước đại, tiến lên",
+    "en": "run, gallop, advance"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/駈.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1835",
+    "text": "駈 (đọc là \"kaku\") có nghĩa là \"chạy\", \"đi nhanh\", thường chỉ các hành động liên quan đến việc di chuyển hoặc cưỡi ngựa.  \nVí dụ:  \n- 駈足 (kakuashi): Chạy nhanh, di chuyển vội vàng.  \n- 駈る (ka"
+  },
+  "comments": []
+}

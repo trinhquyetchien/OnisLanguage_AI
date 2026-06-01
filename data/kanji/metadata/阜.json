@@ -1,0 +1,85 @@
+{
+  "kanji": "阜",
+  "meta": {
+    "weight": 2815,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ",
+      "フウ"
+    ],
+    "kun": [],
+    "am_han": "PHỤ"
+  },
+  "meaning": {
+    "vi": "đồi, gò, căn làng bên trái (số 170)",
+    "en": "hill, mound, left village radical (no. 170)"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/阜.svg"
+  },
+  "frequency": 1532,
+  "examples": [
+    "岐阜"
+  ],
+  "explanation": {
+    "id": "6855",
+    "text": "阜 (đọc là \"buku\" hoặc \"fu\") có nghĩa là \"đồi\" hoặc \"mặt đất cao\". Chữ này thường xuất hiện trong các từ chỉ địa lý hoặc cấu trúc địa hình.\n\nVí dụ:\n- 阜陽 (Fuyō): Tên một thành phố ở Trung Quốc"
+  },
+  "comments": [
+    {
+      "id": "157657",
+      "lang": "vi",
+      "content_html": "<p>10 ông quan phụ mẫu đứng trên gò đất</p>",
+      "content_text": "10 ông quan phụ mẫu đứng trên gò đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157658",
+      "lang": "vi",
+      "content_html": "<p>Quan PHỤ mẫu đứng trên GÒ ĐẤT</p>",
+      "content_text": "Quan PHỤ mẫu đứng trên GÒ ĐẤT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157659",
+      "lang": "vi",
+      "content_html": "<p>10 ông quan phụ mẫu đang ở trên quả đồi lớn</p>",
+      "content_text": "10 ông quan phụ mẫu đang ở trên quả đồi lớn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

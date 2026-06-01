@@ -1,0 +1,91 @@
+{
+  "kanji": "光",
+  "meta": {
+    "weight": 261,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "ひか.る",
+      "ひかり"
+    ],
+    "am_han": "QUANG"
+  },
+  "meaning": {
+    "vi": "ánh sáng, quang minh",
+    "en": "ray, light"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/光.svg"
+  },
+  "frequency": 527,
+  "examples": [
+    "光",
+    "観光",
+    "光景",
+    "栄光",
+    "光る"
+  ],
+  "explanation": {
+    "id": "2383",
+    "text": "光 (đọc là \"hikari\" hoặc \"kou\") có nghĩa là \"ánh sáng\", \"sáng\". Nó chỉ các khái niệm liên quan đến ánh sáng, sự chiếu sáng hoặc điều tốt đẹp.\n\nVí dụ:\n- 光線 (kōsen): Tia sáng.\n- 光る (hikaru): Ph"
+  },
+  "comments": [
+    {
+      "id": "190893",
+      "lang": "vi",
+      "content_html": "<p><strong>ánh sáng</strong></p>",
+      "content_text": "ánh sáng",
+      "image_url": "https://jpdictionary.com/upload/images/648a653204352.jpg",
+      "image_path": "assets/images/光_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "1055",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng <strong>tia sáng</strong>.</p>",
+      "content_text": "Hình dạng\ntia sáng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62a1fb193bfde.jpg",
+      "image_path": "assets/images/光_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151846",
+      "lang": "vi",
+      "content_html": "<p>CON NGƯỜI ĐI đâu cũng cần có cái đầu SÁNG suốt (QUANG)</p>",
+      "content_text": "CON NGƯỜI ĐI đâu cũng cần có cái đầu SÁNG suốt (QUANG)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

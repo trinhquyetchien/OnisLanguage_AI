@@ -1,0 +1,109 @@
+{
+  "kanji": "富",
+  "meta": {
+    "weight": 737,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ",
+      "フウ"
+    ],
+    "kun": [
+      "と.む",
+      "とみ"
+    ],
+    "am_han": "PHÚ"
+  },
+  "meaning": {
+    "vi": "giàu có, phú hộ",
+    "en": "wealth, enrich, abundant"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/富.svg"
+  },
+  "frequency": 644,
+  "examples": [
+    "豊富",
+    "富",
+    "富山",
+    "富士山",
+    "富裕"
+  ],
+  "explanation": {
+    "id": "6797",
+    "text": "富 (đọc là \"fu\") có nghĩa là \"giàu có\", \"sự phong phú\" để chỉ trạng thái hoặc tình trạng sở hữu nhiều tài sản, vật chất hay tài nguyên.  \nVí dụ:  \n- 富士山 (Fujisan): Núi Phú Sĩ.  \n- 富豪 (hugo): "
+  },
+  "comments": [
+    {
+      "id": "153001",
+      "lang": "vi",
+      "content_html": "<p>Triệu PHÚ là người ngồi trong nhà thôi, miệng nói một lời là kẻ hầu chạy ra RUỘNG làm việc hết</p>",
+      "content_text": "Triệu PHÚ là người ngồi trong nhà thôi, miệng nói một lời là kẻ hầu chạy ra RUỘNG làm việc hết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190677",
+      "lang": "vi",
+      "content_html": "<p>Dưới mái nhà mà dán chữ Phúc thì chắc là Phú hộ</p>",
+      "content_text": "Dưới mái nhà mà dán chữ Phúc thì chắc là Phú hộ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "153002",
+      "lang": "vi",
+      "content_html": "<p>Nhà nào có 10 thửa ruộng xếp hạng phú ông</p>",
+      "content_text": "Nhà nào có 10 thửa ruộng xếp hạng phú ông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153003",
+      "lang": "vi",
+      "content_html": "<p>trời Phú nhà có 10 miếng ruộng</p>",
+      "content_text": "trời Phú nhà có 10 miếng ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "稽",
+  "meta": {
+    "weight": 1945,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "かんが.える",
+      "とど.める"
+    ],
+    "am_han": "KÊ, KHỂ"
+  },
+  "meaning": {
+    "vi": "suy nghĩ, cân nhắc",
+    "en": "think, consider"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/稽.svg"
+  },
+  "frequency": 2372,
+  "examples": [
+    "稽古",
+    "滑稽",
+    "お稽古",
+    "荒唐無稽"
+  ],
+  "explanation": {
+    "id": "1996",
+    "text": "稽 (đọc là \"kei\") có nghĩa là \"kiểm tra\", \"thẩm tra\" hoặc \"học hỏi\". Chữ này thường được sử dụng trong ngữ cảnh liên quan đến việc kiểm tra, đánh giá hoặc nghiên cứu.\n\nVí dụ:\n- 稽古 (keiko): Họ"
+  },
+  "comments": [
+    {
+      "id": "155781",
+      "lang": "vi",
+      "content_html": "<p>Hoà khổ luyện vơis con chó giữa mặt trời nóng bức nhưng vẫn cười hi</p>",
+      "content_text": "Hoà khổ luyện vơis con chó giữa mặt trời nóng bức nhưng vẫn cười hi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155782",
+      "lang": "vi",
+      "content_html": "<p>hoà chỉ cho con chó cách khấu đầu là kê</p>",
+      "content_text": "hoà chỉ cho con chó cách khấu đầu là kê",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155783",
+      "lang": "vi",
+      "content_html": "<p>cơm nấu với thịt chó chỉ có khê , kê</p>",
+      "content_text": "cơm nấu với thịt chó chỉ có khê , kê",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "kanji": "潰",
+  "meta": {
+    "weight": 1623,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ",
+      "エ"
+    ],
+    "kun": [
+      "つぶ.す",
+      "つぶ.れる",
+      "つい.える"
+    ],
+    "am_han": "HỘI"
+  },
+  "meaning": {
+    "vi": "nghiền nát, đập vỡ, phá vỡ, tiêu tan",
+    "en": "crush, smash, break, dissipate"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/潰.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5497",
+    "text": "潰 (đọc là \"kai\" hoặc \"tsuikai\") có nghĩa là \"phá hủy\", \"hủy hoại\" để chỉ các hành động làm cho một cái gì đó bị hỏng hoặc vỡ vụn.\n\nVí dụ:\n- 潰瘍 (kaiyō): Loét, vết loét.\n- 潰れる (tsubureru): Bị "
+  },
+  "comments": [
+    {
+      "id": "219986",
+      "lang": "vi",
+      "content_html": "<p>(THỦY 氵)đã nhập vào( HỘI 潰)của( QUÝ 貴)để NGHIỀN NÁT mấy đứa láo cá...</p>",
+      "content_text": "(THỦY 氵)đã nhập vào( HỘI 潰)của( QUÝ 貴)để NGHIỀN NÁT mấy đứa láo cá...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219987",
+      "lang": "vi",
+      "content_html": "<p>con (CÔN TRÙNG MẤT CHÂN 虫) mà đi xuống (NƯỚC) cùng (CON SÒ　貝) thì sẽ bị con sò nghiền nát</p>",
+      "content_text": "con (CÔN TRÙNG MẤT CHÂN 虫) mà đi xuống (NƯỚC) cùng (CON SÒ　貝) thì sẽ bị con sò nghiền nát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219988",
+      "lang": "vi",
+      "content_html": "<p>Ném thứ quý trọng xuống nước</p>",
+      "content_text": "Ném thứ quý trọng xuống nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "191261",
+      "lang": "vi",
+      "content_html": "<p>nước QUÝ</p>",
+      "content_text": "nước QUÝ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "992",
+        "name": "A An",
+        "image_url": "https://jpdictionary.com/upload/images/642763034b8aa.png"
+      }
+    }
+  ]
+}

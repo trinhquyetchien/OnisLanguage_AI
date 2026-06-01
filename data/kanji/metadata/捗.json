@@ -1,0 +1,85 @@
+{
+  "kanji": "捗",
+  "meta": {
+    "weight": 1102,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョク",
+      "ホ"
+    ],
+    "kun": [
+      "はかど.る"
+    ],
+    "am_han": "DUỆ"
+  },
+  "meaning": {
+    "vi": "tiến bộ",
+    "en": "make progress"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/捗.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5417",
+    "text": "捗 (đọc là \"hoku\") có nghĩa là \"tiến triển\", \"tiến bộ\" để chỉ sự phát triển hoặc tiến độ trong công việc, dự án.\n\nVí dụ:\n- 捗々しい (hoku-bukashii): Tiến triển, tiến bộ.\n- 捗り (hoku-ri): Sự tiến t"
+  },
+  "comments": [
+    {
+      "id": "219607",
+      "lang": "vi",
+      "content_html": "<p>Các hậu DUỆ học Bộ Thủ TIẾN BỘ rất nhanh</p>",
+      "content_text": "Các hậu DUỆ học Bộ Thủ TIẾN BỘ rất nhanh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219608",
+      "lang": "vi",
+      "content_html": "<p>Hà cá độ  （はかどる）thì tiến bộ rất nhanh</p>",
+      "content_text": "Hà cá độ  （はかどる）thì tiến bộ rất nhanh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219609",
+      "lang": "vi",
+      "content_html": "<p>Xây mộ (haka 墓) mà có đô la ( doru ) thì tiến triển thuận lợi hakadoru</p>",
+      "content_text": "Xây mộ (haka 墓) mà có đô la ( doru ) thì tiến triển thuận lợi hakadoru",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

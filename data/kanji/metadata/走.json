@@ -1,0 +1,90 @@
+{
+  "kanji": "走",
+  "meta": {
+    "weight": 2583,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "はし.る"
+    ],
+    "am_han": "TẨU"
+  },
+  "meaning": {
+    "vi": "chạy",
+    "en": "run"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/走.svg"
+  },
+  "frequency": 626,
+  "examples": [
+    "走る",
+    "走り",
+    "走行",
+    "暴走",
+    "走"
+  ],
+  "explanation": {
+    "id": "4759",
+    "text": "走 (đọc là \"sō\" hoặc \"hashiru\") có nghĩa là \"chạy\", chỉ hành động di chuyển nhanh bằng chân.  \nVí dụ:  \n- 走る (hashiru): Chạy.  \n- 速走 (sokushō): Chạy nhanh.  \n- 逃走 (tōsō): Chạy trốn."
+  },
+  "comments": [
+    {
+      "id": "644",
+      "lang": "vi",
+      "content_html": "<p>Đào hầm để <strong>chạy</strong> (走) dưới mặt đất (土).</p>",
+      "content_text": "Đào hầm để\nchạy\n(走) dưới mặt đất (土).",
+      "image_url": "https://jpdictionary.com/upload/images/6298254a3fd46.jpg",
+      "image_path": "assets/images/走_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158580",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>走る (はしる): chạy</p>",
+      "content_text": "JLPT N4\n走る (はしる): chạy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221802",
+      "lang": "vi",
+      "content_html": "<p>Kim văn (dưới hình) hay những chữ cổ đều có gốc chung là hình người đi bộ, thêm nhiều nét thì thành chữ 走 như trên.<br>Để nhớ thì khó, coi như có một cách là gồm <strong>Thổ </strong>ở trên, ký tự ở dưới (Nhân + Bói) là 1 phần của bộ <strong>Túc 疋</strong> là chân. =&gt; <strong>Chân </strong>+ <strong>Đất </strong>thì là <strong>Tẩu </strong>(Chân đạp tung đất)</p><p><br>&nbsp;</p>",
+      "content_text": "Kim văn (dưới hình) hay những chữ cổ đều có gốc chung là hình người đi bộ, thêm nhiều nét thì thành chữ 走 như trên.\nĐể nhớ thì khó, coi như có một cách là gồm\nThổ\nở trên, ký tự ở dưới (Nhân + Bói) là 1 phần của bộ\nTúc 疋\nlà chân. =>\nChân\n+\nĐất\nthì là\nTẩu\n(Chân đạp tung đất)",
+      "image_url": "https://jpdictionary.com/upload/images/67691cdd006c9.png",
+      "image_path": "assets/images/走_3.png",
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

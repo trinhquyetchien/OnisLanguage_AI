@@ -1,0 +1,88 @@
+{
+  "kanji": "純",
+  "meta": {
+    "weight": 2053,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュン"
+    ],
+    "kun": [],
+    "am_han": "THUẦN"
+  },
+  "meaning": {
+    "vi": "đơn thuần, thuần khiết",
+    "en": "genuine, purity, innocence, net (profit)"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/純.svg"
+  },
+  "frequency": 1044,
+  "examples": [
+    "単純",
+    "純粋",
+    "純",
+    "純正",
+    "純一"
+  ],
+  "explanation": {
+    "id": "3663",
+    "text": "純 (đọc là \"jun\") có nghĩa là \"thuần khiết\", \"nguyên chất\" để chỉ tính chất không pha tạp, trong sáng hoặc đơn giản.  \nVí dụ:  \n- 純粋 (junsui): Thuần khiết, ngây thơ.  \n- 純金 (junkin): Vàng ngu"
+  },
+  "comments": [
+    {
+      "id": "155988",
+      "lang": "vi",
+      "content_html": "<p>Thuần  hoá 7 ngọn núi bằng sợi dây</p>",
+      "content_text": "Thuần  hoá 7 ngọn núi bằng sợi dây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155989",
+      "lang": "vi",
+      "content_html": "<p>Buộc móc câu vào sợi dây là việc đơn thuần</p>",
+      "content_text": "Buộc móc câu vào sợi dây là việc đơn thuần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155990",
+      "lang": "vi",
+      "content_html": "<p>Sợi dây lộn ngược vẫn thuần khiết đầu như đuôi</p>",
+      "content_text": "Sợi dây lộn ngược vẫn thuần khiết đầu như đuôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

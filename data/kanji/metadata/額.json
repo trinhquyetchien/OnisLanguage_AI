@@ -1,0 +1,107 @@
+{
+  "kanji": "額",
+  "meta": {
+    "weight": 2915,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガク"
+    ],
+    "kun": [
+      "ひたい"
+    ],
+    "am_han": "NGẠCH"
+  },
+  "meaning": {
+    "vi": "cái trán",
+    "en": "forehead, tablet, plaque, framed picture, sum, amount, volume"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/額.svg"
+  },
+  "frequency": 407,
+  "examples": [
+    "額",
+    "金額",
+    "総額",
+    "高額",
+    "全額"
+  ],
+  "explanation": {
+    "id": "949",
+    "text": "額 (đọc là \"gaku\" hoặc \"naka\") có nghĩa là \"trán\", \"khuôn mặt\", cũng chỉ đến khung tranh hoặc mức giới hạn. \n\nVí dụ:\n- 額縁 (gabun): Khung tranh.\n- 額面 (gakumen): Mệnh giá (tiền tệ).\n- 額 (naka):"
+  },
+  "comments": [
+    {
+      "id": "157904",
+      "lang": "vi",
+      "content_html": "<p>khách 客 đọc nhiều sách giấy 頁 thì có trán 額 rộng</p>",
+      "content_text": "khách 客 đọc nhiều sách giấy 頁 thì có trán 額 rộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190697",
+      "lang": "vi",
+      "content_html": "<p>Khách đến nhà đầu năm thì tiếp đón theo cấp Ngạch</p>",
+      "content_text": "Khách đến nhà đầu năm thì tiếp đón theo cấp Ngạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157905",
+      "lang": "vi",
+      "content_html": "<p>Đếm ĐẦU KHÁCH để tính kim NGẠCH</p>",
+      "content_text": "Đếm ĐẦU KHÁCH để tính kim NGẠCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157906",
+      "lang": "vi",
+      "content_html": "<p>Danh ngạch KHÁCH tính theo đầu người</p>",
+      "content_text": "Danh ngạch KHÁCH tính theo đầu người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

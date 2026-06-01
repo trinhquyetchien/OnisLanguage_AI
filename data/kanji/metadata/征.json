@@ -1,0 +1,105 @@
+{
+  "kanji": "征",
+  "meta": {
+    "weight": 921,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ"
+    ],
+    "kun": [],
+    "am_han": "CHINH"
+  },
+  "meaning": {
+    "vi": "khuất phục, tấn công quân nổi loạn, thu thuế",
+    "en": "subjugate, attack the rebellious, collect taxes"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/征.svg"
+  },
+  "frequency": 1578,
+  "examples": [
+    "遠征",
+    "征服",
+    "征",
+    "出征",
+    "征伐"
+  ],
+  "explanation": {
+    "id": "4297",
+    "text": "征 (đọc là \"sei\" hoặc \"shō\") có nghĩa là \"chinh phục\", \"tiến đánh\" để chỉ các hành động liên quan đến việc chinh phục, tiến quân hoặc tiêu diệt kẻ thù.\n\nVí dụ:\n- 征服 (seihuku): Chinh phục.\n- 征"
+  },
+  "comments": [
+    {
+      "id": "153456",
+      "lang": "vi",
+      "content_html": "<p>Chinh phục con đường chân chính</p>",
+      "content_text": "Chinh phục con đường chân chính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222033",
+      "lang": "vi",
+      "content_html": "<ul><li>Giáp cốt văn</li></ul><p><strong>征伐</strong> (chinh phạt) Đi đến thành để đánh, kiểm soát</p><ul><li>Tây Chu – Hán</li></ul><p><strong>平定、纠正</strong> (bình định, chỉnh sửa) Đem quân đến để lập lại trật tự</p><ul><li>Sau này</li></ul><p><strong>中正、正直、规范</strong></p><p>Ngay thẳng, đúng đắn, theo chuẩn mực</p><p>Sau này người ta dùng <strong>“征”</strong> thay cho nghĩa chinh phạt, còn “正” thiên về <strong>nghĩa chuẩn mực, trung tâm, không lệch lạc</strong>.</p>",
+      "content_text": "Giáp cốt văn\n征伐\n(chinh phạt) Đi đến thành để đánh, kiểm soát\nTây Chu – Hán\n平定、纠正\n(bình định, chỉnh sửa) Đem quân đến để lập lại trật tự\nSau này\n中正、正直、规范\nNgay thẳng, đúng đắn, theo chuẩn mực\nSau này người ta dùng\n“征”\nthay cho nghĩa chinh phạt, còn “正” thiên về\nnghĩa chuẩn mực, trung tâm, không lệch lạc\n.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    },
+    {
+      "id": "153457",
+      "lang": "vi",
+      "content_html": "<p>Chinh phục thử thách bằng con đường chân chính</p>",
+      "content_text": "Chinh phục thử thách bằng con đường chân chính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153458",
+      "lang": "vi",
+      "content_html": "<p>chinh phục con đường bằng chính bản thân mình</p>",
+      "content_text": "chinh phục con đường bằng chính bản thân mình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

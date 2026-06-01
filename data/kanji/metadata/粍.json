@@ -1,0 +1,31 @@
+{
+  "kanji": "粍",
+  "meta": {
+    "weight": 2027,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "ミリ",
+      "ミリメートル"
+    ],
+    "am_han": "MAO"
+  },
+  "meaning": {
+    "vi": "milimét, (kokuji)",
+    "en": "millimeter, (kokuji)"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/粍.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7504",
+    "text": "粍 (đọc là \"ri\") có nghĩa là \"bột gạo\" hoặc \"bánh gạo\" để chỉ các sản phẩm chế biến từ gạo, thường dùng trong ẩm thực Nhật Bản.  \nVí dụ:  \n- 粍米 (rimai): Gạo nếp.  \n- 粍餅 (rimoti): Bánh gạo nếp"
+  },
+  "comments": []
+}

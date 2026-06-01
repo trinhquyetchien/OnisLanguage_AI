@@ -1,0 +1,92 @@
+{
+  "kanji": "支",
+  "meta": {
+    "weight": 1166,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "ささ.える",
+      "つか.える",
+      "か.う"
+    ],
+    "am_han": "CHI"
+  },
+  "meaning": {
+    "vi": "chi nhánh, chi viện",
+    "en": "branch, support, sustain, branch radical (no. 65)"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/支.svg"
+  },
+  "frequency": 159,
+  "examples": [
+    "支援",
+    "支配",
+    "支持",
+    "支え",
+    "支払い"
+  ],
+  "explanation": {
+    "id": "3092",
+    "text": "支 (đọc là \"shi\") có nghĩa là \"hỗ trợ\", \"chi nhánh\" để chỉ sự hỗ trợ tài chính, hay các phần chi nhánh của một tổ chức.  \nVí dụ:  \n- 支店 (shiten): Chi nhánh.  \n- 支援 (shien): Hỗ trợ, viện trợ. "
+  },
+  "comments": [
+    {
+      "id": "154065",
+      "lang": "vi",
+      "content_html": "<p>lại có 10 cái chi nhánh</p>",
+      "content_text": "lại có 10 cái chi nhánh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154066",
+      "lang": "vi",
+      "content_html": "<p>1 Tay mở 10 Chi nhánh</p>",
+      "content_text": "1 Tay mở 10 Chi nhánh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154067",
+      "lang": "vi",
+      "content_html": "<p>収入&#62;&#60;支出: 4 lần Thu &#62;&#60; 10 lần Chi</p>",
+      "content_text": "収入><支出: 4 lần Thu >< 10 lần Chi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

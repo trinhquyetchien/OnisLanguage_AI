@@ -1,0 +1,90 @@
+{
+  "kanji": "哲",
+  "meta": {
+    "weight": 489,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テツ"
+    ],
+    "kun": [
+      "さとい",
+      "あきらか"
+    ],
+    "am_han": "TRIẾT"
+  },
+  "meaning": {
+    "vi": "triết học, rõ ràng",
+    "en": "philosophy, clear"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/哲.svg"
+  },
+  "frequency": 1093,
+  "examples": [
+    "哲学",
+    "哲",
+    "変哲",
+    "哲人"
+  ],
+  "explanation": {
+    "id": "5632",
+    "text": "哲 (đọc là \"tetsu\") có nghĩa là \"triết lý\", \"sự thông thái\" để chỉ sự hiểu biết sâu sắc về tri thức và tư tưởng.  \nVí dụ:  \n- 哲学 (tetsugaku): Triết học.  \n- 哲人 (tetsujin): Triết gia, người có"
+  },
+  "comments": [
+    {
+      "id": "152406",
+      "lang": "vi",
+      "content_html": "<p>Chiết đc lời nói từ miệng ra thì là hiền triết</p>",
+      "content_text": "Chiết đc lời nói từ miệng ra thì là hiền triết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152407",
+      "lang": "vi",
+      "content_html": "<p>Triết học là dùng mồm bẻ (chiết) cong sự thật</p>",
+      "content_text": "Triết học là dùng mồm bẻ (chiết) cong sự thật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152408",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm rìu mồm nói chuyện TRIẾT lí</p>",
+      "content_text": "Tay cầm rìu mồm nói chuyện TRIẾT lí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

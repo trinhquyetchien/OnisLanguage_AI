@@ -1,0 +1,93 @@
+{
+  "kanji": "条",
+  "meta": {
+    "weight": 1295,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ",
+      "チョウ",
+      "デキ"
+    ],
+    "kun": [
+      "えだ",
+      "すじ"
+    ],
+    "am_han": "ĐIỀU"
+  },
+  "meaning": {
+    "vi": "mạo từ, mệnh đề, phản đối các điều, đoạn văn, v.v., nhánh, mục, sọc, vệt",
+    "en": "article, clause, counter for articles, clauses, paragraphs, etc., twig, item, stripe, streak"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/条.svg"
+  },
+  "frequency": 363,
+  "examples": [
+    "条件",
+    "条",
+    "条約",
+    "条例",
+    "条項"
+  ],
+  "explanation": {
+    "id": "3971",
+    "text": "条 (đọc là \"jou\") có nghĩa là \"điều khoản\", \"dòng\" để chỉ các phần, mục trong văn bản hoặc quy định.  \nVí dụ:  \n- 条件 (jouken): Điều kiện.  \n- 条約 (jouyaku): Hiệp ước.  \n- 条文 (joubun): Văn bản "
+  },
+  "comments": [
+    {
+      "id": "154397",
+      "lang": "vi",
+      "content_html": "<p>ĐIỀU hiển nhiên là kẻ đến SAU bị leo CÂY</p>",
+      "content_text": "ĐIỀU hiển nhiên là kẻ đến SAU bị leo CÂY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154398",
+      "lang": "vi",
+      "content_html": "<p>Truy tìm Điều bí ẩn ở sau cái Cây</p>",
+      "content_text": "Truy tìm Điều bí ẩn ở sau cái Cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154399",
+      "lang": "vi",
+      "content_html": "<p>Tạo Điều kiện để đến sau cái cây.</p>",
+      "content_text": "Tạo Điều kiện để đến sau cái cây.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

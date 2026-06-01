@@ -1,0 +1,38 @@
+{
+  "kanji": "叢",
+  "meta": {
+    "weight": 430,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "ス"
+    ],
+    "kun": [
+      "くさむら",
+      "むら.がる",
+      "むら"
+    ],
+    "am_han": "TÙNG"
+  },
+  "meaning": {
+    "vi": "đám rối, cụm bụi cây, bụi rậm",
+    "en": "plexus, clump of bushes, thicket"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/叢.svg"
+  },
+  "frequency": 2436,
+  "examples": [
+    "叢書",
+    "叢"
+  ],
+  "explanation": {
+    "id": "4676",
+    "text": "叢 (đọc là \"そう\" - sou) có nghĩa là \"nhóm\", \"tụ tập\" hoặc \"mớ\". Chữ này thường chỉ các cụm, nhóm thực vật hoặc đồ vật.\n\nVí dụ:\n- 叢生 (そうせい - soussei): Sự sinh trưởng thành từng cụm, thường dùng"
+  },
+  "comments": []
+}

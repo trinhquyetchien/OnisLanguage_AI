@@ -1,0 +1,107 @@
+{
+  "kanji": "荷",
+  "meta": {
+    "weight": 2285,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "に"
+    ],
+    "am_han": "HÀ"
+  },
+  "meaning": {
+    "vi": "hành lý",
+    "en": "baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/荷.svg"
+  },
+  "frequency": 1230,
+  "examples": [
+    "荷物",
+    "出荷",
+    "負荷",
+    "入荷",
+    "荷"
+  ],
+  "explanation": {
+    "id": "685",
+    "text": "荷 (đọc là \"ka\") có nghĩa là \"gánh nặng\", \"hàng hóa\" để chỉ những vật được mang vác hoặc vận chuyển.\nVí dụ:\n- 荷物 (nimotsu): Hành lý, bưu kiện.\n- 荷役 (nayaku): Công việc bốc dỡ hàng hóa.\n- 荷台 ("
+  },
+  "comments": [
+    {
+      "id": "37099",
+      "lang": "vi",
+      "content_html": "<p>Tôi nhìn thấy cỏ từ <strong>hành lý</strong> đó.</p><p>Có cái gì (何) trong đó vậy?</p>",
+      "content_text": "Tôi nhìn thấy cỏ từ\nhành lý\nđó.\nCó cái gì (何) trong đó vậy?",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb300ab11e.jpg",
+      "image_path": "assets/images/荷_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156527",
+      "lang": "vi",
+      "content_html": "<p>THẢO xách hành lý dùm chị HÀ</p>",
+      "content_text": "THẢO xách hành lý dùm chị HÀ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156528",
+      "lang": "vi",
+      "content_html": "<p>Trong hành lý (Hà) 荷 có cái gì (Hà) 何 như là cỏ (Thảo) 艹 vậy?</p>",
+      "content_text": "Trong hành lý (Hà) 荷 có cái gì (Hà) 何 như là cỏ (Thảo) 艹 vậy?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156529",
+      "lang": "vi",
+      "content_html": "<p>Trong cỏ có cái gì vậy, HÀNG</p>",
+      "content_text": "Trong cỏ có cái gì vậy, HÀNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

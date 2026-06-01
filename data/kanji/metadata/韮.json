@@ -1,0 +1,33 @@
+{
+  "kanji": "韮",
+  "meta": {
+    "weight": 2892,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ",
+      "ク"
+    ],
+    "kun": [
+      "にら"
+    ],
+    "am_han": "PHỈ"
+  },
+  "meaning": {
+    "vi": "tỏi tây",
+    "en": "leek"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/韮.svg"
+  },
+  "frequency": 2353,
+  "examples": [],
+  "explanation": {
+    "id": "6126",
+    "text": "音韮 (đọc là \"nira\") có nghĩa là \"tỏi rừng\" hoặc \"hẹ\", chỉ loại rau thơm thường dùng trong ẩm thực Nhật Bản.\n\nVí dụ:\n- 韮玉 (nira tama): Trứng chiên với hẹ.\n- 韮菜 (nira sai): Rau hẹ, nguyên liệu "
+  },
+  "comments": []
+}

@@ -1,0 +1,70 @@
+{
+  "kanji": "聡",
+  "meta": {
+    "weight": 2159,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "さと.い",
+      "みみざと.い"
+    ],
+    "am_han": "THÔNG"
+  },
+  "meaning": {
+    "vi": "thông thái, học nhanh",
+    "en": "wise, fast learner"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/聡.svg"
+  },
+  "frequency": 1507,
+  "examples": [
+    "聡明"
+  ],
+  "explanation": {
+    "id": "4745",
+    "text": "聡 (đọc là \"sō\") có nghĩa là \"thông minh\", \"khéo léo\", để chỉ sự nhạy bén trong suy nghĩ và hiểu biết.  \nVí dụ:  \n- 聡明 (sōmei): Thông minh, sáng suốt.  \n- 聡い (sōi): Thông minh, lanh lợi.  \n- "
+  },
+  "comments": [
+    {
+      "id": "156248",
+      "lang": "vi",
+      "content_html": "<p>công tâm rạch ròi, mới thông được lời đã nghe</p>",
+      "content_text": "công tâm rạch ròi, mới thông được lời đã nghe",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156249",
+      "lang": "vi",
+      "content_html": "<p>Tai耳 biết nghe những điều Công公 Tâm心 là THÔNG minh</p>",
+      "content_text": "Tai耳 biết nghe những điều Công公 Tâm心 là THÔNG minh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

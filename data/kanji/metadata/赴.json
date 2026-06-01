@@ -1,0 +1,87 @@
+{
+  "kanji": "赴",
+  "meta": {
+    "weight": 2584,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "おもむ.く"
+    ],
+    "am_han": "PHÓ"
+  },
+  "meaning": {
+    "vi": "tiến hành, có được, trở thành, có xu hướng",
+    "en": "proceed, get, become, tend"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/赴.svg"
+  },
+  "frequency": 1649,
+  "examples": [
+    "赴任",
+    "赴く"
+  ],
+  "explanation": {
+    "id": "6852",
+    "text": "赴 (đọc là \"fu\") có nghĩa là \"đến\", \"tới\" để chỉ hành động di chuyển đến một địa điểm nào đó, thường mang nghĩa tích cực hoặc ý định tốt.  \nVí dụ:  \n- 赴任 (funin): Nhậm chức ở nơi khác.  \n- 赴く"
+  },
+  "comments": [
+    {
+      "id": "157152",
+      "lang": "vi",
+      "content_html": "<p>Chạy đến nhận chức tô phó</p>",
+      "content_text": "Chạy đến nhận chức tô phó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157153",
+      "lang": "vi",
+      "content_html": "<p>Chạy ĐẾN Bốc thăm bầu lớp PHÓ</p>",
+      "content_text": "Chạy ĐẾN Bốc thăm bầu lớp PHÓ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157154",
+      "lang": "vi",
+      "content_html": "<p>chạy tới gặp thầy xem bói , phó mặc may rủi</p>",
+      "content_text": "chạy tới gặp thầy xem bói , phó mặc may rủi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

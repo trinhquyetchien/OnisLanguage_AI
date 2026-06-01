@@ -1,0 +1,87 @@
+{
+  "kanji": "犠",
+  "meta": {
+    "weight": 1703,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギ",
+      "キ"
+    ],
+    "kun": [
+      "いけにえ"
+    ],
+    "am_han": "HI"
+  },
+  "meaning": {
+    "vi": "hy sinh",
+    "en": "sacrifice"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/犠.svg"
+  },
+  "frequency": 1189,
+  "examples": [
+    "犠牲"
+  ],
+  "explanation": {
+    "id": "1426",
+    "text": "犠 (đọc là \"gi\") có nghĩa là \"hy sinh\" hoặc \"tổn thất\", thường chỉ các hành động liên quan đến sự hy sinh cho một mục đích cao cả.  \nVí dụ:  \n- 犠牲 (gisei): Hy sinh, tổn thất.  \n- 犠牲者 (giseish"
+  },
+  "comments": [
+    {
+      "id": "155252",
+      "lang": "vi",
+      "content_html": "<p>Con bì hi sinh vì nghĩa</p>",
+      "content_text": "Con bì hi sinh vì nghĩa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155253",
+      "lang": "vi",
+      "content_html": "<p>Con bò hi sinh vì nghĩa lớn</p>",
+      "content_text": "Con bò hi sinh vì nghĩa lớn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155254",
+      "lang": "vi",
+      "content_html": "<p>Con bò hi sinh vì nghĩa đã hi sinh thân phận trâu bò của mình</p>",
+      "content_text": "Con bò hi sinh vì nghĩa đã hi sinh thân phận trâu bò của mình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

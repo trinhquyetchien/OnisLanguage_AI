@@ -1,0 +1,87 @@
+{
+  "kanji": "些",
+  "meta": {
+    "weight": 120,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サ",
+      "シャ"
+    ],
+    "kun": [
+      "ち.と",
+      "ち.っと",
+      "いささか"
+    ],
+    "am_han": "TA, TÁ"
+  },
+  "meaning": {
+    "vi": "một chút, đôi khi",
+    "en": "a little bit, sometimes"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/些.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2724",
+    "text": "些 (đọc là \"sha\" hoặc \"sa\") có nghĩa là \"một chút\", \"một ít\", thường chỉ một phần nhỏ hoặc không đáng kể. \n\nVí dụ:\n- 些細 (sasai): Nhỏ nhặt, không quan trọng.\n- 些か (saka): Hơi hơi, một chút.\n- "
+  },
+  "comments": [
+    {
+      "id": "218814",
+      "lang": "vi",
+      "content_html": "<p>Đi 2 bước mà nghỉ 7 bước thì quá ít ỏi (tá)</p>",
+      "content_text": "Đi 2 bước mà nghỉ 7 bước thì quá ít ỏi (tá)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218815",
+      "lang": "vi",
+      "content_html": "<p>đi 2 bước mà nghỉ 7 bước thì không làm y tá được</p>",
+      "content_text": "đi 2 bước mà nghỉ 7 bước thì không làm y tá được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218816",
+      "lang": "vi",
+      "content_html": "<p>DỪNG LẠI trước CÁI MUỖNG 2 LẦN  --  vì chỉ có MỘT ÍT</p>",
+      "content_text": "DỪNG LẠI trước CÁI MUỖNG 2 LẦN  --  vì chỉ có MỘT ÍT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

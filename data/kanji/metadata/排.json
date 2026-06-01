@@ -1,0 +1,88 @@
+{
+  "kanji": "排",
+  "meta": {
+    "weight": 1114,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハイ"
+    ],
+    "kun": [],
+    "am_han": "BÀI"
+  },
+  "meaning": {
+    "vi": "từ chối, loại trừ, trục xuất, xếp hàng, sắp xếp",
+    "en": "repudiate, exclude, expel, reject, line up, arrange"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/排.svg"
+  },
+  "frequency": 1047,
+  "examples": [
+    "排除",
+    "排出",
+    "排水",
+    "排気",
+    "排他"
+  ],
+  "explanation": {
+    "id": "6262",
+    "text": "排 (đọc là \"hai\") có nghĩa là \"loại bỏ\", \"sắp xếp\" để chỉ các hành động liên quan đến việc loại trừ hoặc tổ chức theo một thứ tự nhất định.\n\nVí dụ:\n- 排除 (haijyo): Loại trừ, loại bỏ.\n- 排気 (hai"
+  },
+  "comments": [
+    {
+      "id": "153950",
+      "lang": "vi",
+      "content_html": "<p>Tay ôm bụng Phi vào bồn cầu BÀI tiết</p>",
+      "content_text": "Tay ôm bụng Phi vào bồn cầu BÀI tiết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153951",
+      "lang": "vi",
+      "content_html": "<p>dùng tay bài trừ những điều phi lý</p>",
+      "content_text": "dùng tay bài trừ những điều phi lý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153952",
+      "lang": "vi",
+      "content_html": "<p>Tay loại bỏ những thứ phi pháp</p>",
+      "content_text": "Tay loại bỏ những thứ phi pháp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

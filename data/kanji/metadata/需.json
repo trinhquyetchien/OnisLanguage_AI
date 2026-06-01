@@ -1,0 +1,88 @@
+{
+  "kanji": "需",
+  "meta": {
+    "weight": 2871,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュ"
+    ],
+    "kun": [],
+    "am_han": "NHU"
+  },
+  "meaning": {
+    "vi": "nhu cầu, yêu cầu, cần",
+    "en": "demand, request, need"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/需.svg"
+  },
+  "frequency": 935,
+  "examples": [
+    "需要",
+    "需給",
+    "必需",
+    "内需",
+    "軍需"
+  ],
+  "explanation": {
+    "id": "3460",
+    "text": "需 (đọc là \"ju\" hoặc \"naru\") có nghĩa là \"cần thiết\", \"nhu cầu\" để chỉ những yêu cầu, đòi hỏi hoặc sự cần thiết của một thứ gì đó.\nVí dụ:\n- 必需品 (hisshuuhin): Hàng hóa thiết yếu.\n- 需要 (juyou):"
+  },
+  "comments": [
+    {
+      "id": "157810",
+      "lang": "vi",
+      "content_html": "<p>Có nhu cầu thì mưa cũng xếp 4 hàng</p>",
+      "content_text": "Có nhu cầu thì mưa cũng xếp 4 hàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157811",
+      "lang": "vi",
+      "content_html": "<p>Bé NHi có NHU cầu xem<br>MƯA</p>",
+      "content_text": "Bé NHi có NHU cầu xem\nMƯA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157812",
+      "lang": "vi",
+      "content_html": "<p>NHU cầu Trẻ tắm Mưa. Nguồn gốc: Người ngước nhìn trời vuốt hàm Râu(Nhi) chờ đợi Mưa(Vũ) xuống cho mùa màng bội thu. Như nhân khát nhu thủy 如人渴需水 Như người khát cần nước</p>",
+      "content_text": "NHU cầu Trẻ tắm Mưa. Nguồn gốc: Người ngước nhìn trời vuốt hàm Râu(Nhi) chờ đợi Mưa(Vũ) xuống cho mùa màng bội thu. Như nhân khát nhu thủy 如人渴需水 Như người khát cần nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

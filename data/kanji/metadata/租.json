@@ -1,0 +1,85 @@
+{
+  "kanji": "租",
+  "meta": {
+    "weight": 1929,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ"
+    ],
+    "kun": [],
+    "am_han": "TÔ"
+  },
+  "meaning": {
+    "vi": "thuế quan, thuế cây trồng, vay nợ",
+    "en": "tariff, crop tax, borrowing"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/租.svg"
+  },
+  "frequency": 2089,
+  "examples": [
+    "租税",
+    "租"
+  ],
+  "explanation": {
+    "id": "4640",
+    "text": "租 (đọc là \"so\") có nghĩa là \"thuê mướn\", chỉ các hành động liên quan đến việc cho thuê hoặc thuê.  \nVí dụ:  \n- 賃租 (chinso): Tiền thuê, giá thuê.  \n- 租税 (sozai): Thuế thuê đất.  \n- 租借 (soshak"
+  },
+  "comments": [
+    {
+      "id": "155744",
+      "lang": "vi",
+      "content_html": "<p>祖: Tổ tiên nề nếp<br>租: Hòa bình đặt thuế má<br>粗: Gạo thô<br>阻: Gò đất cản trở<br>組: Sợi dây nối tổ chức</p>",
+      "content_text": "祖: Tổ tiên nề nếp\n租: Hòa bình đặt thuế má\n粗: Gạo thô\n阻: Gò đất cản trở\n組: Sợi dây nối tổ chức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155745",
+      "lang": "vi",
+      "content_html": "<p>Hoà đóng Tô Thuế hoa cả Mắt (mục)</p>",
+      "content_text": "Hoà đóng Tô Thuế hoa cả Mắt (mục)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155746",
+      "lang": "vi",
+      "content_html": "<p>Trồng lúa thả ga nhưng vẫn phải chịu TÔ thuế</p>",
+      "content_text": "Trồng lúa thả ga nhưng vẫn phải chịu TÔ thuế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "kanji": "腺",
+  "meta": {
+    "weight": 2209,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [],
+    "am_han": "TUYẾN"
+  },
+  "meaning": {
+    "vi": "tuyến, (kokuji)",
+    "en": "gland, (kokuji)"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/腺.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4544",
+    "text": "腺 (đọc là \"sen\") có nghĩa là \"tuyến\" để chỉ các cấu trúc trong cơ thể liên quan đến việc tiết ra chất lỏng hoặc hormone. \n\nVí dụ:\n- 汗腺 (kansen): Tuyến mồ hôi.\n- 甲状腺 (kōjōsen): Tuyến giáp.\n- "
+  },
+  "comments": [
+    {
+      "id": "220460",
+      "lang": "vi",
+      "content_html": "<p>dưới ánh Trăng, con Suối như Tuyến mồ hôi</p>",
+      "content_text": "dưới ánh Trăng, con Suối như Tuyến mồ hôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220461",
+      "lang": "vi",
+      "content_html": "<p>TUYẾN cơ thể của em NGUYỆT tuôn trào như suối(TUYỀN) .</p>",
+      "content_text": "TUYẾN cơ thể của em NGUYỆT tuôn trào như suối(TUYỀN) .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220462",
+      "lang": "vi",
+      "content_html": "<p>dưới ánh trăng con suối như tuyến cơ thể</p>",
+      "content_text": "dưới ánh trăng con suối như tuyến cơ thể",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "kanji": "雪",
+  "meta": {
+    "weight": 2864,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セツ"
+    ],
+    "kun": [
+      "ゆき"
+    ],
+    "am_han": "TUYẾT"
+  },
+  "meaning": {
+    "vi": "tuyết",
+    "en": "snow"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/雪.svg"
+  },
+  "frequency": 1131,
+  "examples": [
+    "雪",
+    "大雪",
+    "積雪",
+    "除雪",
+    "吹雪"
+  ],
+  "explanation": {
+    "id": "4457",
+    "text": "雪 (đọc là \"yuki\") có nghĩa là \"tuyết\", chỉ hiện tượng thời tiết khi nước rơi xuống dưới dạng tinh thể băng.  \nVí dụ:  \n- 雪山 (yukiyama): Núi tuyết.  \n- 雪だるま (yukidaruma): Người tuyết.  \n- 大雪 "
+  },
+  "comments": [
+    {
+      "id": "37340",
+      "lang": "vi",
+      "content_html": "<p>\"Mưa (雨) à?\"</p><p>\"Không phải, sờ thử xem, là <strong>tuyết </strong>đấy!\"</p>",
+      "content_text": "\"Mưa (雨) à?\"\n\"Không phải, sờ thử xem, là\ntuyết\nđấy!\"",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe7e55104b.jpg",
+      "image_path": "assets/images/雪_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157791",
+      "lang": "vi",
+      "content_html": "<p>Mưa tuyết rơi dày 3 lớp.</p>",
+      "content_text": "Mưa tuyết rơi dày 3 lớp.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157792",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: (nghĩ vui vui như xem hoạt hình)<br>Con Nhím (彐) tắm Mưa (雨)<br>==&#62;  xong Da trắng như Tuyết (雪). <br>..性..</p>",
+      "content_text": "Góc Nhìn: (nghĩ vui vui như xem hoạt hình)\nCon Nhím (彐) tắm Mưa (雨)\n==>  xong Da trắng như Tuyết (雪).\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157793",
+      "lang": "vi",
+      "content_html": "<p>TUYẾT rơi như Mưa dày 3 lớp</p>",
+      "content_text": "TUYẾT rơi như Mưa dày 3 lớp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

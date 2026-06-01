@@ -1,0 +1,85 @@
+{
+  "kanji": "栽",
+  "meta": {
+    "weight": 1346,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [],
+    "am_han": "TÀI, TẢI"
+  },
+  "meaning": {
+    "vi": "trồng",
+    "en": "plantation, planting"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/栽.svg"
+  },
+  "frequency": 1496,
+  "examples": [
+    "栽培",
+    "盆栽"
+  ],
+  "explanation": {
+    "id": "2799",
+    "text": "栽 (đọc là \"sai\") có nghĩa là \"trồng\" hoặc \"gieo trồng\", chỉ các hành động liên quan đến việc trồng cây, hoa hoặc thực vật.  \nVí dụ:  \n- 栽培 (saibai): Sự trồng trọt, canh tác.  \n- 栽植 (saishoku"
+  },
+  "comments": [
+    {
+      "id": "154501",
+      "lang": "vi",
+      "content_html": "<p>Cây mọc Qua Đất quả là Tài</p>",
+      "content_text": "Cây mọc Qua Đất quả là Tài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154502",
+      "lang": "vi",
+      "content_html": "<p>Cuộc chiến với đất đai cho ra cây là tài trồng trọt</p>",
+      "content_text": "Cuộc chiến với đất đai cho ra cây là tài trồng trọt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154503",
+      "lang": "vi",
+      "content_html": "<p>người TÀI bỏ hết vũ khí về mua đất TRỒNG CÂY</p>",
+      "content_text": "người TÀI bỏ hết vũ khí về mua đất TRỒNG CÂY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

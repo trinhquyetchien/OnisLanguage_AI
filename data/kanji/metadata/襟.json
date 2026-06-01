@@ -1,0 +1,86 @@
+{
+  "kanji": "襟",
+  "meta": {
+    "weight": 2435,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キン"
+    ],
+    "kun": [
+      "えり"
+    ],
+    "am_han": "KHÂM"
+  },
+  "meaning": {
+    "vi": "cổ áo, cổ, ve áo, cảm xúc bên trong của một người",
+    "en": "collar, neck, lapel, one's inner feelings"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/襟.svg"
+  },
+  "frequency": 2030,
+  "examples": [
+    "襟"
+  ],
+  "explanation": {
+    "id": "1789",
+    "text": "襟 (đọc là \"eri\") có nghĩa là \"cổ áo\", chỉ phần viền quanh cổ của trang phục.  \nVí dụ:  \n- 襟元 (erimoto): Phần cổ áo.  \n- 襟付き (eri tsuki): Có cổ, có viền cổ.  \n- 襟を立てる (eri o tateru): Đứng cổ "
+  },
+  "comments": [
+    {
+      "id": "156777",
+      "lang": "vi",
+      "content_html": "<p>Cấm KHÂM sai mặc Y phục có CỔ ÁO</p>",
+      "content_text": "Cấm KHÂM sai mặc Y phục có CỔ ÁO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156778",
+      "lang": "vi",
+      "content_html": "<p>Chỗ chỉ để thắt ネ ( cavat) là cổ áo còn lại cấm</p>",
+      "content_text": "Chỗ chỉ để thắt ネ ( cavat) là cổ áo còn lại cấm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156779",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa y phục của KHÂM sai bị cấm may cổ</p>",
+      "content_text": "Ngày xưa y phục của KHÂM sai bị cấm may cổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "kanji": "噸",
+  "meta": {
+    "weight": 526,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トン"
+    ],
+    "kun": [],
+    "am_han": "ĐỐN"
+  },
+  "meaning": {
+    "vi": "trọng tải, (kokuji)",
+    "en": "tonnage, (kokuji)"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/噸.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6004",
+    "text": "噸 (đọc là \"ton\" hoặc \"tón\") có nghĩa là \"tấn\", đơn vị đo lường khối lượng bằng 1.000 kg, thường dùng để chỉ trọng lượng hàng hóa hoặc vật liệu.\nVí dụ:\n- 吨货 (tónguò): Hàng hóa nặng.\n- 一吨 (ich"
+  },
+  "comments": []
+}

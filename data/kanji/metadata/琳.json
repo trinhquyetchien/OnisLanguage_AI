@@ -1,0 +1,48 @@
+{
+  "kanji": "琳",
+  "meta": {
+    "weight": 1748,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リン"
+    ],
+    "kun": [],
+    "am_han": "LÂM"
+  },
+  "meaning": {
+    "vi": "đồ trang sức leng keng",
+    "en": "jewel, tinkling of jewelry"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/琳.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8171",
+    "text": "琳 (đọc là \"rin\") có nghĩa là \"ngọc quý\", thường chỉ những viên ngọc đẹp hoặc các đồ vật trang trí bằng ngọc. \n\nVí dụ:\n- 琳琅 (rinrō): Vô số ngọc quý, chỉ sự phong phú của các loại ngọc.\n- 琳瑯 ("
+  },
+  "comments": [
+    {
+      "id": "220087",
+      "lang": "vi",
+      "content_html": "<p>Vua ở rừng như LÂM tặc</p>",
+      "content_text": "Vua ở rừng như LÂM tặc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

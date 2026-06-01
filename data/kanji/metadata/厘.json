@@ -1,0 +1,84 @@
+{
+  "kanji": "厘",
+  "meta": {
+    "weight": 408,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リン"
+    ],
+    "kun": [],
+    "am_han": "LI"
+  },
+  "meaning": {
+    "vi": "rin, 1/10 sen, 1/10 bu",
+    "en": "rin, 1/10 sen, 1/10 bu"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/厘.svg"
+  },
+  "frequency": 1835,
+  "examples": [
+    "厘"
+  ],
+  "explanation": {
+    "id": "8159",
+    "text": "厘 (đọc là \"ri\") có nghĩa là \"đơn vị đo lường\" dùng để chỉ một phần nhỏ, thường là một phần trăm hoặc một triệu. \n\nVí dụ:\n- 厘米 (rimētoru): Đơn vị đo lường chiều dài, tương đương 1/1000 mét.\n-"
+  },
+  "comments": [
+    {
+      "id": "152216",
+      "lang": "vi",
+      "content_html": "<p>Thật nhỏ bé khi cãi lí với sườn núi rộng lớn</p>",
+      "content_text": "Thật nhỏ bé khi cãi lí với sườn núi rộng lớn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152217",
+      "lang": "vi",
+      "content_html": "<p>Dưới sườn núi thì quê hương của tôi trông nhỏ Li ti</p>",
+      "content_text": "Dưới sườn núi thì quê hương của tôi trông nhỏ Li ti",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152218",
+      "lang": "vi",
+      "content_html": "<p>Ông Lí Chi LI từng Tí</p>",
+      "content_text": "Ông Lí Chi LI từng Tí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

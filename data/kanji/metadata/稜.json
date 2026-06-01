@@ -1,0 +1,72 @@
+{
+  "kanji": "稜",
+  "meta": {
+    "weight": 1941,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ",
+      "ロウ"
+    ],
+    "kun": [
+      "いつ",
+      "かど"
+    ],
+    "am_han": "LĂNG, LẮNG"
+  },
+  "meaning": {
+    "vi": "góc, cạnh, quyền lực, uy nghi",
+    "en": "angle, edge, corner, power, majesty"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/稜.svg"
+  },
+  "frequency": 2091,
+  "examples": [
+    "稜",
+    "稜線"
+  ],
+  "explanation": {
+    "id": "8126",
+    "text": "稜 (đọc là \"ryō\" hoặc \"rin\") có nghĩa là \"cạnh\" hoặc \"đỉnh\", chỉ các phần nhô lên hoặc góc cạnh của vật thể.  \nVí dụ:  \n- 稜線 (ryōsen): Đường viền, đường đỉnh của một ngọn núi.  \n- 稜角 (ryōkaku"
+  },
+  "comments": [
+    {
+      "id": "155770",
+      "lang": "vi",
+      "content_html": "<p>lăng kính . lăng trụ</p>",
+      "content_text": "lăng kính . lăng trụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155771",
+      "lang": "vi",
+      "content_html": "<p>Cây lúa đầu tiên truy ra có các góc hình LĂNG trụ</p>",
+      "content_text": "Cây lúa đầu tiên truy ra có các góc hình LĂNG trụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

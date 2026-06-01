@@ -1,0 +1,107 @@
+{
+  "kanji": "踊",
+  "meta": {
+    "weight": 2597,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "おど.る"
+    ],
+    "am_han": "DŨNG"
+  },
+  "meaning": {
+    "vi": "nhảy",
+    "en": "jump, dance, leap, skip"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/踊.svg"
+  },
+  "frequency": 1308,
+  "examples": [
+    "踊り",
+    "踊る",
+    "舞踊",
+    "盆踊り",
+    "踊り場"
+  ],
+  "explanation": {
+    "id": "7905",
+    "text": "踊 (đọc là \"yō\" hoặc \"odoru\") có nghĩa là \"nhảy múa\", để chỉ các hành động liên quan đến việc nhảy, múa hay biểu diễn vũ điệu.  \nVí dụ:  \n- 踊り (odori): Múa, điệu múa.  \n- 踊る (odoru): Nhảy, mú"
+  },
+  "comments": [
+    {
+      "id": "37113",
+      "lang": "vi",
+      "content_html": "<p>Hãy dùng chân (足) để <strong>nhảy </strong>múa bên hàng rào.</p>",
+      "content_text": "Hãy dùng chân (足) để\nnhảy\nmúa bên hàng rào.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb423b5165.jpg",
+      "image_path": "assets/images/踊_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157186",
+      "lang": "vi",
+      "content_html": "<p>Muốn nhẩy đẹp chân bước phải thật DŨNG mãnh</p>",
+      "content_text": "Muốn nhẩy đẹp chân bước phải thật DŨNG mãnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157187",
+      "lang": "vi",
+      "content_html": "<p>Phải DŨNG cảm chịu đựng đau CHÂN mới trở thành diễn viên MÚA được</p>",
+      "content_text": "Phải DŨNG cảm chịu đựng đau CHÂN mới trở thành diễn viên MÚA được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157188",
+      "lang": "vi",
+      "content_html": "<p>Chân DŨNG cảm lắm mới dám nhảy múa</p>",
+      "content_text": "Chân DŨNG cảm lắm mới dám nhảy múa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

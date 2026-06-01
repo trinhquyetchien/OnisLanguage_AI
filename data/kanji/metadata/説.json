@@ -1,0 +1,91 @@
+{
+  "kanji": "説",
+  "meta": {
+    "weight": 2495,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セツ",
+      "ゼイ"
+    ],
+    "kun": [
+      "と.く"
+    ],
+    "am_han": "THUYẾT"
+  },
+  "meaning": {
+    "vi": "thuyết minh, lí thuyết",
+    "en": "opinion, theory, explanation, rumor"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/説.svg"
+  },
+  "frequency": 326,
+  "examples": [
+    "説明",
+    "小説",
+    "解説",
+    "説",
+    "説得"
+  ],
+  "explanation": {
+    "id": "4454",
+    "text": "説 (đọc là \"setsu\" hoặc \"se\") có nghĩa là \"giải thích\", \"nói\", để chỉ các hành động liên quan đến việc truyền đạt thông tin, lý giải hoặc thuyết phục người khác.\n\nVí dụ:\n- 説明 (setsumei): Giải"
+  },
+  "comments": [
+    {
+      "id": "1024",
+      "lang": "vi",
+      "content_html": "<p>Anh trai (兄) tôi đang <strong>giải thích</strong>.</p>",
+      "content_text": "Anh trai (兄) tôi đang\ngiải thích\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62a0a8361273c.jpg",
+      "image_path": "assets/images/説_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191187",
+      "lang": "vi",
+      "content_html": "<p><strong>thuyết </strong>minh</p>",
+      "content_text": "thuyết\nminh",
+      "image_url": "https://jpdictionary.com/upload/images/648ad80bf2bf8.jpg",
+      "image_path": "assets/images/説_2.jpg",
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "156937",
+      "lang": "vi",
+      "content_html": "<p>NGÔN từ của HUYNH như TIỂU THUYẾT vậy</p>",
+      "content_text": "NGÔN từ của HUYNH như TIỂU THUYẾT vậy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

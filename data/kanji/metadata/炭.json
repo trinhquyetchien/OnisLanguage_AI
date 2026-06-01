@@ -1,0 +1,90 @@
+{
+  "kanji": "炭",
+  "meta": {
+    "weight": 1649,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "すみ"
+    ],
+    "am_han": "THAN"
+  },
+  "meaning": {
+    "vi": "than",
+    "en": "charcoal, coal"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/炭.svg"
+  },
+  "frequency": 1307,
+  "examples": [
+    "石炭",
+    "炭",
+    "炭鉱",
+    "炭素",
+    "炭酸"
+  ],
+  "explanation": {
+    "id": "5138",
+    "text": "炭 (đọc là \"tan\") có nghĩa là \"than\", chỉ vật liệu dùng để đốt hoặc làm nhiên liệu.  \nVí dụ:  \n- 炭火 (sumibi): Lửa than.  \n- 炭酸 (tansan): Axit carbonic, nước có ga.  \n- 木炭 (mokutan): Than gỗ."
+  },
+  "comments": [
+    {
+      "id": "155153",
+      "lang": "vi",
+      "content_html": "<p>Tàn tro dưới núi là than</p>",
+      "content_text": "Tàn tro dưới núi là than",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155154",
+      "lang": "vi",
+      "content_html": "<p>nghĩa hán việt sai rồi, phải là THAN chứ</p>",
+      "content_text": "nghĩa hán việt sai rồi, phải là THAN chứ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155155",
+      "lang": "vi",
+      "content_html": "<p>Đốt nhà dưới Núi thành Than.</p>",
+      "content_text": "Đốt nhà dưới Núi thành Than.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

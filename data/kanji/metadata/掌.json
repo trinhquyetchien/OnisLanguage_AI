@@ -1,0 +1,91 @@
+{
+  "kanji": "掌",
+  "meta": {
+    "weight": 1113,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "てのひら",
+      "たなごころ"
+    ],
+    "am_han": "CHƯỞNG"
+  },
+  "meaning": {
+    "vi": "thao túng, cai trị, quản trị, ứng xử, lòng bàn tay",
+    "en": "manipulate, rule, administer, conduct, palm of hand"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/掌.svg"
+  },
+  "frequency": 1757,
+  "examples": [
+    "掌",
+    "掌握",
+    "車掌",
+    "合掌",
+    "管掌"
+  ],
+  "explanation": {
+    "id": "3818",
+    "text": "掌 (đọc là \"shō\") có nghĩa là \"bàn tay\" hoặc \"nắm giữ\", thường dùng để chỉ hành động cầm nắm hoặc kiểm soát một cái gì đó.\n\nVí dụ:\n- 掌握 (shōaku): Nắm vững, kiểm soát.\n- 掌中 (shōchū): Trong lòn"
+  },
+  "comments": [
+    {
+      "id": "153947",
+      "lang": "vi",
+      "content_html": "<p>Hòa Thượng (尚) giơ Tay (手) tung CHƯỞNG</p>",
+      "content_text": "Hòa Thượng (尚) giơ Tay (手) tung CHƯỞNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153948",
+      "lang": "vi",
+      "content_html": "<p>Để cái mồm được ngậm vương miện thì tay phải tung chưởng</p>",
+      "content_text": "Để cái mồm được ngậm vương miện thì tay phải tung chưởng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153949",
+      "lang": "vi",
+      "content_html": "<p>công ty đã không có Thưởng (賞) tiền, còn lấy tay cho 1 chưởng (掌) :)) ngao ngán !</p>",
+      "content_text": "công ty đã không có Thưởng (賞) tiền, còn lấy tay cho 1 chưởng (掌) :)) ngao ngán !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

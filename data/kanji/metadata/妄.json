@@ -1,0 +1,88 @@
+{
+  "kanji": "妄",
+  "meta": {
+    "weight": 647,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モウ",
+      "ボウ"
+    ],
+    "kun": [
+      "みだ.りに"
+    ],
+    "am_han": "VỌNG"
+  },
+  "meaning": {
+    "vi": "ảo tưởng, không cần thiết, không có thẩm quyền, liều lĩnh",
+    "en": "delusion, unnecessarily, without authority, reckless"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/妄.svg"
+  },
+  "frequency": 2264,
+  "examples": [
+    "妄想",
+    "妄言"
+  ],
+  "explanation": {
+    "id": "7596",
+    "text": "妄 (đọc là \"mou\") có nghĩa là \"ảo tưởng\", \"hư cấu\" để chỉ những suy nghĩ hoặc hành động không thực tế, điên rồ.  \nVí dụ:  \n- 妄想 (mousou): Ảo tưởng, mơ mộng.  \n- 妄信 (moushin): Tin tưởng mù quá"
+  },
+  "comments": [
+    {
+      "id": "152791",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ chết vì sự nhẹ dạ cả tin hy vọng viễn vông</p>",
+      "content_text": "Phụ nữ chết vì sự nhẹ dạ cả tin hy vọng viễn vông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152792",
+      "lang": "vi",
+      "content_html": "<p>vọng tưởng  vì người con gái đã chết</p>",
+      "content_text": "vọng tưởng  vì người con gái đã chết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152793",
+      "lang": "vi",
+      "content_html": "<p>Vong của người phụ Nữ rất nặng. Vong nặng Vọng</p>",
+      "content_text": "Vong của người phụ Nữ rất nặng. Vong nặng Vọng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

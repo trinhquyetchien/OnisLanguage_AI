@@ -1,0 +1,107 @@
+{
+  "kanji": "座",
+  "meta": {
+    "weight": 869,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ザ"
+    ],
+    "kun": [
+      "すわ.る"
+    ],
+    "am_han": "TỌA"
+  },
+  "meaning": {
+    "vi": "ngồi, tọa đàm",
+    "en": "squat, seat, cushion, gathering, sit"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/座.svg"
+  },
+  "frequency": 588,
+  "examples": [
+    "講座",
+    "座",
+    "口座",
+    "座長",
+    "銀座"
+  ],
+  "explanation": {
+    "id": "2769",
+    "text": "座 (đọc là \"za\") có nghĩa là \"chỗ ngồi\", \"hội trường\" hoặc \"ngồi\". \n\nVí dụ:\n- 座席 (zaseki): Chỗ ngồi, ghế ngồi.\n- 座る (suwaru): Ngồi.\n- 椅子座 (isuza): Ghế ngồi."
+  },
+  "comments": [
+    {
+      "id": "37300",
+      "lang": "vi",
+      "content_html": "<p>Hai người (人) <strong>ngồi </strong>trên đất (土).</p>",
+      "content_text": "Hai người (人)\nngồi\ntrên đất (土).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe1e688839.jpg",
+      "image_path": "assets/images/座_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153338",
+      "lang": "vi",
+      "content_html": "<p>trong nhà có 2 người ngồi tòa đàm dưới đất</p>",
+      "content_text": "trong nhà có 2 người ngồi tòa đàm dưới đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158951",
+      "lang": "vi",
+      "content_html": "<p>座席(ざせき): Chỗ ngồi</p>",
+      "content_text": "座席(ざせき): Chỗ ngồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "153339",
+      "lang": "vi",
+      "content_html": "<p>Dưới mái nhà, 2 người ngồi trên đất</p>",
+      "content_text": "Dưới mái nhà, 2 người ngồi trên đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

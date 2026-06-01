@@ -1,0 +1,34 @@
+{
+  "kanji": "狛",
+  "meta": {
+    "weight": 1711,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハク"
+    ],
+    "kun": [
+      "こま"
+    ],
+    "am_han": "BẠC"
+  },
+  "meaning": {
+    "vi": "một phần cổ xưa của Hàn Quốc, những người bảo vệ đền thờ sư tử-chó",
+    "en": "archaic part of Korea, lion-dog shrine guards"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/狛.svg"
+  },
+  "frequency": 2196,
+  "examples": [
+    "狛犬"
+  ],
+  "explanation": {
+    "id": "2669",
+    "text": "狛 (đọc là \"koma\") có nghĩa là \"sư tử đá\" hoặc \"các con vật bảo vệ\" thường được đặt trước cổng đền thờ Shinto ở Nhật Bản. \n\nVí dụ:\n- 狛犬 (komainu): Sư tử đá, tượng đôi thường thấy ở cổng đền.\n"
+  },
+  "comments": []
+}

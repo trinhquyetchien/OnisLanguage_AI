@@ -1,0 +1,111 @@
+{
+  "kanji": "温",
+  "meta": {
+    "weight": 1578,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オン"
+    ],
+    "kun": [
+      "あたた.か",
+      "あたた.かい",
+      "あたた.まる",
+      "あたた.める",
+      "ぬく"
+    ],
+    "am_han": "ÔN"
+  },
+  "meaning": {
+    "vi": "ấm, ôn hòa",
+    "en": "warm"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/温.svg"
+  },
+  "frequency": 838,
+  "examples": [
+    "温泉",
+    "温度",
+    "気温",
+    "温暖",
+    "温かい"
+  ],
+  "explanation": {
+    "id": "591",
+    "text": "温 (đọc là \"on\" hoặc \"atsu\") có nghĩa là \"ấm\", \"nhiệt độ\" để chỉ sự ấm áp hoặc những điều liên quan đến nhiệt độ.\n\nVí dụ:\n- 温度 (ondo): Nhiệt độ.\n- 温かい (atatakai): Ấm áp.\n- 温泉 (onsen): Suối nư"
+  },
+  "comments": [
+    {
+      "id": "154987",
+      "lang": "vi",
+      "content_html": "<p>NƯỚC đổ vào cái ĐĨA để dưới ánh nắng MẶT TRỜI k ÔN (ấm) với lạ</p>",
+      "content_text": "NƯỚC đổ vào cái ĐĨA để dưới ánh nắng MẶT TRỜI k ÔN (ấm) với lạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191097",
+      "lang": "vi",
+      "content_html": "<p><strong>ấm</strong></p><p>温泉 - suối nước nóng</p>",
+      "content_text": "ấm\n温泉 - suối nước nóng",
+      "image_url": "https://jpdictionary.com/upload/images/648abf867eb73.jpg",
+      "image_path": "assets/images/温_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "154988",
+      "lang": "vi",
+      "content_html": "<p>Mặt trời làm ấm nước trong cái bát</p>",
+      "content_text": "Mặt trời làm ấm nước trong cái bát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154989",
+      "lang": "vi",
+      "content_html": "<p>nước NHẬT là MẢNH đất rất ÔN hòa</p>",
+      "content_text": "nước NHẬT là MẢNH đất rất ÔN hòa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

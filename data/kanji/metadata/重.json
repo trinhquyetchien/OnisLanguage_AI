@@ -1,0 +1,97 @@
+{
+  "kanji": "重",
+  "meta": {
+    "weight": 2735,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュウ",
+      "チョウ"
+    ],
+    "kun": [
+      "え",
+      "おも.い",
+      "おも.り",
+      "おも.なう",
+      "かさ.ねる",
+      "かさ.なる",
+      "おも"
+    ],
+    "am_han": "TRỌNG"
+  },
+  "meaning": {
+    "vi": "nặng, trọng lượng",
+    "en": "heavy, important, esteem, respect, heap up, pile up, nest of boxes, -fold"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/重.svg"
+  },
+  "frequency": 193,
+  "examples": [
+    "重要",
+    "重",
+    "貴重",
+    "重視",
+    "重大"
+  ],
+  "explanation": {
+    "id": "3576",
+    "text": "重 (đọc là \"jū\" hoặc \"omo\") có nghĩa là \"nặng\", \"trọng\" để chỉ trọng lượng, tầm quan trọng hoặc khối lượng.  \nVí dụ:  \n- 重い (omoi): Nặng.  \n- 重力 (jūryoku): Trọng lực.  \n- 重ねる (kasaneru): Chồn"
+  },
+  "comments": [
+    {
+      "id": "1037",
+      "lang": "vi",
+      "content_html": "<p>Một nghìn (千) quyển sách sẽ rất <strong>nặng</strong>.</p>",
+      "content_text": "Một nghìn (千) quyển sách sẽ rất\nnặng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62a1e14d09883.jpg",
+      "image_path": "assets/images/重_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191217",
+      "lang": "vi",
+      "content_html": "<p><strong>nặng</strong></p>",
+      "content_text": "nặng",
+      "image_url": "https://jpdictionary.com/upload/images/648add16013cb.jpg",
+      "image_path": "assets/images/重_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "157513",
+      "lang": "vi",
+      "content_html": "<p>Người ta cho rằng chiếc xe ( 車 ) có thêm hai cái bánh rất quan TRỌNG ( 重い )</p>",
+      "content_text": "Người ta cho rằng chiếc xe ( 車 ) có thêm hai cái bánh rất quan TRỌNG ( 重い )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

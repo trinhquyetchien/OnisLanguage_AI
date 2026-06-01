@@ -1,0 +1,51 @@
+{
+  "kanji": "叛",
+  "meta": {
+    "weight": 428,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン",
+      "ホン"
+    ],
+    "kun": [
+      "そむ.く"
+    ],
+    "am_han": "BẠN"
+  },
+  "meaning": {
+    "vi": "không tuân theo, bất chấp, quay trở lại, nổi loạn",
+    "en": "disobey, defy, go back on, rebel, rebellion"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/叛.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6447",
+    "text": "叛 (đọc là \"han\") có nghĩa là \"phản bội\", chỉ hành động chống lại hoặc không tuân theo một quyền lực hay tổ chức nào đó.\n\nVí dụ:\n- 叛逆 (hangyaku): Phản nghịch, nổi loạn.\n- 叛徒 (hantō): Kẻ phản "
+  },
+  "comments": [
+    {
+      "id": "219064",
+      "lang": "vi",
+      "content_html": "<p>bị Bạn(叛) Phản (反) bội Bán (半) đứng sau lưng</p>",
+      "content_text": "bị Bạn(叛) Phản (反) bội Bán (半) đứng sau lưng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

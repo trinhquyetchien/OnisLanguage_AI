@@ -1,0 +1,86 @@
+{
+  "kanji": "彰",
+  "meta": {
+    "weight": 916,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "CHƯƠNG"
+  },
+  "meaning": {
+    "vi": "bằng sáng chế, rõ ràng",
+    "en": "patent, clear"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/彰.svg"
+  },
+  "frequency": 1310,
+  "examples": [
+    "表彰",
+    "表彰台",
+    "顕彰"
+  ],
+  "explanation": {
+    "id": "3806",
+    "text": "彰 (đọc là \"shō\") có nghĩa là \"rõ ràng\", \"minh bạch\", thường chỉ sự làm nổi bật hoặc thể hiện một cách rõ ràng.  \nVí dụ:  \n- 彰明 (shōmei): Rõ ràng, minh bạch.  \n- 彰示 (shōji): Làm rõ, thể hiện."
+  },
+  "comments": [
+    {
+      "id": "153441",
+      "lang": "vi",
+      "content_html": "<p>Sớm đứng dậy vươn lên 3 lần sẽ được tuyên dương</p>",
+      "content_text": "Sớm đứng dậy vươn lên 3 lần sẽ được tuyên dương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153442",
+      "lang": "vi",
+      "content_html": "<p>sáng sớm đứng dậy xã tóc nhận huân chương trông thật rực rỡ</p>",
+      "content_text": "sáng sớm đứng dậy xã tóc nhận huân chương trông thật rực rỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153443",
+      "lang": "vi",
+      "content_html": "<p>Khen thưởng huy chương 3 gạch</p>",
+      "content_text": "Khen thưởng huy chương 3 gạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

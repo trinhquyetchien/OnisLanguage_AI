@@ -1,0 +1,94 @@
+{
+  "kanji": "割",
+  "meta": {
+    "weight": 338,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カツ"
+    ],
+    "kun": [
+      "わ.る",
+      "わり",
+      "わ.り",
+      "わ.れる",
+      "さ.く"
+    ],
+    "am_han": "CÁT"
+  },
+  "meaning": {
+    "vi": "chia cắt",
+    "en": "proportion, comparatively, divide, cut, separate, split"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/割.svg"
+  },
+  "frequency": 318,
+  "examples": [
+    "割",
+    "役割",
+    "割合",
+    "分割",
+    "割引"
+  ],
+  "explanation": {
+    "id": "970",
+    "text": "割 (đọc là \"katsu\" hoặc \"waru\") có nghĩa là \"cắt\", \"chia\" để chỉ các hành động liên quan đến việc cắt đứt hoặc chia tách.  \nVí dụ:  \n- 割引 (waribiki): Giảm giá, khuyến mãi.  \n- 割れる (wareru): B"
+  },
+  "comments": [
+    {
+      "id": "152051",
+      "lang": "vi",
+      "content_html": "<p>Đưa dao cắt khẩu sinh trong nhà</p>",
+      "content_text": "Đưa dao cắt khẩu sinh trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152052",
+      "lang": "vi",
+      "content_html": "<p>cắt bỏ cái có hại bằng đao</p>",
+      "content_text": "cắt bỏ cái có hại bằng đao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152053",
+      "lang": "vi",
+      "content_html": "<p>thằng nào ăn HẠI 害 tao sẽ lấy ĐAO刂 chém nát giống bao CÁT 割 ...</p>",
+      "content_text": "thằng nào ăn HẠI 害 tao sẽ lấy ĐAO刂 chém nát giống bao CÁT 割 ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

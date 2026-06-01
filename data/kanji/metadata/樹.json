@@ -1,0 +1,90 @@
+{
+  "kanji": "樹",
+  "meta": {
+    "weight": 1424,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュ"
+    ],
+    "kun": [
+      "き"
+    ],
+    "am_han": "THỤ"
+  },
+  "meaning": {
+    "vi": "gỗ, cây, thành lập, thiết lập",
+    "en": "timber, trees, wood, establish, set up"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/樹.svg"
+  },
+  "frequency": 988,
+  "examples": [
+    "樹",
+    "樹木",
+    "樹立",
+    "樹脂",
+    "果樹"
+  ],
+  "explanation": {
+    "id": "3456",
+    "text": "樹 (đọc là \"ju\") có nghĩa là \"cây\" để chỉ các loài thực vật gỗ.  \nVí dụ:  \n- 樹木 (jumoku): Cây cối, rừng cây.  \n- 樹脂 (jushi): Nhựa cây.  \n- 常緑樹 (jōryokuju): Cây thường xanh."
+  },
+  "comments": [
+    {
+      "id": "154618",
+      "lang": "vi",
+      "content_html": "<p>ở giữa ngôi làng  村　có 10  十　cây đậu  豆　cổ THụ</p>",
+      "content_text": "ở giữa ngôi làng  村　có 10  十　cây đậu  豆　cổ THụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154619",
+      "lang": "vi",
+      "content_html": "<p>đậu má thằng nào ăn trộm cây cổ thụ của tao, thốn thật</p>",
+      "content_text": "đậu má thằng nào ăn trộm cây cổ thụ của tao, thốn thật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154620",
+      "lang": "vi",
+      "content_html": "<p>Cây cổ Thụ có 10 hạt Đậu là rất thiếu Thốn.</p>",
+      "content_text": "Cây cổ Thụ có 10 hạt Đậu là rất thiếu Thốn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

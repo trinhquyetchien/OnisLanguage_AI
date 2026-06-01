@@ -1,0 +1,106 @@
+{
+  "kanji": "上",
+  "meta": {
+    "weight": 77,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ",
+      "ショウ",
+      "シャン"
+    ],
+    "kun": [
+      "うえ",
+      "-うえ",
+      "うわ-",
+      "かみ",
+      "あ.げる",
+      "-あ.げる",
+      "あ.がる",
+      "-あ.がる",
+      "あ.がり",
+      "-あ.がり",
+      "のぼ.る",
+      "のぼ.り",
+      "のぼ.せる",
+      "のぼ.す",
+      "たてまつ.る"
+    ],
+    "am_han": "THƯỢNG"
+  },
+  "meaning": {
+    "vi": "trên, thượng đẳng",
+    "en": "above, up"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/上.svg"
+  },
+  "frequency": 35,
+  "examples": [
+    "上",
+    "以上",
+    "上げ",
+    "上昇",
+    "向上"
+  ],
+  "explanation": {
+    "id": "3940",
+    "text": "上 (đọc là \"jou\" hoặc \"ue\") có nghĩa là \"trên\", \"cái trên\" để chỉ vị trí cao hơn hoặc thứ bậc. \n\nVí dụ:\n- 上司 (joushi): Cấp trên, sếp.\n- 上がる (agaru): Tăng lên, đi lên.\n- 上着 (uwagi): Áo ngoài, "
+  },
+  "comments": [
+    {
+      "id": "190854",
+      "lang": "vi",
+      "content_html": "",
+      "content_text": "",
+      "image_url": "https://jpdictionary.com/upload/images/648a456861ff0.jpg",
+      "image_path": "assets/images/上_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "507",
+      "lang": "vi",
+      "content_html": "<p>Chỗ này là phía <strong>trên </strong>đường thẳng</p>",
+      "content_text": "Chỗ này là phía\ntrên\nđường thẳng",
+      "image_url": "https://jpdictionary.com/upload/images/629766c1e9a6f.jpg",
+      "image_path": "assets/images/上_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158339",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5<br>上 (うえ): trên<br>上着 (うわぎ): áo khoác<br>上手 (じょうず): giỏi, khéo</p><p>上げる (あげる): nâng lên, đưa lên</p>",
+      "content_text": "JLPT N5\n上 (うえ): trên\n上着 (うわぎ): áo khoác\n上手 (じょうず): giỏi, khéo\n上げる (あげる): nâng lên, đưa lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

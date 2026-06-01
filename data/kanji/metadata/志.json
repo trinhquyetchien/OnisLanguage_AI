@@ -1,0 +1,92 @@
+{
+  "kanji": "志",
+  "meta": {
+    "weight": 942,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "シリング",
+      "こころざ.す",
+      "こころざし"
+    ],
+    "am_han": "CHÍ"
+  },
+  "meaning": {
+    "vi": "ý định, kế hoạch, giải quyết, khao khát, động cơ, hy vọng, shilling",
+    "en": "intention, plan, resolve, aspire, motive, hopes, shilling"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/志.svg"
+  },
+  "frequency": 823,
+  "examples": [
+    "意志",
+    "志",
+    "志向",
+    "同志",
+    "志望"
+  ],
+  "explanation": {
+    "id": "3082",
+    "text": "志 (đọc là \"shi\") có nghĩa là \"ý chí\", \"nguyện vọng\" để chỉ sự quyết tâm, mong muốn hoặc mục tiêu của một người.\n\nVí dụ:\n- 志望 (shibou): Nguyện vọng, mong muốn.\n- 志す (shisoku): Đặt mục tiêu, c"
+  },
+  "comments": [
+    {
+      "id": "153517",
+      "lang": "vi",
+      "content_html": "<p>Nhân SĨ có TÂM là người CHÍ lớn</p>",
+      "content_text": "Nhân SĨ có TÂM là người CHÍ lớn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153518",
+      "lang": "vi",
+      "content_html": "<p>Trái tim của dũng sĩ tràn đầy ý chí</p>",
+      "content_text": "Trái tim của dũng sĩ tràn đầy ý chí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153519",
+      "lang": "vi",
+      "content_html": "<p>khác với  (雑-tạp) 誌-chí</p>",
+      "content_text": "khác với  (雑-tạp) 誌-chí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "kanji": "織",
+  "meta": {
+    "weight": 2117,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショク",
+      "シキ"
+    ],
+    "kun": [
+      "お.る",
+      "お.り",
+      "おり",
+      "-おり",
+      "-お.り"
+    ],
+    "am_han": "CHỨC, CHÍ, XÍ"
+  },
+  "meaning": {
+    "vi": "dệt, vải",
+    "en": "weave, fabric"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/織.svg"
+  },
+  "frequency": 608,
+  "examples": [
+    "組織",
+    "織",
+    "織り",
+    "織物",
+    "織姫"
+  ],
+  "explanation": {
+    "id": "4024",
+    "text": "織 (đọc là \"shiki\" hoặc \"nuru\") có nghĩa là \"dệt\", chỉ các hành động liên quan đến việc dệt vải hoặc tổ chức, sắp xếp.  \nVí dụ:  \n- 織物 (shirushi): Vải dệt.  \n- 織る (oru): Dệt.  \n- 織姫 (Orihime)"
+  },
+  "comments": [
+    {
+      "id": "156154",
+      "lang": "vi",
+      "content_html": "<p>識 : Nói tri thức<br><br>織 : Nối tổ chức<br><br>職 : Nghe công việc</p>",
+      "content_text": "識 : Nói tri thức\n織 : Nối tổ chức\n職 : Nghe công việc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156155",
+      "lang": "vi",
+      "content_html": "<p>chiến đấu với những sơij chỉ phát ra âm thanh gọi là dệt vải</p>",
+      "content_text": "chiến đấu với những sơij chỉ phát ra âm thanh gọi là dệt vải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156156",
+      "lang": "vi",
+      "content_html": "<p>DỆT vải phải cho CHỈ QUA chiếc máy đang phát ÂM THANH kia</p>",
+      "content_text": "DỆT vải phải cho CHỈ QUA chiếc máy đang phát ÂM THANH kia",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

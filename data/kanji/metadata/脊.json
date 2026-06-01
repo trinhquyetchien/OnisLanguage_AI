@@ -1,0 +1,89 @@
+{
+  "kanji": "脊",
+  "meta": {
+    "weight": 2196,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ"
+    ],
+    "kun": [
+      "せ",
+      "せい"
+    ],
+    "am_han": "TÍCH"
+  },
+  "meaning": {
+    "vi": "tầm vóc, chiều cao",
+    "en": "stature, height"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/脊.svg"
+  },
+  "frequency": 2299,
+  "examples": [
+    "脊髄",
+    "脊椎",
+    "脊椎動物"
+  ],
+  "explanation": {
+    "id": "4412",
+    "text": "脊 (đọc là \"seki\") có nghĩa là \"cột sống\" hoặc \"lưng\", liên quan đến phần sau của cơ thể con người hoặc động vật.\n\nVí dụ:\n- 脊柱 (sekichū): Cột sống.\n- 脊髄 (sekizui): Tủy sống.\n- 脊梁 (sekiryō): X"
+  },
+  "comments": [
+    {
+      "id": "156335",
+      "lang": "vi",
+      "content_html": "<p>TÍCH của 2 Nhân với Trăng tròn 16 = 32 cái ĐỐT SỐNG</p>",
+      "content_text": "TÍCH của 2 Nhân với Trăng tròn 16 = 32 cái ĐỐT SỐNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156336",
+      "lang": "vi",
+      "content_html": "<p>Trong người chị nguyệt tích tụ 4 cái đốt sống</p>",
+      "content_text": "Trong người chị nguyệt tích tụ 4 cái đốt sống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156337",
+      "lang": "vi",
+      "content_html": "<p>8x4 = 24 đốt sống ẩn dưới da thịt</p>",
+      "content_text": "8x4 = 24 đốt sống ẩn dưới da thịt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

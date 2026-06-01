@@ -1,0 +1,89 @@
+{
+  "kanji": "孝",
+  "meta": {
+    "weight": 698,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "キョウ"
+    ],
+    "kun": [],
+    "am_han": "HIẾU"
+  },
+  "meaning": {
+    "vi": "lòng hiếu thảo, sự kính trọng của con cái",
+    "en": "filial piety, child's respect"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/孝.svg"
+  },
+  "frequency": 1030,
+  "examples": [
+    "孝",
+    "親孝行",
+    "孝行",
+    "孝子",
+    "忠孝"
+  ],
+  "explanation": {
+    "id": "2417",
+    "text": "孝 (đọc là \"kō\") có nghĩa là \"hiếu thảo\", chỉ lòng hiếu kính đối với cha mẹ và tổ tiên.  \nVí dụ:  \n- 孝行 (kōkō): Hiếu thảo, lòng hiếu kính.  \n- 孝子 (kōshi): Con hiếu thảo, người con biết kính t"
+  },
+  "comments": [
+    {
+      "id": "152902",
+      "lang": "vi",
+      "content_html": "<p>Người CON có HIẾU đi cuốc ĐẤT cho mẹ</p>",
+      "content_text": "Người CON có HIẾU đi cuốc ĐẤT cho mẹ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152903",
+      "lang": "vi",
+      "content_html": "<p>TRẺ cõng GIÀ thì là có HIẾU</p>",
+      "content_text": "TRẺ cõng GIÀ thì là có HIẾU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152904",
+      "lang": "vi",
+      "content_html": "<p>Đất thì là đất lắm bùn ao - Ai cắm cây xào sao lại chẳng ngay - Con ai mà đứng ở đây- Đứng thì chẳng đứng, vịn ngay vào sào</p>",
+      "content_text": "Đất thì là đất lắm bùn ao - Ai cắm cây xào sao lại chẳng ngay - Con ai mà đứng ở đây- Đứng thì chẳng đứng, vịn ngay vào sào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

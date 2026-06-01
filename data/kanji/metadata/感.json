@@ -1,0 +1,105 @@
+{
+  "kanji": "感",
+  "meta": {
+    "weight": 1001,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [],
+    "am_han": "CẢM"
+  },
+  "meaning": {
+    "vi": "cảm xúc, cảm giác",
+    "en": "emotion, feeling, sensation"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/感.svg"
+  },
+  "frequency": 233,
+  "examples": [
+    "感じ",
+    "感",
+    "感じる",
+    "感謝",
+    "感覚"
+  ],
+  "explanation": {
+    "id": "1105",
+    "text": "感 (đọc là \"kan\") có nghĩa là \"cảm giác\", \"cảm xúc\" để chỉ các trạng thái, cảm nhận của con người.\n\nVí dụ:\n- 感情 (kanjō): Cảm xúc, tình cảm.\n- 感謝 (kansha): Biết ơn, cảm tạ.\n- 感染 (kansen): Nhiễ"
+  },
+  "comments": [
+    {
+      "id": "37050",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã <strong>cảm thấy</strong> sốc khi nhìn thấy một người cầm vũ khí.</p>",
+      "content_text": "Tôi đã\ncảm thấy\nsốc khi nhìn thấy một người cầm vũ khí.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc53894603d.png",
+      "image_path": "assets/images/感_1.png",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153667",
+      "lang": "vi",
+      "content_html": "<p>Giảm CẢM giác trong Tim</p>",
+      "content_text": "Giảm CẢM giác trong Tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153668",
+      "lang": "vi",
+      "content_html": "<p>Nhất (一) Khẩu (口)Thành (成Tâm (心)</p>",
+      "content_text": "Nhất (一) Khẩu (口)Thành (成Tâm (心)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153669",
+      "lang": "vi",
+      "content_html": "<p>Một lời nói Cảm tạ qua trái trái tim</p>",
+      "content_text": "Một lời nói Cảm tạ qua trái trái tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

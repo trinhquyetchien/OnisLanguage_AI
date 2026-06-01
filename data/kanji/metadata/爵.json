@@ -1,0 +1,82 @@
+{
+  "kanji": "爵",
+  "meta": {
+    "weight": 1682,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャク"
+    ],
+    "kun": [],
+    "am_han": "TƯỚC"
+  },
+  "meaning": {
+    "vi": "nam tước, cảnh sát, cấp bậc tòa án",
+    "en": "baron, peerage, court rank"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/爵.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3379",
+    "text": "爵 (đọc là \"jak\") có nghĩa là \"tước vị\", \"quyền lực\" để chỉ các cấp bậc trong xã hội hoặc tôn vinh cá nhân có quyền lực.  \nVí dụ:  \n- 爵位 (jakui): Tước vị, địa vị cao.  \n- 公爵 (kōshaku): Công t"
+  },
+  "comments": [
+    {
+      "id": "220049",
+      "lang": "vi",
+      "content_html": "<p>Có Chức TƯỚC mà thiếu Thốn Lương tâm thì 0 khác gì người mù Mắt</p>",
+      "content_text": "Có Chức TƯỚC mà thiếu Thốn Lương tâm thì 0 khác gì người mù Mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220050",
+      "lang": "vi",
+      "content_html": "<p>Cào cào móng tay trên võng , lấn cấn ko thấy thốn vì đã có chức TƯỚC</p>",
+      "content_text": "Cào cào móng tay trên võng , lấn cấn ko thấy thốn vì đã có chức TƯỚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220051",
+      "lang": "vi",
+      "content_html": "<p>Mắt mày nhìn thốn mà có lương thì làm hầu tước</p>",
+      "content_text": "Mắt mày nhìn thốn mà có lương thì làm hầu tước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

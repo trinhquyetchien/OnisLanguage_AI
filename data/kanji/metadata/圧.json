@@ -1,0 +1,95 @@
+{
+  "kanji": "圧",
+  "meta": {
+    "weight": 544,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アツ",
+      "エン",
+      "オウ"
+    ],
+    "kun": [
+      "お.す",
+      "へ.す",
+      "おさ.える",
+      "お.さえる"
+    ],
+    "am_han": "ÁP"
+  },
+  "meaning": {
+    "vi": "áp lực",
+    "en": "pressure, push, overwhelm, oppress, dominate"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/圧.svg"
+  },
+  "frequency": 718,
+  "examples": [
+    "圧力",
+    "圧倒的",
+    "圧縮",
+    "弾圧",
+    "抑圧"
+  ],
+  "explanation": {
+    "id": "55",
+    "text": "圧 (đọc là \"atsu\") có nghĩa là \"áp lực\", \"sức ép\", chỉ các hành động liên quan đến việc gây sức ép hoặc nén lại.  \nVí dụ:  \n- 圧力 (atsuryoku): Áp lực.  \n- 圧縮 (asshuku): Nén, thu nhỏ thể tích. "
+  },
+  "comments": [
+    {
+      "id": "152547",
+      "lang": "vi",
+      "content_html": "<p>Đất ở sườn núi dĩ nhiên là AP lực rồi</p>",
+      "content_text": "Đất ở sườn núi dĩ nhiên là AP lực rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152548",
+      "lang": "vi",
+      "content_html": "<p>đất ở sường núi chịu nhiều áp lực</p>",
+      "content_text": "đất ở sường núi chịu nhiều áp lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152549",
+      "lang": "vi",
+      "content_html": "<p>Báo cáo! báo cáo!!! Vùng ĐẤT dưới SƯỜN NÚI đã bị giặc ÁP chế.</p>",
+      "content_text": "Báo cáo! báo cáo!!! Vùng ĐẤT dưới SƯỜN NÚI đã bị giặc ÁP chế.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

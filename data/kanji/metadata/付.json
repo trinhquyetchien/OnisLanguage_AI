@@ -1,0 +1,104 @@
+{
+  "kanji": "付",
+  "meta": {
+    "weight": 141,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "つ.ける",
+      "-つ.ける",
+      "-づ.ける",
+      "つ.け",
+      "つ.け-",
+      "-つ.け",
+      "-づ.け",
+      "-づけ",
+      "つ.く",
+      "-づ.く",
+      "つ.き",
+      "-つ.き",
+      "-つき",
+      "-づ.き",
+      "-づき"
+    ],
+    "am_han": "PHỤ"
+  },
+  "meaning": {
+    "vi": "đính kèm, phụ lục",
+    "en": "adhere, attach, refer to, append"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/付.svg"
+  },
+  "frequency": 322,
+  "examples": [
+    "付け",
+    "付き",
+    "付",
+    "交付",
+    "付近"
+  ],
+  "explanation": {
+    "id": "6785",
+    "text": "付 (đọc là \"fu\" hoặc \"tsu\") có nghĩa là \"gửi\", \"đưa\", \"nộp\" để chỉ hành động chuyển giao hoặc giao nộp cái gì đó.  \nVí dụ:  \n- 付加 (fuka): Thêm vào, bổ sung.  \n- 付属 (fuzoku): Phụ thuộc, kèm th"
+  },
+  "comments": [
+    {
+      "id": "37010",
+      "lang": "vi",
+      "content_html": "<p><strong>Đính </strong>gì đó lên người.</p>",
+      "content_text": "Đính\ngì đó lên người.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4f6feea74.jpg",
+      "image_path": "assets/images/付_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190877",
+      "lang": "vi",
+      "content_html": "<p><strong>đính</strong> gì đó lên người.</p>",
+      "content_text": "đính\ngì đó lên người.",
+      "image_url": "https://jpdictionary.com/upload/images/648a61da4b5e0.jpg",
+      "image_path": "assets/images/付_2.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "151541",
+      "lang": "vi",
+      "content_html": "<p>PHÓ 付 giám đốc là người 亻THÊM việc cho tôi thật là THỐN 寸 ...</p>",
+      "content_text": "PHÓ 付 giám đốc là người 亻THÊM việc cho tôi thật là THỐN 寸 ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

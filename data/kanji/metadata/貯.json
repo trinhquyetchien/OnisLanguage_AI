@@ -1,0 +1,91 @@
+{
+  "kanji": "貯",
+  "meta": {
+    "weight": 2552,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョ"
+    ],
+    "kun": [
+      "た.める",
+      "たくわ.える"
+    ],
+    "am_han": "TRỮ"
+  },
+  "meaning": {
+    "vi": "lưu trữ",
+    "en": "savings, store, lay in, keep, wear mustache"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/貯.svg"
+  },
+  "frequency": 1100,
+  "examples": [
+    "貯金",
+    "貯蓄",
+    "貯蔵",
+    "郵貯",
+    "貯める"
+  ],
+  "explanation": {
+    "id": "5319",
+    "text": "貯 (đọc là \"cho\") có nghĩa là \"tích trữ\", \"để dành\" để chỉ hành động lưu giữ hoặc tích lũy tài sản, tiền bạc.  \nVí dụ:  \n- 貯金 (chokin): Tiền tiết kiệm.  \n- 貯蔵 (chozō): Lưu trữ, bảo quản.  \n- "
+  },
+  "comments": [
+    {
+      "id": "157070",
+      "lang": "vi",
+      "content_html": "<p>tích TRỮ VỎ SÒ dưới MÁI NHÀ đầy ĐINH...</p>",
+      "content_text": "tích TRỮ VỎ SÒ dưới MÁI NHÀ đầy ĐINH...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157071",
+      "lang": "vi",
+      "content_html": "<p>trữ cái Đinh trong nhà để mở võ sò.</p>",
+      "content_text": "trữ cái Đinh trong nhà để mở võ sò.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157072",
+      "lang": "vi",
+      "content_html": "<p>có tiền mua Đinh tích Trữ trong nhà</p>",
+      "content_text": "có tiền mua Đinh tích Trữ trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

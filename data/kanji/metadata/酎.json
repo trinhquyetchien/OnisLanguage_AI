@@ -1,0 +1,85 @@
+{
+  "kanji": "酎",
+  "meta": {
+    "weight": 2714,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ",
+      "チュ"
+    ],
+    "kun": [
+      "かも.す"
+    ],
+    "am_han": "TRỮU"
+  },
+  "meaning": {
+    "vi": "lợi ích",
+    "en": "sake"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/酎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5301",
+    "text": "酎 (đọc là \"chū\") có nghĩa là \"rượu\", thường chỉ loại rượu mạnh hoặc các loại đồ uống có cồn. \n\nVí dụ:\n- 酎ハイ (chūhai): Rượu pha soda.\n- 焼酎 (shōchū): Rượu shōchū, một loại rượu mạnh truyền thố"
+  },
+  "comments": [
+    {
+      "id": "220875",
+      "lang": "vi",
+      "content_html": "<p>rượu mạnh uống vào thốn</p>",
+      "content_text": "rượu mạnh uống vào thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220876",
+      "lang": "vi",
+      "content_html": "<p>rượu mạnh nặng Trữu, uống vào cảm thấy rất thốn</p>",
+      "content_text": "rượu mạnh nặng Trữu, uống vào cảm thấy rất thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220877",
+      "lang": "vi",
+      "content_html": "<p>Tâm tư nặng trữu<br>Mượn Rượu giải sầu<br>Sầu không vơi bớt<br>Thốn càng thêm tăng</p>",
+      "content_text": "Tâm tư nặng trữu\nMượn Rượu giải sầu\nSầu không vơi bớt\nThốn càng thêm tăng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

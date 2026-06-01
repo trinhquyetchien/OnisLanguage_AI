@@ -1,0 +1,109 @@
+{
+  "kanji": "照",
+  "meta": {
+    "weight": 1665,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "て.る",
+      "て.らす",
+      "て.れる"
+    ],
+    "am_han": "CHIẾU"
+  },
+  "meaning": {
+    "vi": "chiếu sáng",
+    "en": "illuminate, shine, compare, bashful"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/照.svg"
+  },
+  "frequency": 1004,
+  "examples": [
+    "参照",
+    "照明",
+    "対照",
+    "照会",
+    "照射"
+  ],
+  "explanation": {
+    "id": "3868",
+    "text": "照 (đọc là \"shou\" hoặc \"terasu\") có nghĩa là \"chiếu sáng\", \"soi sáng\", thường liên quan đến ánh sáng hoặc sự phản chiếu.  \nVí dụ:  \n- 照明 (shoumei): Ánh sáng, chiếu sáng.  \n- 照らす (terasu): Chi"
+  },
+  "comments": [
+    {
+      "id": "155187",
+      "lang": "vi",
+      "content_html": "<p>TRIỆU tập ánh sáng mặt trời CHIẾU thành ngọn LỬA</p>",
+      "content_text": "TRIỆU tập ánh sáng mặt trời CHIẾU thành ngọn LỬA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190773",
+      "lang": "vi",
+      "content_html": "<p>Mặt trời lặn mọi người đôt lửa để chiếu sáng</p>",
+      "content_text": "Mặt trời lặn mọi người đôt lửa để chiếu sáng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "155188",
+      "lang": "vi",
+      "content_html": "<p>照れくさい: ngượng ngùng</p>",
+      "content_text": "照れくさい: ngượng ngùng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155189",
+      "lang": "vi",
+      "content_html": "<p>Triệu 召 tập mọi người đến xung quanh đám lửa 火 để đối chiếu 対照 chuyện đã làm sai vào ngày hôm nay 日</p>",
+      "content_text": "Triệu 召 tập mọi người đến xung quanh đám lửa 火 để đối chiếu 対照 chuyện đã làm sai vào ngày hôm nay 日",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

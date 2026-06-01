@@ -1,0 +1,110 @@
+{
+  "kanji": "尊",
+  "meta": {
+    "weight": 757,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソン"
+    ],
+    "kun": [
+      "たっと.い",
+      "とうと.い",
+      "たっと.ぶ",
+      "とうと.ぶ"
+    ],
+    "am_han": "TÔN"
+  },
+  "meaning": {
+    "vi": "tôn kính",
+    "en": "revered, valuable, precious, noble, exalted"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/尊.svg"
+  },
+  "frequency": 1181,
+  "examples": [
+    "尊重",
+    "尊敬",
+    "尊厳",
+    "尊",
+    "尊い"
+  ],
+  "explanation": {
+    "id": "4841",
+    "text": "尊 (đọc là \"son\") có nghĩa là \"tôn trọng\", \"quý mến\", thường chỉ sự kính trọng dành cho người khác hoặc điều gì đó có giá trị cao.  \nVí dụ:  \n- 尊敬 (sonkei): Sự tôn kính, tôn trọng.  \n- 尊重 (so"
+  },
+  "comments": [
+    {
+      "id": "153055",
+      "lang": "vi",
+      "content_html": "<p>Uống rượu bằng 2 ống hút cảm thấy thốn nhưng vẫn cố tỏ ra tôn nghiêm</p>",
+      "content_text": "Uống rượu bằng 2 ống hút cảm thấy thốn nhưng vẫn cố tỏ ra tôn nghiêm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190775",
+      "lang": "vi",
+      "content_html": "<p>Cầm bát canh gà qua nhà bác thốn thể hiện lòng tôn kính</p>",
+      "content_text": "Cầm bát canh gà qua nhà bác thốn thể hiện lòng tôn kính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "153056",
+      "lang": "vi",
+      "content_html": "<p>Tôn trọng bình rượu quý cảm giác hơi thốn</p>",
+      "content_text": "Tôn trọng bình rượu quý cảm giác hơi thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153057",
+      "lang": "vi",
+      "content_html": "<p>tù trưởng có bình rượu quý mà ko đc TÔN trọng thật là thốn</p>",
+      "content_text": "tù trưởng có bình rượu quý mà ko đc TÔN trọng thật là thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

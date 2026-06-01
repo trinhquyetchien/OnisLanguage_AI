@@ -1,0 +1,95 @@
+{
+  "kanji": "腐",
+  "meta": {
+    "weight": 2202,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "くさ.る",
+      "-くさ.る",
+      "くさ.れる",
+      "くさ.れ",
+      "くさ.らす",
+      "くさ.す"
+    ],
+    "am_han": "HỦ"
+  },
+  "meaning": {
+    "vi": "thối rữa, chua",
+    "en": "rot, decay, sour"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/腐.svg"
+  },
+  "frequency": 1225,
+  "examples": [
+    "豆腐",
+    "腐敗",
+    "陳腐",
+    "腐食",
+    "腐る"
+  ],
+  "explanation": {
+    "id": "6833",
+    "text": "腐 (đọc là \"fu\") có nghĩa là \"thối rữa\", \"hỏng\" để chỉ tình trạng phân hủy hoặc suy tàn của vật chất hoặc ý thức.  \nVí dụ:  \n- 腐敗 (fuhai): Sự hối lộ, tham nhũng.  \n- 腐る (kusaru): Bị thối, hỏn"
+  },
+  "comments": [
+    {
+      "id": "156350",
+      "lang": "vi",
+      "content_html": "<p>Trong nhà gắn thịt lâu ngày thì bị mục rữa</p>",
+      "content_text": "Trong nhà gắn thịt lâu ngày thì bị mục rữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156351",
+      "lang": "vi",
+      "content_html": "<p>trong NHÀ mà bao PHỦ toàn mùi THỊT thối</p>",
+      "content_text": "trong NHÀ mà bao PHỦ toàn mùi THỊT thối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156352",
+      "lang": "vi",
+      "content_html": "<p>Tập tục cổ HỦ: dưới MÁI NHÀ (广) GẮN KÈM (付) miếng THỊT (肉) THỐI</p>",
+      "content_text": "Tập tục cổ HỦ: dưới MÁI NHÀ (广) GẮN KÈM (付) miếng THỊT (肉) THỐI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "慮",
+  "meta": {
+    "weight": 1011,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョ"
+    ],
+    "kun": [
+      "おもんぱく.る",
+      "おもんぱか.る"
+    ],
+    "am_han": "LỰ, LƯ"
+  },
+  "meaning": {
+    "vi": "thận trọng, suy nghĩ, quan tâm, cân nhắc, sợ hãi",
+    "en": "prudence, thought, concern, consider, deliberate, fear"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/慮.svg"
+  },
+  "frequency": 916,
+  "examples": [
+    "考慮",
+    "配慮",
+    "遠慮",
+    "憂慮",
+    "遠慮なく"
+  ],
+  "explanation": {
+    "id": "8080",
+    "text": "慮 (đọc là \"ryo\") có nghĩa là \"cân nhắc\", \"lo lắng\" để chỉ các hành động liên quan đến việc suy nghĩ cẩn thận hoặc lo âu về một điều gì đó.\n\nVí dụ:\n- 懸念 (kenen): Lo ngại, mối bận tâm.\n- 思慮 (s"
+  },
+  "comments": [
+    {
+      "id": "153697",
+      "lang": "vi",
+      "content_html": "<p>Trong nhà suy nghĩ 7  lần cân nhắc lưỡng lự</p>",
+      "content_text": "Trong nhà suy nghĩ 7  lần cân nhắc lưỡng lự",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153698",
+      "lang": "vi",
+      "content_html": "<p>Thoáng thấy VẰN CON HỔ (đọc là HÔ) lướt qua nên rất lưỡng LỰ, tâm TƯ k biết có phải là có hổ k</p>",
+      "content_text": "Thoáng thấy VẰN CON HỔ (đọc là HÔ) lướt qua nên rất lưỡng LỰ, tâm TƯ k biết có phải là có hổ k",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153699",
+      "lang": "vi",
+      "content_html": "<p>7 ô thầy Bói VÔ TƯ LỰ đang treo mình trên vách Núi</p>",
+      "content_text": "7 ô thầy Bói VÔ TƯ LỰ đang treo mình trên vách Núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

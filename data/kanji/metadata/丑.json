@@ -1,0 +1,86 @@
+{
+  "kanji": "丑",
+  "meta": {
+    "weight": 81,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "うし"
+    ],
+    "am_han": "SỬU"
+  },
+  "meaning": {
+    "vi": "dấu hiệu của con bò hoặc con bò, 1-3 giờ sáng, dấu hiệu thứ hai của hoàng đạo Trung Quốc",
+    "en": "sign of the ox or cow, 1-3AM, second sign of Chinese zodiac"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/丑.svg"
+  },
+  "frequency": 2305,
+  "examples": [
+    "丑"
+  ],
+  "explanation": {
+    "id": "307",
+    "text": "丑 (đọc là \"shuu\" hoặc \"chou\") có nghĩa là \"xấu xí\" hoặc \"khó coi\", thường dùng để chỉ những thứ không đẹp hoặc không hấp dẫn.\n\nVí dụ:\n- 丑聞 (shuumon): Tin đồn xấu, tiếng xấu.\n- 丑態 (shuutai): "
+  },
+  "comments": [
+    {
+      "id": "151409",
+      "lang": "vi",
+      "content_html": "<p>Tay cần 2 cái đao là thằng sửu nhi</p>",
+      "content_text": "Tay cần 2 cái đao là thằng sửu nhi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151410",
+      "lang": "vi",
+      "content_html": "<p>SỬU nhi là thế hệ F 2</p>",
+      "content_text": "SỬU nhi là thế hệ F 2",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151411",
+      "lang": "vi",
+      "content_html": "<p>Con trâu to chỉ bằng con dê nên mắc cỡ</p>",
+      "content_text": "Con trâu to chỉ bằng con dê nên mắc cỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

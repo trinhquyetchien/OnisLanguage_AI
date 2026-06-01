@@ -1,0 +1,93 @@
+{
+  "kanji": "伸",
+  "meta": {
+    "weight": 163,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "の.びる",
+      "の.ばす",
+      "の.べる",
+      "の.す"
+    ],
+    "am_han": "THÂN"
+  },
+  "meaning": {
+    "vi": "dãn ra",
+    "en": "expand, stretch, extend, lengthen, increase"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/伸.svg"
+  },
+  "frequency": 730,
+  "examples": [
+    "伸び",
+    "伸びる",
+    "伸ばす",
+    "追伸",
+    "背伸び"
+  ],
+  "explanation": {
+    "id": "4048",
+    "text": "伸 (đọc là \"shin\" hoặc \"noboru\") có nghĩa là \"mở rộng\", \"duỗi ra\", chỉ các hành động liên quan đến việc gia tăng kích thước, chiều dài hoặc phát triển.\n\nVí dụ:\n- 伸びる (nobiru): Duỗi ra, kéo dà"
+  },
+  "comments": [
+    {
+      "id": "151600",
+      "lang": "vi",
+      "content_html": "<p>thân người duỗi thẳng</p>",
+      "content_text": "thân người duỗi thẳng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151601",
+      "lang": "vi",
+      "content_html": "<p>Xe bị tháo bánh ra chỉ còn thân xe</p>",
+      "content_text": "Xe bị tháo bánh ra chỉ còn thân xe",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151602",
+      "lang": "vi",
+      "content_html": "<p>Nhân Thân kéo dài</p>",
+      "content_text": "Nhân Thân kéo dài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

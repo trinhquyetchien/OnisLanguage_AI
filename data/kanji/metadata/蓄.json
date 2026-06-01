@@ -1,0 +1,90 @@
+{
+  "kanji": "蓄",
+  "meta": {
+    "weight": 2326,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チク"
+    ],
+    "kun": [
+      "たくわ.える"
+    ],
+    "am_han": "SÚC"
+  },
+  "meaning": {
+    "vi": "tích lũy, nâng cao, tích trữ, lưu trữ",
+    "en": "amass, raise, hoard, store"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/蓄.svg"
+  },
+  "frequency": 1260,
+  "examples": [
+    "蓄積",
+    "貯蓄",
+    "備蓄",
+    "蓄え",
+    "含蓄"
+  ],
+  "explanation": {
+    "id": "5247",
+    "text": "蓄 (đọc là \"chiku\") có nghĩa là \"tích trữ\", \"dự trữ\" để chỉ việc giữ lại, lưu trữ hoặc tích lũy một cái gì đó.\n\nVí dụ:\n- 蓄える (takuwaeru): Tích trữ, dự trữ.\n- 蓄電池 (chikudenchi): Pin sạc, ắc qu"
+  },
+  "comments": [
+    {
+      "id": "156586",
+      "lang": "vi",
+      "content_html": "<p>Tích trữ cỏ cho gia Súc</p>",
+      "content_text": "Tích trữ cỏ cho gia Súc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156587",
+      "lang": "vi",
+      "content_html": "<p>-hai bộ trên : cỏ tích trên mái nhà<br>-hai bộ dưới trên ruộng đồng(Điền) có hình giống chữ M nằm ngang-&#62; liên tưởng đến chữ Mạ<br>tóm lại là Mạ thì tích ở ngoài đồng ruộng <br>=&#62; gia SÚC thích ăn cỏ và mạ</p>",
+      "content_text": "-hai bộ trên : cỏ tích trên mái nhà\n-hai bộ dưới trên ruộng đồng(Điền) có hình giống chữ M nằm ngang-> liên tưởng đến chữ Mạ\ntóm lại là Mạ thì tích ở ngoài đồng ruộng\n=> gia SÚC thích ăn cỏ và mạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156588",
+      "lang": "vi",
+      "content_html": "<p>HUYỀN nhổ cỏ trên ruộng cho gia SÚC</p>",
+      "content_text": "HUYỀN nhổ cỏ trên ruộng cho gia SÚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

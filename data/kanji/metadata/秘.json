@@ -1,0 +1,92 @@
+{
+  "kanji": "秘",
+  "meta": {
+    "weight": 1928,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "ひ.める",
+      "ひそ.か",
+      "かく.す"
+    ],
+    "am_han": "BÍ"
+  },
+  "meaning": {
+    "vi": "bí mật, che giấu",
+    "en": "secret, conceal"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/秘.svg"
+  },
+  "frequency": 862,
+  "examples": [
+    "秘密",
+    "秘書",
+    "神秘",
+    "秘訣",
+    "秘"
+  ],
+  "explanation": {
+    "id": "6575",
+    "text": "秘 (đọc là \"hi\") có nghĩa là \"bí mật\", \"huyền bí\" để chỉ các điều gì đó không công khai hoặc được giữ kín.\n\nVí dụ:\n- 秘密 (himitsu): Bí mật.\n- 秘書 (hisho): Thư ký.\n- 秘訣 (hiketsu): Bí quyết."
+  },
+  "comments": [
+    {
+      "id": "155741",
+      "lang": "vi",
+      "content_html": "<p>Trồng được cây LÚA tốt TẤT nhiên phải có BÍ mật, BÍ quyết</p>",
+      "content_text": "Trồng được cây LÚA tốt TẤT nhiên phải có BÍ mật, BÍ quyết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155742",
+      "lang": "vi",
+      "content_html": "<p>chuyện của hòa minzy thì tất nhiên phải hỏi bí mật showbiz ;)))</p>",
+      "content_text": "chuyện của hòa minzy thì tất nhiên phải hỏi bí mật showbiz ;)))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155743",
+      "lang": "vi",
+      "content_html": "<p>Chuyện HÒA(禾) Thân giết Lưu gù TẤT(必) phải là BÍ(秘) mật</p>",
+      "content_text": "Chuyện HÒA(禾) Thân giết Lưu gù TẤT(必) phải là BÍ(秘) mật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

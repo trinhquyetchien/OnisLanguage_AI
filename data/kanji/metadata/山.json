@@ -1,0 +1,91 @@
+{
+  "kanji": "山",
+  "meta": {
+    "weight": 787,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン",
+      "セン"
+    ],
+    "kun": [
+      "やま"
+    ],
+    "am_han": "SƠN"
+  },
+  "meaning": {
+    "vi": "núi, sơn hà",
+    "en": "mountain"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/山.svg"
+  },
+  "frequency": 131,
+  "examples": [
+    "山",
+    "沢山",
+    "山本",
+    "山口",
+    "山形"
+  ],
+  "explanation": {
+    "id": "2984",
+    "text": "山 (đọc là \"yama\") có nghĩa là \"núi\", chỉ địa hình cao, hùng vĩ.  \nVí dụ:  \n- 山脈 (sanmyaku): Dãy núi.  \n- 富士山 (Fujisan): Núi Phú Sĩ.  \n- 山登り (yananobori): Leo núi."
+  },
+  "comments": [
+    {
+      "id": "739",
+      "lang": "vi",
+      "content_html": "<p>Hình dáng của <strong>núi</strong>.</p>",
+      "content_text": "Hình dáng của\nnúi\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629849d0f3f89.jpg",
+      "image_path": "assets/images/山_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153133",
+      "lang": "vi",
+      "content_html": "<p>3 cây chụm lại nên hòn núi cao.</p>",
+      "content_text": "3 cây chụm lại nên hòn núi cao.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158452",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>山 (やま): núi</p>",
+      "content_text": "JLPT N5\n山 (やま): núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

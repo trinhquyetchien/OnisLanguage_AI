@@ -1,0 +1,90 @@
+{
+  "kanji": "牧",
+  "meta": {
+    "weight": 1697,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボク"
+    ],
+    "kun": [
+      "まき"
+    ],
+    "am_han": "MỤC"
+  },
+  "meaning": {
+    "vi": "chăn nuôi, chăm sóc, chăn cừu, thức ăn chăn nuôi, đồng cỏ",
+    "en": "breed, care for, shepherd, feed, pasture"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/牧.svg"
+  },
+  "frequency": 1360,
+  "examples": [
+    "牧師",
+    "牧場",
+    "牧",
+    "牧野",
+    "牧草"
+  ],
+  "explanation": {
+    "id": "7331",
+    "text": "牧 (đọc là \"boku\") có nghĩa là \"chăn nuôi\" hoặc \"chăn thả động vật\", thường liên quan đến việc chăm sóc gia súc.  \nVí dụ:  \n- 牧場 (bokujou): Trang trại, nông trại chăn nuôi.  \n- 牧師 (bokushi): "
+  },
+  "comments": [
+    {
+      "id": "155239",
+      "lang": "vi",
+      "content_html": "<p>Tay tác động vào bò là người chăn dắt: mục sư</p>",
+      "content_text": "Tay tác động vào bò là người chăn dắt: mục sư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155240",
+      "lang": "vi",
+      "content_html": "<p>Người chuyên đánh Trâu là: Mục nhân ( người chăn cừu ) mục sư ( linh mục )</p>",
+      "content_text": "Người chuyên đánh Trâu là: Mục nhân ( người chăn cừu ) mục sư ( linh mục )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155241",
+      "lang": "vi",
+      "content_html": "<p>Mục đồng cầm roi quất bò</p>",
+      "content_text": "Mục đồng cầm roi quất bò",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

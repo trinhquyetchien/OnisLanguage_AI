@@ -1,0 +1,107 @@
+{
+  "kanji": "顔",
+  "meta": {
+    "weight": 2917,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガン"
+    ],
+    "kun": [
+      "かお"
+    ],
+    "am_han": "NHAN"
+  },
+  "meaning": {
+    "vi": "khuôn mặt, nhan sắc",
+    "en": "face, expression"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/顔.svg"
+  },
+  "frequency": 676,
+  "examples": [
+    "顔",
+    "笑顔",
+    "顔面",
+    "顔色",
+    "似顔絵"
+  ],
+  "explanation": {
+    "id": "1235",
+    "text": "顔 (đọc là \"kao\") có nghĩa là \"gương mặt\" hoặc \"khuôn mặt\" để chỉ bộ phận cơ thể phản ánh cảm xúc và trạng thái của con người.  \nVí dụ:  \n- 顔色 (kaoiro): Màu sắc khuôn mặt, tình trạng sức khỏe"
+  },
+  "comments": [
+    {
+      "id": "36928",
+      "lang": "vi",
+      "content_html": "<p>Khi gỡ nón ra khỏi đầu thì thấy các vết xước trên <strong>mặt</strong>.</p>",
+      "content_text": "Khi gỡ nón ra khỏi đầu thì thấy các vết xước trên\nmặt\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4445b3a26.jpg",
+      "image_path": "assets/images/顔_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157907",
+      "lang": "vi",
+      "content_html": "<p>Đứng trên sườn núi xoã tóc để vẽ dung Nhan Vào trang giấy</p>",
+      "content_text": "Đứng trên sườn núi xoã tóc để vẽ dung Nhan Vào trang giấy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157908",
+      "lang": "vi",
+      "content_html": "<p>Đứng (立) ở sườn núi (厂) xõa tóc (彡) cầm tờ giấy (頁) che hết cả khuôn mặt (顔)</p>",
+      "content_text": "Đứng (立) ở sườn núi (厂) xõa tóc (彡) cầm tờ giấy (頁) che hết cả khuôn mặt (顔)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157909",
+      "lang": "vi",
+      "content_html": "<p>ĐỨNG trên SƯỜN NÚI xoã TÓC DÀI HIỆT (thiệt) là hồng NHAN</p>",
+      "content_text": "ĐỨNG trên SƯỜN NÚI xoã TÓC DÀI HIỆT (thiệt) là hồng NHAN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

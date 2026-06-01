@@ -1,0 +1,90 @@
+{
+  "kanji": "訳",
+  "meta": {
+    "weight": 2465,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヤク"
+    ],
+    "kun": [
+      "わけ"
+    ],
+    "am_han": "DỊCH"
+  },
+  "meaning": {
+    "vi": "dịch, lý do, hoàn cảnh, trường hợp",
+    "en": "translate, reason, circumstance, case"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/訳.svg"
+  },
+  "frequency": 1050,
+  "examples": [
+    "訳",
+    "翻訳",
+    "申し訳",
+    "通訳",
+    "言い訳"
+  ],
+  "explanation": {
+    "id": "7700",
+    "text": "訳 (đọc là \"yaku\") có nghĩa là \"dịch\" hoặc \"giải thích\", chỉ các hành động liên quan đến việc chuyển ngữ hoặc giải thích nội dung từ ngôn ngữ này sang ngôn ngữ khác.\n\nVí dụ:\n- 翻訳 (honyaku): D"
+  },
+  "comments": [
+    {
+      "id": "156859",
+      "lang": "vi",
+      "content_html": "<p>Dùng LỜI NÓI XÍCH ngôn ngữ lại gần với nhau thì là DỊCH thuật</p>",
+      "content_text": "Dùng LỜI NÓI XÍCH ngôn ngữ lại gần với nhau thì là DỊCH thuật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156860",
+      "lang": "vi",
+      "content_html": "<p>Nói là mắt Xích quan trọng trong phiên DỊCH</p>",
+      "content_text": "Nói là mắt Xích quan trọng trong phiên DỊCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156861",
+      "lang": "vi",
+      "content_html": "<p>Translate, lấy 2 chữ đầu là TR, thay T bằng ngôn(言)  =&#62; 言R</p>",
+      "content_text": "Translate, lấy 2 chữ đầu là TR, thay T bằng ngôn(言)  => 言R",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "想",
+  "meta": {
+    "weight": 993,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "ソ"
+    ],
+    "kun": [
+      "おも.う"
+    ],
+    "am_han": "TƯỞNG"
+  },
+  "meaning": {
+    "vi": "tưởng tượng, tư tưởng",
+    "en": "concept, think, idea, thought"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/想.svg"
+  },
+  "frequency": 381,
+  "examples": [
+    "予想",
+    "想像",
+    "感想",
+    "思想",
+    "理想"
+  ],
+  "explanation": {
+    "id": "4700",
+    "text": "想 (đọc là \"sō\" hoặc \"omo\") có nghĩa là \"nghĩ\", \"tưởng tượng\", chỉ các hành động liên quan đến suy nghĩ, ý tưởng hoặc cảm xúc.  \nVí dụ:  \n- 思想 (shisō): Tư tưởng, triết lý.  \n- 想像 (sōzō): Tưởn"
+  },
+  "comments": [
+    {
+      "id": "153649",
+      "lang": "vi",
+      "content_html": "<p>Người mà MẮT và TIM hay treo ngược cành CÂY là người hay TƯỞNG tượng</p>",
+      "content_text": "Người mà MẮT và TIM hay treo ngược cành CÂY là người hay TƯỞNG tượng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153650",
+      "lang": "vi",
+      "content_html": "<p>Dùng Trái Tim và Ánh Mắt TƯỞNG nhớ cái Cây</p>",
+      "content_text": "Dùng Trái Tim và Ánh Mắt TƯỞNG nhớ cái Cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153651",
+      "lang": "vi",
+      "content_html": "<p>TÂM mà TƯƠNG tư thì hay TƯỞNG tượng chuyện ấy</p>",
+      "content_text": "TÂM mà TƯƠNG tư thì hay TƯỞNG tượng chuyện ấy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222379",
+      "lang": "vi",
+      "content_html": "<p>TÂM MỤC MỘC tư TƯỞNG về ai ?</p>",
+      "content_text": "TÂM MỤC MỘC tư TƯỞNG về ai ?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5155",
+        "name": "Doan The Anh (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/66e4a5e9678a0.png"
+      }
+    }
+  ]
+}

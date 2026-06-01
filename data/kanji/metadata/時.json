@@ -1,0 +1,91 @@
+{
+  "kanji": "時",
+  "meta": {
+    "weight": 1233,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "とき",
+      "-どき"
+    ],
+    "am_han": "THỜI"
+  },
+  "meaning": {
+    "vi": "thời gian, giờ",
+    "en": "time, hour"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/時.svg"
+  },
+  "frequency": 16,
+  "examples": [
+    "時",
+    "時間",
+    "時代",
+    "当時",
+    "時期"
+  ],
+  "explanation": {
+    "id": "3198",
+    "text": "時 (đọc là \"ji\" hoặc \"toki\") có nghĩa là \"thời gian\", \"thời điểm\" để chỉ các khái niệm liên quan đến thời gian và khoảnh khắc.  \nVí dụ:  \n- 時間 (jikan): Thời gian.  \n- 時刻 (jikoku): Thời khắc, "
+  },
+  "comments": [
+    {
+      "id": "499",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa, người ta rung chuông chùa (寺)<strong> </strong>để báo <strong>giờ </strong>khi mặt trời (日) lên.</p>",
+      "content_text": "Ngày xưa, người ta rung chuông chùa (寺)\nđể báo\ngiờ\nkhi mặt trời (日) lên.",
+      "image_url": "https://jpdictionary.com/upload/images/6297654ac1949.jpg",
+      "image_path": "assets/images/時_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158235",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>何時 (なんじ): mấy giờ</p><p>〜時 (〜じ): ~ giờ</p><p>何時間 (なんじかん): bao nhiêu (mấy) tiếng (đồng hồ)</p><p>〜時間 (〜じかん): ~ tiếng (đồng hồ)</p>",
+      "content_text": "JLPT N5\n何時 (なんじ): mấy giờ\n〜時 (〜じ): ~ giờ\n何時間 (なんじかん): bao nhiêu (mấy) tiếng (đồng hồ)\n〜時間 (〜じかん): ~ tiếng (đồng hồ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 2,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "154238",
+      "lang": "vi",
+      "content_html": "<p>ngày (Nhật-日) nào cũng lên chùa (tự- 寺) để giết thời gian (時)</p>",
+      "content_text": "ngày (Nhật-日) nào cũng lên chùa (tự- 寺) để giết thời gian (時)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

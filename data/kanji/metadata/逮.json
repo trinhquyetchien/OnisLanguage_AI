@@ -1,0 +1,84 @@
+{
+  "kanji": "逮",
+  "meta": {
+    "weight": 2664,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ"
+    ],
+    "kun": [],
+    "am_han": "ĐÃI, ĐỆ"
+  },
+  "meaning": {
+    "vi": "bắt giữ, đuổi theo",
+    "en": "apprehend, chase"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/逮.svg"
+  },
+  "frequency": 766,
+  "examples": [
+    "逮捕"
+  ],
+  "explanation": {
+    "id": "4983",
+    "text": "逮 (đọc là \"tai\") có nghĩa là \"bắt giữ\", \"tóm gọn\" để chỉ hành động bắt hoặc chặn ai đó lại.\n\nVí dụ:\n- 逮捕 (taiho): Bắt giữ, sự bắt giữ.\n- 逮捕状 (taihojō): Lệnh bắt.\n- 逮捕する (taihosuru): Thực hiệ"
+  },
+  "comments": [
+    {
+      "id": "157345",
+      "lang": "vi",
+      "content_html": "<p>Truy ĐUỔI kẻ ĐÃI vàng</p>",
+      "content_text": "Truy ĐUỔI kẻ ĐÃI vàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157346",
+      "lang": "vi",
+      "content_html": "<p>Cầm đinh ba đuổi nhau trên đường, nước bắn tung toé</p>",
+      "content_text": "Cầm đinh ba đuổi nhau trên đường, nước bắn tung toé",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157347",
+      "lang": "vi",
+      "content_html": "<p>Truy Đuổi kẻ dùng xẻng Đãi vàng trên dòng nước</p>",
+      "content_text": "Truy Đuổi kẻ dùng xẻng Đãi vàng trên dòng nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

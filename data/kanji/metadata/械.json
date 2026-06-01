@@ -1,0 +1,87 @@
+{
+  "kanji": "械",
+  "meta": {
+    "weight": 1368,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "かせ"
+    ],
+    "am_han": "GIỚI"
+  },
+  "meaning": {
+    "vi": "máy móc, cơ giới",
+    "en": "contraption, fetter, machine, instrument"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/械.svg"
+  },
+  "frequency": 1321,
+  "examples": [
+    "機械",
+    "器械"
+  ],
+  "explanation": {
+    "id": "789",
+    "text": "械 (đọc là \"kai\") có nghĩa là \"cơ khí\", \"máy móc\" để chỉ các thiết bị và hệ thống cơ học hoặc công nghệ.  \nVí dụ:  \n- 機械 (kikai): Máy móc, thiết bị cơ khí.  \n- 机械的 (kikateki): Mang tính máy m"
+  },
+  "comments": [
+    {
+      "id": "154536",
+      "lang": "vi",
+      "content_html": "<p>những cây木gỗ cũng 廾được vận chuyển qua 戈biên giới 械</p>",
+      "content_text": "những cây木gỗ cũng 廾được vận chuyển qua 戈biên giới 械",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154537",
+      "lang": "vi",
+      "content_html": "<p>Cuộc chiến với cây gỗ mở ra thời kì cơ giới hoá</p>",
+      "content_text": "Cuộc chiến với cây gỗ mở ra thời kì cơ giới hoá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154538",
+      "lang": "vi",
+      "content_html": "<p>Cơ giới hoá là chắp tay làm để vượt qua các công cụ thô sơ bằng gỗ</p>",
+      "content_text": "Cơ giới hoá là chắp tay làm để vượt qua các công cụ thô sơ bằng gỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

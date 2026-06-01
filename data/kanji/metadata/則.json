@@ -1,0 +1,92 @@
+{
+  "kanji": "則",
+  "meta": {
+    "weight": 328,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソク"
+    ],
+    "kun": [
+      "のっと.る",
+      "のり",
+      "すなわち"
+    ],
+    "am_han": "TẮC"
+  },
+  "meaning": {
+    "vi": "quy tắc",
+    "en": "rule, law, follow, based on, model after"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/則.svg"
+  },
+  "frequency": 753,
+  "examples": [
+    "原則",
+    "規則",
+    "法則",
+    "則",
+    "罰則"
+  ],
+  "explanation": {
+    "id": "4790",
+    "text": "則 (đọc là \"soku\") có nghĩa là \"quy tắc\", \"nguyên tắc\" để chỉ các quy định hoặc tiêu chuẩn trong hành vi hay hoạt động.\n\nVí dụ:\n- 規則 (kisoku): Quy tắc, quy định.\n- 則る (shikaru): Tuân theo, dự"
+  },
+  "comments": [
+    {
+      "id": "152022",
+      "lang": "vi",
+      "content_html": "<p>Tiền BỐI cầm ĐAO đi thiết lập QUI TẮC.</p>",
+      "content_text": "Tiền BỐI cầm ĐAO đi thiết lập QUI TẮC.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152023",
+      "lang": "vi",
+      "content_html": "<p>側 TRẮC ko có người thì sẽ TẮC 則</p>",
+      "content_text": "側 TRẮC ko có người thì sẽ TẮC 則",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152024",
+      "lang": "vi",
+      "content_html": "<p>qui tắc ở đây là , không đóng tiền sẽ bị chém</p>",
+      "content_text": "qui tắc ở đây là , không đóng tiền sẽ bị chém",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "kanji": "緋",
+  "meta": {
+    "weight": 2094,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "あけ",
+      "あか"
+    ],
+    "am_han": "PHI"
+  },
+  "meaning": {
+    "vi": "đỏ tươi, hồng y",
+    "en": "scarlet, cardinal"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/緋.svg"
+  },
+  "frequency": 2443,
+  "examples": [
+    "緋"
+  ],
+  "explanation": {
+    "id": "6579",
+    "text": "緋 (đọc là \"hi\") có nghĩa là \"màu đỏ\", thường được dùng để chỉ sắc thái màu đỏ tươi, đặc biệt trong các bối cảnh văn hóa và nghệ thuật Nhật Bản.\n\nVí dụ:\n- 緋色 (hiiro): Màu đỏ tươi.\n- 緋鞭 (hiben"
+  },
+  "comments": [
+    {
+      "id": "156094",
+      "lang": "vi",
+      "content_html": "<p>ko có 非 sợi chỉ 糸 nào mà ko mang màu đỏ 緋</p>",
+      "content_text": "ko có 非 sợi chỉ 糸 nào mà ko mang màu đỏ 緋",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

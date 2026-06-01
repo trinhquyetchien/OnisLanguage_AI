@@ -1,0 +1,91 @@
+{
+  "kanji": "品",
+  "meta": {
+    "weight": 484,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒン",
+      "ホン"
+    ],
+    "kun": [
+      "しな"
+    ],
+    "am_han": "PHẨM"
+  },
+  "meaning": {
+    "vi": "sản phẩm",
+    "en": "goods, refinement, dignity, article, counter for meal courses"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/品.svg"
+  },
+  "frequency": 225,
+  "examples": [
+    "作品",
+    "商品",
+    "製品",
+    "品",
+    "食品"
+  ],
+  "explanation": {
+    "id": "6750",
+    "text": "品 (đọc là \"hin\" hoặc \"shina\") có nghĩa là \"sản phẩm\", \"phẩm chất\" để chỉ các mặt hàng, sản phẩm hoặc mức độ tốt xấu của một cái gì đó.  \nVí dụ:  \n- 品質 (hinshitsu): Chất lượng sản phẩm.  \n- 商"
+  },
+  "comments": [
+    {
+      "id": "190935",
+      "lang": "vi",
+      "content_html": "<p><strong>sản phẩm</strong></p>",
+      "content_text": "sản phẩm",
+      "image_url": "https://jpdictionary.com/upload/images/648a72cce4c0c.jpg",
+      "image_path": "assets/images/品_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36982",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của 3 <strong>sản phẩm</strong>.</p>",
+      "content_text": "Hình dạng của 3\nsản phẩm\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4ce8aeecf.jpg",
+      "image_path": "assets/images/品_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158378",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>品物 (しなもの): hàng hóa<br>食料品 (しょくりょうひん): thực phẩm<br>インスタント食品 (インスタントしょくひん): thực phẩm ăn liền</p>",
+      "content_text": "JLPT N4\n品物 (しなもの): hàng hóa\n食料品 (しょくりょうひん): thực phẩm\nインスタント食品 (インスタントしょくひん): thực phẩm ăn liền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "藍",
+  "meta": {
+    "weight": 2359,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ラン"
+    ],
+    "kun": [
+      "あい"
+    ],
+    "am_han": "LAM"
+  },
+  "meaning": {
+    "vi": "xanh đậm",
+    "en": "indigo"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/藍.svg"
+  },
+  "frequency": 2043,
+  "examples": [
+    "藍",
+    "伽藍",
+    "藍色"
+  ],
+  "explanation": {
+    "id": "7987",
+    "text": "藍 (đọc là \"ran\") có nghĩa là \"màu xanh\" hoặc \"màu chàm\", thường liên quan đến màu sắc của cây chàm và thuốc nhuộm từ nó.\n\nVí dụ:\n- 藍色 (aoiro): Màu xanh chàm.\n- 藍染め (aizome): Nhuộm bằng màu c"
+  },
+  "comments": [
+    {
+      "id": "156627",
+      "lang": "vi",
+      "content_html": "<p>CỎ mà bị GIAM hãm trong phòng kín lâu ngày sẽ bị đổi mầu thành mầu LAM, xanh LAM</p>",
+      "content_text": "CỎ mà bị GIAM hãm trong phòng kín lâu ngày sẽ bị đổi mầu thành mầu LAM, xanh LAM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156628",
+      "lang": "vi",
+      "content_html": "<p>giám định loại cỏ hiếm vừa có màu LAM vừa có màu chàm</p>",
+      "content_text": "giám định loại cỏ hiếm vừa có màu LAM vừa có màu chàm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156629",
+      "lang": "vi",
+      "content_html": "<p>Hoa bị ô thần giam hãm khi cho lên đĩa có màu xanh LAM</p>",
+      "content_text": "Hoa bị ô thần giam hãm khi cho lên đĩa có màu xanh LAM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "戒",
+  "meta": {
+    "weight": 1032,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "いまし.める"
+    ],
+    "am_han": "GIỚI, DỚI, GIÁI, GIÁY, RỐI"
+  },
+  "meaning": {
+    "vi": "lời răn dạy",
+    "en": "commandment"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/戒.svg"
+  },
+  "frequency": 1062,
+  "examples": [
+    "警戒",
+    "懲戒",
+    "戒め",
+    "自戒",
+    "戒律"
+  ],
+  "explanation": {
+    "id": "774",
+    "text": "戒 (đọc là \"kai\") có nghĩa là \"cảnh cáo\", \"kiềm chế\" để chỉ các hành động liên quan đến việc nhắc nhở, cảnh báo hoặc giữ gìn kỷ luật.\n\nVí dụ:\n- 戒律 (kairitsu): Giới luật, quy tắc.\n- 戒める (imash"
+  },
+  "comments": [
+    {
+      "id": "153748",
+      "lang": "vi",
+      "content_html": "<p>Cúng tay.. để được qua biên giới..</p>",
+      "content_text": "Cúng tay.. để được qua biên giới..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153749",
+      "lang": "vi",
+      "content_html": "<p>Chắp tay(củng) đi qua biên giới</p>",
+      "content_text": "Chắp tay(củng) đi qua biên giới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153750",
+      "lang": "vi",
+      "content_html": "<p>cầm cây giáo (戈 ) cạnh hàng rào (廾) để cảnh GIỚI</p>",
+      "content_text": "cầm cây giáo (戈 ) cạnh hàng rào (廾) để cảnh GIỚI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

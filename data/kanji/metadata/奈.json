@@ -1,0 +1,91 @@
+{
+  "kanji": "奈",
+  "meta": {
+    "weight": 632,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ナ",
+      "ナイ",
+      "ダイ"
+    ],
+    "kun": [
+      "いかん",
+      "からなし"
+    ],
+    "am_han": "NẠI"
+  },
+  "meaning": {
+    "vi": "Nara, cái gì?",
+    "en": "Nara, what?"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/奈.svg"
+  },
+  "frequency": 841,
+  "examples": [
+    "神奈川",
+    "奈良",
+    "奈落"
+  ],
+  "explanation": {
+    "id": "6035",
+    "text": "奈 (đọc là \"nai\" hoặc \"na\") có nghĩa là \"không thể\", thường được sử dụng để diễn tả sự không khả thi hoặc không thể chấp nhận. \n\nVí dụ:\n- 奈落 (naraku): Địa ngục, vực thẳm.\n- 奈良 (Nara): Tên một"
+  },
+  "comments": [
+    {
+      "id": "152751",
+      "lang": "vi",
+      "content_html": "<p>Công ty Lớn (大) bị 2(ニ) công ty Nhỏ (小)khiếu Nại (奈)</p>",
+      "content_text": "Công ty Lớn (大) bị 2(ニ) công ty Nhỏ (小)khiếu Nại (奈)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152752",
+      "lang": "vi",
+      "content_html": "<p>biểu thị của 1 đại trượng phu đó chính là sự nhẫn NẠI</p>",
+      "content_text": "biểu thị của 1 đại trượng phu đó chính là sự nhẫn NẠI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152753",
+      "lang": "vi",
+      "content_html": "<p>đại thị phải xem nại</p>",
+      "content_text": "đại thị phải xem nại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

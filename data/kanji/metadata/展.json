@@ -1,0 +1,88 @@
+{
+  "kanji": "展",
+  "meta": {
+    "weight": 780,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テン"
+    ],
+    "kun": [],
+    "am_han": "TRIỂN"
+  },
+  "meaning": {
+    "vi": "mở ra, mở rộng",
+    "en": "unfold, expand"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/展.svg"
+  },
+  "frequency": 352,
+  "examples": [
+    "展開",
+    "発展",
+    "展示",
+    "展",
+    "展望"
+  ],
+  "explanation": {
+    "id": "5657",
+    "text": "展 (đọc là \"ten\") có nghĩa là \"triển lãm\", \"phát triển\" để chỉ các hành động liên quan đến việc mở rộng, giới thiệu hoặc diễn ra một cách công khai.\n\nVí dụ:\n- 展覧会 (tenrankai): Triển lãm, hội "
+  },
+  "comments": [
+    {
+      "id": "153118",
+      "lang": "vi",
+      "content_html": "<p>Triển lãm y phục xác chết</p>",
+      "content_text": "Triển lãm y phục xác chết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153119",
+      "lang": "vi",
+      "content_html": "<p>Cương Thi (尸) ăn được Cỏ thần<br>==&#62; phát Triển (展) đột biến, làm rách hết Y phục (衣)<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Cương Thi (尸) ăn được Cỏ thần\n==> phát Triển (展) đột biến, làm rách hết Y phục (衣)\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153120",
+      "lang": "vi",
+      "content_html": "<p>Chắp tay cúng y phục cho tử thi để được phát triển</p>",
+      "content_text": "Chắp tay cúng y phục cho tử thi để được phát triển",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "kanji": "牒",
+  "meta": {
+    "weight": 1690,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ",
+      "ジョウ"
+    ],
+    "kun": [
+      "ふだ"
+    ],
+    "am_han": "ĐIỆP"
+  },
+  "meaning": {
+    "vi": "nhãn, phả hệ, vòng tròn",
+    "en": "label, genealogy, circular"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/牒.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5373",
+    "text": "牒 (đọc là \"chō\") có nghĩa là \"giấy tờ\", \"tài liệu\" dùng để chỉ các loại văn bản hoặc chứng từ chính thức.  \nVí dụ:  \n- 牒状 (chōjō): Giấy tờ, tài liệu.  \n- 秘密牒 (himitsu-chō): Tài liệu mật.  \n-"
+  },
+  "comments": []
+}

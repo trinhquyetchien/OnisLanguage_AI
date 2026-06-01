@@ -1,0 +1,51 @@
+{
+  "kanji": "諌",
+  "meta": {
+    "weight": 2504,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "いさ.め",
+      "いさ.める"
+    ],
+    "am_han": "GIÁN"
+  },
+  "meaning": {
+    "vi": "khuyên nhủ, khuyên can",
+    "en": "admonish, dissuade"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/諌.svg"
+  },
+  "frequency": 2296,
+  "examples": [],
+  "explanation": {
+    "id": "1182",
+    "text": "諌 (đọc là \"kan\") có nghĩa là \"khuyên can\", \"phê bình\" để chỉ hành động khuyên bảo hoặc chỉ trích nhằm cải thiện hoặc ngăn chặn điều sai trái.\n\nVí dụ:\n- 諌言 (kangen): Lời khuyên can, phê bình."
+  },
+  "comments": [
+    {
+      "id": "156958",
+      "lang": "vi",
+      "content_html": "<p>chữ GIÁN trong can gián , can ngăn</p>",
+      "content_text": "chữ GIÁN trong can gián , can ngăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

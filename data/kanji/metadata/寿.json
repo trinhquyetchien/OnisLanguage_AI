@@ -1,0 +1,94 @@
+{
+  "kanji": "寿",
+  "meta": {
+    "weight": 751,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュ",
+      "ス",
+      "シュウ"
+    ],
+    "kun": [
+      "ことぶき",
+      "ことぶ.く",
+      "ことほ.ぐ"
+    ],
+    "am_han": "THỌ"
+  },
+  "meaning": {
+    "vi": "tuổi thọ, chúc mừng, cuộc sống tự nhiên của một người",
+    "en": "longevity, congratulations, one's natural life"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/寿.svg"
+  },
+  "frequency": 1245,
+  "examples": [
+    "寿司",
+    "寿命",
+    "寿",
+    "恵比寿",
+    "長寿"
+  ],
+  "explanation": {
+    "id": "3450",
+    "text": "寿 (đọc là \"ju\") có nghĩa là \"tuổi thọ\", \"sự sống lâu\" để chỉ những điều liên quan đến sự trường thọ và hạnh phúc trong cuộc sống.\n\nVí dụ:\n- 寿命 (jumyou): Tuổi thọ.\n- 寿司 (sushi): Món sushi, th"
+  },
+  "comments": [
+    {
+      "id": "153037",
+      "lang": "vi",
+      "content_html": "<p>Trải qua 3 lần thốn thì sẽ sống THỌ</p>",
+      "content_text": "Trải qua 3 lần thốn thì sẽ sống THỌ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153038",
+      "lang": "vi",
+      "content_html": "<p>thủ+thốn(đơn vị chiều dài)=&#62; xem tuổi thọ qua chiều dài đường chỉ kẻ tay!</p>",
+      "content_text": "thủ+thốn(đơn vị chiều dài)=> xem tuổi thọ qua chiều dài đường chỉ kẻ tay!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153039",
+      "lang": "vi",
+      "content_html": "<p>Ba Phiệt thì Thốn nhưng Thọ</p>",
+      "content_text": "Ba Phiệt thì Thốn nhưng Thọ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

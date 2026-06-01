@@ -1,0 +1,90 @@
+{
+  "kanji": "畝",
+  "meta": {
+    "weight": 1786,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ",
+      "ホ",
+      "モ",
+      "ム"
+    ],
+    "kun": [
+      "せ",
+      "うね"
+    ],
+    "am_han": "MẪU"
+  },
+  "meaning": {
+    "vi": "rãnh, ba mươi tsubo, sườn núi, sườn",
+    "en": "furrow, thirty tsubo, ridge, rib"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/畝.svg"
+  },
+  "frequency": 2327,
+  "examples": [
+    "畝"
+  ],
+  "explanation": {
+    "id": "4282",
+    "text": "畝 (đọc là \"s\") có nghĩa là \"mảnh đất\" hoặc \"thửa ruộng\", chỉ đơn vị đo diện tích trong nông nghiệp. \n\nVí dụ:\n- 畝 (うね, une): Mảnh đất, thửa ruộng.\n- 畝間 (うねま, unema): Lối đi giữa các thửa ruộn"
+  },
+  "comments": [
+    {
+      "id": "155429",
+      "lang": "vi",
+      "content_html": "<p>Ở Đầu kia có 9 MẪU ruộng</p>",
+      "content_text": "Ở Đầu kia có 9 MẪU ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155430",
+      "lang": "vi",
+      "content_html": "<p>Ở Đầu MẪU Ruộng có 9 luống cây</p>",
+      "content_text": "Ở Đầu MẪU Ruộng có 9 luống cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155431",
+      "lang": "vi",
+      "content_html": "<p>chín sào ruộng mà bên trên có thêm 1 sào. gọi là một mẫu</p>",
+      "content_text": "chín sào ruộng mà bên trên có thêm 1 sào. gọi là một mẫu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

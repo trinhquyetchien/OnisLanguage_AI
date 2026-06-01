@@ -1,0 +1,86 @@
+{
+  "kanji": "庸",
+  "meta": {
+    "weight": 875,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [],
+    "am_han": "DONG"
+  },
+  "meaning": {
+    "vi": "bình thường, việc làm",
+    "en": "commonplace, ordinary, employment"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/庸.svg"
+  },
+  "frequency": 2038,
+  "examples": [
+    "凡庸",
+    "庸",
+    "中庸"
+  ],
+  "explanation": {
+    "id": "7851",
+    "text": "庸 (đọc là \"yō\") có nghĩa là \"tầm thường\", \"bình thường\" để chỉ những điều không nổi bật hoặc có giá trị thấp. \n\nVí dụ:\n- 庸医 (yōi): Bác sĩ tầm thường.\n- 庸俗 (yōzoku): Tầm thường, bình dân (về "
+  },
+  "comments": [
+    {
+      "id": "153353",
+      "lang": "vi",
+      "content_html": "<p>người dưới mái nhà ung dung sử dụng cây bút để vẽ 1 cách xoàng xĩnh</p>",
+      "content_text": "người dưới mái nhà ung dung sử dụng cây bút để vẽ 1 cách xoàng xĩnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153354",
+      "lang": "vi",
+      "content_html": "<p>Ngồi trong nhà thong dong sử dụng tay viết chữ điều độ thôi</p>",
+      "content_text": "Ngồi trong nhà thong dong sử dụng tay viết chữ điều độ thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153355",
+      "lang": "vi",
+      "content_html": "<p>trung dung</p>",
+      "content_text": "trung dung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

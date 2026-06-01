@@ -1,0 +1,93 @@
+{
+  "kanji": "弥",
+  "meta": {
+    "weight": 900,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ミ",
+      "ビ"
+    ],
+    "kun": [
+      "や",
+      "いや",
+      "いよ.いよ",
+      "わた.る"
+    ],
+    "am_han": "DI"
+  },
+  "meaning": {
+    "vi": "hơn thế nữa, ngày càng",
+    "en": "all the more, increasingly"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/弥.svg"
+  },
+  "frequency": 1687,
+  "examples": [
+    "弥生",
+    "弥",
+    "阿弥陀",
+    "南無阿弥陀仏"
+  ],
+  "explanation": {
+    "id": "7682",
+    "text": "弥 (đọc là \"mi\") có nghĩa là \"tràn ngập\", \"bổ sung\" để chỉ sự gia tăng, hoàn thiện hoặc làm cho đầy đủ hơn.\n\nVí dụ:\n- 弥生 (yayoi): Tháng ba (tên gọi của một tháng trong lịch truyền thống Nhật "
+  },
+  "comments": [
+    {
+      "id": "153401",
+      "lang": "vi",
+      "content_html": "<p>Người Nhỏ như cây Cung thì có thể DI chuyển KHẮP NƠI</p>",
+      "content_text": "Người Nhỏ như cây Cung thì có thể DI chuyển KHẮP NƠI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153402",
+      "lang": "vi",
+      "content_html": "<p>a di đà phật.</p>",
+      "content_text": "a di đà phật.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153403",
+      "lang": "vi",
+      "content_html": "<p>Gì mà sai zữ vậy: Phật Di Lặc ko có cầm Cung, ngồi chứ ko có Nằm, với to lắm chứ ko có Nhỏ. <br>(Cách nhớ thôi nha)</p>",
+      "content_text": "Gì mà sai zữ vậy: Phật Di Lặc ko có cầm Cung, ngồi chứ ko có Nằm, với to lắm chứ ko có Nhỏ.\n(Cách nhớ thôi nha)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

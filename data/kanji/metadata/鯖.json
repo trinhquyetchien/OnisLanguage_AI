@@ -1,0 +1,51 @@
+{
+  "kanji": "鯖",
+  "meta": {
+    "weight": 2981,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "さば"
+    ],
+    "am_han": "CHINH, THINH"
+  },
+  "meaning": {
+    "vi": "cá thu",
+    "en": "mackerel"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/鯖.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2958",
+    "text": "鯖 (đọc là \"saba\") có nghĩa là \"cá thu\", chỉ loại cá thường được sử dụng trong ẩm thực Nhật Bản. \n\nVí dụ:\n- 鯖寿司 (saba-zushi): Sushi cá thu.\n- 鯖缶 (saba-kan): Cá thu đóng hộp.\n- 鯖の味噌煮 (saba no "
+  },
+  "comments": [
+    {
+      "id": "221102",
+      "lang": "vi",
+      "content_html": "<p>cá thu có màu xanh</p>",
+      "content_text": "cá thu có màu xanh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

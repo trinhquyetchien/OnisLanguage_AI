@@ -1,0 +1,90 @@
+{
+  "kanji": "莫",
+  "meta": {
+    "weight": 2288,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バク",
+      "ボ",
+      "マク",
+      "モ",
+      "ナイ"
+    ],
+    "kun": [
+      "くれ",
+      "なか.れ",
+      "なし"
+    ],
+    "am_han": "MẠC, MỘ, MẠCH, BÁ"
+  },
+  "meaning": {
+    "vi": "không được",
+    "en": "must not, do not, be not"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/莫.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6360",
+    "text": "莫 (đọc là \"baku\" hoặc \"maku\") có nghĩa là \"không\", \"không có\", thường được sử dụng để diễn tả sự phủ định hoặc thiếu vắng. \n\nVí dụ:\n- 莫大 (bakudai): Rất lớn, khổng lồ.\n- 莫名 (momei): Không rõ "
+  },
+  "comments": [
+    {
+      "id": "220540",
+      "lang": "vi",
+      "content_html": "<p>莫 : Lượng lớn莫 cỏ艹 trên mặt trời 日 to 大<br>募 : Chiêu mộ 募 lượng lớn 莫 lực sĩ 力<br>漠 : Sa mạc漠 cần một lượng lớn莫 nước 氵<br>幕 : Mạc phủ 幕 dùng một lượng lớn莫 khăn巾<br>墓 : Mộ địa墓 là nơi có nhiều莫 đất土<br>暮 : Cuộc sống暮 = lượng lớn莫 ngày日<br>模 : Mô hình模 cần lượng lớn莫 gỗ木</p>",
+      "content_text": "莫 : Lượng lớn莫 cỏ艹 trên mặt trời 日 to 大\n募 : Chiêu mộ 募 lượng lớn 莫 lực sĩ 力\n漠 : Sa mạc漠 cần một lượng lớn莫 nước 氵\n幕 : Mạc phủ 幕 dùng một lượng lớn莫 khăn巾\n墓 : Mộ địa墓 là nơi có nhiều莫 đất土\n暮 : Cuộc sống暮 = lượng lớn莫 ngày日\n模 : Mô hình模 cần lượng lớn莫 gỗ木",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220541",
+      "lang": "vi",
+      "content_html": "<p>Cây CỎ mà gặp phải Nắng TO giữa Ban NGÀY trên sa MẠC thì kiểu j cũng TÀN</p>",
+      "content_text": "Cây CỎ mà gặp phải Nắng TO giữa Ban NGÀY trên sa MẠC thì kiểu j cũng TÀN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220542",
+      "lang": "vi",
+      "content_html": "<p>cây Cỏ ko thể chịu nắng To cả Ngày trên sa Mạc</p>",
+      "content_text": "cây Cỏ ko thể chịu nắng To cả Ngày trên sa Mạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

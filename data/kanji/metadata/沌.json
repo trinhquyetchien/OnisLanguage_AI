@@ -1,0 +1,67 @@
+{
+  "kanji": "沌",
+  "meta": {
+    "weight": 1500,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トン"
+    ],
+    "kun": [
+      "くら.い"
+    ],
+    "am_han": "ĐỘN"
+  },
+  "meaning": {
+    "vi": "hỗn loạn nguyên sinh",
+    "en": "primeval chaos"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/沌.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6014",
+    "text": "沌 (đọc là \"don\") có nghĩa là \"hỗn loạn\", \"mù mịt\" để chỉ trạng thái hỗn độn hoặc không rõ ràng.  \nVí dụ:  \n- 沌とした世界 (donton shita sekai): Thế giới hỗn loạn.  \n- 沌気 (donki): Không khí hỗn loạ"
+  },
+  "comments": [
+    {
+      "id": "219918",
+      "lang": "vi",
+      "content_html": "<p>Đường đã gian Truân còn ngập nước, chỉ còn cách Độn thổ</p>",
+      "content_text": "Đường đã gian Truân còn ngập nước, chỉ còn cách Độn thổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219919",
+      "lang": "vi",
+      "content_html": "<p>em Thuỷ lên Đồn bị ăn hiếp đến đần Độn</p>",
+      "content_text": "em Thuỷ lên Đồn bị ăn hiếp đến đần Độn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

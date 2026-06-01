@@ -1,0 +1,108 @@
+{
+  "kanji": "軟",
+  "meta": {
+    "weight": 2609,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ナン"
+    ],
+    "kun": [
+      "やわ.らか",
+      "やわ.らかい"
+    ],
+    "am_han": "NHUYỄN"
+  },
+  "meaning": {
+    "vi": "mềm",
+    "en": "soft"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/軟.svg"
+  },
+  "frequency": 1269,
+  "examples": [
+    "柔軟",
+    "柔軟性",
+    "軟弱",
+    "軟膏",
+    "軟骨"
+  ],
+  "explanation": {
+    "id": "6079",
+    "text": "軟 (đọc là \"nan\") có nghĩa là \"mềm\", dùng để chỉ tính chất mềm mại hoặc không cứng. \n\nVí dụ:\n- 軟体動物 (nantai dōbutsu): Động vật thân mềm.\n- 軟らかい (yawarakai): Mềm mại, nhẹ nhàng.\n- 軟化 (nanka): "
+  },
+  "comments": [
+    {
+      "id": "157215",
+      "lang": "vi",
+      "content_html": "<p>Xe Không có nên đi bộ cho nhuyễn chưn</p>",
+      "content_text": "Xe Không có nên đi bộ cho nhuyễn chưn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190753",
+      "lang": "vi",
+      "content_html": "<p>xe 車 không bị khiếm 欠 khuyết gì thi lái rất (NHUYỄN)</p>",
+      "content_text": "xe 車 không bị khiếm 欠 khuyết gì thi lái rất (NHUYỄN)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157216",
+      "lang": "vi",
+      "content_html": "<p>Xe (車 XA) Thiếu (欠 KHIẾM) hơi thì lốp rất Mềm (軟 NHUYỄN).<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Xe (車 XA) Thiếu (欠 KHIẾM) hơi thì lốp rất Mềm (軟 NHUYỄN).\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157217",
+      "lang": "vi",
+      "content_html": "<p>chiếc xe 車 không bị khiếm 欠 khuyết gì nên di chuyển rất (NHUYỄN) 軟 mềm mại</p>",
+      "content_text": "chiếc xe 車 không bị khiếm 欠 khuyết gì nên di chuyển rất (NHUYỄN) 軟 mềm mại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

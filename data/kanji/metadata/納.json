@@ -1,0 +1,96 @@
+{
+  "kanji": "納",
+  "meta": {
+    "weight": 2051,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ノウ",
+      "ナッ",
+      "ナ",
+      "ナン",
+      "トウ"
+    ],
+    "kun": [
+      "おさ.める",
+      "-おさ.める",
+      "おさ.まる"
+    ],
+    "am_han": "NẠP"
+  },
+  "meaning": {
+    "vi": "giải quyết, thu được, gặt hái, thanh toán, cung cấp, lưu trữ",
+    "en": "settlement, obtain, reap, pay, supply, store"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/納.svg"
+  },
+  "frequency": 987,
+  "examples": [
+    "納得",
+    "納税",
+    "収納",
+    "納め",
+    "納豆"
+  ],
+  "explanation": {
+    "id": "6197",
+    "text": "納 (đọc là \"nau\" hoặc \"naku\") có nghĩa là \"thu nhận\", \"chấp nhận\", thường liên quan đến việc nộp hay giao nộp cái gì đó. \n\nVí dụ:\n- 納税 (nōzei): Nộp thuế.\n- 納得 (nattoku): Sự chấp nhận, sự thuy"
+  },
+  "comments": [
+    {
+      "id": "155985",
+      "lang": "vi",
+      "content_html": "<p>muốn xem thánh CHỈ có NỘI dung là gì thì phải NẠP  tiền ...</p>",
+      "content_text": "muốn xem thánh CHỈ có NỘI dung là gì thì phải NẠP  tiền ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155986",
+      "lang": "vi",
+      "content_html": "<p>Vải vóc kim chỉ 糸 thượng hạng đều phải cống nạp 貢納 vào trong 内 cung.</p>",
+      "content_text": "Vải vóc kim chỉ 糸 thượng hạng đều phải cống nạp 貢納 vào trong 内 cung.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155987",
+      "lang": "vi",
+      "content_html": "<p>Muốn xem bên trong chỗ sản xuất tơ phải NẠP tiền</p>",
+      "content_text": "Muốn xem bên trong chỗ sản xuất tơ phải NẠP tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

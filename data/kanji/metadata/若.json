@@ -1,0 +1,97 @@
+{
+  "kanji": "若",
+  "meta": {
+    "weight": 2267,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジャク",
+      "ニャク",
+      "ニャ"
+    ],
+    "kun": [
+      "わか.い",
+      "わか-",
+      "も.しくわ",
+      "も.し",
+      "も.しくは",
+      "ごと.し"
+    ],
+    "am_han": "NHƯỢC"
+  },
+  "meaning": {
+    "vi": "trẻ",
+    "en": "young, if, perhaps, possibly, low number, immature"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/若.svg"
+  },
+  "frequency": 458,
+  "examples": [
+    "若い",
+    "若者",
+    "若干",
+    "若手",
+    "若"
+  ],
+  "explanation": {
+    "id": "3391",
+    "text": "若 (đọc là \"jaku\" hoặc \"nara\") có nghĩa là \"như\", \"nếu\" để chỉ sự so sánh hoặc điều kiện. \n\nVí dụ:\n- 若し (moshi): Nếu, giả sử.\n- 若者 (wakamono): Người trẻ tuổi.\n- 若干 (jakkan): Một số, một ít."
+  },
+  "comments": [
+    {
+      "id": "37200",
+      "lang": "vi",
+      "content_html": "<p>Hái những chiếc lá <strong>non </strong>bằng tay phải (右).</p>",
+      "content_text": "Hái những chiếc lá\nnon\nbằng tay phải (右).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd4392e717.jpg",
+      "image_path": "assets/images/若_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156490",
+      "lang": "vi",
+      "content_html": "<p>Nhược điểm của giới trẻ là Phải đi nhổ cỏ</p>",
+      "content_text": "Nhược điểm của giới trẻ là Phải đi nhổ cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190656",
+      "lang": "vi",
+      "content_html": "<p>Cỏ mà mọc bên Phải thì rất là Nhược</p>",
+      "content_text": "Cỏ mà mọc bên Phải thì rất là Nhược",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    }
+  ]
+}

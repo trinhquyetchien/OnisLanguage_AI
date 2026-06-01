@@ -1,0 +1,92 @@
+{
+  "kanji": "塗",
+  "meta": {
+    "weight": 587,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ト"
+    ],
+    "kun": [
+      "ぬ.る",
+      "ぬ.り",
+      "まみ.れる"
+    ],
+    "am_han": "ĐỒ"
+  },
+  "meaning": {
+    "vi": "sơn",
+    "en": "paint, plaster, daub, smear, coating"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/塗.svg"
+  },
+  "frequency": 1414,
+  "examples": [
+    "塗装",
+    "塗り",
+    "塗料",
+    "塗る",
+    "塗"
+  ],
+  "explanation": {
+    "id": "5706",
+    "text": "塗 (đọc là \"to\") có nghĩa là \"sơn\", \"bôi\" để chỉ các hành động liên quan đến việc sơn, bôi hoặc phủ một lớp chất lỏng lên bề mặt.\n\nVí dụ:\n- 塗料 (toryō): Sơn, chất liệu sơn.\n- 塗る (nuru): Bôi, s"
+  },
+  "comments": [
+    {
+      "id": "152648",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa người ta thường đổ DƯ một chút NƯỚC vào ĐẤT cho nhão ra rồi đem chát, bôi vào đồ sứ để tạo mầu</p>",
+      "content_text": "Ngày xưa người ta thường đổ DƯ một chút NƯỚC vào ĐẤT cho nhão ra rồi đem chát, bôi vào đồ sứ để tạo mầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152649",
+      "lang": "vi",
+      "content_html": "<p>đất dư nước là bùn dùng bùn để đồ sơn phết.</p>",
+      "content_text": "đất dư nước là bùn dùng bùn để đồ sơn phết.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152650",
+      "lang": "vi",
+      "content_html": "<p>lấy đất trộn nước đồ lên môi</p>",
+      "content_text": "lấy đất trộn nước đồ lên môi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

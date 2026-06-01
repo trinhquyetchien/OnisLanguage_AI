@@ -1,0 +1,88 @@
+{
+  "kanji": "符",
+  "meta": {
+    "weight": 1987,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [],
+    "am_han": "PHÙ"
+  },
+  "meaning": {
+    "vi": "phù hiệu",
+    "en": "token, sign, mark, tally, charm"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/符.svg"
+  },
+  "frequency": 1798,
+  "examples": [
+    "切符",
+    "符号",
+    "音符",
+    "符",
+    "終止符"
+  ],
+  "explanation": {
+    "id": "6830",
+    "text": "符 (đọc là \"fu\") có nghĩa là \"biểu tượng\", \"dấu hiệu\" để chỉ các ký hiệu, dấu vết hoặc vật phẩm mang ý nghĩa đặc biệt trong văn hóa hoặc tôn giáo.\n\nVí dụ:\n- 符号 (hugō): Ký hiệu.\n- お守り符 (omamor"
+  },
+  "comments": [
+    {
+      "id": "155861",
+      "lang": "vi",
+      "content_html": "<p>TRÚC được giao PHÓ việc phát PHÙ hiệu</p>",
+      "content_text": "TRÚC được giao PHÓ việc phát PHÙ hiệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155862",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa tre dùng làm giấy nên gắn tre vào thay vé</p>",
+      "content_text": "Ngày xưa tre dùng làm giấy nên gắn tre vào thay vé",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155863",
+      "lang": "vi",
+      "content_html": "<p>DỰA vào TRÚC (vật làm tin) để tìm một nửa PHÙ hợp ..Avic</p>",
+      "content_text": "DỰA vào TRÚC (vật làm tin) để tìm một nửa PHÙ hợp ..Avic",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

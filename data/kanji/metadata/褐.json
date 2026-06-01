@@ -1,0 +1,84 @@
+{
+  "kanji": "褐",
+  "meta": {
+    "weight": 2432,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カツ"
+    ],
+    "kun": [],
+    "am_han": "HẠT, CÁT"
+  },
+  "meaning": {
+    "vi": "kimono len màu nâu",
+    "en": "brown, woollen kimono"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/褐.svg"
+  },
+  "frequency": 2186,
+  "examples": [
+    "褐色"
+  ],
+  "explanation": {
+    "id": "20344",
+    "text": "Chữ Hán 褐 (đọc là \"kan\") có nghĩa là \"mạch\" hoặc \"dòng chảy\", thường liên quan đến các khái niệm về năng lượng hoặc dòng chảy tự nhiên.\n\nVí dụ:\n- 褐流 (kanryū): Dòng chảy mạch, chỉ các dòng ch"
+  },
+  "comments": [
+    {
+      "id": "156769",
+      "lang": "vi",
+      "content_html": "<p>Ngửi Mùi là biết Quả Thị có HẠT màu NÂU</p>",
+      "content_text": "Ngửi Mùi là biết Quả Thị có HẠT màu NÂU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156770",
+      "lang": "vi",
+      "content_html": "<p>Anh hạt mặc chiếc áo màu nâu đã bảy ngày rồi</p>",
+      "content_text": "Anh hạt mặc chiếc áo màu nâu đã bảy ngày rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156771",
+      "lang": "vi",
+      "content_html": "<p>Áo bẩn đổi màu nâu ám mùi suốt ngày</p>",
+      "content_text": "Áo bẩn đổi màu nâu ám mùi suốt ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "kanji": "悶",
+  "meta": {
+    "weight": 982,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モン"
+    ],
+    "kun": [
+      "もだ.える",
+      "もだえ.る"
+    ],
+    "am_han": "MUỘN"
+  },
+  "meaning": {
+    "vi": "đau đớn, lo lắng",
+    "en": "be in agony, worry"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/悶.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7654",
+    "text": "悶 (đọc là \"mon\") có nghĩa là \"khó chịu\", \"bức bối\", thường chỉ trạng thái cảm xúc không thoải mái hoặc căng thẳng. \n\nVí dụ:\n- 悶絶 (monzetsu): Cảm giác đau đớn, không thể chịu nổi.\n- 悶え苦しむ (mo"
+  },
+  "comments": [
+    {
+      "id": "219505",
+      "lang": "vi",
+      "content_html": "<p>TIM  trông ra CỬA vì chồng về MUỘN làm mình phiền muộn</p>",
+      "content_text": "TIM  trông ra CỬA vì chồng về MUỘN làm mình phiền muộn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219506",
+      "lang": "vi",
+      "content_html": "<p>Tim bị nhốt trong cửa, không ra ngoài được nên phiền muộn .</p>",
+      "content_text": "Tim bị nhốt trong cửa, không ra ngoài được nên phiền muộn .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219507",
+      "lang": "vi",
+      "content_html": "<p>Nỗi lòng (心) biết ngỏ cùng ai, <br>Thiếp trong cánh cửa (門), chàng ngoài chân mây.<br>(Chinh Phụ Ngâm)</p>",
+      "content_text": "Nỗi lòng (心) biết ngỏ cùng ai,\nThiếp trong cánh cửa (門), chàng ngoài chân mây.\n(Chinh Phụ Ngâm)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "童",
+  "meta": {
+    "weight": 1975,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドウ"
+    ],
+    "kun": [
+      "わらべ"
+    ],
+    "am_han": "ĐỒNG"
+  },
+  "meaning": {
+    "vi": "trẻ em, nhi đồng",
+    "en": "juvenile, child"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/童.svg"
+  },
+  "frequency": 1138,
+  "examples": [
+    "児童",
+    "童話",
+    "学童",
+    "童",
+    "童貞"
+  ],
+  "explanation": {
+    "id": "5923",
+    "text": "童 (đọc là \"dō\") có nghĩa là \"trẻ em\", chỉ những điều liên quan đến trẻ nhỏ, sự ngây thơ và hồn nhiên.\n\nVí dụ:\n- 童話 (dōwa): Truyện cổ tích.\n- 童心 (dōshin): Tâm hồn trẻ thơ.\n- 童謡 (dōyō): Bài há"
+  },
+  "comments": [
+    {
+      "id": "155840",
+      "lang": "vi",
+      "content_html": "<p>Bọn nhi ĐỒNG thường hay LÍ luận đòi sống độc LẬP</p>",
+      "content_text": "Bọn nhi ĐỒNG thường hay LÍ luận đòi sống độc LẬP",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155841",
+      "lang": "vi",
+      "content_html": "<p>Nhi đồng đứng chơi ở miếng đất ngoài đồng</p>",
+      "content_text": "Nhi đồng đứng chơi ở miếng đất ngoài đồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155842",
+      "lang": "vi",
+      "content_html": "<p>Chỉ có thần ĐỒNG (童) mới dám ĐỨNG ((立) lên nói LÍ(里) với vua</p>",
+      "content_text": "Chỉ có thần ĐỒNG (童) mới dám ĐỨNG ((立) lên nói LÍ(里) với vua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

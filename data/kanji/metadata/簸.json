@@ -1,0 +1,32 @@
+{
+  "kanji": "簸",
+  "meta": {
+    "weight": 2017,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハ"
+    ],
+    "kun": [
+      "ひ.る"
+    ],
+    "am_han": "BÁ"
+  },
+  "meaning": {
+    "vi": "winnow, người hâm mộ",
+    "en": "winnow, fan"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/簸.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6615",
+    "text": "簸 (đọc là \"ha\") có nghĩa là \"quạt\", \"thổi bay\" để chỉ hành động loại bỏ tạp chất bằng cách quạt hoặc lắc.  \nVí dụ:  \n- 簸豆 (habatake): Rửa đậu, loại bỏ vỏ.  \n- 簸箕 (boki): Cái rổ, cái thúng dù"
+  },
+  "comments": []
+}

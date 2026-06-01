@@ -1,0 +1,87 @@
+{
+  "kanji": "泌",
+  "meta": {
+    "weight": 1516,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒツ",
+      "ヒ"
+    ],
+    "kun": [],
+    "am_han": "BÍ"
+  },
+  "meaning": {
+    "vi": "rỉ, chảy, ngâm trong, thâm nhập, tiết ra",
+    "en": "ooze, flow, soak in, penetrate, secrete"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/泌.svg"
+  },
+  "frequency": 2112,
+  "examples": [
+    "分泌",
+    "内分泌",
+    "泌尿器"
+  ],
+  "explanation": {
+    "id": "6562",
+    "text": "泌 (đọc là \"hi\") có nghĩa là \"tiết ra\", \"bài tiết\", thường liên quan đến các chất lỏng trong cơ thể. \n\nVí dụ:\n- 泌尿 (hinyō): Tiết niệu, hệ thống bài tiết nước tiểu.\n- 泌乳 (hiryū): Tiết sữa, quá"
+  },
+  "comments": [
+    {
+      "id": "154832",
+      "lang": "vi",
+      "content_html": "<p>chạm tay vào chỗ đó BÍ quá tất yếu phải TIẾT RA nước thôi :D</p>",
+      "content_text": "chạm tay vào chỗ đó BÍ quá tất yếu phải TIẾT RA nước thôi :D",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154833",
+      "lang": "vi",
+      "content_html": "<p>Bí quá thì phải bài tiết là điều tất yếu</p>",
+      "content_text": "Bí quá thì phải bài tiết là điều tất yếu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154834",
+      "lang": "vi",
+      "content_html": "<p>đeo tất mà dính nước thì bí bách</p>",
+      "content_text": "đeo tất mà dính nước thì bí bách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "kanji": "緩",
+  "meta": {
+    "weight": 2101,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "ゆる.い",
+      "ゆる.やか",
+      "ゆる.む",
+      "ゆる.める"
+    ],
+    "am_han": "HOÃN"
+  },
+  "meaning": {
+    "vi": "thả lỏng, thư giãn, giảm bớt, vừa phải, dễ dàng",
+    "en": "slacken, loosen, relax, lessen, be moderate, ease"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/緩.svg"
+  },
+  "frequency": 933,
+  "examples": [
+    "緩和",
+    "緩やか",
+    "弛緩",
+    "緩め",
+    "緩い"
+  ],
+  "explanation": {
+    "id": "1164",
+    "text": "緩 (đọc là \"kan\" hoặc \"yuru\") có nghĩa là \"lỏng\", \"nhẹ nhàng\", chỉ trạng thái không căng thẳng hoặc giảm tốc độ. \n\nVí dụ:\n- 緩和 (kanwa): Giảm nhẹ, nới lỏng.\n- 緩やか (yuruyaka): Nhẹ nhàng, từ từ,"
+  },
+  "comments": [
+    {
+      "id": "156113",
+      "lang": "vi",
+      "content_html": "<p>Dây kéo dài trì hoãn việc ban phát cho bằng hữu</p>",
+      "content_text": "Dây kéo dài trì hoãn việc ban phát cho bằng hữu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156114",
+      "lang": "vi",
+      "content_html": "<p>Tôi hốt HOÃN khi thấy thằng bạn giựt sợi dây chuyền nhưng vẫn đi thong thả</p>",
+      "content_text": "Tôi hốt HOÃN khi thấy thằng bạn giựt sợi dây chuyền nhưng vẫn đi thong thả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156115",
+      "lang": "vi",
+      "content_html": "<p>Sợi dây nới lỏng tình bạn là sự hoãn lại</p>",
+      "content_text": "Sợi dây nới lỏng tình bạn là sự hoãn lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

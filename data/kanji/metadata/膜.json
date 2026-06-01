@@ -1,0 +1,88 @@
+{
+  "kanji": "膜",
+  "meta": {
+    "weight": 2213,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マク"
+    ],
+    "kun": [],
+    "am_han": "MÔ"
+  },
+  "meaning": {
+    "vi": "màng",
+    "en": "membrane"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/膜.svg"
+  },
+  "frequency": 1804,
+  "examples": [
+    "膜",
+    "網膜",
+    "粘膜",
+    "角膜",
+    "薄膜"
+  ],
+  "explanation": {
+    "id": "7407",
+    "text": "膜 (đọc là \"maku\") có nghĩa là \"màng\" để chỉ các lớp mỏng bao bọc hay ngăn cách.  \nVí dụ:  \n- 膜 (maku): Màng, lớp mỏng.  \n- 膜腫 (makushi): U mềm, khối u có vỏ.  \n- 生体膜 (seitai-maku): Màng sinh"
+  },
+  "comments": [
+    {
+      "id": "156371",
+      "lang": "vi",
+      "content_html": "<p>TRĂNG lên, mô CỎ biến thành màng bao phủ MẶT TRỜI LỚN</p>",
+      "content_text": "TRĂNG lên, mô CỎ biến thành màng bao phủ MẶT TRỜI LỚN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156372",
+      "lang": "vi",
+      "content_html": "<p>Niêm MẠC được cấu tạo nên từ các MÀNG MÔ liên kết lại với nhau</p>",
+      "content_text": "Niêm MẠC được cấu tạo nên từ các MÀNG MÔ liên kết lại với nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156373",
+      "lang": "vi",
+      "content_html": "<p>Trăng(月) Cỏ(艹) mỏng manh ven đường sao với được Mặt Trời(日) vĩ ĐẠI(大)</p>",
+      "content_text": "Trăng(月) Cỏ(艹) mỏng manh ven đường sao với được Mặt Trời(日) vĩ ĐẠI(大)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

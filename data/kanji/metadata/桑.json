@@ -1,0 +1,88 @@
+{
+  "kanji": "桑",
+  "meta": {
+    "weight": 1352,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "くわ"
+    ],
+    "am_han": "TANG"
+  },
+  "meaning": {
+    "vi": "dâu tằm",
+    "en": "mulberry"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/桑.svg"
+  },
+  "frequency": 1650,
+  "examples": [
+    "桑原",
+    "桑",
+    "桑田"
+  ],
+  "explanation": {
+    "id": "1896",
+    "text": "桑 (đọc là \"sō\") có nghĩa là \"cây dâu\", thường liên quan đến việc nuôi tằm để sản xuất tơ. \n\nVí dụ:\n- 桑の葉 (sō no ha): Lá dâu.\n- 桑畑 (sōbatake): Ruộng dâu.\n- 桑蚕 (sōsan): Tằm ăn lá dâu."
+  },
+  "comments": [
+    {
+      "id": "154514",
+      "lang": "vi",
+      "content_html": "<p>3 thằng hựu đánh tang cây dâu</p>",
+      "content_text": "3 thằng hựu đánh tang cây dâu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154515",
+      "lang": "vi",
+      "content_html": "<p>Cây dâu có lá giống bàn tay người, ở trên là hình bàn 3 bàn tay phải, dưới là thân cây</p>",
+      "content_text": "Cây dâu có lá giống bàn tay người, ở trên là hình bàn 3 bàn tay phải, dưới là thân cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154516",
+      "lang": "vi",
+      "content_html": "<p>3 thằng HỰU phi TANG cây dâu</p>",
+      "content_text": "3 thằng HỰU phi TANG cây dâu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

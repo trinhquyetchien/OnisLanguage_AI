@@ -1,0 +1,93 @@
+{
+  "kanji": "摂",
+  "meta": {
+    "weight": 1144,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セツ",
+      "ショウ"
+    ],
+    "kun": [
+      "おさ.める",
+      "かね.る",
+      "と.る"
+    ],
+    "am_han": "NHIẾP"
+  },
+  "meaning": {
+    "vi": "thay thế, hành động thêm vào, tiếp nhận, tiếp thu",
+    "en": "vicarious, surrogate, act in addition to, take in, absorb"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/摂.svg"
+  },
+  "frequency": 1779,
+  "examples": [
+    "摂取",
+    "摂理",
+    "摂る",
+    "摂氏",
+    "包摂"
+  ],
+  "explanation": {
+    "id": "4439",
+    "text": "摂 (đọc là \"setsu\" hoặc \"soku\") có nghĩa là \"tiếp nhận\", \"hưởng thụ\" hoặc \"kiểm soát\" để chỉ các hành động liên quan đến việc quản lý, kiểm soát hoặc duy trì.  \nVí dụ:  \n- 摂取 (sesshu): Hấp th"
+  },
+  "comments": [
+    {
+      "id": "154023",
+      "lang": "vi",
+      "content_html": "<p>Tay vén tai nhiếp ảnh gia lên thấy tiếp 4 đường</p>",
+      "content_text": "Tay vén tai nhiếp ảnh gia lên thấy tiếp 4 đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154024",
+      "lang": "vi",
+      "content_html": "<p>tay tai chóe một cái gọi là Nhiếp ảnh</p>",
+      "content_text": "tay tai chóe một cái gọi là Nhiếp ảnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154025",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm nhiếp thọt vào lỗ tai để móc cứt rái</p>",
+      "content_text": "Tay cầm nhiếp thọt vào lỗ tai để móc cứt rái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

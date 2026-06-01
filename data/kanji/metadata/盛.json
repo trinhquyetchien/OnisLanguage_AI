@@ -1,0 +1,93 @@
+{
+  "kanji": "盛",
+  "meta": {
+    "weight": 1832,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ジョウ"
+    ],
+    "kun": [
+      "も.る",
+      "さか.る",
+      "さか.ん"
+    ],
+    "am_han": "THỊNH, THÌNH"
+  },
+  "meaning": {
+    "vi": "bùng nổ, thịnh vượng, đối phó",
+    "en": "boom, prosper, copulate"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/盛.svg"
+  },
+  "frequency": 712,
+  "examples": [
+    "盛ん",
+    "盛り上がり",
+    "盛り",
+    "盛り上がる",
+    "盛"
+  ],
+  "explanation": {
+    "id": "4331",
+    "text": "盛 (đọc là \"sei\" hoặc \"sakaeru\") có nghĩa là \"thịnh vượng\", \"hưng thịnh\", chỉ trạng thái phát triển mạnh mẽ hoặc phong phú. \n\nVí dụ:\n- 盛況 (seikyō): Tình hình sôi động, thịnh vượng.\n- 盛り上がる (m"
+  },
+  "comments": [
+    {
+      "id": "155529",
+      "lang": "vi",
+      "content_html": "<p>Sóc đĩa Thành công thì Thịnh vượng</p>",
+      "content_text": "Sóc đĩa Thành công thì Thịnh vượng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155530",
+      "lang": "vi",
+      "content_html": "<p>trên đĩa mà thức ăn chất cao như thành lũy thì gọi là thịnh vượng.. trong các suất cơm của sukiya, hay matsuya cũng dùng từ mori để chỉ suất cơm nhiều</p>",
+      "content_text": "trên đĩa mà thức ăn chất cao như thành lũy thì gọi là thịnh vượng.. trong các suất cơm của sukiya, hay matsuya cũng dùng từ mori để chỉ suất cơm nhiều",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155531",
+      "lang": "vi",
+      "content_html": "<p>Thành công nằm trên đĩa là thịnh vượng</p>",
+      "content_text": "Thành công nằm trên đĩa là thịnh vượng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

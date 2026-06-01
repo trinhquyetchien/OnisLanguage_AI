@@ -1,0 +1,107 @@
+{
+  "kanji": "皿",
+  "meta": {
+    "weight": 1826,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ベイ"
+    ],
+    "kun": [
+      "さら"
+    ],
+    "am_han": "MÃNH"
+  },
+  "meaning": {
+    "vi": "cái đĩa",
+    "en": "dish, a helping, plate"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/皿.svg"
+  },
+  "frequency": 1812,
+  "examples": [
+    "皿",
+    "受け皿",
+    "灰皿",
+    "小皿",
+    "皿洗い"
+  ],
+  "explanation": {
+    "id": "2970",
+    "text": "皿 (đọc là \"sara\") có nghĩa là \"đĩa\" hoặc \"bát\", chỉ các vật dụng dùng để đựng thực phẩm hoặc đồ vật.  \nVí dụ:  \n- 皿洗い (saraarai): Rửa bát, dọn dẹp chén đĩa.  \n- お皿 (osara): Đĩa (lịch sự).  \n"
+  },
+  "comments": [
+    {
+      "id": "37004",
+      "lang": "vi",
+      "content_html": "<p>Đặt cái bánh lên trên <strong>đĩa</strong>.</p>",
+      "content_text": "Đặt cái bánh lên trên\nđĩa\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4f0c2df59.jpg",
+      "image_path": "assets/images/皿_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155517",
+      "lang": "vi",
+      "content_html": "<p>Bánh xếp trên dĩa (Mãnh)</p>",
+      "content_text": "Bánh xếp trên dĩa (Mãnh)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155518",
+      "lang": "vi",
+      "content_html": "<p>4 MÃNH đĩa xếp trên giá</p>",
+      "content_text": "4 MÃNH đĩa xếp trên giá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155519",
+      "lang": "vi",
+      "content_html": "<p>Mãnh thú 4 chân nằm trên đĩa</p>",
+      "content_text": "Mãnh thú 4 chân nằm trên đĩa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

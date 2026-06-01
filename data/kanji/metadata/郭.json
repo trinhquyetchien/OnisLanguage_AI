@@ -1,0 +1,89 @@
+{
+  "kanji": "郭",
+  "meta": {
+    "weight": 2705,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク"
+    ],
+    "kun": [
+      "くるわ"
+    ],
+    "am_han": "QUÁCH"
+  },
+  "meaning": {
+    "vi": "bao vây, khu, pháo đài, khu đèn đỏ",
+    "en": "enclosure, quarters, fortification, red-light district"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/郭.svg"
+  },
+  "frequency": 1670,
+  "examples": [
+    "輪郭",
+    "外郭",
+    "郭",
+    "遊郭"
+  ],
+  "explanation": {
+    "id": "928",
+    "text": "郭 (đọc là \"kaku\" hoặc \"kawaguchi\") có nghĩa là \"thành trì\", \"bức tường bao quanh\" để chỉ các khu vực được bảo vệ hoặc khu vực bên ngoài thành phố.\n\nVí dụ:\n- 郭外 (kakuai): Ngoại ô, khu vực bên"
+  },
+  "comments": [
+    {
+      "id": "157451",
+      "lang": "vi",
+      "content_html": "<p>ĐẦU tiên,dùng MIỆNG dạy TRẺ dựng BỜ ĐẤT làm THÀNH QUÁCH</p>",
+      "content_text": "ĐẦU tiên,dùng MIỆNG dạy TRẺ dựng BỜ ĐẤT làm THÀNH QUÁCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157452",
+      "lang": "vi",
+      "content_html": "<p>Hưởng thụ chốn thành QUÁCH</p>",
+      "content_text": "Hưởng thụ chốn thành QUÁCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157453",
+      "lang": "vi",
+      "content_html": "<p>Anh quách nằm hưởng thụ trên quả đồi</p>",
+      "content_text": "Anh quách nằm hưởng thụ trên quả đồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

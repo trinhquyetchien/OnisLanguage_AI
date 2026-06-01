@@ -1,0 +1,90 @@
+{
+  "kanji": "司",
+  "meta": {
+    "weight": 445,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "つかさど.る"
+    ],
+    "am_han": "TI, TƯ"
+  },
+  "meaning": {
+    "vi": "giám đốc, quan chức, văn phòng chính phủ, quy tắc, quản lý",
+    "en": "director, official, govt office, rule, administer"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/司.svg"
+  },
+  "frequency": 759,
+  "examples": [
+    "司法",
+    "上司",
+    "寿司",
+    "司会",
+    "司令"
+  ],
+  "explanation": {
+    "id": "3052",
+    "text": "司 (đọc là \"shi\") có nghĩa là \"quản lý\", \"chỉ huy\" để chỉ các hành động liên quan đến việc điều hành hoặc quản lý một tổ chức hoặc hoạt động.\n\nVí dụ:\n- 司会 (shikai): Người dẫn chương trình, ng"
+  },
+  "comments": [
+    {
+      "id": "152304",
+      "lang": "vi",
+      "content_html": "<p>Làm QUẢN LÝ trong công TI Nói 1 lời chăc như Đinh đóng cột</p>",
+      "content_text": "Làm QUẢN LÝ trong công TI Nói 1 lời chăc như Đinh đóng cột",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152305",
+      "lang": "vi",
+      "content_html": "<p>trong nhà phải có tôn TI trật tự, ns 1 là 1</p>",
+      "content_text": "trong nhà phải có tôn TI trật tự, ns 1 là 1",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152306",
+      "lang": "vi",
+      "content_html": "<p>Ngừoi bề trên miệng chỉ nói 1 lời trong vách nhà</p>",
+      "content_text": "Ngừoi bề trên miệng chỉ nói 1 lời trong vách nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

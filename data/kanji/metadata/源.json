@@ -1,0 +1,90 @@
+{
+  "kanji": "源",
+  "meta": {
+    "weight": 1591,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲン"
+    ],
+    "kun": [
+      "みなもと"
+    ],
+    "am_han": "NGUYÊN"
+  },
+  "meaning": {
+    "vi": "nguồn gốc, xuất xứ",
+    "en": "source, origin"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/源.svg"
+  },
+  "frequency": 738,
+  "examples": [
+    "資源",
+    "源",
+    "財源",
+    "電源",
+    "起源"
+  ],
+  "explanation": {
+    "id": "2218",
+    "text": "源 (đọc là \"gen\") có nghĩa là \"nguồn gốc\", \"suối\" hoặc \"nguyên liệu\" dùng để chỉ nơi bắt đầu hoặc nguồn cung cấp của cái gì đó.  \nVí dụ:  \n- 來源 (raigen): Nguồn gốc, nguồn.  \n- 水源 (sui-gen): N"
+  },
+  "comments": [
+    {
+      "id": "155016",
+      "lang": "vi",
+      "content_html": "<p>Trên thảo NGUYÊN có NƯỚC(氵) chảy từ trên những ngọn đồi NHỎ(小) màu Trắng(白)</p>",
+      "content_text": "Trên thảo NGUYÊN có NƯỚC(氵) chảy từ trên những ngọn đồi NHỎ(小) màu Trắng(白)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155017",
+      "lang": "vi",
+      "content_html": "<p>thủy + nguyên --&#62; nguyên thủy</p>",
+      "content_text": "thủy + nguyên --> nguyên thủy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155018",
+      "lang": "vi",
+      "content_html": "<p>Nguồn nước bắt nguồn từ thảo nguyên</p>",
+      "content_text": "Nguồn nước bắt nguồn từ thảo nguyên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

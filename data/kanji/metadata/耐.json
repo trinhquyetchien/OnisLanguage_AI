@@ -1,0 +1,90 @@
+{
+  "kanji": "耐",
+  "meta": {
+    "weight": 2151,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ"
+    ],
+    "kun": [
+      "た.える"
+    ],
+    "am_han": "NẠI"
+  },
+  "meaning": {
+    "vi": "-không bền, bền bỉ",
+    "en": "-proof, enduring"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/耐.svg"
+  },
+  "frequency": 1295,
+  "examples": [
+    "耐震",
+    "忍耐",
+    "耐久",
+    "耐",
+    "耐える"
+  ],
+  "explanation": {
+    "id": "4930",
+    "text": "耐 (đọc là \"nai\") có nghĩa là \"chịu đựng\", \"bền bỉ\" để chỉ khả năng chịu đựng hoặc kiên trì vượt qua khó khăn.  \nVí dụ:  \n- 耐久 (taikyuu): Độ bền, khả năng chịu đựng.  \n- 耐える (taeru): Chịu đựn"
+  },
+  "comments": [
+    {
+      "id": "156235",
+      "lang": "vi",
+      "content_html": "<p>4 người xếp hàng tuy thốn nhưng vẫn nhẫn nại</p>",
+      "content_text": "4 người xếp hàng tuy thốn nhưng vẫn nhẫn nại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156236",
+      "lang": "vi",
+      "content_html": "<p>Râu của ông chồng cứ ra hoài làm mình Thốn (khi hôn) nhưng phải Nhẫn nại, nếu không thì Ta Ế (たえる)</p>",
+      "content_text": "Râu của ông chồng cứ ra hoài làm mình Thốn (khi hôn) nhưng phải Nhẫn nại, nếu không thì Ta Ế (たえる)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156237",
+      "lang": "vi",
+      "content_html": "<p>từ hán này trong lĩnh vực xây dựng Nhật có nghĩa là chống lại các tác nhân bên ngoài tác động. Ví dụ 耐火、耐風、耐熱、耐水、。。。</p>",
+      "content_text": "từ hán này trong lĩnh vực xây dựng Nhật có nghĩa là chống lại các tác nhân bên ngoài tác động. Ví dụ 耐火、耐風、耐熱、耐水、。。。",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "kanji": "遭",
+  "meta": {
+    "weight": 2686,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "あ.う",
+      "あ.わせる"
+    ],
+    "am_han": "TAO"
+  },
+  "meaning": {
+    "vi": "gặp gỡ, tiệc tùng, hiệp hội, phỏng vấn, tham gia",
+    "en": "encounter, meet, party, association, interview, join"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/遭.svg"
+  },
+  "frequency": 1554,
+  "examples": [
+    "遭遇",
+    "遭難",
+    "遭う"
+  ],
+  "explanation": {
+    "id": "4763",
+    "text": "遭 (đọc là \"sō\") có nghĩa là \"gặp phải\", \"trải qua\" những tình huống không mong muốn, thường liên quan đến tai nạn hoặc sự cố.\n\nVí dụ:\n- 遭難 (sōnan): Gặp nạn, tai nạn (như đắm tàu).\n- 遭遇 (sōgu"
+  },
+  "comments": [
+    {
+      "id": "157399",
+      "lang": "vi",
+      "content_html": "<p>Mỗi ngày trên đường lại gặp 1 khúc nhạc</p>",
+      "content_text": "Mỗi ngày trên đường lại gặp 1 khúc nhạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157400",
+      "lang": "vi",
+      "content_html": "<p>bị TÀO thào đuổi thì CHẠY đến gặp TAO.</p>",
+      "content_text": "bị TÀO thào đuổi thì CHẠY đến gặp TAO.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157401",
+      "lang": "vi",
+      "content_html": "<p>Dùng trong trường hợp xấu. Giống như là gặp sự cố. Gặp đứa thích mình mà mình đéo thích</p>",
+      "content_text": "Dùng trong trường hợp xấu. Giống như là gặp sự cố. Gặp đứa thích mình mà mình đéo thích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

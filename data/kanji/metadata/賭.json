@@ -1,0 +1,91 @@
+{
+  "kanji": "賭",
+  "meta": {
+    "weight": 2576,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ト"
+    ],
+    "kun": [
+      "か.ける",
+      "かけ"
+    ],
+    "am_han": "ĐỔ"
+  },
+  "meaning": {
+    "vi": "đánh bạc, đánh cuộc, đặt cược",
+    "en": "gamble, wager, bet"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/賭.svg"
+  },
+  "frequency": 1989,
+  "examples": [
+    "賭け",
+    "賭ける",
+    "賭博",
+    "賭",
+    "賭け事"
+  ],
+  "explanation": {
+    "id": "5731",
+    "text": "賭 (đọc là \"to\") có nghĩa là \"đánh cược\", chỉ các hành động liên quan đến việc đặt cược tiền bạc vào kết quả không chắc chắn.  \nVí dụ:  \n- 賭博 (tobaku): Đánh bạc.  \n- 賭ける (kakeru): Đặt cược.  "
+  },
+  "comments": [
+    {
+      "id": "157129",
+      "lang": "vi",
+      "content_html": "<p>Học giả cầm tiền đi cá độ</p>",
+      "content_text": "Học giả cầm tiền đi cá độ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157130",
+      "lang": "vi",
+      "content_html": "<p>đem tiền 貝 giả 者 ĐỔ 賭  vào xới bạc</p>",
+      "content_text": "đem tiền 貝 giả 者 ĐỔ 賭  vào xới bạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157131",
+      "lang": "vi",
+      "content_html": "<p>Giả(người) đổ ĐỐN cầm Bối(tiền) kà kê rủ chơi cờ bạc</p>",
+      "content_text": "Giả(người) đổ ĐỐN cầm Bối(tiền) kà kê rủ chơi cờ bạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "kanji": "呪",
+  "meta": {
+    "weight": 474,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュ",
+      "シュ",
+      "シュウ",
+      "ズ"
+    ],
+    "kun": [
+      "まじな.う",
+      "のろ.い",
+      "まじな.い",
+      "のろ.う"
+    ],
+    "am_han": "CHÚ"
+  },
+  "meaning": {
+    "vi": "chính tả, lời nguyền, sự quyến rũ, ác tâm",
+    "en": "spell, curse, charm, malediction"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/呪.svg"
+  },
+  "frequency": 2131,
+  "examples": [
+    "呪い",
+    "呪文",
+    "呪縛",
+    "呪術",
+    "呪"
+  ],
+  "explanation": {
+    "id": "3447",
+    "text": "呪 (đọc là \"ju\") có nghĩa là \"nguyền rủa\", \"lời nguyền\" để chỉ các hành động liên quan đến việc sử dụng phép thuật hoặc lời nói để gây hại cho người khác.\nVí dụ:\n- 呪文 (jumon): Lời nguyền, bùa"
+  },
+  "comments": [
+    {
+      "id": "152376",
+      "lang": "vi",
+      "content_html": "<p>Mồm huynh đọc thần chú</p>",
+      "content_text": "Mồm huynh đọc thần chú",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152377",
+      "lang": "vi",
+      "content_html": "<p>MIỆNG kêu tên ANH TRAI nhanh như đọc THẦN CHÚ...</p>",
+      "content_text": "MIỆNG kêu tên ANH TRAI nhanh như đọc THẦN CHÚ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152378",
+      "lang": "vi",
+      "content_html": "<p>Lời nguyền</p>",
+      "content_text": "Lời nguyền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

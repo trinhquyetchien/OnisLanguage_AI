@@ -1,0 +1,91 @@
+{
+  "kanji": "睡",
+  "meta": {
+    "weight": 1850,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "ねむ.る",
+      "ねむ.い"
+    ],
+    "am_han": "THỤY"
+  },
+  "meaning": {
+    "vi": "buồn ngủ, ngủ, chết",
+    "en": "drowsy, sleep, die"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/睡.svg"
+  },
+  "frequency": 1739,
+  "examples": [
+    "睡眠",
+    "睡",
+    "熟睡",
+    "睡魔",
+    "睡眠薬"
+  ],
+  "explanation": {
+    "id": "4220",
+    "text": "睡 (đọc là \"sui\") có nghĩa là \"ngủ\", liên quan đến hành động nghỉ ngơi, mất ý thức tạm thời do mệt mỏi.  \nVí dụ:  \n- 睡眠 (suimin): Giấc ngủ, sự ngủ.  \n- 睡眠不足 (suimin busoku): Thiếu ngủ.  \n- 昏睡"
+  },
+  "comments": [
+    {
+      "id": "155584",
+      "lang": "vi",
+      "content_html": "<p>THUỴ rủ mắt xuống vì BUỒN NGỦ</p>",
+      "content_text": "THUỴ rủ mắt xuống vì BUỒN NGỦ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155585",
+      "lang": "vi",
+      "content_html": "<p>mắt目 chùn xuống垂 thì buồn ngủ</p>",
+      "content_text": "mắt目 chùn xuống垂 thì buồn ngủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155586",
+      "lang": "vi",
+      "content_html": "<p>Mắt ngắm 1000 bông hoa THUỴ điển trên mặt đất mà buồn ngủ zíp mắt</p>",
+      "content_text": "Mắt ngắm 1000 bông hoa THUỴ điển trên mặt đất mà buồn ngủ zíp mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

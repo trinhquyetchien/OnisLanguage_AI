@@ -1,0 +1,91 @@
+{
+  "kanji": "隔",
+  "meta": {
+    "weight": 2843,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク"
+    ],
+    "kun": [
+      "へだ.てる",
+      "へだ.たる"
+    ],
+    "am_han": "CÁCH"
+  },
+  "meaning": {
+    "vi": "cô lập, thay thế, khoảng cách, tách biệt, vùng vịnh",
+    "en": "isolate, alternate, distance, separate, gulf"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/隔.svg"
+  },
+  "frequency": 1382,
+  "examples": [
+    "間隔",
+    "遠隔",
+    "隔離",
+    "隔て",
+    "隔週"
+  ],
+  "explanation": {
+    "id": "934",
+    "text": "隔 (đọc là \"kaku\" hoặc \"sō\") có nghĩa là \"phân cách\", \"tách biệt\" để chỉ việc tạo ra khoảng cách hoặc sự ngăn cách giữa các vật thể, không gian hoặc thời gian.\n\nVí dụ:\n- 隔週 (kakushū): Hai tuầ"
+  },
+  "comments": [
+    {
+      "id": "157736",
+      "lang": "vi",
+      "content_html": "<p>隔 Bạn (B) và Tôi (T) bị ngăn cách nhau 10 năm bởi tôi bị nhốt trong nhà</p>",
+      "content_text": "隔 Bạn (B) và Tôi (T) bị ngăn cách nhau 10 năm bởi tôi bị nhốt trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157737",
+      "lang": "vi",
+      "content_html": "<p>104 bức tường ngăn cách đó @@</p>",
+      "content_text": "104 bức tường ngăn cách đó @@",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157738",
+      "lang": "vi",
+      "content_html": "<p>Ngăn cách cái miệng bằng 4 bức tường chữ T</p>",
+      "content_text": "Ngăn cách cái miệng bằng 4 bức tường chữ T",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

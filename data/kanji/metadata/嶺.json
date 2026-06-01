@@ -1,0 +1,71 @@
+{
+  "kanji": "嶺",
+  "meta": {
+    "weight": 811,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ",
+      "リョウ"
+    ],
+    "kun": [
+      "みね"
+    ],
+    "am_han": "LĨNH"
+  },
+  "meaning": {
+    "vi": "đỉnh",
+    "en": "peak, summit"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/嶺.svg"
+  },
+  "frequency": 1959,
+  "examples": [
+    "嶺",
+    "高嶺"
+  ],
+  "explanation": {
+    "id": "8218",
+    "text": "嶺 (đọc là \"rei\" hoặc \"mine\") có nghĩa là \"đỉnh núi\" hoặc \"dãy núi\", chỉ các vùng đỉnh cao trong địa hình.  \nVí dụ:  \n- 嶺南 (Reinan): Khu vực phía nam của dãy núi.  \n- 嶺を越える (mine o koeru): Vư"
+  },
+  "comments": [
+    {
+      "id": "153186",
+      "lang": "vi",
+      "content_html": "<p>嶺南摘怪 : lĩnh nam trích quái</p>",
+      "content_text": "嶺南摘怪 : lĩnh nam trích quái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153187",
+      "lang": "vi",
+      "content_html": "<p>Núi thời nay ko còn thủ LĨNH cầm đầu vì đỉnh tuyết bao phủ</p>",
+      "content_text": "Núi thời nay ko còn thủ LĨNH cầm đầu vì đỉnh tuyết bao phủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

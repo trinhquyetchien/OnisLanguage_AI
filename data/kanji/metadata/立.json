@@ -1,0 +1,118 @@
+{
+  "kanji": "立",
+  "meta": {
+    "weight": 1971,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リツ",
+      "リュウ",
+      "リットル"
+    ],
+    "kun": [
+      "た.つ",
+      "-た.つ",
+      "た.ち-",
+      "た.てる",
+      "-た.てる",
+      "た.て-",
+      "たて-",
+      "-た.て",
+      "-だ.て",
+      "-だ.てる"
+    ],
+    "am_han": "LẬP"
+  },
+  "meaning": {
+    "vi": "đứng, tự lập",
+    "en": "stand up, rise, set up, erect"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/立.svg"
+  },
+  "frequency": 58,
+  "examples": [
+    "立場",
+    "独立",
+    "立て",
+    "立ち",
+    "成立"
+  ],
+  "explanation": {
+    "id": "8040",
+    "text": "立 (đọc là \"ritsu\" hoặc \"tatsu\") có nghĩa là \"đứng\" hoặc \"thiết lập\" để chỉ các hành động liên quan đến việc đứng lên, đứng thẳng hoặc thiết lập một thứ gì đó.\n\nVí dụ:\n- 立つ (tatsu): Đứng lên."
+  },
+  "comments": [
+    {
+      "id": "696",
+      "lang": "vi",
+      "content_html": "<p>Hình dáng của một người đang <strong>đứng</strong>.</p>",
+      "content_text": "Hình dáng của một người đang\nđứng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629838c318166.jpg",
+      "image_path": "assets/images/立_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155831",
+      "lang": "vi",
+      "content_html": "<p>đầu đội trời, chân đạp đất, đứng dậy làm nên sự nghiệp</p>",
+      "content_text": "đầu đội trời, chân đạp đất, đứng dậy làm nên sự nghiệp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155832",
+      "lang": "vi",
+      "content_html": "<p>Người Đứng trên miếng đất Lập thân của mình</p>",
+      "content_text": "Người Đứng trên miếng đất Lập thân của mình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158274",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>立つ (たつ): đứng<br>立てる (たてる): đứng, lập (kế hoạch)<br>役に立つ (やくにたつ): có ích<br>組み立てる (くみたてる): lắp ráp<br>立入禁止 (たちいりきんし): cấm vào</p>",
+      "content_text": "JLPT N4\n立つ (たつ): đứng\n立てる (たてる): đứng, lập (kế hoạch)\n役に立つ (やくにたつ): có ích\n組み立てる (くみたてる): lắp ráp\n立入禁止 (たちいりきんし): cấm vào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

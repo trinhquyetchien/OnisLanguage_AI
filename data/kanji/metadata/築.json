@@ -1,0 +1,124 @@
+{
+  "kanji": "築",
+  "meta": {
+    "weight": 2012,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チク"
+    ],
+    "kun": [
+      "きず.く"
+    ],
+    "am_han": "TRÚC"
+  },
+  "meaning": {
+    "vi": "kiến trúc",
+    "en": "fabricate, build, construct"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/築.svg"
+  },
+  "frequency": 821,
+  "examples": [
+    "建築",
+    "構築",
+    "新築",
+    "築く",
+    "築地"
+  ],
+  "explanation": {
+    "id": "5235",
+    "text": "築 (đọc là \"chiku\") có nghĩa là \"xây dựng\" hoặc \"cấu trúc\", chỉ các hành động liên quan đến việc xây dựng công trình.  \nVí dụ:  \n- 築城 (chikujō): Xây thành, xây dựng lâu đài.  \n- 築く (kizuku): "
+  },
+  "comments": [
+    {
+      "id": "155910",
+      "lang": "vi",
+      "content_html": "<p>trúc+công+hoàn+mộc=&#62; kiến trúc thời xưa được làm hoàn toàn thủ công từ cây trúc!</p>",
+      "content_text": "trúc+công+hoàn+mộc=> kiến trúc thời xưa được làm hoàn toàn thủ công từ cây trúc!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190732",
+      "lang": "vi",
+      "content_html": "<p>chặc Tre, góp Công, thêm 9 cây Gỗ mới làm được tòa kiến Trúc</p>",
+      "content_text": "chặc Tre, góp Công, thêm 9 cây Gỗ mới làm được tòa kiến Trúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "155911",
+      "lang": "vi",
+      "content_html": "<p>Công việc quỳ gối để gắn kết các đốt tre và cây gỗ là liên quan kiến trúc</p>",
+      "content_text": "Công việc quỳ gối để gắn kết các đốt tre và cây gỗ là liên quan kiến trúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155912",
+      "lang": "vi",
+      "content_html": "<p>Kiến trúc ngày xưa sử dụng những cây tre tròn được làm thủ công để xây dựng ngôi nhà</p>",
+      "content_text": "Kiến trúc ngày xưa sử dụng những cây tre tròn được làm thủ công để xây dựng ngôi nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158908",
+      "lang": "vi",
+      "content_html": "<p>建築家(けんちくか): kiến trúc sư</p>",
+      "content_text": "建築家(けんちくか): kiến trúc sư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

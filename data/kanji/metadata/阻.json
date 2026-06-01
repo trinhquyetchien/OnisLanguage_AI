@@ -1,0 +1,88 @@
+{
+  "kanji": "阻",
+  "meta": {
+    "weight": 2818,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ"
+    ],
+    "kun": [
+      "はば.む"
+    ],
+    "am_han": "TRỞ"
+  },
+  "meaning": {
+    "vi": "ngăn cản, ngăn cách, cản trở",
+    "en": "thwart, separate from, prevent, obstruct, deter, impede"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/阻.svg"
+  },
+  "frequency": 1280,
+  "examples": [
+    "阻止",
+    "阻害",
+    "阻む"
+  ],
+  "explanation": {
+    "id": "4658",
+    "text": "阻 (đọc là \"so\") có nghĩa là \"cản trở\", \"ngăn chặn\" để chỉ các hành động liên quan đến việc ngăn không cho điều gì xảy ra hoặc làm giảm hiệu quả của một cái gì đó.  \nVí dụ:  \n- 阻止 (soshi): Ng"
+  },
+  "comments": [
+    {
+      "id": "157666",
+      "lang": "vi",
+      "content_html": "<p>祖: Tổ tiên nề nếp<br>租: Hòa bình đặt thuế má<br>粗: Gạo thô<br>阻: Gò đất cản trở<br>組: Sợi dây nối tổ chức</p>",
+      "content_text": "祖: Tổ tiên nề nếp\n租: Hòa bình đặt thuế má\n粗: Gạo thô\n阻: Gò đất cản trở\n組: Sợi dây nối tổ chức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157667",
+      "lang": "vi",
+      "content_html": "<p>1 con mắt bị cản trở bởi bức tường</p>",
+      "content_text": "1 con mắt bị cản trở bởi bức tường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157668",
+      "lang": "vi",
+      "content_html": "<p>Một đống đất cao cản Trở tầm nhìn của Một con Mắt</p>",
+      "content_text": "Một đống đất cao cản Trở tầm nhìn của Một con Mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "kanji": "濡",
+  "meta": {
+    "weight": 1631,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュ",
+      "ニュ"
+    ],
+    "kun": [
+      "ぬれ.る",
+      "ぬら.す",
+      "ぬ.れる",
+      "ぬ.らす",
+      "うるお.い",
+      "うるお.う",
+      "うるお.す"
+    ],
+    "am_han": "NHU, NHI"
+  },
+  "meaning": {
+    "vi": "ướt, ẩm ướt, làm tình",
+    "en": "get wet, damp, make love"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/濡.svg"
+  },
+  "frequency": 2260,
+  "examples": [
+    "濡れ",
+    "濡れる",
+    "ずぶ濡れ"
+  ],
+  "explanation": {
+    "id": "6139",
+    "text": "濡 (đọc là \"aru\") có nghĩa là \"ướt\", chỉ trạng thái bị ướt hoặc sự thấm nước.  \nVí dụ:  \n- 濡れ衣 (nuregi): Bị vu khống, cáo buộc sai.  \n- 濡れる (nureru): Bị ướt, trở nên ướt.  \n- 濡らす (nurasu): Là"
+  },
+  "comments": [
+    {
+      "id": "155119",
+      "lang": "vi",
+      "content_html": "<p>Xếp hàng dứoi mưa ướt đẫm nước toé tung</p>",
+      "content_text": "Xếp hàng dứoi mưa ướt đẫm nước toé tung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155120",
+      "lang": "vi",
+      "content_html": "<p>Chị thủy có nhu cầu ướt át</p>",
+      "content_text": "Chị thủy có nhu cầu ướt át",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155121",
+      "lang": "vi",
+      "content_html": "<p>Nước氵mưa 雨 Thấm Ướt rèm cửa sổ 而</p>",
+      "content_text": "Nước氵mưa 雨 Thấm Ướt rèm cửa sổ 而",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

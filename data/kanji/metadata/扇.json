@@ -1,0 +1,90 @@
+{
+  "kanji": "扇",
+  "meta": {
+    "weight": 1043,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "おうぎ"
+    ],
+    "am_han": "PHIẾN, THIÊN"
+  },
+  "meaning": {
+    "vi": "quạt, quạt xếp",
+    "en": "fan, folding fan"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/扇.svg"
+  },
+  "frequency": 1805,
+  "examples": [
+    "扇風機",
+    "扇",
+    "扇動",
+    "換気扇",
+    "扇子"
+  ],
+  "explanation": {
+    "id": "4496",
+    "text": "扇 (đọc là \"sen\" hoặc \"oōgi\") có nghĩa là \"quạt\", chỉ các vật dụng dùng để tạo gió hoặc làm mát. \n\nVí dụ:\n- 扇子 (sensu): Quạt giấy, quạt xếp.\n- 扇ぐ (aogu): Quạt, phe phẩy.\n- 扇風機 (senpūki): Quạt"
+  },
+  "comments": [
+    {
+      "id": "153775",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa quạt làm bằng lông chim gợi hình ảnh ngồi trước cửa vẩy vẩy cho mát</p>",
+      "content_text": "Ngày xưa quạt làm bằng lông chim gợi hình ảnh ngồi trước cửa vẩy vẩy cho mát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153776",
+      "lang": "vi",
+      "content_html": "<p>Hộ (戸)gia đình nuôi chim lấy lông vũ(羽 )làm quạt =&#62; để quạt( 扇ぐ)  mát</p>",
+      "content_text": "Hộ (戸)gia đình nuôi chim lấy lông vũ(羽 )làm quạt => để quạt( 扇ぐ)  mát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153777",
+      "lang": "vi",
+      "content_html": "<p>mang lông VŨ ra CỬA làm PHIẾN quạt</p>",
+      "content_text": "mang lông VŨ ra CỬA làm PHIẾN quạt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

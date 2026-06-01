@@ -1,0 +1,91 @@
+{
+  "kanji": "緑",
+  "meta": {
+    "weight": 2096,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョク",
+      "ロク"
+    ],
+    "kun": [
+      "みどり"
+    ],
+    "am_han": "LỤC"
+  },
+  "meaning": {
+    "vi": "màu xanh lục",
+    "en": "green"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/緑.svg"
+  },
+  "frequency": 1180,
+  "examples": [
+    "緑",
+    "緑色",
+    "緑地",
+    "緑茶",
+    "緑化"
+  ],
+  "explanation": {
+    "id": "8153",
+    "text": "緑 (đọc là \"ryoku\" hoặc \"midori\") có nghĩa là \"màu xanh lá cây\", thường chỉ các sắc thái của màu xanh trong tự nhiên, đặc biệt là màu của cây cỏ và thực vật.\n\nVí dụ:\n- 緑色 (midori-iro): Màu xa"
+  },
+  "comments": [
+    {
+      "id": "156098",
+      "lang": "vi",
+      "content_html": "<p>Bỏ 3 sợi tơ xuống dòng nước tạo ra màu xanh lá</p>",
+      "content_text": "Bỏ 3 sợi tơ xuống dòng nước tạo ra màu xanh lá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156099",
+      "lang": "vi",
+      "content_html": "<p>lấy sợi tơ mịch cột cổ con nhím nhúng xuống nước lát mặt nó tái xanh như tàu lá chuối. trong xanh lục</p>",
+      "content_text": "lấy sợi tơ mịch cột cổ con nhím nhúng xuống nước lát mặt nó tái xanh như tàu lá chuối. trong xanh lục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156100",
+      "lang": "vi",
+      "content_html": "<p>Sợi tợ (MỊCH) trên đầu con nhím (KỆ) như giọt nước (THỦY) có mầu xanh (LỤC)</p>",
+      "content_text": "Sợi tợ (MỊCH) trên đầu con nhím (KỆ) như giọt nước (THỦY) có mầu xanh (LỤC)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

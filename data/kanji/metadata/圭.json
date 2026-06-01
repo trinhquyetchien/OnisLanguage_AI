@@ -1,0 +1,83 @@
+{
+  "kanji": "圭",
+  "meta": {
+    "weight": 546,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ",
+      "ケ"
+    ],
+    "kun": [],
+    "am_han": "KHUÊ"
+  },
+  "meaning": {
+    "vi": "viên ngọc vuông, góc, cạnh",
+    "en": "square jewel, corner, angle, edge"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/圭.svg"
+  },
+  "frequency": 1837,
+  "examples": [],
+  "explanation": {
+    "id": "1946",
+    "text": "圭 (đọc là \"kei\") có nghĩa là \"khối đá quý\" hoặc \"mảnh hình thoi\", thường được sử dụng trong ngữ cảnh liên quan đến hình dạng và vật liệu quý giá.\n\nVí dụ:\n- 圭角 (keikaku): Góc hình thoi.\n- 短圭 "
+  },
+  "comments": [
+    {
+      "id": "152553",
+      "lang": "vi",
+      "content_html": "<p>圭 KHUÊ ( cái đong ) ( đong đất , đá , xi măng xây KHUÊ phòng trên 2 mảnh đất )</p>",
+      "content_text": "圭 KHUÊ ( cái đong ) ( đong đất , đá , xi măng xây KHUÊ phòng trên 2 mảnh đất )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152554",
+      "lang": "vi",
+      "content_html": "<p>dùng cái Khuê để đong đất</p>",
+      "content_text": "dùng cái Khuê để đong đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152555",
+      "lang": "vi",
+      "content_html": "<p>Tìm thấy ngọc khuê dưới 2 lớp đất</p>",
+      "content_text": "Tìm thấy ngọc khuê dưới 2 lớp đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

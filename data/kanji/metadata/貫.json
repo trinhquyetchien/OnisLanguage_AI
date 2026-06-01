@@ -1,0 +1,92 @@
+{
+  "kanji": "貫",
+  "meta": {
+    "weight": 2550,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "つらぬ.く",
+      "ぬ.く",
+      "ぬき"
+    ],
+    "am_han": "QUÁN"
+  },
+  "meaning": {
+    "vi": "xỏ, 8 1 / 3lbs, xuyên qua, nẹp",
+    "en": "pierce, 8 1/3lbs, penetrate, brace"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/貫.svg"
+  },
+  "frequency": 1156,
+  "examples": [
+    "一貫",
+    "貫く",
+    "貫通",
+    "貫徹",
+    "貫"
+  ],
+  "explanation": {
+    "id": "1184",
+    "text": "貫 (đọc là \"kan\") có nghĩa là \"thông qua\", \"thực hiện\" để chỉ các hành động liên quan đến việc kết nối, đạt được hoặc thực thi một điều gì đó.\n\nVí dụ:\n- 貫通 (kantsū): Sự thông qua, xuyên qua.\n"
+  },
+  "comments": [
+    {
+      "id": "157064",
+      "lang": "vi",
+      "content_html": "<p>Có ruộng và tiền sẽ quán triệt được tất</p>",
+      "content_text": "Có ruộng và tiền sẽ quán triệt được tất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157065",
+      "lang": "vi",
+      "content_html": "<p>Đi Vô Quán không trả Tiền</p>",
+      "content_text": "Đi Vô Quán không trả Tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157066",
+      "lang": "vi",
+      "content_html": "<p>KHONG co TIEN thif ko cho QUA</p>",
+      "content_text": "KHONG co TIEN thif ko cho QUA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

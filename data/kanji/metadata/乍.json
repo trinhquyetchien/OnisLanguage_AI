@@ -1,0 +1,86 @@
+{
+  "kanji": "乍",
+  "meta": {
+    "weight": 97,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サ",
+      "サク"
+    ],
+    "kun": [
+      "-なが.ら",
+      "たちま.ち"
+    ],
+    "am_han": "SẠ"
+  },
+  "meaning": {
+    "vi": "mặc dù, trong khi, cả hai, tất cả",
+    "en": "though, notwithstanding, while, during, both, all"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/乍.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6044",
+    "text": "乍 (đọc là \"saku\") có nghĩa là \"đột nhiên\", \"bất ngờ\" để chỉ sự xuất hiện hay hành động xảy ra một cách bất ngờ hoặc chớp nhoáng.  \nVí dụ:  \n- 乍ら (nagara): Trong khi, đồng thời (mặc dù không "
+  },
+  "comments": [
+    {
+      "id": "218799",
+      "lang": "vi",
+      "content_html": "<p>DÙ là chiếc lược nhưng chỉ có 3 răng</p>",
+      "content_text": "DÙ là chiếc lược nhưng chỉ có 3 răng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218800",
+      "lang": "vi",
+      "content_html": "<p>Sạ lúa Chợt thấy Người nằm trên Chấn song bên phải.</p>",
+      "content_text": "Sạ lúa Chợt thấy Người nằm trên Chấn song bên phải.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218801",
+      "lang": "vi",
+      "content_html": "<p>2 khúc Trúc ta được 1 cái lược</p>",
+      "content_text": "2 khúc Trúc ta được 1 cái lược",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

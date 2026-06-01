@@ -1,0 +1,92 @@
+{
+  "kanji": "飲",
+  "meta": {
+    "weight": 2928,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イン",
+      "オン"
+    ],
+    "kun": [
+      "の.む",
+      "-の.み"
+    ],
+    "am_han": "ẨM"
+  },
+  "meaning": {
+    "vi": "uống, ẩm thực",
+    "en": "drink, smoke, take"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/飲.svg"
+  },
+  "frequency": 969,
+  "examples": [
+    "飲み",
+    "飲む",
+    "飲食",
+    "飲み物",
+    "飲料"
+  ],
+  "explanation": {
+    "id": "257",
+    "text": "飲 (đọc là \"in\" hoặc \"nomu\") có nghĩa là \"uống\", chỉ các hành động liên quan đến việc tiêu thụ đồ uống.  \nVí dụ:  \n- 飲む (nomu): Uống.  \n- 飲料 (inryō): Đồ uống, nước giải khát.  \n- 飲酒 (inshu): "
+  },
+  "comments": [
+    {
+      "id": "684",
+      "lang": "vi",
+      "content_html": "<p>Mở to miệng để ăn (食) và <strong>uống</strong>.</p>",
+      "content_text": "Mở to miệng để ăn (食) và\nuống\n.",
+      "image_url": "https://jpdictionary.com/upload/images/6298367f44eac.jpg",
+      "image_path": "assets/images/飲_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191241",
+      "lang": "vi",
+      "content_html": "<p><strong>uống </strong>- 飲む (のむ)</p>",
+      "content_text": "uống\n- 飲む (のむ)",
+      "image_url": "https://jpdictionary.com/upload/images/648adf942ac34.jpg",
+      "image_path": "assets/images/飲_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "157937",
+      "lang": "vi",
+      "content_html": "<p>Thiếu (欠）ăn (食）thì phải uống (飲）</p>",
+      "content_text": "Thiếu (欠）ăn (食）thì phải uống (飲）",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

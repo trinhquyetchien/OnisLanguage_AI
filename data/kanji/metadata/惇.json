@@ -1,0 +1,69 @@
+{
+  "kanji": "惇",
+  "meta": {
+    "weight": 985,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュン",
+      "ジュン",
+      "トン"
+    ],
+    "kun": [
+      "あつ.い"
+    ],
+    "am_han": "ĐÔN"
+  },
+  "meaning": {
+    "vi": "chân thành, tốt bụng, ân cần",
+    "en": "sincere, kind, considerate"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/惇.svg"
+  },
+  "frequency": 2265,
+  "examples": [],
+  "explanation": {
+    "id": "6008",
+    "text": "惇 (đọc là \"jun\") có nghĩa là \"chân thành\", \"người ngay thẳng\", thường chỉ phẩm chất tốt đẹp của con người hoặc sự chân thành trong mối quan hệ. \n\nVí dụ:\n- 惇厚 (junko): Chân thành và hào phóng"
+  },
+  "comments": [
+    {
+      "id": "153623",
+      "lang": "vi",
+      "content_html": "<p>được hưởng nhiều của cải thì ắt hẳn tâm người này rất ĐÔN hậu <br>( có đức mặc sức mà ăn )</p>",
+      "content_text": "được hưởng nhiều của cải thì ắt hẳn tâm người này rất ĐÔN hậu\n( có đức mặc sức mà ăn )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153624",
+      "lang": "vi",
+      "content_html": "<p>Tâm đứng đắn đứa trẻ thừa hưởng sự ĐÔN hậu</p>",
+      "content_text": "Tâm đứng đắn đứa trẻ thừa hưởng sự ĐÔN hậu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

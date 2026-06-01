@@ -1,0 +1,91 @@
+{
+  "kanji": "差",
+  "meta": {
+    "weight": 821,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サ"
+    ],
+    "kun": [
+      "さ.す",
+      "さ.し"
+    ],
+    "am_han": "SAI"
+  },
+  "meaning": {
+    "vi": "sai khác, khác biệt",
+    "en": "distinction, difference, variation, discrepancy, margin, balance"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/差.svg"
+  },
+  "frequency": 449,
+  "examples": [
+    "差",
+    "差別",
+    "格差",
+    "差し",
+    "交差点"
+  ],
+  "explanation": {
+    "id": "2742",
+    "text": "差 (đọc là \"sa\") có nghĩa là \"sự khác biệt\", \"sự chênh lệch\" để chỉ các khía cạnh liên quan đến sự so sánh hoặc sự không đồng nhất.  \nVí dụ:  \n- 差別 (sabetsu): Phân biệt đối xử.  \n- 差し引き (sash"
+  },
+  "comments": [
+    {
+      "id": "153213",
+      "lang": "vi",
+      "content_html": "<p>thả DÊ ở CÔNG trường là việc SAI trái</p>",
+      "content_text": "thả DÊ ở CÔNG trường là việc SAI trái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153214",
+      "lang": "vi",
+      "content_html": "<p>Thịt DÊ  SAI CÔNG đoạn</p>",
+      "content_text": "Thịt DÊ  SAI CÔNG đoạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153215",
+      "lang": "vi",
+      "content_html": "<p>dâm Dê là Công việc sai trái</p>",
+      "content_text": "dâm Dê là Công việc sai trái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

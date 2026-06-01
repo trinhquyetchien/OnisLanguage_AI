@@ -1,0 +1,38 @@
+{
+  "kanji": "疏",
+  "meta": {
+    "weight": 1798,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ",
+      "ショ"
+    ],
+    "kun": [
+      "あら.い",
+      "うと.い",
+      "うと.む",
+      "とお.る",
+      "とお.す",
+      "まばら"
+    ],
+    "am_han": "SƠ, SỚ"
+  },
+  "meaning": {
+    "vi": "đi qua, ghi chú, bình luận, ghẻ lạnh, thưa thớt, bỏ mặc, thâm nhập",
+    "en": "pass through, note, commentary, estrangement, sparseness, neglect, penetrate"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/疏.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4630",
+    "text": "疏 (đọc là \"sho\") có nghĩa là \"thưa thớt\", \"trống rỗng\" hoặc \"không chặt chẽ\", thường dùng để chỉ sự phân tán, không liên kết chặt chẽ giữa các phần.  \nVí dụ:  \n- 疎外 (sogai): Sự xa lánh, tách"
+  },
+  "comments": []
+}

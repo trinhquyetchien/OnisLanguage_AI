@@ -1,0 +1,88 @@
+{
+  "kanji": "猛",
+  "meta": {
+    "weight": 1718,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モウ"
+    ],
+    "kun": [],
+    "am_han": "MÃNH"
+  },
+  "meaning": {
+    "vi": "khốc liệt, cuồng nhiệt, vội vàng, trở nên tức giận, hoang dã, sức mạnh",
+    "en": "fierce, rave, rush, become furious, wildness, strength"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/猛.svg"
+  },
+  "frequency": 1301,
+  "examples": [
+    "猛",
+    "猛烈",
+    "猛暑",
+    "猛威",
+    "猛獣"
+  ],
+  "explanation": {
+    "id": "7605",
+    "text": "猛 (đọc là \"mou\") có nghĩa là \"mạnh mẽ\", \"dữ dội\" để chỉ các trạng thái hoặc hành động thể hiện sức mạnh, sự hung tợn hoặc cường độ cao.\n\nVí dụ:\n- 猛烈 (mouretsu): Mãnh liệt, dữ dội.\n- 猛毒 (moud"
+  },
+  "comments": [
+    {
+      "id": "155281",
+      "lang": "vi",
+      "content_html": "<p>chó 犬 con 子 liếm đĩa cháo 皿 dũng mãnh 猛 lạ thường</p>",
+      "content_text": "chó 犬 con 子 liếm đĩa cháo 皿 dũng mãnh 猛 lạ thường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155282",
+      "lang": "vi",
+      "content_html": "<p>Tre con thường thể hiện sự dũng MÃNH trước chó mèo bằng cách đạp thật mạnh lên vật gì đó giống cái ĐĨA</p>",
+      "content_text": "Tre con thường thể hiện sự dũng MÃNH trước chó mèo bằng cách đạp thật mạnh lên vật gì đó giống cái ĐĨA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155283",
+      "lang": "vi",
+      "content_html": "<p>Mãnh Liệt lạ thường khi thấy Chó Con liếm Đĩa cháo.</p>",
+      "content_text": "Mãnh Liệt lạ thường khi thấy Chó Con liếm Đĩa cháo.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

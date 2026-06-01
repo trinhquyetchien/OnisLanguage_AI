@@ -1,0 +1,90 @@
+{
+  "kanji": "誠",
+  "meta": {
+    "weight": 2493,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ"
+    ],
+    "kun": [
+      "まこと"
+    ],
+    "am_han": "THÀNH"
+  },
+  "meaning": {
+    "vi": "chân thành, khuyên nhủ, cảnh báo, ngăn cấm, sự thật, lòng trung thành",
+    "en": "sincerity, admonish, warn, prohibit, truth, fidelity"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/誠.svg"
+  },
+  "frequency": 1128,
+  "examples": [
+    "誠",
+    "誠実",
+    "誠に",
+    "誠意",
+    "忠誠"
+  ],
+  "explanation": {
+    "id": "4352",
+    "text": "誠 (đọc là \"sei\" hoặc \"makoto\") có nghĩa là \"chân thành\", \"trung thực\" để chỉ sự chân thật và lòng trung thành trong hành động và lời nói.  \nVí dụ:  \n- 誠実 (seijitsu): Chân thành, thành thật. "
+  },
+  "comments": [
+    {
+      "id": "156931",
+      "lang": "vi",
+      "content_html": "<p>Ngôn từ thành thật</p>",
+      "content_text": "Ngôn từ thành thật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156932",
+      "lang": "vi",
+      "content_html": "<p>lời Nói (言) Thành Thực(誠) thì sẽ Thành công(成)</p>",
+      "content_text": "lời Nói (言) Thành Thực(誠) thì sẽ Thành công(成)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156933",
+      "lang": "vi",
+      "content_html": "<p>khi NÓI muốn đạt THÀNH CÔNG  --  cần phải THÀNH THỰC</p>",
+      "content_text": "khi NÓI muốn đạt THÀNH CÔNG  --  cần phải THÀNH THỰC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

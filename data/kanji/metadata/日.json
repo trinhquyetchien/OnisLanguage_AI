@@ -1,0 +1,110 @@
+{
+  "kanji": "日",
+  "meta": {
+    "weight": 1209,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ニチ",
+      "ジツ"
+    ],
+    "kun": [
+      "ひ",
+      "-び",
+      "-か"
+    ],
+    "am_han": "NHẬT"
+  },
+  "meaning": {
+    "vi": "ngày, mặt trời",
+    "en": "day, sun, Japan, counter for days"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/日.svg"
+  },
+  "frequency": 1,
+  "examples": [
+    "日",
+    "日本",
+    "今日",
+    "日記",
+    "日本人"
+  ],
+  "explanation": {
+    "id": "6111",
+    "text": "日 (đọc là \"nichi\" hoặc \"hi\") có nghĩa là \"ngày\" hoặc \"mặt trời\". Chữ này thường được dùng để chỉ thời gian hoặc ánh sáng mặt trời.\n\nVí dụ:\n- 日曜日 (nichiyōbi): Chủ nhật.\n- 日本 (Nihon): Nhật Bản"
+  },
+  "comments": [
+    {
+      "id": "36889",
+      "lang": "vi",
+      "content_html": "",
+      "content_text": "",
+      "image_url": "https://jpdictionary.com/upload/images/62b1a1cff1bd2.jpg",
+      "image_path": "assets/images/日_1.jpg",
+      "audio": null,
+      "like": 19,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "473",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của <strong>mặt trời</strong></p>",
+      "content_text": "Hình dạng của\nmặt trời",
+      "image_url": "https://jpdictionary.com/upload/images/62976279a2d67.jpg",
+      "image_path": "assets/images/日_2.jpg",
+      "audio": null,
+      "like": 12,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158206",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>1) Thứ trong tuần</p><p>何よう日 (なんようび): Thứ mấy</p><p>日よう日 (にちようび): Chủ nhật</p><p>月よう日 (げつようび): Thứ Hai</p><p>...</p><p>2) Ngày trong tháng</p><p>何日 (なんにち): ngày mùng mấy</p><p>5日 (いつか): ngày mùng 5</p><p>...</p><p>3) Ngày</p><p>休みの日 (やすみのひ): Ngày nghỉ</p><p>ごみの日 (ごみのひ): Ngày đổ rác</p><p>...</p><p>Mọi người xem chi tiết hơn ở bình luận nha</p>",
+      "content_text": "JLPT N5\n1) Thứ trong tuần\n何よう日 (なんようび): Thứ mấy\n日よう日 (にちようび): Chủ nhật\n月よう日 (げつようび): Thứ Hai\n...\n2) Ngày trong tháng\n何日 (なんにち): ngày mùng mấy\n5日 (いつか): ngày mùng 5\n...\n3) Ngày\n休みの日 (やすみのひ): Ngày nghỉ\nごみの日 (ごみのひ): Ngày đổ rác\n...\nMọi người xem chi tiết hơn ở bình luận nha",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 12,
+      "dislike": 0,
+      "reply_count": 5,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "191044",
+      "lang": "vi",
+      "content_html": "<p><strong>mặt trời</strong></p>",
+      "content_text": "mặt trời",
+      "image_url": "https://jpdictionary.com/upload/images/648a91bc37adc.jpg",
+      "image_path": "assets/images/日_4.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

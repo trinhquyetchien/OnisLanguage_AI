@@ -1,0 +1,91 @@
+{
+  "kanji": "遷",
+  "meta": {
+    "weight": 2689,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "うつ.る",
+      "うつ.す",
+      "みやこがえ"
+    ],
+    "am_han": "THIÊN"
+  },
+  "meaning": {
+    "vi": "chuyển tiếp, di chuyển, thay đổi",
+    "en": "transition, move, change"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/遷.svg"
+  },
+  "frequency": 1937,
+  "examples": [
+    "変遷",
+    "遷移",
+    "左遷",
+    "遷都"
+  ],
+  "explanation": {
+    "id": "4568",
+    "text": "遷 (đọc là \"sen\") có nghĩa là \"di chuyển\", \"chuyển đi\", chỉ các hành động liên quan đến việc di chuyển hay thay đổi vị trí.  \nVí dụ:  \n- 遷都 (sendō): Chuyển thủ đô.  \n- 遷移 (sen'i): Di chuyển, "
+  },
+  "comments": [
+    {
+      "id": "157405",
+      "lang": "vi",
+      "content_html": "<p>Nhị Đại Ka Dẫn Đường đi Tây THIÊN</p>",
+      "content_text": "Nhị Đại Ka Dẫn Đường đi Tây THIÊN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157406",
+      "lang": "vi",
+      "content_html": "<p>ở phương tây khi lớn phải tự ra đường đi tây thiên</p>",
+      "content_text": "ở phương tây khi lớn phải tự ra đường đi tây thiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157407",
+      "lang": "vi",
+      "content_html": "<p>Đường đi tây THIÊN to lớn ko có tri kỉ thì rất thăng trầm</p>",
+      "content_text": "Đường đi tây THIÊN to lớn ko có tri kỉ thì rất thăng trầm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

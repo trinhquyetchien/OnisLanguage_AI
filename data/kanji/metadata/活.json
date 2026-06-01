@@ -1,0 +1,92 @@
+{
+  "kanji": "活",
+  "meta": {
+    "weight": 1533,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カツ"
+    ],
+    "kun": [
+      "い.きる",
+      "い.かす",
+      "い.ける"
+    ],
+    "am_han": "HOẠT"
+  },
+  "meaning": {
+    "vi": "sinh hoạt, hoạt bát",
+    "en": "lively, resuscitation, being helped, living"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/活.svg"
+  },
+  "frequency": 171,
+  "examples": [
+    "生活",
+    "活動",
+    "活用",
+    "活躍",
+    "復活"
+  ],
+  "explanation": {
+    "id": "982",
+    "text": "活 (đọc là \"katsu\") có nghĩa là \"sống\", \"hoạt động\" để chỉ các hành động liên quan đến sự sống, sự hoạt động hoặc tính năng động.\n\nVí dụ:\n- 活動 (katsudō): Hoạt động.\n- 活発 (kappatsu): Sôi nổi, "
+  },
+  "comments": [
+    {
+      "id": "191095",
+      "lang": "vi",
+      "content_html": "<p><strong>hoạt bát</strong></p>",
+      "content_text": "hoạt bát",
+      "image_url": "https://jpdictionary.com/upload/images/648abf2d01b76.jpg",
+      "image_path": "assets/images/活_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "37115",
+      "lang": "vi",
+      "content_html": "<p>Uống nhiều nước để trở nên <strong>hoạt bát</strong>.</p>",
+      "content_text": "Uống nhiều nước để trở nên\nhoạt bát\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb44f73823.jpg",
+      "image_path": "assets/images/活_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154880",
+      "lang": "vi",
+      "content_html": "<p>Nghìn cái miệng linh hoạt nói nhiều bắn cả nước bọt tung toé</p>",
+      "content_text": "Nghìn cái miệng linh hoạt nói nhiều bắn cả nước bọt tung toé",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

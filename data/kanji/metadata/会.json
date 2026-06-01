@@ -1,0 +1,93 @@
+{
+  "kanji": "会",
+  "meta": {
+    "weight": 158,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ",
+      "エ"
+    ],
+    "kun": [
+      "あ.う",
+      "あ.わせる",
+      "あつ.まる"
+    ],
+    "am_han": "HỘI"
+  },
+  "meaning": {
+    "vi": "gặp, hội họp",
+    "en": "meeting, meet, party, association, interview, join"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/会.svg"
+  },
+  "frequency": 4,
+  "examples": [
+    "会",
+    "社会",
+    "会社",
+    "会議",
+    "機会"
+  ],
+  "explanation": {
+    "id": "746",
+    "text": "会 (đọc là \"kai\" hoặc \"a(u)\") có nghĩa là \"gặp gỡ\", \"hội họp\" hoặc \"hiểu\". Chữ này thường dùng để chỉ các hoạt động liên quan đến việc giao tiếp, tụ tập hoặc sự hiểu biết.\n\nVí dụ:\n- 会議 (kaigi"
+  },
+  "comments": [
+    {
+      "id": "190879",
+      "lang": "vi",
+      "content_html": "<p>2 chúng ta <strong>gặp </strong>nhau<strong> </strong>trong một ngôi nhà.</p>",
+      "content_text": "2 chúng ta\ngặp\nnhau\ntrong một ngôi nhà.",
+      "image_url": "https://jpdictionary.com/upload/images/648a628310a44.jpg",
+      "image_path": "assets/images/会_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "687",
+      "lang": "vi",
+      "content_html": "<p>2 (二) chúng ta sẽ <strong>gặp </strong>nhau<strong> </strong>trong một ngôi nhà.</p>",
+      "content_text": "2 (二) chúng ta sẽ\ngặp\nnhau\ntrong một ngôi nhà.",
+      "image_url": "https://jpdictionary.com/upload/images/629836f1d976d.jpg",
+      "image_path": "assets/images/会_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158263",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4<br>会う (あう): gặp<br>会社 (かいしゃ): công ty<br>会議 (かいぎ): cuộc họp<br>会議室 (かいぎしつ): phòng họp<br>会場 (かいじょう): hội trường<br>会話 (かいわ): hội thoại<br>機会 (きかい): cơ hội, dịp<br>教会 (きょうかい): nhà thờ<br>社会 (しゃかい): xã hội<br>展覧会 (てんらんかい): cuộc triển lãm<br>忘年会 (ぼうねんかい): tiệc tất niên<br>協会 (きょうかい): hiệp hội<br>大会 (たいかい): giải đấu, đại hội</p>",
+      "content_text": "JLPT N4\n会う (あう): gặp\n会社 (かいしゃ): công ty\n会議 (かいぎ): cuộc họp\n会議室 (かいぎしつ): phòng họp\n会場 (かいじょう): hội trường\n会話 (かいわ): hội thoại\n機会 (きかい): cơ hội, dịp\n教会 (きょうかい): nhà thờ\n社会 (しゃかい): xã hội\n展覧会 (てんらんかい): cuộc triển lãm\n忘年会 (ぼうねんかい): tiệc tất niên\n協会 (きょうかい): hiệp hội\n大会 (たいかい): giải đấu, đại hội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

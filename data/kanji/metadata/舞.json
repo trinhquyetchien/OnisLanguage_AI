@@ -1,0 +1,92 @@
+{
+  "kanji": "舞",
+  "meta": {
+    "weight": 2235,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ブ"
+    ],
+    "kun": [
+      "ま.う",
+      "-ま.う",
+      "まい"
+    ],
+    "am_han": "VŨ"
+  },
+  "meaning": {
+    "vi": "nhảy, khiêu vũ",
+    "en": "dance, flit, circle, wheel"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/舞.svg"
+  },
+  "frequency": 655,
+  "examples": [
+    "舞台",
+    "舞",
+    "見舞い",
+    "振る舞い",
+    "歌舞伎"
+  ],
+  "explanation": {
+    "id": "6870",
+    "text": "舞 (đọc là \"bu\", \"mai\") có nghĩa là \"múa\", \"nhảy\" để chỉ các hành động liên quan đến việc biểu diễn nghệ thuật thông qua chuyển động cơ thể.  \nVí dụ:  \n- 舞台 (butai): Sân khấu.  \n- 舞う (mau): N"
+  },
+  "comments": [
+    {
+      "id": "156423",
+      "lang": "vi",
+      "content_html": "<p>Chiều tối cuối năm mọi người múa sạp khiêu vũ</p>",
+      "content_text": "Chiều tối cuối năm mọi người múa sạp khiêu vũ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156424",
+      "lang": "vi",
+      "content_html": "<p>Tôi vô 無 cùng sai lầm 舛  vì đã học múa 舞う quạt sai cách</p>",
+      "content_text": "Tôi vô 無 cùng sai lầm 舛  vì đã học múa 舞う quạt sai cách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156425",
+      "lang": "vi",
+      "content_html": "<p>Tuổi xế chiều không khiêu vũ</p>",
+      "content_text": "Tuổi xế chiều không khiêu vũ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "邪",
+  "meta": {
+    "weight": 2698,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジャ"
+    ],
+    "kun": [
+      "よこし.ま"
+    ],
+    "am_han": "TÀ, DA"
+  },
+  "meaning": {
+    "vi": "xấu xa, bất công, sai trái",
+    "en": "wicked, injustice, wrong"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/邪.svg"
+  },
+  "frequency": 1612,
+  "examples": [
+    "風邪",
+    "邪魔",
+    "無邪気",
+    "邪悪",
+    "邪気"
+  ],
+  "explanation": {
+    "id": "3363",
+    "text": "邪 (đọc là \"ja\") có nghĩa là \"tà ác\", \"xấu xa\", để chỉ những điều xấu, không chính đáng hoặc sai trái.\n\nVí dụ:\n- 邪魔 (jama): Cản trở, gây rối.\n- 邪教 (jakyō): Tôn giáo tà đạo.\n- 邪気 (jaki): Khí t"
+  },
+  "comments": [
+    {
+      "id": "157430",
+      "lang": "vi",
+      "content_html": "<p>Nhe răng đứng núp sau khu đất làm điều gian tà</p>",
+      "content_text": "Nhe răng đứng núp sau khu đất làm điều gian tà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157431",
+      "lang": "vi",
+      "content_html": "<p>goodbye (gb) những điều tà ma</p>",
+      "content_text": "goodbye (gb) những điều tà ma",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157432",
+      "lang": "vi",
+      "content_html": "<p>Bãi đất chôn 13 cái Răng đầy TÀ khí</p>",
+      "content_text": "Bãi đất chôn 13 cái Răng đầy TÀ khí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

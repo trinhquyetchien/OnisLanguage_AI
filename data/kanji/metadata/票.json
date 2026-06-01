@@ -1,0 +1,88 @@
+{
+  "kanji": "票",
+  "meta": {
+    "weight": 1909,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒョウ"
+    ],
+    "kun": [],
+    "am_han": "PHIẾU, TIÊU, PHIÊU"
+  },
+  "meaning": {
+    "vi": "phiếu bầu, nhãn, vé, ký tên",
+    "en": "ballot, label, ticket, sign"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/票.svg"
+  },
+  "frequency": 489,
+  "examples": [
+    "投票",
+    "票",
+    "得票",
+    "伝票",
+    "帳票"
+  ],
+  "explanation": {
+    "id": "6710",
+    "text": "票 (đọc là \"hyō\") có nghĩa là \"vé\", \"phiếu\", thường dùng để chỉ các loại vé, phiếu bầu hoặc phiếu ghi danh.  \nVí dụ:  \n- 票 (hyō): Vé.  \n- 投票 (tōhyō): Bỏ phiếu.  \n- 券票 (kenpyō): Phiếu thẻ, vé."
+  },
+  "comments": [
+    {
+      "id": "155703",
+      "lang": "vi",
+      "content_html": "<p>tờ phiếu chỉ hiển thị ở phương tây</p>",
+      "content_text": "tờ phiếu chỉ hiển thị ở phương tây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155704",
+      "lang": "vi",
+      "content_html": "<p>Tiểu nhị dưới võng đếm ngân PHIẾU</p>",
+      "content_text": "Tiểu nhị dưới võng đếm ngân PHIẾU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155705",
+      "lang": "vi",
+      "content_html": "<p>á+thị=&#62;trên tờ ngân phiếu có hiển thị hình nước châu Á!</p>",
+      "content_text": "á+thị=>trên tờ ngân phiếu có hiển thị hình nước châu Á!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

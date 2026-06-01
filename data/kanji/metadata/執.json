@@ -1,0 +1,91 @@
+{
+  "kanji": "執",
+  "meta": {
+    "weight": 566,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シツ",
+      "シュウ"
+    ],
+    "kun": [
+      "と.る"
+    ],
+    "am_han": "CHẤP"
+  },
+  "meaning": {
+    "vi": "ngoan cường, nắm lấy, nắm bắt, tận tâm",
+    "en": "tenacious, take hold, grasp, take to heart"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/執.svg"
+  },
+  "frequency": 800,
+  "examples": [
+    "執行",
+    "執筆",
+    "執着",
+    "固執",
+    "執拗"
+  ],
+  "explanation": {
+    "id": "3266",
+    "text": "執 (đọc là \"shuu\" hoặc \"shiki\") có nghĩa là \"giữ lấy\", \"nắm giữ\", chỉ các hành động liên quan đến việc duy trì, kiên định hoặc chấp nhận một điều gì đó.  \nVí dụ:  \n- 執着 (shuu chaku): Sự bám v"
+  },
+  "comments": [
+    {
+      "id": "152596",
+      "lang": "vi",
+      "content_html": "<p>chấp 執 nhận hạnh 幸 phúc sẽ trọn vẹn 丸...</p>",
+      "content_text": "chấp 執 nhận hạnh 幸 phúc sẽ trọn vẹn 丸...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152597",
+      "lang": "vi",
+      "content_html": "<p>cố chấp 執 hoàn 丸 toàn không hạnh 幸 phúc</p>",
+      "content_text": "cố chấp 執 hoàn 丸 toàn không hạnh 幸 phúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152598",
+      "lang": "vi",
+      "content_html": "<p>Cuộn tròn hạnh phúc lại để nắm giữ</p>",
+      "content_text": "Cuộn tròn hạnh phúc lại để nắm giữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

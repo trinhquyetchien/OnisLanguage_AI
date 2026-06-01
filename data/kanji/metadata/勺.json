@@ -1,0 +1,82 @@
+{
+  "kanji": "勺",
+  "meta": {
+    "weight": 367,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャク"
+    ],
+    "kun": [],
+    "am_han": "CHƯỚC, THƯỢC"
+  },
+  "meaning": {
+    "vi": "muôi, một phần mười của lần đi, nhúng",
+    "en": "ladle, one tenth of a go, dip"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/勺.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3369",
+    "text": "勺 (đọc là \"shaku\") có nghĩa là \"muỗng\" hoặc \"thìa\", thường chỉ các dụng cụ dùng để múc hoặc đo lường chất lỏng.  \nVí dụ:  \n- 勺 (shaku): Muỗng.  \n- 一勺 (isshaku): Một muỗng.  \n- 勺子 (shakuzi): "
+  },
+  "comments": [
+    {
+      "id": "219004",
+      "lang": "vi",
+      "content_html": "<p>Bao( 勹)quanh Chủ(ヽ) nhân và bắt CHƯỚC....</p>",
+      "content_text": "Bao( 勹)quanh Chủ(ヽ) nhân và bắt CHƯỚC....",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219005",
+      "lang": "vi",
+      "content_html": "<p>Múc canh vào bao cho chủ</p>",
+      "content_text": "Múc canh vào bao cho chủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219006",
+      "lang": "vi",
+      "content_html": "<p>bao quanh chủ nhân đều có những cái gáo để múc canh</p>",
+      "content_text": "bao quanh chủ nhân đều có những cái gáo để múc canh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

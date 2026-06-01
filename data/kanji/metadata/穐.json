@@ -1,0 +1,33 @@
+{
+  "kanji": "穐",
+  "meta": {
+    "weight": 1953,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "あき",
+      "とき"
+    ],
+    "am_han": "SẮC, THU"
+  },
+  "meaning": {
+    "vi": "mùa thu",
+    "en": "autumn"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/穐.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "32",
+    "text": "穐 (đọc là \"aki\") có nghĩa là \"mùa thu\" hoặc \"thu hoạch\", thường liên quan đến thời điểm thu hoạch lương thực hoặc các sản phẩm nông nghiệp.\n\nVí dụ:\n- 穐 (aki): Mùa thu.\n- 秋穐 (aki no shū): Thu"
+  },
+  "comments": []
+}

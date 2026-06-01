@@ -1,0 +1,90 @@
+{
+  "kanji": "町",
+  "meta": {
+    "weight": 1778,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "まち"
+    ],
+    "am_han": "ĐINH"
+  },
+  "meaning": {
+    "vi": "khu phố",
+    "en": "town, village, block, street"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/町.svg"
+  },
+  "frequency": 292,
+  "examples": [
+    "町",
+    "市町村",
+    "町村",
+    "町内",
+    "町長"
+  ],
+  "explanation": {
+    "id": "5376",
+    "text": "町 (đọc là \"machi\") có nghĩa là \"thị trấn\" hoặc \"khu phố\", chỉ các khu vực dân cư nhỏ hơn thành phố.  \nVí dụ:  \n- 町並み (machi-nami): Dãy nhà trong thị trấn.  \n- 町役場 (machi-yakuba): Văn phòng c"
+  },
+  "comments": [
+    {
+      "id": "613",
+      "lang": "vi",
+      "content_html": "<p>Ruộng lúa (田) và những con đường trong <strong>thị trấn</strong>.</p>",
+      "content_text": "Ruộng lúa (田) và những con đường trong\nthị trấn\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629787ab2afa5.jpg",
+      "image_path": "assets/images/町_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158471",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>町 (まち): thị trấn, thành phố</p>",
+      "content_text": "JLPT N4\n町 (まち): thị trấn, thành phố",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "155406",
+      "lang": "vi",
+      "content_html": "<p>ra ruộng 田 dẫm phải ĐINH 丁 lên thị trấn 町 chữa trị</p>",
+      "content_text": "ra ruộng 田 dẫm phải ĐINH 丁 lên thị trấn 町 chữa trị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

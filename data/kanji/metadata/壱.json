@@ -1,0 +1,88 @@
+{
+  "kanji": "壱",
+  "meta": {
+    "weight": 612,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イチ",
+      "イツ"
+    ],
+    "kun": [
+      "ひとつ"
+    ],
+    "am_han": "NHẤT"
+  },
+  "meaning": {
+    "vi": "một (trong tài liệu)",
+    "en": "one (in documents)"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/壱.svg"
+  },
+  "frequency": 2351,
+  "examples": [
+    "壱",
+    "壱岐"
+  ],
+  "explanation": {
+    "id": "215",
+    "text": "壱 (đọc là \"ichi\") có nghĩa là \"một\", thường dùng trong các văn bản chính thức hoặc tài liệu pháp lý để biểu thị số lượng một cách trang trọng. \n\nVí dụ:\n- 壱万円 (ichiman'en): Mười nghìn yên.\n- "
+  },
+  "comments": [
+    {
+      "id": "152702",
+      "lang": "vi",
+      "content_html": "<p>Sĩ quàng Khăn cười Hihi là sướng Nhất</p>",
+      "content_text": "Sĩ quàng Khăn cười Hihi là sướng Nhất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152703",
+      "lang": "vi",
+      "content_html": "<p>duy nhất có 1 thằng quan sĩ trùm khăn cười hihi ( thằng khùng )</p>",
+      "content_text": "duy nhất có 1 thằng quan sĩ trùm khăn cười hihi ( thằng khùng )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152704",
+      "lang": "vi",
+      "content_html": "<p>Kẻ sĩ trùm khăn cười hihi khi về NHẤT</p>",
+      "content_text": "Kẻ sĩ trùm khăn cười hihi khi về NHẤT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

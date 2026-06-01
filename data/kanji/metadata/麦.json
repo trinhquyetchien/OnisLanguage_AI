@@ -1,0 +1,90 @@
+{
+  "kanji": "麦",
+  "meta": {
+    "weight": 3020,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バク"
+    ],
+    "kun": [
+      "むぎ"
+    ],
+    "am_han": "MẠCH"
+  },
+  "meaning": {
+    "vi": "lúa mạch",
+    "en": "barley, wheat"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/麦.svg"
+  },
+  "frequency": 1615,
+  "examples": [
+    "蕎麦",
+    "麦",
+    "小麦",
+    "小麦粉",
+    "大麦"
+  ],
+  "explanation": {
+    "id": "6365",
+    "text": "麦 (đọc là \"baku\" hoặc \"mugi\") có nghĩa là \"lúa mì\" để chỉ các loại ngũ cốc, đặc biệt là lúa mì và các sản phẩm liên quan.  \nVí dụ:  \n- 小麦 (komugi): Lúa mì.  \n- 麦茶 (mugicha): Trà lúa mì.  \n- "
+  },
+  "comments": [
+    {
+      "id": "158091",
+      "lang": "vi",
+      "content_html": "<p>một (Nhất) bông LÚA MẠCH ở trên đất (THỔ) hạt nặng trũi ngả về phía sau (TRUY)</p>",
+      "content_text": "một (Nhất) bông LÚA MẠCH ở trên đất (THỔ) hạt nặng trũi ngả về phía sau (TRUY)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158092",
+      "lang": "vi",
+      "content_html": "<p>Bọn chủ theo sau đến lấy lúa mạch</p>",
+      "content_text": "Bọn chủ theo sau đến lấy lúa mạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158093",
+      "lang": "vi",
+      "content_html": "<p>Ông vua (王) lòi đầu Truy (夂) tìm lúa Mạch (麦)</p>",
+      "content_text": "Ông vua (王) lòi đầu Truy (夂) tìm lúa Mạch (麦)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

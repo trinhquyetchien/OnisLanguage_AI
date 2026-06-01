@@ -1,0 +1,71 @@
+{
+  "kanji": "凌",
+  "meta": {
+    "weight": 296,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [
+      "しの.ぐ"
+    ],
+    "am_han": "LĂNG"
+  },
+  "meaning": {
+    "vi": "chịu đựng, giữ (mưa) ra ngoài, ngăn chặn, vượt qua, bất chấp, nhẹ nhàng",
+    "en": "endure, keep (rain)out, stave off, tide over, defy, slight, surpass"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/凌.svg"
+  },
+  "frequency": 2423,
+  "examples": [
+    "凌駕",
+    "凌ぐ",
+    "凌ぎ"
+  ],
+  "explanation": {
+    "id": "8102",
+    "text": "凌 (đọc là \"ryō\") có nghĩa là \"lấn át\", \"ngược đãi\" để chỉ các hành động liên quan đến việc vượt qua hoặc áp bức người khác.\n\nVí dụ:\n- 凌駕 (ryōga): Vượt trội, lấn át.\n- 凌虐 (ryōgyaku): Ngược đã"
+  },
+  "comments": [
+    {
+      "id": "151934",
+      "lang": "vi",
+      "content_html": "<p>Tiên Băng qua nhiều khó khăn Truy tìm Lăng mộ hoàng đế.</p>",
+      "content_text": "Tiên Băng qua nhiều khó khăn Truy tìm Lăng mộ hoàng đế.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151935",
+      "lang": "vi",
+      "content_html": "<p>Thuỷ Lại LĂNG mạ Tiên</p>",
+      "content_text": "Thuỷ Lại LĂNG mạ Tiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

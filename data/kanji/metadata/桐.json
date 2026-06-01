@@ -1,0 +1,70 @@
+{
+  "kanji": "桐",
+  "meta": {
+    "weight": 1351,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ",
+      "ドウ"
+    ],
+    "kun": [
+      "きり"
+    ],
+    "am_han": "ĐỒNG"
+  },
+  "meaning": {
+    "vi": "paulownia",
+    "en": "paulownia"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/桐.svg"
+  },
+  "frequency": 1668,
+  "examples": [
+    "桐"
+  ],
+  "explanation": {
+    "id": "1738",
+    "text": "桐 (đọc là \"tō\") có nghĩa là \"cây hương đào\", một loại cây thường được sử dụng trong chế tác đồ gỗ và làm nhạc cụ. \n\nVí dụ:\n- 桐箪笥 (tōdansu): Tủ gỗ làm từ cây hương đào.\n- 桐油 (tōyu): Dầu chiết"
+  },
+  "comments": [
+    {
+      "id": "154512",
+      "lang": "vi",
+      "content_html": "<p>Ngô đồng cây nào cũng giống nhau</p>",
+      "content_text": "Ngô đồng cây nào cũng giống nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154513",
+      "lang": "vi",
+      "content_html": "<p>梧桐 ngô đồng</p>",
+      "content_text": "梧桐 ngô đồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

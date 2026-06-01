@@ -1,0 +1,108 @@
+{
+  "kanji": "敬",
+  "meta": {
+    "weight": 1179,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ",
+      "キョウ"
+    ],
+    "kun": [
+      "うやま.う"
+    ],
+    "am_han": "KÍNH"
+  },
+  "meaning": {
+    "vi": "kính trọng",
+    "en": "awe, respect, honor, revere"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/敬.svg"
+  },
+  "frequency": 1078,
+  "examples": [
+    "尊敬",
+    "敬意",
+    "敬",
+    "敬遠",
+    "敬語"
+  ],
+  "explanation": {
+    "id": "1982",
+    "text": "敬 (đọc là \"keii\" hoặc \"uy\") có nghĩa là \"tôn kính\", \"kính trọng\", chỉ các hành động thể hiện sự tôn trọng đối với người khác.  \nVí dụ:  \n- 敬意 (keii): Sự tôn trọng, lòng kính trọng.  \n- 敬語 (k"
+  },
+  "comments": [
+    {
+      "id": "154104",
+      "lang": "vi",
+      "content_html": "<p>Bị đánh khẽ khi CẨU thả (苟) k dùng lối nói cung KÍNH với người lớn</p>",
+      "content_text": "Bị đánh khẽ khi CẨU thả (苟) k dùng lối nói cung KÍNH với người lớn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190748",
+      "lang": "vi",
+      "content_html": "<p>Ngọn cỏ cay cú tìm phộc để lấy lại sự tôn Kính</p>",
+      "content_text": "Ngọn cỏ cay cú tìm phộc để lấy lại sự tôn Kính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "154105",
+      "lang": "vi",
+      "content_html": "<p>Ăn nói CẨU THẢ thiếu KÍNH TRỌNG là bị ĐÁNH</p>",
+      "content_text": "Ăn nói CẨU THẢ thiếu KÍNH TRỌNG là bị ĐÁNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154106",
+      "lang": "vi",
+      "content_html": "<p>Tay muốn sửa câu nói hoa văn thể hiện sự kính trọng</p>",
+      "content_text": "Tay muốn sửa câu nói hoa văn thể hiện sự kính trọng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

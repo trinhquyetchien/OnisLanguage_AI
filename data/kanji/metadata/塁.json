@@ -1,0 +1,92 @@
+{
+  "kanji": "塁",
+  "meta": {
+    "weight": 583,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ルイ",
+      "ライ",
+      "スイ"
+    ],
+    "kun": [
+      "とりで"
+    ],
+    "am_han": "LŨY"
+  },
+  "meaning": {
+    "vi": "căn cứ, pháo đài, thành lũy, tường, cơ sở (bóng)",
+    "en": "bases, fort, rampart, walls, base(ball)"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/塁.svg"
+  },
+  "frequency": 651,
+  "examples": [
+    "塁",
+    "本塁打",
+    "一塁",
+    "満塁",
+    "三塁"
+  ],
+  "explanation": {
+    "id": "8192",
+    "text": "塁 (đọc là \"rui\") có nghĩa là \"căn cứ\", \"trạm\" hoặc chỉ các vị trí trong thể thao, đặc biệt là bóng chày để chỉ các điểm chạy. \n\nVí dụ:\n- 塁打 (ruida): Đánh bóng chạy, một cú đánh đưa người chơ"
+  },
+  "comments": [
+    {
+      "id": "152639",
+      "lang": "vi",
+      "content_html": "<p>Thành Luỹ bao gồm ruộng đất vây quanh tứ phướng 4 hướng</p>",
+      "content_text": "Thành Luỹ bao gồm ruộng đất vây quanh tứ phướng 4 hướng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152640",
+      "lang": "vi",
+      "content_html": "<p>đắp đất 4xung quanh ruộng để làm thành lũy chắn nước</p>",
+      "content_text": "đắp đất 4xung quanh ruộng để làm thành lũy chắn nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152641",
+      "lang": "vi",
+      "content_html": "<p>những ụ đất cao bao quanh những mảnh ruộng là những thành LŨY <br>( chị hiểu hôn )</p>",
+      "content_text": "những ụ đất cao bao quanh những mảnh ruộng là những thành LŨY\n( chị hiểu hôn )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

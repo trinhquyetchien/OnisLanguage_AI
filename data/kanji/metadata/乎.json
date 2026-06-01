@@ -1,0 +1,90 @@
+{
+  "kanji": "乎",
+  "meta": {
+    "weight": 98,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ",
+      "オ"
+    ],
+    "kun": [
+      "か",
+      "ああ",
+      "かな",
+      "や",
+      "よ",
+      "を"
+    ],
+    "am_han": "HỒ, HÔ"
+  },
+  "meaning": {
+    "vi": "dấu chấm hỏi, ?",
+    "en": "question mark, ?"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/乎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2242",
+    "text": "乎 (đọc là \"ko\") có nghĩa là \"hay không\", thường dùng trong văn viết với ý nghĩa câu hỏi hoặc nhấn mạnh. \n\nVí dụ:\n- 何乎 (nani ko): Cái gì hay không?\n- 是乎 (ze ko): Có phải vậy hay không? \n- 乎乎 "
+  },
+  "comments": [
+    {
+      "id": "218802",
+      "lang": "vi",
+      "content_html": "<p>Hình dung ra giống người đang chìm dưới mặt nước đang cố ngoi Đầu giơ 2 Tay lên để Hô hoán, kêu cứu. May là có người nhận ra đưa cho khúc Gậy để nắm lấy. Ai thấy tui hình dung giỏi ko? ^^</p>",
+      "content_text": "Hình dung ra giống người đang chìm dưới mặt nước đang cố ngoi Đầu giơ 2 Tay lên để Hô hoán, kêu cứu. May là có người nhận ra đưa cho khúc Gậy để nắm lấy. Ai thấy tui hình dung giỏi ko? ^^",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218803",
+      "lang": "vi",
+      "content_html": "<p>bình hơi nghiêng là HÔ</p>",
+      "content_text": "bình hơi nghiêng là HÔ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218804",
+      "lang": "vi",
+      "content_html": "<p>Hồ có Bình hơi nghiêng.</p>",
+      "content_text": "Hồ có Bình hơi nghiêng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

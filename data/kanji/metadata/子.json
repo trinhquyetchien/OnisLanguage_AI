@@ -1,0 +1,94 @@
+{
+  "kanji": "子",
+  "meta": {
+    "weight": 693,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ",
+      "ス",
+      "ツ"
+    ],
+    "kun": [
+      "こ",
+      "-こ",
+      "ね"
+    ],
+    "am_han": "TỬ"
+  },
+  "meaning": {
+    "vi": "đứa trẻ, tử tôn",
+    "en": "child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/子.svg"
+  },
+  "frequency": 72,
+  "examples": [
+    "子供",
+    "子",
+    "子ども",
+    "様子",
+    "電子"
+  ],
+  "explanation": {
+    "id": "3074",
+    "text": "子 (đọc là \"shi\" hoặc \"su\") có nghĩa là \"con\", chỉ sự sinh sản, trẻ nhỏ hoặc một phần trong các từ chỉ mối quan hệ gia đình.\nVí dụ:\n- 子供 (kodomo): Trẻ em, con cái.\n- 孫 (mago): Cháu, con của c"
+  },
+  "comments": [
+    {
+      "id": "190972",
+      "lang": "vi",
+      "content_html": "<p><strong>đứa bé</strong></p>",
+      "content_text": "đứa bé",
+      "image_url": "https://jpdictionary.com/upload/images/648a7dc5ed790.jpg",
+      "image_path": "assets/images/子_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "548",
+      "lang": "vi",
+      "content_html": "<p>Hình dáng của một <strong>đứa bé</strong></p>",
+      "content_text": "Hình dáng của một\nđứa bé",
+      "image_url": "https://jpdictionary.com/upload/images/62977d1e9e995.jpg",
+      "image_path": "assets/images/子_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152891",
+      "lang": "vi",
+      "content_html": "<p>Hình 1 em bé đang dang hai tay ra</p>",
+      "content_text": "Hình 1 em bé đang dang hai tay ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

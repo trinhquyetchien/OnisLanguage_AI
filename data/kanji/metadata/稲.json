@@ -1,0 +1,92 @@
+{
+  "kanji": "稲",
+  "meta": {
+    "weight": 1943,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ",
+      "テ"
+    ],
+    "kun": [
+      "いね",
+      "いな-"
+    ],
+    "am_han": "ĐẠO"
+  },
+  "meaning": {
+    "vi": "cây lúa",
+    "en": "rice plant"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/稲.svg"
+  },
+  "frequency": 1038,
+  "examples": [
+    "早稲田",
+    "稲",
+    "稲作",
+    "稲荷",
+    "稲妻"
+  ],
+  "explanation": {
+    "id": "224",
+    "text": "稲 (đọc là \"ine\") có nghĩa là \"lúa\" để chỉ cây lúa và các sản phẩm từ lúa.  \nVí dụ:  \n- 稲作 (inasaku): Trồng lúa.  \n- 稲穂 (inahoe): Bông lúa.  \n- 稲荷神社 (Inari Jinja): Đền thờ Inari, thần lúa."
+  },
+  "comments": [
+    {
+      "id": "155775",
+      "lang": "vi",
+      "content_html": "<p>lúa gặt một ngày có thể nhận đc gạo</p>",
+      "content_text": "lúa gặt một ngày có thể nhận đc gạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155776",
+      "lang": "vi",
+      "content_html": "<p>Lúa mang cho người già (Cựu) mới phải Đạo (bông lúa)</p>",
+      "content_text": "Lúa mang cho người già (Cựu) mới phải Đạo (bông lúa)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155777",
+      "lang": "vi",
+      "content_html": "<p>thuận ĐẠO thì lúa(Hòa) già(Cựu) phải dùng tay(Trảo) gặt</p>",
+      "content_text": "thuận ĐẠO thì lúa(Hòa) già(Cựu) phải dùng tay(Trảo) gặt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

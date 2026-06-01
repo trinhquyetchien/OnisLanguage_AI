@@ -1,0 +1,91 @@
+{
+  "kanji": "斜",
+  "meta": {
+    "weight": 1192,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "なな.め",
+      "はす"
+    ],
+    "am_han": "TÀ, GIA"
+  },
+  "meaning": {
+    "vi": "chéo, xiên",
+    "en": "diagonal, slanting, oblique"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/斜.svg"
+  },
+  "frequency": 1504,
+  "examples": [
+    "斜め",
+    "斜面",
+    "傾斜",
+    "斜",
+    "急斜面"
+  ],
+  "explanation": {
+    "id": "3336",
+    "text": "斜 (đọc là \"sha\") có nghĩa là \"nghiêng\", \"xéo\" để chỉ các vị trí hoặc hướng không thẳng đứng hoặc không ngang bằng.\n\nVí dụ:\n- 斜め (naname): Nghiêng, xéo.\n- 斜視 (shashi): Nhìn lệch, tầm nhìn thi"
+  },
+  "comments": [
+    {
+      "id": "154140",
+      "lang": "vi",
+      "content_html": "<p>Dư một Đấu thì bị nghiêng một bên</p>",
+      "content_text": "Dư một Đấu thì bị nghiêng một bên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154141",
+      "lang": "vi",
+      "content_html": "<p>Cân dư nên bị nghiêng</p>",
+      "content_text": "Cân dư nên bị nghiêng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154142",
+      "lang": "vi",
+      "content_html": "<p>tà tà : Xiên xiên. Nghiêng nghiêng. Chỉ ánh nắng buổi chiều</p>",
+      "content_text": "tà tà : Xiên xiên. Nghiêng nghiêng. Chỉ ánh nắng buổi chiều",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

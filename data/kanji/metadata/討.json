@@ -1,0 +1,90 @@
+{
+  "kanji": "討",
+  "meta": {
+    "weight": 2456,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "う.つ"
+    ],
+    "am_han": "THẢO"
+  },
+  "meaning": {
+    "vi": "trừng phạt, tấn công, đánh bại, phá hủy, chinh phục",
+    "en": "chastise, attack, defeat, destroy, conquer"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/討.svg"
+  },
+  "frequency": 528,
+  "examples": [
+    "検討",
+    "討論",
+    "討議",
+    "再検討",
+    "討伐"
+  ],
+  "explanation": {
+    "id": "5864",
+    "text": "討 (đọc là \"tō\") có nghĩa là \"tranh luận\", \"thảo luận\" hoặc \"tấn công\" để chỉ các hành động liên quan đến việc thảo luận, tranh cãi hoặc tấn công ai đó về mặt lý luận.  \nVí dụ:  \n- 討論 (tōron)"
+  },
+  "comments": [
+    {
+      "id": "156835",
+      "lang": "vi",
+      "content_html": "<p>Lời nói thảo luận gì mà nghe rất thốn</p>",
+      "content_text": "Lời nói thảo luận gì mà nghe rất thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156836",
+      "lang": "vi",
+      "content_html": "<p>Chữ THỐN (là vật dùng để đong đếm ngày xưa). Vậy nên muốn THẢO luận việc quan trọng thì phải cân nhắc, đong đếm từng LỜI NÓI rồi với đc quyết định</p>",
+      "content_text": "Chữ THỐN (là vật dùng để đong đếm ngày xưa). Vậy nên muốn THẢO luận việc quan trọng thì phải cân nhắc, đong đếm từng LỜI NÓI rồi với đc quyết định",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156837",
+      "lang": "vi",
+      "content_html": "<p>Thảo phạt tấn công bằng ngôn từ thốn</p>",
+      "content_text": "Thảo phạt tấn công bằng ngôn từ thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

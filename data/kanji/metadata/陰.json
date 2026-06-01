@@ -1,0 +1,108 @@
+{
+  "kanji": "陰",
+  "meta": {
+    "weight": 2830,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イン"
+    ],
+    "kun": [
+      "かげ",
+      "かげ.る"
+    ],
+    "am_han": "ÂM"
+  },
+  "meaning": {
+    "vi": "bóng râm, âm, cơ quan sinh dục, bí mật, bóng tối",
+    "en": "shade, yin, negative, sex organs, secret, shadow"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/陰.svg"
+  },
+  "frequency": 1393,
+  "examples": [
+    "陰",
+    "お陰",
+    "陰謀",
+    "陰陽",
+    "日陰"
+  ],
+  "explanation": {
+    "id": "272",
+    "text": "陰 (đọc là \"in\") có nghĩa là \"bóng tối\", \"âm\", thường liên quan đến các khía cạnh tiêu cực, bí ẩn hoặc nữ tính trong văn hóa Nhật Bản. \n\nVí dụ:\n- 陰影 (inei): Bóng đổ, bóng mờ.\n- 陰口 (inguchi): "
+  },
+  "comments": [
+    {
+      "id": "157699",
+      "lang": "vi",
+      "content_html": "<p>tường thành lúc này đang có mây làm âm u</p>",
+      "content_text": "tường thành lúc này đang có mây làm âm u",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157700",
+      "lang": "vi",
+      "content_html": "<p>cái BÓNG của Bố rất lớn, che mát cho con tới BÂY GIỜ 今 và CÒN NỮA 云</p>",
+      "content_text": "cái BÓNG của Bố rất lớn, che mát cho con tới BÂY GIỜ 今 và CÒN NỮA 云",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157701",
+      "lang": "vi",
+      "content_html": "<p>Dưới bức tường có quá khứ của bây giờ là cõi âm</p>",
+      "content_text": "Dưới bức tường có quá khứ của bây giờ là cõi âm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221792",
+      "lang": "vi",
+      "content_html": "<p>Thời điểm mây trôi dần từ trên đỉnh núi xuống (do lạnh + khuất gió) =&gt; Âm u<br><strong>⻖</strong>bên trái là Phụ</p>",
+      "content_text": "Thời điểm mây trôi dần từ trên đỉnh núi xuống (do lạnh + khuất gió) => Âm u\n⻖\nbên trái là Phụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

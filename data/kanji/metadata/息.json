@@ -1,0 +1,107 @@
+{
+  "kanji": "息",
+  "meta": {
+    "weight": 969,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソク"
+    ],
+    "kun": [
+      "いき"
+    ],
+    "am_han": "TỨC"
+  },
+  "meaning": {
+    "vi": "hơi thở",
+    "en": "breath, respiration, son, interest (on money), nuture, rest, coming to an end"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/息.svg"
+  },
+  "frequency": 882,
+  "examples": [
+    "息子",
+    "息",
+    "ため息",
+    "生息",
+    "利息"
+  ],
+  "explanation": {
+    "id": "4794",
+    "text": "息 (đọc là \"soku\") có nghĩa là \"hơi thở\", \"nghỉ ngơi\", để chỉ các hoạt động liên quan đến sự sống còn và sự phục hồi năng lượng.  \nVí dụ:  \n- 息子 (musuko): Con trai.  \n- 息切れ (ikigire): Hụt hơi"
+  },
+  "comments": [
+    {
+      "id": "37204",
+      "lang": "vi",
+      "content_html": "<p>Phải <strong>thở </strong>để giữ cho trái tim (心) của bản thân (自) đập.</p>",
+      "content_text": "Phải\nthở\nđể giữ cho trái tim (心) của bản thân (自) đập.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd47e9c5bd.jpg",
+      "image_path": "assets/images/息_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153587",
+      "lang": "vi",
+      "content_html": "<p>Con TIM mà vẫn TỰ đập đc TỨC là vẫn còn HƠI THỞ</p>",
+      "content_text": "Con TIM mà vẫn TỰ đập đc TỨC là vẫn còn HƠI THỞ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153588",
+      "lang": "vi",
+      "content_html": "<p>tôi phải Tự mình lắng nghe Hơi Thở của Tim</p>",
+      "content_text": "tôi phải Tự mình lắng nghe Hơi Thở của Tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153589",
+      "lang": "vi",
+      "content_html": "<p>Đẻ được con trai thì tự thân thở phù an tâm</p>",
+      "content_text": "Đẻ được con trai thì tự thân thở phù an tâm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

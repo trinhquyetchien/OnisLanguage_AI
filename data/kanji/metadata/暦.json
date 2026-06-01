@@ -1,0 +1,91 @@
+{
+  "kanji": "暦",
+  "meta": {
+    "weight": 1250,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レキ",
+      "リャク"
+    ],
+    "kun": [
+      "こよみ"
+    ],
+    "am_han": "LỊCH"
+  },
+  "meaning": {
+    "vi": "lịch, niên giám",
+    "en": "calendar, almanac"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/暦.svg"
+  },
+  "frequency": 1765,
+  "examples": [
+    "暦",
+    "西暦",
+    "旧暦",
+    "還暦",
+    "新暦"
+  ],
+  "explanation": {
+    "id": "8250",
+    "text": "暦 (đọc là \"reki\") có nghĩa là \"lịch\", chỉ hệ thống đo thời gian và ghi nhận các ngày tháng trong năm. \n\nVí dụ:\n- 年暦 (nenreki): Lịch năm.\n- 暦日 (rekijitsu): Ngày trong lịch.\n- 和暦 (wareki): Lịc"
+  },
+  "comments": [
+    {
+      "id": "154280",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa đi rừng về nhà là đếm lịch 1 ngày</p>",
+      "content_text": "Ngày xưa đi rừng về nhà là đếm lịch 1 ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154281",
+      "lang": "vi",
+      "content_html": "<p>Theo lịch thì mỗi ngày lên suòn trồng 2 cây</p>",
+      "content_text": "Theo lịch thì mỗi ngày lên suòn trồng 2 cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154282",
+      "lang": "vi",
+      "content_html": "<p>bức tranh trên tờ lịch lúc nào cũng có mặt trời núi non và rừng nhỏ</p>",
+      "content_text": "bức tranh trên tờ lịch lúc nào cũng có mặt trời núi non và rừng nhỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

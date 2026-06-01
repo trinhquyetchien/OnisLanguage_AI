@@ -1,0 +1,86 @@
+{
+  "kanji": "矩",
+  "meta": {
+    "weight": 1861,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ク"
+    ],
+    "kun": [
+      "かね",
+      "かねざし",
+      "さしがね"
+    ],
+    "am_han": "CỦ"
+  },
+  "meaning": {
+    "vi": "thước kẻ, hình vuông của thợ mộc",
+    "en": "ruler, carpenter's square"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/矩.svg"
+  },
+  "frequency": 2380,
+  "examples": [],
+  "explanation": {
+    "id": "1823",
+    "text": "矩 (đọc là \"kyo\" hoặc \"muku\") có nghĩa là \"thước vuông\", \"công cụ đo lường\", thường chỉ các khái niệm liên quan đến đo đạc và hình học.  \nVí dụ:  \n- 矩形 (kukei): Hình chữ nhật, hình vuông.  \n-"
+  },
+  "comments": [
+    {
+      "id": "155611",
+      "lang": "vi",
+      "content_html": "<p>Dùng mũi tên kháng Cự quy Củ</p>",
+      "content_text": "Dùng mũi tên kháng Cự quy Củ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155612",
+      "lang": "vi",
+      "content_html": "<p>anh thỉ chống cự đúng quy củ</p>",
+      "content_text": "anh thỉ chống cự đúng quy củ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155613",
+      "lang": "vi",
+      "content_html": "<p>Mũi tên cất trong tủ to tủ bé phải tuân theo qui CỦ</p>",
+      "content_text": "Mũi tên cất trong tủ to tủ bé phải tuân theo qui CỦ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

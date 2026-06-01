@@ -1,0 +1,92 @@
+{
+  "kanji": "京",
+  "meta": {
+    "weight": 128,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ",
+      "ケイ",
+      "キン"
+    ],
+    "kun": [
+      "みやこ"
+    ],
+    "am_han": "KINH"
+  },
+  "meaning": {
+    "vi": "thủ đô, kinh đô",
+    "en": "capital, 10**16"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/京.svg"
+  },
+  "frequency": 74,
+  "examples": [
+    "東京",
+    "京都",
+    "北京",
+    "京",
+    "南京"
+  ],
+  "explanation": {
+    "id": "1613",
+    "text": "京 (đọc là \"kyō\") có nghĩa là \"kinh đô\" hoặc \"mười nghìn\" để chỉ một thành phố lớn hoặc lượng lớn trong một số ngữ cảnh.\nVí dụ:\n- 東京 (Tōkyō): Tokyo, thủ đô của Nhật Bản.\n- 京劇 (Kyōgeki): Kinh "
+  },
+  "comments": [
+    {
+      "id": "36948",
+      "lang": "vi",
+      "content_html": "<p>Căn nhà được xây trên đồi nhỏ (小), nó trở thành <strong>thủ đô</strong>.</p>",
+      "content_text": "Căn nhà được xây trên đồi nhỏ (小), nó trở thành\nthủ đô\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4656294dc.jpg",
+      "image_path": "assets/images/京_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190868",
+      "lang": "vi",
+      "content_html": "<p><strong>kinh đô</strong></p>",
+      "content_text": "kinh đô",
+      "image_url": "https://jpdictionary.com/upload/images/648a602534784.jpg",
+      "image_path": "assets/images/京_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "151510",
+      "lang": "vi",
+      "content_html": "<p>Kinh đô là đầu não của đất nước, có những cái miệng nhỏ</p>",
+      "content_text": "Kinh đô là đầu não của đất nước, có những cái miệng nhỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

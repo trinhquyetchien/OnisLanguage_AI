@@ -1,0 +1,92 @@
+{
+  "kanji": "射",
+  "meta": {
+    "weight": 754,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "い.る",
+      "さ.す",
+      "う.つ"
+    ],
+    "am_han": "XẠ, DẠ, DỊCH"
+  },
+  "meaning": {
+    "vi": "bắn, chiếu vào, vào, bắn cung",
+    "en": "shoot, shine into, onto, archery"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/射.svg"
+  },
+  "frequency": 937,
+  "examples": [
+    "発射",
+    "反射",
+    "注射",
+    "放射",
+    "放射線"
+  ],
+  "explanation": {
+    "id": "3328",
+    "text": "射 (đọc là \"sha\") có nghĩa là \"bắn\" hoặc \"bắn trúng\", thường chỉ các hành động liên quan đến việc sử dụng vũ khí hoặc bắn mục tiêu.  \nVí dụ:  \n- 射撃 (shageki): Bắn súng, nổ súng.  \n- 射す (sasu)"
+  },
+  "comments": [
+    {
+      "id": "153046",
+      "lang": "vi",
+      "content_html": "<p>Phóng Xạ trúng bản THÂN thì thật THỐN</p>",
+      "content_text": "Phóng Xạ trúng bản THÂN thì thật THỐN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153047",
+      "lang": "vi",
+      "content_html": "<p>Thân thể rất Thốn khi bị Xạ trị</p>",
+      "content_text": "Thân thể rất Thốn khi bị Xạ trị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153048",
+      "lang": "vi",
+      "content_html": "<p>Xạ thủ mà bắn vào thân thì rất thốn</p>",
+      "content_text": "Xạ thủ mà bắn vào thân thì rất thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

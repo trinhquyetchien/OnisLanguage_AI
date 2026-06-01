@@ -1,0 +1,91 @@
+{
+  "kanji": "砂",
+  "meta": {
+    "weight": 1865,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サ",
+      "シャ"
+    ],
+    "kun": [
+      "すな"
+    ],
+    "am_han": "SA"
+  },
+  "meaning": {
+    "vi": "cát",
+    "en": "sand"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/砂.svg"
+  },
+  "frequency": 1146,
+  "examples": [
+    "砂",
+    "砂糖",
+    "砂漠",
+    "砂浜",
+    "土砂"
+  ],
+  "explanation": {
+    "id": "2754",
+    "text": "砂 (đọc là \"suna\") có nghĩa là \"cát\", chỉ các hạt nhỏ, mịn, thường được tìm thấy trong tự nhiên. \n\nVí dụ:\n- 砂浜 (sunahama): Bãi cát.\n- 砂糖 (satou): Đường (thực phẩm).\n- 砂場 (sunaba): Khu vực chơ"
+  },
+  "comments": [
+    {
+      "id": "155623",
+      "lang": "vi",
+      "content_html": "<p>Đá bị nghiền nhỏ ra thành cát</p>",
+      "content_text": "Đá bị nghiền nhỏ ra thành cát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155624",
+      "lang": "vi",
+      "content_html": "<p>Thiếu Đá thì đến Sa mạc lấy Cát.</p>",
+      "content_text": "Thiếu Đá thì đến Sa mạc lấy Cát.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155625",
+      "lang": "vi",
+      "content_html": "<p>Thiếu đá thì Sài cát( xây dựng tí )</p>",
+      "content_text": "Thiếu đá thì Sài cát( xây dựng tí )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

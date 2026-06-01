@@ -1,0 +1,90 @@
+{
+  "kanji": "拭",
+  "meta": {
+    "weight": 1082,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショク",
+      "シキ"
+    ],
+    "kun": [
+      "ぬぐ.う",
+      "ふ.く"
+    ],
+    "am_han": "THỨC"
+  },
+  "meaning": {
+    "vi": "lau, gạc",
+    "en": "wipe, mop, swab"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/拭.svg"
+  },
+  "frequency": 2421,
+  "examples": [
+    "払拭",
+    "拭き",
+    "拭く"
+  ],
+  "explanation": {
+    "id": "4012",
+    "text": "拭 (đọc là \"shaku\" hoặc \"fuki\") có nghĩa là \"lau chùi\", \"quét\" để chỉ các hành động liên quan đến việc làm sạch bề mặt.\n\nVí dụ:\n- 拭う (nuguu): Lau chùi, quét dọn.\n- 拭き取る (fukitoru): Lau sạch, "
+  },
+  "comments": [
+    {
+      "id": "153886",
+      "lang": "vi",
+      "content_html": "<p>THỨC dậy Cầm KHĂN LAU Tay</p>",
+      "content_text": "THỨC dậy Cầm KHĂN LAU Tay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153887",
+      "lang": "vi",
+      "content_html": "<p>Tay lau chùi dọn dẹp theo hình THỨC</p>",
+      "content_text": "Tay lau chùi dọn dẹp theo hình THỨC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153888",
+      "lang": "vi",
+      "content_html": "<p>Hình thức dùng tay lau</p>",
+      "content_text": "Hình thức dùng tay lau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

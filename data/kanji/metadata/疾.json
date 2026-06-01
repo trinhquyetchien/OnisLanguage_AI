@@ -1,0 +1,89 @@
+{
+  "kanji": "疾",
+  "meta": {
+    "weight": 1803,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シツ"
+    ],
+    "kun": [
+      "はや.い"
+    ],
+    "am_han": "TẬT"
+  },
+  "meaning": {
+    "vi": "liên tục",
+    "en": "rapidly"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/疾.svg"
+  },
+  "frequency": 1577,
+  "examples": [
+    "疾患",
+    "疾病",
+    "疾走",
+    "疾風"
+  ],
+  "explanation": {
+    "id": "3288",
+    "text": "疾 (đọc là \"shitsu\" hoặc \"to\") có nghĩa là \"bệnh tật\", \"căn bệnh\" để chỉ các vấn đề liên quan đến sức khỏe hoặc bệnh lý.  \nVí dụ:  \n- 疾病 (shippai): Bệnh tật, căn bệnh.  \n- 疾走 (shissou): Chạy "
+  },
+  "comments": [
+    {
+      "id": "155458",
+      "lang": "vi",
+      "content_html": "<p>bị mũi tên bắn thì không bệnh cũng tật</p>",
+      "content_text": "bị mũi tên bắn thì không bệnh cũng tật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155459",
+      "lang": "vi",
+      "content_html": "<p>Bị mũi tên bắn chảy máu phải nằm giương bệnh</p>",
+      "content_text": "Bị mũi tên bắn chảy máu phải nằm giương bệnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155460",
+      "lang": "vi",
+      "content_html": "<p>bệnh do mũi tên gây ra để lại thương tật rất lớn</p>",
+      "content_text": "bệnh do mũi tên gây ra để lại thương tật rất lớn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "隣",
+  "meta": {
+    "weight": 2848,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リン"
+    ],
+    "kun": [
+      "とな.る",
+      "となり"
+    ],
+    "am_han": "LÂN, LĂN"
+  },
+  "meaning": {
+    "vi": "láng giềng",
+    "en": "neighboring"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/隣.svg"
+  },
+  "frequency": 1083,
+  "examples": [
+    "隣",
+    "近隣",
+    "隣接",
+    "隣人",
+    "隣国"
+  ],
+  "explanation": {
+    "id": "8180",
+    "text": "隣 (đọc là \"rin\" hoặc \"tonari\") có nghĩa là \"hàng xóm\", \"bên cạnh\" để chỉ những thứ ở gần nhau hoặc vị trí liền kề.  \nVí dụ:  \n- 隣人 (rinjin): Hàng xóm, người sống bên cạnh.  \n- 隣接 (rinsetsu):"
+  },
+  "comments": [
+    {
+      "id": "157748",
+      "lang": "vi",
+      "content_html": "<p>Bồ LÚA 米 bên cạnh ta タ quanh năm 年</p>",
+      "content_text": "Bồ LÚA 米 bên cạnh ta タ quanh năm 年",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157749",
+      "lang": "vi",
+      "content_html": "<p>Nhà hàng xóm Bên vách tường tối lửa tắt đèn có cơm cho nhau năm này qua năm khác</p>",
+      "content_text": "Nhà hàng xóm Bên vách tường tối lửa tắt đèn có cơm cho nhau năm này qua năm khác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157750",
+      "lang": "vi",
+      "content_html": "<p>Tối 12h LÂN La sang Bên cô hàng xóm ăn Cơm</p>",
+      "content_text": "Tối 12h LÂN La sang Bên cô hàng xóm ăn Cơm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kanji": "湘",
+  "meta": {
+    "weight": 1583,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "TƯƠNG, SƯƠNG"
+  },
+  "meaning": {
+    "vi": "tên sông Trung Quốc, sông Sagami",
+    "en": "name of Chinese river, the Sagami river"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/湘.svg"
+  },
+  "frequency": 1909,
+  "examples": [],
+  "explanation": {
+    "id": "3859",
+    "text": "湘 (đọc là \"shō\") có nghĩa là \"sông Hương\", thường liên quan đến địa danh hoặc mô tả cảnh quan tự nhiên, đặc biệt là những vùng có sông nước thơ mộng.\n\nVí dụ:\n- 湘南 (Shōnan): Khu vực ven biển "
+  },
+  "comments": [
+    {
+      "id": "155000",
+      "lang": "vi",
+      "content_html": "<p>mắt nhìn cái hộp làm bằng cây trúc</p>",
+      "content_text": "mắt nhìn cái hộp làm bằng cây trúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

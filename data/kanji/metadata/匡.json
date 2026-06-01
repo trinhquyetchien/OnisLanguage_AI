@@ -1,0 +1,69 @@
+{
+  "kanji": "匡",
+  "meta": {
+    "weight": 378,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ",
+      "オウ"
+    ],
+    "kun": [
+      "すく.う",
+      "ただ.す"
+    ],
+    "am_han": "KHUÔNG"
+  },
+  "meaning": {
+    "vi": "sửa, lưu, hỗ trợ",
+    "en": "correct, save, assist"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/匡.svg"
+  },
+  "frequency": 2176,
+  "examples": [],
+  "explanation": {
+    "id": "1639",
+    "text": "匡 (đọc là \"kyō\") có nghĩa là \"cứu giúp\", \"hỗ trợ\" để chỉ hành động hỗ trợ hoặc khôi phục trật tự.  \nVí dụ:  \n- 匡正 (kyōsei): Sửa chữa, chỉnh đốn.  \n- 匡援 (kyōen): Hỗ trợ, cứu trợ.  \n- 匡国 (kyōk"
+  },
+  "comments": [
+    {
+      "id": "152142",
+      "lang": "vi",
+      "content_html": "<p>Vua chui vào tủ để cải cách KHUÔNG chính</p>",
+      "content_text": "Vua chui vào tủ để cải cách KHUÔNG chính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152143",
+      "lang": "vi",
+      "content_html": "<p>Vua Phương vào ngõ cụt vô phương cứu chữa</p>",
+      "content_text": "Vua Phương vào ngõ cụt vô phương cứu chữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "kanji": "頗",
+  "meta": {
+    "weight": 2906,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハ"
+    ],
+    "kun": [
+      "すこぶ.る",
+      "かたよ.る"
+    ],
+    "am_han": "PHA, PHẢ"
+  },
+  "meaning": {
+    "vi": "thành kiến, quá mức",
+    "en": "prejudiced, exceedingly"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/頗.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4268",
+    "text": "頗 (đọc là \"ha\", \"pa\") có nghĩa là \"khá\", \"tương đối\" để chỉ mức độ hoặc tình trạng nào đó ở mức cao hơn bình thường.\n\nVí dụ:\n- 頗る (hataraku): Khá, tương đối.\n- 頗有名 (hahayumei): Khá nổi tiếng"
+  },
+  "comments": []
+}

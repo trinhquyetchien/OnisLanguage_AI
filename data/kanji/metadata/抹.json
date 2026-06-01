@@ -1,0 +1,87 @@
+{
+  "kanji": "抹",
+  "meta": {
+    "weight": 1067,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マツ"
+    ],
+    "kun": [],
+    "am_han": "MẠT"
+  },
+  "meaning": {
+    "vi": "chà, sơn, xóa",
+    "en": "rub, paint, erase"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/抹.svg"
+  },
+  "frequency": 2006,
+  "examples": [
+    "抹茶",
+    "抹殺",
+    "抹消",
+    "一抹"
+  ],
+  "explanation": {
+    "id": "7432",
+    "text": "抹 (đọc là \"matsu\" hoặc \"baku\") có nghĩa là \"xóa bỏ\", \"loại bỏ\", thường liên quan đến hành động xóa sạch hoặc tiêu hủy một cái gì đó.\n\nVí dụ:\n- 抹消 (masshou): Xóa bỏ, hủy bỏ.\n- 抹茶 (matcha): Tr"
+  },
+  "comments": [
+    {
+      "id": "153841",
+      "lang": "vi",
+      "content_html": "<p>Dùng Tay LAU MẠT Gỗ trên Cây</p>",
+      "content_text": "Dùng Tay LAU MẠT Gỗ trên Cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153842",
+      "lang": "vi",
+      "content_html": "<p>Cuối cùng 末 cũng phải ra tay 扌xoá bỏ Mattcha 抹茶</p>",
+      "content_text": "Cuối cùng 末 cũng phải ra tay 扌xoá bỏ Mattcha 抹茶",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153843",
+      "lang": "vi",
+      "content_html": "<p>MẠT vận nên tay phải đi quét nhà thuê</p>",
+      "content_text": "MẠT vận nên tay phải đi quét nhà thuê",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

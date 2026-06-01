@@ -1,0 +1,90 @@
+{
+  "kanji": "激",
+  "meta": {
+    "weight": 1627,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲキ"
+    ],
+    "kun": [
+      "はげ.しい"
+    ],
+    "am_han": "KÍCH"
+  },
+  "meaning": {
+    "vi": "bạo lực, phấn khích, phẫn nộ, chửi bới, xúi giục",
+    "en": "violent, get excited, enraged, chafe, incite"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/激.svg"
+  },
+  "frequency": 560,
+  "examples": [
+    "刺激",
+    "激しい",
+    "急激",
+    "感激",
+    "激"
+  ],
+  "explanation": {
+    "id": "2057",
+    "text": "激 (đọc là \"geki\") có nghĩa là \"kích thích\", \"kích động\" để chỉ các hành động liên quan đến sự cảm xúc mạnh mẽ hoặc sự kích thích.  \nVí dụ:  \n- 激怒 (gekinu): Sự tức giận, cơn giận dữ.  \n- 激しい "
+  },
+  "comments": [
+    {
+      "id": "155110",
+      "lang": "vi",
+      "content_html": "<p>Để Nước Trắng chảy đúng Phương hướng thì phải Đánh khẽ để Kích thích</p>",
+      "content_text": "Để Nước Trắng chảy đúng Phương hướng thì phải Đánh khẽ để Kích thích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155111",
+      "lang": "vi",
+      "content_html": "<p>KÍCH thích Phóng ra Nước mầu Trắng</p>",
+      "content_text": "KÍCH thích Phóng ra Nước mầu Trắng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155112",
+      "lang": "vi",
+      "content_html": "<p>Khi phóng (放) ra nước (氵) trắng (白) thì chẳng phải là anh<br>ấy đã bị kích (激) thích quá đà rồi hay sao</p>",
+      "content_text": "Khi phóng (放) ra nước (氵) trắng (白) thì chẳng phải là anh\nấy đã bị kích (激) thích quá đà rồi hay sao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

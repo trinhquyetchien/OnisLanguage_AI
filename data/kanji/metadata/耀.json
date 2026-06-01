@@ -1,0 +1,51 @@
+{
+  "kanji": "耀",
+  "meta": {
+    "weight": 2146,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "かがや.く",
+      "ひかり"
+    ],
+    "am_han": "DIỆU"
+  },
+  "meaning": {
+    "vi": "tỏa sáng, lấp lánh",
+    "en": "shine, sparkle, gleam, twinkle"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/耀.svg"
+  },
+  "frequency": 2253,
+  "examples": [],
+  "explanation": {
+    "id": "7890",
+    "text": "耀 (đọc là \"yō\") có nghĩa là \"tỏa sáng\", \"lấp lánh\" để chỉ sự phát sáng mạnh mẽ hoặc thu hút ánh nhìn.  \nVí dụ:  \n- 輝耀 (kiyō): Sự chiếu sáng rực rỡ.  \n- 耀く (hikariyaku): Tỏa sáng, lấp lánh.  "
+  },
+  "comments": [
+    {
+      "id": "156225",
+      "lang": "vi",
+      "content_html": "<p>Ánh hào quang cùng tiếng chim kêu yoyo cho thấy sự xa hoa ảo DIỆU</p>",
+      "content_text": "Ánh hào quang cùng tiếng chim kêu yoyo cho thấy sự xa hoa ảo DIỆU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

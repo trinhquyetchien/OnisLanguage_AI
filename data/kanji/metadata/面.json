@@ -1,0 +1,110 @@
+{
+  "kanji": "面",
+  "meta": {
+    "weight": 2882,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "メン",
+      "ベン"
+    ],
+    "kun": [
+      "おも",
+      "おもて",
+      "つら"
+    ],
+    "am_han": "DIỆN"
+  },
+  "meaning": {
+    "vi": "mặt, chính diện",
+    "en": "mask, face, features, surface"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/面.svg"
+  },
+  "frequency": 186,
+  "examples": [
+    "面",
+    "面白い",
+    "画面",
+    "場面",
+    "面倒"
+  ],
+  "explanation": {
+    "id": "7581",
+    "text": "面 (đọc là \"men\") có nghĩa là \"mặt\", \"bề mặt\" để chỉ các khía cạnh về hình thức hoặc diện mạo của sự vật.  \nVí dụ:  \n- 面白い (omoshiroi): Thú vị, hay.  \n- 面接 (mensetsu): Phỏng vấn.  \n- 顔面 (ganm"
+  },
+  "comments": [
+    {
+      "id": "37442",
+      "lang": "vi",
+      "content_html": "<p>DIỆN - mặt</p>",
+      "content_text": "DIỆN - mặt",
+      "image_url": "https://jpdictionary.com/upload/images/62d399dc07683.png",
+      "image_path": "assets/images/面_1.png",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157842",
+      "lang": "vi",
+      "content_html": "<p>mắt 目 là cửa sổ 囗 ( tưởng  tượng đây là cửa sổ ) tâm hồn của cả khuôn MẶT</p>",
+      "content_text": "mắt 目 là cửa sổ 囗 ( tưởng  tượng đây là cửa sổ ) tâm hồn của cả khuôn MẶT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190638",
+      "lang": "vi",
+      "content_html": "<p>正面(しょう めん): Mặt chính diện</p><p>直面(ちょくめん): Đối mặt</p><p>面会(めんかい): Buổi gặp gỡ</p>",
+      "content_text": "正面(しょう めん): Mặt chính diện\n直面(ちょくめん): Đối mặt\n面会(めんかい): Buổi gặp gỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "189",
+      "lang": "vi",
+      "content_html": "<p>Nhân vật phản DIỆN này có 2 má phệ</p>",
+      "content_text": "Nhân vật phản DIỆN này có 2 má phệ",
+      "image_url": "https://jpdictionary.com/upload/images/62883b0f0ae4a.jpg",
+      "image_path": "assets/images/面_4.jpg",
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

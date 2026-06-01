@@ -1,0 +1,107 @@
+{
+  "kanji": "飼",
+  "meta": {
+    "weight": 2930,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "か.う"
+    ],
+    "am_han": "TỰ"
+  },
+  "meaning": {
+    "vi": "thuần hóa, nuôi, giữ, cho ăn",
+    "en": "domesticate, raise, keep, feed"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/飼.svg"
+  },
+  "frequency": 1392,
+  "examples": [
+    "飼育",
+    "飼い主",
+    "飼料",
+    "飼う",
+    "飼い犬"
+  ],
+  "explanation": {
+    "id": "3168",
+    "text": "飼 (đọc là \"shi\" hoặc \"ka\") có nghĩa là \"nuôi\", \"chăm sóc\" để chỉ các hành động liên quan đến việc nuôi dưỡng động vật hoặc thực vật.\n\nVí dụ:\n- 飼う (kau): Nuôi (thú cưng).\n- 飼料 (shiryou): Thức"
+  },
+  "comments": [
+    {
+      "id": "157940",
+      "lang": "vi",
+      "content_html": "<p>Chủ + cho ăn = chăn nuôi</p>",
+      "content_text": "Chủ + cho ăn = chăn nuôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190725",
+      "lang": "vi",
+      "content_html": "<p>ăn ở ti 1 cách tự như được nuôi</p>",
+      "content_text": "ăn ở ti 1 cách tự như được nuôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157941",
+      "lang": "vi",
+      "content_html": "<p>ĂN đi đừng TỰ TI</p>",
+      "content_text": "ĂN đi đừng TỰ TI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157942",
+      "lang": "vi",
+      "content_html": "<p>Thức ăn khả dụng cho chăn nuôi</p>",
+      "content_text": "Thức ăn khả dụng cho chăn nuôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

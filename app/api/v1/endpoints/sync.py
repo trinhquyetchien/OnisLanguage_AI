@@ -13,6 +13,7 @@ async def push_changes(
     request: SyncPushRequest,
     current_user: User = Depends(deps.get_current_user)
 ):
+    request.user_id = str(current_user.user_id)
     return sync_service.push(request)
 
 

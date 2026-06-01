@@ -1,0 +1,88 @@
+{
+  "kanji": "賃",
+  "meta": {
+    "weight": 2562,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チン"
+    ],
+    "kun": [],
+    "am_han": "NHẪM"
+  },
+  "meaning": {
+    "vi": "giá vé, lệ phí, thuê, tiền thuê, tiền công, phí",
+    "en": "fare, fee, hire, rent, wages, charge"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/賃.svg"
+  },
+  "frequency": 961,
+  "examples": [
+    "賃金",
+    "賃貸",
+    "家賃",
+    "運賃",
+    "賃料"
+  ],
+  "explanation": {
+    "id": "5432",
+    "text": "賃 (đọc là \"chin\") có nghĩa là \"tiền công\", \"chi phí\" để chỉ các khoản thanh toán liên quan đến dịch vụ hoặc lao động.  \nVí dụ:  \n- 賃金 (chingin): Tiền lương, tiền công.  \n- 賃貸 (chintai): Cho "
+  },
+  "comments": [
+    {
+      "id": "157097",
+      "lang": "vi",
+      "content_html": "<p>Trách NHIỆM 任 thì không thể thuê 賃 được bằng TIỀN 貝</p>",
+      "content_text": "Trách NHIỆM 任 thì không thể thuê 賃 được bằng TIỀN 貝",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157098",
+      "lang": "vi",
+      "content_html": "<p>NHẪM có nhiệm vụ đóng tiền nhà</p>",
+      "content_text": "NHẪM có nhiệm vụ đóng tiền nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157099",
+      "lang": "vi",
+      "content_html": "<p>nhẫm trong miệng là phải có trách nhiệm với đồng lương</p>",
+      "content_text": "nhẫm trong miệng là phải có trách nhiệm với đồng lương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

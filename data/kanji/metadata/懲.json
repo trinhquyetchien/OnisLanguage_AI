@@ -1,0 +1,91 @@
+{
+  "kanji": "懲",
+  "meta": {
+    "weight": 1026,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "こ.りる",
+      "こ.らす",
+      "こ.らしめる"
+    ],
+    "am_han": "TRỪNG"
+  },
+  "meaning": {
+    "vi": "hình phạt, trừng phạt, kỷ luật",
+    "en": "penal, chastise, punish, discipline"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/懲.svg"
+  },
+  "frequency": 1303,
+  "examples": [
+    "懲役",
+    "懲戒",
+    "懲罰",
+    "勧善懲悪"
+  ],
+  "explanation": {
+    "id": "20312",
+    "text": "懲 (đọc là \"sui\" hoặc \"shui\") có nghĩa là \"thủy\", thường chỉ các khái niệm liên quan đến nước hoặc điểm khởi đầu trong một số ngữ cảnh. \n\nVí dụ:\n- 水質 (suishitsu): Chất lượng nước.\n- 水道 (suidō"
+  },
+  "comments": [
+    {
+      "id": "153736",
+      "lang": "vi",
+      "content_html": "<p>Đặc TRƯNG của vua là TRỪNG trị kẻ làm điều trái với lương TÂM</p>",
+      "content_text": "Đặc TRƯNG của vua là TRỪNG trị kẻ làm điều trái với lương TÂM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153737",
+      "lang": "vi",
+      "content_html": "<p>Vua xưa phạm tội bị đày dứoi núi cạnh đường đi sau có tay tác động dưới là con tim mong chờ bị trừng trị</p>",
+      "content_text": "Vua xưa phạm tội bị đày dứoi núi cạnh đường đi sau có tay tác động dưới là con tim mong chờ bị trừng trị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153738",
+      "lang": "vi",
+      "content_html": "<p>Đặc trưng của trái tim là trừng phạt</p>",
+      "content_text": "Đặc trưng của trái tim là trừng phạt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

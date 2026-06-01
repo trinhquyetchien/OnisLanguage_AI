@@ -1,0 +1,86 @@
+{
+  "kanji": "諮",
+  "meta": {
+    "weight": 2511,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "はか.る"
+    ],
+    "am_han": "TI, TƯ"
+  },
+  "meaning": {
+    "vi": "tham khảo ý kiến với",
+    "en": "consult with"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/諮.svg"
+  },
+  "frequency": 1345,
+  "examples": [
+    "諮問"
+  ],
+  "explanation": {
+    "id": "3156",
+    "text": "諮 (đọc là \"shi\") có nghĩa là \"tham khảo\", \"hỏi ý kiến\" để chỉ các hành động liên quan đến việc tham vấn hoặc thu thập thông tin từ người khác.\n\nVí dụ:\n- 諮問 (shimon): Hỏi ý kiến, tham vấn.\n- "
+  },
+  "comments": [
+    {
+      "id": "156969",
+      "lang": "vi",
+      "content_html": "<p>vì miệng thiếu ngôn từ nên cần được tư vấn</p>",
+      "content_text": "vì miệng thiếu ngôn từ nên cần được tư vấn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156970",
+      "lang": "vi",
+      "content_html": "<p>liên tục dùng miệng nói ra những câu hỏi riêng Tư</p>",
+      "content_text": "liên tục dùng miệng nói ra những câu hỏi riêng Tư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156971",
+      "lang": "vi",
+      "content_html": "<p>phát Ngôn Tiếp theo là dùng Miệng để TƯ VẤN</p>",
+      "content_text": "phát Ngôn Tiếp theo là dùng Miệng để TƯ VẤN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "kanji": "蛋",
+  "meta": {
+    "weight": 2378,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [],
+    "am_han": "ĐẢN"
+  },
+  "meaning": {
+    "vi": "man rợ, trứng",
+    "en": "barbarian, egg"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/蛋.svg"
+  },
+  "frequency": 2266,
+  "examples": [
+    "蛋白"
+  ],
+  "explanation": {
+    "id": "5159",
+    "text": "蛋 (đọc là \"dan\") có nghĩa là \"trứng\" để chỉ các loại trứng, đặc biệt là trứng gà và thực phẩm có liên quan đến trứng.  \nVí dụ:  \n- 卵 (tamago): Trứng (gà).  \n- 鶏卵 (keiran): Trứng gà.  \n- 蛋白質 "
+  },
+  "comments": []
+}

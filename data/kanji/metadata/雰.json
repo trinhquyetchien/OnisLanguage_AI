@@ -1,0 +1,84 @@
+{
+  "kanji": "雰",
+  "meta": {
+    "weight": 2866,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フン"
+    ],
+    "kun": [],
+    "am_han": "PHÂN"
+  },
+  "meaning": {
+    "vi": "bầu khí quyển, sương mù",
+    "en": "atmosphere, fog"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/雰.svg"
+  },
+  "frequency": 1341,
+  "examples": [
+    "雰囲気"
+  ],
+  "explanation": {
+    "id": "6974",
+    "text": "雰 (đọc là \"fun\") có nghĩa là \"bầu không khí\", \"khí chất\" để chỉ cảm giác, trạng thái hoặc bầu không khí xung quanh một sự việc hay tình huống.\n\nVí dụ:\n- 雰囲気 (fun'iki): Bầu không khí, không g"
+  },
+  "comments": [
+    {
+      "id": "157795",
+      "lang": "vi",
+      "content_html": "<p>Mưa phân ra thành sương mù</p>",
+      "content_text": "Mưa phân ra thành sương mù",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157796",
+      "lang": "vi",
+      "content_html": "<p>mưa 雨 (PHÂN) 雰 rã làm bầu không khí trong lành hơn</p>",
+      "content_text": "mưa 雨 (PHÂN) 雰 rã làm bầu không khí trong lành hơn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157797",
+      "lang": "vi",
+      "content_html": "<p>Mưa Phân ra thành Không Khí</p>",
+      "content_text": "Mưa Phân ra thành Không Khí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

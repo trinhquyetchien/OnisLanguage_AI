@@ -1,0 +1,74 @@
+{
+  "kanji": "杏",
+  "meta": {
+    "weight": 1288,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ",
+      "アン",
+      "コウ"
+    ],
+    "kun": [
+      "あんず"
+    ],
+    "am_han": "HẠNH"
+  },
+  "meaning": {
+    "vi": "quả mơ",
+    "en": "apricot"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/杏.svg"
+  },
+  "frequency": 2159,
+  "examples": [
+    "杏",
+    "銀杏",
+    "杏仁",
+    "杏子"
+  ],
+  "explanation": {
+    "id": "107",
+    "text": "杏 (đọc là \"kyō\" hoặc \"an\") có nghĩa là \"quả mơ\" để chỉ loại quả và cây mơ. \n\nVí dụ:\n- 杏子 (anzu): Quả mơ.\n- 杏仁 (an nin): Hạt mơ, thường dùng để chỉ hạnh nhân.\n- 杏樹 (anzu ju): Cây mơ."
+  },
+  "comments": [
+    {
+      "id": "154382",
+      "lang": "vi",
+      "content_html": "<p>Cây mơ rất là ngon nên ngày xưa ai<br>cũng hứng mồm ở dưới cái cây để chờ quả mơ rụng xuống rơi<br>vào mồm. Phân biệt với chữ Ngốc 呆</p>",
+      "content_text": "Cây mơ rất là ngon nên ngày xưa ai\ncũng hứng mồm ở dưới cái cây để chờ quả mơ rụng xuống rơi\nvào mồm. Phân biệt với chữ Ngốc 呆",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154383",
+      "lang": "vi",
+      "content_html": "<p>Hạnh phúc là được ngồi dưới cây ăn</p>",
+      "content_text": "Hạnh phúc là được ngồi dưới cây ăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

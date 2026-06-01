@@ -1,0 +1,90 @@
+{
+  "kanji": "局",
+  "meta": {
+    "weight": 773,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョク"
+    ],
+    "kun": [
+      "つぼね"
+    ],
+    "am_han": "CỤC"
+  },
+  "meaning": {
+    "vi": "phòng, kết cục",
+    "en": "bureau, board, office, affair, conclusion, court lady, lady-in-waiting, her apartment"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/局.svg"
+  },
+  "frequency": 286,
+  "examples": [
+    "結局",
+    "局",
+    "局長",
+    "当局",
+    "局面"
+  ],
+  "explanation": {
+    "id": "1726",
+    "text": "局 (đọc là \"kyoku\") có nghĩa là \"cục\", \"văn phòng\" hoặc \"phân bộ\", thường chỉ các cơ quan chức năng hoặc đơn vị hành chính trong tổ chức.\n\nVí dụ:\n- 局所 (kyokusho): Khu vực, địa điểm cụ thể.\n- "
+  },
+  "comments": [
+    {
+      "id": "153101",
+      "lang": "vi",
+      "content_html": "<p>CÂU CÚ đọc cho người chết phải có bố CỤC rõ ràng</p>",
+      "content_text": "CÂU CÚ đọc cho người chết phải có bố CỤC rõ ràng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153102",
+      "lang": "vi",
+      "content_html": "<p>Kết CỤC của tử THI là ko nói đc CÂU nào</p>",
+      "content_text": "Kết CỤC của tử THI là ko nói đc CÂU nào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153103",
+      "lang": "vi",
+      "content_html": "<p>Dươi cảnh cửa phải  bao mồm lại sợ nói bừa là nới cục nhà nước</p>",
+      "content_text": "Dươi cảnh cửa phải  bao mồm lại sợ nói bừa là nới cục nhà nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

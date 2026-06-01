@@ -1,0 +1,90 @@
+{
+  "kanji": "貨",
+  "meta": {
+    "weight": 2548,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "たから"
+    ],
+    "am_han": "HÓA"
+  },
+  "meaning": {
+    "vi": "hàng hóa",
+    "en": "freight, goods, property"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/貨.svg"
+  },
+  "frequency": 822,
+  "examples": [
+    "通貨",
+    "雑貨",
+    "貨幣",
+    "外貨",
+    "貨物"
+  ],
+  "explanation": {
+    "id": "701",
+    "text": "貨 (đọc là \"ka\") có nghĩa là \"hàng hóa\", \"tiền tệ\" để chỉ các vật phẩm được trao đổi trong thương mại hoặc kinh doanh.\n\nVí dụ:\n- 貨物 (kamotsu): Hàng hóa, hàng vận chuyển.\n- 貨幣 (kahei): Tiền tệ"
+  },
+  "comments": [
+    {
+      "id": "157058",
+      "lang": "vi",
+      "content_html": "<p>Tiền hoá thành hàng</p>",
+      "content_text": "Tiền hoá thành hàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157059",
+      "lang": "vi",
+      "content_html": "<p>con sò cũng là 1 loại hàng hóa đổi được tiền.</p>",
+      "content_text": "con sò cũng là 1 loại hàng hóa đổi được tiền.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157060",
+      "lang": "vi",
+      "content_html": "<p>HOÁ tiền vàng cho hàng hoá , tiền tệ ..đỡ ế ẩm</p>",
+      "content_text": "HOÁ tiền vàng cho hàng hoá , tiền tệ ..đỡ ế ẩm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

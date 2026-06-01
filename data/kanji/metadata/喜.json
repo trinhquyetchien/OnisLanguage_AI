@@ -1,0 +1,108 @@
+{
+  "kanji": "喜",
+  "meta": {
+    "weight": 506,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "よろこ.ぶ",
+      "よろこ.ばす"
+    ],
+    "am_han": "HỈ"
+  },
+  "meaning": {
+    "vi": "vui mừng, hoan hỉ",
+    "en": "rejoice, take pleasure in"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/喜.svg"
+  },
+  "frequency": 769,
+  "examples": [
+    "喜び",
+    "喜ぶ",
+    "喜劇",
+    "歓喜",
+    "喜ばしい"
+  ],
+  "explanation": {
+    "id": "1253",
+    "text": "喜 (đọc là \"ki\" hoặc \"yo\") có nghĩa là \"vui mừng\", \"hạnh phúc\", chỉ cảm xúc tích cực hoặc sự vui vẻ.  \nVí dụ:  \n- 喜ぶ (yorokobu): Vui mừng, hạnh phúc.  \n- 喜び (yorokobi): Niềm vui, hạnh phúc.  "
+  },
+  "comments": [
+    {
+      "id": "190943",
+      "lang": "vi",
+      "content_html": "<p><strong>hoan hỉ</strong></p>",
+      "content_text": "hoan hỉ",
+      "image_url": "https://jpdictionary.com/upload/images/648a74d6694d3.jpg",
+      "image_path": "assets/images/喜_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "152453",
+      "lang": "vi",
+      "content_html": "<p>Đưa một lúc 10 hạt đậu vào miệng thấy rất hoan HỈ, vui sướng</p>",
+      "content_text": "Đưa một lúc 10 hạt đậu vào miệng thấy rất hoan HỈ, vui sướng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152454",
+      "lang": "vi",
+      "content_html": "<p>Binh sĩ và đậu hũ vào miệng một cách hạnh phúc</p>",
+      "content_text": "Binh sĩ và đậu hũ vào miệng một cách hạnh phúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152455",
+      "lang": "vi",
+      "content_html": "<p>hình dung ở dưới là số 10 thì: đại cát đại hỉ khi đi thi đc 2 điểm 10</p>",
+      "content_text": "hình dung ở dưới là số 10 thì: đại cát đại hỉ khi đi thi đc 2 điểm 10",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "kanji": "郁",
+  "meta": {
+    "weight": 2700,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イク"
+    ],
+    "kun": [],
+    "am_han": "ÚC"
+  },
+  "meaning": {
+    "vi": "tiến bộ văn hóa, nước hoa",
+    "en": "cultural progress, perfume"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/郁.svg"
+  },
+  "frequency": 1920,
+  "examples": [
+    "郁子"
+  ],
+  "explanation": {
+    "id": "206",
+    "text": "郁 (đọc là \"iku\") có nghĩa là \"hương thơm\", thường chỉ sự tươi mát, phong phú và tinh khiết trong tự nhiên. \n\nVí dụ:\n- 郁い (ikui): Hương thơm, mùi dễ chịu.\n- 郁文 (ikubun): Văn học phong phú, đa"
+  },
+  "comments": [
+    {
+      "id": "157436",
+      "lang": "vi",
+      "content_html": "<p>sở hữu một cái đồi rất thơm. hữu 有</p>",
+      "content_text": "sở hữu một cái đồi rất thơm. hữu 有",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157438",
+      "lang": "vi",
+      "content_html": "<p>Sở hữu quả đồi hơi thơm ngào ngạt kiểu ÚC</p>",
+      "content_text": "Sở hữu quả đồi hơi thơm ngào ngạt kiểu ÚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157437",
+      "lang": "vi",
+      "content_html": "<p>nước úc không có chữ B</p>",
+      "content_text": "nước úc không có chữ B",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

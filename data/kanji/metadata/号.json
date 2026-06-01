@@ -1,0 +1,108 @@
+{
+  "kanji": "号",
+  "meta": {
+    "weight": 444,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴウ"
+    ],
+    "kun": [
+      "さけ.ぶ",
+      "よびな"
+    ],
+    "am_han": "HIỆU"
+  },
+  "meaning": {
+    "vi": "số hiệu, tín hiệu",
+    "en": "nickname, number, item, title, pseudonym, name, call"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/号.svg"
+  },
+  "frequency": 585,
+  "examples": [
+    "号",
+    "番号",
+    "信号",
+    "記号",
+    "暗号"
+  ],
+  "explanation": {
+    "id": "2604",
+    "text": "号 (đọc là \"gō\" hoặc \"kō\") có nghĩa là \"số\", \"danh hiệu\", \"tiếng gọi\" để chỉ các khái niệm liên quan đến số lượng, tên gọi hoặc tín hiệu.  \nVí dụ:  \n- 号令 (gōrei): Lệnh, chỉ thị.  \n- 号室 (gōshi"
+  },
+  "comments": [
+    {
+      "id": "37242",
+      "lang": "vi",
+      "content_html": "<p>Hãy nói to <strong>số hiệu </strong>của bạn!</p>",
+      "content_text": "Hãy nói to\nsố hiệu\ncủa bạn!",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd7d7cbf2b.jpg",
+      "image_path": "assets/images/号_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152301",
+      "lang": "vi",
+      "content_html": "<p>miệng hô khẩu hiệu 5 lần</p>",
+      "content_text": "miệng hô khẩu hiệu 5 lần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190672",
+      "lang": "vi",
+      "content_html": "<p>hô sô 5 để làm dấu Hiệu</p>",
+      "content_text": "hô sô 5 để làm dấu Hiệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "152302",
+      "lang": "vi",
+      "content_html": "<p>Hiệu số 05</p>",
+      "content_text": "Hiệu số 05",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

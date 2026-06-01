@@ -1,0 +1,50 @@
+{
+  "kanji": "俣",
+  "meta": {
+    "weight": 202,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "また"
+    ],
+    "am_han": "NGU, VŨ"
+  },
+  "meaning": {
+    "vi": "đáy quần, đùi, háng, ngã ba, (kokuji)",
+    "en": "crotch, thigh, groin, fork, junction, (kokuji)"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/俣.svg"
+  },
+  "frequency": 1585,
+  "examples": [
+    "水俣病"
+  ],
+  "explanation": {
+    "id": "7426",
+    "text": "俣 (đọc là \"mata\") có nghĩa là \"cái chẻ\" hoặc \"một nhánh của một dòng sông\". Chữ này thường được dùng trong các từ liên quan đến sự phân chia hoặc nhánh rẽ.\n\nVí dụ:\n- 俣川 (matagawa): Sông nhán"
+  },
+  "comments": [
+    {
+      "id": "151695",
+      "lang": "vi",
+      "content_html": "<p>俣: VŨ</p>",
+      "content_text": "俣: VŨ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

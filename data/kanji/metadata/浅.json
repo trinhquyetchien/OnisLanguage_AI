@@ -1,0 +1,107 @@
+{
+  "kanji": "浅",
+  "meta": {
+    "weight": 1537,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "あさ.い"
+    ],
+    "am_han": "THIỂN"
+  },
+  "meaning": {
+    "vi": "nông, thiển cận",
+    "en": "shallow, superficial, frivolous, wretched, shameful"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/浅.svg"
+  },
+  "frequency": 1253,
+  "examples": [
+    "浅い",
+    "浅はか",
+    "浅瀬",
+    "浅見",
+    "浅薄"
+  ],
+  "explanation": {
+    "id": "4509",
+    "text": "浅 (đọc là \"asen\") có nghĩa là \"nông\", \"cạn\", thường chỉ độ sâu hoặc mức độ hiểu biết không sâu sắc. \n\nVí dụ:\n- 浅い (asai): Nông, cạn.\n- 浅瀬 (asase): Vùng nước nông.\n- 浅薄 (senpaku): Nông cạn, h"
+  },
+  "comments": [
+    {
+      "id": "154892",
+      "lang": "vi",
+      "content_html": "<p>Nước mà suy TÀN cạn kiệt thì dòng sông sẽ bị nông.</p>",
+      "content_text": "Nước mà suy TÀN cạn kiệt thì dòng sông sẽ bị nông.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190751",
+      "lang": "vi",
+      "content_html": "<p>dòng nước 2 dòng chảy qua rất Nông</p>",
+      "content_text": "dòng nước 2 dòng chảy qua rất Nông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "154893",
+      "lang": "vi",
+      "content_html": "<p>bước QUA HAI vùng NƯỚC CẠN</p>",
+      "content_text": "bước QUA HAI vùng NƯỚC CẠN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154894",
+      "lang": "vi",
+      "content_html": "<p>chém xuống nước 3 cái là thiển cận</p>",
+      "content_text": "chém xuống nước 3 cái là thiển cận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "翻",
+  "meta": {
+    "weight": 2144,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホン",
+      "ハン"
+    ],
+    "kun": [
+      "ひるがえ.る",
+      "ひるがえ.す"
+    ],
+    "am_han": "PHIÊN"
+  },
+  "meaning": {
+    "vi": "lật, vẫy, rung, thay đổi (ý)",
+    "en": "flip, turn over, wave, flutter, change (mind)"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/翻.svg"
+  },
+  "frequency": 1465,
+  "examples": [
+    "翻訳",
+    "翻弄",
+    "翻案",
+    "翻って",
+    "翻し"
+  ],
+  "explanation": {
+    "id": "7362",
+    "text": "翻 (đọc là \"hon\" hoặc \"hán\") có nghĩa là \"phiên dịch\" hoặc \"lật lại\" để chỉ các hành động liên quan đến việc dịch thuật, chuyển ngữ hoặc quay ngược lại.\n\nVí dụ:\n- 翻訳 (honyaku): Dịch thuật.\n- "
+  },
+  "comments": [
+    {
+      "id": "156219",
+      "lang": "vi",
+      "content_html": "<p>phiên dịch tiếng chim sang tiếng người</p>",
+      "content_text": "phiên dịch tiếng chim sang tiếng người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156220",
+      "lang": "vi",
+      "content_html": "<p>PHIÊN dịch phải có vây cánh</p>",
+      "content_text": "PHIÊN dịch phải có vây cánh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156221",
+      "lang": "vi",
+      "content_html": "<p>Phiên dịch tiếng chim thông qua các con số</p>",
+      "content_text": "Phiên dịch tiếng chim thông qua các con số",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

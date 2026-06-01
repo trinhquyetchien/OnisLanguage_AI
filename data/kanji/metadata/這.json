@@ -1,0 +1,88 @@
+{
+  "kanji": "這",
+  "meta": {
+    "weight": 2657,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ",
+      "ゲン"
+    ],
+    "kun": [
+      "は.う",
+      "は.い",
+      "むか.える",
+      "この"
+    ],
+    "am_han": "GIÁ, NGHIỆN"
+  },
+  "meaning": {
+    "vi": "bò, leo, rãnh, đường mòn (dây leo)",
+    "en": "crawl, creep, grovel, trail (vines)"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/這.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6304",
+    "text": "這 (đọc là \"kore\" hoặc \"zhe\") có nghĩa là \"này\", được sử dụng để chỉ một sự vật, sự việc gần gũi với người nói hoặc để nhấn mạnh điều gì đó cụ thể. \n\nVí dụ:\n- 這個 (zhège): Cái này.\n- 這裡 (zhèlǐ"
+  },
+  "comments": [
+    {
+      "id": "220844",
+      "lang": "vi",
+      "content_html": "<p>Trước khi tập nới thì nên tập bò...</p>",
+      "content_text": "Trước khi tập nới thì nên tập bò...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220845",
+      "lang": "vi",
+      "content_html": "<p>Trẻ con thường hay vừa tập bò trên ĐƯỜNG vừa tập NÓI</p>",
+      "content_text": "Trẻ con thường hay vừa tập bò trên ĐƯỜNG vừa tập NÓI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220846",
+      "lang": "vi",
+      "content_html": "<p>Giá như Bò biết Nói</p>",
+      "content_text": "Giá như Bò biết Nói",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "悔",
+  "meta": {
+    "weight": 974,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "く.いる",
+      "く.やむ",
+      "くや.しい"
+    ],
+    "am_han": "HỐI, HỔI"
+  },
+  "meaning": {
+    "vi": "ăn năn, hối hận",
+    "en": "repent, regret"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/悔.svg"
+  },
+  "frequency": 1460,
+  "examples": [
+    "後悔",
+    "悔しい",
+    "悔い",
+    "懺悔",
+    "悔い改め"
+  ],
+  "explanation": {
+    "id": "20309",
+    "text": "悔 (đọc là \"saku\") có nghĩa là \"tổ chức\" hoặc \"hội, đoàn\" để chỉ các nhóm hoặc tổ chức có tính chất tập hợp.  \nVí dụ:  \n- 組織 (soshiki): Tổ chức, cấu trúc.  \n- 団体 (dantai): Đoàn thể, hội nhóm."
+  },
+  "comments": [
+    {
+      "id": "153593",
+      "lang": "vi",
+      "content_html": "<p>Mỗi ngày trôi qua con tim lại dựng lên vì hối tiếc ( cảm ơn b đã động viên. Mình cũng chỉ làm vậy để tạo liên tưởng, và khi gặp lại mình sẽ nghĩ trước nó là gì nếu ko nhớ hãy tra lại thì sau vài lần sẽ nhớ luôn. Mình nhớ trước khoảng 800 chữ cơ bản rồi nê</p>",
+      "content_text": "Mỗi ngày trôi qua con tim lại dựng lên vì hối tiếc ( cảm ơn b đã động viên. Mình cũng chỉ làm vậy để tạo liên tưởng, và khi gặp lại mình sẽ nghĩ trước nó là gì nếu ko nhớ hãy tra lại thì sau vài lần sẽ nhớ luôn. Mình nhớ trước khoảng 800 chữ cơ bản rồi nê",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153594",
+      "lang": "vi",
+      "content_html": "<p>Đọc nhiều cách nhớ Kanji của bạn 厚顔 thấy sáng tạo và dễ nhớ ghê. Like mạnh! Cám ơn bạn.</p>",
+      "content_text": "Đọc nhiều cách nhớ Kanji của bạn 厚顔 thấy sáng tạo và dễ nhớ ghê. Like mạnh! Cám ơn bạn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153595",
+      "lang": "vi",
+      "content_html": "<p>con Tim Mỗi ngày đều cảm thấy Hối tiếc</p>",
+      "content_text": "con Tim Mỗi ngày đều cảm thấy Hối tiếc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

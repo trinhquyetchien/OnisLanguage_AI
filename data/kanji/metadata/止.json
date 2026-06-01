@@ -1,0 +1,103 @@
+{
+  "kanji": "止",
+  "meta": {
+    "weight": 1450,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "と.まる",
+      "-ど.まり",
+      "と.める",
+      "-と.める",
+      "-ど.め",
+      "とど.める",
+      "とど.め",
+      "とど.まる",
+      "や.める",
+      "や.む",
+      "-や.む",
+      "よ.す",
+      "-さ.す",
+      "-さ.し"
+    ],
+    "am_han": "CHỈ"
+  },
+  "meaning": {
+    "vi": "dừng lại, đình chỉ",
+    "en": "stop, halt"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/止.svg"
+  },
+  "frequency": 310,
+  "examples": [
+    "禁止",
+    "止め",
+    "防止",
+    "停止",
+    "廃止"
+  ],
+  "explanation": {
+    "id": "3104",
+    "text": "止 (đọc là \"shi\" hoặc \"tomaru\") có nghĩa là \"dừng lại\", \"ngưng\" để chỉ các hành động liên quan đến việc ngừng hoặc dừng lại.  \nVí dụ:  \n- 止まる (tomaru): Dừng lại, đứng yên.  \n- 止める (tomeru): N"
+  },
+  "comments": [
+    {
+      "id": "191077",
+      "lang": "vi",
+      "content_html": "<p><strong>dừng</strong></p>",
+      "content_text": "dừng",
+      "image_url": "https://jpdictionary.com/upload/images/648a954452fe1.jpg",
+      "image_path": "assets/images/止_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36827",
+      "lang": "vi",
+      "content_html": "<p>Gặp đèn đỏ thì <strong>dừng </strong>lại.</p>",
+      "content_text": "Gặp đèn đỏ thì\ndừng\nlại.",
+      "image_url": "https://jpdictionary.com/upload/images/62ac7b1844023.jpg",
+      "image_path": "assets/images/止_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158477",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>止まる (とまる): dừng lại (tự động từ)<br>止める (とめる): dừng lại (tha động từ)<br>止める (やめる): dừng lại (tha động từ)<br>立入禁止 (たちいりきんし): cấm vào<br>中止 (ちゅうし): tạm dừng, huỷ</p>",
+      "content_text": "JLPT N4\n止まる (とまる): dừng lại (tự động từ)\n止める (とめる): dừng lại (tha động từ)\n止める (やめる): dừng lại (tha động từ)\n立入禁止 (たちいりきんし): cấm vào\n中止 (ちゅうし): tạm dừng, huỷ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "kanji": "酵",
+  "meta": {
+    "weight": 2720,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [],
+    "am_han": "DIẾU"
+  },
+  "meaning": {
+    "vi": "lên men",
+    "en": "fermentation"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/酵.svg"
+  },
+  "frequency": 1862,
+  "examples": [
+    "酵素",
+    "発酵",
+    "酵母",
+    "醗酵"
+  ],
+  "explanation": {
+    "id": "2568",
+    "text": "酵 (đọc là \"kō\") có nghĩa là \"ferment\" (lên men), chỉ các quá trình liên quan đến sự lên men trong thực phẩm hoặc đồ uống.  \nVí dụ:  \n- 酵母 (kōbo): Men (men dùng để lên men).  \n- 発酵 (hakkō): S"
+  },
+  "comments": [
+    {
+      "id": "157488",
+      "lang": "vi",
+      "content_html": "<p>Ủ rượu lên men thể hiện sự hiếu thảo</p>",
+      "content_text": "Ủ rượu lên men thể hiện sự hiếu thảo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157489",
+      "lang": "vi",
+      "content_html": "<p>đặt đứa trẻ ngồi xuống đất để uống rượu</p>",
+      "content_text": "đặt đứa trẻ ngồi xuống đất để uống rượu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157490",
+      "lang": "vi",
+      "content_html": "<p>Diếu cho con gà mà thể hiện sự có hiếu</p>",
+      "content_text": "Diếu cho con gà mà thể hiện sự có hiếu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

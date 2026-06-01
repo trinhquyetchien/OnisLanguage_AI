@@ -1,0 +1,90 @@
+{
+  "kanji": "類",
+  "meta": {
+    "weight": 2921,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ルイ"
+    ],
+    "kun": [
+      "たぐ.い"
+    ],
+    "am_han": "LOẠI"
+  },
+  "meaning": {
+    "vi": "chủng loại",
+    "en": "sort, kind, variety, class, genus"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/類.svg"
+  },
+  "frequency": 678,
+  "examples": [
+    "種類",
+    "類",
+    "分類",
+    "人類",
+    "書類"
+  ],
+  "explanation": {
+    "id": "8200",
+    "text": "類 (đọc là \"rui\") có nghĩa là \"loại\", \"nhóm\", dùng để chỉ các loại hay nhóm tương đồng với nhau.\n\nVí dụ:\n- 類似 (ruiji): Tương tự, giống nhau.\n- 種類 (shurui): Loại, hạng mục.\n- 類型 (ruikei): Hình"
+  },
+  "comments": [
+    {
+      "id": "157916",
+      "lang": "vi",
+      "content_html": "<p>ĐẦU hạt GẠO mà TO là LOẠI gạo tốt</p>",
+      "content_text": "ĐẦU hạt GẠO mà TO là LOẠI gạo tốt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157917",
+      "lang": "vi",
+      "content_html": "<p>Phân biệt Loại gạo dựa trên độ lớn của đầu bông</p>",
+      "content_text": "Phân biệt Loại gạo dựa trên độ lớn của đầu bông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157918",
+      "lang": "vi",
+      "content_html": "<p>Loại gạo hàng đầu nhiều đại gia ăn</p>",
+      "content_text": "Loại gạo hàng đầu nhiều đại gia ăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

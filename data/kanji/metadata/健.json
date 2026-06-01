@@ -1,0 +1,90 @@
+{
+  "kanji": "健",
+  "meta": {
+    "weight": 225,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "すこ.やか"
+    ],
+    "am_han": "KIỆN"
+  },
+  "meaning": {
+    "vi": "khỏe mạnh, sức khỏe, sức mạnh, bền bỉ",
+    "en": "healthy, health, strength, persistence"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/健.svg"
+  },
+  "frequency": 572,
+  "examples": [
+    "健康",
+    "保健",
+    "健全",
+    "保健所",
+    "健在"
+  ],
+  "explanation": {
+    "id": "2101",
+    "text": "健 (đọc là \"ken\") có nghĩa là \"khỏe mạnh\", \"sức khỏe\" để chỉ trạng thái sức khỏe tốt hoặc sự khỏe khoắn của cơ thể.\nVí dụ:\n- 健康 (kenkō): Sức khỏe, tình trạng khỏe mạnh.\n- 健身 (kenshin): Tập th"
+  },
+  "comments": [
+    {
+      "id": "151752",
+      "lang": "vi",
+      "content_html": "<p>Người muốn kiến thiết phải có sức khoẻ</p>",
+      "content_text": "Người muốn kiến thiết phải có sức khoẻ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151753",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI làm nghề KIẾN trúc phải có thân hình tráng KIỆN, khoe mạnh</p>",
+      "content_text": "NGƯỜI làm nghề KIẾN trúc phải có thân hình tráng KIỆN, khoe mạnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151754",
+      "lang": "vi",
+      "content_html": "<p>người đi xây dựng thì fai có sức khoẻ</p>",
+      "content_text": "người đi xây dựng thì fai có sức khoẻ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

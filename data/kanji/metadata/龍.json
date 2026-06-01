@@ -1,0 +1,91 @@
+{
+  "kanji": "龍",
+  "meta": {
+    "weight": 3035,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リュウ",
+      "リョウ",
+      "ロウ"
+    ],
+    "kun": [
+      "たつ"
+    ],
+    "am_han": "LONG, SỦNG"
+  },
+  "meaning": {
+    "vi": "rồng, hoàng gia",
+    "en": "dragon, imperial"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/龍.svg"
+  },
+  "frequency": 1734,
+  "examples": [
+    "龍",
+    "青龍",
+    "烏龍茶",
+    "龍神"
+  ],
+  "explanation": {
+    "id": "8074",
+    "text": "龍 (đọc là \"ryū\") có nghĩa là \"rồng\", thường biểu thị sức mạnh, quyền lực và sự bảo vệ trong văn hóa Nhật Bản. \n\nVí dụ:\n- 龍神 (ryūjin): Thần rồng.\n- 龍巻 (tatsumaki): Lốc xoáy, bão.\n- 龍虎 (ryūkō)"
+  },
+  "comments": [
+    {
+      "id": "158123",
+      "lang": "vi",
+      "content_html": "<p>Đứng trên Trăng dùng 5 cái lược chải Long thấy con Rồng</p>",
+      "content_text": "Đứng trên Trăng dùng 5 cái lược chải Long thấy con Rồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158124",
+      "lang": "vi",
+      "content_html": "<p>5 con rồng đang đứng ở trên cung trăng để tỉa lông</p>",
+      "content_text": "5 con rồng đang đứng ở trên cung trăng để tỉa lông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158125",
+      "lang": "vi",
+      "content_html": "<p>đứng trên mtrang mới nhìn thấy rồng uốn lượn</p>",
+      "content_text": "đứng trên mtrang mới nhìn thấy rồng uốn lượn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

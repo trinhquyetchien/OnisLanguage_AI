@@ -1,0 +1,91 @@
+{
+  "kanji": "占",
+  "meta": {
+    "weight": 397,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "し.める",
+      "うらな.う"
+    ],
+    "am_han": "CHIÊM, CHIẾM"
+  },
+  "meaning": {
+    "vi": "bói, chiếm cứ",
+    "en": "fortune-telling, divining, forecasting, occupy, hold, have, get, take"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/占.svg"
+  },
+  "frequency": 694,
+  "examples": [
+    "占い",
+    "占める",
+    "独占",
+    "占領",
+    "占有"
+  ],
+  "explanation": {
+    "id": "4478",
+    "text": "占 (đọc là \"sen\" hoặc \"shaku\") có nghĩa là \"chiếm\", \"dự đoán\", hoặc \"bói toán\" để chỉ các hành động liên quan đến việc chiếm dụng không gian hoặc dự đoán tương lai thông qua bói toán.\n\nVí dụ:"
+  },
+  "comments": [
+    {
+      "id": "152189",
+      "lang": "vi",
+      "content_html": "<p>Cây non mọc lên CHIẾM khoảng đất của cái chậu</p>",
+      "content_text": "Cây non mọc lên CHIẾM khoảng đất của cái chậu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152190",
+      "lang": "vi",
+      "content_html": "<p>Đồ cổ 古 bị chiếm một nửa</p>",
+      "content_text": "Đồ cổ 古 bị chiếm một nửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152191",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: ở Trên (上) cái Mồm (口) ==&#62; là cái Mũi. <br>Cái Mũi được người xưa dùng để Xem Bói (占) tướng mệnh.<br>..性..</p>",
+      "content_text": "Góc Nhìn: ở Trên (上) cái Mồm (口) ==> là cái Mũi.\nCái Mũi được người xưa dùng để Xem Bói (占) tướng mệnh.\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "階",
+  "meta": {
+    "weight": 2841,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "きざはし"
+    ],
+    "am_han": "GIAI"
+  },
+  "meaning": {
+    "vi": "tầng, giai cấp",
+    "en": "storey, stair, counter for storeys of a building"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/階.svg"
+  },
+  "frequency": 513,
+  "examples": [
+    "段階",
+    "階",
+    "階級",
+    "階段",
+    "階層"
+  ],
+  "explanation": {
+    "id": "816",
+    "text": "階 (đọc là \"kai\" hoặc \"gedan\") có nghĩa là \"bậc\", \"tầng\", dùng để chỉ các bậc thang, tầng trong nhà hay mức độ.  \nVí dụ:  \n- 階段 (kaidan): Cầu thang.  \n- 一階 (ikkai): Tầng một.  \n- 高階 (koukai):"
+  },
+  "comments": [
+    {
+      "id": "37238",
+      "lang": "vi",
+      "content_html": "<p>Mọi người (皆) đang ở trên xe buýt 2 <strong>tầng</strong>.</p>",
+      "content_text": "Mọi người (皆) đang ở trên xe buýt 2\ntầng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd78547b20.jpg",
+      "image_path": "assets/images/階_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191223",
+      "lang": "vi",
+      "content_html": "<p><strong>bậc</strong></p>",
+      "content_text": "bậc",
+      "image_url": "https://jpdictionary.com/upload/images/648addfb04dc3.jpg",
+      "image_path": "assets/images/階_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "157730",
+      "lang": "vi",
+      "content_html": "<p>Em bồ (阝) mặc váy TRẮNG (白) ngồi trên TẦNG nhìn xuống thấy GIAI (階) đẹp nên cười hihi (ヒヒ)</p>",
+      "content_text": "Em bồ (阝) mặc váy TRẮNG (白) ngồi trên TẦNG nhìn xuống thấy GIAI (階) đẹp nên cười hihi (ヒヒ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "幕",
+  "meta": {
+    "weight": 845,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マク",
+      "バク"
+    ],
+    "kun": [
+      "とばり"
+    ],
+    "am_han": "MẠC, MỘ, MÁN"
+  },
+  "meaning": {
+    "vi": "màn, bunting, hành động chơi",
+    "en": "curtain, bunting, act of play"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/幕.svg"
+  },
+  "frequency": 835,
+  "examples": [
+    "幕",
+    "開幕",
+    "字幕",
+    "幕府",
+    "幕末"
+  ],
+  "explanation": {
+    "id": "7404",
+    "text": "幕 (đọc là \"maku\") có nghĩa là \"màn\", \"bức màn\" để chỉ các vật che phủ hoặc phân chia không gian. \n\nVí dụ:\n- 幕府 (bakufu): Chính quyền quân sự, triều đình phong kiến Nhật Bản.\n- 幕間 (makuama): "
+  },
+  "comments": [
+    {
+      "id": "153278",
+      "lang": "vi",
+      "content_html": "<p>Khai mạc lễ hội Hoa mặt trời trong thành phố</p>",
+      "content_text": "Khai mạc lễ hội Hoa mặt trời trong thành phố",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153279",
+      "lang": "vi",
+      "content_html": "<p>Khai Mạc lễ hội Hoa hướng Dương ở thành phố lớn</p>",
+      "content_text": "Khai Mạc lễ hội Hoa hướng Dương ở thành phố lớn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153280",
+      "lang": "vi",
+      "content_html": "<p>Thảm hoa mặt trời to như tấm vải màn khai MẠC</p>",
+      "content_text": "Thảm hoa mặt trời to như tấm vải màn khai MẠC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

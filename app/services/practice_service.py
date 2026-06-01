@@ -56,6 +56,8 @@ class PracticeService:
                         question_id=str(q.question_id),
                         kind=q.kind,
                         prompt=q.prompt,
+                        image_url=q.image_url,
+                        audio_url=q.audio_url,
                         options=q.options,
                         position=q.position
                     ) for q in questions

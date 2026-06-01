@@ -1,0 +1,90 @@
+{
+  "kanji": "濃",
+  "meta": {
+    "weight": 1629,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ノウ"
+    ],
+    "kun": [
+      "こ.い"
+    ],
+    "am_han": "NỒNG"
+  },
+  "meaning": {
+    "vi": "đặc, nồng độ",
+    "en": "concentrated, thick, dark, undiluted"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/濃.svg"
+  },
+  "frequency": 1200,
+  "examples": [
+    "濃い",
+    "濃度",
+    "濃厚",
+    "濃",
+    "濃縮"
+  ],
+  "explanation": {
+    "id": "6194",
+    "text": "濃 (đọc là \"nō\") có nghĩa là \"đậm\", \"nồng\" để chỉ độ mạnh hay dày của màu sắc, mùi vị hoặc cảm giác.  \nVí dụ:  \n- 濃い (koi): Đậm, mạnh (về vị hoặc màu).  \n- 濃厚 (nōkō): Đậm đặc, nồng nàn (thườn"
+  },
+  "comments": [
+    {
+      "id": "155116",
+      "lang": "vi",
+      "content_html": "<p>Người NÙNG chuyên làm nông nên Nồng Nặc mùi bùn.</p>",
+      "content_text": "Người NÙNG chuyên làm nông nên Nồng Nặc mùi bùn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155117",
+      "lang": "vi",
+      "content_html": "<p>Ca KHÚC THUỶ THẦN thật sâu NỒNG</p>",
+      "content_text": "Ca KHÚC THUỶ THẦN thật sâu NỒNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155118",
+      "lang": "vi",
+      "content_html": "<p>Từ này nghĩa Hán là NỒNG chứ nhỉ</p>",
+      "content_text": "Từ này nghĩa Hán là NỒNG chứ nhỉ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

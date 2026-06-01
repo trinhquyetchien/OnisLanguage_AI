@@ -1,0 +1,93 @@
+{
+  "kanji": "親",
+  "meta": {
+    "weight": 2447,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "おや",
+      "おや-",
+      "した.しい",
+      "した.しむ"
+    ],
+    "am_han": "THÂN"
+  },
+  "meaning": {
+    "vi": "cha mẹ, thân thích",
+    "en": "parent, intimacy, relative, familiarity, dealer (cards)"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/親.svg"
+  },
+  "frequency": 406,
+  "examples": [
+    "親",
+    "母親",
+    "父親",
+    "両親",
+    "親子"
+  ],
+  "explanation": {
+    "id": "4122",
+    "text": "親 (đọc là \"shin\" hoặc \"oya\") có nghĩa là \"cha mẹ\", \"người thân\" để chỉ mối quan hệ gia đình và tình cảm gắn bó giữa các thành viên trong gia đình.  \nVí dụ:  \n- 親子 (oyako): Cha con, mối quan "
+  },
+  "comments": [
+    {
+      "id": "935",
+      "lang": "vi",
+      "content_html": "<p><strong>Ba mẹ </strong>đứng (立) trên ngọn cây (木) trông chừng (見) con.</p>",
+      "content_text": "Ba mẹ\nđứng (立) trên ngọn cây (木) trông chừng (見) con.",
+      "image_url": "https://jpdictionary.com/upload/images/6298c79a1c72b.jpg",
+      "image_path": "assets/images/親_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156810",
+      "lang": "vi",
+      "content_html": "<p>đứng(lập) trên cây (mộc) nhìn xem người thân của mình ở đâu</p>",
+      "content_text": "đứng(lập) trên cây (mộc) nhìn xem người thân của mình ở đâu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191181",
+      "lang": "vi",
+      "content_html": "<p>phụ <strong>thân</strong>, mẫu <strong>thân</strong></p>",
+      "content_text": "phụ\nthân\n, mẫu\nthân",
+      "image_url": "https://jpdictionary.com/upload/images/648ad70773c95.jpg",
+      "image_path": "assets/images/親_3.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

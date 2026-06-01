@@ -1,0 +1,52 @@
+{
+  "kanji": "熔",
+  "meta": {
+    "weight": 1670,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "と.ける",
+      "と.かす",
+      "いがた"
+    ],
+    "am_han": "DONG"
+  },
+  "meaning": {
+    "vi": "cầu chì, tan chảy",
+    "en": "fuse, melt"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/熔.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7878",
+    "text": "熔 (đọc là \"yō\") có nghĩa là \"nấu chảy\", chỉ các hành động liên quan đến việc làm nóng, nấu chảy kim loại hoặc vật liệu.  \nVí dụ:  \n- 熔鉱炉 (yōkōro): Lò nấu chảy kim loại.  \n- 熔接 (yōsetsu): Hàn"
+  },
+  "comments": [
+    {
+      "id": "220031",
+      "lang": "vi",
+      "content_html": "<p>một mồi Lửa có thể làm tiêu Tan cả một mái nhà</p>",
+      "content_text": "một mồi Lửa có thể làm tiêu Tan cả một mái nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "kanji": "桔",
+  "meta": {
+    "weight": 1354,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キツ",
+      "ケツ"
+    ],
+    "kun": [],
+    "am_han": "KẾT"
+  },
+  "meaning": {
+    "vi": "được sử dụng trong tên thực vật",
+    "en": "used in plant names"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/桔.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1466",
+    "text": "桔 (đọc là \"kitsu\" hoặc \"ki\") có nghĩa là \"quýt\", chỉ loại trái cây có múi. \n\nVí dụ:\n- 桔梗 (kikyo): Hoa kim châm.\n- 桔 (kitsu): Quýt, trái quýt. \n- 橘 (tachibana): Cây quýt, cũng được dùng để ch"
+  },
+  "comments": [
+    {
+      "id": "219809",
+      "lang": "vi",
+      "content_html": "<p>sợi chỉ kết hôn cát</p>",
+      "content_text": "sợi chỉ kết hôn cát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

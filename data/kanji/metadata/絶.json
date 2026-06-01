@@ -1,0 +1,109 @@
+{
+  "kanji": "絶",
+  "meta": {
+    "weight": 2080,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゼツ"
+    ],
+    "kun": [
+      "た.える",
+      "た.やす",
+      "た.つ"
+    ],
+    "am_han": "TUYỆT"
+  },
+  "meaning": {
+    "vi": "cắt đứt, đoạn tuyệt",
+    "en": "discontinue, sever, cut off, abstain, interrupt, suppress, be beyond, without match, peerless, unparalleled"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/絶.svg"
+  },
+  "frequency": 784,
+  "examples": [
+    "絶対",
+    "絶望",
+    "絶対に",
+    "拒絶",
+    "絶滅"
+  ],
+  "explanation": {
+    "id": "4460",
+    "text": "絶 (đọc là \"zetsu\") có nghĩa là \"cắt đứt\", \"ngừng lại\" để chỉ các hành động liên quan đến việc chấm dứt hay tách biệt.\n\nVí dụ:\n- 絶対 (zettai): Tuyệt đối, không thay đổi.\n- 絶望 (zetsubou): Tuyệt"
+  },
+  "comments": [
+    {
+      "id": "37258",
+      "lang": "vi",
+      "content_html": "<p>Chỉ (糸) màu (色) này đã <strong>không </strong>được sản xuất <strong>nữa</strong>.</p>",
+      "content_text": "Chỉ (糸) màu (色) này đã\nkhông\nđược sản xuất\nnữa\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdad9243ca.jpg",
+      "image_path": "assets/images/絶_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156059",
+      "lang": "vi",
+      "content_html": "<p>Màu sắc 色 của sợi 糸 này tuyệt đối 絶対 không thay đổi!</p>",
+      "content_text": "Màu sắc 色 của sợi 糸 này tuyệt đối 絶対 không thay đổi!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156060",
+      "lang": "vi",
+      "content_html": "<p>Sợi dây màu sắc bị chia cắt</p>",
+      "content_text": "Sợi dây màu sắc bị chia cắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156061",
+      "lang": "vi",
+      "content_html": "<p>Sợi dây màu sắc tuyệt đẹp</p>",
+      "content_text": "Sợi dây màu sắc tuyệt đẹp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

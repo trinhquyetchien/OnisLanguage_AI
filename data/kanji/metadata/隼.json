@@ -1,0 +1,122 @@
+{
+  "kanji": "隼",
+  "meta": {
+    "weight": 2851,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュン",
+      "ジュン"
+    ],
+    "kun": [
+      "はやぶさ"
+    ],
+    "am_han": "CHUẨN"
+  },
+  "meaning": {
+    "vi": "chim ưng",
+    "en": "falcon"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/隼.svg"
+  },
+  "frequency": 2224,
+  "examples": [
+    "隼",
+    "隼人"
+  ],
+  "explanation": {
+    "id": "6432",
+    "text": "隼 (đọc là \"hayabusa\") có nghĩa là \"chim ưng\", chỉ những loài chim săn mồi nhanh nhẹn. \n\nVí dụ:\n- 隼人 (hayabusa): Người đi săn, người đua xe ô tô.\n- 隼鷹 (hayataka): Chim ưng.\n- 隼のように速い (hayabus"
+  },
+  "comments": [
+    {
+      "id": "157757",
+      "lang": "vi",
+      "content_html": "<p>Chim 10 điểm chuẩn là chim ưng</p>",
+      "content_text": "Chim 10 điểm chuẩn là chim ưng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157758",
+      "lang": "vi",
+      "content_html": "<p>Chuẩn xác Mười lần bay đến là Chim ưng.</p>",
+      "content_text": "Chuẩn xác Mười lần bay đến là Chim ưng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157759",
+      "lang": "vi",
+      "content_html": "<p>con chim 10 lần gian chuân là chim ưng</p>",
+      "content_text": "con chim 10 lần gian chuân là chim ưng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222020",
+      "lang": "vi",
+      "content_html": "<p><strong>はや (haya)</strong></p><p>Là từ cổ, nghĩa là “nhanh”, giống “はやい (hayai)” ngày nay</p><p><strong>ぶさ (busa)</strong></p><p>Có thể bắt nguồn từ từ <strong>“ふさ (房)”</strong>, nghĩa là <strong>cụm/túm</strong> (như lông, râu<br><br>Có thể là một <strong>nhúm lông</strong> bay <strong>nhanh </strong>chăng :))</p>",
+      "content_text": "はや (haya)\nLà từ cổ, nghĩa là “nhanh”, giống “はやい (hayai)” ngày nay\nぶさ (busa)\nCó thể bắt nguồn từ từ\n“ふさ (房)”\n, nghĩa là\ncụm/túm\n(như lông, râu\nCó thể là một\nnhúm lông\nbay\nnhanh\nchăng :))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    },
+    {
+      "id": "222021",
+      "lang": "vi",
+      "content_html": "<p>Phần bên trên<br><strong>“隹” (chuỳ)</strong> — nghĩa là <strong>chim đuôi ngắn</strong></p><p>Phần bên dưới<br>Có thể là <strong>“十”</strong> hoặc<strong> “小”</strong>, có thể là biểu thị sự chính xác (Thập - hoàn mỹ) hoặc biểu thị sự nhỏ gọn (Tiểu)<br><br>Nhỏ nhưng tốc độ cao, mắt tinh chính là <strong>Chim ưng</strong></p>",
+      "content_text": "Phần bên trên\n“隹” (chuỳ)\n— nghĩa là\nchim đuôi ngắn\nPhần bên dưới\nCó thể là\n“十”\nhoặc\n“小”\n, có thể là biểu thị sự chính xác (Thập - hoàn mỹ) hoặc biểu thị sự nhỏ gọn (Tiểu)\nNhỏ nhưng tốc độ cao, mắt tinh chính là\nChim ưng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

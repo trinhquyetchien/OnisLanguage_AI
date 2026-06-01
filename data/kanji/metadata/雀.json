@@ -1,0 +1,58 @@
+{
+  "kanji": "雀",
+  "meta": {
+    "weight": 2852,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジャク",
+      "ジャン",
+      "サク",
+      "シャク"
+    ],
+    "kun": [
+      "すずめ"
+    ],
+    "am_han": "TƯỚC"
+  },
+  "meaning": {
+    "vi": "chim sẻ",
+    "en": "sparrow"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/雀.svg"
+  },
+  "frequency": 1856,
+  "examples": [
+    "麻雀",
+    "雀",
+    "孔雀",
+    "朱雀"
+  ],
+  "explanation": {
+    "id": "4269",
+    "text": "雀 (đọc là \"jakunai\" hoặc \"suzume\") có nghĩa là \"chim sẻ\", thường chỉ về một loại chim nhỏ. \n\nVí dụ:\n- 雀 (すずめ, suzume): Chim sẻ.\n- 雀の涙 (すずめのなみだ, suzume no namida): Giọt nước mắt nhỏ bé, chỉ đ"
+  },
+  "comments": [
+    {
+      "id": "157760",
+      "lang": "vi",
+      "content_html": "<p>Thiếu 少 chim 隹 là do bị sẻ 雀 bầy</p>",
+      "content_text": "Thiếu 少 chim 隹 là do bị sẻ 雀 bầy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

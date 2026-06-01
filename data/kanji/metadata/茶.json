@@ -1,0 +1,106 @@
+{
+  "kanji": "茶",
+  "meta": {
+    "weight": 2278,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チャ",
+      "サ"
+    ],
+    "kun": [],
+    "am_han": "TRÀ"
+  },
+  "meaning": {
+    "vi": "trà",
+    "en": "tea"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/茶.svg"
+  },
+  "frequency": 1116,
+  "examples": [
+    "お茶",
+    "茶",
+    "紅茶",
+    "喫茶店",
+    "喫茶"
+  ],
+  "explanation": {
+    "id": "5259",
+    "text": "茶 (đọc là \"cha\") có nghĩa là \"trà\", chỉ loại thức uống được chế biến từ lá cây trà.  \nVí dụ:  \n- お茶 (ocha): Trà, thức uống trà.\n- 茶道 (sadō): Đạo trà, nghệ thuật pha trà.\n- 緑茶 (ryokucha): Trà"
+  },
+  "comments": [
+    {
+      "id": "879",
+      "lang": "vi",
+      "content_html": "<p>Hai người đang uống <strong>trà</strong>.</p>",
+      "content_text": "Hai người đang uống\ntrà\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62989edebe1a7.jpg",
+      "image_path": "assets/images/茶_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156516",
+      "lang": "vi",
+      "content_html": "<p>Ngồi dưới mái nhà uống trà cười hô hô (ホ)</p>",
+      "content_text": "Ngồi dưới mái nhà uống trà cười hô hô (ホ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158600",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>お茶 (おちゃ): trà</p><p>喫茶店 (きっさてん): quán cà phê</p><p>紅茶 (こうちゃ): hồng trà</p><p>茶色 (ちゃいろ): màu nâu</p><p>茶道 (さどう): trà đạo</p>",
+      "content_text": "JLPT N4\nお茶 (おちゃ): trà\n喫茶店 (きっさてん): quán cà phê\n紅茶 (こうちゃ): hồng trà\n茶色 (ちゃいろ): màu nâu\n茶道 (さどう): trà đạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "158912",
+      "lang": "vi",
+      "content_html": "<p>茶碗(ちゃわん): bát cơm</p>",
+      "content_text": "茶碗(ちゃわん): bát cơm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

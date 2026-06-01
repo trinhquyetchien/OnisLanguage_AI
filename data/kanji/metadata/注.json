@@ -1,0 +1,92 @@
+{
+  "kanji": "注",
+  "meta": {
+    "weight": 1522,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "そそ.ぐ",
+      "さ.す",
+      "つ.ぐ"
+    ],
+    "am_han": "CHÚ"
+  },
+  "meaning": {
+    "vi": "đổ, rót, chú ý",
+    "en": "pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/注.svg"
+  },
+  "frequency": 497,
+  "examples": [
+    "注意",
+    "注目",
+    "注文",
+    "注",
+    "発注"
+  ],
+  "explanation": {
+    "id": "5289",
+    "text": "注 (đọc là \"chu\") có nghĩa là \"chú ý\", \"nhấn mạnh\" hoặc \"xem xét, ghi chú\". Nó thường được sử dụng để chỉ các hành động liên quan đến việc chú thích hoặc ghi chép.\n\nVí dụ:\n- 注文 (chūmon): Đơn "
+  },
+  "comments": [
+    {
+      "id": "191089",
+      "lang": "vi",
+      "content_html": "<p><strong>đổ, rót</strong></p>",
+      "content_text": "đổ, rót",
+      "image_url": "https://jpdictionary.com/upload/images/648abeb49995c.jpg",
+      "image_path": "assets/images/注_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36922",
+      "lang": "vi",
+      "content_html": "<p>\"Cẩn thận đừng làm <strong>đổ </strong>nước vào ông chủ (主)!\"</p>",
+      "content_text": "\"Cẩn thận đừng làm\nđổ\nnước vào ông chủ (主)!\"",
+      "image_url": "https://jpdictionary.com/upload/images/62bc41c055fb0.jpg",
+      "image_path": "assets/images/注_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154850",
+      "lang": "vi",
+      "content_html": "<p>Rót nước cho ông chủ phải chú ý cẩn thận</p>",
+      "content_text": "Rót nước cho ông chủ phải chú ý cẩn thận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

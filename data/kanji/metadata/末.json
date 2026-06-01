@@ -1,0 +1,93 @@
+{
+  "kanji": "末",
+  "meta": {
+    "weight": 1279,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マツ",
+      "バツ"
+    ],
+    "kun": [
+      "すえ",
+      "うら",
+      "うれ"
+    ],
+    "am_han": "MẠT"
+  },
+  "meaning": {
+    "vi": "kết thúc",
+    "en": "end, close, tip, powder, posterity"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/末.svg"
+  },
+  "frequency": 456,
+  "examples": [
+    "末",
+    "週末",
+    "端末",
+    "年末",
+    "始末"
+  ],
+  "explanation": {
+    "id": "7435",
+    "text": "末 (đọc là \"matsu\") có nghĩa là \"cuối\", \"hết\" để chỉ phần cuối cùng hoặc điểm kết thúc của một cái gì đó.\n\nVí dụ:\n- 末尾 (matsubi): Cuối, đuôi.\n- 年末 (nenmatsu): Cuối năm.\n- 末期 (makki): Giai đoạ"
+  },
+  "comments": [
+    {
+      "id": "191063",
+      "lang": "vi",
+      "content_html": "<p><strong>kết thúc</strong></p>",
+      "content_text": "kết thúc",
+      "image_url": "https://jpdictionary.com/upload/images/648a936907863.jpg",
+      "image_path": "assets/images/末_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "37117",
+      "lang": "vi",
+      "content_html": "<p>Vòng đời cái cây (木) sắp sửa<strong> kết thúc</strong>.</p>",
+      "content_text": "Vòng đời cái cây (木) sắp sửa\nkết thúc\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb46b74709.jpg",
+      "image_path": "assets/images/末_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154355",
+      "lang": "vi",
+      "content_html": "<p>MẠT kiếp cũng không trồng được 1 cái cây đâu!</p>",
+      "content_text": "MẠT kiếp cũng không trồng được 1 cái cây đâu!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

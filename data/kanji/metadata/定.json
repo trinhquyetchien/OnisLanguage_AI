@@ -1,0 +1,110 @@
+{
+  "kanji": "定",
+  "meta": {
+    "weight": 716,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ",
+      "ジョウ"
+    ],
+    "kun": [
+      "さだ.める",
+      "さだ.まる",
+      "さだ.か"
+    ],
+    "am_han": "ĐỊNH"
+  },
+  "meaning": {
+    "vi": "xác định, quyết định",
+    "en": "determine, fix, establish, decide"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/定.svg"
+  },
+  "frequency": 48,
+  "examples": [
+    "固定",
+    "予定",
+    "決定",
+    "設定",
+    "規定"
+  ],
+  "explanation": {
+    "id": "5546",
+    "text": "定 (đọc là \"tei\" hoặc \"jou\") có nghĩa là \"quy định\", \"xác định\", \"ổn định\" để chỉ các hành động liên quan đến việc thiết lập, quyết định hoặc làm cho điều gì đó ổn định.\n\nVí dụ:\n- 定義 (teigi):"
+  },
+  "comments": [
+    {
+      "id": "37064",
+      "lang": "vi",
+      "content_html": "<p>Chúng ta hãy <strong>quyết định</strong> ngày dọn nhà.</p>",
+      "content_text": "Chúng ta hãy\nquyết định\nngày dọn nhà.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb0a583474.jpg",
+      "image_path": "assets/images/定_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152944",
+      "lang": "vi",
+      "content_html": "<p>1 người đang Thiền ĐỊNH ở Chính giữa nhà</p>",
+      "content_text": "1 người đang Thiền ĐỊNH ở Chính giữa nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152945",
+      "lang": "vi",
+      "content_html": "<p>có dấu chân 足 kẻ lạ ở trong nhà không biết có ý Định đen tối gì đây </p>",
+      "content_text": "có dấu chân 足 kẻ lạ ở trong nhà không biết có ý Định đen tối gì đây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152946",
+      "lang": "vi",
+      "content_html": "<p>CHÂN nhà được gắn cố định với phần MÁI NHÀ</p>",
+      "content_text": "CHÂN nhà được gắn cố định với phần MÁI NHÀ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

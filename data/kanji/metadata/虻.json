@@ -1,0 +1,32 @@
+{
+  "kanji": "虻",
+  "meta": {
+    "weight": 2373,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [
+      "あぶ"
+    ],
+    "am_han": "MANG, MANH, MÔNG"
+  },
+  "meaning": {
+    "vi": "chuồn chuồn",
+    "en": "gadfly, horsefly"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/虻.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "68",
+    "text": "虻 (đọc là \"abu\") có nghĩa là \"ruồi\", thường chỉ đến những loài côn trùng thuộc họ ruồi, đặc biệt là ruồi hút máu. \n\nVí dụ:\n- 虻刺され (abushisare): Bị đốt bởi ruồi.\n- 虻のような虫 (abu no you na mushi"
+  },
+  "comments": []
+}

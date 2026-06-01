@@ -1,0 +1,107 @@
+{
+  "kanji": "羊",
+  "meta": {
+    "weight": 2132,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "ひつじ"
+    ],
+    "am_han": "DƯƠNG"
+  },
+  "meaning": {
+    "vi": "con cừu",
+    "en": "sheep"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/羊.svg"
+  },
+  "frequency": 1852,
+  "examples": [
+    "羊",
+    "山羊",
+    "子羊",
+    "羊毛",
+    "羊羹"
+  ],
+  "explanation": {
+    "id": "7887",
+    "text": "羊 (đọc là \"yō\" hoặc \"hitsuji\") có nghĩa là \"cừu\" để chỉ loài động vật này, thường biểu thị cho sự hiền hòa và nuôi dưỡng.\n\nVí dụ:\n- 羊肉 (yōniku): Thịt cừu.\n- 羊飼い (hitsujikai): Người chăn cừu."
+  },
+  "comments": [
+    {
+      "id": "919",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của <strong>con cừu</strong>.</p>",
+      "content_text": "Hình dạng của\ncon cừu\n.",
+      "image_url": "https://jpdictionary.com/upload/images/6298b589d8979.jpg",
+      "image_path": "assets/images/羊_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156190",
+      "lang": "vi",
+      "content_html": "<p>Con Dê là BA dượng(三 DƯƠNG) bị cắm(l) sừng(丶ノ)</p>",
+      "content_text": "Con Dê là BA dượng(三 DƯƠNG) bị cắm(l) sừng(丶ノ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156192",
+      "lang": "vi",
+      "content_html": "<p>con dê 1 chân của nhà vua có 2 cái sừng</p>",
+      "content_text": "con dê 1 chân của nhà vua có 2 cái sừng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156191",
+      "lang": "vi",
+      "content_html": "<p>羊 ⺷\tDƯƠNG \t\tcon dê\t⺷ là biến thể của 羊</p>",
+      "content_text": "羊 ⺷\tDƯƠNG \t\tcon dê\t⺷ là biến thể của 羊",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

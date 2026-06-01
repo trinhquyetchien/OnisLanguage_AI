@@ -1,0 +1,91 @@
+{
+  "kanji": "鎖",
+  "meta": {
+    "weight": 2788,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サ"
+    ],
+    "kun": [
+      "くさり",
+      "とざ.す"
+    ],
+    "am_han": "TỎA"
+  },
+  "meaning": {
+    "vi": "dây chuyền, bàn là, kết nối",
+    "en": "chain, irons, connection"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/鎖.svg"
+  },
+  "frequency": 1250,
+  "examples": [
+    "閉鎖",
+    "連鎖",
+    "鎖",
+    "封鎖",
+    "鎖国"
+  ],
+  "explanation": {
+    "id": "2760",
+    "text": "鎖 (đọc là \"saku\" hoặc \"kusari\") có nghĩa là \"xích\", \"chuỗi\" chỉ các vật dụng dùng để khóa hoặc liên kết.  \nVí dụ:  \n- 鎖国 (sakoku): Chính sách bế quan tỏa cảng, đóng cửa đất nước.  \n- 鎖 (kusa"
+  },
+  "comments": [
+    {
+      "id": "157607",
+      "lang": "vi",
+      "content_html": "<p>Cắm ba que phong tỏa tiền và vàng</p>",
+      "content_text": "Cắm ba que phong tỏa tiền và vàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157608",
+      "lang": "vi",
+      "content_html": "<p>sò đội vương miện đc sâu vào dây xích bằng kim loại</p>",
+      "content_text": "sò đội vương miện đc sâu vào dây xích bằng kim loại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157609",
+      "lang": "vi",
+      "content_html": "<p>Dùng xích kim loại để khoá tiền lại</p>",
+      "content_text": "Dùng xích kim loại để khoá tiền lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "曲",
+  "meta": {
+    "weight": 1258,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョク"
+    ],
+    "kun": [
+      "ま.がる",
+      "ま.げる",
+      "くま"
+    ],
+    "am_han": "KHÚC"
+  },
+  "meaning": {
+    "vi": "ca khúc",
+    "en": "bend, music, melody, composition, pleasure, injustice, fault, curve, crooked, perverse, lean"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/曲.svg"
+  },
+  "frequency": 810,
+  "examples": [
+    "曲",
+    "作曲",
+    "曲目",
+    "楽曲",
+    "交響曲"
+  ],
+  "explanation": {
+    "id": "1729",
+    "text": "曲 (đọc là \"kyoku\" hoặc \"kaku\") có nghĩa là \"khúc\", \"bản nhạc\" hoặc \"uốn cong\". Nó chỉ các khía cạnh liên quan đến âm nhạc và hình dạng.\n\nVí dụ:\n- 曲 (kyoku): Bản nhạc, đoạn nhạc.\n- 曲がる (magar"
+  },
+  "comments": [
+    {
+      "id": "154299",
+      "lang": "vi",
+      "content_html": "<p>Kẻ vở ra 6 ô để viết khúc nhạc</p>",
+      "content_text": "Kẻ vở ra 6 ô để viết khúc nhạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154300",
+      "lang": "vi",
+      "content_html": "<p>Cắt cái bánh chưng làm 6 khúc</p>",
+      "content_text": "Cắt cái bánh chưng làm 6 khúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154301",
+      "lang": "vi",
+      "content_html": "<p>CHẤP TAY hướng về mặt trời tấu KHÚC nhạc</p>",
+      "content_text": "CHẤP TAY hướng về mặt trời tấu KHÚC nhạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

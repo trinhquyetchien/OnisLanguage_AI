@@ -1,0 +1,94 @@
+{
+  "kanji": "高",
+  "meta": {
+    "weight": 2964,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "たか.い",
+      "たか",
+      "-だか",
+      "たか.まる",
+      "たか.める"
+    ],
+    "am_han": "CAO"
+  },
+  "meaning": {
+    "vi": "cao",
+    "en": "tall, high, expensive"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/高.svg"
+  },
+  "frequency": 65,
+  "examples": [
+    "高い",
+    "高",
+    "最高",
+    "高校",
+    "高速"
+  ],
+  "explanation": {
+    "id": "2592",
+    "text": "高 (đọc là \"kou\" hoặc \"taka\") có nghĩa là \"cao\" để chỉ độ cao, mức độ, hoặc giá trị của một cái gì đó.  \nVí dụ:  \n- 高校 (koukou): Trường trung học.  \n- 高い (takai): Cao, đắt.  \n- 高度 (koudou): Đ"
+  },
+  "comments": [
+    {
+      "id": "576",
+      "lang": "vi",
+      "content_html": "<p>Có một cái tháp <strong>cao </strong>ở trên toà nhà.</p>",
+      "content_text": "Có một cái tháp\ncao\nở trên toà nhà.",
+      "image_url": "https://jpdictionary.com/upload/images/629780c334d3b.jpg",
+      "image_path": "assets/images/高_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158015",
+      "lang": "vi",
+      "content_html": "<p>đội nắp ấm 亠 lên mồm 口 để làm gì 何 ? Để cho nó cao 高い</p>",
+      "content_text": "đội nắp ấm 亠 lên mồm 口 để làm gì 何 ? Để cho nó cao 高い",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158347",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>高い (たかい): cao, đắt<br>高校 (こうこう): trường cấp 3, trường trung học phổ thông</p>",
+      "content_text": "JLPT N5\n高い (たかい): cao, đắt\n高校 (こうこう): trường cấp 3, trường trung học phổ thông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

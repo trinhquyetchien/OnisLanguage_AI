@@ -1,0 +1,107 @@
+{
+  "kanji": "午",
+  "meta": {
+    "weight": 387,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴ"
+    ],
+    "kun": [
+      "うま"
+    ],
+    "am_han": "NGỌ"
+  },
+  "meaning": {
+    "vi": "buổi trưa, chính ngọ",
+    "en": "noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/午.svg"
+  },
+  "frequency": 154,
+  "examples": [
+    "午後",
+    "午前",
+    "正午",
+    "午",
+    "端午"
+  ],
+  "explanation": {
+    "id": "2322",
+    "text": "午 (đọc là \"go\") có nghĩa là \"giữa trưa\" hoặc \"giờ Ngọ\" trong hệ thống giờ cổ điển của Nhật. Chữ này thường liên quan đến thời gian trong ngày.\n\nVí dụ:\n- 午前 (gozen): Buổi sáng.\n- 午後 (gogo): B"
+  },
+  "comments": [
+    {
+      "id": "525",
+      "lang": "vi",
+      "content_html": "<p>Chữ hán này gồm có số 10「十」 và số 2「二」</p><p>12 giờ là <strong>buổi trưa</strong>.</p>",
+      "content_text": "Chữ hán này gồm có số 10「十」 và số 2「二」\n12 giờ là\nbuổi trưa\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629768dd33e42.jpg",
+      "image_path": "assets/images/午_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152164",
+      "lang": "vi",
+      "content_html": "<p>hơn 10 là giờ ngọ mọi người nằm nghĩ trưa</p>",
+      "content_text": "hơn 10 là giờ ngọ mọi người nằm nghĩ trưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158457",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>午後 (ごご): buổi chiều<br>午前 (ごぜん): buổi sáng</p>",
+      "content_text": "JLPT N5\n午後 (ごご): buổi chiều\n午前 (ごぜん): buổi sáng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "158531",
+      "lang": "vi",
+      "content_html": "<p>Nhìn hơi giống đầu ngựa (tuổi ngọ)</p>",
+      "content_text": "Nhìn hơi giống đầu ngựa (tuổi ngọ)",
+      "image_url": "https://jpdictionary.com/upload/images/631e0263d8896.jpg",
+      "image_path": "assets/images/午_4.jpg",
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "263",
+        "name": "Dinh Dai Duong (K17 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/630b5a2836a97.png"
+      }
+    }
+  ]
+}

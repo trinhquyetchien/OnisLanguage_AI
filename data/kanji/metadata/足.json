@@ -1,0 +1,93 @@
+{
+  "kanji": "足",
+  "meta": {
+    "weight": 2590,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソク"
+    ],
+    "kun": [
+      "あし",
+      "た.りる",
+      "た.る",
+      "た.す"
+    ],
+    "am_han": "TÚC"
+  },
+  "meaning": {
+    "vi": "chân, bổ túc",
+    "en": "leg, foot, be sufficient, counter for pairs of footwear"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/足.svg"
+  },
+  "frequency": 343,
+  "examples": [
+    "足",
+    "満足",
+    "不足",
+    "補足",
+    "発足"
+  ],
+  "explanation": {
+    "id": "4803",
+    "text": "足 (đọc là \"soku\" hoặc \"ashi\") có nghĩa là \"chân\", \"đầy đủ\" hoặc \"thêm\". Nó chỉ các bộ phận liên quan đến chân hoặc ý nghĩa đầy đủ, hoàn thiện.\n\nVí dụ:\n- 足りる (tariru): Đủ, đầy đủ.\n- 足元 (ashim"
+  },
+  "comments": [
+    {
+      "id": "730",
+      "lang": "vi",
+      "content_html": "<p>Chúng ta hãy duỗi <strong>chân </strong>và chạy nào!</p>",
+      "content_text": "Chúng ta hãy duỗi\nchân\nvà chạy nào!",
+      "image_url": "https://jpdictionary.com/upload/images/629841be06e0b.jpg",
+      "image_path": "assets/images/足_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191195",
+      "lang": "vi",
+      "content_html": "<p><strong>chân</strong></p>",
+      "content_text": "chân",
+      "image_url": "https://jpdictionary.com/upload/images/648ad8e03280f.jpg",
+      "image_path": "assets/images/足_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "157168",
+      "lang": "vi",
+      "content_html": "<p>Người 人nọ há miệng 口 thở hồng hộc, vắt chân 足lên cổ mà chạy.</p>",
+      "content_text": "Người 人nọ há miệng 口 thở hồng hộc, vắt chân 足lên cổ mà chạy.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

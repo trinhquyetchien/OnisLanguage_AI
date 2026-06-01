@@ -1,0 +1,112 @@
+{
+  "kanji": "果",
+  "meta": {
+    "weight": 1310,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "は.たす",
+      "はた.す",
+      "-は.たす",
+      "は.てる",
+      "-は.てる",
+      "は.て"
+    ],
+    "am_han": "QUẢ"
+  },
+  "meaning": {
+    "vi": "hoa quả, thành quả",
+    "en": "fruit, reward, carry out, achieve, complete, end, finish, succeed"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/果.svg"
+  },
+  "frequency": 258,
+  "examples": [
+    "結果",
+    "効果",
+    "成果",
+    "果たして",
+    "果たす"
+  ],
+  "explanation": {
+    "id": "648",
+    "text": "果 (đọc là \"ka\") có nghĩa là \"trái cây\" hoặc \"kết quả\", chỉ các loại trái cây hoặc sản phẩm cuối cùng của một quá trình nào đó.\n\nVí dụ:\n- 果物 (kudamono): Trái cây.\n- 結果 (kekka): Kết quả.\n- 成果 "
+  },
+  "comments": [
+    {
+      "id": "37000",
+      "lang": "vi",
+      "content_html": "<p>Cây (木) đang ra <strong>quả</strong>.</p>",
+      "content_text": "Cây (木) đang ra\nquả\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4ec9b05aa.jpg",
+      "image_path": "assets/images/果_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154429",
+      "lang": "vi",
+      "content_html": "<p>cánh đồng trồng cây ăn quả</p>",
+      "content_text": "cánh đồng trồng cây ăn quả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154430",
+      "lang": "vi",
+      "content_html": "<p>Cái cây quả nhiên mọc trên đồng</p>",
+      "content_text": "Cái cây quả nhiên mọc trên đồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154431",
+      "lang": "vi",
+      "content_html": "<p>Cây mọc trên đồng lúc nào cũng cho Quả</p>",
+      "content_text": "Cây mọc trên đồng lúc nào cũng cho Quả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "木",
+  "meta": {
+    "weight": 1277,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボク",
+      "モク"
+    ],
+    "kun": [
+      "き",
+      "こ-"
+    ],
+    "am_han": "MỘC"
+  },
+  "meaning": {
+    "vi": "cây",
+    "en": "tree, wood"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/木.svg"
+  },
+  "frequency": 317,
+  "examples": [
+    "木",
+    "木曜日",
+    "青木",
+    "木材",
+    "水木"
+  ],
+  "explanation": {
+    "id": "7622",
+    "text": "木 (đọc là \"moku\" hoặc \"ki\") có nghĩa là \"cây\" hoặc \"gỗ\", chỉ các loại cây cối, gỗ và những thứ liên quan đến thiên nhiên.  \nVí dụ:  \n- 木曜日 (mokuyoubi): Ngày thứ Năm (ngày của cây).  \n- 木材 (m"
+  },
+  "comments": [
+    {
+      "id": "191061",
+      "lang": "vi",
+      "content_html": "<p><strong>cây</strong></p>",
+      "content_text": "cây",
+      "image_url": "https://jpdictionary.com/upload/images/648a934085633.jpg",
+      "image_path": "assets/images/木_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "482",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng cái <strong>cây</strong></p>",
+      "content_text": "Hình dạng cái\ncây",
+      "image_url": "https://jpdictionary.com/upload/images/62976384081f2.jpg",
+      "image_path": "assets/images/木_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158441",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>木 (き): cây<br>木よう日 (もくようび): Thứ Năm</p>",
+      "content_text": "JLPT N5\n木 (き): cây\n木よう日 (もくようび): Thứ Năm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

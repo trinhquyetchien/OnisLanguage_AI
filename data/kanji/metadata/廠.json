@@ -1,0 +1,48 @@
+{
+  "kanji": "廠",
+  "meta": {
+    "weight": 881,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "XƯỞNG"
+  },
+  "meaning": {
+    "vi": "xưởng",
+    "en": "workshop"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/廠.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3803",
+    "text": "厂 (đọc là \"kō\" hoặc \"ha\") có nghĩa là \"nhà xưởng\", \"cơ sở sản xuất\" để chỉ các công trình, nhà máy hoặc khu vực sản xuất.  \nVí dụ:  \n- 工場 (kōjō): Nhà máy, xưởng sản xuất.  \n- 厂房 (hāngfáng): "
+  },
+  "comments": [
+    {
+      "id": "219424",
+      "lang": "vi",
+      "content_html": "<p>工廠： Công xưởng , nhà máy</p>",
+      "content_text": "工廠： Công xưởng , nhà máy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

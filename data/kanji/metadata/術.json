@@ -1,0 +1,90 @@
+{
+  "kanji": "術",
+  "meta": {
+    "weight": 2403,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュツ"
+    ],
+    "kun": [
+      "すべ"
+    ],
+    "am_han": "THUẬT"
+  },
+  "meaning": {
+    "vi": "nghệ thuật, kỹ thuật",
+    "en": "art, technique, skill, means, trick, resources, magic"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/術.svg"
+  },
+  "frequency": 350,
+  "examples": [
+    "技術",
+    "芸術",
+    "手術",
+    "術",
+    "美術館"
+  ],
+  "explanation": {
+    "id": "3611",
+    "text": "術 (đọc là \"jutsu\" hoặc \"shu\") có nghĩa là \"kỹ thuật\", \"nghệ thuật\" để chỉ các phương pháp, kỹ năng hoặc kiến thức chuyên môn trong một lĩnh vực nào đó.\n\nVí dụ:\n- 技術 (gijutsu): Kỹ thuật, công"
+  },
+  "comments": [
+    {
+      "id": "156700",
+      "lang": "vi",
+      "content_html": "<p>Phép thuật làm mọc cây giữa đường.</p>",
+      "content_text": "Phép thuật làm mọc cây giữa đường.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156701",
+      "lang": "vi",
+      "content_html": "<p>Kỹ thuật đi 行 xuyên qua cái cây 木</p>",
+      "content_text": "Kỹ thuật đi 行 xuyên qua cái cây 木",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156702",
+      "lang": "vi",
+      "content_html": "<p>Có thuốc quý 朮 rồi nhưng muốn tiến hành 行 chữa bệnh cứu người bắt buộc phải có kỹ thuật 技術</p>",
+      "content_text": "Có thuốc quý 朮 rồi nhưng muốn tiến hành 行 chữa bệnh cứu người bắt buộc phải có kỹ thuật 技術",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

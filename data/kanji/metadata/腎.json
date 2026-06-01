@@ -1,0 +1,68 @@
+{
+  "kanji": "腎",
+  "meta": {
+    "weight": 2201,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジン"
+    ],
+    "kun": [],
+    "am_han": "THẬN"
+  },
+  "meaning": {
+    "vi": "quả thận",
+    "en": "kidney"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/腎.svg"
+  },
+  "frequency": 1755,
+  "examples": [
+    "腎臓",
+    "腎"
+  ],
+  "explanation": {
+    "id": "4169",
+    "text": "腎 (đọc là \"shin\") có nghĩa là \"thận\", một cơ quan trong cơ thể có chức năng lọc máu và tạo ra nước tiểu.  \nVí dụ:  \n- 腎臓 (shinzō): Thận (cơ quan).  \n- 腎不全 (shinfuzen): Suy thận.  \n- 腎石症 (shi"
+  },
+  "comments": [
+    {
+      "id": "156348",
+      "lang": "vi",
+      "content_html": "<p>Quan thần Hàng Tháng phải đi chạy thận</p>",
+      "content_text": "Quan thần Hàng Tháng phải đi chạy thận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156349",
+      "lang": "vi",
+      "content_html": "<p>Nguyệt chắp tay bái Thần cầu xin quả THẬN</p>",
+      "content_text": "Nguyệt chắp tay bái Thần cầu xin quả THẬN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "遠",
+  "meta": {
+    "weight": 2681,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン",
+      "オン"
+    ],
+    "kun": [
+      "とお.い"
+    ],
+    "am_han": "VIỄN"
+  },
+  "meaning": {
+    "vi": "xa, vĩnh viễn",
+    "en": "distant, far"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/遠.svg"
+  },
+  "frequency": 887,
+  "examples": [
+    "遠く",
+    "遠い",
+    "永遠",
+    "遠慮",
+    "遠"
+  ],
+  "explanation": {
+    "id": "487",
+    "text": "遠 (đọc là \"en\") có nghĩa là \"xa\" để chỉ khoảng cách hoặc sự cách biệt về không gian, thời gian, hoặc ý tưởng.  \nVí dụ:  \n- 遠く (tooku): Xa, ở xa.  \n- 遠慮 (enryo): Sự ngại ngần, kiềm chế.  \n- 遠"
+  },
+  "comments": [
+    {
+      "id": "1027",
+      "lang": "vi",
+      "content_html": "<p>Thứ bảy (土) tôi sẽ đi <strong>xa</strong>.</p>",
+      "content_text": "Thứ bảy (土) tôi sẽ đi\nxa\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62a1df1c575f4.jpg",
+      "image_path": "assets/images/遠_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157387",
+      "lang": "vi",
+      "content_html": "<p>bước đi (XƯỚC) thật xa (VIỄN) khỏi vùng đất (THỔ) có những cái miệng (KHẨU) ba (ba nét 7-8-10) phải (nét 9)</p>",
+      "content_text": "bước đi (XƯỚC) thật xa (VIỄN) khỏi vùng đất (THỔ) có những cái miệng (KHẨU) ba (ba nét 7-8-10) phải (nét 9)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157388",
+      "lang": "vi",
+      "content_html": "<p>Một áo dài thước tha <br>Một bờ môi son đỏ (口)<br>Em về vùng đất mới<br>Một viễn trời xa xôi.</p>",
+      "content_text": "Một áo dài thước tha\nMột bờ môi son đỏ (口)\nEm về vùng đất mới\nMột viễn trời xa xôi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158896",
+      "lang": "vi",
+      "content_html": "<p>遠足(えんそく): đi chơi, dã ngoại</p>",
+      "content_text": "遠足(えんそく): đi chơi, dã ngoại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

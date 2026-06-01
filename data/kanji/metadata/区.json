@@ -1,0 +1,107 @@
+{
+  "kanji": "区",
+  "meta": {
+    "weight": 381,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ク",
+      "オウ",
+      "コウ"
+    ],
+    "kun": [],
+    "am_han": "KHU"
+  },
+  "meaning": {
+    "vi": "phường, quận",
+    "en": "ward, district"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/区.svg"
+  },
+  "frequency": 137,
+  "examples": [
+    "区",
+    "地区",
+    "区別",
+    "区域",
+    "区分"
+  ],
+  "explanation": {
+    "id": "1814",
+    "text": "区 (đọc là \"ku\" hoặc \"kū\") có nghĩa là \"khu vực\", \"phân khu\", chỉ các đơn vị địa lý hoặc hành chính.  \nVí dụ:  \n- 区画 (kukaku): Khu vực, phân khu.  \n- 区役所 (kuyakusho): Văn phòng quận.  \n- 地区 ("
+  },
+  "comments": [
+    {
+      "id": "36972",
+      "lang": "vi",
+      "content_html": "<p><strong>Phường</strong> này được phân chia bởi 3 bức tường và 2 con đường.</p>",
+      "content_text": "Phường\nnày được phân chia bởi 3 bức tường và 2 con đường.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4be2a119c.jpg",
+      "image_path": "assets/images/区_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152147",
+      "lang": "vi",
+      "content_html": "<p>Khu vực đc đánh dấu x</p>",
+      "content_text": "Khu vực đc đánh dấu x",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152148",
+      "lang": "vi",
+      "content_html": "<p>Tủ đánh dấu X cho vào 1 KHU</p>",
+      "content_text": "Tủ đánh dấu X cho vào 1 KHU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152149",
+      "lang": "vi",
+      "content_html": "<p>Khu 区 vực này có rất nhiều Nghệ 乂 nhân bị nhốt trong Hộp (Phương) 匚</p>",
+      "content_text": "Khu 区 vực này có rất nhiều Nghệ 乂 nhân bị nhốt trong Hộp (Phương) 匚",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

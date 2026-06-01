@@ -1,0 +1,68 @@
+{
+  "kanji": "簾",
+  "meta": {
+    "weight": 2018,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レン"
+    ],
+    "kun": [
+      "すだれ",
+      "す"
+    ],
+    "am_han": "LIÊM"
+  },
+  "meaning": {
+    "vi": "màn tre, màn mây",
+    "en": "bamboo screen, rattan blind"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/簾.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8283",
+    "text": "簾 (đọc là \"ren\") có nghĩa là \"mành\" hoặc \"tấm rèm\" dùng để che chắn ánh sáng hoặc bảo vệ riêng tư. \n\nVí dụ:\n- 簾 (ren): Mành, rèm.\n- 簾越し (rengoshi): Qua mành, qua rèm.\n- 簾幕 (remaku): Mành che"
+  },
+  "comments": [
+    {
+      "id": "220309",
+      "lang": "vi",
+      "content_html": "<p>2 cây Trúc ở Mái Hiên thì Kiêm luôn cả việc treo Rèm</p>",
+      "content_text": "2 cây Trúc ở Mái Hiên thì Kiêm luôn cả việc treo Rèm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220310",
+      "lang": "vi",
+      "content_html": "<p>người LIÊM KHIẾT có CÂY TRÚC ở nhà làm BỨC RÈM</p>",
+      "content_text": "người LIÊM KHIẾT có CÂY TRÚC ở nhà làm BỨC RÈM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

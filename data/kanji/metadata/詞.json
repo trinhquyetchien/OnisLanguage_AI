@@ -1,0 +1,90 @@
+{
+  "kanji": "詞",
+  "meta": {
+    "weight": 2474,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "ことば"
+    ],
+    "am_han": "TỪ"
+  },
+  "meaning": {
+    "vi": "từ",
+    "en": "part of speech, words, poetry"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/詞.svg"
+  },
+  "frequency": 1636,
+  "examples": [
+    "歌詞",
+    "台詞",
+    "名詞",
+    "動詞",
+    "詞"
+  ],
+  "explanation": {
+    "id": "3143",
+    "text": "詞 (đọc là \"shi\") có nghĩa là \"từ\", \"lời\" để chỉ các loại từ ngữ, đặc biệt là trong thơ ca hoặc văn học. \n\nVí dụ:\n- 詞 (shi): Lời bài hát, lời thơ.\n- 歌詞 (kashi): Lời bài hát.\n- 詩詞 (shishi): Th"
+  },
+  "comments": [
+    {
+      "id": "156880",
+      "lang": "vi",
+      "content_html": "<p>NGÔN+TƯ=ngôn từ</p>",
+      "content_text": "NGÔN+TƯ=ngôn từ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156881",
+      "lang": "vi",
+      "content_html": "<p>Làm Quản Lí 司 khi phát Ngôn 言 phải thật Từ 詞 tốn.</p>",
+      "content_text": "Làm Quản Lí 司 khi phát Ngôn 言 phải thật Từ 詞 tốn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156882",
+      "lang": "vi",
+      "content_html": "<p>nó với bề trên phải chọn lọc từng TỪ</p>",
+      "content_text": "nó với bề trên phải chọn lọc từng TỪ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

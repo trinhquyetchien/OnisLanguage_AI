@@ -1,0 +1,93 @@
+{
+  "kanji": "儲",
+  "meta": {
+    "weight": 253,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョ"
+    ],
+    "kun": [
+      "もう.ける",
+      "もう.かる",
+      "もうけ",
+      "たくわ.える"
+    ],
+    "am_han": "TRỮ, TRỪ, TRỪU"
+  },
+  "meaning": {
+    "vi": "có lợi nhuận, mang lại lợi nhuận",
+    "en": "be profitable, yield profit"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/儲.svg"
+  },
+  "frequency": 2442,
+  "examples": [
+    "儲け",
+    "儲かる",
+    "儲ける",
+    "金儲け",
+    "大儲け"
+  ],
+  "explanation": {
+    "id": "7619",
+    "text": "儲 (đọc là \"chou\") có nghĩa là \"tiết kiệm\", \"tích trữ\" để chỉ hành động lưu giữ hoặc tích lũy tài sản, tiền bạc.  \nVí dụ:  \n- 儲蓄 (chouchiku): Tiết kiệm, khoản tiết kiệm.  \n- 儲ける (moukeru): Ki"
+  },
+  "comments": [
+    {
+      "id": "151825",
+      "lang": "vi",
+      "content_html": "<p>Niềm TIN (信) của học GIẢ (者) tích TRỮ sẽ sinh lời</p>",
+      "content_text": "Niềm TIN (信) của học GIẢ (者) tích TRỮ sẽ sinh lời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151826",
+      "lang": "vi",
+      "content_html": "<p>儲ける - cho mình góp ý phần viết chữ Kanji bị sai ạ</p>",
+      "content_text": "儲ける - cho mình góp ý phần viết chữ Kanji bị sai ạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151827",
+      "lang": "vi",
+      "content_html": "<p>người ĐỨNG NÓI chuyện với học GIẢ để TRỮ tiền</p>",
+      "content_text": "người ĐỨNG NÓI chuyện với học GIẢ để TRỮ tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "kanji": "創",
+  "meta": {
+    "weight": 339,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "ショウ"
+    ],
+    "kun": [
+      "つく.る",
+      "はじ.める",
+      "きず",
+      "けず.しける"
+    ],
+    "am_han": "SANG, SÁNG"
+  },
+  "meaning": {
+    "vi": "nguồn gốc, vết thương, chấn thương, tổn thương, bắt đầu",
+    "en": "genesis, wound, injury, hurt, start, originate"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/創.svg"
+  },
+  "frequency": 741,
+  "examples": [
+    "創造",
+    "創設",
+    "創作",
+    "創業",
+    "創"
+  ],
+  "explanation": {
+    "id": "4670",
+    "text": "創 (đọc là \"sō\" hoặc \"zō\") có nghĩa là \"sáng tạo\", \"khởi đầu\", chỉ các hành động liên quan đến việc tạo ra cái mới hoặc bắt đầu một cái gì đó.  \nVí dụ:  \n- 創造 (sōzō): Sáng tạo, tạo ra.  \n- 創業"
+  },
+  "comments": [
+    {
+      "id": "152054",
+      "lang": "vi",
+      "content_html": "<p>ĐAO kiếm là SÁNG tạo gây ra THƯƠNG tích cho con người</p>",
+      "content_text": "ĐAO kiếm là SÁNG tạo gây ra THƯƠNG tích cho con người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152055",
+      "lang": "vi",
+      "content_html": "<p>đao thương sáng loáng</p>",
+      "content_text": "đao thương sáng loáng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152056",
+      "lang": "vi",
+      "content_html": "<p>Mồm nói trong 1 ngày dùng đao ság tạo ra mái nhà</p>",
+      "content_text": "Mồm nói trong 1 ngày dùng đao ság tạo ra mái nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

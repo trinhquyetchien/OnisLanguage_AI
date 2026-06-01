@@ -1,0 +1,88 @@
+{
+  "kanji": "抵",
+  "meta": {
+    "weight": 1066,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [],
+    "am_han": "ĐỂ, CHỈ"
+  },
+  "meaning": {
+    "vi": "chống lại, tiếp cận, chạm vào",
+    "en": "resist, reach, touch"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/抵.svg"
+  },
+  "frequency": 1182,
+  "examples": [
+    "抵抗",
+    "大抵",
+    "抵触",
+    "抵当",
+    "並大抵"
+  ],
+  "explanation": {
+    "id": "5565",
+    "text": "抵 (đọc là \"tei\") có nghĩa là \"kháng cự\", \"chống lại\" để chỉ các hành động liên quan đến việc đối kháng hoặc chống lại cái gì đó.\n\nVí dụ:\n- 抵抗 (teikou): Kháng cự, chống lại.\n- 抵触 (teishoku): "
+  },
+  "comments": [
+    {
+      "id": "153838",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay thấp Để chống cự</p>",
+      "content_text": "Dùng tay thấp Để chống cự",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153839",
+      "lang": "vi",
+      "content_html": "<p>hạ THẤP TAY ĐỂ chống cự bọn dê xồm</p>",
+      "content_text": "hạ THẤP TAY ĐỂ chống cự bọn dê xồm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153840",
+      "lang": "vi",
+      "content_html": "<p>Đề 抵 nghị tay (手) thấp (低) xuốn<br><br>チャン。</p>",
+      "content_text": "Đề 抵 nghị tay (手) thấp (低) xuốn\nチャン。",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

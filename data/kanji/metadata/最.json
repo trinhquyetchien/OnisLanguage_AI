@@ -1,0 +1,109 @@
+{
+  "kanji": "最",
+  "meta": {
+    "weight": 1266,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ",
+      "シュ"
+    ],
+    "kun": [
+      "もっと.も",
+      "つま"
+    ],
+    "am_han": "TỐI"
+  },
+  "meaning": {
+    "vi": "tối đa, nhất",
+    "en": "utmost, most, extreme"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/最.svg"
+  },
+  "frequency": 82,
+  "examples": [
+    "最近",
+    "最後",
+    "最初",
+    "最も",
+    "最終"
+  ],
+  "explanation": {
+    "id": "2782",
+    "text": "最 (đọc là \"sai\") có nghĩa là \"nhất\", chỉ sự tối thượng hoặc cái gì đó tốt nhất, cao nhất.  \nVí dụ:  \n- 最後 (saigo): Cuối cùng, sau cùng.  \n- 最高 (saikou): Tốt nhất, cao nhất.  \n- 最初 (saisho): "
+  },
+  "comments": [
+    {
+      "id": "37222",
+      "lang": "vi",
+      "content_html": "<p>Lấy (取) mặt trời (日) là điều khó khăn <strong>nhất (最)</strong>.</p>",
+      "content_text": "Lấy (取) mặt trời (日) là điều khó khăn\nnhất (最)\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd652160c0.jpg",
+      "image_path": "assets/images/最_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154320",
+      "lang": "vi",
+      "content_html": "<p>Thằng nào lấy 取 mẹ mặt trời 日 bảo sao k TỐI</p>",
+      "content_text": "Thằng nào lấy 取 mẹ mặt trời 日 bảo sao k TỐI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154321",
+      "lang": "vi",
+      "content_html": "<p>Ban ngày( NHẬT) không nghe( NHĨ), TỐI nghe đi nghe lại (HỰU)</p>",
+      "content_text": "Ban ngày( NHẬT) không nghe( NHĨ), TỐI nghe đi nghe lại (HỰU)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154322",
+      "lang": "vi",
+      "content_html": "<p>Lấy (取) nhẹ cái mặt trời (日) TỐI cao</p>",
+      "content_text": "Lấy (取) nhẹ cái mặt trời (日) TỐI cao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

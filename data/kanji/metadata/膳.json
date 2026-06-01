@@ -1,0 +1,73 @@
+{
+  "kanji": "膳",
+  "meta": {
+    "weight": 2216,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゼン",
+      "セン"
+    ],
+    "kun": [
+      "かしわ",
+      "すす.める",
+      "そな.える"
+    ],
+    "am_han": "THIỆN"
+  },
+  "meaning": {
+    "vi": "bàn thấp nhỏ, khay",
+    "en": "small low table, tray"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/膳.svg"
+  },
+  "frequency": 2120,
+  "examples": [
+    "膳",
+    "お膳立て"
+  ],
+  "explanation": {
+    "id": "4604",
+    "text": "膳 (đọc là \"zen\") có nghĩa là \"bữa ăn\", thường chỉ đến các món ăn phục vụ trong bữa cơm, đặc biệt là trong văn hóa Nhật Bản. \n\nVí dụ:\n- 膳所 (zendoko): Nơi phục vụ bữa ăn.\n- 膳立て (zendate): Chuẩ"
+  },
+  "comments": [
+    {
+      "id": "156380",
+      "lang": "vi",
+      "content_html": "<p>Chị Nguyệt muốn cải Thiện món ăn bằng thịt Dê</p>",
+      "content_text": "Chị Nguyệt muốn cải Thiện món ăn bằng thịt Dê",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156381",
+      "lang": "vi",
+      "content_html": "<p>THỊT THÀ được bày biện KHÉO LÉO THIỆN LÀNH  --»  là CỖ ĂN trên cái KHAY</p>",
+      "content_text": "THỊT THÀ được bày biện KHÉO LÉO THIỆN LÀNH  --»  là CỖ ĂN trên cái KHAY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "kanji": "痛",
+  "meta": {
+    "weight": 1809,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ツウ"
+    ],
+    "kun": [
+      "いた.い",
+      "いた.む",
+      "いた.ましい",
+      "いた.める"
+    ],
+    "am_han": "THỐNG"
+  },
+  "meaning": {
+    "vi": "đau, thống khổ",
+    "en": "pain, hurt, damage, bruise"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/痛.svg"
+  },
+  "frequency": 903,
+  "examples": [
+    "痛み",
+    "痛い",
+    "苦痛",
+    "痛",
+    "痛感"
+  ],
+  "explanation": {
+    "id": "5460",
+    "text": "痛 (đọc là \"tsuu\" hoặc \"itai\") có nghĩa là \"đau\", \"đau đớn\" để chỉ cảm giác đau đớn về thể xác hoặc tinh thần.\n\nVí dụ:\n- 痛み (itami): Cảm giác đau, nỗi đau.\n- 痛い (itai): Đau, bị thương.\n- 頭痛 ("
+  },
+  "comments": [
+    {
+      "id": "37034",
+      "lang": "vi",
+      "content_html": "<p>Tôi vừa cảm nhận <strong>nỗi đau</strong>, vừa vượt qua hàng rào của bệnh viện.</p>",
+      "content_text": "Tôi vừa cảm nhận\nnỗi đau\n, vừa vượt qua hàng rào của bệnh viện.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc51e9db014.jpg",
+      "image_path": "assets/images/痛_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155470",
+      "lang": "vi",
+      "content_html": "<p>Người DŨNG cảm đến mấy mà bị ỐM thì trông cũng đau đớn, THỐNG khổ</p>",
+      "content_text": "Người DŨNG cảm đến mấy mà bị ỐM thì trông cũng đau đớn, THỐNG khổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158944",
+      "lang": "vi",
+      "content_html": "<p>手痛い(ていたい): khốc liệt</p><p>&nbsp;</p>",
+      "content_text": "手痛い(ていたい): khốc liệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "155471",
+      "lang": "vi",
+      "content_html": "<p>bị BỆNH (nạch) thì người DŨNG mãnh  --»   cũng ĐAU ĐỚN THỐNG KHỔ</p>",
+      "content_text": "bị BỆNH (nạch) thì người DŨNG mãnh  --»   cũng ĐAU ĐỚN THỐNG KHỔ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

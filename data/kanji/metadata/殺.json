@@ -1,0 +1,111 @@
+{
+  "kanji": "殺",
+  "meta": {
+    "weight": 1467,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サツ",
+      "サイ",
+      "セツ"
+    ],
+    "kun": [
+      "ころ.す",
+      "-ごろ.し",
+      "そ.ぐ"
+    ],
+    "am_han": "SÁT"
+  },
+  "meaning": {
+    "vi": "giết, sát hại",
+    "en": "kill, murder, butcher, slice off, split, diminish, reduce, spoil"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/殺.svg"
+  },
+  "frequency": 581,
+  "examples": [
+    "自殺",
+    "殺人",
+    "殺し",
+    "殺害",
+    "殺す"
+  ],
+  "explanation": {
+    "id": "20276",
+    "text": "Chữ Hán 殺 (đọc là \"satsu\" hoặc \"setsu\") có nghĩa là \"giết\", \"tử vong\", chỉ các hành động liên quan đến việc giết chóc hoặc làm hại ai đó.\n\nVí dụ:\n- 殺人 (satsujin): Tội giết người.\n- 殺す (koros"
+  },
+  "comments": [
+    {
+      "id": "154717",
+      "lang": "vi",
+      "content_html": "<p>Dùng thuốc mê ( メ) sát ( 殺) hại kẻ thù ( 殳) rồi treo lên cây (木</p>",
+      "content_text": "Dùng thuốc mê ( メ) sát ( 殺) hại kẻ thù ( 殳) rồi treo lên cây (木",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190671",
+      "lang": "vi",
+      "content_html": "<p>để ý dấu X trên thân Cây để tránh kẻ Thù Sát hại</p>",
+      "content_text": "để ý dấu X trên thân Cây để tránh kẻ Thù Sát hại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "154718",
+      "lang": "vi",
+      "content_html": "<p>SÁT (殺) nhân là kẻ có đam mê (メ) dùng cây (木) thù (殳)</p>",
+      "content_text": "SÁT (殺) nhân là kẻ có đam mê (メ) dùng cây (木) thù (殳)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154719",
+      "lang": "vi",
+      "content_html": "<p>đánh dấu X vào những cái cây 木 . Rồi sát 殺 hại nó</p>",
+      "content_text": "đánh dấu X vào những cái cây 木 . Rồi sát 殺 hại nó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

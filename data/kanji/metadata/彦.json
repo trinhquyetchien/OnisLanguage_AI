@@ -1,0 +1,88 @@
+{
+  "kanji": "彦",
+  "meta": {
+    "weight": 911,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲン"
+    ],
+    "kun": [
+      "ひこ"
+    ],
+    "am_han": "NGẠN, NGÁN, NGÀN"
+  },
+  "meaning": {
+    "vi": "chàng trai, chàng trai (cổ đại)",
+    "en": "lad, boy (ancient)"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/彦.svg"
+  },
+  "frequency": 1117,
+  "examples": [
+    "彦",
+    "俊彦",
+    "彦星"
+  ],
+  "explanation": {
+    "id": "6652",
+    "text": "彦 (đọc là \"yan\" hoặc \"hiko\") có nghĩa là \"người đàn ông\", \"anh hùng\" để chỉ những người tài giỏi, xuất chúng, thường được dùng trong tên gọi.\n\nVí dụ:\n- 彦星 (Hikoboshi): Ngưu Lang, một nhân vậ"
+  },
+  "comments": [
+    {
+      "id": "153429",
+      "lang": "vi",
+      "content_html": "<p>Đứng trên sườn núi mái tóc sam tản NGẠN theo gió</p>",
+      "content_text": "Đứng trên sườn núi mái tóc sam tản NGẠN theo gió",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153430",
+      "lang": "vi",
+      "content_html": "<p>Ngạn dân tộc Đứng trên sườn núi Tài Năng thấy dòng sông trên ngạn chảy mượt như Tóc dài.</p>",
+      "content_text": "Ngạn dân tộc Đứng trên sườn núi Tài Năng thấy dòng sông trên ngạn chảy mượt như Tóc dài.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153431",
+      "lang": "vi",
+      "content_html": "<p>Đứng trên sườn núi thấy dòng sông trên ngạn chảy mượt như tóc</p>",
+      "content_text": "Đứng trên sườn núi thấy dòng sông trên ngạn chảy mượt như tóc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

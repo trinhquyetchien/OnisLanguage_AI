@@ -1,0 +1,108 @@
+{
+  "kanji": "保",
+  "meta": {
+    "weight": 200,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホ",
+      "ホウ"
+    ],
+    "kun": [
+      "たも.つ"
+    ],
+    "am_han": "BẢO"
+  },
+  "meaning": {
+    "vi": "bảo vệ, đảm bảo",
+    "en": "protect, guarantee, keep, preserve, sustain, support"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/保.svg"
+  },
+  "frequency": 146,
+  "examples": [
+    "保険",
+    "保護",
+    "確保",
+    "保障",
+    "保存"
+  ],
+  "explanation": {
+    "id": "7085",
+    "text": "保 (đọc là \"ho\") có nghĩa là \"bảo vệ\", \"giữ gìn\" để chỉ các hành động liên quan đến việc bảo vệ hoặc duy trì một cái gì đó.\n\nVí dụ:\n- 保護 (hogo): Bảo vệ, bảo hộ.\n- 保管 (bokan): Giữ gìn, bảo quả"
+  },
+  "comments": [
+    {
+      "id": "151689",
+      "lang": "vi",
+      "content_html": "<p>con người dùng miệng để BẢO vệ cái cây</p>",
+      "content_text": "con người dùng miệng để BẢO vệ cái cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190693",
+      "lang": "vi",
+      "content_html": "<p>Người chỉ ăn cây cỏ thì sức khỏe mới đảm bảo</p>",
+      "content_text": "Người chỉ ăn cây cỏ thì sức khỏe mới đảm bảo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "222069",
+      "lang": "vi",
+      "content_html": "<p><strong>亻 (nhân)</strong> chỉ việc của con người</p><p><strong>呆</strong> dùng như <strong>hình thanh</strong> và mang yếu tố biểu ý (giữ gìn/nuôi dưỡng một người ngây thơ như trẻ nhỏ)</p><p>&nbsp;Chữ <strong>保</strong> ban đầu mang nghĩa <strong>nuôi nấng, dưỡng dục</strong>, rồi phát triển thành các nghĩa như <strong>bảo vệ, giữ gìn, đảm bảo, gánh vác</strong>.</p>",
+      "content_text": "亻 (nhân)\nchỉ việc của con người\n呆\ndùng như\nhình thanh\nvà mang yếu tố biểu ý (giữ gìn/nuôi dưỡng một người ngây thơ như trẻ nhỏ)\nChữ\n保\nban đầu mang nghĩa\nnuôi nấng, dưỡng dục\n, rồi phát triển thành các nghĩa như\nbảo vệ, giữ gìn, đảm bảo, gánh vác\n.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    },
+    {
+      "id": "151691",
+      "lang": "vi",
+      "content_html": "<p>Người càng đứng trên Cây  cao  thì Mồm càng to,giỏi sai Bảo người khác</p>",
+      "content_text": "Người càng đứng trên Cây  cao  thì Mồm càng to,giỏi sai Bảo người khác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

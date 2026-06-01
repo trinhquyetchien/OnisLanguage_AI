@@ -1,0 +1,109 @@
+{
+  "kanji": "共",
+  "meta": {
+    "weight": 273,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "とも",
+      "とも.に",
+      "-ども"
+    ],
+    "am_han": "CỘNG"
+  },
+  "meaning": {
+    "vi": "cùng nhau, công cộng",
+    "en": "together, both, neither, all, and, alike, with"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/共.svg"
+  },
+  "frequency": 174,
+  "examples": [
+    "共通",
+    "共同",
+    "公共",
+    "と共に",
+    "共有"
+  ],
+  "explanation": {
+    "id": "1630",
+    "text": "共 (đọc là \"kyou\" hoặc \"tomo\") có nghĩa là \"cùng nhau\", \"chung\", thể hiện sự kết hợp hoặc chia sẻ giữa nhiều người hoặc vật.  \nVí dụ:\n- 共有 (kyouyuu): Sở hữu chung.\n- 共に (tomo ni): Cùng nhau, "
+  },
+  "comments": [
+    {
+      "id": "37194",
+      "lang": "vi",
+      "content_html": "<p>Đi <strong>cùng nhau</strong>.</p>",
+      "content_text": "Đi\ncùng nhau\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd3c1f0516.jpg",
+      "image_path": "assets/images/共_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151874",
+      "lang": "vi",
+      "content_html": "<p>Hai cộng hai cộng tám bằng bao nhiêu</p>",
+      "content_text": "Hai cộng hai cộng tám bằng bao nhiêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151875",
+      "lang": "vi",
+      "content_html": "<p>2 mảnh ĐẤT CỘNG lại bằng 8 mét vuông</p>",
+      "content_text": "2 mảnh ĐẤT CỘNG lại bằng 8 mét vuông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151876",
+      "lang": "vi",
+      "content_html": "<p>2 dấu CỘNG đang nắm tay CÙNG đi trên con đường</p>",
+      "content_text": "2 dấu CỘNG đang nắm tay CÙNG đi trên con đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

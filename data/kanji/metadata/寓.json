@@ -1,0 +1,40 @@
+{
+  "kanji": "寓",
+  "meta": {
+    "weight": 739,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "グウ",
+      "グ",
+      "ドウ"
+    ],
+    "kun": [
+      "ぐう.する",
+      "かこつ.ける",
+      "よ.せる",
+      "よ.る",
+      "かりずまい"
+    ],
+    "am_han": "NGỤ"
+  },
+  "meaning": {
+    "vi": "nơi ở tạm thời, ngụ ý, đề nghị",
+    "en": "temporary abode, imply, suggest"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/寓.svg"
+  },
+  "frequency": 2330,
+  "examples": [
+    "寓話"
+  ],
+  "explanation": {
+    "id": "1854",
+    "text": "寓 (đọc là \"yuu\") có nghĩa là \"trú ngụ\", \"nơi ở tạm\" để chỉ các khái niệm liên quan đến chỗ ở, nơi sinh sống hoặc ý nghĩa sâu xa trong văn hóa.\nVí dụ:\n- 寓話 (yuuwa): Truyện ngụ ngôn.\n- 寓意 (yuu"
+  },
+  "comments": []
+}

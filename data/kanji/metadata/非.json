@@ -1,0 +1,90 @@
+{
+  "kanji": "非",
+  "meta": {
+    "weight": 2881,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "あら.ず"
+    ],
+    "am_han": "PHI"
+  },
+  "meaning": {
+    "vi": "không, phi nghĩa",
+    "en": "un-, mistake, negative, injustice, non-"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/非.svg"
+  },
+  "frequency": 472,
+  "examples": [
+    "非常",
+    "非",
+    "是非",
+    "非難",
+    "非公開"
+  ],
+  "explanation": {
+    "id": "6604",
+    "text": "非 (đọc là \"hi\") có nghĩa là \"không\", \"phi\" để chỉ sự phủ định hoặc trái ngược.  \nVí dụ:  \n- 非常 (hijou): Khẩn cấp, cực kỳ.  \n- 非公開 (hikoukai): Không công khai.  \n- 非合法 (hihou-gaku): Bất hợp p"
+  },
+  "comments": [
+    {
+      "id": "157838",
+      "lang": "vi",
+      "content_html": "<p>Người phi thường có thể leo trên cái thang ngược</p>",
+      "content_text": "Người phi thường có thể leo trên cái thang ngược",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157839",
+      "lang": "vi",
+      "content_html": "<p>Đôi cánh 3 lông nhất định (zehi) phi thường.</p>",
+      "content_text": "Đôi cánh 3 lông nhất định (zehi) phi thường.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157840",
+      "lang": "vi",
+      "content_html": "<p>Nhìn giống con rết 3 chân : tách đôi con rết là điều phi Thường</p>",
+      "content_text": "Nhìn giống con rết 3 chân : tách đôi con rết là điều phi Thường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "車",
+  "meta": {
+    "weight": 2605,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "くるま"
+    ],
+    "am_han": "XA"
+  },
+  "meaning": {
+    "vi": "xe, xa lộ",
+    "en": "car"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/車.svg"
+  },
+  "frequency": 333,
+  "examples": [
+    "車",
+    "電車",
+    "自動車",
+    "自転車",
+    "駐車"
+  ],
+  "explanation": {
+    "id": "3354",
+    "text": "車 (đọc là \"sha\" hoặc \"kuruma\") có nghĩa là \"xe\", chỉ phương tiện giao thông dùng để di chuyển. \n\nVí dụ:\n- 車両 (sharyō): Xe cộ, phương tiện.\n- 自動車 (jidōsha): Xe hơi, ô tô.\n- 電車 (densha): Tàu đ"
+  },
+  "comments": [
+    {
+      "id": "622",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của một chiếc <strong>xe</strong>.</p>",
+      "content_text": "Hình dạng của một chiếc\nxe\n.",
+      "image_url": "https://jpdictionary.com/upload/images/6297891977e2f.jpg",
+      "image_path": "assets/images/車_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191197",
+      "lang": "vi",
+      "content_html": "<p><strong>xe</strong></p>",
+      "content_text": "xe",
+      "image_url": "https://jpdictionary.com/upload/images/648ad8f4baeca.jpg",
+      "image_path": "assets/images/車_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158444",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>車 (くるま): ô tô<br>自転車 (じてんしゃ): xe đạp<br>自動車 (じどうしゃ): ô tô<br>電車 (でんしゃ): tàu điện</p>",
+      "content_text": "JLPT N5\n車 (くるま): ô tô\n自転車 (じてんしゃ): xe đạp\n自動車 (じどうしゃ): ô tô\n電車 (でんしゃ): tàu điện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

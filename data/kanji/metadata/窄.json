@@ -1,0 +1,86 @@
+{
+  "kanji": "窄",
+  "meta": {
+    "weight": 1962,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サク"
+    ],
+    "kun": [
+      "すぼ.める",
+      "つぼ.める",
+      "せま.い"
+    ],
+    "am_han": "TRÁCH"
+  },
+  "meaning": {
+    "vi": "hẹp, gấp, cuộn, nhún, cắt, đóng",
+    "en": "narrow, fold, furl, shrug, pucker, shut, close"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/窄.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2903",
+    "text": "窄 (đọc là \"saku\" hoặc \"narrow\") có nghĩa là \"hẹp\", \"chật\". \n\nVí dụ:\n- 窄い (sakai): Hẹp, chật.\n- 窄まる (sakamuru): Trở nên hẹp lại.\n- 窄所 (saku-sho): Nơi chật hẹp."
+  },
+  "comments": [
+    {
+      "id": "220262",
+      "lang": "vi",
+      "content_html": "<p>Chợt(Sạ) TRÁCH bản thân Sao Cứ đào cái Huyệt nhỏ k đủ nuôi cá</p>",
+      "content_text": "Chợt(Sạ) TRÁCH bản thân Sao Cứ đào cái Huyệt nhỏ k đủ nuôi cá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220263",
+      "lang": "vi",
+      "content_html": "<p>cái Huyệt đào bằng cào quá chật hẹp thật đáng TRÁCH</p>",
+      "content_text": "cái Huyệt đào bằng cào quá chật hẹp thật đáng TRÁCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220264",
+      "lang": "vi",
+      "content_html": "<p>Trách bản thân Sao Cứ Sáng tác về cái Huyệt nhỏ k đủ nuôi cá.</p>",
+      "content_text": "Trách bản thân Sao Cứ Sáng tác về cái Huyệt nhỏ k đủ nuôi cá.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

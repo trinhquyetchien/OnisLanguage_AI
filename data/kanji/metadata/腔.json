@@ -1,0 +1,65 @@
+{
+  "kanji": "腔",
+  "meta": {
+    "weight": 2203,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [],
+    "am_han": "KHANG, XOANG"
+  },
+  "meaning": {
+    "vi": "khoang cơ thể",
+    "en": "body cavity"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/腔.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2537",
+    "text": "腔 (đọc là \"kō\") có nghĩa là \"hốc\", \"buồng\" để chỉ không gian rỗng bên trong cơ thể hoặc vật thể nào đó. \n\nVí dụ:\n- 空腔 (kūkō): Khoang rỗng, hốc trống.\n- 腔内 (kōnai): Trong khoang (cơ thể).\n- 舌"
+  },
+  "comments": [
+    {
+      "id": "220456",
+      "lang": "vi",
+      "content_html": "<p>音読み:クウ</p>",
+      "content_text": "音読み:クウ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220457",
+      "lang": "vi",
+      "content_html": "<p>Khoang của chị Nguyệt Trống không</p>",
+      "content_text": "Khoang của chị Nguyệt Trống không",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

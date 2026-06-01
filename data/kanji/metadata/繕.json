@@ -1,0 +1,86 @@
+{
+  "kanji": "繕",
+  "meta": {
+    "weight": 2118,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゼン"
+    ],
+    "kun": [
+      "つくろ.う"
+    ],
+    "am_han": "THIỆN"
+  },
+  "meaning": {
+    "vi": "dát mỏng, sửa chữa, hàn gắn, cắt tỉa, dọn dẹp, điều chỉnh",
+    "en": "darning, repair, mend, trim, tidy up, adjust"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/繕.svg"
+  },
+  "frequency": 2195,
+  "examples": [
+    "修繕"
+  ],
+  "explanation": {
+    "id": "4601",
+    "text": "繕 (đọc là \"zen\") có nghĩa là \"sửa chữa\", \"chỉnh sửa\" để chỉ các hành động liên quan đến việc làm cho cái gì đó trở nên hoàn thiện hoặc tốt hơn.\n\nVí dụ:\n- 繕う (tsunau): Sửa chữa, chỉnh trang.\n"
+  },
+  "comments": [
+    {
+      "id": "156157",
+      "lang": "vi",
+      "content_html": "<p>Chữ thiện 善 thêm sợi chỉ thành sửa chữa</p>",
+      "content_text": "Chữ thiện 善 thêm sợi chỉ thành sửa chữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156158",
+      "lang": "vi",
+      "content_html": "<p>Ông vua nói lấy sợi chỉ để sửa chữa(thiện)</p>",
+      "content_text": "Ông vua nói lấy sợi chỉ để sửa chữa(thiện)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156159",
+      "lang": "vi",
+      "content_html": "<p>THIỆN và ác chỉ cách nhau 1 sợi CHỈ</p>",
+      "content_text": "THIỆN và ác chỉ cách nhau 1 sợi CHỈ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

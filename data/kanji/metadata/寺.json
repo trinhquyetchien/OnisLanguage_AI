@@ -1,0 +1,90 @@
+{
+  "kanji": "寺",
+  "meta": {
+    "weight": 749,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "てら"
+    ],
+    "am_han": "TỰ"
+  },
+  "meaning": {
+    "vi": "chùa",
+    "en": "Buddhist temple"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/寺.svg"
+  },
+  "frequency": 879,
+  "examples": [
+    "寺",
+    "寺院",
+    "お寺",
+    "寺子屋",
+    "国分寺"
+  ],
+  "explanation": {
+    "id": "3189",
+    "text": "寺 (đọc là \"tera\") có nghĩa là \"chùa\" hoặc \"đền\" để chỉ các nơi thờ cúng, thường liên quan đến Phật giáo.  \nVí dụ:  \n- 寺院 (jiin): Đền chùa.  \n- 寺社 (jisha): Chùa và đền.  \n- 禅寺 (zendera): Chùa"
+  },
+  "comments": [
+    {
+      "id": "190986",
+      "lang": "vi",
+      "content_html": "<p><strong>chùa</strong></p>",
+      "content_text": "chùa",
+      "image_url": "https://jpdictionary.com/upload/images/648a7eeaa13f3.jpg",
+      "image_path": "assets/images/寺_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "497",
+      "lang": "vi",
+      "content_html": "<p>Nhìn này, có ngôi <strong>chùa </strong>trên mặt <strong>đất </strong>kìa!</p>",
+      "content_text": "Nhìn này, có ngôi\nchùa\ntrên mặt\nđất\nkìa!",
+      "image_url": "https://jpdictionary.com/upload/images/629764e6eed02.jpg",
+      "image_path": "assets/images/寺_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153031",
+      "lang": "vi",
+      "content_html": "<p>đo đất xem được bao nhiêu thốn để xây chùa</p>",
+      "content_text": "đo đất xem được bao nhiêu thốn để xây chùa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

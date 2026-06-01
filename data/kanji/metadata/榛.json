@@ -1,0 +1,36 @@
+{
+  "kanji": "榛",
+  "meta": {
+    "weight": 1407,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン",
+      "ハン"
+    ],
+    "kun": [
+      "はしばみ",
+      "はり"
+    ],
+    "am_han": "TRĂN"
+  },
+  "meaning": {
+    "vi": "hạt phỉ, filbert",
+    "en": "hazelnut, filbert"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/榛.svg"
+  },
+  "frequency": 2205,
+  "examples": [
+    "榛"
+  ],
+  "explanation": {
+    "id": "4088",
+    "text": "榛 (đọc là \"hain\" hoặc \"zen\") có nghĩa là \"cây phỉ\", chỉ loại cây có quả ăn được và thường mọc trong tự nhiên. \n\nVí dụ:\n- 榛の木 (hain no ki): Cây phỉ.\n- 榛果 (hinka): Quả phỉ.\n- 榛名 (Haruna): Tên "
+  },
+  "comments": []
+}

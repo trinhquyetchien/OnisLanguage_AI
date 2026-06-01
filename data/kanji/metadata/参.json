@@ -1,0 +1,111 @@
+{
+  "kanji": "参",
+  "meta": {
+    "weight": 416,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン",
+      "シン"
+    ],
+    "kun": [
+      "まい.る",
+      "まい-",
+      "まじわる",
+      "みつ"
+    ],
+    "am_han": "THAM"
+  },
+  "meaning": {
+    "vi": "tham gia, tham khảo",
+    "en": "nonplussed, three (in documents), going, coming, visiting, visit, be defeated, die, be madly in love, participate, take part in"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/参.svg"
+  },
+  "frequency": 201,
+  "examples": [
+    "参加",
+    "参考",
+    "参照",
+    "参り",
+    "参拝"
+  ],
+  "explanation": {
+    "id": "2982",
+    "text": "参 (đọc là \"san\" hoặc \"sh参\") có nghĩa là \"tham gia\", \"tham khảo\" để chỉ các hành động liên quan đến việc tham gia, góp mặt hoặc tham khảo thông tin.\n\nVí dụ:\n- 参加 (sanka): Tham gia.\n- 参考 (sank"
+  },
+  "comments": [
+    {
+      "id": "190919",
+      "lang": "vi",
+      "content_html": "<p><strong>tham gia</strong></p>",
+      "content_text": "tham gia",
+      "image_url": "https://jpdictionary.com/upload/images/648a6f5d1423f.jpg",
+      "image_path": "assets/images/参_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "152232",
+      "lang": "vi",
+      "content_html": "<p>Mư Đại Tam Tham gia chiến trận</p>",
+      "content_text": "Mư Đại Tam Tham gia chiến trận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152233",
+      "lang": "vi",
+      "content_html": "<p>Trong quá khứ 厶 có 1 ông quan lớn 大, để tóc đuôi Sam 彡 là 1 kẻ Tham lam</p>",
+      "content_text": "Trong quá khứ 厶 có 1 ông quan lớn 大, để tóc đuôi Sam 彡 là 1 kẻ Tham lam",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152234",
+      "lang": "vi",
+      "content_html": "<p>Ai muốn THAM gia thì phải đội cái mũ lông to vĩ đại</p>",
+      "content_text": "Ai muốn THAM gia thì phải đội cái mũ lông to vĩ đại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

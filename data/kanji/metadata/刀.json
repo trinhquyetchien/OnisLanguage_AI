@@ -1,0 +1,108 @@
+{
+  "kanji": "刀",
+  "meta": {
+    "weight": 309,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "かたな",
+      "そり"
+    ],
+    "am_han": "ĐAO"
+  },
+  "meaning": {
+    "vi": "kiếm, saber, dao",
+    "en": "sword, saber, knife"
+  },
+  "stroke": {
+    "count": 2,
+    "svg": "assets/svg/刀.svg"
+  },
+  "frequency": 1794,
+  "examples": [
+    "刀",
+    "太刀",
+    "太刀打ち",
+    "日本刀",
+    "刀剣"
+  ],
+  "explanation": {
+    "id": "5772",
+    "text": "刀 (đọc là \"tō\") có nghĩa là \"dao\" hoặc \"kiếm\", chỉ các loại vũ khí sắc bén, thường dùng để chém, cắt.  \nVí dụ:  \n- 刀剣 (tōken): Kiếm, dao gươm.  \n- 日本刀 (nihontō): Kiếm Nhật.  \n- 刀工 (tōkō): Ng"
+  },
+  "comments": [
+    {
+      "id": "503",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của con <strong>dao</strong></p>",
+      "content_text": "Hình dạng của con\ndao",
+      "image_url": "https://jpdictionary.com/upload/images/629765f4567af.jpg",
+      "image_path": "assets/images/刀_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151965",
+      "lang": "vi",
+      "content_html": "<p>dùng đao cắt cụt chữ カ</p>",
+      "content_text": "dùng đao cắt cụt chữ カ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151966",
+      "lang": "vi",
+      "content_html": "<p>Lực thừa ,đao thụt</p>",
+      "content_text": "Lực thừa ,đao thụt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151967",
+      "lang": "vi",
+      "content_html": "<p>Đao kiếm dễ gây cụt đầu đại Ka.</p>",
+      "content_text": "Đao kiếm dễ gây cụt đầu đại Ka.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

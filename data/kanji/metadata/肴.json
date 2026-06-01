@@ -1,0 +1,32 @@
+{
+  "kanji": "肴",
+  "meta": {
+    "weight": 2179,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "さかな"
+    ],
+    "am_han": "HÀO"
+  },
+  "meaning": {
+    "vi": "đồ uống kèm theo",
+    "en": "accompaniment for drinks"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/肴.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2870",
+    "text": "肴 (đọc là \"sakana\") có nghĩa là \"món nhắm\", \"thức ăn kèm\" trong bữa ăn, thường dùng để chỉ các món ăn được phục vụ cùng với rượu.  \nVí dụ:  \n- おつまみ (otsumami): Món ăn nhắm, đồ ăn nhẹ.  \n- 肴に"
+  },
+  "comments": []
+}

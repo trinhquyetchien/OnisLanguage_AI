@@ -1,0 +1,92 @@
+{
+  "kanji": "揚",
+  "meta": {
+    "weight": 1133,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "あ.げる",
+      "-あ.げ",
+      "あ.がる"
+    ],
+    "am_han": "DƯƠNG"
+  },
+  "meaning": {
+    "vi": "nâng cao, nâng, khen ngợi, extol, chiên trong mỡ sâu",
+    "en": "raise, elevate, hoist, praise, extol, fry in deep fat"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/揚.svg"
+  },
+  "frequency": 1316,
+  "examples": [
+    "揚げ",
+    "高揚",
+    "引き揚げ",
+    "掲揚",
+    "揚げ物"
+  ],
+  "explanation": {
+    "id": "7854",
+    "text": "揚 (đọc là \"yō\" hoặc \"age\") có nghĩa là \"nâng lên\", \"tăng cường\" để chỉ các hành động liên quan đến việc nâng cao, tăng tốc hoặc biểu thị sự hưng phấn.\n\nVí dụ:\n- 揚げる (ageru): Nâng lên, chiên "
+  },
+  "comments": [
+    {
+      "id": "153989",
+      "lang": "vi",
+      "content_html": "<p>Hãy Vỗ TAY tuyên DƯƠNG những người có MÓN CHIÊN ngon nhất NGÀY hôm nay!!!<br>**Trong lĩnh vực nấu ăn, chữ DƯƠNG này có nghĩa là CHIÊN 揚げる(あげる)</p>",
+      "content_text": "Hãy Vỗ TAY tuyên DƯƠNG những người có MÓN CHIÊN ngon nhất NGÀY hôm nay!!!\n**Trong lĩnh vực nấu ăn, chữ DƯƠNG này có nghĩa là CHIÊN 揚げる(あげる)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153990",
+      "lang": "vi",
+      "content_html": "<p>Dùng Tay tuyên dương</p>",
+      "content_text": "Dùng Tay tuyên dương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153991",
+      "lang": "vi",
+      "content_html": "<p>dùng TAY hướng lên ÁNH DƯƠNG  --  để TUYÊN DƯƠNG</p>",
+      "content_text": "dùng TAY hướng lên ÁNH DƯƠNG  --  để TUYÊN DƯƠNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "kanji": "伶",
+  "meta": {
+    "weight": 162,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ",
+      "リョウ"
+    ],
+    "kun": [
+      "わざおぎ"
+    ],
+    "am_han": "LINH"
+  },
+  "meaning": {
+    "vi": "diễn viên nam",
+    "en": "actor"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/伶.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8206",
+    "text": "伶 (đọc là \"rei\") có nghĩa là \"nghệ sĩ\", thường chỉ những người biểu diễn, đặc biệt trong lĩnh vực ca hát hoặc múa. \n\nVí dụ:\n- 伶人 (reijin): Nghệ sĩ biểu diễn.\n- 伶俐 (reiri): Khéo léo, nhanh nh"
+  },
+  "comments": [
+    {
+      "id": "218845",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI nhận LỆNH phải LINH động</p>",
+      "content_text": "NGƯỜI nhận LỆNH phải LINH động",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218846",
+      "lang": "vi",
+      "content_html": "<p>Con người bây giờ rất LINH li - lanh lẹ</p>",
+      "content_text": "Con người bây giờ rất LINH li - lanh lẹ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

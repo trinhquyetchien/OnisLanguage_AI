@@ -1,0 +1,35 @@
+{
+  "kanji": "銚",
+  "meta": {
+    "weight": 2760,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ",
+      "ヨウ"
+    ],
+    "kun": [
+      "なべ"
+    ],
+    "am_han": "DIÊU, ĐIỆU, ĐIỀU"
+  },
+  "meaning": {
+    "vi": "chai rượu sake",
+    "en": "sake bottle"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/銚.svg"
+  },
+  "frequency": 2102,
+  "examples": [
+    "銚子"
+  ],
+  "explanation": {
+    "id": "5404",
+    "text": "銚 (đọc là \"chou\") có nghĩa là \"bình rượu\", chỉ một loại bình chuyên dụng để đựng và rót rượu, thường dùng trong các nghi lễ hoặc bữa tiệc.\n\nVí dụ:\n- 銚子 (choushi): Bình rượu.\n- 銚子屋 (choushiya"
+  },
+  "comments": []
+}

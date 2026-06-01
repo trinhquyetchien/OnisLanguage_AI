@@ -1,0 +1,87 @@
+{
+  "kanji": "康",
+  "meta": {
+    "weight": 874,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [],
+    "am_han": "KHANG"
+  },
+  "meaning": {
+    "vi": "bình an",
+    "en": "ease, peace"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/康.svg"
+  },
+  "frequency": 760,
+  "examples": [
+    "健康",
+    "不健康",
+    "健康上",
+    "康平"
+  ],
+  "explanation": {
+    "id": "2441",
+    "text": "康 (đọc là \"kō\" hoặc \"yasu\") có nghĩa là \"khỏe mạnh\", \"an khang\" để chỉ tình trạng sức khỏe hoặc sự thịnh vượng.\n\nVí dụ:\n- 健康 (kenkō): Sức khỏe.\n- 安康 (ankō): An khang, bình an.\n- 康復 (kōfuku):"
+  },
+  "comments": [
+    {
+      "id": "153350",
+      "lang": "vi",
+      "content_html": "<p>NHÀ KHANG trang thì ĐÃI khách cũng phải đàng hoàng</p>",
+      "content_text": "NHÀ KHANG trang thì ĐÃI khách cũng phải đàng hoàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153351",
+      "lang": "vi",
+      "content_html": "<p>Mới xây (kịp) cái (mái) nhà nhìn thật an khang!</p>",
+      "content_text": "Mới xây (kịp) cái (mái) nhà nhìn thật an khang!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153352",
+      "lang": "vi",
+      "content_html": "<p>Vụ KIỆN có nhiều NHÂN chứng chứng KIẾN KHANG dương gia NGHIỄM LỆ</p>",
+      "content_text": "Vụ KIỆN có nhiều NHÂN chứng chứng KIẾN KHANG dương gia NGHIỄM LỆ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

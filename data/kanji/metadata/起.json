@@ -1,0 +1,111 @@
+{
+  "kanji": "起",
+  "meta": {
+    "weight": 2585,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "お.きる",
+      "お.こる",
+      "お.こす",
+      "おこ.す",
+      "た.つ"
+    ],
+    "am_han": "KHỞI"
+  },
+  "meaning": {
+    "vi": "khởi động",
+    "en": "rouse, wake up, get up"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/起.svg"
+  },
+  "frequency": 374,
+  "examples": [
+    "起こる",
+    "起こし",
+    "起業",
+    "起きる",
+    "起こり"
+  ],
+  "explanation": {
+    "id": "1376",
+    "text": "起 (đọc là \"ki\" hoặc \"o-ki\") có nghĩa là \"khởi đầu\", \"bắt đầu\" để chỉ các hành động liên quan đến việc bắt đầu một cái gì đó hoặc đứng dậy.  \nVí dụ:  \n- 起きる (okiru): Đứng dậy, thức dậy.  \n- 起"
+  },
+  "comments": [
+    {
+      "id": "645",
+      "lang": "vi",
+      "content_html": "<p>Tôi sẽ chạy (走) bởi vì tôi <strong>thức dậy</strong> muộn.</p>",
+      "content_text": "Tôi sẽ chạy (走) bởi vì tôi\nthức dậy\nmuộn.",
+      "image_url": "https://jpdictionary.com/upload/images/62982565eb6b5.jpg",
+      "image_path": "assets/images/起_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158485",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>起きる (おきる): thức dậy<br>起こす (おこす): đánh thức<br>早起き (はやおき): việc dậy sớm</p>",
+      "content_text": "JLPT N4\n起きる (おきる): thức dậy\n起こす (おこす): đánh thức\n早起き (はやおき): việc dậy sớm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "157156",
+      "lang": "vi",
+      "content_html": "<p>Thức Dậy chạy đi học khoá Khởi nghiệp 2 tháng</p>",
+      "content_text": "Thức Dậy chạy đi học khoá Khởi nghiệp 2 tháng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221801",
+      "lang": "vi",
+      "content_html": "<p><strong>起</strong> gồm <strong>Tẩu </strong>là Di chuyển, <strong>Kỷ </strong>là tự thân, sự di chuyển từ bản thân thì là Khởi (vực dậy, vùng dậy, thức dậy, bắt đầu) &nbsp;</p>",
+      "content_text": "起\ngồm\nTẩu\nlà Di chuyển,\nKỷ\nlà tự thân, sự di chuyển từ bản thân thì là Khởi (vực dậy, vùng dậy, thức dậy, bắt đầu)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

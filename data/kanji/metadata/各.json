@@ -1,0 +1,90 @@
+{
+  "kanji": "各",
+  "meta": {
+    "weight": 447,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク"
+    ],
+    "kun": [
+      "おのおの"
+    ],
+    "am_han": "CÁC"
+  },
+  "meaning": {
+    "vi": "các, mỗi",
+    "en": "each, every, either"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/各.svg"
+  },
+  "frequency": 243,
+  "examples": [
+    "各",
+    "各種",
+    "各国",
+    "各地",
+    "各社"
+  ],
+  "explanation": {
+    "id": "888",
+    "text": "各 (đọc là \"kaku\" hoặc \"o-gai\") có nghĩa là \"mỗi\", \"từng\" để chỉ sự phân chia, từng phần hoặc từng cá thể trong một tập hợp.\n\nVí dụ:\n- 各自 (kakujin): Mỗi người, từng cá nhân.\n- 各国 (kakkoku): C"
+  },
+  "comments": [
+    {
+      "id": "152307",
+      "lang": "vi",
+      "content_html": "<p>CÁC vị Mồm to Lại đến Sau</p>",
+      "content_text": "CÁC vị Mồm to Lại đến Sau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152308",
+      "lang": "vi",
+      "content_html": "<p>TRUY tìm CÁC vị KHẨU nghiệp</p>",
+      "content_text": "TRUY tìm CÁC vị KHẨU nghiệp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152309",
+      "lang": "vi",
+      "content_html": "<p>CÁC vị đến Sau mà còn to Mồm</p>",
+      "content_text": "CÁC vị đến Sau mà còn to Mồm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

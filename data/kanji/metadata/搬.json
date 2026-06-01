@@ -1,0 +1,88 @@
+{
+  "kanji": "搬",
+  "meta": {
+    "weight": 1140,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン"
+    ],
+    "kun": [],
+    "am_han": "BÀN, BAN"
+  },
+  "meaning": {
+    "vi": "băng tải, mang, vận chuyển",
+    "en": "conveyor, carry, transport"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/搬.svg"
+  },
+  "frequency": 1664,
+  "examples": [
+    "運搬",
+    "搬送",
+    "搬入",
+    "搬出",
+    "伝搬"
+  ],
+  "explanation": {
+    "id": "6453",
+    "text": "搬 (đọc là \"han\") có nghĩa là \"chuyển, di chuyển\" để chỉ các hành động liên quan đến việc dọn dẹp, chuyển đồ vật từ nơi này sang nơi khác.\n\nVí dụ:\n- 搬入 (hannyuu): Chuyển vào, nhập kho.\n- 搬送 ("
+  },
+  "comments": [
+    {
+      "id": "154011",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay ném đồ lên thuyền để vận chuyển</p>",
+      "content_text": "Dùng tay ném đồ lên thuyền để vận chuyển",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154012",
+      "lang": "vi",
+      "content_html": "<p>BÀN TAY này từng xử lý hết cả THUYỀN GIẶC</p>",
+      "content_text": "BÀN TAY này từng xử lý hết cả THUYỀN GIẶC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154013",
+      "lang": "vi",
+      "content_html": "<p>Tự TAY BÀN giao THUYỀN cho kẻ THÙ</p>",
+      "content_text": "Tự TAY BÀN giao THUYỀN cho kẻ THÙ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

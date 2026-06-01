@@ -1,0 +1,84 @@
+{
+  "kanji": "瞭",
+  "meta": {
+    "weight": 1855,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [
+      "あきらか"
+    ],
+    "am_han": "LIỆU"
+  },
+  "meaning": {
+    "vi": "thông thoáng",
+    "en": "clear"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/瞭.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8123",
+    "text": "瞭 (đọc là \"ryou\") có nghĩa là \"hiểu biết\", \"sáng tỏ\" để chỉ sự rõ ràng, dễ hiểu hoặc nhận thức.  \nVí dụ:  \n- 瞭解 (ryoukai): Hiểu biết, thấu hiểu.  \n- 瞭然 (ryouzen): Rõ ràng, minh bạch.  \n- 瞭察 "
+  },
+  "comments": [
+    {
+      "id": "220204",
+      "lang": "vi",
+      "content_html": "<p>Đưa Mắt xem LIỆU Tivi Nhật có To Rõ Ràng không</p>",
+      "content_text": "Đưa Mắt xem LIỆU Tivi Nhật có To Rõ Ràng không",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220205",
+      "lang": "vi",
+      "content_html": "<p>trị liệu để con mắt nhìn thấy rõ ràng</p>",
+      "content_text": "trị liệu để con mắt nhìn thấy rõ ràng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220206",
+      "lang": "vi",
+      "content_html": "<p>Mắt dựng ngược thấy rõ ràng mặt trời lớn bé</p>",
+      "content_text": "Mắt dựng ngược thấy rõ ràng mặt trời lớn bé",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

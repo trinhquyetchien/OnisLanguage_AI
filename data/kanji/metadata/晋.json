@@ -1,0 +1,52 @@
+{
+  "kanji": "晋",
+  "meta": {
+    "weight": 1235,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "すす.む"
+    ],
+    "am_han": "TẤN"
+  },
+  "meaning": {
+    "vi": "tiến bộ",
+    "en": "advance"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/晋.svg"
+  },
+  "frequency": 1655,
+  "examples": [
+    "晋"
+  ],
+  "explanation": {
+    "id": "4082",
+    "text": "晋 (đọc là \"shin\") có nghĩa là \"thăng tiến\", \"tiến bộ\" để chỉ sự phát triển, nâng cao trong xã hội hoặc cá nhân.  \nVí dụ:  \n- 晋升 (shinsei): Thăng tiến, lên chức.  \n- 晋歴 (shinreki): Tiến trình"
+  },
+  "comments": [
+    {
+      "id": "154242",
+      "lang": "vi",
+      "content_html": "<p>Xep hang ca ngay troi (普）cuoi cung 2 nguoi phia tren cung xong, minh phai tan (晋) toi thoi</p>",
+      "content_text": "Xep hang ca ngay troi (普）cuoi cung 2 nguoi phia tren cung xong, minh phai tan (晋) toi thoi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

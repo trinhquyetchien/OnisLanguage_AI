@@ -1,0 +1,58 @@
+{
+  "kanji": "乃",
+  "meta": {
+    "weight": 94,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ナイ",
+      "ダイ",
+      "ノ",
+      "アイ"
+    ],
+    "kun": [
+      "の",
+      "すなわ.ち",
+      "なんじ"
+    ],
+    "am_han": "NÃI, ÁI"
+  },
+  "meaning": {
+    "vi": "từ, hạt sở hữu, từ đó, theo đó",
+    "en": "from, possessive particle, whereupon, accordingly"
+  },
+  "stroke": {
+    "count": 2,
+    "svg": "assets/svg/乃.svg"
+  },
+  "frequency": 1978,
+  "examples": [
+    "乃",
+    "乃至"
+  ],
+  "explanation": {
+    "id": "6177",
+    "text": "乃 (đọc là \"nai\") có nghĩa là \"là\", thường dùng để chỉ sự xác nhận hoặc kết nối trong câu. \n\nVí dụ:\n- 乃至 (naishi): Đến, cho đến.\n- 何乃 (nanai): Cái gì đó, cái nào.\n- 乃木坂 (Nogi-zaka): Tên một đ"
+  },
+  "comments": [
+    {
+      "id": "151442",
+      "lang": "vi",
+      "content_html": "<p>Nãi là tiếng nối sau cho mười ba người.</p>",
+      "content_text": "Nãi là tiếng nối sau cho mười ba người.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

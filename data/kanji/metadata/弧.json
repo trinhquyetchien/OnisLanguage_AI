@@ -1,0 +1,85 @@
+{
+  "kanji": "弧",
+  "meta": {
+    "weight": 902,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [],
+    "am_han": "HỒ, O"
+  },
+  "meaning": {
+    "vi": "cung, vòm",
+    "en": "arc, arch, bow"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/弧.svg"
+  },
+  "frequency": 2371,
+  "examples": [
+    "括弧",
+    "弧"
+  ],
+  "explanation": {
+    "id": "2272",
+    "text": "弧 (đọc là \"ko\") có nghĩa là \"đường cong\", \"hình cung\" để chỉ các hình dạng hoặc khái niệm liên quan đến đường cong.\n\nVí dụ:\n- 弧を描く (ko o kaku): Vẽ một đường cong.\n- 弧状 (kojō): Hình dạng cong"
+  },
+  "comments": [
+    {
+      "id": "153407",
+      "lang": "vi",
+      "content_html": "<p>bắn CUNG QUA HỒ</p>",
+      "content_text": "bắn CUNG QUA HỒ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153408",
+      "lang": "vi",
+      "content_html": "<p>cái hồ làm thành vòng cung</p>",
+      "content_text": "cái hồ làm thành vòng cung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153409",
+      "lang": "vi",
+      "content_html": "<p>Cây Cung giống với trái khổ Qua ở chỗ - là nó đều có hình vòng Cung</p>",
+      "content_text": "Cây Cung giống với trái khổ Qua ở chỗ - là nó đều có hình vòng Cung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

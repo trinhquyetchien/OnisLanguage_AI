@@ -1,0 +1,88 @@
+{
+  "kanji": "特",
+  "meta": {
+    "weight": 1700,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トク"
+    ],
+    "kun": [],
+    "am_han": "ĐẶC"
+  },
+  "meaning": {
+    "vi": "đặc biệt",
+    "en": "special"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/特.svg"
+  },
+  "frequency": 234,
+  "examples": [
+    "特に",
+    "特別",
+    "特定",
+    "特徴",
+    "特集"
+  ],
+  "explanation": {
+    "id": "5955",
+    "text": "特 (đọc là \"toku\") có nghĩa là \"đặc biệt\", \"riêng biệt\" để chỉ những điều nổi bật hoặc khác biệt so với cái thông thường.\n\nVí dụ:\n- 特別 (tokubetsu): Đặc biệt.\n- 特徴 (tokuchō): Đặc điểm, nét đặc"
+  },
+  "comments": [
+    {
+      "id": "36932",
+      "lang": "vi",
+      "content_html": "<p>Bò (牛) là một con vật <strong>đặc biệt </strong>ở đền thờ (寺) của đạo Hindu.</p>",
+      "content_text": "Bò (牛) là một con vật\nđặc biệt\nở đền thờ (寺) của đạo Hindu.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc44a302354.jpg",
+      "image_path": "assets/images/特_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191113",
+      "lang": "vi",
+      "content_html": "<p>bò (牛) là con vật <strong>đặc biệt</strong> (特別) ở chùa (寺)</p>",
+      "content_text": "bò (牛) là con vật\nđặc biệt\n(特別) ở chùa (寺)",
+      "image_url": "https://jpdictionary.com/upload/images/648ac2ce2a519.jpg",
+      "image_path": "assets/images/特_2.jpg",
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158381",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>特に (とくに): đặc biệt</p><p>特別 (とくべつ): đặc biệt<br>特急 (とっきゅう): tàu tốc hành</p>",
+      "content_text": "JLPT N4\n特に (とくに): đặc biệt\n特別 (とくべつ): đặc biệt\n特急 (とっきゅう): tàu tốc hành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

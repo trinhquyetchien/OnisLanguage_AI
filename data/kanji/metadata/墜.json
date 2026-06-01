@@ -1,0 +1,89 @@
+{
+  "kanji": "墜",
+  "meta": {
+    "weight": 599,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ツイ"
+    ],
+    "kun": [
+      "お.ちる",
+      "お.つ"
+    ],
+    "am_han": "TRỤY"
+  },
+  "meaning": {
+    "vi": "sụp đổ, rơi (xuống)",
+    "en": "crash, fall (down)"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/墜.svg"
+  },
+  "frequency": 1466,
+  "examples": [
+    "墜落",
+    "失墜",
+    "撃墜"
+  ],
+  "explanation": {
+    "id": "5444",
+    "text": "墜 (đọc là \"tsui\") có nghĩa là \"rơi xuống\", \"ngã\" để chỉ các hành động liên quan đến việc rơi hoặc sụp đổ.  \nVí dụ:  \n- 墜落 (tsuiraku): Rơi xuống, tai nạn máy bay.  \n- 墜亡 (zuibou): Thiệt mạng "
+  },
+  "comments": [
+    {
+      "id": "152669",
+      "lang": "vi",
+      "content_html": "<p>Đội quân bị bắn rơi xuống đất</p>",
+      "content_text": "Đội quân bị bắn rơi xuống đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152670",
+      "lang": "vi",
+      "content_html": "<p>Bộ đội tìm đến nhà Thổ để trụy lạc</p>",
+      "content_text": "Bộ đội tìm đến nhà Thổ để trụy lạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152671",
+      "lang": "vi",
+      "content_html": "<p>Một con lợn có 2soi râu rơi từ trên tường xuống đất</p>",
+      "content_text": "Một con lợn có 2soi râu rơi từ trên tường xuống đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

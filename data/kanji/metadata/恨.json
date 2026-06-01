@@ -1,0 +1,90 @@
+{
+  "kanji": "恨",
+  "meta": {
+    "weight": 966,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン"
+    ],
+    "kun": [
+      "うら.む",
+      "うら.めしい"
+    ],
+    "am_han": "HẬN"
+  },
+  "meaning": {
+    "vi": "hối hận, mang mối hận thù, oán hận, ác độc, hận thù",
+    "en": "regret, bear a grudge, resentment, malice, hatred"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/恨.svg"
+  },
+  "frequency": 1877,
+  "examples": [
+    "恨み",
+    "痛恨",
+    "恨む",
+    "逆恨み"
+  ],
+  "explanation": {
+    "id": "2692",
+    "text": "恨 (đọc là \"ken\") có nghĩa là \"hận thù\", \"đối kháng\" để chỉ cảm giác oán hận hoặc sự không tha thứ đối với ai đó hoặc điều gì đó.\n\nVí dụ:\n- 恨み (urami): Oan hận, sự thù hằn.\n- 恨む (uramu): Ghét"
+  },
+  "comments": [
+    {
+      "id": "153578",
+      "lang": "vi",
+      "content_html": "<p>Trong tim 心 còn cân cấn 艮 mối hận 恨み</p>",
+      "content_text": "Trong tim 心 còn cân cấn 艮 mối hận 恨み",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153579",
+      "lang": "vi",
+      "content_html": "<p>tâm thấy ân Hận vì k làm việc Tốt( lương thiếu nét)</p>",
+      "content_text": "tâm thấy ân Hận vì k làm việc Tốt( lương thiếu nét)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153580",
+      "lang": "vi",
+      "content_html": "<p>HẬN恨 là trong TIM忄 còn CẤN艮 nỗi đau vì bị người khác trở mặt.</p>",
+      "content_text": "HẬN恨 là trong TIM忄 còn CẤN艮 nỗi đau vì bị người khác trở mặt.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

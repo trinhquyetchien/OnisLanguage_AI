@@ -1,0 +1,110 @@
+{
+  "kanji": "良",
+  "meta": {
+    "weight": 2246,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [
+      "よ.い",
+      "-よ.い",
+      "い.い",
+      "-い.い"
+    ],
+    "am_han": "LƯƠNG"
+  },
+  "meaning": {
+    "vi": "tốt, lương tâm",
+    "en": "good, pleasing, skilled"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/良.svg"
+  },
+  "frequency": 501,
+  "examples": [
+    "良い",
+    "良く",
+    "良",
+    "不良",
+    "改良"
+  ],
+  "explanation": {
+    "id": "8132",
+    "text": "良 (đọc là \"ryō\" hoặc \"yoshi\") có nghĩa là \"tốt\", \"khỏe\", hoặc \"đúng\". Nó chỉ các trạng thái tích cực hoặc tốt đẹp.\n\nVí dụ:\n- 良い (yoi): Tốt, đẹp.\n- 良心 (ryōshin): Lương tâm, đạo đức.\n- 良薬 (ryō"
+  },
+  "comments": [
+    {
+      "id": "680",
+      "lang": "vi",
+      "content_html": "<p>Bất kỳ ai cũng có tinh thần <strong>tốt </strong>khi no bụng.</p>",
+      "content_text": "Bất kỳ ai cũng có tinh thần\ntốt\nkhi no bụng.",
+      "image_url": "https://jpdictionary.com/upload/images/6298359f89b33.jpg",
+      "image_path": "assets/images/良_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156448",
+      "lang": "vi",
+      "content_html": "<p>Ăn (食 THỰC) uống đầy đủ thì rất là Tốt (良 LƯƠNG).<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Ăn (食 THỰC) uống đầy đủ thì rất là Tốt (良 LƯƠNG).\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156449",
+      "lang": "vi",
+      "content_html": "<p>Lương mà đội nón là thành thực</p>",
+      "content_text": "Lương mà đội nón là thành thực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156450",
+      "lang": "vi",
+      "content_html": "<p>bốc được thẻ cấn là người lương thiện</p>",
+      "content_text": "bốc được thẻ cấn là người lương thiện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

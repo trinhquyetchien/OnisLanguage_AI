@@ -1,0 +1,107 @@
+{
+  "kanji": "穴",
+  "meta": {
+    "weight": 1956,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケツ"
+    ],
+    "kun": [
+      "あな"
+    ],
+    "am_han": "HUYỆT"
+  },
+  "meaning": {
+    "vi": "lỗ, khẩu độ, khe, hang",
+    "en": "hole, aperture, slit, cave, den"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/穴.svg"
+  },
+  "frequency": 1366,
+  "examples": [
+    "穴",
+    "落とし穴",
+    "穴埋め",
+    "毛穴",
+    "穴場"
+  ],
+  "explanation": {
+    "id": "2077",
+    "text": "穴 (đọc là \"ana\") có nghĩa là \"lỗ\", \"hốc\" để chỉ các khoảng trống hay cái gì đó bị khoét ra.\n\nVí dụ:\n- 穴場 (anaba): Nơi ẩn giấu, chỗ tốt không ai biết.\n- 穴を掘る (ana o horu): Đào lỗ.\n- 鼻穴 (biana"
+  },
+  "comments": [
+    {
+      "id": "155803",
+      "lang": "vi",
+      "content_html": "<p>Dưới mái nhà có 8 cái HUYỆT</p>",
+      "content_text": "Dưới mái nhà có 8 cái HUYỆT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155804",
+      "lang": "vi",
+      "content_html": "<p>cố lấy cái nắp vung đậy cái lỗ lại</p>",
+      "content_text": "cố lấy cái nắp vung đậy cái lỗ lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155805",
+      "lang": "vi",
+      "content_html": "<p>mọi người phân biệt 穴ー六 nha!<br>Huyệt: ở trên là bộ “miên” (trong nhà có cái lỗ huyệt to bằng cái bát 八)<br>Lục: ở trên là bộ “đầu”</p>",
+      "content_text": "mọi người phân biệt 穴ー六 nha!\nHuyệt: ở trên là bộ “miên” (trong nhà có cái lỗ huyệt to bằng cái bát 八)\nLục: ở trên là bộ “đầu”",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222310",
+      "lang": "vi",
+      "content_html": "<p>穴 = あな = Anal = Lỗ/Hốc</p>",
+      "content_text": "穴 = あな = Anal = Lỗ/Hốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

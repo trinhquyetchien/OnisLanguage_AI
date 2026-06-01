@@ -1,0 +1,90 @@
+{
+  "kanji": "枢",
+  "meta": {
+    "weight": 1313,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スウ",
+      "シュ"
+    ],
+    "kun": [
+      "とぼそ",
+      "からくり"
+    ],
+    "am_han": "XU, KHU"
+  },
+  "meaning": {
+    "vi": "bản lề, trục, cửa, tâm của mọi thứ",
+    "en": "hinge, pivot, door, center of things"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/枢.svg"
+  },
+  "frequency": 1791,
+  "examples": [
+    "中枢",
+    "枢機卿",
+    "枢軸"
+  ],
+  "explanation": {
+    "id": "4255",
+    "text": "枢 (đọc là \"su\") có nghĩa là \"trung tâm\", \"trục\" để chỉ những điểm chính hoặc phần quan trọng trong một hệ thống hay tổ chức.\n\nVí dụ:\n- 枢機卿 (sūki-kyō): Hồng y, người giữ vị trí trung tâm tron"
+  },
+  "comments": [
+    {
+      "id": "154438",
+      "lang": "vi",
+      "content_html": "<p>Cây ở khu vực không phải trung tâm thì ko đáng 1 Xu</p>",
+      "content_text": "Cây ở khu vực không phải trung tâm thì ko đáng 1 Xu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154439",
+      "lang": "vi",
+      "content_html": "<p>Cái cây ở khu này là trung tâm đấy</p>",
+      "content_text": "Cái cây ở khu này là trung tâm đấy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154440",
+      "lang": "vi",
+      "content_html": "<p>XU(枢) xu là CÂY(木) mọc ở KHU(区) trung tâm(枢) tam đảo</p>",
+      "content_text": "XU(枢) xu là CÂY(木) mọc ở KHU(区) trung tâm(枢) tam đảo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

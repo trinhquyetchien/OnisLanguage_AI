@@ -1,0 +1,90 @@
+{
+  "kanji": "告",
+  "meta": {
+    "weight": 471,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コク"
+    ],
+    "kun": [
+      "つ.げる"
+    ],
+    "am_han": "CÁO"
+  },
+  "meaning": {
+    "vi": "báo cáo",
+    "en": "revelation, tell, inform, announce"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/告.svg"
+  },
+  "frequency": 188,
+  "examples": [
+    "報告",
+    "広告",
+    "被告",
+    "原告",
+    "警告"
+  ],
+  "explanation": {
+    "id": "2634",
+    "text": "告 (đọc là \"koku\") có nghĩa là \"thông báo\", \"cảnh cáo\" để chỉ các hành động liên quan đến việc thông tin, báo cáo hoặc cảnh báo về một điều gì đó.\n\nVí dụ:\n- 告白 (kokuhaku): Thổ lộ tình cảm, bà"
+  },
+  "comments": [
+    {
+      "id": "152367",
+      "lang": "vi",
+      "content_html": "<p>báo cáo ! bò mất chân rồi..</p>",
+      "content_text": "báo cáo ! bò mất chân rồi..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152368",
+      "lang": "vi",
+      "content_html": "<p>con Trâu (牛 ) báo cáo bằng mồm (口)</p>",
+      "content_text": "con Trâu (牛 ) báo cáo bằng mồm (口)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152369",
+      "lang": "vi",
+      "content_html": "<p>MIệng quảng Cáo sữa Bò</p>",
+      "content_text": "MIệng quảng Cáo sữa Bò",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

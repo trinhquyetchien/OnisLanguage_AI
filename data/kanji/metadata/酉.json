@@ -1,0 +1,86 @@
+{
+  "kanji": "酉",
+  "meta": {
+    "weight": 2710,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ"
+    ],
+    "kun": [
+      "とり"
+    ],
+    "am_han": "DẬU"
+  },
+  "meaning": {
+    "vi": "phía tây, con chim, dấu hiệu của loài chim, 5-7 giờ chiều, dấu hiệu thứ mười của hoàng đạo Trung Quốc, gốc rượu sake (số 164)",
+    "en": "west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical (no. 164)"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/酉.svg"
+  },
+  "frequency": 2468,
+  "examples": [
+    "酉"
+  ],
+  "explanation": {
+    "id": "6000",
+    "text": "酉 (đọc là \"yuu\" hoặc \"tori\") có nghĩa là \"con gà\" hoặc liên quan đến giờ Dậu trong hệ thống 12 giờ của Trung Quốc, thường tượng trưng cho sự hoàn thành và thu hoạch.\n\nVí dụ:\n- 酉時 (yuuji): Gi"
+  },
+  "comments": [
+    {
+      "id": "157464",
+      "lang": "vi",
+      "content_html": "<p>Vẫn thích NHẤT (一) là gà(DẬU) KFC có biểu tượng ông già phương TÂY(西).</p>",
+      "content_text": "Vẫn thích NHẤT (一) là gà(DẬU) KFC có biểu tượng ông già phương TÂY(西).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157466",
+      "lang": "vi",
+      "content_html": "<p>uống rượu vào là hậu đậu như chị DẬU</p>",
+      "content_text": "uống rượu vào là hậu đậu như chị DẬU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157465",
+      "lang": "vi",
+      "content_html": "<p>phương TÂY ngon NHẤT là  --»  GÀ TÂY TURKEY (DẬU)</p>",
+      "content_text": "phương TÂY ngon NHẤT là  --»  GÀ TÂY TURKEY (DẬU)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

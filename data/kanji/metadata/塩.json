@@ -1,0 +1,90 @@
+{
+  "kanji": "塩",
+  "meta": {
+    "weight": 592,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "しお"
+    ],
+    "am_han": "DIÊM"
+  },
+  "meaning": {
+    "vi": "muối",
+    "en": "salt"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/塩.svg"
+  },
+  "frequency": 1148,
+  "examples": [
+    "塩",
+    "塩素",
+    "塩分",
+    "塩味",
+    "塩漬け"
+  ],
+  "explanation": {
+    "id": "496",
+    "text": "塩 (đọc là \"en\" hoặc \"shio\") có nghĩa là \"muối,\" thường chỉ về gia vị hoặc chất bảo quản thực phẩm.  \nVí dụ:  \n- 塩辛 (shiozuke): Dưa muối, thực phẩm được ướp muối.  \n- 食塩 (shokuen): Muối ăn, m"
+  },
+  "comments": [
+    {
+      "id": "37008",
+      "lang": "vi",
+      "content_html": "<p>Thức ăn trên đĩa (皿) bị <strong>mặn</strong>.</p>",
+      "content_text": "Thức ăn trên đĩa (皿) bị\nmặn\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4f464dfe3.jpg",
+      "image_path": "assets/images/塩_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190951",
+      "lang": "vi",
+      "content_html": "<p>cho <strong>muối</strong> vào nồi</p>",
+      "content_text": "cho\nmuối\nvào nồi",
+      "image_url": "https://jpdictionary.com/upload/images/648a75c889ee3.jpg",
+      "image_path": "assets/images/塩_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "152654",
+      "lang": "vi",
+      "content_html": "<p>Người dùng miệng liếm muối dưới đất cho vào đĩa (ấn tượng mạnh cho dễ nhớ)</p>",
+      "content_text": "Người dùng miệng liếm muối dưới đất cho vào đĩa (ấn tượng mạnh cho dễ nhớ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

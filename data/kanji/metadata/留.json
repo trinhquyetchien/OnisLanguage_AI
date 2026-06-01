@@ -1,0 +1,112 @@
+{
+  "kanji": "留",
+  "meta": {
+    "weight": 1784,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リュウ",
+      "ル"
+    ],
+    "kun": [
+      "と.める",
+      "と.まる",
+      "とど.める",
+      "とど.まる",
+      "るうぶる"
+    ],
+    "am_han": "LƯU"
+  },
+  "meaning": {
+    "vi": "lưu giữ",
+    "en": "detain, fasten, halt, stop"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/留.svg"
+  },
+  "frequency": 731,
+  "examples": [
+    "留学",
+    "留学生",
+    "留意",
+    "留め",
+    "残留"
+  ],
+  "explanation": {
+    "id": "8059",
+    "text": "留 (đọc là \"ryū\" hoặc \"ru\") có nghĩa là \"ở lại\", \"giữ\", thường chỉ việc lưu giữ hoặc ở lại một nơi nào đó.  \nVí dụ:  \n- 留学 (ryūgaku): Du học.  \n- 留守 (rusu): Vắng nhà, không có mặt.  \n- 留める (t"
+  },
+  "comments": [
+    {
+      "id": "36869",
+      "lang": "vi",
+      "content_html": "<p>Tôi <strong>ở </strong>trên ruộng (田) và gặt lúa bằng dao (刀).</p>",
+      "content_text": "Tôi\nở\ntrên ruộng (田) và gặt lúa bằng dao (刀).",
+      "image_url": "https://jpdictionary.com/upload/images/62addcb5be9cf.jpg",
+      "image_path": "assets/images/留_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155423",
+      "lang": "vi",
+      "content_html": "<p>Lưu lại ở cánh đồng để sửa cây đao bị cong</p>",
+      "content_text": "Lưu lại ở cánh đồng để sửa cây đao bị cong",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155424",
+      "lang": "vi",
+      "content_html": "<p>Cầm cưa và đao giữ đất của mình không cho đi</p>",
+      "content_text": "Cầm cưa và đao giữ đất của mình không cho đi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155425",
+      "lang": "vi",
+      "content_html": "<p>Mèo (Mão 卯 ) nằm ngoài Ruộng ( ĐIỀN 田) để Giữ (LƯU 留 ) lúa</p>",
+      "content_text": "Mèo (Mão 卯 ) nằm ngoài Ruộng ( ĐIỀN 田) để Giữ (LƯU 留 ) lúa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

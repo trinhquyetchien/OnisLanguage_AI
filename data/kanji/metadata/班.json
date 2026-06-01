@@ -1,0 +1,85 @@
+{
+  "kanji": "班",
+  "meta": {
+    "weight": 1742,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン"
+    ],
+    "kun": [],
+    "am_han": "BAN"
+  },
+  "meaning": {
+    "vi": "đội, quân đoàn, đơn vị, nhóm",
+    "en": "squad, corps, unit, group"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/班.svg"
+  },
+  "frequency": 1592,
+  "examples": [
+    "班",
+    "班長"
+  ],
+  "explanation": {
+    "id": "6475",
+    "text": "班 (đọc là \"han\") có nghĩa là \"lớp\", \"nhóm\" hoặc chỉ một đơn vị trong tổ chức. \n\nVí dụ:\n- 班長 (hanchō): Lớp trưởng, người đứng đầu lớp.\n- 学班 (gakuban): Nhóm học, lớp học.\n- 警班 (keihan): Đội cả"
+  },
+  "comments": [
+    {
+      "id": "155334",
+      "lang": "vi",
+      "content_html": "<p>Nước hai vua phải chia ra ban cầm đao hoà giải ở giữa</p>",
+      "content_text": "Nước hai vua phải chia ra ban cầm đao hoà giải ở giữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155335",
+      "lang": "vi",
+      "content_html": "<p>Nước có 2 ông vua phải dùng dao phân chia BAN nhóm</p>",
+      "content_text": "Nước có 2 ông vua phải dùng dao phân chia BAN nhóm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155336",
+      "lang": "vi",
+      "content_html": "<p>2 ô vua cùng cầm đao ngồi chung 1 ban</p>",
+      "content_text": "2 ô vua cùng cầm đao ngồi chung 1 ban",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

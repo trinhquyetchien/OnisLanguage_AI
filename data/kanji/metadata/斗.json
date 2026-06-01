@@ -1,0 +1,86 @@
+{
+  "kanji": "斗",
+  "meta": {
+    "weight": 1190,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ト",
+      "トウ"
+    ],
+    "kun": [],
+    "am_han": "ĐẨU"
+  },
+  "meaning": {
+    "vi": "Big Dipper, ten sho (vol), gáo rượu sake, dấu chấm và gốc chéo (số 68)",
+    "en": "Big Dipper, ten sho (vol), sake dipper, dots and cross radical (no. 68)"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/斗.svg"
+  },
+  "frequency": 1885,
+  "examples": [
+    "斗",
+    "北斗"
+  ],
+  "explanation": {
+    "id": "5718",
+    "text": "斗 (đọc là \"to\" hoặc \"tou\") có nghĩa là \"đo lường\", thường chỉ đến đơn vị đo thể tích. Chữ này cũng có thể liên quan đến việc chiến đấu hoặc tranh chấp.\n\nVí dụ:\n- 斗量 (tōryō): Đo lường bằng đơ"
+  },
+  "comments": [
+    {
+      "id": "154134",
+      "lang": "vi",
+      "content_html": "<p>MƯỜI loại HẠT trong CÁI ĐẤU</p>",
+      "content_text": "MƯỜI loại HẠT trong CÁI ĐẤU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154135",
+      "lang": "vi",
+      "content_html": "<p>北斗 [BẮC ĐẤU] ほくと</p>",
+      "content_text": "北斗 [BẮC ĐẤU] ほくと",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154136",
+      "lang": "vi",
+      "content_html": "<p>Đẩu cô bỏ Hai Phẩy vào Mười Cái Đấu.</p>",
+      "content_text": "Đẩu cô bỏ Hai Phẩy vào Mười Cái Đấu.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

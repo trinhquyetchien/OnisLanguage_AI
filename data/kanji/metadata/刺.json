@@ -1,0 +1,111 @@
+{
+  "kanji": "刺",
+  "meta": {
+    "weight": 325,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "さ.す",
+      "さ.さる",
+      "さ.し",
+      "さし",
+      "とげ"
+    ],
+    "am_han": "THÍCH"
+  },
+  "meaning": {
+    "vi": "đâm, thích khách",
+    "en": "thorn, pierce, stab, prick, sting, calling card"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/刺.svg"
+  },
+  "frequency": 1031,
+  "examples": [
+    "刺激",
+    "名刺",
+    "刺身",
+    "刺し",
+    "刺繍"
+  ],
+  "explanation": {
+    "id": "3048",
+    "text": "刺 (đọc là \"shi\" hoặc \"sasu\") có nghĩa là \"châm\", \"đâm\" để chỉ các hành động liên quan đến việc đâm, chích, hoặc gây tổn thương.  \nVí dụ:  \n- 刺激 (shigeki): Kích thích.  \n- 刺す (sasu): Đâm, châ"
+  },
+  "comments": [
+    {
+      "id": "152013",
+      "lang": "vi",
+      "content_html": "<p>Người thành Thị THÍCH chặt Cây</p>",
+      "content_text": "Người thành Thị THÍCH chặt Cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190747",
+      "lang": "vi",
+      "content_html": "<p>Trong đô thị hung thủ ở trên cây cầm dao chuẩn bị hành thích.</p>",
+      "content_text": "Trong đô thị hung thủ ở trên cây cầm dao chuẩn bị hành thích.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "152014",
+      "lang": "vi",
+      "content_html": "<p>THÍCH khách trong phim tầu hay đội mũ, mặc váy, chân dạng ra, cầm theo cái dao để ám sát hoặc đâm người khác.</p>",
+      "content_text": "THÍCH khách trong phim tầu hay đội mũ, mặc váy, chân dạng ra, cầm theo cái dao để ám sát hoặc đâm người khác.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152015",
+      "lang": "vi",
+      "content_html": "<p>Mày Thích Buộc thiếu Dao thì tao Đâm thủg</p>",
+      "content_text": "Mày Thích Buộc thiếu Dao thì tao Đâm thủg",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

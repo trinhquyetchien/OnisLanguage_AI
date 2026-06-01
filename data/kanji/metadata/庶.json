@@ -1,0 +1,85 @@
+{
+  "kanji": "庶",
+  "meta": {
+    "weight": 873,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショ"
+    ],
+    "kun": [],
+    "am_han": "THỨ"
+  },
+  "meaning": {
+    "vi": "thường dân, tất cả, khốn",
+    "en": "commoner, all, bastard"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/庶.svg"
+  },
+  "frequency": 1558,
+  "examples": [
+    "庶民",
+    "庶務"
+  ],
+  "explanation": {
+    "id": "3697",
+    "text": "庶 (đọc là \"sho\") có nghĩa là \"thường dân\", \"người thường\" hoặc \"đại chúng\", để chỉ những người không phải là quý tộc hay giai cấp cao.  \nVí dụ:  \n- 庶民 (shomin): Nhân dân, thường dân.  \n- 庶務 "
+  },
+  "comments": [
+    {
+      "id": "153347",
+      "lang": "vi",
+      "content_html": "<p>Nhà và Ánh Đèn là NHỮNG THỨ phải có trong cuộc sống</p>",
+      "content_text": "Nhà và Ánh Đèn là NHỮNG THỨ phải có trong cuộc sống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153348",
+      "lang": "vi",
+      "content_html": "<p>Nghiễm nhiên dưới nhà nhập tổng hợp mọi THỨ rồi châm lửa đốt</p>",
+      "content_text": "Nghiễm nhiên dưới nhà nhập tổng hợp mọi THỨ rồi châm lửa đốt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153349",
+      "lang": "vi",
+      "content_html": "<p>Dưới SƯỜN NÚI THỨ thui ĐẦU TRÂU bằng LỬA</p>",
+      "content_text": "Dưới SƯỜN NÚI THỨ thui ĐẦU TRÂU bằng LỬA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

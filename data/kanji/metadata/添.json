@@ -1,0 +1,91 @@
+{
+  "kanji": "添",
+  "meta": {
+    "weight": 1565,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テン"
+    ],
+    "kun": [
+      "そ.える",
+      "そ.う"
+    ],
+    "am_han": "THIÊM"
+  },
+  "meaning": {
+    "vi": "thôn tính, đồng hành, kết hôn, phù hợp, gặp gỡ, thỏa mãn, đính kèm, thêm vào, trang trí, bắt chước",
+    "en": "annexed, accompany, marry, suit, meet, satisfy, attach, append, garnish, imitate"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/添.svg"
+  },
+  "frequency": 1501,
+  "examples": [
+    "添付",
+    "添加",
+    "添削",
+    "添える",
+    "添乗"
+  ],
+  "explanation": {
+    "id": "5663",
+    "text": "添 (đọc là \"ten\") có nghĩa là \"thêm vào\", \"bổ sung\" để chỉ hành động thêm gì đó vào một cái gì đó đã có sẵn.\n\nVí dụ:\n- 添付 (tenpu): Đính kèm (tài liệu).\n- 添え物 (soemono): Món ăn kèm, phụ gia.\n-"
+  },
+  "comments": [
+    {
+      "id": "154950",
+      "lang": "vi",
+      "content_html": "<p>Đổ thêm dầu vô lửa, đốt cháy cả bầu trời</p>",
+      "content_text": "Đổ thêm dầu vô lửa, đốt cháy cả bầu trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154951",
+      "lang": "vi",
+      "content_html": "<p>Đổ thêm dầu vào lửa đốt cháy trời thủ thiêm</p>",
+      "content_text": "Đổ thêm dầu vào lửa đốt cháy trời thủ thiêm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154952",
+      "lang": "vi",
+      "content_html": "<p>nước trời nhỏ từng hạt nhỏ vào đóng lửa đang cháy. nhưng kẻ xấu kia cố tình đổ xăng THIÊM vào đó...</p>",
+      "content_text": "nước trời nhỏ từng hạt nhỏ vào đóng lửa đang cháy. nhưng kẻ xấu kia cố tình đổ xăng THIÊM vào đó...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

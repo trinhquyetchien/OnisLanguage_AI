@@ -1,0 +1,89 @@
+{
+  "kanji": "戴",
+  "meta": {
+    "weight": 1038,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ"
+    ],
+    "kun": [
+      "いただ.く"
+    ],
+    "am_han": "ĐÁI"
+  },
+  "meaning": {
+    "vi": "được trao vương miện, sống dưới (một người cai trị), nhận",
+    "en": "be crowned with, live under (a ruler), receive"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/戴.svg"
+  },
+  "frequency": 2332,
+  "examples": [
+    "頂戴",
+    "戴き",
+    "戴冠",
+    "戴く"
+  ],
+  "explanation": {
+    "id": "4953",
+    "text": "戴 (đọc là \"tai\") có nghĩa là \"đeo\", \"mặc\" để chỉ hành động đeo hoặc mang trên đầu, thường liên quan đến mũ hoặc trang sức.  \nVí dụ:  \n- 戴冠 (taikan): Đội vương miện.  \n- 戴帽 (daibō): Đeo mũ.  "
+  },
+  "comments": [
+    {
+      "id": "153760",
+      "lang": "vi",
+      "content_html": "<p>NHẬN ra mình đứng ĐÁI ở đống đất DỊ quá</p>",
+      "content_text": "NHẬN ra mình đứng ĐÁI ở đống đất DỊ quá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153761",
+      "lang": "vi",
+      "content_html": "<p>đi Qua (戈) nghe tin ai bị Đái đường thì k thể Nhận đc Đất (土) Cộng (共) vs Ruộng (田)</p>",
+      "content_text": "đi Qua (戈) nghe tin ai bị Đái đường thì k thể Nhận đc Đất (土) Cộng (共) vs Ruộng (田)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153762",
+      "lang": "vi",
+      "content_html": "<p>Sau chiến tranh nhận đãi ngộ có ruộng đất combo thêm 2 miếng đất</p>",
+      "content_text": "Sau chiến tranh nhận đãi ngộ có ruộng đất combo thêm 2 miếng đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

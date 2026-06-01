@@ -1,0 +1,36 @@
+{
+  "kanji": "卿",
+  "meta": {
+    "weight": 406,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ",
+      "キョウ"
+    ],
+    "kun": [
+      "きみ"
+    ],
+    "am_han": "KHANH"
+  },
+  "meaning": {
+    "vi": "bạn, lãnh chúa, bộ trưởng, bộ trưởng nhà nước",
+    "en": "you, lord, secretary, state minister"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/卿.svg"
+  },
+  "frequency": 2138,
+  "examples": [
+    "卿",
+    "枢機卿"
+  ],
+  "explanation": {
+    "id": "1642",
+    "text": "卿 (đọc là \"kyou\" hoặc \"keikyo\") có nghĩa là \"quý tộc\", \"người trong triều đình\" để chỉ những người có địa vị cao trong xã hội, thường dùng trong văn học cổ.\n\nVí dụ:\n- 卿 (kyou): Ngài, ông, bà"
+  },
+  "comments": []
+}

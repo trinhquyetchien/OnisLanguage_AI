@@ -1,0 +1,91 @@
+{
+  "kanji": "構",
+  "meta": {
+    "weight": 1408,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "かま.える",
+      "かま.う"
+    ],
+    "am_han": "CẤU"
+  },
+  "meaning": {
+    "vi": "cấu tạo, cơ cấu",
+    "en": "posture, build, pretend"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/構.svg"
+  },
+  "frequency": 316,
+  "examples": [
+    "構造",
+    "結構",
+    "構成",
+    "構築",
+    "機構"
+  ],
+  "explanation": {
+    "id": "2483",
+    "text": "構 (đọc là \"kou\") có nghĩa là \"cấu trúc\", \"cấu tạo\" để chỉ việc xây dựng hoặc tổ chức một cái gì đó.\nVí dụ:\n- 構造 (kouzou): Cấu trúc, kết cấu.\n- 構築 (kouchiku): Xây dựng, kiến thiết.\n- 組織構造 (so"
+  },
+  "comments": [
+    {
+      "id": "154592",
+      "lang": "vi",
+      "content_html": "<p>Dùng Gỗ 木 để Tái 再 CẤU tạo cái Giếng 井</p>",
+      "content_text": "Dùng Gỗ 木 để Tái 再 CẤU tạo cái Giếng 井",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154593",
+      "lang": "vi",
+      "content_html": "<p>Phòng kín được cấu thành từ gỗ của Cây</p>",
+      "content_text": "Phòng kín được cấu thành từ gỗ của Cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154594",
+      "lang": "vi",
+      "content_html": "<p>cây được tái sử dụng để cấu thành giếng</p>",
+      "content_text": "cây được tái sử dụng để cấu thành giếng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

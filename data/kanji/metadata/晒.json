@@ -1,0 +1,86 @@
+{
+  "kanji": "晒",
+  "meta": {
+    "weight": 1236,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ",
+      "シ"
+    ],
+    "kun": [
+      "さら.す",
+      "さらし"
+    ],
+    "am_han": "SÁI"
+  },
+  "meaning": {
+    "vi": "tẩy trắng, tinh luyện, phơi nhiễm, không khí",
+    "en": "bleach, refine, expose, air"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/晒.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2973",
+    "text": "晒 (đọc là \"sai\") có nghĩa là \"phơi\" hoặc \"phơi nắng\", chỉ hành động làm khô hoặc làm sạch bằng ánh sáng mặt trời.\n\nVí dụ:\n- 晒す (sasu): Phơi ra, làm khô bằng ánh nắng.\n- 日晒し (hizashi): Sự phơ"
+  },
+  "comments": [
+    {
+      "id": "219747",
+      "lang": "vi",
+      "content_html": "<p>Để bình rượu phơi ngoài trời &#62;&#60;</p>",
+      "content_text": "Để bình rượu phơi ngoài trời ><",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219748",
+      "lang": "vi",
+      "content_html": "<p>dấn thân vào nguy hiểm , phơi bày dưới ánh nắng khi mặt trời ngả về phía tây .</p>",
+      "content_text": "dấn thân vào nguy hiểm , phơi bày dưới ánh nắng khi mặt trời ngả về phía tây .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219749",
+      "lang": "vi",
+      "content_html": "<p>nàng SÁI Văn Cơ (crush Tào Tháo) thích nhất là ngắm mặt trời (日) ở phía Tây (西)</p>",
+      "content_text": "nàng SÁI Văn Cơ (crush Tào Tháo) thích nhất là ngắm mặt trời (日) ở phía Tây (西)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

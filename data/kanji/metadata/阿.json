@@ -1,0 +1,92 @@
+{
+  "kanji": "阿",
+  "meta": {
+    "weight": 2819,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ア",
+      "オ"
+    ],
+    "kun": [
+      "おもね.る",
+      "くま"
+    ],
+    "am_han": "A, Á"
+  },
+  "meaning": {
+    "vi": "Châu Phi, phẳng hơn, nâu vàng, góc, ngóc ngách, giải lao",
+    "en": "Africa, flatter, fawn upon, corner, nook, recess"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/阿.svg"
+  },
+  "frequency": 1126,
+  "examples": [
+    "阿",
+    "阿呆",
+    "阿波",
+    "阿修羅",
+    "阿弥陀"
+  ],
+  "explanation": {
+    "id": "10",
+    "text": "阿 (đọc là \"a\") có nghĩa là \"hòa nhã\", \"thân thiện\" hoặc chỉ một cách gọi, thường sử dụng trong các từ chỉ sự gần gũi, thân thiết. \n\nVí dụ:\n- 阿弥陀 (Amida): Phật A Di Đà.\n- 阿佐ヶ谷 (Asagaya): Tên "
+  },
+  "comments": [
+    {
+      "id": "157669",
+      "lang": "vi",
+      "content_html": "<p>có khả năng bị thằng BÉO hiếp dâm , tôi la lên A Á Á Á</p>",
+      "content_text": "có khả năng bị thằng BÉO hiếp dâm , tôi la lên A Á Á Á",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157670",
+      "lang": "vi",
+      "content_html": "<p>Cái từ này dùng trong trường hợp nhu là 上司に阿る     còn 1 từ nữa cũng có nghĩa tâng bốc là 諂う nhưng dùng khác ví dụ 大衆に諂う</p>",
+      "content_text": "Cái từ này dùng trong trường hợp nhu là 上司に阿る     còn 1 từ nữa cũng có nghĩa tâng bốc là 諂う nhưng dùng khác ví dụ 大衆に諂う",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157671",
+      "lang": "vi",
+      "content_html": "<p>Khả , Khá bỏ phụ âm thành ả á</p>",
+      "content_text": "Khả , Khá bỏ phụ âm thành ả á",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

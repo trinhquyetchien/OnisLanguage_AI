@@ -1,0 +1,88 @@
+{
+  "kanji": "蚊",
+  "meta": {
+    "weight": 2374,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ブン"
+    ],
+    "kun": [
+      "か"
+    ],
+    "am_han": "VĂN"
+  },
+  "meaning": {
+    "vi": "con muỗi",
+    "en": "mosquito"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/蚊.svg"
+  },
+  "frequency": 2121,
+  "examples": [
+    "蚊",
+    "蚊帳",
+    "蚊取り線香"
+  ],
+  "explanation": {
+    "id": "713",
+    "text": "蚊 (đọc là \"ka\") có nghĩa là \"muỗi\", chỉ loại côn trùng nhỏ thường gây phiền toái và có thể truyền bệnh.\nVí dụ:\n- 蚊取り線香 (katori senkō): Nhang muỗi, sản phẩm dùng để xua đuổi muỗi.\n- 蚊に刺される (k"
+  },
+  "comments": [
+    {
+      "id": "156661",
+      "lang": "vi",
+      "content_html": "<p>Côn trung biết làm văn là con muỗi</p>",
+      "content_text": "Côn trung biết làm văn là con muỗi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156662",
+      "lang": "vi",
+      "content_html": "<p>ngày xưa mấy ông học trò chỉ đều học Văn. nên khi bị côn trùng( muỗi) đốt thì đặt tên cho nó là Văn luôn. vì lúc nào ngồi học cũng có nó</p>",
+      "content_text": "ngày xưa mấy ông học trò chỉ đều học Văn. nên khi bị côn trùng( muỗi) đốt thì đặt tên cho nó là Văn luôn. vì lúc nào ngồi học cũng có nó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156663",
+      "lang": "vi",
+      "content_html": "<p>thánh trên bịa hay quá</p>",
+      "content_text": "thánh trên bịa hay quá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

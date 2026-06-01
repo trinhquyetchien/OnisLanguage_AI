@@ -1,0 +1,68 @@
+{
+  "kanji": "楕",
+  "meta": {
+    "weight": 1393,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダ",
+      "タ"
+    ],
+    "kun": [],
+    "am_han": "THỎA"
+  },
+  "meaning": {
+    "vi": "hình elip",
+    "en": "ellipse"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/楕.svg"
+  },
+  "frequency": 2476,
+  "examples": [
+    "楕円"
+  ],
+  "explanation": {
+    "id": "4908",
+    "text": "楕 (đọc là \"da\") có nghĩa là \"hình elip\" hoặc \"hình oval\", thường được dùng để chỉ hình dạng không tròn đều mà dài hơn ở một hướng.\nVí dụ:\n- 楕円 (daen): Hình elip.\n- 楕円形 (daenkei): Dạng hình e"
+  },
+  "comments": [
+    {
+      "id": "154574",
+      "lang": "vi",
+      "content_html": "<p>THỎA</p>",
+      "content_text": "THỎA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154575",
+      "lang": "vi",
+      "content_html": "<p>Phải trồng cái cây phía bên trái thì chị nguyệt mới Thoả ( đã ) lòng</p>",
+      "content_text": "Phải trồng cái cây phía bên trái thì chị nguyệt mới Thoả ( đã ) lòng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

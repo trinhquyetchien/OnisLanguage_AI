@@ -1,0 +1,90 @@
+{
+  "kanji": "屋",
+  "meta": {
+    "weight": 777,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オク"
+    ],
+    "kun": [
+      "や"
+    ],
+    "am_han": "ỐC"
+  },
+  "meaning": {
+    "vi": "căn nhà, phòng ốc",
+    "en": "roof, house, shop, dealer, seller"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/屋.svg"
+  },
+  "frequency": 616,
+  "examples": [
+    "屋",
+    "部屋",
+    "名古屋",
+    "屋根",
+    "本屋"
+  ],
+  "explanation": {
+    "id": "564",
+    "text": "屋 (đọc là \"oku\" hoặc \"ya\") có nghĩa là \"nhà\", \"căn phòng\" để chỉ các loại hình kiến trúc hoặc nơi ở.\n\nVí dụ:\n- 家屋 (kaoku): Ngôi nhà, căn nhà.\n- 屋根 (yane): Mái nhà.\n- 本屋 (honya): Cửa hàng sác"
+  },
+  "comments": [
+    {
+      "id": "190988",
+      "lang": "vi",
+      "content_html": "<p><strong>nhà </strong>sách - 本屋 (ほんや)</p>",
+      "content_text": "nhà\nsách - 本屋 (ほんや)",
+      "image_url": "https://jpdictionary.com/upload/images/648a7f23f3367.jpg",
+      "image_path": "assets/images/屋_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36964",
+      "lang": "vi",
+      "content_html": "<p>Con người cần đất (土) và <strong>nhà</strong> (屋).</p>",
+      "content_text": "Con người cần đất (土) và\nnhà\n(屋).",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4b408b821.jpg",
+      "image_path": "assets/images/屋_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153113",
+      "lang": "vi",
+      "content_html": "<p>Mấy ông có CHÍ lớn toàn THI nhau xây cao ỐC không à.</p>",
+      "content_text": "Mấy ông có CHÍ lớn toàn THI nhau xây cao ỐC không à.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

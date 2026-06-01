@@ -1,0 +1,87 @@
+{
+  "kanji": "膝",
+  "meta": {
+    "weight": 2214,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シツ"
+    ],
+    "kun": [
+      "ひざ"
+    ],
+    "am_han": "TẤT"
+  },
+  "meaning": {
+    "vi": "đầu gối, lòng",
+    "en": "knee, lap"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/膝.svg"
+  },
+  "frequency": 2320,
+  "examples": [
+    "膝",
+    "膝元"
+  ],
+  "explanation": {
+    "id": "6656",
+    "text": "膝 (đọc là \"shitsu\" hoặc \"hiza\") có nghĩa là \"gối\", chỉ phần khớp nối giữa đùi và chân.  \nVí dụ:  \n- 膝 (hiza): Gối.  \n- 膝を曲げる (hiza o mageru): Gập gối.  \n- 膝痛 (hizutsuu): Đau gối."
+  },
+  "comments": [
+    {
+      "id": "156374",
+      "lang": "vi",
+      "content_html": "<p>Người(人)đứng trên cây(木)ngắm trăng(月)thì đầu gối(膝)không bị dính nước(水</p>",
+      "content_text": "Người(人)đứng trên cây(木)ngắm trăng(月)thì đầu gối(膝)không bị dính nước(水",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156375",
+      "lang": "vi",
+      "content_html": "<p>nguyệt k mang tất leo cây nên bị nước bắn ướt hết đầu gối</p>",
+      "content_text": "nguyệt k mang tất leo cây nên bị nước bắn ướt hết đầu gối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156376",
+      "lang": "vi",
+      "content_html": "<p>月 (mặt trăng/ bộ phận cơ thể) + 桼 (nhựa cây)<br>Góc nhìn: Cái chỗ lấy nhựa cây sẽ bị sần lên -&#62; giống như đầu gối vậy</p>",
+      "content_text": "月 (mặt trăng/ bộ phận cơ thể) + 桼 (nhựa cây)\nGóc nhìn: Cái chỗ lấy nhựa cây sẽ bị sần lên -> giống như đầu gối vậy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

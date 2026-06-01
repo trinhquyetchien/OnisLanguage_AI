@@ -1,0 +1,89 @@
+{
+  "kanji": "姓",
+  "meta": {
+    "weight": 662,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "TÍNH"
+  },
+  "meaning": {
+    "vi": "họ, danh tính",
+    "en": "surname"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/姓.svg"
+  },
+  "frequency": 1628,
+  "examples": [
+    "姓",
+    "百姓",
+    "姓名",
+    "同姓",
+    "別姓"
+  ],
+  "explanation": {
+    "id": "4295",
+    "text": "姓 (đọc là \"sei\") có nghĩa là \"họ\" để chỉ tên gọi gia đình của một người. \n\nVí dụ:\n- 姓名 (seimei): Họ và tên.\n- 姓氏 (seishi): Họ, tên gọi gia đình.\n- 姓を名乗る (sei o nanoru): Xưng danh họ."
+  },
+  "comments": [
+    {
+      "id": "152824",
+      "lang": "vi",
+      "content_html": "<p>Con gái Sinh ra đã dược Tính theo Họ của cha</p>",
+      "content_text": "Con gái Sinh ra đã dược Tính theo Họ của cha",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152825",
+      "lang": "vi",
+      "content_html": "<p>姓: Tính, trong danh tính, họ và tên.<br>*Phân biệt với Tính 性 trong cá tính (個性), tính chất (性質).<br>Nhiều cách nhớ được gọi ý ở trên dễ gây nhầm lẫn.</p>",
+      "content_text": "姓: Tính, trong danh tính, họ và tên.\n*Phân biệt với Tính 性 trong cá tính (個性), tính chất (性質).\nNhiều cách nhớ được gọi ý ở trên dễ gây nhầm lẫn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152826",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ khi sinh ra đã có Họ nhưng sau đó đổi họ theo chồng !</p>",
+      "content_text": "Phụ nữ khi sinh ra đã có Họ nhưng sau đó đổi họ theo chồng !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "旅",
+  "meta": {
+    "weight": 1204,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョ"
+    ],
+    "kun": [
+      "たび"
+    ],
+    "am_han": "LỮ"
+  },
+  "meaning": {
+    "vi": "lữ hành, du lịch",
+    "en": "trip, travel"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/旅.svg"
+  },
+  "frequency": 783,
+  "examples": [
+    "旅行",
+    "旅",
+    "旅館",
+    "旅人",
+    "修学旅行"
+  ],
+  "explanation": {
+    "id": "8083",
+    "text": "旅 (đọc là \"ryo\" hoặc \"tabi\") có nghĩa là \"du lịch\", \"hành trình\" để chỉ các hoạt động liên quan đến việc đi lại, khám phá nơi khác.\n\nVí dụ:\n- 旅行 (ryokou): Du lịch, hành trình.\n- 旅人 (tabibito"
+  },
+  "comments": [
+    {
+      "id": "191040",
+      "lang": "vi",
+      "content_html": "<p><strong>du lịch</strong></p>",
+      "content_text": "du lịch",
+      "image_url": "https://jpdictionary.com/upload/images/648a911782401.jpg",
+      "image_path": "assets/images/旅_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36984",
+      "lang": "vi",
+      "content_html": "<p>Hai người đang đi <strong>du lịch</strong> theo hướng (方) dẫn viên cầm cờ.</p>",
+      "content_text": "Hai người đang đi\ndu lịch\ntheo hướng (方) dẫn viên cầm cờ.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4d0953e83.jpg",
+      "image_path": "assets/images/旅_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154163",
+      "lang": "vi",
+      "content_html": "<p>Người Lữ hành Bất Phương hướng...</p>",
+      "content_text": "Người Lữ hành Bất Phương hướng...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

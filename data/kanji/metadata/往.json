@@ -1,0 +1,93 @@
+{
+  "kanji": "往",
+  "meta": {
+    "weight": 920,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オウ"
+    ],
+    "kun": [
+      "い.く",
+      "いにしえ",
+      "さき.に",
+      "ゆ.く"
+    ],
+    "am_han": "VÃNG"
+  },
+  "meaning": {
+    "vi": "hành trình, du lịch, đuổi đi, buông bỏ, đi, trước đây",
+    "en": "journey, travel, chase away, let go, going, before, formerly"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/往.svg"
+  },
+  "frequency": 1421,
+  "examples": [
+    "往復",
+    "往々",
+    "往来",
+    "右往左往",
+    "往年"
+  ],
+  "explanation": {
+    "id": "517",
+    "text": "往 (đọc là \"ō\") có nghĩa là \"đi\", \"hướng đến\" để chỉ các hành động di chuyển hoặc hướng đi.\n\nVí dụ:\n- 往復 (ōfuku): Khứ hồi, đi và về.\n- 往生 (ōjō): Sự ra đi, sinh mệnh tiếp tục sau khi chết.\n- 往"
+  },
+  "comments": [
+    {
+      "id": "153453",
+      "lang": "vi",
+      "content_html": "<p>Người chủ bước chân trái vào trong dĩ vãng</p>",
+      "content_text": "Người chủ bước chân trái vào trong dĩ vãng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153454",
+      "lang": "vi",
+      "content_html": "<p>ĐI làm CHỦ đã là dĩ VÃNG</p>",
+      "content_text": "ĐI làm CHỦ đã là dĩ VÃNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153455",
+      "lang": "vi",
+      "content_html": "<p>chú chó Hachiko đứng đợi người chủ đã chỉ còn là dĩ Vãng</p>",
+      "content_text": "chú chó Hachiko đứng đợi người chủ đã chỉ còn là dĩ Vãng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "kanji": "麺",
+  "meta": {
+    "weight": 3022,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "メン",
+      "ベン"
+    ],
+    "kun": [
+      "むぎこ"
+    ],
+    "am_han": "MIẾN"
+  },
+  "meaning": {
+    "vi": "mì, bột mì",
+    "en": "noodles, wheat flour"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/麺.svg"
+  },
+  "frequency": 2331,
+  "examples": [
+    "麺",
+    "麺類",
+    "素麺"
+  ],
+  "explanation": {
+    "id": "7584",
+    "text": "麺 (đọc là \"men\") có nghĩa là \"mì\", dùng để chỉ các loại thực phẩm chế biến từ bột mì, thường được ăn trong các món súp hoặc chiên.\n\nVí dụ:\n- 麺類 (menrui): Các loại mì.\n- ラーメン (ramen): Mì rame"
+  },
+  "comments": [
+    {
+      "id": "158095",
+      "lang": "vi",
+      "content_html": "<p>Trên phương DIỆN ăn uống tôi đã chế ra loại MIẾN từ yến Mạch</p>",
+      "content_text": "Trên phương DIỆN ăn uống tôi đã chế ra loại MIẾN từ yến Mạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158096",
+      "lang": "vi",
+      "content_html": "<p>Người chủ đứng chéo chân thu mua lúa mạch trên phương diện để làm MIẾN , mì và bún</p>",
+      "content_text": "Người chủ đứng chéo chân thu mua lúa mạch trên phương diện để làm MIẾN , mì và bún",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158097",
+      "lang": "vi",
+      "content_html": "<p>LÚA MẠCH lật MẶT nhiều lần  --  để làm thành MÌ SỢI</p>",
+      "content_text": "LÚA MẠCH lật MẶT nhiều lần  --  để làm thành MÌ SỢI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

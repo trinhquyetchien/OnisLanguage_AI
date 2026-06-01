@@ -1,0 +1,113 @@
+{
+  "kanji": "降",
+  "meta": {
+    "weight": 2822,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ゴ"
+    ],
+    "kun": [
+      "お.りる",
+      "お.ろす",
+      "ふ.る",
+      "ふ.り",
+      "くだ.る",
+      "くだ.す"
+    ],
+    "am_han": "GIÁNG, HÀNG"
+  },
+  "meaning": {
+    "vi": "xuống, giáng trần",
+    "en": "descend, precipitate, fall, surrender"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/降.svg"
+  },
+  "frequency": 596,
+  "examples": [
+    "以降",
+    "降り",
+    "降る",
+    "降りる",
+    "下降"
+  ],
+  "explanation": {
+    "id": "2584",
+    "text": "降 (đọc là \"kō\" hoặc \"furu\") có nghĩa là \"hạ xuống\", \"giảm đi\", chỉ các hành động liên quan đến việc giảm thiểu hoặc rơi xuống.  \nVí dụ:  \n- 降雨 (kōu): Mưa, lượng mưa.  \n- 降りる (oriru): Xuống ("
+  },
+  "comments": [
+    {
+      "id": "37342",
+      "lang": "vi",
+      "content_html": "<p><strong>Xuống </strong>ở trạm xe buýt đó.</p>",
+      "content_text": "Xuống\nở trạm xe buýt đó.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe80c1cc58.jpg",
+      "image_path": "assets/images/降_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157675",
+      "lang": "vi",
+      "content_html": "<p>Đống đất bị Giáng xuống sau năm nay.</p>",
+      "content_text": "Đống đất bị Giáng xuống sau năm nay.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157676",
+      "lang": "vi",
+      "content_html": "<p>Tượng hình: Đến bến xe rồi mọi người bước xuống bậc thang ở cửa xe</p>",
+      "content_text": "Tượng hình: Đến bến xe rồi mọi người bước xuống bậc thang ở cửa xe",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157677",
+      "lang": "vi",
+      "content_html": "<p>13 giờ đuổi theo bóng giáng một người</p>",
+      "content_text": "13 giờ đuổi theo bóng giáng một người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "kanji": "頁",
+  "meta": {
+    "weight": 2896,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケツ"
+    ],
+    "kun": [
+      "ぺえじ",
+      "おおがい",
+      "かしら"
+    ],
+    "am_han": "HIỆT"
+  },
+  "meaning": {
+    "vi": "trang, lá",
+    "en": "page, leaf"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/頁.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7023",
+    "text": "頁 (đọc là \"pe\" hoặc \"yaku\") có nghĩa là \"trang\" hoặc \"mặt\" để chỉ các trang trong sách hoặc tài liệu.  \nVí dụ:  \n- 頁数 (ページすう, peiji-sū): Số trang.  \n- ページ (peiji): Trang (tiếng Anh \"page\"). "
+  },
+  "comments": [
+    {
+      "id": "220997",
+      "lang": "vi",
+      "content_html": "<p>Bộ đầu</p>",
+      "content_text": "Bộ đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220998",
+      "lang": "vi",
+      "content_html": "<p>CON SÒ (貝 - BỐI) bò trên ĐẦU(亠 - ĐẦU) TỜ GIẤY (頁 - HIỆT)</p>",
+      "content_text": "CON SÒ (貝 - BỐI) bò trên ĐẦU(亠 - ĐẦU) TỜ GIẤY (頁 - HIỆT)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220999",
+      "lang": "vi",
+      "content_html": "<p>người ta đem treo đầu con sò lên 1 sợi dây. phơi cho khô để làm giấy .</p>",
+      "content_text": "người ta đem treo đầu con sò lên 1 sợi dây. phơi cho khô để làm giấy .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221852",
+      "lang": "vi",
+      "content_html": "<p>Giáp cốt văn biểu thị hình ảnh <strong>người đang quỳ</strong> =&gt; Nhấn mạnh phần <strong>Đầu/Trán</strong><br>Còn lý do có nghĩa <strong>tờ giấy</strong> (lượng từ) là vì <strong>頁 (Hiệt - xié /yè)</strong> đọc giống <strong>葉 (Diệp - xié /yè)</strong></p>",
+      "content_text": "Giáp cốt văn biểu thị hình ảnh\nngười đang quỳ\n=> Nhấn mạnh phần\nĐầu/Trán\nCòn lý do có nghĩa\ntờ giấy\n(lượng từ) là vì\n頁 (Hiệt - xié /yè)\nđọc giống\n葉 (Diệp - xié /yè)",
+      "image_url": "https://jpdictionary.com/upload/images/6777f3fbee3ad.png",
+      "image_path": "assets/images/頁_4.png",
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "kanji": "透",
+  "meta": {
+    "weight": 2652,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "す.く",
+      "す.かす",
+      "す.ける",
+      "とう.る",
+      "とう.す"
+    ],
+    "am_han": "THẤU"
+  },
+  "meaning": {
+    "vi": "trong suốt, thấm qua, lọc, thâm nhập",
+    "en": "transparent, permeate, filter, penetrate"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/透.svg"
+  },
+  "frequency": 1035,
+  "examples": [
+    "透明",
+    "浸透",
+    "不透明",
+    "透過",
+    "透視"
+  ],
+  "explanation": {
+    "id": "5880",
+    "text": "透 (đọc là \"tō\") có nghĩa là \"trong suốt\", \"thấu đáo\" để chỉ các trạng thái hoặc sự vật có thể nhìn qua hoặc hiểu rõ một cách sâu sắc.\n\nVí dụ:\n- 透明 (tōmei): Trong suốt, vô hình.\n- 透視 (tōshi):"
+  },
+  "comments": [
+    {
+      "id": "157315",
+      "lang": "vi",
+      "content_html": "<p>người ưu Tú là có thể nhìn Thấu được con đường mình đi</p>",
+      "content_text": "người ưu Tú là có thể nhìn Thấu được con đường mình đi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157316",
+      "lang": "vi",
+      "content_html": "<p>13 cái cây chắn dọc đường nhưng vẫn xuyên thấu qua được</p>",
+      "content_text": "13 cái cây chắn dọc đường nhưng vẫn xuyên thấu qua được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157317",
+      "lang": "vi",
+      "content_html": "<p>13 cây LÚA mọc lên và THẤU qua QUẢI đường nhựa.</p>",
+      "content_text": "13 cây LÚA mọc lên và THẤU qua QUẢI đường nhựa.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

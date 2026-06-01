@@ -1,0 +1,85 @@
+{
+  "kanji": "亥",
+  "meta": {
+    "weight": 124,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガイ",
+      "カイ"
+    ],
+    "kun": [
+      "い"
+    ],
+    "am_han": "HỢI"
+  },
+  "meaning": {
+    "vi": "dấu hiệu của con heo, 9-11 giờ tối, dấu hiệu thứ mười hai của hoàng đạo Trung Quốc",
+    "en": "sign of the hog, 9-11PM, twelfth sign of the Chinese zodiac"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/亥.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "197",
+    "text": "亥 (đọc là \"hai\") có nghĩa là \"con lợn\" trong hệ thống đánh số của 12 con giáp, thường liên quan đến sự khởi đầu và tính cách hiền lành. \n\nVí dụ:\n- 亥年 (hai-nen): Năm Hợi.\n- 亥の刻 (hai no koku):"
+  },
+  "comments": [
+    {
+      "id": "218826",
+      "lang": "vi",
+      "content_html": "<p>Một cái Đầu HEO cho Bốn Người ăn không hết</p>",
+      "content_text": "Một cái Đầu HEO cho Bốn Người ăn không hết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218827",
+      "lang": "vi",
+      "content_html": "<p>4 Người đứng Đầu tuổi HỢI</p>",
+      "content_text": "4 Người đứng Đầu tuổi HỢI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218828",
+      "lang": "vi",
+      "content_html": "<p>Biến thể từ chữ Thỉ ⾗</p>",
+      "content_text": "Biến thể từ chữ Thỉ ⾗",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

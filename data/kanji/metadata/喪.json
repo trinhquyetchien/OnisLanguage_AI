@@ -1,0 +1,90 @@
+{
+  "kanji": "喪",
+  "meta": {
+    "weight": 509,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "も"
+    ],
+    "am_han": "TANG, TÁNG"
+  },
+  "meaning": {
+    "vi": "nhớ nhung",
+    "en": "miss, mourning"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/喪.svg"
+  },
+  "frequency": 885,
+  "examples": [
+    "喪失",
+    "喪",
+    "喪主",
+    "喪服",
+    "心神喪失"
+  ],
+  "explanation": {
+    "id": "4680",
+    "text": "喪 (đọc là \"sō\") có nghĩa là \"tang lễ\", \"mất mát\" để chỉ các sự kiện liên quan đến cái chết và tang tóc.\n\nVí dụ:\n- 喪服 (sōfuku): Đồ tang, trang phục mặc trong đám tang.\n- 喪失 (sōshitsu): Mất má"
+  },
+  "comments": [
+    {
+      "id": "152462",
+      "lang": "vi",
+      "content_html": "<p>tượng hình: (10) người đeo (kính) đen mặc (y) phục dự đám tang</p>",
+      "content_text": "tượng hình: (10) người đeo (kính) đen mặc (y) phục dự đám tang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152463",
+      "lang": "vi",
+      "content_html": "<p>喪： đám tang, quần áo tang<br>葬：mai táng chôn cất</p>",
+      "content_text": "喪： đám tang, quần áo tang\n葬：mai táng chôn cất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152464",
+      "lang": "vi",
+      "content_html": "<p>Tang tóc khóc lồi hai con mắt</p>",
+      "content_text": "Tang tóc khóc lồi hai con mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "kanji": "従",
+  "meta": {
+    "weight": 928,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュウ",
+      "ショウ",
+      "ジュ"
+    ],
+    "kun": [
+      "したが.う",
+      "したが.える",
+      "より"
+    ],
+    "am_han": "TÙNG, TÒNG, TUỒNG"
+  },
+  "meaning": {
+    "vi": "đi cùng, tuân theo, phục tùng, tuân thủ, thứ yếu, ngẫu nhiên, cấp dưới",
+    "en": "accompany, obey, submit to, comply, follow, secondary, incidental, subordinate"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/従.svg"
+  },
+  "frequency": 601,
+  "examples": [
+    "従来",
+    "従業",
+    "従って",
+    "に従って",
+    "従事"
+  ],
+  "explanation": {
+    "id": "3557",
+    "text": "従 (đọc là \"juu\" hoặc \"shuu\") có nghĩa là \"theo\", \"tuân theo\", chỉ hành động tuân thủ hoặc đi sau ai đó.  \nVí dụ:  \n- 従う (shitagau): Tuân theo, nghe lời.  \n- 従業員 (juugyouin): Nhân viên, người"
+  },
+  "comments": [
+    {
+      "id": "153477",
+      "lang": "vi",
+      "content_html": "<p>Chân phục tùng theo đường đi</p>",
+      "content_text": "Chân phục tùng theo đường đi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153478",
+      "lang": "vi",
+      "content_html": "<p>Xích chân lại bắt phục tùng.</p>",
+      "content_text": "Xích chân lại bắt phục tùng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153479",
+      "lang": "vi",
+      "content_html": "<p>Xích 彳 chân 足 lại theo anh Tùng 従 hai  / râu</p>",
+      "content_text": "Xích 彳 chân 足 lại theo anh Tùng 従 hai  / râu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

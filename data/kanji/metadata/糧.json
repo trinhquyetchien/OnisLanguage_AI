@@ -1,0 +1,90 @@
+{
+  "kanji": "糧",
+  "meta": {
+    "weight": 2043,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ",
+      "ロウ"
+    ],
+    "kun": [
+      "かて"
+    ],
+    "am_han": "LƯƠNG"
+  },
+  "meaning": {
+    "vi": "cung cấp, thực phẩm, bánh mì",
+    "en": "provisions, food, bread"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/糧.svg"
+  },
+  "frequency": 1354,
+  "examples": [
+    "食糧",
+    "糧",
+    "食糧庁",
+    "食糧難"
+  ],
+  "explanation": {
+    "id": "8129",
+    "text": "糧 (đọc là \"ryō\") có nghĩa là \"thực phẩm\", \"lương thực\" để chỉ các loại thức ăn, đặc biệt là những thứ cần thiết cho sự sống và sinh hoạt hàng ngày.\n\nVí dụ:\n- 糧食 (ryōshoku): Thực phẩm, lương "
+  },
+  "comments": [
+    {
+      "id": "155961",
+      "lang": "vi",
+      "content_html": "<p>Lương thực tính bằng số lượng gạo</p>",
+      "content_text": "Lương thực tính bằng số lượng gạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155962",
+      "lang": "vi",
+      "content_html": "<p>LƯƠNG thực chỉ có GẠO mới có SỐ LƯỢNG lớn...</p>",
+      "content_text": "LƯƠNG thực chỉ có GẠO mới có SỐ LƯỢNG lớn...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155963",
+      "lang": "vi",
+      "content_html": "<p>Gạo chiếm phần lớn sản LƯỢNG LƯƠNG thực nước ta</p>",
+      "content_text": "Gạo chiếm phần lớn sản LƯỢNG LƯƠNG thực nước ta",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "kanji": "硯",
+  "meta": {
+    "weight": 1878,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン",
+      "ゲン"
+    ],
+    "kun": [
+      "すずり"
+    ],
+    "am_han": "NGHIỄN"
+  },
+  "meaning": {
+    "vi": "đá mực",
+    "en": "inkstone"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/硯.svg"
+  },
+  "frequency": 2500,
+  "examples": [
+    "硯"
+  ],
+  "explanation": {
+    "id": "2158",
+    "text": "硯 (đọc là \"en\" trong tiếng Nhật) có nghĩa là \"bằng\", chỉ đến một vật dùng để mài mực trong thư pháp. \n\nVí dụ:\n- 硯台 (entai): Bệ để đặt bằng.\n- 硯石 (enshi): Đá mài mực.\n- 水墨画 (suibokuga): Tranh"
+  },
+  "comments": [
+    {
+      "id": "155648",
+      "lang": "vi",
+      "content_html": "<p>Nghiên, nghiên mực (Inkstone-vật dụng để mài mực thời xưa)</p>",
+      "content_text": "Nghiên, nghiên mực (Inkstone-vật dụng để mài mực thời xưa)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

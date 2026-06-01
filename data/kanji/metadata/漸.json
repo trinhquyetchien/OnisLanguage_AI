@@ -1,0 +1,91 @@
+{
+  "kanji": "漸",
+  "meta": {
+    "weight": 1616,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゼン"
+    ],
+    "kun": [
+      "ようや.く",
+      "やや",
+      "ようよ.う",
+      "すす.む"
+    ],
+    "am_han": "TIỆM, TIÊM, TIỀM"
+  },
+  "meaning": {
+    "vi": "đều đặn, dần dần tiến lên, cuối cùng, hầu như không",
+    "en": "steadily, gradually advancing, finally, barely"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/漸.svg"
+  },
+  "frequency": 2115,
+  "examples": [
+    "漸く",
+    "漸次",
+    "漸進"
+  ],
+  "explanation": {
+    "id": "4589",
+    "text": "漸 (đọc là \"zen\") có nghĩa là \"dần dần\", \"từ từ\", chỉ sự thay đổi hoặc tiến triển một cách chậm rãi và liên tục.  \nVí dụ:  \n- 漸進的 (zen shinteki): Tiến triển dần dần, từng bước.  \n- 漸増 (zenzō)"
+  },
+  "comments": [
+    {
+      "id": "155088",
+      "lang": "vi",
+      "content_html": "<p>Khi đao Trảm từ từ Tiệm cận cổ thì mồ hôi vã ra</p>",
+      "content_text": "Khi đao Trảm từ từ Tiệm cận cổ thì mồ hôi vã ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155089",
+      "lang": "vi",
+      "content_html": "<p>tiệm nước này chém rất cao</p>",
+      "content_text": "tiệm nước này chém rất cao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155090",
+      "lang": "vi",
+      "content_html": "<p>Xử trảm từ từ nhưng cũng nhoe máu( đao + xe = trảm)</p>",
+      "content_text": "Xử trảm từ từ nhưng cũng nhoe máu( đao + xe = trảm)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "kanji": "薄",
+  "meta": {
+    "weight": 2348,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハク"
+    ],
+    "kun": [
+      "うす.い",
+      "うす-",
+      "-うす",
+      "うす.める",
+      "うす.まる",
+      "うす.らぐ",
+      "うす.ら-",
+      "うす.れる",
+      "すすき"
+    ],
+    "am_han": "BẠC"
+  },
+  "meaning": {
+    "vi": "mỏng, bạc mệnh",
+    "en": "dilute, thin, weak (tea), pampas grass"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/薄.svg"
+  },
+  "frequency": 1009,
+  "examples": [
+    "薄い",
+    "薄",
+    "希薄",
+    "薄型",
+    "薄暗い"
+  ],
+  "explanation": {
+    "id": "6341",
+    "text": "薄 (đọc là \"haku\" hoặc \"usu\") có nghĩa là \"mỏng\", \"nhạt\" để chỉ các đặc tính về độ dày, màu sắc hoặc hương vị.  \nVí dụ:  \n- 薄い (usui): Mỏng, nhạt.  \n- 薄荷 (hakka): Bạc hà, cây bạc hà.  \n- 薄れる "
+  },
+  "comments": [
+    {
+      "id": "156605",
+      "lang": "vi",
+      "content_html": "<p>Đồng Cỏ MỎNG MANH BẠC màu vì thiếu Thốn Nước</p>",
+      "content_text": "Đồng Cỏ MỎNG MANH BẠC màu vì thiếu Thốn Nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190745",
+      "lang": "vi",
+      "content_html": "<p>Làm cỏ tưới nước cho 10 đám ruộng thốn đến Bạc mệnh</p>",
+      "content_text": "Làm cỏ tưới nước cho 10 đám ruộng thốn đến Bạc mệnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156606",
+      "lang": "vi",
+      "content_html": "<p>Loài cỏ Chuyên sống dưới nước thường Mỏng và Nhạt</p>",
+      "content_text": "Loài cỏ Chuyên sống dưới nước thường Mỏng và Nhạt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156607",
+      "lang": "vi",
+      "content_html": "<p>CỎ mà CHUYÊN sống gần NƯỚC  thì rất NHẠT</p>",
+      "content_text": "CỎ mà CHUYÊN sống gần NƯỚC  thì rất NHẠT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

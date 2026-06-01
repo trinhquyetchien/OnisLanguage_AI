@@ -1,0 +1,85 @@
+{
+  "kanji": "墾",
+  "meta": {
+    "weight": 602,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン"
+    ],
+    "kun": [
+      "は.る",
+      "ひら.く"
+    ],
+    "am_han": "KHẨN"
+  },
+  "meaning": {
+    "vi": "động thổ, mở mang đất canh tác",
+    "en": "ground-breaking, open up farmland"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/墾.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2686",
+    "text": "墾 (đọc là \"kon\") có nghĩa là \"khai hoang\", chỉ hành động cải tạo đất, đặc biệt để canh tác.  \nVí dụ:  \n- 墾田 (kontan): Ruộng khai hoang.  \n- 墾作 (konsaku): Công việc khai hoang, cải tạo đất.  "
+  },
+  "comments": [
+    {
+      "id": "219238",
+      "lang": "vi",
+      "content_html": "<p>KHAI KHẨN ĐẤT ĐAI LÀM LƯƠNG VÀ VUÔI LỢN</p>",
+      "content_text": "KHAI KHẨN ĐẤT ĐAI LÀM LƯƠNG VÀ VUÔI LỢN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219239",
+      "lang": "vi",
+      "content_html": "<p>khai khẩn thì phải cấn đất lên cho chết bớt sâu bọ mới trồng cây xuống đuợc</p>",
+      "content_text": "khai khẩn thì phải cấn đất lên cho chết bớt sâu bọ mới trồng cây xuống đuợc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219240",
+      "lang": "vi",
+      "content_html": "<p>Các bạn nhầm bộ Trĩ thành Thỉ</p>",
+      "content_text": "Các bạn nhầm bộ Trĩ thành Thỉ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

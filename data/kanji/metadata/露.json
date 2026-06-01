@@ -1,0 +1,91 @@
+{
+  "kanji": "露",
+  "meta": {
+    "weight": 2877,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロ",
+      "ロウ"
+    ],
+    "kun": [
+      "つゆ"
+    ],
+    "am_han": "LỘ"
+  },
+  "meaning": {
+    "vi": "sương, nước mắt, phơi bày, nga",
+    "en": "dew, tears, expose, Russia"
+  },
+  "stroke": {
+    "count": 21,
+    "svg": "assets/svg/露.svg"
+  },
+  "frequency": 928,
+  "examples": [
+    "披露",
+    "露",
+    "暴露",
+    "露出",
+    "披露宴"
+  ],
+  "explanation": {
+    "id": "8315",
+    "text": "露 (đọc là \"ro\") có nghĩa là \"sương\", \"lộ ra\" để chỉ các hiện tượng liên quan đến sự xuất hiện của nước hoặc việc thể hiện điều gì đó một cách rõ ràng.\nVí dụ:\n- 露出 (roshutsu): Sự lộ ra, phơi "
+  },
+  "comments": [
+    {
+      "id": "157828",
+      "lang": "vi",
+      "content_html": "<p>mưa rơi ngoài đường tạo thành giọt sương</p>",
+      "content_text": "mưa rơi ngoài đường tạo thành giọt sương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157829",
+      "lang": "vi",
+      "content_html": "<p>Mưa sẽ làm các vết chân ở đường bộc LỘ ra những hạt sương</p>",
+      "content_text": "Mưa sẽ làm các vết chân ở đường bộc LỘ ra những hạt sương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157830",
+      "lang": "vi",
+      "content_html": "<p>sương mù dày đặc không di chuyển được</p>",
+      "content_text": "sương mù dày đặc không di chuyển được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

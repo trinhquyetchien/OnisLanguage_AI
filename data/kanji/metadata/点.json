@@ -1,0 +1,96 @@
+{
+  "kanji": "点",
+  "meta": {
+    "weight": 1650,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テン"
+    ],
+    "kun": [
+      "つ.ける",
+      "つ.く",
+      "た.てる",
+      "さ.す",
+      "とぼ.す",
+      "とも.す",
+      "ぼち"
+    ],
+    "am_han": "ĐIỂM"
+  },
+  "meaning": {
+    "vi": "điểm",
+    "en": "spot, point, mark, speck, decimal point"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/点.svg"
+  },
+  "frequency": 165,
+  "examples": [
+    "点",
+    "視点",
+    "時点",
+    "観点",
+    "焦点"
+  ],
+  "explanation": {
+    "id": "5681",
+    "text": "点 (đọc là \"ten\") có nghĩa là \"điểm\", \"dấu chấm\", thường chỉ các điểm số, vị trí hay trạng thái.  \nVí dụ:  \n- 点数 (tensu): Điểm số.  \n- 点滴 (teitaku): Truyền dịch (nhỏ giọt).  \n- 時点 (jiten): Th"
+  },
+  "comments": [
+    {
+      "id": "37236",
+      "lang": "vi",
+      "content_html": "<p>Đã ấn dấu có 4 <strong>điểm</strong>.</p>",
+      "content_text": "Đã ấn dấu có 4\nđiểm\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd751dc5e9.jpg",
+      "image_path": "assets/images/点_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191101",
+      "lang": "vi",
+      "content_html": "<p><strong>điểm</strong></p>",
+      "content_text": "điểm",
+      "image_url": "https://jpdictionary.com/upload/images/648ac03d2be7a.jpg",
+      "image_path": "assets/images/点_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "155156",
+      "lang": "vi",
+      "content_html": "<p>Đốt lửa xem bói mở mồm chỉ điểm</p>",
+      "content_text": "Đốt lửa xem bói mở mồm chỉ điểm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

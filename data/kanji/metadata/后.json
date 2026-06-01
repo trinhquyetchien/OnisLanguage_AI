@@ -1,0 +1,88 @@
+{
+  "kanji": "后",
+  "meta": {
+    "weight": 454,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ゴ"
+    ],
+    "kun": [
+      "きさき"
+    ],
+    "am_han": "HẬU"
+  },
+  "meaning": {
+    "vi": "hoàng hậu, nữ hoàng, sau khi, đằng sau, trở lại, sau này",
+    "en": "empress, queen, after, behind, back, later"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/后.svg"
+  },
+  "frequency": 1583,
+  "examples": [
+    "后",
+    "皇后"
+  ],
+  "explanation": {
+    "id": "2400",
+    "text": "後 (đọc là \"ato\" hoặc \"go\") có nghĩa là \"sau\", \"phía sau\" để chỉ thời gian hoặc vị trí ở phía sau một sự việc hoặc địa điểm nào đó.  \nVí dụ:  \n- 後ろ (ushiro): Phía sau.  \n- 後悔 (koukai): Hối hậ"
+  },
+  "comments": [
+    {
+      "id": "152325",
+      "lang": "vi",
+      "content_html": "<p>hoàng hậu gì mà cứ mở miệng ra là nói F!!ck</p>",
+      "content_text": "hoàng hậu gì mà cứ mở miệng ra là nói F!!ck",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152326",
+      "lang": "vi",
+      "content_html": "<p>Đứng sườn núi cao( Hán)<br>Chỉ có 1 ( Nhất) cái miệng( Khẩu) uy quyền nhất là ( Hậu) hoàng hậu</p>",
+      "content_text": "Đứng sườn núi cao( Hán)\nChỉ có 1 ( Nhất) cái miệng( Khẩu) uy quyền nhất là ( Hậu) hoàng hậu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152327",
+      "lang": "vi",
+      "content_html": "<p>Tôi phang chữ f vào mõm bà hoàng hậu</p>",
+      "content_text": "Tôi phang chữ f vào mõm bà hoàng hậu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

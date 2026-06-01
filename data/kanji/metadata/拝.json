@@ -1,0 +1,91 @@
+{
+  "kanji": "拝",
+  "meta": {
+    "weight": 1078,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハイ"
+    ],
+    "kun": [
+      "おが.む",
+      "おろが.む"
+    ],
+    "am_han": "BÁI"
+  },
+  "meaning": {
+    "vi": "tôn thờ, sùng bái",
+    "en": "worship, adore, pray to"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/拝.svg"
+  },
+  "frequency": 1443,
+  "examples": [
+    "参拝",
+    "拝見",
+    "礼拝",
+    "崇拝",
+    "拝"
+  ],
+  "explanation": {
+    "id": "6259",
+    "text": "拝 (đọc là \"hai\") có nghĩa là \"kính lạy\", \"thờ phụng\" để chỉ các hành động liên quan đến việc tôn kính hoặc thờ cúng.\n\nVí dụ:\n- 拝見 (haiken): Xem (một cách kính trọng).\n- 拝む (ogamu): Cúi đầu, "
+  },
+  "comments": [
+    {
+      "id": "153874",
+      "lang": "vi",
+      "content_html": "<p>Tay chắp bái 1 lần 4 cái</p>",
+      "content_text": "Tay chắp bái 1 lần 4 cái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153875",
+      "lang": "vi",
+      "content_html": "<p>Chắp tay bái rồi cắm 1 cây hương vòng 4 tầng</p>",
+      "content_text": "Chắp tay bái rồi cắm 1 cây hương vòng 4 tầng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153876",
+      "lang": "vi",
+      "content_html": "<p>Tay chấp BÁI Vua 10 lần</p>",
+      "content_text": "Tay chấp BÁI Vua 10 lần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

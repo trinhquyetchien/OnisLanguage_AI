@@ -1,0 +1,92 @@
+{
+  "kanji": "忌",
+  "meta": {
+    "weight": 940,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "い.む",
+      "い.み",
+      "い.まわしい"
+    ],
+    "am_han": "KỊ, KÍ"
+  },
+  "meaning": {
+    "vi": "để tang, ghê tởm, đáng ghét, ngày giỗ",
+    "en": "mourning, abhor, detestable, death anniversary"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/忌.svg"
+  },
+  "frequency": 1882,
+  "examples": [
+    "忌避",
+    "忌",
+    "禁忌",
+    "忌憚",
+    "忌まわしい"
+  ],
+  "explanation": {
+    "id": "1290",
+    "text": "忌 (đọc là \"ki\") có nghĩa là \"cấm kỵ\", \"kiêng dè\" để chỉ các điều gì nên tránh hoặc không được thực hiện do tín ngưỡng hoặc tập tục.\n\nVí dụ:\n- 忌避 (kihi): Tránh né, trốn tránh.\n- 忌まわしい (imawas"
+  },
+  "comments": [
+    {
+      "id": "153511",
+      "lang": "vi",
+      "content_html": "<p>TÂM ích KỈ luôn đố KỊ</p>",
+      "content_text": "TÂM ích KỈ luôn đố KỊ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153512",
+      "lang": "vi",
+      "content_html": "<p>Ghen ghét con tim tự kỉ</p>",
+      "content_text": "Ghen ghét con tim tự kỉ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153513",
+      "lang": "vi",
+      "content_html": "<p>BẢN THÂN MÌNH trong TÂM phải biết không đc đố KỊ...</p>",
+      "content_text": "BẢN THÂN MÌNH trong TÂM phải biết không đc đố KỊ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

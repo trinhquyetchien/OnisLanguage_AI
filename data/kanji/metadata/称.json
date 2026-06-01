@@ -1,0 +1,96 @@
+{
+  "kanji": "称",
+  "meta": {
+    "weight": 1933,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "たた.える",
+      "とな.える",
+      "あ.げる",
+      "かな.う",
+      "はか.り",
+      "はか.る",
+      "ほめ.る"
+    ],
+    "am_han": "XƯNG, XỨNG, HẤNG"
+  },
+  "meaning": {
+    "vi": "tên gọi, khen ngợi, ngưỡng mộ, tên, chức danh, danh tiếng",
+    "en": "appellation, praise, admire, name, title, fame"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/称.svg"
+  },
+  "frequency": 985,
+  "examples": [
+    "名称",
+    "通称",
+    "自称",
+    "呼称",
+    "総称"
+  ],
+  "explanation": {
+    "id": "3886",
+    "text": "称 (đọc là \"shō\") có nghĩa là \"gọi\", \"khen ngợi\" để chỉ hành động đặt tên hoặc ca ngợi ai đó.\n\nVí dụ:\n- 称号 (shōgō): Danh hiệu.\n- 称賛 (shōsan): Khen ngợi, tán dương.\n- 自称 (jishō): Tự xưng, tự g"
+  },
+  "comments": [
+    {
+      "id": "155751",
+      "lang": "vi",
+      "content_html": "<p>Người nằm XƯNG tên là Tiểu Hòa thượng.</p>",
+      "content_text": "Người nằm XƯNG tên là Tiểu Hòa thượng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155752",
+      "lang": "vi",
+      "content_html": "<p>Câj bé nằm ngang xưng tên là hoà</p>",
+      "content_text": "Câj bé nằm ngang xưng tên là hoà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155753",
+      "lang": "vi",
+      "content_html": "<p>Bên phải là chữ Nhĩ nhé !</p>",
+      "content_text": "Bên phải là chữ Nhĩ nhé !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

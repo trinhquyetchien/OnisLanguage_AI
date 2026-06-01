@@ -1,0 +1,32 @@
+{
+  "kanji": "屍",
+  "meta": {
+    "weight": 778,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "しかばね"
+    ],
+    "am_han": "THI"
+  },
+  "meaning": {
+    "vi": "tử thi",
+    "en": "corpse"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/屍.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3076",
+    "text": "屍 (đọc là \"shikabane\") có nghĩa là \"xác chết\", thường chỉ phần còn lại của cơ thể sau khi chết. \n\nVí dụ:\n- 屍体 (shitai): Xác thân, thi thể.\n- 屍のような (shika no you na): Như xác chết, có thể dùn"
+  },
+  "comments": []
+}

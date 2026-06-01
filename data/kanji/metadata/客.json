@@ -1,0 +1,106 @@
+{
+  "kanji": "客",
+  "meta": {
+    "weight": 721,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キャク",
+      "カク"
+    ],
+    "kun": [],
+    "am_han": "KHÁCH"
+  },
+  "meaning": {
+    "vi": "khách",
+    "en": "guest, visitor, customer, client"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/客.svg"
+  },
+  "frequency": 557,
+  "examples": [
+    "客",
+    "お客様",
+    "顧客",
+    "観客",
+    "客観"
+  ],
+  "explanation": {
+    "id": "1485",
+    "text": "客 (đọc là \"kyaku\" hoặc \"kaku\") có nghĩa là \"khách\", chỉ người đến thăm, khách hàng hoặc khách mời.  \nVí dụ:  \n- 客観 (kyakkan): Quan điểm khách quan, nhìn nhận từ góc độ bên ngoài.  \n- 客室 (kya"
+  },
+  "comments": [
+    {
+      "id": "190976",
+      "lang": "vi",
+      "content_html": "<p><strong>khách</strong></p>",
+      "content_text": "khách",
+      "image_url": "https://jpdictionary.com/upload/images/648a7e45ead11.jpg",
+      "image_path": "assets/images/客_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "152956",
+      "lang": "vi",
+      "content_html": "<p>Các vị khách đang ngồi trong nhà</p>",
+      "content_text": "Các vị khách đang ngồi trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152957",
+      "lang": "vi",
+      "content_html": "<p>các vị vào nhà đều là Khách</p>",
+      "content_text": "các vị vào nhà đều là Khách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152958",
+      "lang": "vi",
+      "content_html": "<p>客Khách  =宀bộ Miên (mái nhà; mái che); 各Các. <br>Ý nghĩa: Khách (đối lại với Chủ 主 ). <br>---&#62; Chiết tự chữ Khách: Dưới mái nhà, các vị đang ngồi nói chuyện là khách của tôi.</p>",
+      "content_text": "客Khách  =宀bộ Miên (mái nhà; mái che); 各Các.\nÝ nghĩa: Khách (đối lại với Chủ 主 ).\n---> Chiết tự chữ Khách: Dưới mái nhà, các vị đang ngồi nói chuyện là khách của tôi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

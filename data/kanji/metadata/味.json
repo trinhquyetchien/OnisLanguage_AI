@@ -1,0 +1,91 @@
+{
+  "kanji": "味",
+  "meta": {
+    "weight": 475,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ミ"
+    ],
+    "kun": [
+      "あじ",
+      "あじ.わう"
+    ],
+    "am_han": "VỊ"
+  },
+  "meaning": {
+    "vi": "vị giác, mùi vị",
+    "en": "flavor, taste"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/味.svg"
+  },
+  "frequency": 442,
+  "examples": [
+    "意味",
+    "興味",
+    "味",
+    "趣味",
+    "美味しい"
+  ],
+  "explanation": {
+    "id": "7467",
+    "text": "味 (đọc là \"mi\") có nghĩa là \"hương vị\" để chỉ cảm giác về vị giác khi thưởng thức thực phẩm hoặc đồ uống.  \nVí dụ:  \n- 味噌 (miso): Tương miso, một loại gia vị phổ biến trong ẩm thực Nhật Bản."
+  },
+  "comments": [
+    {
+      "id": "190931",
+      "lang": "vi",
+      "content_html": "<p><strong>mùi vị</strong></p>",
+      "content_text": "mùi vị",
+      "image_url": "https://jpdictionary.com/upload/images/648a7146ed647.jpg",
+      "image_path": "assets/images/味_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "892",
+      "lang": "vi",
+      "content_html": "<p>Tôi không biết nó có <strong>vị </strong>thế nào bởi vì tôi vẫn chưa (未) ăn nó.</p>",
+      "content_text": "Tôi không biết nó có\nvị\nthế nào bởi vì tôi vẫn chưa (未) ăn nó.",
+      "image_url": "https://jpdictionary.com/upload/images/6298a17ea430e.jpg",
+      "image_path": "assets/images/味_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152379",
+      "lang": "vi",
+      "content_html": "<p>Dùng miệng nếm thử mùi vị của cây và đất</p>",
+      "content_text": "Dùng miệng nếm thử mùi vị của cây và đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

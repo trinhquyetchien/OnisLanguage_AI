@@ -1,0 +1,54 @@
+{
+  "kanji": "燕",
+  "meta": {
+    "weight": 1676,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "つばめ",
+      "つばくら",
+      "つばくろ"
+    ],
+    "am_han": "YẾN, YÊN"
+  },
+  "meaning": {
+    "vi": "én (chim)",
+    "en": "swallow (bird)"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/燕.svg"
+  },
+  "frequency": 2147,
+  "examples": [
+    "燕"
+  ],
+  "explanation": {
+    "id": "473",
+    "text": "燕 (đọc là \"en\") có nghĩa là \"chim yến\" để chỉ loài chim nhỏ, thường được biết đến với khả năng bay nhanh và bắt côn trùng. \n\nVí dụ:\n- 燕尾服 (entailifuku): Áo khoác đuôi chim yến, trang phục fo"
+  },
+  "comments": [
+    {
+      "id": "155208",
+      "lang": "vi",
+      "content_html": "<p>nhà tôi hăm mốt (廿) miệng ăn, núi Bắc (北) đã lở, đá lăn bốn hòn (,,,,) chữ Yến (燕)</p>",
+      "content_text": "nhà tôi hăm mốt (廿) miệng ăn, núi Bắc (北) đã lở, đá lăn bốn hòn (,,,,) chữ Yến (燕)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

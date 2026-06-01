@@ -1,0 +1,35 @@
+{
+  "kanji": "鞍",
+  "meta": {
+    "weight": 2887,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アン"
+    ],
+    "kun": [
+      "くら"
+    ],
+    "am_han": "AN"
+  },
+  "meaning": {
+    "vi": "Yên xe",
+    "en": "saddle"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/鞍.svg"
+  },
+  "frequency": 2214,
+  "examples": [
+    "鞍",
+    "鞍馬"
+  ],
+  "explanation": {
+    "id": "106",
+    "text": "鞍 (đọc là \"an\") có nghĩa là \"yên ngựa\", chỉ bộ phận trang bị trên lưng ngựa để người cưỡi có thể ngồi vững. \n\nVí dụ:\n- 鞍馬 (kurama): Một loại yên ngựa.\n- 鞍をかける (an o kakeru): Đặt yên lên ngựa"
+  },
+  "comments": []
+}

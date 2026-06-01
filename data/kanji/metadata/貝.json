@@ -1,0 +1,107 @@
+{
+  "kanji": "貝",
+  "meta": {
+    "weight": 2542,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バイ"
+    ],
+    "kun": [
+      "かい"
+    ],
+    "am_han": "BỐI"
+  },
+  "meaning": {
+    "vi": "vỏ sò",
+    "en": "shellfish"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/貝.svg"
+  },
+  "frequency": 1787,
+  "examples": [
+    "貝",
+    "貝殻",
+    "貝塚",
+    "貝類",
+    "ムール貝"
+  ],
+  "explanation": {
+    "id": "819",
+    "text": "貝 (đọc là \"bèi\" trong tiếng Trung, \"kai\" trong tiếng Nhật) có nghĩa là \"sò\" hoặc \"vỏ sò\", thường liên quan đến tiền tệ cổ đại và giá trị.\n\nVí dụ:\n- 貝殻 (kaigara): Vỏ sò.\n- 貝類 (beirui): Loại đ"
+  },
+  "comments": [
+    {
+      "id": "646",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của của <strong>con sò</strong>.</p>",
+      "content_text": "Hình dạng của của\ncon sò\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629825780ce9c.jpg",
+      "image_path": "assets/images/貝_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157040",
+      "lang": "vi",
+      "content_html": "<p>Tượng Hình: Con sò. <br>Chiết Tự: Đi hai hàng chữ bát八, đảo mắt  目tìm vỏ sò đẹp.</p>",
+      "content_text": "Tượng Hình: Con sò.\nChiết Tự: Đi hai hàng chữ bát八, đảo mắt  目tìm vỏ sò đẹp.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157041",
+      "lang": "vi",
+      "content_html": "<p>Mắt con sò có 2 chân</p>",
+      "content_text": "Mắt con sò có 2 chân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157042",
+      "lang": "vi",
+      "content_html": "<p>Mắt 目 mở to khi nhìn thấy 8 八  bảo bối 貝 quý hiếm.</p>",
+      "content_text": "Mắt 目 mở to khi nhìn thấy 8 八  bảo bối 貝 quý hiếm.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

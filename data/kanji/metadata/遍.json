@@ -1,0 +1,90 @@
+{
+  "kanji": "遍",
+  "meta": {
+    "weight": 2675,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘン"
+    ],
+    "kun": [
+      "あまね.く"
+    ],
+    "am_han": "BIẾN"
+  },
+  "meaning": {
+    "vi": "mọi nơi, mọi lúc, rộng rãi, nói chung",
+    "en": "everywhere, times, widely, generally"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/遍.svg"
+  },
+  "frequency": 1845,
+  "examples": [
+    "普遍",
+    "一遍",
+    "遍路",
+    "遍歴",
+    "遍"
+  ],
+  "explanation": {
+    "id": "7067",
+    "text": "遍 (đọc là \"hen\") có nghĩa là \"khắp nơi\", \"toàn bộ\" để chỉ sự phân bố rộng rãi hoặc trải dài của một điều gì đó.\n\nVí dụ:\n- 遍歴 (henreki): Sự du lịch, trải nghiệm khắp nơi.\n- 一遍 (ippen): Một lầ"
+  },
+  "comments": [
+    {
+      "id": "157372",
+      "lang": "vi",
+      "content_html": "<p>nhũng CỮA hiệu SÁCH  có mặt khắp nơi trên ĐƯỜNG rất phổ BIẾN</p>",
+      "content_text": "nhũng CỮA hiệu SÁCH  có mặt khắp nơi trên ĐƯỜNG rất phổ BIẾN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157373",
+      "lang": "vi",
+      "content_html": "<p>Có cửa có hàng rào nhưng vẫn có thể thoát ra ngoài đường gọi là biến</p>",
+      "content_text": "Có cửa có hàng rào nhưng vẫn có thể thoát ra ngoài đường gọi là biến",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157374",
+      "lang": "vi",
+      "content_html": "<p>con Đường tôi hay đi ( ệc chi )mỗi ngày toàn bán những thứ phổ Biến như Cửa và Sách</p>",
+      "content_text": "con Đường tôi hay đi ( ệc chi )mỗi ngày toàn bán những thứ phổ Biến như Cửa và Sách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

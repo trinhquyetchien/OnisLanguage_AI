@@ -1,0 +1,87 @@
+{
+  "kanji": "斐",
+  "meta": {
+    "weight": 1188,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ",
+      "イ"
+    ],
+    "kun": [],
+    "am_han": "PHỈ"
+  },
+  "meaning": {
+    "vi": "đẹp, có hoa văn",
+    "en": "beautiful, patterned"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/斐.svg"
+  },
+  "frequency": 2103,
+  "examples": [
+    "甲斐",
+    "生き甲斐",
+    "甲斐性"
+  ],
+  "explanation": {
+    "id": "6556",
+    "text": "斐 (đọc là \"hi\") có nghĩa là \"rực rỡ\", \"sáng chói\", thường chỉ về vẻ đẹp hoặc sự tinh xảo trong nghệ thuật hoặc văn chương. \n\nVí dụ:\n- 斐然 (hiran): Rõ ràng, hiển nhiên.\n- 斐彩 (hisai): Màu sắc r"
+  },
+  "comments": [
+    {
+      "id": "154128",
+      "lang": "vi",
+      "content_html": "<p>tụi thổ Phỉ là tụi không(Phi) có Văn hoá</p>",
+      "content_text": "tụi thổ Phỉ là tụi không(Phi) có Văn hoá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154129",
+      "lang": "vi",
+      "content_html": "<p>Phi văn học nhưng ko đc PHỈ báng</p>",
+      "content_text": "Phi văn học nhưng ko đc PHỈ báng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154130",
+      "lang": "vi",
+      "content_html": "<p>sự PHI THƯỜNG của VĂN HỌC  --  tạo nên sự VĂN VẺ, ĐÁNG GIÁ</p>",
+      "content_text": "sự PHI THƯỜNG của VĂN HỌC  --  tạo nên sự VĂN VẺ, ĐÁNG GIÁ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

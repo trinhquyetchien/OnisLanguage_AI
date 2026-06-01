@@ -1,0 +1,89 @@
+{
+  "kanji": "賜",
+  "meta": {
+    "weight": 2570,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "たまわ.る",
+      "たま.う",
+      "たも.う"
+    ],
+    "am_han": "TỨ"
+  },
+  "meaning": {
+    "vi": "cấp, quà tặng, lợi ích, kết quả",
+    "en": "grant, gift, boon, results"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/賜.svg"
+  },
+  "frequency": 2190,
+  "examples": [
+    "賜物",
+    "賜"
+  ],
+  "explanation": {
+    "id": "3162",
+    "text": "賜 (đọc là \"shi\" hoặc \"tamawaru\") có nghĩa là \"ban cho\", \"tặng\" để chỉ hành động nhận được điều gì đó từ người khác, thường liên quan đến sự ban phát của bề trên.\n\nVí dụ:\n- 賜る (tamawaru): Nhậ"
+  },
+  "comments": [
+    {
+      "id": "157115",
+      "lang": "vi",
+      "content_html": "<p>Dục Dịch THƯỞNG Tiền cho đội vào TỨ kết</p>",
+      "content_text": "Dục Dịch THƯỞNG Tiền cho đội vào TỨ kết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157116",
+      "lang": "vi",
+      "content_html": "<p>Ban thưởng giao dịch bằng tiền</p>",
+      "content_text": "Ban thưởng giao dịch bằng tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157117",
+      "lang": "vi",
+      "content_html": "<p>Ban Thưởng bằng VỎ ỐC(tiền ngày xưa) đúng là DỊ (giản dị)</p>",
+      "content_text": "Ban Thưởng bằng VỎ ỐC(tiền ngày xưa) đúng là DỊ (giản dị)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

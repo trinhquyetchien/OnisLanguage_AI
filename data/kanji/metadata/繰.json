@@ -1,0 +1,90 @@
+{
+  "kanji": "繰",
+  "meta": {
+    "weight": 2120,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "く.る"
+    ],
+    "am_han": "SÀO"
+  },
+  "meaning": {
+    "vi": "cuộn, quay, lật (trang), tra cứu, tham khảo",
+    "en": "winding, reel, spin, turn (pages), look up, refer to"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/繰.svg"
+  },
+  "frequency": 872,
+  "examples": [
+    "繰り返し",
+    "繰り返す",
+    "資金繰り",
+    "繰り広げる",
+    "繰り出す"
+  ],
+  "explanation": {
+    "id": "1893",
+    "text": "繰 (đọc là \"so\") có nghĩa là \"cuộn\", \"xoắn\" để chỉ hành động liên quan đến việc cuộn dây hoặc kéo sợi.  \nVí dụ:  \n- 繰り返す (kurikaesu): Lặp lại.  \n- 繰り込む (kurikomu): Cuộn vào, bao gồm.  \n- 繰り出し"
+  },
+  "comments": [
+    {
+      "id": "156163",
+      "lang": "vi",
+      "content_html": "<p>Lấy Dây cột Sản Phẩm vào Cây Sào</p>",
+      "content_text": "Lấy Dây cột Sản Phẩm vào Cây Sào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156164",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa ấy dân làng người ta lấy sợi TƠ dệt lụa tạo ra sản phẩm.xong có facebook đâu mà quảng cáo các thứ để bán.thế là họ treo sản PHẨM lên cái  CÂY ...cây gì ta??? dân quê người ta gọi là cây SÀO ấy.</p>",
+      "content_text": "Ngày xưa ấy dân làng người ta lấy sợi TƠ dệt lụa tạo ra sản phẩm.xong có facebook đâu mà quảng cáo các thứ để bán.thế là họ treo sản PHẨM lên cái  CÂY ...cây gì ta??? dân quê người ta gọi là cây SÀO ấy.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156165",
+      "lang": "vi",
+      "content_html": "<p>Dùng dây quấn sản phẩm cây</p>",
+      "content_text": "Dùng dây quấn sản phẩm cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

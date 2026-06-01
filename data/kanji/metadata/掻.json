@@ -1,0 +1,84 @@
+{
+  "kanji": "掻",
+  "meta": {
+    "weight": 1128,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "か.く"
+    ],
+    "am_han": "TAO"
+  },
+  "meaning": {
+    "vi": "cào, chải, chèo, chặt đầu",
+    "en": "scratch, rake, comb, paddle, behead"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/掻.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4712",
+    "text": "掻 (đọc là \"sō\" hoặc \"ka\") có nghĩa là \"cào\", \"gãi\", thường chỉ hành động cào gãi hoặc làm xước bề mặt.  \nVí dụ:  \n- 掻く (kaku): Cào, gãi.  \n- 掻き入れ (kakiire): Gặt hái, thu hoạch.  \n- 掻きむしる (ka"
+  },
+  "comments": [
+    {
+      "id": "219636",
+      "lang": "vi",
+      "content_html": "<p>Tay gãi ngữa do côn trùng tác động</p>",
+      "content_text": "Tay gãi ngữa do côn trùng tác động",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219637",
+      "lang": "vi",
+      "content_html": "<p>TAY TAO  LẠI bị MUỖI đốt nên phải GÃI thôi</p>",
+      "content_text": "TAY TAO  LẠI bị MUỖI đốt nên phải GÃI thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219638",
+      "lang": "vi",
+      "content_html": "<p>Tau gãi lên gãi xuống vết côn trùng đốt</p>",
+      "content_text": "Tau gãi lên gãi xuống vết côn trùng đốt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

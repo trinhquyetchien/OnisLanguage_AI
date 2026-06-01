@@ -1,0 +1,107 @@
+{
+  "kanji": "到",
+  "meta": {
+    "weight": 321,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "いた.る"
+    ],
+    "am_han": "ĐÁO"
+  },
+  "meaning": {
+    "vi": "đến",
+    "en": "arrival, proceed, reach, attain, result in"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/到.svg"
+  },
+  "frequency": 1032,
+  "examples": [
+    "到着",
+    "到達",
+    "到来",
+    "到底",
+    "殺到"
+  ],
+  "explanation": {
+    "id": "5852",
+    "text": "到 (đọc là \"tō\") có nghĩa là \"đến\" hoặc \"tới\" để chỉ hành động đến một địa điểm hoặc trạng thái nào đó.  \nVí dụ:  \n- 到着 (tōchaku): Sự đến nơi, sự tới nơi.  \n- 到達 (tōtatsu): Đạt tới, đến với. "
+  },
+  "comments": [
+    {
+      "id": "152001",
+      "lang": "vi",
+      "content_html": "<p>Ý chí sắc như đao có ngày sẽ mã ĐÁO thành công ...</p>",
+      "content_text": "Ý chí sắc như đao có ngày sẽ mã ĐÁO thành công ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152002",
+      "lang": "vi",
+      "content_html": "<p>Đến nơi chí lớn dùng đao đáo lại đất đai</p>",
+      "content_text": "Đến nơi chí lớn dùng đao đáo lại đất đai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152003",
+      "lang": "vi",
+      "content_html": "<p>đến Đất Tư là bị chém</p>",
+      "content_text": "đến Đất Tư là bị chém",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222448",
+      "lang": "vi",
+      "content_html": "<p>到 (đọc là \"tō\") có nghĩa là \"đến\" hoặc \"tới\" để chỉ hành động đến một địa điểm hoặc trạng thái nào đó.<br>Ví dụ:</p><ul><li>到着 (tōchaku): Sự đến nơi, sự tới nơi.</li><li>到達 (tōtatsu): Đạt tới, đến với.</li><li>予定到達 (yotei tōtatsu): Dự kiến đến nơi.</li></ul>",
+      "content_text": "到 (đọc là \"tō\") có nghĩa là \"đến\" hoặc \"tới\" để chỉ hành động đến một địa điểm hoặc trạng thái nào đó.\nVí dụ:\n到着 (tōchaku): Sự đến nơi, sự tới nơi.\n到達 (tōtatsu): Đạt tới, đến với.\n予定到達 (yotei tōtatsu): Dự kiến đến nơi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "7804",
+        "name": "MARUMI KIKOU",
+        "image_url": "https://jpdictionary.com/upload/images/6858ac7b8cdbd.png"
+      }
+    }
+  ]
+}

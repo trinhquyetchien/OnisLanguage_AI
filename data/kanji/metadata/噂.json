@@ -1,0 +1,86 @@
+{
+  "kanji": "噂",
+  "meta": {
+    "weight": 521,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソン"
+    ],
+    "kun": [
+      "うわさ"
+    ],
+    "am_han": "ĐỒN, TỖN, TỔN, TON, TUN"
+  },
+  "meaning": {
+    "vi": "tin đồn",
+    "en": "rumor, gossip, hearsay"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/噂.svg"
+  },
+  "frequency": 2298,
+  "examples": [
+    "噂"
+  ],
+  "explanation": {
+    "id": "343",
+    "text": "噂 (đọc là \"uwasa\") có nghĩa là \"tin đồn\", \"lời đồn\" để chỉ các thông tin không chính thức, thường được truyền miệng.  \nVí dụ:  \n- 噂話 (uwasabana): Lời đồn đại, câu chuyện phiếm.  \n- 噂になる (uwa"
+  },
+  "comments": [
+    {
+      "id": "152494",
+      "lang": "vi",
+      "content_html": "<p>đừng dùng miệng 口 nói xấu ng khác hãy tôn 尊 trọng ng khác. đừng ĐỒN 噂 đại những việc không mà nói cho thành có...</p>",
+      "content_text": "đừng dùng miệng 口 nói xấu ng khác hãy tôn 尊 trọng ng khác. đừng ĐỒN 噂 đại những việc không mà nói cho thành có...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152495",
+      "lang": "vi",
+      "content_html": "<p>Cái miệng của người uống rượu mà đồn thì rất thốn</p>",
+      "content_text": "Cái miệng của người uống rượu mà đồn thì rất thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152496",
+      "lang": "vi",
+      "content_html": "<p>Hãy tôn trọng cái miệng của mình ( 1997vlog )</p>",
+      "content_text": "Hãy tôn trọng cái miệng của mình ( 1997vlog )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

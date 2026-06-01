@@ -1,0 +1,55 @@
+{
+  "kanji": "啄",
+  "meta": {
+    "weight": 498,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タク",
+      "ツク",
+      "トク"
+    ],
+    "kun": [
+      "ついば.む",
+      "つつ.く"
+    ],
+    "am_han": "TRÁC"
+  },
+  "meaning": {
+    "vi": "mổ, nhặt",
+    "en": "peck, pick up"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/啄.svg"
+  },
+  "frequency": 2463,
+  "examples": [
+    "啄木"
+  ],
+  "explanation": {
+    "id": "5023",
+    "text": "啄 (đọc là \"taku\") có nghĩa là \"mổ\", \"khắc\", để chỉ hành động mổ hoặc ăn thực phẩm như chim chóc.  \nVí dụ:  \n- 啄木鳥 (kudamono-dori): Chim gõ kiến.  \n- 啄む (tsukamu): Mổ, nhặt thức ăn (như chim)"
+  },
+  "comments": [
+    {
+      "id": "152430",
+      "lang": "vi",
+      "content_html": "<p>Miệng mổ ăn như lợn của lê hữu TRÁC</p>",
+      "content_text": "Miệng mổ ăn như lợn của lê hữu TRÁC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "葬",
+  "meta": {
+    "weight": 2314,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "ほうむ.る"
+    ],
+    "am_han": "TÁNG"
+  },
+  "meaning": {
+    "vi": "can thiệp, chôn cất, xếp xó",
+    "en": "interment, bury, shelve"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/葬.svg"
+  },
+  "frequency": 754,
+  "examples": [
+    "葬儀",
+    "葬式",
+    "埋葬",
+    "火葬",
+    "葬"
+  ],
+  "explanation": {
+    "id": "4751",
+    "text": "葬 (đọc là \"sou\") có nghĩa là \"chôn cất\", liên quan đến việc mai táng người đã khuất.  \nVí dụ:  \n- 葬式 (soushiki): Lễ tang, đám tang.  \n- 埋葬 (maizou): Chôn cất, mai táng.  \n- 火葬 (kasou): Hỏa t"
+  },
+  "comments": [
+    {
+      "id": "156570",
+      "lang": "vi",
+      "content_html": "<p>Trong lễ ăn táng đặt hoa và chắp tay cầu nguyện cho ng đã chết</p>",
+      "content_text": "Trong lễ ăn táng đặt hoa và chắp tay cầu nguyện cho ng đã chết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156571",
+      "lang": "vi",
+      "content_html": "<p>Chữ TÁNG hay thật. Bộ THẢO, bộ TỬ, bộ CỦNG (chắp tay). An TÁNG người CHẾT rồi thể hiện lòng thương tiếc nên người ta CHẮP tay cúi đầu.</p>",
+      "content_text": "Chữ TÁNG hay thật. Bộ THẢO, bộ TỬ, bộ CỦNG (chắp tay). An TÁNG người CHẾT rồi thể hiện lòng thương tiếc nên người ta CHẮP tay cúi đầu.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156572",
+      "lang": "vi",
+      "content_html": "<p>Đặt hoa lên trên khi tử vong rồi chắp tay lạy trong lễ an TÁNG</p>",
+      "content_text": "Đặt hoa lên trên khi tử vong rồi chắp tay lạy trong lễ an TÁNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

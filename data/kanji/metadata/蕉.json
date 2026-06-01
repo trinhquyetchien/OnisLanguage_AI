@@ -1,0 +1,50 @@
+{
+  "kanji": "蕉",
+  "meta": {
+    "weight": 2341,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "TIÊU"
+  },
+  "meaning": {
+    "vi": "chuối",
+    "en": "banana, plantain"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/蕉.svg"
+  },
+  "frequency": 2033,
+  "examples": [
+    "芭蕉"
+  ],
+  "explanation": {
+    "id": "3908",
+    "text": "蕉 (đọc là \"shou\") có nghĩa là \"chuối\", chỉ các loại cây hoặc quả chuối.  \nVí dụ:  \n- 香蕉 (kyou shou): Chuối, quả chuối.  \n- 蕉園 (shouen): Vườn chuối, nơi trồng chuối.  \n- 蕉の葉 (shou no ha): Lá "
+  },
+  "comments": [
+    {
+      "id": "156603",
+      "lang": "vi",
+      "content_html": "<p>chuối tiêu</p>",
+      "content_text": "chuối tiêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

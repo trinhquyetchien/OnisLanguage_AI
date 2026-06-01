@@ -1,0 +1,87 @@
+{
+  "kanji": "披",
+  "meta": {
+    "weight": 1064,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [],
+    "am_han": "PHI, BIA"
+  },
+  "meaning": {
+    "vi": "phơi bày, mở ra",
+    "en": "expose, open"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/披.svg"
+  },
+  "frequency": 1438,
+  "examples": [
+    "披露",
+    "披露宴",
+    "お披露目",
+    "披瀝"
+  ],
+  "explanation": {
+    "id": "6553",
+    "text": "披 (đọc là \"hi\") có nghĩa là \"mặc\", \"choàng\" để chỉ hành động khoác lên người một thứ gì đó, thường là áo choàng hoặc vật gì đó rộng rãi.\n\nVí dụ:\n- 披露 (hirou): Công bố, tiết lộ.\n- 披風 (hifuu):"
+  },
+  "comments": [
+    {
+      "id": "153832",
+      "lang": "vi",
+      "content_html": "<p>lấy tay(thủ) lột da(bì) để lộ ra</p>",
+      "content_text": "lấy tay(thủ) lột da(bì) để lộ ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153833",
+      "lang": "vi",
+      "content_html": "<p>Phi hành cần dùng tay chia vỏ( Bì) ra</p>",
+      "content_text": "Phi hành cần dùng tay chia vỏ( Bì) ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153834",
+      "lang": "vi",
+      "content_html": "<p>trước khi Phi hành, cần dùng tay xé vỏ hành ra.</p>",
+      "content_text": "trước khi Phi hành, cần dùng tay xé vỏ hành ra.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

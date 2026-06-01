@@ -1,0 +1,92 @@
+{
+  "kanji": "鳴",
+  "meta": {
+    "weight": 2997,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "メイ"
+    ],
+    "kun": [
+      "な.く",
+      "な.る",
+      "な.らす"
+    ],
+    "am_han": "MINH"
+  },
+  "meaning": {
+    "vi": "hót",
+    "en": "chirp, cry, bark, sound, ring, echo, honk"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/鳴.svg"
+  },
+  "frequency": 1279,
+  "examples": [
+    "悲鳴",
+    "鳴る",
+    "共鳴",
+    "鳴り",
+    "鳴き声"
+  ],
+  "explanation": {
+    "id": "7561",
+    "text": "鳴 (đọc là \"mei\" hoặc \"naku\") có nghĩa là \"kêu\", \"hót\" để chỉ âm thanh phát ra từ động vật hoặc các vật thể khác.\n\nVí dụ:\n- 鳴く (naku): Hót, kêu (dành cho động vật).\n- 鳴らす (narasu): Kêu, phát "
+  },
+  "comments": [
+    {
+      "id": "158062",
+      "lang": "vi",
+      "content_html": "<p>Chim KÊU RÉO như đang thanh MINH điều gì</p>",
+      "content_text": "Chim KÊU RÉO như đang thanh MINH điều gì",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158063",
+      "lang": "vi",
+      "content_html": "<p>Chim mở miệng hót buổi bình minh</p>",
+      "content_text": "Chim mở miệng hót buổi bình minh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158064",
+      "lang": "vi",
+      "content_html": "<p>CHIM (鳥) kêu (鳴) bằng mồm (口</p>",
+      "content_text": "CHIM (鳥) kêu (鳴) bằng mồm (口",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "kanji": "広",
+  "meta": {
+    "weight": 858,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "ひろ.い",
+      "ひろ.まる",
+      "ひろ.める",
+      "ひろ.がる",
+      "ひろ.げる"
+    ],
+    "am_han": "QUẢNG"
+  },
+  "meaning": {
+    "vi": "rộng, quảng trường",
+    "en": "wide, broad, spacious"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/広.svg"
+  },
+  "frequency": 263,
+  "examples": [
+    "広告",
+    "広く",
+    "広い",
+    "広島",
+    "広場"
+  ],
+  "explanation": {
+    "id": "2435",
+    "text": "広 (đọc là \"hiro\") có nghĩa là \"rộng\", \"mở rộng\" để chỉ sự không gian hoặc độ lớn của một thứ gì đó.  \nVí dụ:  \n- 広い (hiroi): Rộng rãi.  \n- 広場 (hiroba): Quảng trường.  \n- 広報 (kōhō): Truyền th"
+  },
+  "comments": [
+    {
+      "id": "191002",
+      "lang": "vi",
+      "content_html": "<p><strong>rộng</strong></p>",
+      "content_text": "rộng",
+      "image_url": "https://jpdictionary.com/upload/images/648a8cb78a626.jpg",
+      "image_path": "assets/images/広_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "593",
+      "lang": "vi",
+      "content_html": "<p>”Đây là nhà của tôi. Nó <strong>rộng </strong>phải không?”</p>",
+      "content_text": "”Đây là nhà của tôi. Nó\nrộng\nphải không?”",
+      "image_url": "https://jpdictionary.com/upload/images/629782d942d66.jpg",
+      "image_path": "assets/images/広_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221776",
+      "lang": "vi",
+      "content_html": "<p>Cất cái \"Tôi\" ở trong \"Nhà\" đi =&gt; Bao dung (Quảng)</p>",
+      "content_text": "Cất cái \"Tôi\" ở trong \"Nhà\" đi => Bao dung (Quảng)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

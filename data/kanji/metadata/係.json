@@ -1,0 +1,110 @@
+{
+  "kanji": "係",
+  "meta": {
+    "weight": 195,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "かか.る",
+      "かかり",
+      "-がかり",
+      "かか.わる"
+    ],
+    "am_han": "HỆ"
+  },
+  "meaning": {
+    "vi": "người phụ trách, quan hệ",
+    "en": "person in charge, connection, duty, concern oneself"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/係.svg"
+  },
+  "frequency": 232,
+  "examples": [
+    "関係",
+    "係",
+    "係る",
+    "無関係",
+    "係数"
+  ],
+  "explanation": {
+    "id": "1931",
+    "text": "係 (đọc là \"kei\") có nghĩa là \"liên quan\", \"kết nối\" để chỉ các mối quan hệ hoặc sự liên hệ giữa người với người hoặc giữa các sự vật.  \nVí dụ:  \n- 係員 (keiin): Nhân viên phụ trách, người quản"
+  },
+  "comments": [
+    {
+      "id": "37147",
+      "lang": "vi",
+      "content_html": "<p>Mọi người <strong>kết nối</strong> với nhau giống như sợi chỉ (糸) vậy.</p>",
+      "content_text": "Mọi người\nkết nối\nvới nhau giống như sợi chỉ (糸) vậy.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdbb0e25f32.jpg",
+      "image_path": "assets/images/係_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151677",
+      "lang": "vi",
+      "content_html": "<p>Sợi dây (chỉ) nối người với người là mối quan HỆ</p>",
+      "content_text": "Sợi dây (chỉ) nối người với người là mối quan HỆ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151678",
+      "lang": "vi",
+      "content_html": "<p>Chỉ quan HỆ với Người</p>",
+      "content_text": "Chỉ quan HỆ với Người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151679",
+      "lang": "vi",
+      "content_html": "<p>Người phụ trách là người có quan HỆ</p>",
+      "content_text": "Người phụ trách là người có quan HỆ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

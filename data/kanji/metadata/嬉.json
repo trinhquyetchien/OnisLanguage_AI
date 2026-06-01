@@ -1,0 +1,88 @@
+{
+  "kanji": "嬉",
+  "meta": {
+    "weight": 689,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "うれ.しい",
+      "たの.しむ"
+    ],
+    "am_han": "HI"
+  },
+  "meaning": {
+    "vi": "vui mừng",
+    "en": "glad, pleased, rejoice"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/嬉.svg"
+  },
+  "frequency": 2274,
+  "examples": [
+    "嬉しい",
+    "嬉々"
+  ],
+  "explanation": {
+    "id": "1269",
+    "text": "嬉 (đọc là \"ki\") có nghĩa là \"vui vẻ\", \"hạnh phúc\", thường chỉ cảm giác vui sướng hoặc hân hoan.  \nVí dụ:  \n- 嬉しい (ureshii): Vui mừng, hạnh phúc.  \n- 嬉しそう (ureshisou): Trông có vẻ vui vẻ.  \n-"
+  },
+  "comments": [
+    {
+      "id": "152885",
+      "lang": "vi",
+      "content_html": "<p>Cô gái hi vọng sớm có hỉ</p>",
+      "content_text": "Cô gái hi vọng sớm có hỉ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152886",
+      "lang": "vi",
+      "content_html": "<p>cô gái（ 女）nhặt 10 （十） hạt đậu（豆）cho vào miệng（口） thấy hạnh phúc. （嬉）</p>",
+      "content_text": "cô gái（ 女）nhặt 10 （十） hạt đậu（豆）cho vào miệng（口） thấy hạnh phúc. （嬉）",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152887",
+      "lang": "vi",
+      "content_html": "<p>cô ấy (女) mà vui (喜) thì tôi sung sướng cười HI hi hi</p>",
+      "content_text": "cô ấy (女) mà vui (喜) thì tôi sung sướng cười HI hi hi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

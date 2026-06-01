@@ -1,0 +1,32 @@
+{
+  "kanji": "掩",
+  "meta": {
+    "weight": 1123,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "おお.う"
+    ],
+    "am_han": "YỂM"
+  },
+  "meaning": {
+    "vi": "che, che khuyết điểm",
+    "en": "cover, conceal"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/掩.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "454",
+    "text": "掩 (đọc là \"en\") có nghĩa là \"che đậy\", \"bao phủ\" để chỉ các hành động liên quan đến việc che giấu hoặc bảo vệ một cái gì đó khỏi sự nhìn thấy.\n\nVí dụ:\n- 掩蔽（えんぺい, enpei): Sự che đậy, ẩn náu.\n"
+  },
+  "comments": []
+}

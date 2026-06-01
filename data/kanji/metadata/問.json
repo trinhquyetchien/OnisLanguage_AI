@@ -1,0 +1,92 @@
+{
+  "kanji": "問",
+  "meta": {
+    "weight": 500,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モン"
+    ],
+    "kun": [
+      "と.う",
+      "と.い",
+      "とん"
+    ],
+    "am_han": "VẤN"
+  },
+  "meaning": {
+    "vi": "hỏi, chất vấn",
+    "en": "question, ask, problem"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/問.svg"
+  },
+  "frequency": 64,
+  "examples": [
+    "問題",
+    "質問",
+    "疑問",
+    "訪問",
+    "問い合わせ"
+  ],
+  "explanation": {
+    "id": "7651",
+    "text": "問 (đọc là \"mon\" hoặc \"to(u)\") có nghĩa là \"hỏi\", \"đặt câu hỏi\" để chỉ các hành động liên quan đến việc yêu cầu thông tin hoặc giải thích.\n\nVí dụ:\n- 問題 (mondai): Vấn đề, câu hỏi.\n- 質問 (shitsu"
+  },
+  "comments": [
+    {
+      "id": "190941",
+      "lang": "vi",
+      "content_html": "<p><strong>hỏi</strong></p>",
+      "content_text": "hỏi",
+      "image_url": "https://jpdictionary.com/upload/images/648a74a4dfc45.jpg",
+      "image_path": "assets/images/問_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "1022",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã <strong>hỏi </strong>ở cánh cổng (門).</p>",
+      "content_text": "Tôi đã\nhỏi\nở cánh cổng (門).",
+      "image_url": "https://jpdictionary.com/upload/images/62a0a7d35bc34.jpg",
+      "image_path": "assets/images/問_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152434",
+      "lang": "vi",
+      "content_html": "<p>ra cửa khẩu đứng chất vấn</p>",
+      "content_text": "ra cửa khẩu đứng chất vấn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

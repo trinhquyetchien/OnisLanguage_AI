@@ -1,0 +1,85 @@
+{
+  "kanji": "遡",
+  "meta": {
+    "weight": 2682,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ",
+      "サク"
+    ],
+    "kun": [
+      "さかのぼ.る"
+    ],
+    "am_han": "TỐ"
+  },
+  "meaning": {
+    "vi": "ngược dòng, tìm lại quá khứ",
+    "en": "go upstream, retrace the past"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/遡.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4661",
+    "text": "遡 (đọc là \"soku\") có nghĩa là \"trở lại\", \"đi ngược dòng\" để chỉ hành động di chuyển ngược về phía nguồn gốc hoặc thời gian.  \nVí dụ:  \n- 遡る (sokoru): Trở lại, đi ngược lại (dòng sông, thời g"
+  },
+  "comments": [
+    {
+      "id": "220855",
+      "lang": "vi",
+      "content_html": "<p>Chị nguyệt （月）leo (のぼる）dốc (さか）ngược lại ( 逆） đầy bão TỐ :)) có cả cách đọc cả cách nhớ chữ hán</p>",
+      "content_text": "Chị nguyệt （月）leo (のぼる）dốc (さか）ngược lại ( 逆） đầy bão TỐ :)) có cả cách đọc cả cách nhớ chữ hán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220856",
+      "lang": "vi",
+      "content_html": "<p>Tố đi ngược con đường để tìm lại nguyệt</p>",
+      "content_text": "Tố đi ngược con đường để tìm lại nguyệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220857",
+      "lang": "vi",
+      "content_html": "<p>chị Nguyệt bị Tố cáo đi Ngược ( Nghịch)  đường</p>",
+      "content_text": "chị Nguyệt bị Tố cáo đi Ngược ( Nghịch)  đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

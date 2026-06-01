@@ -1,0 +1,93 @@
+{
+  "kanji": "拡",
+  "meta": {
+    "weight": 1080,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク",
+      "コウ"
+    ],
+    "kun": [
+      "ひろ.がる",
+      "ひろ.げる",
+      "ひろ.める"
+    ],
+    "am_han": "KHUẾCH"
+  },
+  "meaning": {
+    "vi": "mở rộng, phóng to",
+    "en": "broaden, extend, expand, enlarge"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/拡.svg"
+  },
+  "frequency": 611,
+  "examples": [
+    "拡大",
+    "拡張",
+    "拡充",
+    "拡散",
+    "拡がり"
+  ],
+  "explanation": {
+    "id": "894",
+    "text": "拡 (đọc là \"kaku\") có nghĩa là \"mở rộng\", chỉ các hành động liên quan đến việc gia tăng kích thước hoặc phạm vi.  \nVí dụ:  \n- 拡張 (kakuchō): Mở rộng, mở rộng không gian.  \n- 拡大 (kakudai): Phón"
+  },
+  "comments": [
+    {
+      "id": "153880",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay khuyếch đại mở rộng</p>",
+      "content_text": "Dùng tay khuyếch đại mở rộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153881",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay khuếch đại quảng trường</p>",
+      "content_text": "Dùng tay khuếch đại quảng trường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153882",
+      "lang": "vi",
+      "content_html": "<p>Vào TAY anh QUẢNG nổ thì cái gì cũng được KHUẾCH đại</p>",
+      "content_text": "Vào TAY anh QUẢNG nổ thì cái gì cũng được KHUẾCH đại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

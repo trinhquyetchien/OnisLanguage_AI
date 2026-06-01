@@ -1,0 +1,86 @@
+{
+  "kanji": "旭",
+  "meta": {
+    "weight": 1215,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョク"
+    ],
+    "kun": [
+      "あさひ"
+    ],
+    "am_han": "HÚC"
+  },
+  "meaning": {
+    "vi": "mặt trời mọc, mặt trời ban mai",
+    "en": "rising sun, morning sun"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/旭.svg"
+  },
+  "frequency": 1417,
+  "examples": [
+    "旭"
+  ],
+  "explanation": {
+    "id": "42",
+    "text": "旭 (đọc là \"kyoku\" hoặc \"asahi\") có nghĩa là \"ánh sáng\" hoặc \"mặt trời mọc\", thường chỉ sự tươi sáng, hy vọng và khởi đầu mới. \n\nVí dụ:\n- 旭日 (kyokujitsu): Mặt trời mọc.\n- 旭光 (kyokkō): Ánh sán"
+  },
+  "comments": [
+    {
+      "id": "154192",
+      "lang": "vi",
+      "content_html": "<p>sáng sớm ban ngày húc 9 lon bia asahi</p>",
+      "content_text": "sáng sớm ban ngày húc 9 lon bia asahi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154193",
+      "lang": "vi",
+      "content_html": "<p>9 ngày uống bò húc</p>",
+      "content_text": "9 ngày uống bò húc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154194",
+      "lang": "vi",
+      "content_html": "<p>9 ngày HÚC 9 lon bia Asahi khi mặt trời mới mọc</p>",
+      "content_text": "9 ngày HÚC 9 lon bia Asahi khi mặt trời mới mọc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

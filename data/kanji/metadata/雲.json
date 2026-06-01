@@ -1,0 +1,91 @@
+{
+  "kanji": "雲",
+  "meta": {
+    "weight": 2867,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ウン"
+    ],
+    "kun": [
+      "くも",
+      "-ぐも"
+    ],
+    "am_han": "VÂN"
+  },
+  "meaning": {
+    "vi": "mây",
+    "en": "cloud"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/雲.svg"
+  },
+  "frequency": 1256,
+  "examples": [
+    "雲",
+    "出雲",
+    "星雲",
+    "八雲",
+    "雲泥の差"
+  ],
+  "explanation": {
+    "id": "352",
+    "text": "雲 (đọc là \"kumo\") có nghĩa là \"mây\", chỉ các đám mây trên bầu trời.  \nVí dụ:  \n- 雲海 (unkai): Biển mây, cảnh tượng mây bao phủ như biển.  \n- 雲の上 (kumo no ue): Trên mây, thường dùng để chỉ một"
+  },
+  "comments": [
+    {
+      "id": "157798",
+      "lang": "vi",
+      "content_html": "<p>hai (NHỊ) người ở trong phòng riêng tư (KHƯ) mây (VÂN) mưa (VŨ) với nhau</p>",
+      "content_text": "hai (NHỊ) người ở trong phòng riêng tư (KHƯ) mây (VÂN) mưa (VŨ) với nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157799",
+      "lang": "vi",
+      "content_html": "<p>mưa được truyền đi khắp nơi gọi là mây</p>",
+      "content_text": "mưa được truyền đi khắp nơi gọi là mây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157800",
+      "lang": "vi",
+      "content_html": "<p>Vân (云) dưới mưa (雨) vẫn là Vân。</p>",
+      "content_text": "Vân (云) dưới mưa (雨) vẫn là Vân。",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

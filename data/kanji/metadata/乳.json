@@ -1,0 +1,108 @@
+{
+  "kanji": "乳",
+  "meta": {
+    "weight": 106,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ニュウ"
+    ],
+    "kun": [
+      "ちち",
+      "ち"
+    ],
+    "am_han": "NHŨ"
+  },
+  "meaning": {
+    "vi": "sữa, nhũ mẫu",
+    "en": "milk, breasts"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/乳.svg"
+  },
+  "frequency": 1289,
+  "examples": [
+    "牛乳",
+    "乳",
+    "乳幼児",
+    "豆乳",
+    "母乳"
+  ],
+  "explanation": {
+    "id": "6114",
+    "text": "乳 (đọc là \"nyū\" hoặc \"chi\") có nghĩa là \"sữa\" hoặc \"vú\", thường chỉ các khía cạnh liên quan đến sữa mẹ hoặc mô cơ thể có chứa sữa.\n\nVí dụ:\n- 乳製品 (nyūseihin): Sản phẩm từ sữa.\n- 乳房 (nyūbō): V"
+  },
+  "comments": [
+    {
+      "id": "151466",
+      "lang": "vi",
+      "content_html": "<p>Loài hữu nhũ là những loài có đặc điểm như sau: 1. Có móng, 2. Đẻ con, 3. Có đuôi</p>",
+      "content_text": "Loài hữu nhũ là những loài có đặc điểm như sau: 1. Có móng, 2. Đẻ con, 3. Có đuôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190754",
+      "lang": "vi",
+      "content_html": "<p>Móng vuốt của trẻ con cong như chữ Nhũ</p>",
+      "content_text": "Móng vuốt của trẻ con cong như chữ Nhũ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "151467",
+      "lang": "vi",
+      "content_html": "<p>Đứa con tựa vào Lưng mẹ hứng 4 giọt sữa</p>",
+      "content_text": "Đứa con tựa vào Lưng mẹ hứng 4 giọt sữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151468",
+      "lang": "vi",
+      "content_html": "<p>đứa trẻ tay cầm vú bú sữa</p>",
+      "content_text": "đứa trẻ tay cầm vú bú sữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

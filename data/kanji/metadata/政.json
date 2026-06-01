@@ -1,0 +1,92 @@
+{
+  "kanji": "政",
+  "meta": {
+    "weight": 1170,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "まつりごと",
+      "まん"
+    ],
+    "am_han": "CHÍNH"
+  },
+  "meaning": {
+    "vi": "chính trị, chính phủ",
+    "en": "politics, government"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/政.svg"
+  },
+  "frequency": 17,
+  "examples": [
+    "政府",
+    "政治",
+    "政策",
+    "行政",
+    "財政"
+  ],
+  "explanation": {
+    "id": "4306",
+    "text": "政 (đọc là \"sei\") có nghĩa là \"chính trị\", \"chính quyền\" để chỉ các hành động và công việc liên quan đến quản lý nhà nước và chính sách.  \nVí dụ:  \n- 政府 (seifu): Chính phủ.  \n- 政治 (seiji): Ch"
+  },
+  "comments": [
+    {
+      "id": "37131",
+      "lang": "vi",
+      "content_html": "<p><strong>Chính phủ</strong> nên thực thi những điều đúng đắn (正).</p>",
+      "content_text": "Chính phủ\nnên thực thi những điều đúng đắn (正).",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb977aeb4a.jpg",
+      "image_path": "assets/images/政_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154077",
+      "lang": "vi",
+      "content_html": "<p>CHÍNH (政) trị: hoặc làm ĐÚNG (正) hoặc bị ĐÁNH (攵).</p>",
+      "content_text": "CHÍNH (政) trị: hoặc làm ĐÚNG (正) hoặc bị ĐÁNH (攵).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158994",
+      "lang": "vi",
+      "content_html": "<p>Chữ 政 trong tiếng Nhật được phát âm là sei. Nó có nghĩa là \"chính phủ\" hoặc \"quản lý chính trị\".</p><p>Ví dụ, từ 政治 (seiji) có nghĩa là \"chính trị\". Chữ 政 cũng có thể xuất hiện trong các từ khác như 政策 (seisaku) có nghĩa là \"chính sách\" hoặc 政府 (seifu) có nghĩa là \"chính phủ\".</p>",
+      "content_text": "Chữ 政 trong tiếng Nhật được phát âm là sei. Nó có nghĩa là \"chính phủ\" hoặc \"quản lý chính trị\".\nVí dụ, từ 政治 (seiji) có nghĩa là \"chính trị\". Chữ 政 cũng có thể xuất hiện trong các từ khác như 政策 (seisaku) có nghĩa là \"chính sách\" hoặc 政府 (seifu) có nghĩa là \"chính phủ\".",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "2",
+        "name": "ピカチュウ",
+        "image_url": "https://jpdictionary.com/upload/images/63918f2e8dcf1.png"
+      }
+    }
+  ]
+}

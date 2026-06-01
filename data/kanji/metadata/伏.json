@@ -1,0 +1,91 @@
+{
+  "kanji": "伏",
+  "meta": {
+    "weight": 155,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フク"
+    ],
+    "kun": [
+      "ふ.せる",
+      "ふ.す"
+    ],
+    "am_han": "PHỤC"
+  },
+  "meaning": {
+    "vi": "phủ phục, cúi xuống, cúi đầu, che, nằm (ống dẫn)",
+    "en": "prostrated, bend down, bow, cover, lay (pipes)"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/伏.svg"
+  },
+  "frequency": 1604,
+  "examples": [
+    "伏線",
+    "降伏",
+    "起伏",
+    "潜伏",
+    "待ち伏せ"
+  ],
+  "explanation": {
+    "id": "6895",
+    "text": "伏 (đọc là \"fuku\") có nghĩa là \"phục tùng\", \"nằm phục\", chỉ các hành động liên quan đến việc cúi đầu, nằm xuống hoặc ẩn mình.\n\nVí dụ:\n- 伏せる (fuseru): Nằm sấp, cúi xuống.\n- 伏兵 (fukubō): Quân l"
+  },
+  "comments": [
+    {
+      "id": "151579",
+      "lang": "vi",
+      "content_html": "<p>Phục kích người trộm chó</p>",
+      "content_text": "Phục kích người trộm chó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151580",
+      "lang": "vi",
+      "content_html": "<p>chú chó nằm phục trước một người</p>",
+      "content_text": "chú chó nằm phục trước một người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151581",
+      "lang": "vi",
+      "content_html": "<p>Chú chó cúi đầu xuống chào chủ về</p>",
+      "content_text": "Chú chó cúi đầu xuống chào chủ về",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

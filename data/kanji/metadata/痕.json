@@ -1,0 +1,87 @@
+{
+  "kanji": "痕",
+  "meta": {
+    "weight": 1807,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン"
+    ],
+    "kun": [
+      "あと"
+    ],
+    "am_han": "NGÂN"
+  },
+  "meaning": {
+    "vi": "đánh dấu, in chân",
+    "en": "mark, foot print"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/痕.svg"
+  },
+  "frequency": 1958,
+  "examples": [
+    "痕跡",
+    "痕"
+  ],
+  "explanation": {
+    "id": "2712",
+    "text": "痕 (đọc là \"kon\") có nghĩa là \"dấu vết\", \"vết tích\" để chỉ các dấu hiệu còn lại sau một sự kiện hoặc quá trình nào đó.\n\nVí dụ:\n- 痕跡 (konseki): Dấu vết, vết tích.\n- 傷痕 (shoukon): Vết thương, s"
+  },
+  "comments": [
+    {
+      "id": "155467",
+      "lang": "vi",
+      "content_html": "<p>Bệnh chuyển tốt nhưng vẫn đẻ lại sẹo</p>",
+      "content_text": "Bệnh chuyển tốt nhưng vẫn đẻ lại sẹo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155468",
+      "lang": "vi",
+      "content_html": "<p>cấn bị bệnh đến ngân hàng rút tiền chữa trị</p>",
+      "content_text": "cấn bị bệnh đến ngân hàng rút tiền chữa trị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155469",
+      "lang": "vi",
+      "content_html": "<p>Bị bệnh lấn Cấn vết sẹo nên phải giải NGÂN</p>",
+      "content_text": "Bị bệnh lấn Cấn vết sẹo nên phải giải NGÂN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

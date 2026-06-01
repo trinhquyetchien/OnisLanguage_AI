@@ -1,0 +1,87 @@
+{
+  "kanji": "蔽",
+  "meta": {
+    "weight": 2339,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘイ",
+      "ヘツ",
+      "フツ"
+    ],
+    "kun": [
+      "おお.う",
+      "おお.い"
+    ],
+    "am_han": "TẾ, PHẤT"
+  },
+  "meaning": {
+    "vi": "che phủ, bóng râm, lớp phủ, lật úp, bị hủy hoại",
+    "en": "cover, shade, mantle, capsize, be ruined"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/蔽.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7011",
+    "text": "蔽 (đọc là \"hi\", \"bi\") có nghĩa là \"che đậy\", \"bịt lại\" để chỉ hành động làm cho một cái gì đó không thể nhìn thấy hoặc không rõ ràng.\n\nVí dụ:\n- 蔽日 (hijitsu): Che khuất ánh sáng mặt trời.\n- 蔽"
+  },
+  "comments": [
+    {
+      "id": "220572",
+      "lang": "vi",
+      "content_html": "<p>dùng cỏ che lấp gạo 1 cách tinh tế</p>",
+      "content_text": "dùng cỏ che lấp gạo 1 cách tinh tế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220573",
+      "lang": "vi",
+      "content_html": "<p>Phộc 攵 là ĐÁNH,Mễ 米  là GẠO,MỊCH 冖 là cái KHĂN.  THẢO艹 là CỎ,Cách nhớ: ĐÁNH đổ GẠO không chịu dọn dẹp mà lấy KHĂN và CỎ che đậy rất tinh TẾ.</p>",
+      "content_text": "Phộc 攵 là ĐÁNH,Mễ 米  là GẠO,MỊCH 冖 là cái KHĂN.  THẢO艹 là CỎ,Cách nhớ: ĐÁNH đổ GẠO không chịu dọn dẹp mà lấy KHĂN và CỎ che đậy rất tinh TẾ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220574",
+      "lang": "vi",
+      "content_html": "<p>Che đậy tinh Tế vụ án Cỏ và Lúa Đánh nhau ở Biên giới.</p>",
+      "content_text": "Che đậy tinh Tế vụ án Cỏ và Lúa Đánh nhau ở Biên giới.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "kanji": "基",
+  "meta": {
+    "weight": 568,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "もと",
+      "もとい"
+    ],
+    "am_han": "CƠ"
+  },
+  "meaning": {
+    "vi": "nguyên tắc cơ bản, nền tảng",
+    "en": "fundamentals, radical (chem), counter for machines, foundation"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/基.svg"
+  },
+  "frequency": 241,
+  "examples": [
+    "基本",
+    "基準",
+    "基礎",
+    "基地",
+    "基盤"
+  ],
+  "explanation": {
+    "id": "1261",
+    "text": "基 (đọc là \"ki\") có nghĩa là \"căn cứ\", \"nền tảng\" để chỉ các cơ sở, nguyên tắc hoặc nền tảng của một cái gì đó.\n\nVí dụ:\n- 基本 (kibon): Căn bản, cơ bản.\n- 基準 (kijun): Tiêu chuẩn, tiêu chí.\n- 基礎"
+  },
+  "comments": [
+    {
+      "id": "152602",
+      "lang": "vi",
+      "content_html": "<p>kì này có cơ hội mua miếng đất</p>",
+      "content_text": "kì này có cơ hội mua miếng đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152603",
+      "lang": "vi",
+      "content_html": "<p>Cam Ngọt CƠ bản do Đất</p>",
+      "content_text": "Cam Ngọt CƠ bản do Đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "159004",
+      "lang": "vi",
+      "content_html": "<p>Chữ Hán 基 có nghĩa là \"căn cứ\" hoặc \"nguồn gốc\".<br>Ví dụ:</p><p>私たちの社会は、基本的な倫理的価値観に基づいています。</p><p>(Watashitachi no shakai wa, kihonteki na rinriteki kachikan ni motozuita imasu.)</p><p>Xã hội của chúng ta dựa trên những giá trị luật lệ cơ bản.</p>",
+      "content_text": "Chữ Hán 基 có nghĩa là \"căn cứ\" hoặc \"nguồn gốc\".\nVí dụ:\n私たちの社会は、基本的な倫理的価値観に基づいています。\n(Watashitachi no shakai wa, kihonteki na rinriteki kachikan ni motozuita imasu.)\nXã hội của chúng ta dựa trên những giá trị luật lệ cơ bản.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "2",
+        "name": "ピカチュウ",
+        "image_url": "https://jpdictionary.com/upload/images/63918f2e8dcf1.png"
+      }
+    },
+    {
+      "id": "221626",
+      "lang": "vi",
+      "content_html": "<p>Chữ Hán 基 (đọc là \"ki\") có nghĩa là \"cơ bản,\" \"nền tảng,\" hoặc \"căn bản\" để chỉ các khái niệm cơ bản, nền tảng hoặc cơ sở.</p><p>Ví dụ:</p><ol><li><strong>基本 (kihon)</strong>: Cơ bản, cơ sở.</li><li><strong>基準 (kijun)</strong>: Tiêu chuẩn, chuẩn mực.</li><li><strong>基礎 (kiso)</strong>: Nền tảng, cơ sở.</li><li><strong>基地 (kichi)</strong>: Căn cứ, căn cứ quân sự.</li></ol>",
+      "content_text": "Chữ Hán 基 (đọc là \"ki\") có nghĩa là \"cơ bản,\" \"nền tảng,\" hoặc \"căn bản\" để chỉ các khái niệm cơ bản, nền tảng hoặc cơ sở.\nVí dụ:\n基本 (kihon)\n: Cơ bản, cơ sở.\n基準 (kijun)\n: Tiêu chuẩn, chuẩn mực.\n基礎 (kiso)\n: Nền tảng, cơ sở.\n基地 (kichi)\n: Căn cứ, căn cứ quân sự.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "152604",
+      "lang": "vi",
+      "content_html": "<p>Kì này mua Đất là có Cơ sở</p>",
+      "content_text": "Kì này mua Đất là có Cơ sở",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

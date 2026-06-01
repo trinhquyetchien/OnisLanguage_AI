@@ -1,0 +1,88 @@
+{
+  "kanji": "妬",
+  "meta": {
+    "weight": 654,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ト",
+      "ツ"
+    ],
+    "kun": [
+      "ねた.む",
+      "そね.む",
+      "つも.る",
+      "ふさ.ぐ"
+    ],
+    "am_han": "ĐỐ"
+  },
+  "meaning": {
+    "vi": "ghen tị, đố kỵ",
+    "en": "jealous, envy"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/妬.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5709",
+    "text": "妬 (đọc là \"to\") có nghĩa là \"ghen tị\", \"ghen ghét\" để chỉ cảm giác không hài lòng với thành công hoặc hạnh phúc của người khác.\n\nVí dụ:\n- 妬む (netamu): Ghen tị, ghen ghét.\n- 妬嫉 (toshi): Sự gh"
+  },
+  "comments": [
+    {
+      "id": "219294",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ đố kị thường ném đá nhau</p>",
+      "content_text": "Phụ nữ đố kị thường ném đá nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219295",
+      "lang": "vi",
+      "content_html": "<p>Con gái lòng dạ sắt đá = đố kị</p>",
+      "content_text": "Con gái lòng dạ sắt đá = đố kị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219296",
+      "lang": "vi",
+      "content_html": "<p>Đố kỵ như 1 tảng đá cảng bước người phụ nữ</p>",
+      "content_text": "Đố kỵ như 1 tảng đá cảng bước người phụ nữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

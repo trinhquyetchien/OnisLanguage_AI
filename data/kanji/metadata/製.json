@@ -1,0 +1,105 @@
+{
+  "kanji": "製",
+  "meta": {
+    "weight": 2429,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ"
+    ],
+    "kun": [],
+    "am_han": "CHẾ"
+  },
+  "meaning": {
+    "vi": "made in ..., sản xuất",
+    "en": "made in..., manufacture"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/製.svg"
+  },
+  "frequency": 488,
+  "examples": [
+    "製品",
+    "製造",
+    "製",
+    "製作",
+    "複製"
+  ],
+  "explanation": {
+    "id": "4344",
+    "text": "製 (đọc là \"sei\") có nghĩa là \"sản xuất\", \"chế tạo\" để chỉ các hành động liên quan đến việc sản xuất hoặc chế biến hàng hóa.  \nVí dụ:  \n- 製品 (seihin): Sản phẩm.  \n- 製造 (seizō): Sản xuất, chế "
+  },
+  "comments": [
+    {
+      "id": "156760",
+      "lang": "vi",
+      "content_html": "<p>Lấy dao CHẾ da trâu thành Y Phục</p>",
+      "content_text": "Lấy dao CHẾ da trâu thành Y Phục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191177",
+      "lang": "vi",
+      "content_html": "<p><strong>chế </strong>tạo - 製造</p>",
+      "content_text": "chế\ntạo - 製造",
+      "image_url": "https://jpdictionary.com/upload/images/648ad4fa5d6d2.jpg",
+      "image_path": "assets/images/製_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "156761",
+      "lang": "vi",
+      "content_html": "<p>Chế tạo (製) bộ Y phục phụ vụ cho Chế độ (制) này</p>",
+      "content_text": "Chế tạo (製) bộ Y phục phụ vụ cho Chế độ (制) này",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156762",
+      "lang": "vi",
+      "content_html": "<p>Con bò tót (bò tót và tấm khăn) sau trận đấu bị dùng Dao rạch da CHẾ thành Y phục</p>",
+      "content_text": "Con bò tót (bò tót và tấm khăn) sau trận đấu bị dùng Dao rạch da CHẾ thành Y phục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

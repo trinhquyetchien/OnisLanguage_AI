@@ -1,0 +1,90 @@
+{
+  "kanji": "炉",
+  "meta": {
+    "weight": 1646,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロ"
+    ],
+    "kun": [
+      "いろり"
+    ],
+    "am_han": "LÔ, LÒ, LƯ"
+  },
+  "meaning": {
+    "vi": "lò sưởi, lò nung, lò phản ứng",
+    "en": "hearth, furnace, kiln, reactor"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/炉.svg"
+  },
+  "frequency": 1359,
+  "examples": [
+    "炉",
+    "暖炉",
+    "焼却炉",
+    "囲炉裏",
+    "軽水炉"
+  ],
+  "explanation": {
+    "id": "8306",
+    "text": "炉 (đọc là \"ろ\", romaji: \"ro\") có nghĩa là \"lò\", thường chỉ về lò sưởi hoặc lò nung. \n\nVí dụ:\n- 炉辺 (robhen): Bên lò, nơi gần với lò sưởi.\n- かまど (kamado): Lò nấu ăn, lò đất.\n- 炉心 (roshin): Tâm "
+  },
+  "comments": [
+    {
+      "id": "155141",
+      "lang": "vi",
+      "content_html": "<p>Cửa nhét Lửa vào là cửa LÒ</p>",
+      "content_text": "Cửa nhét Lửa vào là cửa LÒ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155142",
+      "lang": "vi",
+      "content_html": "<p>Cửa lửa là cái lò</p>",
+      "content_text": "Cửa lửa là cái lò",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155143",
+      "lang": "vi",
+      "content_html": "<p>Đốt 1 LÔ cửa của căn hộ để làm lò sưởi</p>",
+      "content_text": "Đốt 1 LÔ cửa của căn hộ để làm lò sưởi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "kanji": "牝",
+  "meta": {
+    "weight": 1693,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒン"
+    ],
+    "kun": [
+      "めす",
+      "め-",
+      "めん"
+    ],
+    "am_han": "TẪN, BẪN"
+  },
+  "meaning": {
+    "vi": "giống cái",
+    "en": "female"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/牝.svg"
+  },
+  "frequency": 2300,
+  "examples": [
+    "牝馬",
+    "牝"
+  ],
+  "explanation": {
+    "id": "7567",
+    "text": "牝 (đọc là \"hin\") có nghĩa là \"cái\" để chỉ giống cái, đặc biệt trong ngữ cảnh động vật. \n\nVí dụ:\n- 牝馬 (hinba): Ngựa cái.\n- 牝犬 (hinken): Chó cái.\n- 牝牛 (hingyū): Bò cái."
+  },
+  "comments": [
+    {
+      "id": "155234",
+      "lang": "vi",
+      "content_html": "<p>tất cả con bò Cười HiHi đều là bò cái. Rontaro Nguyen</p>",
+      "content_text": "tất cả con bò Cười HiHi đều là bò cái. Rontaro Nguyen",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

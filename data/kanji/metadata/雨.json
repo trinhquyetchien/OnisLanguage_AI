@@ -1,0 +1,109 @@
+{
+  "kanji": "雨",
+  "meta": {
+    "weight": 2863,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ウ"
+    ],
+    "kun": [
+      "あめ",
+      "あま-",
+      "-さめ"
+    ],
+    "am_han": "VŨ"
+  },
+  "meaning": {
+    "vi": "mưa",
+    "en": "rain"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/雨.svg"
+  },
+  "frequency": 950,
+  "examples": [
+    "雨",
+    "梅雨",
+    "大雨",
+    "豪雨",
+    "小雨"
+  ],
+  "explanation": {
+    "id": "297",
+    "text": "雨 (đọc là \"u\" hoặc \"ame\") có nghĩa là \"mưa\", chỉ các hiện tượng thời tiết liên quan đến nước rơi từ bầu trời.\nVí dụ:\n- 雨天 (uiten): Thời tiết mưa, ngày mưa.\n- 雨傘 (amagasa): Dù che mưa.\n- 大雨 ("
+  },
+  "comments": [
+    {
+      "id": "620",
+      "lang": "vi",
+      "content_html": "<p>Chữ Hán này được ghép thành từ đám mây và những giọt <strong>mưa</strong>.</p>",
+      "content_text": "Chữ Hán này được ghép thành từ đám mây và những giọt\nmưa\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629788b3bed66.jpg",
+      "image_path": "assets/images/雨_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157788",
+      "lang": "vi",
+      "content_html": "<p>Nhìn hình chú ý một chút sẽ thấy chữ T nằm chồng lên chữ M, cách nhớ sẽ là:<br>[T]rời [M]ưa [4] hạt.<br>Còn theo giải thích nghĩa cổ, chữ Nhất tượng trưng cho bầu trời, Cổn chỉ hướng mưa rơi từ trên xuống, Quynh chỉ khu vực trời đổ mưa, 4 nét Chủ là hình tượng</p>",
+      "content_text": "Nhìn hình chú ý một chút sẽ thấy chữ T nằm chồng lên chữ M, cách nhớ sẽ là:\n[T]rời [M]ưa [4] hạt.\nCòn theo giải thích nghĩa cổ, chữ Nhất tượng trưng cho bầu trời, Cổn chỉ hướng mưa rơi từ trên xuống, Quynh chỉ khu vực trời đổ mưa, 4 nét Chủ là hình tượng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158469",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>雨 (あめ): mưa</p>",
+      "content_text": "JLPT N5\n雨 (あめ): mưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "190580",
+      "lang": "vi",
+      "content_html": "<p>Mưa rơi nặng hạt</p>",
+      "content_text": "Mưa rơi nặng hạt",
+      "image_url": "https://jpdictionary.com/upload/images/63bd504b8ecdc.jpg",
+      "image_path": "assets/images/雨_4.jpg",
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

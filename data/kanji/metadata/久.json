@@ -1,0 +1,91 @@
+{
+  "kanji": "久",
+  "meta": {
+    "weight": 95,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ",
+      "ク"
+    ],
+    "kun": [
+      "ひさ.しい"
+    ],
+    "am_han": "CỬU"
+  },
+  "meaning": {
+    "vi": "lâu, vĩnh cửu",
+    "en": "long time, old story"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/久.svg"
+  },
+  "frequency": 688,
+  "examples": [
+    "久しぶり",
+    "久々",
+    "永久",
+    "耐久",
+    "恒久"
+  ],
+  "explanation": {
+    "id": "1500",
+    "text": "久 (đọc là \"kyuu\" hoặc \"ku\") có nghĩa là \"lâu\", \"dài\" để chỉ khoảng thời gian kéo dài.  \nVí dụ:  \n- 久しぶり (hisashiburi): Lâu lắm không gặp.  \n- 久遠 (kuon): Vĩnh cửu, mãi mãi.  \n- 久しさ (hisashisa"
+  },
+  "comments": [
+    {
+      "id": "151443",
+      "lang": "vi",
+      "content_html": "<p>con Người (人) Cứ (ク) đi tìm những thứ vĩnh Cửu.</p>",
+      "content_text": "con Người (人) Cứ (ク) đi tìm những thứ vĩnh Cửu.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151444",
+      "lang": "vi",
+      "content_html": "<p>タ sẽ vĩnh cửu ngay cả khi trống gậy</p>",
+      "content_text": "タ sẽ vĩnh cửu ngay cả khi trống gậy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151445",
+      "lang": "vi",
+      "content_html": "<p>Người đã nằm xuống thì Vĩnh cửu không thể sống lại được</p>",
+      "content_text": "Người đã nằm xuống thì Vĩnh cửu không thể sống lại được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

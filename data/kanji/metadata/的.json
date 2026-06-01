@@ -1,0 +1,90 @@
+{
+  "kanji": "的",
+  "meta": {
+    "weight": 1821,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テキ"
+    ],
+    "kun": [
+      "まと"
+    ],
+    "am_han": "ĐÍCH"
+  },
+  "meaning": {
+    "vi": "đích, mục đích",
+    "en": "bull's eye, mark, target, object, adjective ending"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/的.svg"
+  },
+  "frequency": 105,
+  "examples": [
+    "的",
+    "目的",
+    "知的",
+    "比較的",
+    "法的"
+  ],
+  "explanation": {
+    "id": "5622",
+    "text": "的 (đọc là \"teki\") có nghĩa là \"của\" hoặc \"thuộc về\", thường được dùng để chỉ mối quan hệ sở hữu hoặc mô tả tính chất của một đối tượng. \n\nVí dụ:\n- 目的 (mokuteki): Mục đích.\n- 的確 (tekikaku): C"
+  },
+  "comments": [
+    {
+      "id": "37280",
+      "lang": "vi",
+      "content_html": "<p>Đó là tấm <strong>đích </strong>để bắn màu trắng (白).</p>",
+      "content_text": "Đó là tấm\nđích\nđể bắn màu trắng (白).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdc927b976.jpg",
+      "image_path": "assets/images/的_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191129",
+      "lang": "vi",
+      "content_html": "<p><strong>đích</strong></p>",
+      "content_text": "đích",
+      "image_url": "https://jpdictionary.com/upload/images/648ac4df2c935.jpg",
+      "image_path": "assets/images/的_2.jpg",
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "155503",
+      "lang": "vi",
+      "content_html": "<p>Mục ĐÍCH cho BẠCH thí CHỦ vào trong BAO</p>",
+      "content_text": "Mục ĐÍCH cho BẠCH thí CHỦ vào trong BAO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

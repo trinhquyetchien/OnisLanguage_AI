@@ -1,0 +1,90 @@
+{
+  "kanji": "酸",
+  "meta": {
+    "weight": 2722,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン"
+    ],
+    "kun": [
+      "す.い"
+    ],
+    "am_han": "TOAN"
+  },
+  "meaning": {
+    "vi": "axit, đắng, chua",
+    "en": "acid, bitterness, sour, tart"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/酸.svg"
+  },
+  "frequency": 1218,
+  "examples": [
+    "酸",
+    "酸素",
+    "酸化",
+    "炭酸",
+    "二酸化炭素"
+  ],
+  "explanation": {
+    "id": "3023",
+    "text": "酸 (đọc là \"san\") có nghĩa là \"chua\", chỉ chất có vị chua hoặc có tính acid. \n\nVí dụ:\n- 酸っぱい (suppai): Chua, có vị chua.\n- 酸素 (sanso): Oxy.\n- 酸化 (sanka): Sự oxi hóa."
+  },
+  "comments": [
+    {
+      "id": "157494",
+      "lang": "vi",
+      "content_html": "<p>RƯỢU( 酉) SAU(夂) khi lên men quá mức THÀNH THẬT(允) là đã bị CHUA</p>",
+      "content_text": "RƯỢU( 酉) SAU(夂) khi lên men quá mức THÀNH THẬT(允) là đã bị CHUA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157495",
+      "lang": "vi",
+      "content_html": "<p>Rượu + men chua = axit . Bài TOÁN muôn thủa</p>",
+      "content_text": "Rượu + men chua = axit . Bài TOÁN muôn thủa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157496",
+      "lang": "vi",
+      "content_html": "<p>Dùng rượu lên men thành axit để bóp chân trên</p>",
+      "content_text": "Dùng rượu lên men thành axit để bóp chân trên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

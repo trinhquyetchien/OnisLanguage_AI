@@ -1,0 +1,54 @@
+{
+  "kanji": "捌",
+  "meta": {
+    "weight": 1100,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハツ",
+      "ハチ",
+      "ベツ"
+    ],
+    "kun": [
+      "さば.く",
+      "さば.ける",
+      "は.け"
+    ],
+    "am_han": "BÁT"
+  },
+  "meaning": {
+    "vi": "xử lý, đối phó với, vứt bỏ, bán, có nhu cầu, là thế giới, thẳng thắn, hợp lý, hòa đồng, thoát nước, yêu cầu, tám",
+    "en": "handle, deal with, dispose of, sell, be in demand, be worldly, be frank, be sensible, be sociable, drainage, sale, demand for, eight"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/捌.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2961",
+    "text": "捌 (đọc là \"haku\" hoặc \"batsu\") có nghĩa là \"xử lý\", \"phân chia\" để chỉ các hành động liên quan đến việc quản lý, sắp xếp hoặc phân phối.\n\nVí dụ:\n- 捌く (habuku): Xử lý, phân chia.\n- 捌ける (habuk"
+  },
+  "comments": [
+    {
+      "id": "219603",
+      "lang": "vi",
+      "content_html": "<p>dùng TAY (手) tách BIỆT (別) ra làm tám (BÁT)</p>",
+      "content_text": "dùng TAY (手) tách BIỆT (別) ra làm tám (BÁT)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

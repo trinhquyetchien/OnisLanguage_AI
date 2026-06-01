@@ -1,0 +1,91 @@
+{
+  "kanji": "携",
+  "meta": {
+    "weight": 1142,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "たずさ.える",
+      "たずさ.わる"
+    ],
+    "am_han": "HUỀ"
+  },
+  "meaning": {
+    "vi": "xách tay, mang theo (trong tay), được trang bị, mang theo",
+    "en": "portable, carry (in hand), armed with, bring along"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/携.svg"
+  },
+  "frequency": 1017,
+  "examples": [
+    "携帯",
+    "連携",
+    "提携",
+    "携わる",
+    "必携"
+  ],
+  "explanation": {
+    "id": "1979",
+    "text": "携 (đọc là \"kei\") có nghĩa là \"mang theo\", \"cầm\", chỉ hành động mang theo hoặc đi cùng ai đó.  \nVí dụ:  \n- 携帯電話 (keitai denwa): Điện thoại di động.  \n- 携える (tazusaeru): Mang theo, cầm theo.  "
+  },
+  "comments": [
+    {
+      "id": "154017",
+      "lang": "vi",
+      "content_html": "<p>Tay mang theo 13 con chim đề huề</p>",
+      "content_text": "Tay mang theo 13 con chim đề huề",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154018",
+      "lang": "vi",
+      "content_html": "<p>13con chim bắt tay làm huề</p>",
+      "content_text": "13con chim bắt tay làm huề",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154019",
+      "lang": "vi",
+      "content_html": "<p>Bắt chim số 13 để làm huề</p>",
+      "content_text": "Bắt chim số 13 để làm huề",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

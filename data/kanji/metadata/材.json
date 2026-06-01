@@ -1,0 +1,88 @@
+{
+  "kanji": "材",
+  "meta": {
+    "weight": 1289,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ザイ"
+    ],
+    "kun": [],
+    "am_han": "TÀI"
+  },
+  "meaning": {
+    "vi": "tài liệu, nhân tài",
+    "en": "lumber, log, timber, wood, materials, ingredients, talent"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/材.svg"
+  },
+  "frequency": 565,
+  "examples": [
+    "取材",
+    "人材",
+    "材料",
+    "素材",
+    "材"
+  ],
+  "explanation": {
+    "id": "2848",
+    "text": "材 (đọc là \"zai\") có nghĩa là \"vật liệu\", \"nguyên liệu\" để chỉ các chất liệu được sử dụng trong sản xuất hoặc xây dựng.\n\nVí dụ:\n- 材料 (zairyō): Nguyên liệu.\n- 木材 (mokuzai): Gỗ.\n- 資材 (shizai): "
+  },
+  "comments": [
+    {
+      "id": "154384",
+      "lang": "vi",
+      "content_html": "<p>Cây( MỘC) là TÀI sản của quốc gia</p>",
+      "content_text": "Cây( MỘC) là TÀI sản của quốc gia",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154385",
+      "lang": "vi",
+      "content_html": "<p>CÂY Ô lô là TÀI sản</p>",
+      "content_text": "CÂY Ô lô là TÀI sản",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154386",
+      "lang": "vi",
+      "content_html": "<p>HIỀN (Hiền như khúc gỗ 木)　TÀI (　才 ）là nguyên khí quốc gia</p>",
+      "content_text": "HIỀN (Hiền như khúc gỗ 木)　TÀI (　才 ）là nguyên khí quốc gia",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

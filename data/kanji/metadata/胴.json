@@ -1,0 +1,86 @@
+{
+  "kanji": "胴",
+  "meta": {
+    "weight": 2188,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドウ"
+    ],
+    "kun": [],
+    "am_han": "ĐỖNG"
+  },
+  "meaning": {
+    "vi": "thân, vỏ tàu (tàu), trung tâm của bánh xe",
+    "en": "trunk, torso, hull (ship), hub of wheel"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/胴.svg"
+  },
+  "frequency": 1904,
+  "examples": [
+    "胴",
+    "胴体",
+    "胴上げ"
+  ],
+  "explanation": {
+    "id": "5926",
+    "text": "胴 (đọc là \"dō\") có nghĩa là \"thân\" hoặc \"thân thể\", chỉ phần trung tâm của cơ thể người hoặc động vật. \n\nVí dụ:\n- 胴体 (dōtai): Thân thể, thân mình.\n- 胴衣 (dōi): Áo khoác, áo thân.\n- 胴乱 (dōran)"
+  },
+  "comments": [
+    {
+      "id": "156314",
+      "lang": "vi",
+      "content_html": "<p>Cơ thể em nguyệt làm bằng đồng</p>",
+      "content_text": "Cơ thể em nguyệt làm bằng đồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156315",
+      "lang": "vi",
+      "content_html": "<p>Đồng thêm thịt là đỗng cơ thể</p>",
+      "content_text": "Đồng thêm thịt là đỗng cơ thể",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156316",
+      "lang": "vi",
+      "content_html": "<p>Thân thể em nguyệt nhìn đồng đều</p>",
+      "content_text": "Thân thể em nguyệt nhìn đồng đều",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

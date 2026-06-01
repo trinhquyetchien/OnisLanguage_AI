@@ -1,0 +1,90 @@
+{
+  "kanji": "還",
+  "meta": {
+    "weight": 2694,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "かえ.る"
+    ],
+    "am_han": "HOÀN, TOÀN"
+  },
+  "meaning": {
+    "vi": "gửi lại, trả lại",
+    "en": "send back, return"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/還.svg"
+  },
+  "frequency": 910,
+  "examples": [
+    "還元",
+    "返還",
+    "帰還",
+    "償還",
+    "送還"
+  ],
+  "explanation": {
+    "id": "1186",
+    "text": "還 (đọc là \"kan\") có nghĩa là \"trả lại\", \"quay trở lại\" để chỉ hành động hoàn trả hoặc trở về trạng thái ban đầu.\nVí dụ:\n- 還元 (kangen): Trả lại, hoàn trả (thường dùng trong kinh tế).\n- 還る (ka"
+  },
+  "comments": [
+    {
+      "id": "157418",
+      "lang": "vi",
+      "content_html": "<p>Đi đường xa xôi để hoàn trả lại 3 mắt</p>",
+      "content_text": "Đi đường xa xôi để hoàn trả lại 3 mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157419",
+      "lang": "vi",
+      "content_html": "<p>Hoàn (環) đã không còn là vua (王) bây giờ anh phải bước đi (辶) Hoàn trả lại ngôi vương</p>",
+      "content_text": "Hoàn (環) đã không còn là vua (王) bây giờ anh phải bước đi (辶) Hoàn trả lại ngôi vương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157420",
+      "lang": "vi",
+      "content_html": "<p>mắt nhìn mồm mở to không nói lên lời khi thây người trở về quê hương</p>",
+      "content_text": "mắt nhìn mồm mở to không nói lên lời khi thây người trở về quê hương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

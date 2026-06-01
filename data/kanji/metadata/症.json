@@ -1,0 +1,88 @@
+{
+  "kanji": "症",
+  "meta": {
+    "weight": 1805,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "CHỨNG"
+  },
+  "meaning": {
+    "vi": "các triệu chứng, bệnh tật",
+    "en": "symptoms, illness"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/症.svg"
+  },
+  "frequency": 1111,
+  "examples": [
+    "症",
+    "症状",
+    "症候群",
+    "発症",
+    "自閉症"
+  ],
+  "explanation": {
+    "id": "3871",
+    "text": "症 (đọc là \"shou\") có nghĩa là \"bệnh\", \"triệu chứng\" để chỉ các tình trạng bệnh lý hoặc triệu chứng của bệnh.  \nVí dụ:  \n- 症状 (shoujou): Triệu chứng, tình trạng bệnh.  \n- 疾病 (shippou): Bệnh t"
+  },
+  "comments": [
+    {
+      "id": "155464",
+      "lang": "vi",
+      "content_html": "<p>CHÍNH cái NẠCH này làm CHỨNG</p>",
+      "content_text": "CHÍNH cái NẠCH này làm CHỨNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155465",
+      "lang": "vi",
+      "content_html": "<p>Chính bệnh này là triệu chứng</p>",
+      "content_text": "Chính bệnh này là triệu chứng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155466",
+      "lang": "vi",
+      "content_html": "<p>Người ta dựa vào triệu chứng để tìm ra bệnh một cách chính xác.</p>",
+      "content_text": "Người ta dựa vào triệu chứng để tìm ra bệnh một cách chính xác.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

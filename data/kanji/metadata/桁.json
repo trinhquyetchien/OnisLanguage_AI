@@ -1,0 +1,84 @@
+{
+  "kanji": "桁",
+  "meta": {
+    "weight": 1347,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "けた"
+    ],
+    "am_han": "HÀNH, HÀNG, HÃNG"
+  },
+  "meaning": {
+    "vi": "dầm, spar, đơn vị hoặc cột (kế toán)",
+    "en": "beam, girder, spar, unit or column (accounting)"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/桁.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2063",
+    "text": "桁 (đọc là \"keta\") có nghĩa là \"cột\" hoặc \"đơn vị\" dùng để chỉ các phần trong hệ thống đếm hoặc cấu trúc. \n\nVí dụ:\n- 桁数 (ketasu): Số cột, số chữ số.\n- 桁違い (keta chigai): Khác biệt lớn, vượt t"
+  },
+  "comments": [
+    {
+      "id": "219805",
+      "lang": "vi",
+      "content_html": "<p>Đếm chữ số bằng cây hành</p>",
+      "content_text": "Đếm chữ số bằng cây hành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219806",
+      "lang": "vi",
+      "content_html": "<p>Cây(木) xếp thành hàng (Hành行) để đếm số , đơn vị</p>",
+      "content_text": "Cây(木) xếp thành hàng (Hành行) để đếm số , đơn vị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219807",
+      "lang": "vi",
+      "content_html": "<p>học đếm chữ số bằng cách  đi đếm cây hành</p>",
+      "content_text": "học đếm chữ số bằng cách  đi đếm cây hành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

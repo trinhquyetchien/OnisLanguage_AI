@@ -1,0 +1,88 @@
+{
+  "kanji": "巨",
+  "meta": {
+    "weight": 820,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョ"
+    ],
+    "kun": [],
+    "am_han": "CỰ"
+  },
+  "meaning": {
+    "vi": "khổng lồ",
+    "en": "gigantic, big, large, great"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/巨.svg"
+  },
+  "frequency": 892,
+  "examples": [
+    "巨大",
+    "巨人",
+    "巨額",
+    "巨匠",
+    "巨人軍"
+  ],
+  "explanation": {
+    "id": "1573",
+    "text": "巨 (đọc là \"kyo\") có nghĩa là \"khổng lồ\", \"to lớn\" để chỉ những thứ có kích thước vượt trội hoặc vô cùng.  \nVí dụ:  \n- 巨人 (kyojin): Người khổng lồ.  \n- 巨額 (kyo-gaku): Số tiền khổng lồ, số lượ"
+  },
+  "comments": [
+    {
+      "id": "153210",
+      "lang": "vi",
+      "content_html": "<p>Chữ C to + chữ U quay ngược vào thành cự không dấu</p>",
+      "content_text": "Chữ C to + chữ U quay ngược vào thành cự không dấu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153211",
+      "lang": "vi",
+      "content_html": "<p>E có bầu thì hay Cự nự</p>",
+      "content_text": "E có bầu thì hay Cự nự",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153212",
+      "lang": "vi",
+      "content_html": "<p>Tủ lớn đựng ngược tủ nhỏ thật là CỰ phách</p>",
+      "content_text": "Tủ lớn đựng ngược tủ nhỏ thật là CỰ phách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "kanji": "釈",
+  "meta": {
+    "weight": 2733,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャク",
+      "セキ"
+    ],
+    "kun": [
+      "とく",
+      "す.てる",
+      "ゆる.す"
+    ],
+    "am_han": "THÍCH"
+  },
+  "meaning": {
+    "vi": "giải trình",
+    "en": "explanation"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/釈.svg"
+  },
+  "frequency": 1097,
+  "examples": [
+    "解釈",
+    "釈放",
+    "注釈",
+    "保釈",
+    "釈明"
+  ],
+  "explanation": {
+    "id": "3385",
+    "text": "釈 (đọc là \"shaku\") có nghĩa là \"giải thích\", \"giải thích rõ ràng\" để chỉ hành động làm sáng tỏ hoặc giải thích điều gì đó.\n\nVí dụ:\n- 釈明 (shakumei): Giải thích, làm rõ.\n- 解釈 (kaishaku): Giải "
+  },
+  "comments": [
+    {
+      "id": "157506",
+      "lang": "vi",
+      "content_html": "<p>ko cần phải giải THÍCH hay BIỆN luận gì cả, hãy XÍCH hắn lại!</p>",
+      "content_text": "ko cần phải giải THÍCH hay BIỆN luận gì cả, hãy XÍCH hắn lại!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157507",
+      "lang": "vi",
+      "content_html": "<p>Dùng Xích cắt Lúa rất THÍCH</p>",
+      "content_text": "Dùng Xích cắt Lúa rất THÍCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157508",
+      "lang": "vi",
+      "content_html": "<p>con ng này hay giải THÍCH 釈 và BIỆN 釆 luận. nên dùng dây XÍCH 尺 xích hắn lại...</p>",
+      "content_text": "con ng này hay giải THÍCH 釈 và BIỆN 釆 luận. nên dùng dây XÍCH 尺 xích hắn lại...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

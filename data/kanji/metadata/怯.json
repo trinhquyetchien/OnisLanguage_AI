@@ -1,0 +1,89 @@
+{
+  "kanji": "怯",
+  "meta": {
+    "weight": 959,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ",
+      "コウ"
+    ],
+    "kun": [
+      "ひる.む",
+      "おびえ.る",
+      "おじる",
+      "おび.える",
+      "おそ.れる"
+    ],
+    "am_han": "KHIẾP"
+  },
+  "meaning": {
+    "vi": "hèn nhát, nhăn mặt, nao núng, do dự, dao động",
+    "en": "cowardice, wince, flinch, hesitate, waver"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/怯.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1661",
+    "text": "怯 (đọc là \"kyaku\" hoặc \"okoru\") có nghĩa là \"sợ hãi\", \"nhút nhát\". Chữ này thể hiện trạng thái lo lắng hoặc thiếu tự tin.\n\nVí dụ:\n- 怯える (obiaeru): Sợ hãi, lo lắng.\n- 怯え (obieru): Cảm giác sợ"
+  },
+  "comments": [
+    {
+      "id": "219488",
+      "lang": "vi",
+      "content_html": "<p>Khiếp sợ quá Khứ đau Lòng</p>",
+      "content_text": "Khiếp sợ quá Khứ đau Lòng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219489",
+      "lang": "vi",
+      "content_html": "<p>con tim khiếp sợ quá khứ</p>",
+      "content_text": "con tim khiếp sợ quá khứ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219490",
+      "lang": "vi",
+      "content_html": "<p>trong TÂM luôn nhớ chuyện khủng KHIẾP của quá KHỨ</p>",
+      "content_text": "trong TÂM luôn nhớ chuyện khủng KHIẾP của quá KHỨ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

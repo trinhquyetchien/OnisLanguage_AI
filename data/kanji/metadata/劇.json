@@ -1,0 +1,105 @@
+{
+  "kanji": "劇",
+  "meta": {
+    "weight": 341,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲキ"
+    ],
+    "kun": [],
+    "am_han": "KỊCH"
+  },
+  "meaning": {
+    "vi": "kịch, vở kịch",
+    "en": "drama, play"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/劇.svg"
+  },
+  "frequency": 662,
+  "examples": [
+    "劇場",
+    "劇",
+    "演劇",
+    "悲劇",
+    "劇的"
+  ],
+  "explanation": {
+    "id": "2048",
+    "text": "劇 (đọc là \"geki\") có nghĩa là \"vở kịch\", \"hí kịch\", chỉ các tác phẩm nghệ thuật biểu diễn.  \nVí dụ:  \n- 劇場 (gekijou): Nhà hát.  \n- 劇団 (gekidan): Đoàn kịch.  \n- 演劇 (engeki): Nghệ thuật biểu d"
+  },
+  "comments": [
+    {
+      "id": "152057",
+      "lang": "vi",
+      "content_html": "<p>Đang xem bói thấy trong nhà có 7 con lợn cầm đao diễn kịch</p>",
+      "content_text": "Đang xem bói thấy trong nhà có 7 con lợn cầm đao diễn kịch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190717",
+      "lang": "vi",
+      "content_html": "<p>Hỗ bị Lợn cầm đao lừa diễn Kịch</p>",
+      "content_text": "Hỗ bị Lợn cầm đao lừa diễn Kịch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "152058",
+      "lang": "vi",
+      "content_html": "<p>Hổ trên lợn dưới đang cầm dao diễn kịch!</p>",
+      "content_text": "Hổ trên lợn dưới đang cầm dao diễn kịch!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152059",
+      "lang": "vi",
+      "content_html": "<p>Vở KỊCH lấy dao cạo lông heo</p>",
+      "content_text": "Vở KỊCH lấy dao cạo lông heo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "凶",
+  "meta": {
+    "weight": 304,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [],
+    "am_han": "HUNG"
+  },
+  "meaning": {
+    "vi": "nhân vật phản diện, ác quỷ, xui xẻo, thảm họa",
+    "en": "villain, evil, bad luck, disaster"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/凶.svg"
+  },
+  "frequency": 1673,
+  "examples": [
+    "凶悪",
+    "凶",
+    "元凶",
+    "凶器",
+    "凶暴"
+  ],
+  "explanation": {
+    "id": "1633",
+    "text": "凶 (đọc là \"kyō\") có nghĩa là \"xấu\", \"điềm xấu\", thường liên quan đến những điều không may mắn hoặc tai họa.\nVí dụ:\n- 凶運 (kyōun): Vận xui, số phận xấu.\n- 凶暴 (kyōbō): Tính hung dữ, bạo lực.\n- "
+  },
+  "comments": [
+    {
+      "id": "151952",
+      "lang": "vi",
+      "content_html": "<p>Trói người bỏ xuống hố là hung ác</p>",
+      "content_text": "Trói người bỏ xuống hố là hung ác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151953",
+      "lang": "vi",
+      "content_html": "<p>kẻ hung ác làm đảo lộn KHU 区 đất này</p>",
+      "content_text": "kẻ hung ác làm đảo lộn KHU 区 đất này",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151954",
+      "lang": "vi",
+      "content_html": "<p>xứ Nghệ Há Miệng ra là biết Hung dữ</p>",
+      "content_text": "xứ Nghệ Há Miệng ra là biết Hung dữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

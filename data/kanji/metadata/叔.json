@@ -1,0 +1,87 @@
+{
+  "kanji": "叔",
+  "meta": {
+    "weight": 424,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュク"
+    ],
+    "kun": [],
+    "am_han": "THÚC"
+  },
+  "meaning": {
+    "vi": "chú, thanh niên",
+    "en": "uncle, youth"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/叔.svg"
+  },
+  "frequency": 1950,
+  "examples": [
+    "叔母",
+    "叔父",
+    "叔父さん",
+    "叔母さん"
+  ],
+  "explanation": {
+    "id": "3584",
+    "text": "叔 (đọc là \"shuku\" hoặc \"oku\") có nghĩa là \"chú\" (người chú, em trai của cha) hoặc chỉ người đàn ông lớn tuổi hơn. \n\nVí dụ:\n- 叔父 (oji): Chú, bác (em trai của cha).\n- 叔母 (oba): Dì, cô (vợ của "
+  },
+  "comments": [
+    {
+      "id": "152253",
+      "lang": "vi",
+      "content_html": "<p>Đứa nhỏ gọi bề trên là thúc</p>",
+      "content_text": "Đứa nhỏ gọi bề trên là thúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152254",
+      "lang": "vi",
+      "content_html": "<p>Thằng Nhỏ Hựu gọi bề Trên là Thúc</p>",
+      "content_text": "Thằng Nhỏ Hựu gọi bề Trên là Thúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152255",
+      "lang": "vi",
+      "content_html": "<p>gọi ng lớn nhỏ hơn bố là Thúc (chú)</p>",
+      "content_text": "gọi ng lớn nhỏ hơn bố là Thúc (chú)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

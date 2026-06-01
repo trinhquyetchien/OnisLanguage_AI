@@ -1,0 +1,87 @@
+{
+  "kanji": "宵",
+  "meta": {
+    "weight": 729,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "よい"
+    ],
+    "am_han": "TIÊU"
+  },
+  "meaning": {
+    "vi": "vài giờ, buổi tối, đầu đêm",
+    "en": "wee hours, evening, early night"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/宵.svg"
+  },
+  "frequency": 2262,
+  "examples": [
+    "今宵",
+    "宵"
+  ],
+  "explanation": {
+    "id": "3782",
+    "text": "宵 (đọc là \"shō\") có nghĩa là \"buổi tối\" hoặc \"đêm khuya\", thường dùng để chỉ thời gian vào buổi tối trước khi đi ngủ. \n\nVí dụ:\n- 宵の口 (shō no kuchi): Đầu buổi tối, lúc mới bắt đầu tối.\n- 宵待ち "
+  },
+  "comments": [
+    {
+      "id": "152977",
+      "lang": "vi",
+      "content_html": "<p>TIÊU phí nhiều điện khi ở Nhà vào BUỔI TỐI</p>",
+      "content_text": "TIÊU phí nhiều điện khi ở Nhà vào BUỔI TỐI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152978",
+      "lang": "vi",
+      "content_html": "<p>Nhà Tiêu (toilet)thì thường tối như ban đêm</p>",
+      "content_text": "Nhà Tiêu (toilet)thì thường tối như ban đêm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152979",
+      "lang": "vi",
+      "content_html": "<p>Dưới mái nhà ánh trăng tiêu biến lộ ra cảnh TIÊU điều của chiều tối</p>",
+      "content_text": "Dưới mái nhà ánh trăng tiêu biến lộ ra cảnh TIÊU điều của chiều tối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "孫",
+  "meta": {
+    "weight": 703,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソン"
+    ],
+    "kun": [
+      "まご"
+    ],
+    "am_han": "TÔN"
+  },
+  "meaning": {
+    "vi": "cháu",
+    "en": "grandchild, descendants"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/孫.svg"
+  },
+  "frequency": 1388,
+  "examples": [
+    "孫",
+    "子孫",
+    "孫子",
+    "孫娘",
+    "お孫さん"
+  ],
+  "explanation": {
+    "id": "4835",
+    "text": "孫 (đọc là \"son\") có nghĩa là \"cháu\", chỉ con của con cái trong gia đình. \n\nVí dụ:  \n- 孫 (mago): Cháu.  \n- 孫娘 (mago musume): Cháu gái.  \n- 孫子 (sonshi): Con trai cháu, thường dùng để chỉ các c"
+  },
+  "comments": [
+    {
+      "id": "152916",
+      "lang": "vi",
+      "content_html": "<p>đứa nào có quan hệ với con mình gọi là cháu</p>",
+      "content_text": "đứa nào có quan hệ với con mình gọi là cháu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152917",
+      "lang": "vi",
+      "content_html": "<p>Liên hệ với đứa trẻ là tôn : cháu</p>",
+      "content_text": "Liên hệ với đứa trẻ là tôn : cháu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152918",
+      "lang": "vi",
+      "content_html": "<p>Tôn trong từ Tôn Ngộ Không 孫悟空</p>",
+      "content_text": "Tôn trong từ Tôn Ngộ Không 孫悟空",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

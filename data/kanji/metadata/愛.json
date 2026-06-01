@@ -1,0 +1,94 @@
+{
+  "kanji": "愛",
+  "meta": {
+    "weight": 1000,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アイ"
+    ],
+    "kun": [
+      "いと.しい",
+      "かな.しい",
+      "め.でる",
+      "お.しむ",
+      "まな"
+    ],
+    "am_han": "ÁI"
+  },
+  "meaning": {
+    "vi": "tình yêu, tình ái",
+    "en": "love, affection, favourite"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/愛.svg"
+  },
+  "frequency": 640,
+  "examples": [
+    "愛",
+    "恋愛",
+    "愛し",
+    "可愛い",
+    "愛情"
+  ],
+  "explanation": {
+    "id": "16",
+    "text": "愛 (đọc là \"ai\") có nghĩa là \"tình yêu\", chỉ các cảm xúc, mối quan hệ hoặc sự gắn bó giữa con người với nhau.  \nVí dụ:  \n- 愛情 (aijou): Tình cảm, tình yêu thương.  \n- 愛する (aisuru): Yêu, tình y"
+  },
+  "comments": [
+    {
+      "id": "153664",
+      "lang": "vi",
+      "content_html": "<p>Bàn Tay dùng Khăn sưởi ấm Trái Tim  từ phía sau.(chảo mịch tâm truy)</p>",
+      "content_text": "Bàn Tay dùng Khăn sưởi ấm Trái Tim  từ phía sau.(chảo mịch tâm truy)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153665",
+      "lang": "vi",
+      "content_html": "<p>Bắt đầu từ một (一)  sự rung động (ba dấu phẩy)  từ con tim(心)  ,  tình yêu( 愛) sẽ theo sau mà đến (夂)</p>",
+      "content_text": "Bắt đầu từ một (一)  sự rung động (ba dấu phẩy)  từ con tim(心)  ,  tình yêu( 愛) sẽ theo sau mà đến (夂)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153666",
+      "lang": "vi",
+      "content_html": "<p>ÁI Tình là Trao Trái tim cho người khác</p>",
+      "content_text": "ÁI Tình là Trao Trái tim cho người khác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

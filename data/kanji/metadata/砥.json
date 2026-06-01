@@ -1,0 +1,38 @@
+{
+  "kanji": "砥",
+  "meta": {
+    "weight": 1868,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ",
+      "テイ",
+      "キイ",
+      "チ"
+    ],
+    "kun": [
+      "と",
+      "といし",
+      "と.ぐ",
+      "みが.く"
+    ],
+    "am_han": "CHỈ"
+  },
+  "meaning": {
+    "vi": "đá mài",
+    "en": "whetstone, grindstone"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/砥.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5743",
+    "text": "砥 (đọc là \"to\") có nghĩa là \"mài\", chỉ hành động làm sắc bén hoặc mịn màng bề mặt bằng cách sử dụng đá mài.  \nVí dụ:  \n- 砥石 (toishi): Đá mài.  \n- 砥ぐ (togu): Mài, làm sắc bén.  \n- 砥準 (tojun):"
+  },
+  "comments": []
+}

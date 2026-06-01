@@ -1,0 +1,113 @@
+{
+  "kanji": "対",
+  "meta": {
+    "weight": 750,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ",
+      "ツイ"
+    ],
+    "kun": [
+      "あいて",
+      "こた.える",
+      "そろ.い",
+      "つれあ.い",
+      "なら.ぶ",
+      "むか.う"
+    ],
+    "am_han": "ĐỐI"
+  },
+  "meaning": {
+    "vi": "đối diện, phản đối",
+    "en": "vis-a-vis, opposite, even, equal, versus, anti-, compare"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/対.svg"
+  },
+  "frequency": 34,
+  "examples": [
+    "に対して",
+    "に対する",
+    "対応",
+    "対象",
+    "対策"
+  ],
+  "explanation": {
+    "id": "4926",
+    "text": "対 (đọc là \"tai\") có nghĩa là \"đối\", chỉ sự đối lập, so sánh hoặc tương tác giữa hai bên. \n\nVí dụ:\n- 対話 (taiwa): Đối thoại, cuộc trò chuyện.\n- 対策 (taisaku): Biện pháp đối phó, giải pháp.\n- 対立"
+  },
+  "comments": [
+    {
+      "id": "37260",
+      "lang": "vi",
+      "content_html": "<p>Tôi đập bàn <strong>phản đối</strong>.</p>",
+      "content_text": "Tôi đập bàn\nphản đối\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdb0008d90.jpg",
+      "image_path": "assets/images/対_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153034",
+      "lang": "vi",
+      "content_html": "<p>đối đáp bằng văn quả là thốn</p>",
+      "content_text": "đối đáp bằng văn quả là thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153035",
+      "lang": "vi",
+      "content_html": "<p>Học văn mà thốn thì không thể đối đáp</p>",
+      "content_text": "Học văn mà thốn thì không thể đối đáp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153036",
+      "lang": "vi",
+      "content_html": "<p>Môn văn mà ĐỐI sử chả ra gì thì rất THỐN</p>",
+      "content_text": "Môn văn mà ĐỐI sử chả ra gì thì rất THỐN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

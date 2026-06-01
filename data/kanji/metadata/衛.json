@@ -1,0 +1,89 @@
+{
+  "kanji": "衛",
+  "meta": {
+    "weight": 2405,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エイ",
+      "エ"
+    ],
+    "kun": [],
+    "am_han": "VỆ"
+  },
+  "meaning": {
+    "vi": "phòng thủ, bảo vệ",
+    "en": "defense, protection"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/衛.svg"
+  },
+  "frequency": 400,
+  "examples": [
+    "自衛隊",
+    "防衛",
+    "衛生",
+    "衛星",
+    "防衛庁"
+  ],
+  "explanation": {
+    "id": "398",
+    "text": "衛 (đọc là \"ei\") có nghĩa là \"bảo vệ\", \"hộ vệ\" để chỉ các hành động liên quan đến việc bảo vệ, giữ gìn an toàn.\nVí dụ:\n- 衛生 (eisei): Vệ sinh, sức khỏe.\n- 衛兵 (eibing): Lính gác, vệ binh.\n- 防衛 "
+  },
+  "comments": [
+    {
+      "id": "156706",
+      "lang": "vi",
+      "content_html": "<p>Khi đi vi hành cần có thị vệ</p>",
+      "content_text": "Khi đi vi hành cần có thị vệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156707",
+      "lang": "vi",
+      "content_html": "<p>HÀNH VI tự VỆ là hành động bình thường của mỗi người</p>",
+      "content_text": "HÀNH VI tự VỆ là hành động bình thường của mỗi người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156708",
+      "lang": "vi",
+      "content_html": "<p>cần 5 lần đi lên VỆ tinh</p>",
+      "content_text": "cần 5 lần đi lên VỆ tinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

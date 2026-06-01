@@ -1,0 +1,88 @@
+{
+  "kanji": "壬",
+  "meta": {
+    "weight": 609,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ニン",
+      "ジン",
+      "イ"
+    ],
+    "kun": [
+      "みずのえ"
+    ],
+    "am_han": "NHÂM"
+  },
+  "meaning": {
+    "vi": "Lịch thứ 9",
+    "en": "9th calendar sign"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/壬.svg"
+  },
+  "frequency": 2499,
+  "examples": [
+    "壬"
+  ],
+  "explanation": {
+    "id": "4156",
+    "text": "壬 (đọc là \"jin\") có nghĩa là \"nước\", thường liên quan đến yếu tố thủy trong ngũ hành và các khái niệm liên quan đến thời gian như can chi. \n\nVí dụ:\n- 壬水 (jin sui): Nước thuộc can Nhâm.\n- 壬戌 "
+  },
+  "comments": [
+    {
+      "id": "152693",
+      "lang": "vi",
+      "content_html": "<p>Tướng Sĩ  Phiệt 1 cái rồi NHÂM nhi li rượu</p>",
+      "content_text": "Tướng Sĩ  Phiệt 1 cái rồi NHÂM nhi li rượu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152694",
+      "lang": "vi",
+      "content_html": "<p>Nhâm nhi ly rượu tướng Sĩ Phiệt một cái.</p>",
+      "content_text": "Nhâm nhi ly rượu tướng Sĩ Phiệt một cái.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152695",
+      "lang": "vi",
+      "content_html": "<p>người tuổi nhâm luôn có trách nhiệm</p>",
+      "content_text": "người tuổi nhâm luôn có trách nhiệm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

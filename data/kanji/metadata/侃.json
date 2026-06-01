@@ -1,0 +1,84 @@
+{
+  "kanji": "侃",
+  "meta": {
+    "weight": 182,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "つよ.い"
+    ],
+    "am_han": "KHẢN"
+  },
+  "meaning": {
+    "vi": "mạnh mẽ, công bình, chính trực, yêu chuộng hòa bình",
+    "en": "strong, just, righteous, peace-loving"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/侃.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1057",
+    "text": "侃 (đọc là \"kan\") có nghĩa là \"nói chuyện\" hoặc \"tranh luận\", thường chỉ các cuộc trò chuyện cởi mở, thẳng thắn.  \n\nVí dụ:  \n- 侃侃たる (kankan taru): Nói chuyện một cách tự tin, thẳng thắn.  \n- "
+  },
+  "comments": [
+    {
+      "id": "218854",
+      "lang": "vi",
+      "content_html": "<p>Người đứng há miệng ở dòng sông dễ bị KHẢN tiếng</p>",
+      "content_text": "Người đứng há miệng ở dòng sông dễ bị KHẢN tiếng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218855",
+      "lang": "vi",
+      "content_html": "<p>người nói nhiều như sông sẽ bị khản</p>",
+      "content_text": "người nói nhiều như sông sẽ bị khản",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218856",
+      "lang": "vi",
+      "content_html": "<p>Nhà có nhiều nhân khẩu miệng thẳg như sông.</p>",
+      "content_text": "Nhà có nhiều nhân khẩu miệng thẳg như sông.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

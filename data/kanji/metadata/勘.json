@@ -1,0 +1,88 @@
+{
+  "kanji": "勘",
+  "meta": {
+    "weight": 359,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [],
+    "am_han": "KHÁM"
+  },
+  "meaning": {
+    "vi": "trực giác, nhận thức, kiểm tra, so sánh, giác quan thứ sáu",
+    "en": "intuition, perception, check, compare, sixth sense"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/勘.svg"
+  },
+  "frequency": 1494,
+  "examples": [
+    "勘違い",
+    "勘定",
+    "勘弁",
+    "勘案",
+    "勘"
+  ],
+  "explanation": {
+    "id": "1069",
+    "text": "勘 (đọc là \"kan\") có nghĩa là \"cảm giác\", \"trực giác\" để chỉ việc sử dụng sự nhạy bén hoặc cảm nhận trong các tình huống cụ thể.\n\nVí dụ:\n- 勘違い (kanchigai): Hiểu lầm, hiểu sai.\n- 勘定 (kandei): "
+  },
+  "comments": [
+    {
+      "id": "152103",
+      "lang": "vi",
+      "content_html": "<p>Dùng sức lực của 4 mắt để khám định</p>",
+      "content_text": "Dùng sức lực của 4 mắt để khám định",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152104",
+      "lang": "vi",
+      "content_html": "<p>Ăn đồ ngọt gấp 4 lần dùng sức thì phải khám lại.</p>",
+      "content_text": "Ăn đồ ngọt gấp 4 lần dùng sức thì phải khám lại.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152105",
+      "lang": "vi",
+      "content_html": "<p>dùng lực mà bóp 4 lần mới vỡ quả cam thì cần đi khám lại</p>",
+      "content_text": "dùng lực mà bóp 4 lần mới vỡ quả cam thì cần đi khám lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

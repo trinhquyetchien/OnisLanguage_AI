@@ -1,0 +1,93 @@
+{
+  "kanji": "御",
+  "meta": {
+    "weight": 930,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギョ",
+      "ゴ"
+    ],
+    "kun": [
+      "おん-",
+      "お-",
+      "み-"
+    ],
+    "am_han": "NGỰ"
+  },
+  "meaning": {
+    "vi": "danh dự",
+    "en": "honorable, manipulate, govern"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/御.svg"
+  },
+  "frequency": 1087,
+  "examples": [
+    "御",
+    "制御",
+    "防御",
+    "御存じ",
+    "御礼"
+  ],
+  "explanation": {
+    "id": "2334",
+    "text": "御 (đọc là \"on\" hoặc \"go\") có nghĩa là \"quý ngài\", \"ngài\", thường dùng để thể hiện sự tôn trọng. \n\nVí dụ:\n- 御飯 (gohan): Cơm (dùng kính ngữ).\n- 御世 (onyo): Thời đại của ngài, triều đại.\n- 御社 (o"
+  },
+  "comments": [
+    {
+      "id": "153484",
+      "lang": "vi",
+      "content_html": "<p>Kẻ cầm đao ngự trị cả đường chính</p>",
+      "content_text": "Kẻ cầm đao ngự trị cả đường chính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153485",
+      "lang": "vi",
+      "content_html": "<p>tả XÍCH hữu Đao cưỡi BÒ NGỰ trị đường CHÍNH</p>",
+      "content_text": "tả XÍCH hữu Đao cưỡi BÒ NGỰ trị đường CHÍNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153486",
+      "lang": "vi",
+      "content_html": "<p>Tay trái cầm xích, tay phải cầm đao ngự trị đường chính.</p>",
+      "content_text": "Tay trái cầm xích, tay phải cầm đao ngự trị đường chính.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

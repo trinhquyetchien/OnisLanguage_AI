@@ -1,0 +1,90 @@
+{
+  "kanji": "較",
+  "meta": {
+    "weight": 2613,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク",
+      "コウ"
+    ],
+    "kun": [
+      "くら.べる"
+    ],
+    "am_han": "GIÁC, GIẾU, GIẢO"
+  },
+  "meaning": {
+    "vi": "tương phản, so sánh",
+    "en": "contrast, compare"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/較.svg"
+  },
+  "frequency": 1172,
+  "examples": [
+    "比較",
+    "比較的",
+    "較べ",
+    "較べる"
+  ],
+  "explanation": {
+    "id": "925",
+    "text": "較 (đọc là \"kaku\") có nghĩa là \"so sánh\", \"đối chiếu\" để chỉ các hành động liên quan đến việc so sánh, đánh giá hoặc phân tích sự khác biệt.  \nVí dụ:  \n- 較量 (kakuryou): So sánh, đối chiếu.  \n"
+  },
+  "comments": [
+    {
+      "id": "157227",
+      "lang": "vi",
+      "content_html": "<p>Đã đua xe giao lưu mà còn giảo biện</p>",
+      "content_text": "Đã đua xe giao lưu mà còn giảo biện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157228",
+      "lang": "vi",
+      "content_html": "<p>Giao lưu 交 (so sánh )xe cộ 車</p>",
+      "content_text": "Giao lưu 交 (so sánh )xe cộ 車",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157229",
+      "lang": "vi",
+      "content_html": "<p>Đem Xe đi Giao sừng tê GIÁC</p>",
+      "content_text": "Đem Xe đi Giao sừng tê GIÁC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

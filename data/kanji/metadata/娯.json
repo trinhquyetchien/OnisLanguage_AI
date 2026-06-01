@@ -1,0 +1,84 @@
+{
+  "kanji": "娯",
+  "meta": {
+    "weight": 676,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴ"
+    ],
+    "kun": [],
+    "am_han": "NGU"
+  },
+  "meaning": {
+    "vi": "giải trí, niềm vui",
+    "en": "recreation, pleasure"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/娯.svg"
+  },
+  "frequency": 1827,
+  "examples": [
+    "娯楽"
+  ],
+  "explanation": {
+    "id": "2328",
+    "text": "娯 (đọc là \"go\") có nghĩa là \"giải trí\", \"tiêu khiển\" để chỉ các hoạt động mang tính chất vui chơi, giải trí trong cuộc sống.\nVí dụ:\n- 娯楽 (goraku): Giải trí, tiêu khiển.\n- 娯楽施設 (goraku shiset"
+  },
+  "comments": [
+    {
+      "id": "152851",
+      "lang": "vi",
+      "content_html": "<p>Nơi có phụ nữ miệng tới chân uốn éo là chỗ giải trí</p>",
+      "content_text": "Nơi có phụ nữ miệng tới chân uốn éo là chỗ giải trí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152852",
+      "lang": "vi",
+      "content_html": "<p>Người Phụ Nữ nào VUI VẺ vs quân Ngô là NGU</p>",
+      "content_text": "Người Phụ Nữ nào VUI VẺ vs quân Ngô là NGU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152853",
+      "lang": "vi",
+      "content_html": "<p>anh ngô cứ gặp gái là ngu đi nhưng vẫn rất vui vẻ</p>",
+      "content_text": "anh ngô cứ gặp gái là ngu đi nhưng vẫn rất vui vẻ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

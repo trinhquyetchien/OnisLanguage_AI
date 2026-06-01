@@ -1,0 +1,86 @@
+{
+  "kanji": "弗",
+  "meta": {
+    "weight": 896,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フツ",
+      "ホチ"
+    ],
+    "kun": [
+      "どる",
+      "ず"
+    ],
+    "am_han": "PHẤT"
+  },
+  "meaning": {
+    "vi": "đô la",
+    "en": "dollar"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/弗.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6928",
+    "text": "弗 (đọc là \"futsu\" hoặc \"bu\") có nghĩa là \"không\", thường được dùng để chỉ sự phủ định hoặc thiếu thốn. \n\nVí dụ:\n- 弗業 (fugyō): Nghề nghiệp không thành công, thất bại.\n- 弗報 (fuhō): Tin tức khô"
+  },
+  "comments": [
+    {
+      "id": "219445",
+      "lang": "vi",
+      "content_html": "<p>Có Tiền (bối) phất lên chẳng phải tiêu tốn nhiều chi phí ăn chơi hay sao.</p>",
+      "content_text": "Có Tiền (bối) phất lên chẳng phải tiêu tốn nhiều chi phí ăn chơi hay sao.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219446",
+      "lang": "vi",
+      "content_html": "<p>PHẬT cầm CUNG và GẬY đi TRIỆT phá đường dây ma túy</p>",
+      "content_text": "PHẬT cầm CUNG và GẬY đi TRIỆT phá đường dây ma túy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219447",
+      "lang": "vi",
+      "content_html": "<p>Phất lên Chẳng phải mất công mà nhờ quyết định cầm Cung và Gậy đi Triệt phá đường dây ma túy.</p>",
+      "content_text": "Phất lên Chẳng phải mất công mà nhờ quyết định cầm Cung và Gậy đi Triệt phá đường dây ma túy.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

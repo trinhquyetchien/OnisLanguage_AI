@@ -1,0 +1,88 @@
+{
+  "kanji": "譜",
+  "meta": {
+    "weight": 2527,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [],
+    "am_han": "PHỔ, PHẢ"
+  },
+  "meaning": {
+    "vi": "bản nhạc, âm nhạc, nốt nhạc, nhân viên, bảng, phả hệ",
+    "en": "musical score, music, note, staff, table, genealogy"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/譜.svg"
+  },
+  "frequency": 1919,
+  "examples": [
+    "楽譜",
+    "譜",
+    "系譜",
+    "新譜",
+    "譜面"
+  ],
+  "explanation": {
+    "id": "6843",
+    "text": "譜 (đọc là \"fu\") có nghĩa là \"bảng, bản nhạc\" để chỉ các tài liệu hoặc hệ thống liên quan đến âm nhạc, ký hiệu hoặc danh sách.  \nVí dụ:  \n- 譜面 (fumen): Bản nhạc, bản ghi âm.  \n- 楽譜 (gakufu): "
+  },
+  "comments": [
+    {
+      "id": "157006",
+      "lang": "vi",
+      "content_html": "<p>gia phả không phải thứ có thể nói là phổ cập cho bất kì ai</p>",
+      "content_text": "gia phả không phải thứ có thể nói là phổ cập cho bất kì ai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157007",
+      "lang": "vi",
+      "content_html": "<p>Truyền miệng để phổ biến cho đời sau về gia phả</p>",
+      "content_text": "Truyền miệng để phổ biến cho đời sau về gia phả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157008",
+      "lang": "vi",
+      "content_html": "<p>gia phả trong gia đình có thể được (PHỔ) 譜 truyền miệng 言 cho đời sau</p>",
+      "content_text": "gia phả trong gia đình có thể được (PHỔ) 譜 truyền miệng 言 cho đời sau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

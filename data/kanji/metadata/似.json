@@ -1,0 +1,91 @@
+{
+  "kanji": "似",
+  "meta": {
+    "weight": 165,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "に.る",
+      "ひ.る"
+    ],
+    "am_han": "TỰ"
+  },
+  "meaning": {
+    "vi": "giống, tương tự",
+    "en": "becoming, resemble, counterfeit, imitate, suitable"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/似.svg"
+  },
+  "frequency": 923,
+  "examples": [
+    "似",
+    "類似",
+    "真似",
+    "似合う",
+    "似顔絵"
+  ],
+  "explanation": {
+    "id": "3177",
+    "text": "似 (đọc là \"ji\", \"nisu\") có nghĩa là \"giống\", \"tương tự\" để chỉ sự so sánh hoặc tương đồng giữa các đối tượng.  \nVí dụ:  \n- 似る (niru): Giống nhau, tương tự.  \n- 似顔絵 (nigaoe): Chân dung, hình "
+  },
+  "comments": [
+    {
+      "id": "151606",
+      "lang": "vi",
+      "content_html": "<p>con người vốn Dĩ là tương Tự nhau</p>",
+      "content_text": "con người vốn Dĩ là tương Tự nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151607",
+      "lang": "vi",
+      "content_html": "<p>Con người ( nhân) bất đắc Dĩ mới giống ( tương tự) nhau</p>",
+      "content_text": "Con người ( nhân) bất đắc Dĩ mới giống ( tương tự) nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151608",
+      "lang": "vi",
+      "content_html": "<p>1 ng đứng tương Tự như 1 cột Mốc lịch sử</p>",
+      "content_text": "1 ng đứng tương Tự như 1 cột Mốc lịch sử",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

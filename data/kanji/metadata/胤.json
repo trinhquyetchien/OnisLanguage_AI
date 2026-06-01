@@ -1,0 +1,84 @@
+{
+  "kanji": "胤",
+  "meta": {
+    "weight": 2187,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イン"
+    ],
+    "kun": [
+      "たね"
+    ],
+    "am_han": "DẬN"
+  },
+  "meaning": {
+    "vi": "hậu duệ, vấn đề, con đẻ",
+    "en": "descendent, issue, offspring"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/胤.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "263",
+    "text": "胤 (đọc là \"in\") có nghĩa là \"hậu duệ\" hoặc \"con cháu\", thường chỉ về dòng dõi, di sản gia đình. \n\nVí dụ:\n- 胤子 (inkko): Hậu duệ, con cái.\n- 胤流 (inryū): Dòng dõi, hệ phái.\n- 王胤 (ōin): Hậu duệ "
+  },
+  "comments": [
+    {
+      "id": "220439",
+      "lang": "vi",
+      "content_html": "<p>後胤 kouin. Người nối dõi tông đường. Nhi chân chạy -yêu-nhục. Đứa con ruột thịt yêu dấu để chạy từ thế hệ này sang thế hệ khác. Goii là người nối dõi</p>",
+      "content_text": "後胤 kouin. Người nối dõi tông đường. Nhi chân chạy -yêu-nhục. Đứa con ruột thịt yêu dấu để chạy từ thế hệ này sang thế hệ khác. Goii là người nối dõi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220440",
+      "lang": "vi",
+      "content_html": "<p>Yêu một tháng rồi bỏ chạy nên bị dận</p>",
+      "content_text": "Yêu một tháng rồi bỏ chạy nên bị dận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220441",
+      "lang": "vi",
+      "content_html": "<p>Ở giữa đôi chân là con cháu hậu DẬN nối dõi của chị nguyệt</p>",
+      "content_text": "Ở giữa đôi chân là con cháu hậu DẬN nối dõi của chị nguyệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

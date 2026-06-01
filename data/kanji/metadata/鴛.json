@@ -1,0 +1,52 @@
+{
+  "kanji": "鴛",
+  "meta": {
+    "weight": 3001,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン",
+      "オン"
+    ],
+    "kun": [
+      "おし",
+      "おしどり"
+    ],
+    "am_han": "UYÊN"
+  },
+  "meaning": {
+    "vi": "Vịt đực",
+    "en": "male mandarin duck"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/鴛.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "493",
+    "text": "鴛 (đọc là \"en\") có nghĩa là \"vịt trời\", thường chỉ đến một loại vịt nước, biểu trưng cho tình yêu và sự hòa hợp trong văn hóa Nhật Bản. \n\nVí dụ:\n- 鴛鴦 (oyan): Vịt trời, biểu tượng của tình yê"
+  },
+  "comments": [
+    {
+      "id": "221120",
+      "lang": "vi",
+      "content_html": "<p>câu chuyện kể do sự oán 怨む giận nhà vua ko cho yêu nhau nên cả 2 đã tự sát. tại 2 ngôi mộ mọc 2 cây đan vào nhau, chính giữa 央 có chim 鳥 hót liếu lo trên cây。</p>",
+      "content_text": "câu chuyện kể do sự oán 怨む giận nhà vua ko cho yêu nhau nên cả 2 đã tự sát. tại 2 ngôi mộ mọc 2 cây đan vào nhau, chính giữa 央 có chim 鳥 hót liếu lo trên cây。",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

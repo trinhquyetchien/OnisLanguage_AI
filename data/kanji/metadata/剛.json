@@ -1,0 +1,70 @@
+{
+  "kanji": "剛",
+  "meta": {
+    "weight": 332,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴウ"
+    ],
+    "kun": [],
+    "am_han": "CƯƠNG"
+  },
+  "meaning": {
+    "vi": "chắc chắn, sức mạnh",
+    "en": "sturdy, strength"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/剛.svg"
+  },
+  "frequency": 1576,
+  "examples": [
+    "剛",
+    "金剛",
+    "剛性",
+    "剛健"
+  ],
+  "explanation": {
+    "id": "2598",
+    "text": "剛 (đọc là \"gou\" hoặc \"kō\") có nghĩa là \"cứng rắn\", \"kiên quyết\", chỉ sự mạnh mẽ, vững vàng.  \nVí dụ:  \n- 剛力 (gōriki): Sức mạnh cường tráng, sức mạnh phi thường.  \n- 剛性 (gōsei): Độ cứng, độ b"
+  },
+  "comments": [
+    {
+      "id": "152034",
+      "lang": "vi",
+      "content_html": "<p>cương cứng như cây đao</p>",
+      "content_text": "cương cứng như cây đao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152035",
+      "lang": "vi",
+      "content_html": "<p>Xung quanh đồi núi cắm cây đao thể hiện sự CƯƠNG trực</p>",
+      "content_text": "Xung quanh đồi núi cắm cây đao thể hiện sự CƯƠNG trực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

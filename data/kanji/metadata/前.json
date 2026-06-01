@@ -1,0 +1,91 @@
+{
+  "kanji": "前",
+  "meta": {
+    "weight": 330,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゼン"
+    ],
+    "kun": [
+      "まえ",
+      "-まえ"
+    ],
+    "am_han": "TIỀN"
+  },
+  "meaning": {
+    "vi": "phía trước, trước đây, tiền sử",
+    "en": "in front, before"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/前.svg"
+  },
+  "frequency": 27,
+  "examples": [
+    "前",
+    "名前",
+    "以前",
+    "午前",
+    "前回"
+  ],
+  "explanation": {
+    "id": "4583",
+    "text": "前 (đọc là \"zen\" hoặc \"mae\") có nghĩa là \"trước\", \"phía trước\" để chỉ vị trí, thời gian hoặc thứ tự.  \nVí dụ:  \n- 前日 (zenjitsu): Ngày hôm trước.  \n- 前進 (zenshin): Tiến lên, tiến bộ.  \n- 名前 (n"
+  },
+  "comments": [
+    {
+      "id": "521",
+      "lang": "vi",
+      "content_html": "<p>Chuẩn bị bữa tối <strong>trước </strong>khi trăng lên.</p>",
+      "content_text": "Chuẩn bị bữa tối\ntrước\nkhi trăng lên.",
+      "image_url": "https://jpdictionary.com/upload/images/6297685c46644.jpg",
+      "image_path": "assets/images/前_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190909",
+      "lang": "vi",
+      "content_html": "",
+      "content_text": "",
+      "image_url": "https://jpdictionary.com/upload/images/648a6dfa2dd7c.jpg",
+      "image_path": "assets/images/前_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "152028",
+      "lang": "vi",
+      "content_html": "<p>Hoàn cảnh: chi Hằng (月) cầm con Dao (刂) chui xuống gầm Giường (丬)<br>==&#62; Trước khi (前 TIỀN) bọn cướp xông vào. (hoặc Chư Bát Giới cũng dễ nhớ)<br>..性</p>",
+      "content_text": "Hoàn cảnh: chi Hằng (月) cầm con Dao (刂) chui xuống gầm Giường (丬)\n==> Trước khi (前 TIỀN) bọn cướp xông vào. (hoặc Chư Bát Giới cũng dễ nhớ)\n..性",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

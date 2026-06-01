@@ -1,0 +1,109 @@
+{
+  "kanji": "疲",
+  "meta": {
+    "weight": 1801,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "つか.れる",
+      "-づか.れ",
+      "つか.らす"
+    ],
+    "am_han": "BÌ"
+  },
+  "meaning": {
+    "vi": "mệt mỏi",
+    "en": "exhausted, tire, weary"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/疲.svg"
+  },
+  "frequency": 1263,
+  "examples": [
+    "疲れ",
+    "疲労",
+    "お疲れ様",
+    "疲れる",
+    "お疲れさま"
+  ],
+  "explanation": {
+    "id": "6565",
+    "text": "疲 (đọc là \"hi\" hoặc \"tsukeru\") có nghĩa là \"mệt mỏi\" để chỉ trạng thái kiệt sức, thiếu năng lượng, hoặc cảm giác uể oải do làm việc quá sức.\n\nVí dụ:\n- 疲れ (tsukare): Sự mệt mỏi.\n- 疲れる (tsukar"
+  },
+  "comments": [
+    {
+      "id": "37160",
+      "lang": "vi",
+      "content_html": "<p>Anh ấy (彼) <strong>mệt </strong>lả nên đã đi bệnh viện.</p>",
+      "content_text": "Anh ấy (彼)\nmệt\nlả nên đã đi bệnh viện.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd021850e2.jpg",
+      "image_path": "assets/images/疲_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155455",
+      "lang": "vi",
+      "content_html": "<p>DA (BÌ) mà bị ỐM (NẠCH) thì rất là MỆT MỎI</p>",
+      "content_text": "DA (BÌ) mà bị ỐM (NẠCH) thì rất là MỆT MỎI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155456",
+      "lang": "vi",
+      "content_html": "<p>Bệnh ngoài Da thật Mệt Mỏi</p>",
+      "content_text": "Bệnh ngoài Da thật Mệt Mỏi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155457",
+      "lang": "vi",
+      "content_html": "<p>お疲れになりましたか。<br><br>Bạn có mệt không</p>",
+      "content_text": "お疲れになりましたか。\nBạn có mệt không",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

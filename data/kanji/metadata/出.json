@@ -1,0 +1,96 @@
+{
+  "kanji": "出",
+  "meta": {
+    "weight": 307,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュツ",
+      "スイ"
+    ],
+    "kun": [
+      "で.る",
+      "-で",
+      "だ.す",
+      "-だ.す",
+      "い.でる",
+      "い.だす"
+    ],
+    "am_han": "XUẤT"
+  },
+  "meaning": {
+    "vi": "đi ra, xuất phát",
+    "en": "exit, leave, go out, come out, put out, protrude"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/出.svg"
+  },
+  "frequency": 13,
+  "examples": [
+    "出",
+    "出来",
+    "出し",
+    "出る",
+    "出来る"
+  ],
+  "explanation": {
+    "id": "3608",
+    "text": "出 (đọc là \"shutsu\" hoặc \"de\") có nghĩa là \"ra\", \"xuất\" để chỉ các hành động liên quan đến việc rời khỏi một nơi hoặc xuất hiện.\n\nVí dụ:\n- 出発 (shuppatsu): Khởi hành.\n- 出る (deru): Ra ngoài, xu"
+  },
+  "comments": [
+    {
+      "id": "190903",
+      "lang": "vi",
+      "content_html": "<p><strong>xuất hiện</strong></p>",
+      "content_text": "xuất hiện",
+      "image_url": "https://jpdictionary.com/upload/images/648a65ed05a47.jpg",
+      "image_path": "assets/images/出_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "611",
+      "lang": "vi",
+      "content_html": "<p>Lối <strong>ra </strong>ở hướng này.</p>",
+      "content_text": "Lối\nra\nở hướng này.",
+      "image_url": "https://jpdictionary.com/upload/images/62978778ce9b1.jpg",
+      "image_path": "assets/images/出_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158233",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>出る (でる): xuất hiện ra, rời khỏi</p><p>出す (だす): gửi (thư)</p><p>出かける (でかける): đi ra ngoài</p>",
+      "content_text": "JLPT N5\n出る (でる): xuất hiện ra, rời khỏi\n出す (だす): gửi (thư)\n出かける (でかける): đi ra ngoài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

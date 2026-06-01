@@ -1,0 +1,93 @@
+{
+  "kanji": "須",
+  "meta": {
+    "weight": 2901,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ス",
+      "シュ"
+    ],
+    "kun": [
+      "すべから.く",
+      "すべし",
+      "ひげ",
+      "まつ",
+      "もち.いる",
+      "もと.める"
+    ],
+    "am_han": "TU"
+  },
+  "meaning": {
+    "vi": "nên, bằng mọi cách, nhất thiết phải",
+    "en": "ought, by all means, necessarily"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/須.svg"
+  },
+  "frequency": 1339,
+  "examples": [
+    "必須",
+    "急須"
+  ],
+  "explanation": {
+    "id": "4187",
+    "text": "須 (đọc là \"su\" hoặc \"yasu\") có nghĩa là \"cần thiết\", \"phải có\" để chỉ những điều cần thiết hoặc yêu cầu bắt buộc trong một tình huống nào đó.  \nVí dụ:  \n- 必須 (hisshu): Bắt buộc, cần thiết.  "
+  },
+  "comments": [
+    {
+      "id": "157874",
+      "lang": "vi",
+      "content_html": "<p>Đi TU để TÓC trên ĐẦU<br>Chắc là người vẫn nặng sầu tương tư.</p>",
+      "content_text": "Đi TU để TÓC trên ĐẦU\nChắc là người vẫn nặng sầu tương tư.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157875",
+      "lang": "vi",
+      "content_html": "<p>Trong choc lat chi con 3 soi toc tren dau</p>",
+      "content_text": "Trong choc lat chi con 3 soi toc tren dau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157876",
+      "lang": "vi",
+      "content_html": "<p>Cắt tóc trên đầu để đi tu</p>",
+      "content_text": "Cắt tóc trên đầu để đi tu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

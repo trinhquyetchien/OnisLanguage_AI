@@ -1,0 +1,105 @@
+{
+  "kanji": "慢",
+  "meta": {
+    "weight": 1007,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マン"
+    ],
+    "kun": [],
+    "am_han": "MẠN"
+  },
+  "meaning": {
+    "vi": "chế giễu, lười biếng",
+    "en": "ridicule, laziness"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/慢.svg"
+  },
+  "frequency": 1368,
+  "examples": [
+    "我慢",
+    "自慢",
+    "慢性",
+    "傲慢",
+    "怠慢"
+  ],
+  "explanation": {
+    "id": "7454",
+    "text": "慢 (đọc là \"man\") có nghĩa là \"chậm\", \"meditative\" để chỉ trạng thái từ tốn, không vội vàng.  \nVí dụ:  \n- 慢性 (mansei): Mãn tính, kéo dài.  \n- 慢心 (manshin): Tự mãn, kiêu ngạo.  \n- 悪慢 (akuman):"
+  },
+  "comments": [
+    {
+      "id": "153685",
+      "lang": "vi",
+      "content_html": "<p>Con tim ngạo mạn đứng nhìn mặt trời</p>",
+      "content_text": "Con tim ngạo mạn đứng nhìn mặt trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153686",
+      "lang": "vi",
+      "content_html": "<p>Con tim ngày ngày mắc võng ngủ lại dưới mặt trời là kẻ ngạo MẠN</p>",
+      "content_text": "Con tim ngày ngày mắc võng ngủ lại dưới mặt trời là kẻ ngạo MẠN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153687",
+      "lang": "vi",
+      "content_html": "<p>kẻ tự mãn nghĩ mình giàu có mắc võng ngủ ngày qua ngày ko đi làm</p>",
+      "content_text": "kẻ tự mãn nghĩ mình giàu có mắc võng ngủ ngày qua ngày ko đi làm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222085",
+      "lang": "vi",
+      "content_html": "<p><strong>曼: cặp mắt nằm ngửa lên ngước lên trời ngắm trời cách ung dung, chậm rãi.</strong></p><p><strong>忄: tâm lý, trái tim</strong></p><p><strong>=&gt; tâm lý mình ung dung, tự tại. đó cũng như là mình đang buông lỏng bản thân mình một cách lười biếng, tự cao</strong></p>",
+      "content_text": "曼: cặp mắt nằm ngửa lên ngước lên trời ngắm trời cách ung dung, chậm rãi.\n忄: tâm lý, trái tim\n=> tâm lý mình ung dung, tự tại. đó cũng như là mình đang buông lỏng bản thân mình một cách lười biếng, tự cao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "7613",
+        "name": "truongg",
+        "image_url": "https://jpdictionary.com/upload/images/683b215a55293.png"
+      }
+    }
+  ]
+}

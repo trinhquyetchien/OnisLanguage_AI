@@ -1,0 +1,92 @@
+{
+  "kanji": "豊",
+  "meta": {
+    "weight": 2536,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ",
+      "ブ"
+    ],
+    "kun": [
+      "ゆた.か",
+      "とよ"
+    ],
+    "am_han": "PHONG"
+  },
+  "meaning": {
+    "vi": "phong phú",
+    "en": "bountiful, excellent, rich"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/豊.svg"
+  },
+  "frequency": 762,
+  "examples": [
+    "豊か",
+    "豊富",
+    "豊",
+    "豊作",
+    "豊穣"
+  ],
+  "explanation": {
+    "id": "7224",
+    "text": "豊 (đọc là \"yutaka\") có nghĩa là \"phong phú\", \"dồi dào\" để chỉ sự giàu có, đầy đủ hoặc phong phú về tài nguyên và sự sống.  \nVí dụ:  \n- 豊富 (hōfu): Phong phú, dồi dào.  \n- 豊か (yutaka): Giàu có"
+  },
+  "comments": [
+    {
+      "id": "157028",
+      "lang": "vi",
+      "content_html": "<p>Bài hát về đậu rất là PHONG phú</p>",
+      "content_text": "Bài hát về đậu rất là PHONG phú",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157029",
+      "lang": "vi",
+      "content_html": "<p>khúc ca về hạt đậu thì PHONG phú</p>",
+      "content_text": "khúc ca về hạt đậu thì PHONG phú",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157030",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa chủ yếu trồng đậu nên Quả đậu có nhưng khúc cong nhiều hình dạng dại diện cho sự phong phú</p>",
+      "content_text": "Ngày xưa chủ yếu trồng đậu nên Quả đậu có nhưng khúc cong nhiều hình dạng dại diện cho sự phong phú",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

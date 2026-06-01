@@ -1,0 +1,84 @@
+{
+  "kanji": "亮",
+  "meta": {
+    "weight": 130,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [
+      "あきらか"
+    ],
+    "am_han": "LƯỢNG"
+  },
+  "meaning": {
+    "vi": "rõ ràng, giúp đỡ",
+    "en": "clear, help"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/亮.svg"
+  },
+  "frequency": 1821,
+  "examples": [],
+  "explanation": {
+    "id": "8092",
+    "text": "亮 (đọc là \"ryō\") có nghĩa là \"sáng\", \"rõ ràng\" để chỉ sự chiếu sáng hoặc trạng thái minh bạch.\n\nVí dụ:\n- 明亮 (meiryō): Sáng sủa, sáng chói.\n- 亮子 (ryōko): Tên riêng, thường mang ý nghĩa liên q"
+  },
+  "comments": [
+    {
+      "id": "151516",
+      "lang": "vi",
+      "content_html": "<p>Giống gương mặt của Gia Cát LƯỢNG Đầu búi, có râu Dài quanh Miệng Và Cằm</p>",
+      "content_text": "Giống gương mặt của Gia Cát LƯỢNG Đầu búi, có râu Dài quanh Miệng Và Cằm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151517",
+      "lang": "vi",
+      "content_html": "<p>Đầu đội mũ,miệng mở, dang rộng chân chắc chắn người độ LƯỢNG</p>",
+      "content_text": "Đầu đội mũ,miệng mở, dang rộng chân chắc chắn người độ LƯỢNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151518",
+      "lang": "vi",
+      "content_html": "<p>chân bước vào lầu xanh thì phải mang theo ngân LƯỢNG sáng choé ( chị hiểu hôn )</p>",
+      "content_text": "chân bước vào lầu xanh thì phải mang theo ngân LƯỢNG sáng choé ( chị hiểu hôn )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

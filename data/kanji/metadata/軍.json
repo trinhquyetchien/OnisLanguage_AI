@@ -1,0 +1,90 @@
+{
+  "kanji": "軍",
+  "meta": {
+    "weight": 2607,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "グン"
+    ],
+    "kun": [
+      "いくさ"
+    ],
+    "am_han": "QUÂN"
+  },
+  "meaning": {
+    "vi": "quân đội",
+    "en": "army, force, troops, war, battle"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/軍.svg"
+  },
+  "frequency": 189,
+  "examples": [
+    "軍",
+    "軍事",
+    "軍隊",
+    "海軍",
+    "軍人"
+  ],
+  "explanation": {
+    "id": "1917",
+    "text": "軍 (đọc là \"gun\") có nghĩa là \"quân đội\", chỉ các lực lượng vũ trang hoặc các hành động liên quan đến quân sự.  \nVí dụ:  \n- 軍隊 (guntai): Quân đội.  \n- 軍事 (gunji): Quân sự.  \n- 軍艦 (gunkan): Tà"
+  },
+  "comments": [
+    {
+      "id": "157209",
+      "lang": "vi",
+      "content_html": "<p>Xe có phủ bên trên là xe quân đội</p>",
+      "content_text": "Xe có phủ bên trên là xe quân đội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157210",
+      "lang": "vi",
+      "content_html": "<p>XE TRÙM bạt là xe QUÂN đội</p>",
+      "content_text": "XE TRÙM bạt là xe QUÂN đội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157211",
+      "lang": "vi",
+      "content_html": "<p>xe quân đội bọc thép</p>",
+      "content_text": "xe quân đội bọc thép",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

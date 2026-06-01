@@ -1,0 +1,91 @@
+{
+  "kanji": "稿",
+  "meta": {
+    "weight": 1946,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "わら",
+      "したがき"
+    ],
+    "am_han": "CẢO"
+  },
+  "meaning": {
+    "vi": "bản thảo, bản sao, rơm",
+    "en": "draft, copy, manuscript, straw"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/稿.svg"
+  },
+  "frequency": 1400,
+  "examples": [
+    "投稿",
+    "原稿",
+    "稿",
+    "本稿",
+    "寄稿"
+  ],
+  "explanation": {
+    "id": "2511",
+    "text": "稿 (đọc là \"kō\") có nghĩa là \"bản thảo\", chỉ các bản viết chưa hoàn chỉnh hoặc những tài liệu thô sơ cần chỉnh sửa.  \nVí dụ:  \n- 原稿 (genkō): Bản thảo gốc.  \n- 草稿 (sōkō): Bản nháp.  \n- 原稿用紙 (g"
+  },
+  "comments": [
+    {
+      "id": "155784",
+      "lang": "vi",
+      "content_html": "<p>Bạn HOÀ 禾 viết bản thảo (CẢO) 稿 được đánh giá CAO 高</p>",
+      "content_text": "Bạn HOÀ 禾 viết bản thảo (CẢO) 稿 được đánh giá CAO 高",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155785",
+      "lang": "vi",
+      "content_html": "<p>hòa yêu cầu cao về bản thảo</p>",
+      "content_text": "hòa yêu cầu cao về bản thảo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155786",
+      "lang": "vi",
+      "content_html": "<p>A hoà cao do thường  ăn sủi cảo trong lúc viết bản thảo</p>",
+      "content_text": "A hoà cao do thường  ăn sủi cảo trong lúc viết bản thảo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

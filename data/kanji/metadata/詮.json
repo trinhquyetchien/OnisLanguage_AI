@@ -1,0 +1,86 @@
+{
+  "kanji": "詮",
+  "meta": {
+    "weight": 2480,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "せん.ずる",
+      "かい",
+      "あき.らか"
+    ],
+    "am_han": "THUYÊN"
+  },
+  "meaning": {
+    "vi": "thảo luận, các phương pháp được gọi cho, lựa chọn, kết quả",
+    "en": "discussion, methods called for, selection, result"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/詮.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4556",
+    "text": "詮 (đọc là \"sen\") có nghĩa là \"diễn giải\", \"giải thích\" để chỉ các hành động liên quan đến việc làm rõ, giải thích ý nghĩa hoặc nội dung của một vấn đề.\n\nVí dụ:\n- 詮索 (sensaku): Điều tra, tìm "
+  },
+  "comments": [
+    {
+      "id": "220689",
+      "lang": "vi",
+      "content_html": "<p>nói toàn chuyện luyên thuyên mà lại kĩ càng.</p>",
+      "content_text": "nói toàn chuyện luyên thuyên mà lại kĩ càng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220690",
+      "lang": "vi",
+      "content_html": "<p>Suy cho cùng toàn全nói言 luyên thuyên</p>",
+      "content_text": "Suy cho cùng toàn全nói言 luyên thuyên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220691",
+      "lang": "vi",
+      "content_html": "<p>Toàn hay nói luyên Thuyên</p>",
+      "content_text": "Toàn hay nói luyên Thuyên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

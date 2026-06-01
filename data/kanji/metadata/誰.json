@@ -1,0 +1,90 @@
+{
+  "kanji": "誰",
+  "meta": {
+    "weight": 2497,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "だれ",
+      "たれ",
+      "た"
+    ],
+    "am_han": "THÙY"
+  },
+  "meaning": {
+    "vi": "ai",
+    "en": "who, someone, somebody"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/誰.svg"
+  },
+  "frequency": 1933,
+  "examples": [
+    "誰",
+    "誰か",
+    "誰々"
+  ],
+  "explanation": {
+    "id": "5109",
+    "text": "誰 (đọc là \"dare\") có nghĩa là \"ai\" để chỉ người, thường dùng trong câu hỏi về danh tính hoặc người nào đó.  \nVí dụ:  \n- 誰か (dareka): Ai đó.  \n- 誰も (daremo): Không ai, bất kỳ ai.  \n- 誰の (dare"
+  },
+  "comments": [
+    {
+      "id": "156943",
+      "lang": "vi",
+      "content_html": "<p>Chim có thể Nói những lời THUỲ mị với bất cứ AI ĐÓ</p>",
+      "content_text": "Chim có thể Nói những lời THUỲ mị với bất cứ AI ĐÓ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156944",
+      "lang": "vi",
+      "content_html": "<p>Chim (CHUY 隹 ) Hót (言 Ngôn) AI ( 誰Thùy) cũng thích nghe.<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Chim (CHUY 隹 ) Hót (言 Ngôn) AI ( 誰Thùy) cũng thích nghe.\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156945",
+      "lang": "vi",
+      "content_html": "<p>khi thấy THUỲ vào thì CHIM bắt đầu NÓI</p>",
+      "content_text": "khi thấy THUỲ vào thì CHIM bắt đầu NÓI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "勢",
+  "meta": {
+    "weight": 363,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ゼイ"
+    ],
+    "kun": [
+      "いきお.い",
+      "はずみ"
+    ],
+    "am_han": "THẾ"
+  },
+  "meaning": {
+    "vi": "tư thế, thế lực",
+    "en": "forces, energy, military strength"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/勢.svg"
+  },
+  "frequency": 260,
+  "examples": [
+    "姿勢",
+    "勢い",
+    "情勢",
+    "勢力",
+    "大勢"
+  ],
+  "explanation": {
+    "id": "4293",
+    "text": "勢 (đọc là \"sei\" hoặc \"ze\") có nghĩa là \"thế lực\", \"sức mạnh\" để chỉ trạng thái của một lực lượng hoặc tình huống tạo ra sức ảnh hưởng.  \nVí dụ:  \n- 勢力 (seiryoku): Thế lực, quyền lực.  \n- 勢い "
+  },
+  "comments": [
+    {
+      "id": "152115",
+      "lang": "vi",
+      "content_html": "<p>tiên sinh có vùng đất hình tròn là có thế lực mạnh</p>",
+      "content_text": "tiên sinh có vùng đất hình tròn là có thế lực mạnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152116",
+      "lang": "vi",
+      "content_html": "<p>Trước先 thế 勢 lực 力 của hắn, tôi cuộn tròn 丸 người xuống đất 土 sợ hãi.</p>",
+      "content_text": "Trước先 thế 勢 lực 力 của hắn, tôi cuộn tròn 丸 người xuống đất 土 sợ hãi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152117",
+      "lang": "vi",
+      "content_html": "<p>Trước khi về với đất hoàn toàn phải có thế lực</p>",
+      "content_text": "Trước khi về với đất hoàn toàn phải có thế lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

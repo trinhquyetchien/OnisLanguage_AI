@@ -1,0 +1,90 @@
+{
+  "kanji": "縦",
+  "meta": {
+    "weight": 2109,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュウ"
+    ],
+    "kun": [
+      "たて"
+    ],
+    "am_han": "TUNG"
+  },
+  "meaning": {
+    "vi": "chiều dọc, chiều dài, chiều cao, tự sướng, ương ngạnh",
+    "en": "vertical, length, height, self-indulgent, wayward"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/縦.svg"
+  },
+  "frequency": 1258,
+  "examples": [
+    "縦",
+    "操縦",
+    "縦横",
+    "縦断",
+    "縦横無尽"
+  ],
+  "explanation": {
+    "id": "3573",
+    "text": "縦 (đọc là \"tō\" hoặc \"ju\") có nghĩa là \"dọc\", chỉ chiều dài theo phương thẳng đứng. \n\nVí dụ:\n- 縦線 (tōsen): Đường thẳng dọc.\n- 縦型 (tōgata): Kiểu dáng dọc.\n- 縦にする (tō ni suru): Đặt theo chiều d"
+  },
+  "comments": [
+    {
+      "id": "156136",
+      "lang": "vi",
+      "content_html": "<p>đi theo cái dây để đo chiều dọc</p>",
+      "content_text": "đi theo cái dây để đo chiều dọc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156137",
+      "lang": "vi",
+      "content_html": "<p>Túng 縦=糸 ＋ 従 <br>Sợi chỉ của võ Tòng lòng vòng mãi không thẳng <br>Sống phóng Túng , sợi chỉ cũng búng không lên .</p>",
+      "content_text": "Túng 縦=糸 ＋ 従\nSợi chỉ của võ Tòng lòng vòng mãi không thẳng\nSống phóng Túng , sợi chỉ cũng búng không lên .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156138",
+      "lang": "vi",
+      "content_html": "<p>bị túng quẩn theo chiều dọc vì phục tùng sợi dây</p>",
+      "content_text": "bị túng quẩn theo chiều dọc vì phục tùng sợi dây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

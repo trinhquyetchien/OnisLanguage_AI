@@ -1,0 +1,56 @@
+{
+  "kanji": "讃",
+  "meta": {
+    "weight": 2532,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン"
+    ],
+    "kun": [
+      "ほ.める",
+      "たた.える"
+    ],
+    "am_han": "TÁN"
+  },
+  "meaning": {
+    "vi": "khen ngợi, tiêu đề trên một bức tranh",
+    "en": "praise, title on a picture"
+  },
+  "stroke": {
+    "count": 22,
+    "svg": "assets/svg/讃.svg"
+  },
+  "frequency": 2179,
+  "examples": [
+    "讃",
+    "讃岐",
+    "讃える",
+    "讃歌"
+  ],
+  "explanation": {
+    "id": "3017",
+    "text": "讃 (đọc là \"san\") có nghĩa là \"tán dương\", \"khen ngợi\" để chỉ các hành động liên quan đến việc ca ngợi hoặc đánh giá cao điều gì đó.\n\nVí dụ:\n- 讃歌 (sanka): Bài hát tán dương, ngợi ca.\n- 讃美 (sa"
+  },
+  "comments": [
+    {
+      "id": "157021",
+      "lang": "vi",
+      "content_html": "<p>Chữ Tán</p>",
+      "content_text": "Chữ Tán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

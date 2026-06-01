@@ -1,0 +1,90 @@
+{
+  "kanji": "致",
+  "meta": {
+    "weight": 2226,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チ"
+    ],
+    "kun": [
+      "いた.す"
+    ],
+    "am_han": "TRÍ"
+  },
+  "meaning": {
+    "vi": "làm, gửi, chuyển tiếp, gây ra, nỗ lực, gánh chịu, tham gia",
+    "en": "doth, do, send, forward, cause, exert, incur, engage"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/致.svg"
+  },
+  "frequency": 870,
+  "examples": [
+    "一致",
+    "拉致",
+    "合致",
+    "致命",
+    "誘致"
+  ],
+  "explanation": {
+    "id": "5223",
+    "text": "致 (đọc là \"chi\") có nghĩa là \"gửi\", \"đưa đến\" hoặc chỉ hành động làm cho một điều gì đó xảy ra. \n\nVí dụ:\n- 致す (itasu): Gửi, làm (khiêm nhường).\n- 致命的 (chimeiteki): Gây chết người, nguy hiểm."
+  },
+  "comments": [
+    {
+      "id": "156400",
+      "lang": "vi",
+      "content_html": "<p>Ngồi xuống đất vỗ đùi nhất trí</p>",
+      "content_text": "Ngồi xuống đất vỗ đùi nhất trí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156401",
+      "lang": "vi",
+      "content_html": "<p>dùng mưu Trí đánh vào ý Chí quân địch</p>",
+      "content_text": "dùng mưu Trí đánh vào ý Chí quân địch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156402",
+      "lang": "vi",
+      "content_html": "<p>nhất TRÍ dùng đòn tâm lý đánh (PHỘC) vào ý CHÍ</p>",
+      "content_text": "nhất TRÍ dùng đòn tâm lý đánh (PHỘC) vào ý CHÍ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

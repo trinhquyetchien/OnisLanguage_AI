@@ -1,0 +1,93 @@
+{
+  "kanji": "安",
+  "meta": {
+    "weight": 707,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アン"
+    ],
+    "kun": [
+      "やす.い",
+      "やす.まる",
+      "やす",
+      "やす.らか"
+    ],
+    "am_han": "AN"
+  },
+  "meaning": {
+    "vi": "rẻ, an bình",
+    "en": "relax, cheap, low, quiet, rested, contented, peaceful"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/安.svg"
+  },
+  "frequency": 144,
+  "examples": [
+    "安全",
+    "不安",
+    "安定",
+    "安心",
+    "安い"
+  ],
+  "explanation": {
+    "id": "90",
+    "text": "安 (đọc là \"an\") có nghĩa là \"an toàn\", \"yên tĩnh\" hoặc \"để bình ổn\". \n\nVí dụ:\n- 安全 (anzen): An toàn.\n- 安らか (yasuraka): Yên tĩnh, thanh thản.\n- 安定 (antei): Ổn định."
+  },
+  "comments": [
+    {
+      "id": "578",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ (女) cảm thấy <strong>an</strong> tâm hơn khi ở trong nhà.</p>",
+      "content_text": "Phụ nữ (女) cảm thấy\nan\ntâm hơn khi ở trong nhà.",
+      "image_url": "https://jpdictionary.com/upload/images/629780dfc5b3c.jpg",
+      "image_path": "assets/images/安_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152930",
+      "lang": "vi",
+      "content_html": "<p>Trong nhà có người phụ nữ thì bình yên.</p>",
+      "content_text": "Trong nhà có người phụ nữ thì bình yên.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158307",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>安い (やすい): rẻ<br>安心 (あんしん): an tâm<br>安全 (あんぜん): an toàn</p>",
+      "content_text": "JLPT N4\n安い (やすい): rẻ\n安心 (あんしん): an tâm\n安全 (あんぜん): an toàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

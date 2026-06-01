@@ -1,0 +1,91 @@
+{
+  "kanji": "控",
+  "meta": {
+    "weight": 1121,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "ひか.える",
+      "ひか.え"
+    ],
+    "am_han": "KHỐNG"
+  },
+  "meaning": {
+    "vi": "rút ra, giữ lại, kiềm chế, vừa phải",
+    "en": "withdraw, draw in, hold back, refrain from, be moderate"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/控.svg"
+  },
+  "frequency": 1000,
+  "examples": [
+    "控え",
+    "控訴",
+    "控除",
+    "控えめ",
+    "控える"
+  ],
+  "explanation": {
+    "id": "2459",
+    "text": "控 (đọc là \"kou\") có nghĩa là \"kiểm soát\", \"ràng buộc\" để chỉ hành động hạn chế hoặc điều chỉnh một cái gì đó.\n\nVí dụ:\n- 控訴 (kouso): Kháng cáo, khiếu nại.\n- 控える (hikaeru): Kiềm chế, hạn chế.\n"
+  },
+  "comments": [
+    {
+      "id": "153968",
+      "lang": "vi",
+      "content_html": "<p>Một tay khống chế cả bầu trời</p>",
+      "content_text": "Một tay khống chế cả bầu trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153969",
+      "lang": "vi",
+      "content_html": "<p>Tay 扌Không 空 thì dễ bị Khống chế</p>",
+      "content_text": "Tay 扌Không 空 thì dễ bị Khống chế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153970",
+      "lang": "vi",
+      "content_html": "<p>tay 扌không khống chế cả bầu trời 空</p>",
+      "content_text": "tay 扌không khống chế cả bầu trời 空",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

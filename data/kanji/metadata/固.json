@@ -1,0 +1,110 @@
+{
+  "kanji": "固",
+  "meta": {
+    "weight": 538,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "かた.める",
+      "かた.まる",
+      "かた.まり",
+      "かた.い"
+    ],
+    "am_han": "CỐ"
+  },
+  "meaning": {
+    "vi": "cứng, ngoan cố",
+    "en": "harden, set, clot, curdle"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/固.svg"
+  },
+  "frequency": 750,
+  "examples": [
+    "固定",
+    "固有",
+    "固め",
+    "固い",
+    "頑固"
+  ],
+  "explanation": {
+    "id": "2256",
+    "text": "固 (đọc là \"ko\") có nghĩa là \"cứng\", \"vững chắc\" để chỉ tính chất kiên cố, không dễ bị thay đổi hoặc phá vỡ.\n\nVí dụ:\n- 固定 (kotei): Sự cố định, ổn định.\n- 固体 (kotai): Chất rắn.\n- 固執 (koshitsu)"
+  },
+  "comments": [
+    {
+      "id": "37018",
+      "lang": "vi",
+      "content_html": "<p>Những bức tường bao quanh nhà thờ cổ (古) rất <strong>cứng </strong>và bền.</p>",
+      "content_text": "Những bức tường bao quanh nhà thờ cổ (古) rất\ncứng\nvà bền.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4ff340766.jpg",
+      "image_path": "assets/images/固_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152533",
+      "lang": "vi",
+      "content_html": "<p>Đồ CỔ được bọc kiên CỐ</p>",
+      "content_text": "Đồ CỔ được bọc kiên CỐ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152534",
+      "lang": "vi",
+      "content_html": "<p>Đồ cổ còn bao bọc lại nữa thì càng cứng</p>",
+      "content_text": "Đồ cổ còn bao bọc lại nữa thì càng cứng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152535",
+      "lang": "vi",
+      "content_html": "<p>Thành cổ được bao vây bởi các bức tường rất kiên cố</p>",
+      "content_text": "Thành cổ được bao vây bởi các bức tường rất kiên cố",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

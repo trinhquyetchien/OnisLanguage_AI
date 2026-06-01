@@ -1,0 +1,33 @@
+{
+  "kanji": "戎",
+  "meta": {
+    "weight": 1029,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュウ"
+    ],
+    "kun": [
+      "えびす",
+      "つわもの"
+    ],
+    "am_han": "NHUNG"
+  },
+  "meaning": {
+    "vi": "chiến binh, vũ khí, man rợ, Ainu",
+    "en": "warrior, arms, barbarian, Ainu"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/戎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3560",
+    "text": "戎 (đọc là \"eiyuu\" hoặc \"jugun\") có nghĩa là \"quân đội\", \"chiến tranh\" để chỉ các hoạt động liên quan đến quân sự, chiến đấu.\n\nVí dụ:\n- 戎装 (eizou): Trang phục quân đội.\n- 戎事 (eiji): Công việc"
+  },
+  "comments": []
+}

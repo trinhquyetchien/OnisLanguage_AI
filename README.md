@@ -16,6 +16,7 @@ Backend API cho app học tiếng Nhật. Repo này chỉ còn phần backend, �
 - `backend/app/services/`: logic xử lý AI và nghiệp vụ.
 - `backend/app/schemas/`: schema request/response.
 - `backend/models/`: model weights và label map.
+- `data/kanji/metadata` và `data/kanji/assets`: metadata và static asset cho kanji, dùng trực tiếp trong backend.
 - `backend/storage/`: file upload tạm.
 
 ## Chạy local

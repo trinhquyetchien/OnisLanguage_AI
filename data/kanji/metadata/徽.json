@@ -1,0 +1,50 @@
+{
+  "kanji": "徽",
+  "meta": {
+    "weight": 937,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "しるし"
+    ],
+    "am_han": "HUY"
+  },
+  "meaning": {
+    "vi": "tốt, đẹp, huy hiệu",
+    "en": "good, beautiful, badge"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/徽.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1360",
+    "text": "徽 (đọc là \"ki\") có nghĩa là \"huy hiệu\" hoặc \"dấu hiệu\" để chỉ các biểu tượng, đặc trưng liên quan đến danh tính hoặc sự công nhận.\n\nVí dụ:\n- 徽章 (kizō): Huy chương, huy hiệu.\n- 徽記 (kiki): Dấu"
+  },
+  "comments": [
+    {
+      "id": "219475",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa ai lên ngọn núi xích thố gõ phộc phộc và thả đc sợi chỉ xuống sẽ tặng HUY chương</p>",
+      "content_text": "Ngày xưa ai lên ngọn núi xích thố gõ phộc phộc và thả đc sợi chỉ xuống sẽ tặng HUY chương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

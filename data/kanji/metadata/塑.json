@@ -1,0 +1,84 @@
+{
+  "kanji": "塑",
+  "meta": {
+    "weight": 585,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ"
+    ],
+    "kun": [
+      "でく"
+    ],
+    "am_han": "TỐ"
+  },
+  "meaning": {
+    "vi": "mô hình, đúc",
+    "en": "model, molding"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/塑.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4611",
+    "text": "塑 (đọc là \"sō\") có nghĩa là \"đúc\", \"nặn\" để chỉ các hành động liên quan đến việc tạo hình, chế tác từ vật liệu như đất sét hay nhựa.\n\nVí dụ:\n- 塑像 (sozō): Tượng đắp, tượng nặn.\n- 塑製 (sosei): "
+  },
+  "comments": [
+    {
+      "id": "219220",
+      "lang": "vi",
+      "content_html": "<p>Thổ nghịch ( chọc ghẹo) nguyệt nên bị tố cáo, phải bồi đắp tinh thần</p>",
+      "content_text": "Thổ nghịch ( chọc ghẹo) nguyệt nên bị tố cáo, phải bồi đắp tinh thần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219221",
+      "lang": "vi",
+      "content_html": "<p>Nghịch cả tháng mới đắp đc tượng đất TỐ tố</p>",
+      "content_text": "Nghịch cả tháng mới đắp đc tượng đất TỐ tố",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219222",
+      "lang": "vi",
+      "content_html": "<p>Đắp tượng ( tố ) hình con sóc trên mặt đất</p>",
+      "content_text": "Đắp tượng ( tố ) hình con sóc trên mặt đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "悠",
+  "meta": {
+    "weight": 976,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ"
+    ],
+    "kun": [],
+    "am_han": "DU"
+  },
+  "meaning": {
+    "vi": "vĩnh viễn, xa xôi, lâu dài, nhàn hạ",
+    "en": "permanence, distant, long time, leisure"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/悠.svg"
+  },
+  "frequency": 1921,
+  "examples": [
+    "悠",
+    "悠々",
+    "悠長",
+    "悠久",
+    "悠々自適"
+  ],
+  "explanation": {
+    "id": "7755",
+    "text": "悠 (đọc là \"yuu\") có nghĩa là \"dài lâu\", \"thảnh thơi\", thường chỉ trạng thái bình tĩnh, thoải mái. \n\nVí dụ:\n- 悠久 (yuukyuu): Vĩnh hằng, vô tận.\n- 悠然 (yuuzan): Thản nhiên, bình thản.\n- 悠揚 (yuuy"
+  },
+  "comments": [
+    {
+      "id": "153599",
+      "lang": "vi",
+      "content_html": "<p>Nhân Đánh bản nhạc Tâm hồn DU dương</p>",
+      "content_text": "Nhân Đánh bản nhạc Tâm hồn DU dương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153601",
+      "lang": "vi",
+      "content_html": "<p>攸 DU ( đứng cầm 1 cây vĩ đánh đàn vĩ cầm DU dương ) <br>悠 Tâm  DU dương</p>",
+      "content_text": "攸 DU ( đứng cầm 1 cây vĩ đánh đàn vĩ cầm DU dương )\n悠 Tâm  DU dương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153600",
+      "lang": "vi",
+      "content_html": "<p>người bên phải cầm que định đánh người bên trái nhưng vẫn ung dung vì cách bức tường rồi</p>",
+      "content_text": "người bên phải cầm que định đánh người bên trái nhưng vẫn ung dung vì cách bức tường rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

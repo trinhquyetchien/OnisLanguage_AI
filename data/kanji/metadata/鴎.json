@@ -1,0 +1,32 @@
+{
+  "kanji": "鴎",
+  "meta": {
+    "weight": 3000,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オウ"
+    ],
+    "kun": [
+      "かもめ"
+    ],
+    "am_han": "ÂU"
+  },
+  "meaning": {
+    "vi": "mòng biển",
+    "en": "seagull"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/鴎.svg"
+  },
+  "frequency": 2187,
+  "examples": [],
+  "explanation": {
+    "id": "548",
+    "text": "鴎 (đọc là \"ō\") có nghĩa là \"mòng biển\", chỉ loài chim biển thường bay lượn ở ven biển.\n\nVí dụ:\n- 鴎 (おう, ō): Mòng biển.\n- 鴎ソング (おうそんぐ, ō songu): Bài hát về mòng biển.\n- 鴎の声 (おうのこえ, ō no koe):"
+  },
+  "comments": []
+}

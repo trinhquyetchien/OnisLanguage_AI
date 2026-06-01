@@ -1,0 +1,73 @@
+{
+  "kanji": "銀",
+  "meta": {
+    "weight": 2755,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギン"
+    ],
+    "kun": [
+      "しろがね"
+    ],
+    "am_han": "NGÂN"
+  },
+  "meaning": {
+    "vi": "bạc, ngân hàng",
+    "en": "silver"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/銀.svg"
+  },
+  "frequency": 395,
+  "examples": [
+    "銀行",
+    "日銀",
+    "銀",
+    "銀座",
+    "日本銀行"
+  ],
+  "explanation": {
+    "id": "1804",
+    "text": "銀 (đọc là \"gin\") có nghĩa là \"bạc\", chỉ loại kim loại quý và các sản phẩm liên quan đến bạc.  \nVí dụ:  \n- 銀行 (ginkō): Ngân hàng.  \n- 銀色 (giniro): Màu bạc, màu ánh kim.  \n- 銀貨 (ginka): Tiền b"
+  },
+  "comments": [
+    {
+      "id": "634",
+      "lang": "vi",
+      "content_html": "<p><strong>Bạc </strong>thì không tốt (良) bằng vàng (金).</p>",
+      "content_text": "Bạc\nthì không tốt (良) bằng vàng (金).",
+      "image_url": "https://jpdictionary.com/upload/images/62978ad300718.jpg",
+      "image_path": "assets/images/銀_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158544",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>銀行 (ぎんこう): ngân hàng</p>",
+      "content_text": "JLPT N4\n銀行 (ぎんこう): ngân hàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

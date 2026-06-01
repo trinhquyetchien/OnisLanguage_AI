@@ -1,0 +1,37 @@
+{
+  "kanji": "鵜",
+  "meta": {
+    "weight": 3006,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ",
+      "ダイ"
+    ],
+    "kun": [
+      "う"
+    ],
+    "am_han": "ĐỀ"
+  },
+  "meaning": {
+    "vi": "chim cốc",
+    "en": "cormorant"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/鵜.svg"
+  },
+  "frequency": 2118,
+  "examples": [
+    "鵜呑み",
+    "鵜飼",
+    "鵜"
+  ],
+  "explanation": {
+    "id": "303",
+    "text": "鵜 (đọc là \"u\") có nghĩa là \"chim cốc\", một loại chim thủy sinh thường sống ở khu vực ven biển hoặc các sông hồ. \n\nVí dụ:\n- 鵜飼い (ugai): Nghề đánh cá bằng chim cốc.\n- 鵜 (u): Chim cốc, chỉ riên"
+  },
+  "comments": []
+}

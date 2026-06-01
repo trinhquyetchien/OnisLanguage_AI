@@ -1,0 +1,105 @@
+{
+  "kanji": "紀",
+  "meta": {
+    "weight": 2047,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [],
+    "am_han": "KỈ"
+  },
+  "meaning": {
+    "vi": "biên niên sử, tài khoản, tường thuật, lịch sử, thời kỳ địa chất",
+    "en": "chronicle, account, narrative, history, annals, geologic period"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/紀.svg"
+  },
+  "frequency": 780,
+  "examples": [
+    "世紀",
+    "紀",
+    "紀行",
+    "紀元前",
+    "今世紀"
+  ],
+  "explanation": {
+    "id": "1356",
+    "text": "紀 (đọc là \"ki\") có nghĩa là \"kỷ\", \"biên niên\", chỉ các khía cạnh liên quan đến việc ghi chép, lưu giữ lịch sử hoặc sự kiện.  \nVí dụ:  \n- 紀元 (kigen): Kỷ nguyên, thời đại.  \n- 紀行 (kikō): Hành "
+  },
+  "comments": [
+    {
+      "id": "155973",
+      "lang": "vi",
+      "content_html": "<p>Mất cả thế KỈ để rút SỢI DÂY kinh nghiệm.</p>",
+      "content_text": "Mất cả thế KỈ để rút SỢI DÂY kinh nghiệm.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191149",
+      "lang": "vi",
+      "content_html": "<p>thế <strong>kỉ </strong>- 世紀</p>",
+      "content_text": "thế\nkỉ\n- 世紀",
+      "image_url": "https://jpdictionary.com/upload/images/648aca1c1c7c5.jpg",
+      "image_path": "assets/images/紀_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "155974",
+      "lang": "vi",
+      "content_html": "<p>Một mình (KỈ) gỡ sợi tơ rối (MỊCH) đến hết cả thế KỈ</p>",
+      "content_text": "Một mình (KỈ) gỡ sợi tơ rối (MỊCH) đến hết cả thế KỈ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155975",
+      "lang": "vi",
+      "content_html": "<p>sợi tơ rối ngồi 1 mình gỡ hết thế kỉ cũng ko xong</p>",
+      "content_text": "sợi tơ rối ngồi 1 mình gỡ hết thế kỉ cũng ko xong",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

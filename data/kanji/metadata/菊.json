@@ -1,0 +1,85 @@
+{
+  "kanji": "菊",
+  "meta": {
+    "weight": 2291,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キク"
+    ],
+    "kun": [],
+    "am_han": "CÚC"
+  },
+  "meaning": {
+    "vi": "hoa cúc",
+    "en": "chrysanthemum"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/菊.svg"
+  },
+  "frequency": 1287,
+  "examples": [
+    "菊",
+    "春菊"
+  ],
+  "explanation": {
+    "id": "1451",
+    "text": "菊 (đọc là \"kiku\") có nghĩa là \"cúc\", chỉ loại hoa cúc, biểu tượng cho sự trường thọ và tinh khiết trong văn hóa Nhật Bản.  \nVí dụ:  \n- 菊花 (kikka): Hoa cúc.  \n- 菊祭り (kikuzatsuri): Lễ hội hoa "
+  },
+  "comments": [
+    {
+      "id": "156534",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa hoa cúc đc trồng bao quanh lúa</p>",
+      "content_text": "Ngày xưa hoa cúc đc trồng bao quanh lúa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156535",
+      "lang": "vi",
+      "content_html": "<p>cô Thảo bán Bao Gạo để mua hoa Cúc</p>",
+      "content_text": "cô Thảo bán Bao Gạo để mua hoa Cúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156536",
+      "lang": "vi",
+      "content_html": "<p>cỏ mọc xung quanh lúa goi là hoa cúc</p>",
+      "content_text": "cỏ mọc xung quanh lúa goi là hoa cúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

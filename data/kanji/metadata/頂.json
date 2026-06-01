@@ -1,0 +1,91 @@
+{
+  "kanji": "頂",
+  "meta": {
+    "weight": 2897,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "いただ.く",
+      "いただき"
+    ],
+    "am_han": "ĐỈNH"
+  },
+  "meaning": {
+    "vi": "nhận, đỉnh đầu",
+    "en": "place on the head, receive, top of head, top, summit, peak"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/頂.svg"
+  },
+  "frequency": 1350,
+  "examples": [
+    "頂き",
+    "頂く",
+    "頂ける",
+    "頂点",
+    "頂上"
+  ],
+  "explanation": {
+    "id": "5408",
+    "text": "頂 (đọc là \"chou\" hoặc \"itadaku\") có nghĩa là \"đỉnh\", \"ngọn\" để chỉ các vị trí ở trên cao, hoặc việc nhận lấy, tiếp nhận.  \nVí dụ:  \n- 頂上 (choujou): Đỉnh, điểm cao nhất.  \n- 頂戴 (choudai): Xin"
+  },
+  "comments": [
+    {
+      "id": "157862",
+      "lang": "vi",
+      "content_html": "<p>ĐỈNH cao của giấy là làm đinh</p>",
+      "content_text": "ĐỈNH cao của giấy là làm đinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157863",
+      "lang": "vi",
+      "content_html": "<p>Cắm luôn cái ĐINH lên ĐẦU cho ĐỈNH</p>",
+      "content_text": "Cắm luôn cái ĐINH lên ĐẦU cho ĐỈNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157864",
+      "lang": "vi",
+      "content_html": "<p>thằng đỉnh cắt đầu đinh</p>",
+      "content_text": "thằng đỉnh cắt đầu đinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

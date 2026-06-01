@@ -1,0 +1,107 @@
+{
+  "kanji": "横",
+  "meta": {
+    "weight": 1421,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オウ"
+    ],
+    "kun": [
+      "よこ"
+    ],
+    "am_han": "HOÀNH"
+  },
+  "meaning": {
+    "vi": "ngang, hoành độ",
+    "en": "sideways, side, horizontal, width, woof, unreasonable, perverse"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/横.svg"
+  },
+  "frequency": 480,
+  "examples": [
+    "横",
+    "横浜",
+    "横断",
+    "横行",
+    "横目"
+  ],
+  "explanation": {
+    "id": "529",
+    "text": "横 (đọc là \"ō\") có nghĩa là \"ngang\", \"bên cạnh\" để chỉ các vị trí hoặc trạng thái nằm ngang, không theo chiều dọc.\nVí dụ:\n- 横断 (ōdan): Băng qua, vượt qua.\n- 横暴 (ōbō): Hung hãn, tàn bạo.\n- 横顔 "
+  },
+  "comments": [
+    {
+      "id": "37368",
+      "lang": "vi",
+      "content_html": "<p>Bọn trẻ đang chơi bên trong cái hộp ở <strong>cạnh </strong>gốc cây (木).</p>",
+      "content_text": "Bọn trẻ đang chơi bên trong cái hộp ở\ncạnh\ngốc cây (木).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfeba49cd7c.jpg",
+      "image_path": "assets/images/横_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154615",
+      "lang": "vi",
+      "content_html": "<p>có CÂY VÀNG thì rất HOÀNH tráng</p>",
+      "content_text": "có CÂY VÀNG thì rất HOÀNH tráng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154616",
+      "lang": "vi",
+      "content_html": "<p>bên gốc cây (木)  1(一) thằng nằm dưới cỏ (艹)、8 (八)thằng tự do (由) rong chơi, thật là tung HOÀNH</p>",
+      "content_text": "bên gốc cây (木)  1(一) thằng nằm dưới cỏ (艹)、8 (八)thằng tự do (由) rong chơi, thật là tung HOÀNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154617",
+      "lang": "vi",
+      "content_html": "<p>Cái cây lá vàng chết khô nằm đổ ngang bên đường</p>",
+      "content_text": "Cái cây lá vàng chết khô nằm đổ ngang bên đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

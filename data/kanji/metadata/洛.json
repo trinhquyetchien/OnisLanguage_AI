@@ -1,0 +1,67 @@
+{
+  "kanji": "洛",
+  "meta": {
+    "weight": 1527,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ラク"
+    ],
+    "kun": [],
+    "am_han": "LẠC"
+  },
+  "meaning": {
+    "vi": "Kyoto, thủ đô",
+    "en": "Kyoto, the capital"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/洛.svg"
+  },
+  "frequency": 2302,
+  "examples": [
+    "洛"
+  ],
+  "explanation": {
+    "id": "7958",
+    "text": "洛 (đọc là \"raku\") có nghĩa là \"dòng nước\", thường liên quan đến một dòng sông hoặc địa điểm. Ngoài ra, nó cũng được dùng trong tên gọi của thành phố cổ.\n\nVí dụ:\n- 洛陽 (Rakuō): Thành phố Lạc D"
+  },
+  "comments": [
+    {
+      "id": "154866",
+      "lang": "vi",
+      "content_html": "<p>Khi đi Lạc, Các bạn nhớ uống Nước</p>",
+      "content_text": "Khi đi Lạc, Các bạn nhớ uống Nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154867",
+      "lang": "vi",
+      "content_html": "<p>Lạc mất Các bạn Nước ngoài.</p>",
+      "content_text": "Lạc mất Các bạn Nước ngoài.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

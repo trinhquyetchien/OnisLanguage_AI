@@ -1,0 +1,91 @@
+{
+  "kanji": "兆",
+  "meta": {
+    "weight": 258,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "きざ.す",
+      "きざ.し"
+    ],
+    "am_han": "TRIỆU"
+  },
+  "meaning": {
+    "vi": "triệu triệu (10^12)",
+    "en": "portent, 10**12, trillion, sign, omen, symptoms"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/兆.svg"
+  },
+  "frequency": 1174,
+  "examples": [
+    "兆",
+    "兆し",
+    "兆候",
+    "前兆",
+    "予兆"
+  ],
+  "explanation": {
+    "id": "5325",
+    "text": "兆 (đọc là \"chō\") có nghĩa là \"dấu hiệu\", \"triệu\" trong các ngữ cảnh liên quan đến số lượng lớn hoặc sự khởi đầu của điều gì đó.  \nVí dụ:  \n- 兆候 (chōkō): Dấu hiệu, triệu chứng.  \n- 兆円 (chōen)"
+  },
+  "comments": [
+    {
+      "id": "151840",
+      "lang": "vi",
+      "content_html": "<p>TRIỆU NGƯỜI ĐI tứ hướng</p>",
+      "content_text": "TRIỆU NGƯỜI ĐI tứ hướng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151841",
+      "lang": "vi",
+      "content_html": "<p>Đôi uyên ương quay lưng vào nhau cùng ngắm triệu ngôi sao</p>",
+      "content_text": "Đôi uyên ương quay lưng vào nhau cùng ngắm triệu ngôi sao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151842",
+      "lang": "vi",
+      "content_html": "<p>Đôi chân có TRIỆU chứng như bị đóng băng 2 bên</p>",
+      "content_text": "Đôi chân có TRIỆU chứng như bị đóng băng 2 bên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

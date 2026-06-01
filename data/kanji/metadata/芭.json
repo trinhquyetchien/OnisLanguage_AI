@@ -1,0 +1,51 @@
+{
+  "kanji": "芭",
+  "meta": {
+    "weight": 2254,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バ",
+      "ハ"
+    ],
+    "kun": [],
+    "am_han": "BA"
+  },
+  "meaning": {
+    "vi": "chuối",
+    "en": "banana"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/芭.svg"
+  },
+  "frequency": 2026,
+  "examples": [
+    "芭蕉"
+  ],
+  "explanation": {
+    "id": "6247",
+    "text": "芭 (đọc là \"ba\") có nghĩa là \"cây chuối\" hoặc chỉ những loại cây tương tự. \n\nVí dụ:\n- 芭蕉 (bajō): Cây chuối, thường chỉ một loại chuối cụ thể.\n- 芭蕾 (barei): Ballet, nghệ thuật múa ba lê (từ gh"
+  },
+  "comments": [
+    {
+      "id": "156466",
+      "lang": "vi",
+      "content_html": "<p>伊黒 小芭内 XÀ TRỤいぐろおばない</p>",
+      "content_text": "伊黒 小芭内 XÀ TRỤいぐろおばない",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

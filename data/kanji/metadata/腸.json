@@ -1,0 +1,91 @@
+{
+  "kanji": "腸",
+  "meta": {
+    "weight": 2207,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "はらわた",
+      "わた"
+    ],
+    "am_han": "TRÀNG, TRƯỜNG"
+  },
+  "meaning": {
+    "vi": "ruột, nội tạng",
+    "en": "intestines, guts, bowels, viscera"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/腸.svg"
+  },
+  "frequency": 1807,
+  "examples": [
+    "腸",
+    "胃腸",
+    "大腸",
+    "大腸菌",
+    "腸管"
+  ],
+  "explanation": {
+    "id": "5386",
+    "text": "腸 (đọc là \"chō\") có nghĩa là \"ruột\", chỉ các phần của hệ tiêu hóa trong cơ thể.  \nVí dụ:  \n- 腸内 (chōnai): Trong ruột, bên trong ruột.  \n- 腸炎 (chōen): Viêm ruột.  \n- 腸詰め (chōdzume): Xúc xích,"
+  },
+  "comments": [
+    {
+      "id": "156362",
+      "lang": "vi",
+      "content_html": "<p>Đến tháng dương đau đại tràng</p>",
+      "content_text": "Đến tháng dương đau đại tràng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156363",
+      "lang": "vi",
+      "content_html": "<p>chị NGUYỆT bị DƯƠNG vật chọc cho đau đại TRÀNG</p>",
+      "content_text": "chị NGUYỆT bị DƯƠNG vật chọc cho đau đại TRÀNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156364",
+      "lang": "vi",
+      "content_html": "<p>động vật trường dưới ánh nắng mặt trời suốt 1 tháng thì đau đại tràng</p>",
+      "content_text": "động vật trường dưới ánh nắng mặt trời suốt 1 tháng thì đau đại tràng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

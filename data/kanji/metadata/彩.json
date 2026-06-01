@@ -1,0 +1,90 @@
+{
+  "kanji": "彩",
+  "meta": {
+    "weight": 912,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "いろど.る"
+    ],
+    "am_han": "THẢI, THÁI"
+  },
+  "meaning": {
+    "vi": "màu, sơn, trang điểm",
+    "en": "coloring, paint, makeup"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/彩.svg"
+  },
+  "frequency": 1251,
+  "examples": [
+    "色彩",
+    "多彩",
+    "水彩",
+    "彩り",
+    "彩色"
+  ],
+  "explanation": {
+    "id": "2793",
+    "text": "彩 (đọc là \"sai\") có nghĩa là \"màu sắc\", \"sự tươi sáng\" để chỉ các khía cạnh liên quan đến màu sắc và sự đa dạng trong nghệ thuật và tự nhiên.  \nVí dụ:  \n- 彩色 (saishiki): Màu sắc, đa sắc.  \n-"
+  },
+  "comments": [
+    {
+      "id": "153432",
+      "lang": "vi",
+      "content_html": "<p>Có 7 sắc thái cầu vòng mọc trên cây</p>",
+      "content_text": "Có 7 sắc thái cầu vòng mọc trên cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153433",
+      "lang": "vi",
+      "content_html": "<p>Móng thái cây thành 3 mảnh nhỏ</p>",
+      "content_text": "Móng thái cây thành 3 mảnh nhỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153434",
+      "lang": "vi",
+      "content_html": "<p>sắc thái</p>",
+      "content_text": "sắc thái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

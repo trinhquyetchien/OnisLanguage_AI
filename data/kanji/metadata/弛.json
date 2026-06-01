@@ -1,0 +1,91 @@
+{
+  "kanji": "弛",
+  "meta": {
+    "weight": 898,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チ",
+      "シ"
+    ],
+    "kun": [
+      "たる.む",
+      "たる.める",
+      "たゆ.む",
+      "ゆる.む",
+      "ゆる.み"
+    ],
+    "am_han": "THỈ"
+  },
+  "meaning": {
+    "vi": "thả lỏng, thư giãn",
+    "en": "slacken, relax"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/弛.svg"
+  },
+  "frequency": 2497,
+  "examples": [
+    "弛緩"
+  ],
+  "explanation": {
+    "id": "5202",
+    "text": "弛 (đọc là \"chi\") có nghĩa là \"giảm bớt\", \"thư giãn\" để chỉ các hành động liên quan đến việc làm nhẹ nhàng hoặc không còn căng thẳng.\n\nVí dụ:\n- 弛緩 (chikan): Sự thư giãn, giảm bớt căng thẳng.\n"
+  },
+  "comments": [
+    {
+      "id": "153395",
+      "lang": "vi",
+      "content_html": "<p>chịu</p>",
+      "content_text": "chịu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153396",
+      "lang": "vi",
+      "content_html": "<p>dây CUNG lỏng DÃ man phải không THỈ?</p>",
+      "content_text": "dây CUNG lỏng DÃ man phải không THỈ?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153397",
+      "lang": "vi",
+      "content_html": "<p>khi nào cảm thấy người căng như dây cung, thì nằm xuống đất để thả lỏng</p>",
+      "content_text": "khi nào cảm thấy người căng như dây cung, thì nằm xuống đất để thả lỏng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

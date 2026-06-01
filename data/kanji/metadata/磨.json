@@ -1,0 +1,108 @@
+{
+  "kanji": "磨",
+  "meta": {
+    "weight": 1892,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マ"
+    ],
+    "kun": [
+      "みが.く",
+      "す.る"
+    ],
+    "am_han": "MA"
+  },
+  "meaning": {
+    "vi": "mài, đánh bóng",
+    "en": "grind, polish, scour, improve, brush (teeth)"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/磨.svg"
+  },
+  "frequency": 1608,
+  "examples": [
+    "磨き",
+    "磨く",
+    "研磨",
+    "琢磨",
+    "歯磨き"
+  ],
+  "explanation": {
+    "id": "7374",
+    "text": "磨 (đọc là \"ma\") có nghĩa là \"mài\" hoặc \"xay\" để chỉ các hành động liên quan đến việc làm cho bề mặt trở nên nhẵn mịn hoặc tinh chế một vật liệu nào đó.\n\nVí dụ:\n- 磨く (migaku): Mài, đánh bóng."
+  },
+  "comments": [
+    {
+      "id": "155664",
+      "lang": "vi",
+      "content_html": "<p>Lấy đá trong rừng đánh bóng trong nhà</p>",
+      "content_text": "Lấy đá trong rừng đánh bóng trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155665",
+      "lang": "vi",
+      "content_html": "<p>con MA mài đá trong rừng</p>",
+      "content_text": "con MA mài đá trong rừng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155666",
+      "lang": "vi",
+      "content_html": "<p>4 chữ MA:<br>麻<br>Dưới Hiên Nhà có 2 Cây MA Lanh<br>(cây Lanh, vải lanh あさぬの)<br><br>摩<br>Ma có Tay 手 là Ma sát, xoa bóp. <br>まさつ、さする<br><br>磨<br>Ma có Đá 石 là Ma mài, đánh bóng, mài dũa.<br>Nghiên Ma, 歯磨き đánh răng<br><br>魔<br>Ma có Quỷ 鬼 đương nhiên là Ma Quỷ<br>悪魔 ác ma, 魔術 ma thuật</p>",
+      "content_text": "4 chữ MA:\n麻\nDưới Hiên Nhà có 2 Cây MA Lanh\n(cây Lanh, vải lanh あさぬの)\n摩\nMa có Tay 手 là Ma sát, xoa bóp.\nまさつ、さする\n磨\nMa có Đá 石 là Ma mài, đánh bóng, mài dũa.\nNghiên Ma, 歯磨き đánh răng\n魔\nMa có Quỷ 鬼 đương nhiên là Ma Quỷ\n悪魔 ác ma, 魔術 ma thuật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221807",
+      "lang": "vi",
+      "content_html": "<p>Chữ 磨 rất trực quan<br>广 cánh tay đòn (<strong>Miên</strong>)</p><p>林 2 khúc gỗ (<strong>Lâm</strong>)<br>石 Cục đá (<strong>Thạch</strong>)<br>=&gt; Chính là cái cối <strong>Xay </strong>ở dưới<br>&nbsp;</p>",
+      "content_text": "Chữ 磨 rất trực quan\n广 cánh tay đòn (\nMiên\n)\n林 2 khúc gỗ (\nLâm\n)\n石 Cục đá (\nThạch\n)\n=> Chính là cái cối\nXay\nở dưới",
+      "image_url": "https://jpdictionary.com/upload/images/67692fcab4b85.png",
+      "image_path": "assets/images/磨_4.png",
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

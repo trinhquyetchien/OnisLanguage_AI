@@ -1,0 +1,95 @@
+{
+  "kanji": "荒",
+  "meta": {
+    "weight": 2283,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "あ.らす",
+      "あ.れる",
+      "あら.い",
+      "すさ.ぶ",
+      "すさ.む",
+      "あ.らし"
+    ],
+    "am_han": "HOANG"
+  },
+  "meaning": {
+    "vi": "hoang dã",
+    "en": "laid waste, rough, rude, wild"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/荒.svg"
+  },
+  "frequency": 1099,
+  "examples": [
+    "荒れ",
+    "荒",
+    "荒木",
+    "荒廃",
+    "荒野"
+  ],
+  "explanation": {
+    "id": "2546",
+    "text": "荒 (đọc là \"ara\") có nghĩa là \"hoang vu\", \"thô sơ\" để chỉ các tình huống hoặc trạng thái không được chăm sóc, hoặc sự thô ráp của bề mặt.\n\nVí dụ:\n- 荒野 (kōya): Đất hoang, vùng đất hoang vắng.\n"
+  },
+  "comments": [
+    {
+      "id": "156521",
+      "lang": "vi",
+      "content_html": "<p>Cảnh hoang tàn bên dòng sông cỏ cây chết cả</p>",
+      "content_text": "Cảnh hoang tàn bên dòng sông cỏ cây chết cả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156522",
+      "lang": "vi",
+      "content_html": "<p>CỎ CHẾT trên SÔNG cảnh tàn HOANG dại</p>",
+      "content_text": "CỎ CHẾT trên SÔNG cảnh tàn HOANG dại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156523",
+      "lang": "vi",
+      "content_html": "<p>Vì chửa HOANG荒 nên cô THẢO艹 gieo mình CHẾT亡 trên dòng SÔNG川。</p>",
+      "content_text": "Vì chửa HOANG荒 nên cô THẢO艹 gieo mình CHẾT亡 trên dòng SÔNG川。",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

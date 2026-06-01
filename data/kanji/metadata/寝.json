@@ -1,0 +1,94 @@
+{
+  "kanji": "寝",
+  "meta": {
+    "weight": 741,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "ね.る",
+      "ね.かす",
+      "い.ぬ",
+      "みたまや",
+      "や.める"
+    ],
+    "am_han": "TẨM"
+  },
+  "meaning": {
+    "vi": "ngủ",
+    "en": "lie down, sleep, rest, bed, remain unsold"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/寝.svg"
+  },
+  "frequency": 1034,
+  "examples": [
+    "寝",
+    "寝る",
+    "昼寝",
+    "就寝",
+    "寝室"
+  ],
+  "explanation": {
+    "id": "4063",
+    "text": "寝 (đọc là \"shin\" hoặc \"ne\") có nghĩa là \"ngủ\" hoặc \"nằm\" để chỉ các hành động liên quan đến việc nghỉ ngơi hoặc ngủ.  \nVí dụ:  \n- 寝室 (shinjitsu): Phòng ngủ.  \n- 寝る (neru): Ngủ, nằm xuống.  \n"
+  },
+  "comments": [
+    {
+      "id": "190984",
+      "lang": "vi",
+      "content_html": "<p><strong>ngủ</strong></p>",
+      "content_text": "ngủ",
+      "image_url": "https://jpdictionary.com/upload/images/648a7ed2c9dd7.jpg",
+      "image_path": "assets/images/寝_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "37111",
+      "lang": "vi",
+      "content_html": "<p>Hai người đang <strong>ngủ</strong>.</p>",
+      "content_text": "Hai người đang\nngủ\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb3e347255.jpg",
+      "image_path": "assets/images/寝_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153010",
+      "lang": "vi",
+      "content_html": "<p>Thị tẩm ( mỹ nữ phục vụ chuyện chăn gối cho đế vương)<br><br>爿 (丬) tường ,.. mảnh gỗ, cái giường<br><br>冖 mịch ,.. trùm khăn lên<br><br>又 hựu ,.. lại nữa, một lần nữa<br><br>Thị Tẩm vào trong nhà 宀 đi yo 彐 giường (丬) trùm khăn 冖 lại 又  rồi ngủ 寝 chung với hoàng thượng :V</p>",
+      "content_text": "Thị tẩm ( mỹ nữ phục vụ chuyện chăn gối cho đế vương)\n爿 (丬) tường ,.. mảnh gỗ, cái giường\n冖 mịch ,.. trùm khăn lên\n又 hựu ,.. lại nữa, một lần nữa\nThị Tẩm vào trong nhà 宀 đi yo 彐 giường (丬) trùm khăn 冖 lại 又  rồi ngủ 寝 chung với hoàng thượng :V",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

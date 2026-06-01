@@ -1,0 +1,49 @@
+{
+  "kanji": "鄭",
+  "meta": {
+    "weight": 2709,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ",
+      "ジョウ"
+    ],
+    "kun": [],
+    "am_han": "TRỊNH"
+  },
+  "meaning": {
+    "vi": "một tỉnh cổ đại của Trung Quốc",
+    "en": "an ancient Chinese province"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/鄭.svg"
+  },
+  "frequency": 1732,
+  "examples": [],
+  "explanation": {
+    "id": "5605",
+    "text": "鄭 (đọc là \"Tei\" hoặc \"Chou\") có nghĩa là \"tên một quốc gia cổ đại ở Trung Quốc\" và được sử dụng trong các ngữ cảnh liên quan đến địa danh, họ tộc và lịch sử. \n\nVí dụ:\n- 鄭重 (teichou): Trang t"
+  },
+  "comments": [
+    {
+      "id": "157463",
+      "lang": "vi",
+      "content_html": "<p>Trịnh. Thời vua Lê chúa Trịnh chính là chữ Trịnh này.</p>",
+      "content_text": "Trịnh. Thời vua Lê chúa Trịnh chính là chữ Trịnh này.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

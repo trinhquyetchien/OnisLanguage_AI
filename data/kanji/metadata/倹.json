@@ -1,0 +1,87 @@
+{
+  "kanji": "倹",
+  "meta": {
+    "weight": 221,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "つま.しい",
+      "つづまやか"
+    ],
+    "am_han": "KIỆM"
+  },
+  "meaning": {
+    "vi": "tiết kiệm, nền kinh tế",
+    "en": "frugal, economy, thrifty"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/倹.svg"
+  },
+  "frequency": 2479,
+  "examples": [
+    "倹約"
+  ],
+  "explanation": {
+    "id": "2095",
+    "text": "倹 (đọc là \"ken\") có nghĩa là \"tiết kiệm\", chỉ các hành động liên quan đến việc tiết kiệm, quản lý chi tiêu một cách thận trọng.  \nVí dụ:  \n- 倹約 (kenyaku): Tiết kiệm, sự tiết kiệm.  \n- 倹しい (k"
+  },
+  "comments": [
+    {
+      "id": "151740",
+      "lang": "vi",
+      "content_html": "<p>chỉ cần 1 người tiết kiệm thì 10 người sẽ đc ở trong nhà</p>",
+      "content_text": "chỉ cần 1 người tiết kiệm thì 10 người sẽ đc ở trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151741",
+      "lang": "vi",
+      "content_html": "<p>Kiểm<br>倹　Kiểm là ng tiết Kiệm<br>験　rồi Kiểm đi mua Ngựa để đi học kinh Nghiệm<br>険　Kiểm lạc và Vùng đất nguy Hiểm<br>検　mà Kiểm chỉ Kiểm tra được 1 cái Cây</p>",
+      "content_text": "Kiểm\n倹　Kiểm là ng tiết Kiệm\n験　rồi Kiểm đi mua Ngựa để đi học kinh Nghiệm\n険　Kiểm lạc và Vùng đất nguy Hiểm\n検　mà Kiểm chỉ Kiểm tra được 1 cái Cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151742",
+      "lang": "vi",
+      "content_html": "<p>Người đội nón là người biết tiết Kiệm</p>",
+      "content_text": "Người đội nón là người biết tiết Kiệm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

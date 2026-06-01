@@ -1,0 +1,92 @@
+{
+  "kanji": "言",
+  "meta": {
+    "weight": 2452,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲン",
+      "ゴン"
+    ],
+    "kun": [
+      "い.う",
+      "こと"
+    ],
+    "am_han": "NGÔN"
+  },
+  "meaning": {
+    "vi": "nói, phát ngôn",
+    "en": "say, word"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/言.svg"
+  },
+  "frequency": 83,
+  "examples": [
+    "言う",
+    "言葉",
+    "発言",
+    "言語",
+    "言える"
+  ],
+  "explanation": {
+    "id": "2233",
+    "text": "言 (đọc là \"gen\" hoặc \"gon\") có nghĩa là \"nói\", \"ngôn ngữ\" để chỉ các hành động liên quan đến lời nói, giao tiếp hoặc ngôn từ.  \nVí dụ:  \n- 言語 (gengo): Ngôn ngữ.  \n- 言う (iu): Nói, phát biểu. "
+  },
+  "comments": [
+    {
+      "id": "692",
+      "lang": "vi",
+      "content_html": "<p><strong>Nói </strong>điều gì đó bằng miệng (口).</p>",
+      "content_text": "Nói\nđiều gì đó bằng miệng (口).",
+      "image_url": "https://jpdictionary.com/upload/images/62983815c578c.jpg",
+      "image_path": "assets/images/言_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156825",
+      "lang": "vi",
+      "content_html": "<p>cái miệng nói ra 3 lời ngắn, 1 lời dài</p>",
+      "content_text": "cái miệng nói ra 3 lời ngắn, 1 lời dài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158286",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>言う (いう): nói<br>言葉 (ことば): từ ngữ<br>方言 (ほうげん): tiếng địa phương, phương ngữ</p>",
+      "content_text": "JLPT N4\n言う (いう): nói\n言葉 (ことば): từ ngữ\n方言 (ほうげん): tiếng địa phương, phương ngữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

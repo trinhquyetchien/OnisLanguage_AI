@@ -1,0 +1,53 @@
+{
+  "kanji": "恰",
+  "meta": {
+    "weight": 970,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "カッ",
+      "チョウ",
+      "キョウ"
+    ],
+    "kun": [
+      "あたか.も"
+    ],
+    "am_han": "KHÁP"
+  },
+  "meaning": {
+    "vi": "cũng giống như, may mắn thay",
+    "en": "just as, as though, fortunately"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/恰.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "976",
+    "text": "恰 (đọc là \"katte\" hoặc \"katsu\") có nghĩa là \"thích hợp\", \"đúng lúc\", thường chỉ sự vừa vặn, phù hợp với hoàn cảnh hoặc tình huống.\n\nVí dụ:\n- 恰好 (kakkou): Vẻ bề ngoài, dáng vẻ, sự thích hợp.\n"
+  },
+  "comments": [
+    {
+      "id": "219501",
+      "lang": "vi",
+      "content_html": "<p>Ngọai hình nhìn rất Hợp Tâm. 恰好いい</p>",
+      "content_text": "Ngọai hình nhìn rất Hợp Tâm. 恰好いい",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

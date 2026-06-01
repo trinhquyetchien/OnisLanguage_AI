@@ -1,0 +1,88 @@
+{
+  "kanji": "柵",
+  "meta": {
+    "weight": 1329,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サク",
+      "サン"
+    ],
+    "kun": [
+      "しがら.む",
+      "しがらみ",
+      "とりで",
+      "やらい"
+    ],
+    "am_han": "SÁCH"
+  },
+  "meaning": {
+    "vi": "hàng rào, đập, quấn quanh",
+    "en": "stockade, fence, weir, entwine around"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/柵.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2900",
+    "text": "柵 (đọc là \"saku\") có nghĩa là \"hàng rào\" hoặc \"rào chắn\", chỉ các vật dùng để ngăn cách hoặc bảo vệ không gian.  \nVí dụ:  \n- 柵 (saku): Hàng rào, rào chắn.  \n- 防柵 (bousaku): Rào chắn bảo vệ. "
+  },
+  "comments": [
+    {
+      "id": "219797",
+      "lang": "vi",
+      "content_html": "<p>Cây cối 1 là lm hàng rào, 2 là lm Sách!</p>",
+      "content_text": "Cây cối 1 là lm hàng rào, 2 là lm Sách!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219798",
+      "lang": "vi",
+      "content_html": "<p>để SÁCH chỗ hàng rào cây</p>",
+      "content_text": "để SÁCH chỗ hàng rào cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219799",
+      "lang": "vi",
+      "content_html": "<p>Hãy làm hàng hào bằng cây 木 theo sách 冊 hướng dẫn.</p>",
+      "content_text": "Hãy làm hàng hào bằng cây 木 theo sách 冊 hướng dẫn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

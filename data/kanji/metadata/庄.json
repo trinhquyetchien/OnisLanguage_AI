@@ -1,0 +1,87 @@
+{
+  "kanji": "庄",
+  "meta": {
+    "weight": 859,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ",
+      "ソ",
+      "ソウ",
+      "ホウ"
+    ],
+    "kun": [],
+    "am_han": "TRANG"
+  },
+  "meaning": {
+    "vi": "cấp, trong nước, trang viên, thôn, xóm",
+    "en": "level, in the country, manor, village, hamlet"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/庄.svg"
+  },
+  "frequency": 1693,
+  "examples": [
+    "庄"
+  ],
+  "explanation": {
+    "id": "3796",
+    "text": "庄 (đọc là \"shō\" hoặc \"saka\") có nghĩa là \"thôn làng\", \"tỉnh lẻ\", thường dùng để chỉ một khu vực nông thôn hoặc làng mạc. \n\nVí dụ:\n- 庄園 (shōen): Trang trại, vườn tược.\n- 村庄 (sonshō): Làng, th"
+  },
+  "comments": [
+    {
+      "id": "153317",
+      "lang": "vi",
+      "content_html": "<p>Đem Đất về nhà làm TRANG trại</p>",
+      "content_text": "Đem Đất về nhà làm TRANG trại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153318",
+      "lang": "vi",
+      "content_html": "<p>Nghiễm nhiên lấy đất làm TRANG trại</p>",
+      "content_text": "Nghiễm nhiên lấy đất làm TRANG trại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153319",
+      "lang": "vi",
+      "content_html": "<p>dưới MÁI HIÊN lấy ĐẤT  --»  làm TRANG TRẠI</p>",
+      "content_text": "dưới MÁI HIÊN lấy ĐẤT  --»  làm TRANG TRẠI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

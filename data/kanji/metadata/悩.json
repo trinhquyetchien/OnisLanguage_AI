@@ -1,0 +1,93 @@
+{
+  "kanji": "悩",
+  "meta": {
+    "weight": 979,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ノウ"
+    ],
+    "kun": [
+      "なや.む",
+      "なや.ます",
+      "なや.ましい",
+      "なやみ"
+    ],
+    "am_han": "NÃO"
+  },
+  "meaning": {
+    "vi": "phiền não, lo lắng",
+    "en": "trouble, worry, in pain, distress, illness"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/悩.svg"
+  },
+  "frequency": 1084,
+  "examples": [
+    "悩み",
+    "悩む",
+    "苦悩",
+    "煩悩",
+    "悩ましい"
+  ],
+  "explanation": {
+    "id": "6190",
+    "text": "悩 (đọc là \"nō\") có nghĩa là \"phiền muộn\", \"lo lắng\" để chỉ trạng thái cảm xúc liên quan đến sự băn khoăn hay khó xử.\n\nVí dụ:\n- 悩み (nawami): Nỗi lo, băn khoăn.\n- 悩む (nawamu): Phiền muộn, lo l"
+  },
+  "comments": [
+    {
+      "id": "153608",
+      "lang": "vi",
+      "content_html": "<p>suốt ngày để Tâm đến 3 cọng tóc trên đầu thật phiền Não</p>",
+      "content_text": "suốt ngày để Tâm đến 3 cọng tóc trên đầu thật phiền Não",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153609",
+      "lang": "vi",
+      "content_html": "<p>khu vực có ba giọt nước mắt chính là nơi con tim phiền não</p>",
+      "content_text": "khu vực có ba giọt nước mắt chính là nơi con tim phiền não",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153610",
+      "lang": "vi",
+      "content_html": "<p>Con Tim Hung Ác thì phiền Não</p>",
+      "content_text": "Con Tim Hung Ác thì phiền Não",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

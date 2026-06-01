@@ -1,0 +1,90 @@
+{
+  "kanji": "脇",
+  "meta": {
+    "weight": 2194,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "わき",
+      "わけ"
+    ],
+    "am_han": "HIẾP"
+  },
+  "meaning": {
+    "vi": "nách, đường khác, nơi khác, cạnh sườn, vai phụ",
+    "en": "armpit, the other way, another place, flank, supporting role"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/脇.svg"
+  },
+  "frequency": 1806,
+  "examples": [
+    "脇",
+    "脇役",
+    "脇道",
+    "脇腹"
+  ],
+  "explanation": {
+    "id": "8399",
+    "text": "脇 (đọc là \"waki\") có nghĩa là \"nách\" hoặc \"bên\", thường chỉ vị trí ở bên cạnh hoặc khu vực gần. \n\nVí dụ:\n- 脇役 (wakiyaku): Nhân vật phụ, vai phụ trong một vở kịch.\n- 脇見 (wakimi): Nhìn sang bê"
+  },
+  "comments": [
+    {
+      "id": "156329",
+      "lang": "vi",
+      "content_html": "<p>3 thằng LỰC lượng thay phiên nhau uy HIẾP và ngửi nách chị NGUYỆT ...</p>",
+      "content_text": "3 thằng LỰC lượng thay phiên nhau uy HIẾP và ngửi nách chị NGUYỆT ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156330",
+      "lang": "vi",
+      "content_html": "<p>không nhịn được cười với bạn Mi Đô Ri luôn, dễ nhớ quá, cám ơn bạn</p>",
+      "content_text": "không nhịn được cười với bạn Mi Đô Ri luôn, dễ nhớ quá, cám ơn bạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156331",
+      "lang": "vi",
+      "content_html": "<p>bên cạnh chị nguyệt là 3 thằng tên lực</p>",
+      "content_text": "bên cạnh chị nguyệt là 3 thằng tên lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

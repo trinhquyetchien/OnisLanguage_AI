@@ -1,0 +1,88 @@
+{
+  "kanji": "堂",
+  "meta": {
+    "weight": 571,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドウ"
+    ],
+    "kun": [],
+    "am_han": "ĐƯỜNG"
+  },
+  "meaning": {
+    "vi": "khán phòng, giảng đường",
+    "en": "public chamber, hall"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/堂.svg"
+  },
+  "frequency": 1010,
+  "examples": [
+    "堂",
+    "食堂",
+    "堂々",
+    "聖堂",
+    "講堂"
+  ],
+  "explanation": {
+    "id": "5907",
+    "text": "堂 (đọc là \"dō\") có nghĩa là \"hội trường\", \"phòng lớn\" hoặc \"nơi tổ chức\". Nó thường chỉ các không gian dành cho họp hành hoặc có tính chất trang trọng.\n\nVí dụ:\n- 教堂 (kyōdō): Nhà thờ.\n- 堂々 (d"
+  },
+  "comments": [
+    {
+      "id": "36966",
+      "lang": "vi",
+      "content_html": "<p><strong>Giảng đường</strong> trên mặt đất (土).</p>",
+      "content_text": "Giảng đường\ntrên mặt đất (土).",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4b6491942.jpg",
+      "image_path": "assets/images/堂_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152612",
+      "lang": "vi",
+      "content_html": "<p>Từ ĐƯỜNG là nhà chung của cả họ, khi vào phải đi chân ĐẤT MIỆNG lặng im.</p>",
+      "content_text": "Từ ĐƯỜNG là nhà chung của cả họ, khi vào phải đi chân ĐẤT MIỆNG lặng im.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158594",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>食堂 (しょくどう): phòng ăn</p><p>講堂 (こうどう): giảng đường</p>",
+      "content_text": "JLPT N4\n食堂 (しょくどう): phòng ăn\n講堂 (こうどう): giảng đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

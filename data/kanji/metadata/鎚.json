@@ -1,0 +1,51 @@
+{
+  "kanji": "鎚",
+  "meta": {
+    "weight": 2790,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ツイ",
+      "タイ"
+    ],
+    "kun": [
+      "つち"
+    ],
+    "am_han": "CHÙY"
+  },
+  "meaning": {
+    "vi": "búa, vồ",
+    "en": "hammer, mallet"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/鎚.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5457",
+    "text": "鎚 (đọc là \"tsuchi\") có nghĩa là \"búa\" hoặc \"cái búa\", chỉ công cụ dùng để đập hoặc nện các vật liệu.  \nVí dụ:  \n- 鎚打ち (tsuchibachi): Đánh búa, rèn.  \n- 鎚音 (tsuchione): Âm thanh của búa.  \n- "
+  },
+  "comments": [
+    {
+      "id": "220927",
+      "lang": "vi",
+      "content_html": "<p>Lấy CHUỲ sắt truy đuổi tên quan trên đường</p>",
+      "content_text": "Lấy CHUỲ sắt truy đuổi tên quan trên đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

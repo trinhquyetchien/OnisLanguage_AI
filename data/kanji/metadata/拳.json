@@ -1,0 +1,90 @@
+{
+  "kanji": "拳",
+  "meta": {
+    "weight": 1083,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン",
+      "ゲン"
+    ],
+    "kun": [
+      "こぶし"
+    ],
+    "am_han": "QUYỀN"
+  },
+  "meaning": {
+    "vi": "nắm tay",
+    "en": "fist"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/拳.svg"
+  },
+  "frequency": 1935,
+  "examples": [
+    "拳",
+    "拳銃",
+    "太極拳",
+    "鉄拳"
+  ],
+  "explanation": {
+    "id": "2134",
+    "text": "拳 (đọc là \"ken\") có nghĩa là \"nắm đấm\" hoặc \"võ thuật\" để chỉ hành động liên quan đến nắm tay hoặc các môn thể thao võ thuật.  \nVí dụ:  \n- 拳法 (kenpou): Võ thuật, cách dùng nắm đấm.  \n- 拳銃 (k"
+  },
+  "comments": [
+    {
+      "id": "153889",
+      "lang": "vi",
+      "content_html": "<p>1 quyền giữa háng 2 người đag đi.</p>",
+      "content_text": "1 quyền giữa háng 2 người đag đi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153890",
+      "lang": "vi",
+      "content_html": "<p>2 ngọn lửa từ nắm tay đó là hoả QUYỀN</p>",
+      "content_text": "2 ngọn lửa từ nắm tay đó là hoả QUYỀN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153891",
+      "lang": "vi",
+      "content_html": "<p>có quyền 拳 dùng tay 手 để đấm người đã gây ra hai 二  vụ hỏa 火 hoạn</p>",
+      "content_text": "có quyền 拳 dùng tay 手 để đấm người đã gây ra hai 二  vụ hỏa 火 hoạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

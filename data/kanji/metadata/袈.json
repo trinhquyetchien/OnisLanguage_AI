@@ -1,0 +1,66 @@
+{
+  "kanji": "袈",
+  "meta": {
+    "weight": 2413,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケ",
+      "カ"
+    ],
+    "kun": [],
+    "am_han": "CA"
+  },
+  "meaning": {
+    "vi": "một con lạc đà thô",
+    "en": "a coarse camlet"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/袈.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1927",
+    "text": "袈 (đọc là \"ka\") có nghĩa là \"áo cà sa\", thường chỉ trang phục của các tăng ni trong Phật giáo. \n\nVí dụ:\n- 袈裟 (kesa): Áo cà sa, trang phục của tăng sĩ.\n- 袈裟懸け (kesagake): Đeo áo cà sa qua vai"
+  },
+  "comments": [
+    {
+      "id": "220643",
+      "lang": "vi",
+      "content_html": "<p>Áo của nguoi xuat Gia là ao Ca Sa</p>",
+      "content_text": "Áo của nguoi xuat Gia là ao Ca Sa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220644",
+      "lang": "vi",
+      "content_html": "<p>Xuất GIA ( 加 )mặc áo (衣) cà sa (袈裟</p>",
+      "content_text": "Xuất GIA ( 加 )mặc áo (衣) cà sa (袈裟",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

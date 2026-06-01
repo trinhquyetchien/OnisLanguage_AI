@@ -1,0 +1,52 @@
+{
+  "kanji": "畷",
+  "meta": {
+    "weight": 1794,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テツ",
+      "テイ",
+      "セイ"
+    ],
+    "kun": [
+      "なわて"
+    ],
+    "am_han": "CHUYẾT"
+  },
+  "meaning": {
+    "vi": "con đường sườn núi ruộng lúa",
+    "en": "rice field ridge path"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/畷.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6070",
+    "text": "畷 (đọc là \"taba\") có nghĩa là \"đồng ruộng\", \"cánh đồng\" để chỉ vùng đất nông nghiệp, thường là đất trồng lúa.\n\nVí dụ:\n- 畷田 (tabada): Ruộng đồng.\n- 畷作り (tabazukuri): Canh tác trên cánh đồng.\n"
+  },
+  "comments": [
+    {
+      "id": "220120",
+      "lang": "vi",
+      "content_html": "<p>âm hán v là CHUYẾT, ĐỒNG RUỘNG SONG SONG</p>",
+      "content_text": "âm hán v là CHUYẾT, ĐỒNG RUỘNG SONG SONG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

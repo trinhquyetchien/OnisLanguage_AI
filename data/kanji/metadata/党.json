@@ -1,0 +1,108 @@
+{
+  "kanji": "党",
+  "meta": {
+    "weight": 266,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "なかま",
+      "むら"
+    ],
+    "am_han": "ĐẢNG"
+  },
+  "meaning": {
+    "vi": "đảng phái",
+    "en": "party, faction, clique"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/党.svg"
+  },
+  "frequency": 39,
+  "examples": [
+    "党",
+    "自民党",
+    "民主党",
+    "政党",
+    "共産党"
+  ],
+  "explanation": {
+    "id": "5763",
+    "text": "党 (đọc là \"tō\") có nghĩa là \"đảng\" để chỉ các tổ chức chính trị, nhóm người cùng mục tiêu hoặc lý tưởng.  \nVí dụ:  \n- 政党 (seito): Đảng chính trị.  \n- 党員 (tōin): Thành viên đảng.  \n- 与党 (yotō"
+  },
+  "comments": [
+    {
+      "id": "37153",
+      "lang": "vi",
+      "content_html": "<p>Anh trai tôi (兄) gia nhập <strong>đảng</strong>.</p>",
+      "content_text": "Anh trai tôi (兄) gia nhập\nđảng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdbbad6982f.jpg",
+      "image_path": "assets/images/党_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151858",
+      "lang": "vi",
+      "content_html": "<p>ông ANH HỌC cảm tình ĐẢNG</p>",
+      "content_text": "ông ANH HỌC cảm tình ĐẢNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158998",
+      "lang": "vi",
+      "content_html": "<p>Chữ 党 trong tiếng Nhật được phát âm là tō. Nó có nghĩa là \"đảng\" hoặc \"đảng bộ\".</p><p>Ví dụ, từ 党派 (tōha) có nghĩa là \"đảng phái\". Chữ 党 cũng có thể xuất hiện trong các từ khác như 党首 (tōshu) có nghĩa là \"lãnh đạo đảng\" hoặc 党内 (tōnai) có nghĩa là \"trong đảng\".</p>",
+      "content_text": "Chữ 党 trong tiếng Nhật được phát âm là tō. Nó có nghĩa là \"đảng\" hoặc \"đảng bộ\".\nVí dụ, từ 党派 (tōha) có nghĩa là \"đảng phái\". Chữ 党 cũng có thể xuất hiện trong các từ khác như 党首 (tōshu) có nghĩa là \"lãnh đạo đảng\" hoặc 党内 (tōnai) có nghĩa là \"trong đảng\".",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "2",
+        "name": "ピカチュウ",
+        "image_url": "https://jpdictionary.com/upload/images/63918f2e8dcf1.png"
+      }
+    },
+    {
+      "id": "151859",
+      "lang": "vi",
+      "content_html": "<p>Huynh tôi đã giác ngộ được ánh sáng của Đảng</p>",
+      "content_text": "Huynh tôi đã giác ngộ được ánh sáng của Đảng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

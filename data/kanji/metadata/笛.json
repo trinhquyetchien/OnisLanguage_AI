@@ -1,0 +1,90 @@
+{
+  "kanji": "笛",
+  "meta": {
+    "weight": 1984,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テキ"
+    ],
+    "kun": [
+      "ふえ"
+    ],
+    "am_han": "ĐỊCH"
+  },
+  "meaning": {
+    "vi": "sáo, kèn clarinet, tẩu, còi, kèn túi, piccolo",
+    "en": "flute, clarinet, pipe, whistle, bagpipe, piccolo"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/笛.svg"
+  },
+  "frequency": 1928,
+  "examples": [
+    "笛",
+    "口笛",
+    "霧笛",
+    "汽笛",
+    "警笛"
+  ],
+  "explanation": {
+    "id": "5624",
+    "text": "笛 (đọc là \"teki\") có nghĩa là \"sáo\", chỉ các loại nhạc cụ thổi.  \nVí dụ:  \n- 笛吹き (fuefuki): Người thổi sáo.  \n- 笛楽 (fueraku): Nhạc cụ thổi, âm nhạc từ sáo.  \n- 笛音 (fueon): Âm thanh của sáo."
+  },
+  "comments": [
+    {
+      "id": "155857",
+      "lang": "vi",
+      "content_html": "<p>cây tre đc thổi tự do gọi là sáo</p>",
+      "content_text": "cây tre đc thổi tự do gọi là sáo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155858",
+      "lang": "vi",
+      "content_html": "<p>Do ĐỊCH thổi SÁO Trúc</p>",
+      "content_text": "Do ĐỊCH thổi SÁO Trúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155859",
+      "lang": "vi",
+      "content_html": "<p>Bọn Địch tự do chặt Trúc làm sáo</p>",
+      "content_text": "Bọn Địch tự do chặt Trúc làm sáo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

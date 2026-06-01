@@ -1,0 +1,86 @@
+{
+  "kanji": "虹",
+  "meta": {
+    "weight": 2372,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "にじ"
+    ],
+    "am_han": "HỒNG"
+  },
+  "meaning": {
+    "vi": "cầu vồng",
+    "en": "rainbow"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/虹.svg"
+  },
+  "frequency": 2110,
+  "examples": [
+    "虹"
+  ],
+  "explanation": {
+    "id": "6105",
+    "text": "虹 (đọc là \"niji\") có nghĩa là \"cầu vồng\", chỉ hiện tượng ánh sáng tạo ra từ nước và ánh sáng mặt trời, thường mang ý nghĩa của sắc màu và vẻ đẹp.  \nVí dụ:  \n- 虹色 (nijiiro): Màu cầu vồng.  \n-"
+  },
+  "comments": [
+    {
+      "id": "156658",
+      "lang": "vi",
+      "content_html": "<p>con Côn Trùng ở Công trường có màu Hồng như Cầu Vồng.</p>",
+      "content_text": "con Côn Trùng ở Công trường có màu Hồng như Cầu Vồng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156659",
+      "lang": "vi",
+      "content_html": "<p>Con CÔN TRÙNG mầu HỒNG nhìn giống CẦU VỒNG</p>",
+      "content_text": "Con CÔN TRÙNG mầu HỒNG nhìn giống CẦU VỒNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156660",
+      "lang": "vi",
+      "content_html": "<p>欠虹: けつこう : cầu vồng khuyết ^_^</p>",
+      "content_text": "欠虹: けつこう : cầu vồng khuyết ^_^",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

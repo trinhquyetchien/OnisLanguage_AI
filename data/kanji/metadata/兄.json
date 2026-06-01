@@ -1,0 +1,91 @@
+{
+  "kanji": "兄",
+  "meta": {
+    "weight": 256,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ",
+      "キョウ"
+    ],
+    "kun": [
+      "あに"
+    ],
+    "am_han": "HUYNH"
+  },
+  "meaning": {
+    "vi": "anh trai",
+    "en": "elder brother, big brother"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/兄.svg"
+  },
+  "frequency": 1219,
+  "examples": [
+    "兄弟",
+    "兄",
+    "兄さん",
+    "兄ちゃん",
+    "兄貴"
+  ],
+  "explanation": {
+    "id": "1940",
+    "text": "兄 (đọc là \"ani\" hoặc \"kyō\") có nghĩa là \"anh trai\" để chỉ mối quan hệ gia đình giữa anh và em. \nVí dụ:\n- 兄弟 (kyōdai): Anh em, huynh đệ.\n- 兄さん (ani-san): Anh trai (cách gọi thân mật).\n- 兄妹 (k"
+  },
+  "comments": [
+    {
+      "id": "937",
+      "lang": "vi",
+      "content_html": "<p><strong>Anh trai </strong>tôi đang chạy với cái miệng to.</p>",
+      "content_text": "Anh trai\ntôi đang chạy với cái miệng to.",
+      "image_url": "https://jpdictionary.com/upload/images/6298c7d9c47b2.jpg",
+      "image_path": "assets/images/兄_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190891",
+      "lang": "vi",
+      "content_html": "<p><strong>anh trai</strong></p>",
+      "content_text": "anh trai",
+      "image_url": "https://jpdictionary.com/upload/images/648a6509f3425.jpg",
+      "image_path": "assets/images/兄_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "151835",
+      "lang": "vi",
+      "content_html": "<p>Sư HUYNH  兄  luôn (đi) 儿 với cái (mồm) 口 bự</p>",
+      "content_text": "Sư HUYNH  兄  luôn (đi) 儿 với cái (mồm) 口 bự",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

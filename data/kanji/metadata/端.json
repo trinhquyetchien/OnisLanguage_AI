@@ -1,0 +1,94 @@
+{
+  "kanji": "端",
+  "meta": {
+    "weight": 1977,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "はし",
+      "は",
+      "はた",
+      "-ばた",
+      "はな"
+    ],
+    "am_han": "ĐOAN"
+  },
+  "meaning": {
+    "vi": "cạnh, điểm gốc, điểm cuối, điểm, đường viền, đỉnh, mũi",
+    "en": "edge, origin, end, point, border, verge, cape"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/端.svg"
+  },
+  "frequency": 960,
+  "examples": [
+    "極端",
+    "端",
+    "端末",
+    "先端",
+    "中途半端"
+  ],
+  "explanation": {
+    "id": "5144",
+    "text": "端 (đọc là \"tan\") có nghĩa là \"đầu\", \"mặt\" hoặc \"bên\". Nó thường chỉ các điểm, đầu mút hoặc khía cạnh của một vật thể nào đó. \n\nVí dụ:\n- 端末 (tanmatei): Thiết bị đầu cuối.\n- 端材 (tanzai): Miếng"
+  },
+  "comments": [
+    {
+      "id": "155844",
+      "lang": "vi",
+      "content_html": "<p>đứng dưới núi nhìn qua rào chắn rất cực đoan</p>",
+      "content_text": "đứng dưới núi nhìn qua rào chắn rất cực đoan",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155845",
+      "lang": "vi",
+      "content_html": "<p>phong tục cực ĐOAN để TRẺ tự LẬP trên núi</p>",
+      "content_text": "phong tục cực ĐOAN để TRẺ tự LẬP trên núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155846",
+      "lang": "vi",
+      "content_html": "<p>Ví trí xếp hàng dưới núi để làm bờ</p>",
+      "content_text": "Ví trí xếp hàng dưới núi để làm bờ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

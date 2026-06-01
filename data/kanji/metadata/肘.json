@@ -1,0 +1,84 @@
+{
+  "kanji": "肘",
+  "meta": {
+    "weight": 2169,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "ひじ"
+    ],
+    "am_han": "TRỬU"
+  },
+  "meaning": {
+    "vi": "khuỷu tay, cánh tay",
+    "en": "elbow, arm"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/肘.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6661",
+    "text": "肘 (đọc là \"chū\") có nghĩa là \"khủy tay\" để chỉ phần khớp nối giữa cánh tay và cẳng tay.  \nVí dụ:  \n- 肘掛け (hijikake): Tay vịn, chỗ dựa của khủy tay.  \n- 肘打ち (hijibuchi): Đòn đánh bằng khuỷu t"
+  },
+  "comments": [
+    {
+      "id": "220433",
+      "lang": "vi",
+      "content_html": "<p>Chỗ thịt thốn nhất là khuỷu tay</p>",
+      "content_text": "Chỗ thịt thốn nhất là khuỷu tay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220434",
+      "lang": "vi",
+      "content_html": "<p>chỗ thốn nhất của chị nguyệt là trửu tay</p>",
+      "content_text": "chỗ thốn nhất của chị nguyệt là trửu tay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220435",
+      "lang": "vi",
+      "content_html": "<p>Nguyệt rất Thốn khi ăn cùi chỏ..</p>",
+      "content_text": "Nguyệt rất Thốn khi ăn cùi chỏ..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "議",
+  "meta": {
+    "weight": 2529,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギ"
+    ],
+    "kun": [],
+    "am_han": "NGHỊ"
+  },
+  "meaning": {
+    "vi": "hội nghị, thảo luận",
+    "en": "deliberation, consultation, debate, consideration"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/議.svg"
+  },
+  "frequency": 25,
+  "examples": [
+    "議論",
+    "会議",
+    "議員",
+    "不思議",
+    "審議"
+  ],
+  "explanation": {
+    "id": "1445",
+    "text": "議 (đọc là \"gi\") có nghĩa là \"thảo luận\", \"nghị quyết\" để chỉ các hành động liên quan đến việc bàn bạc, thảo luận về một vấn đề hoặc đưa ra quyết định.\n\nVí dụ:\n- 議会 (gikai): Quốc hội, hội ngh"
+  },
+  "comments": [
+    {
+      "id": "37151",
+      "lang": "vi",
+      "content_html": "<p>Đang<strong> thảo luận</strong> xem việc làm đó có chính nghĩa (義) hay không.</p>",
+      "content_text": "Đang\nthảo luận\nxem việc làm đó có chính nghĩa (義) hay không.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdbb8717217.jpg",
+      "image_path": "assets/images/議_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157012",
+      "lang": "vi",
+      "content_html": "<p>Trong hội NGHỊ k đc phép NÓI lời vô NGHĨA</p>",
+      "content_text": "Trong hội NGHỊ k đc phép NÓI lời vô NGHĨA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191191",
+      "lang": "vi",
+      "content_html": "<p>hội <strong>nghị </strong>- 会議</p>",
+      "content_text": "hội\nnghị\n- 会議",
+      "image_url": "https://jpdictionary.com/upload/images/648ad87c60a66.jpg",
+      "image_path": "assets/images/議_3.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

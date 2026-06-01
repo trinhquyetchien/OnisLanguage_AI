@@ -1,0 +1,112 @@
+{
+  "kanji": "頭",
+  "meta": {
+    "weight": 2910,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ",
+      "ズ",
+      "ト"
+    ],
+    "kun": [
+      "あたま",
+      "かしら",
+      "-がしら",
+      "かぶり"
+    ],
+    "am_han": "ĐẦU"
+  },
+  "meaning": {
+    "vi": "cái đầu",
+    "en": "head, counter for large animals"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/頭.svg"
+  },
+  "frequency": 433,
+  "examples": [
+    "頭",
+    "冒頭",
+    "先頭",
+    "店頭",
+    "念頭"
+  ],
+  "explanation": {
+    "id": "5889",
+    "text": "頭 (đọc là \"atama\" hoặc \"tou\") có nghĩa là \"đầu\", chỉ phần trên cùng của cơ thể hoặc ý tưởng, khái niệm liên quan đến sự lãnh đạo, trí tuệ.  \nVí dụ:  \n- 頭痛 (zutsuu): Đau đầu.  \n- 頭脳 (zunou): "
+  },
+  "comments": [
+    {
+      "id": "36926",
+      "lang": "vi",
+      "content_html": "<p><strong>Đầu </strong>của tôi trông giống hạt đậu (豆).</p>",
+      "content_text": "Đầu\ncủa tôi trông giống hạt đậu (豆).",
+      "image_url": "https://jpdictionary.com/upload/images/62bc442252e0b.jpg",
+      "image_path": "assets/images/頭_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 1,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157892",
+      "lang": "vi",
+      "content_html": "<p>Đầu (頭) óc bã đậu (豆) nên phải viết lên giấy (頁) cho nhớ</p>",
+      "content_text": "Đầu (頭) óc bã đậu (豆) nên phải viết lên giấy (頁) cho nhớ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157893",
+      "lang": "vi",
+      "content_html": "<p>CÁI ĐẦU  --  như hạt ĐẬU để ở ĐẦU TRANG GIẤY</p>",
+      "content_text": "CÁI ĐẦU  --  như hạt ĐẬU để ở ĐẦU TRANG GIẤY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157894",
+      "lang": "vi",
+      "content_html": "<p>Đầu óc Hiệt như bã Đậu</p>",
+      "content_text": "Đầu óc Hiệt như bã Đậu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

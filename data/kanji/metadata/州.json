@@ -1,0 +1,91 @@
+{
+  "kanji": "州",
+  "meta": {
+    "weight": 814,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ",
+      "ス"
+    ],
+    "kun": [
+      "す"
+    ],
+    "am_han": "CHÂU"
+  },
+  "meaning": {
+    "vi": "tiểu bang, tỉnh",
+    "en": "state, province"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/州.svg"
+  },
+  "frequency": 386,
+  "examples": [
+    "州",
+    "欧州",
+    "九州",
+    "北九州",
+    "満州"
+  ],
+  "explanation": {
+    "id": "3478",
+    "text": "州 (đọc là \"shuu\") có nghĩa là \"tỉnh\", \"bang\" hoặc \"khu vực\" để chỉ các đơn vị hành chính hoặc vùng lãnh thổ.  \nVí dụ:  \n- 州立 (shuuri): Công lập, thuộc bang.  \n- 準州 (junshuu): Tiểu bang chuẩn"
+  },
+  "comments": [
+    {
+      "id": "153192",
+      "lang": "vi",
+      "content_html": "<p>Những dòng SÔNG ở các CHÂU lục đều có nhiều CÁT</p>",
+      "content_text": "Những dòng SÔNG ở các CHÂU lục đều có nhiều CÁT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153193",
+      "lang": "vi",
+      "content_html": "<p>Các CHÂU lục lấy SÔNG làm mốc để phân chia</p>",
+      "content_text": "Các CHÂU lục lấy SÔNG làm mốc để phân chia",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153194",
+      "lang": "vi",
+      "content_html": "<p>Dưới sông có 3 viên Châu báu</p>",
+      "content_text": "Dưới sông có 3 viên Châu báu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

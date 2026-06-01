@@ -1,0 +1,112 @@
+{
+  "kanji": "当",
+  "meta": {
+    "weight": 909,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "あ.たる",
+      "あ.たり",
+      "あ.てる",
+      "あ.て",
+      "まさ.に",
+      "まさ.にべし"
+    ],
+    "am_han": "ĐƯƠNG, ĐÁNG"
+  },
+  "meaning": {
+    "vi": "đảm đương, chính đáng",
+    "en": "hit, right, appropriate, himself"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/当.svg"
+  },
+  "frequency": 91,
+  "examples": [
+    "本当に",
+    "当然",
+    "当時",
+    "担当",
+    "相当"
+  ],
+  "explanation": {
+    "id": "5828",
+    "text": "当 (đọc là \"tō\" hoặc \"ata\") có nghĩa là \"này\", \"đúng\", \"thích hợp\", thường chỉ sự phù hợp hoặc thời điểm hiện tại. \n\nVí dụ:\n- 当日 (tōjitsu): Ngày đó, ngày diễn ra sự kiện.\n- 当社 (tōsha): Công t"
+  },
+  "comments": [
+    {
+      "id": "37370",
+      "lang": "vi",
+      "content_html": "<p>Mũi tên đã <strong>trúng</strong> đích.</p>",
+      "content_text": "Mũi tên đã\ntrúng\nđích.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfebd7f3938.jpg",
+      "image_path": "assets/images/当_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153422",
+      "lang": "vi",
+      "content_html": "<p>当たり前だろう - Tất nhiên rồi/ Đã nói rồi còn gì<br>本当だ　ほんとうだ<br>お弁当　おべんとう</p>",
+      "content_text": "当たり前だろう - Tất nhiên rồi/ Đã nói rồi còn gì\n本当だ　ほんとうだ\nお弁当　おべんとう",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153423",
+      "lang": "vi",
+      "content_html": "<p>Ba toả sáng là đương nhiên</p>",
+      "content_text": "Ba toả sáng là đương nhiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153424",
+      "lang": "vi",
+      "content_html": "<p>đầu nhím Đương nhiên không có 3 lông rồi</p>",
+      "content_text": "đầu nhím Đương nhiên không có 3 lông rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

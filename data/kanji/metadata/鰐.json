@@ -1,0 +1,50 @@
+{
+  "kanji": "鰐",
+  "meta": {
+    "weight": 2986,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガク"
+    ],
+    "kun": [
+      "わに"
+    ],
+    "am_han": "NGẠC"
+  },
+  "meaning": {
+    "vi": "con cá sấu",
+    "en": "alligator, crocodile"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/鰐.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8417",
+    "text": "鰐 (đọc là \"wani\") có nghĩa là \"cá sấu\". Từ này chỉ các loại động vật bò sát lớn sống trong nước.\n\nVí dụ:\n- 鰐魚 (waniu): Cá sấu.\n- 鰐口 (waniguchi): Miệng cá sấu, ám chỉ hình thức hoặc cấu trúc "
+  },
+  "comments": [
+    {
+      "id": "221107",
+      "lang": "vi",
+      "content_html": "<p>Con cá có 2 con mắt lồi lên và há miệng là con cá sấu</p>",
+      "content_text": "Con cá có 2 con mắt lồi lên và há miệng là con cá sấu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

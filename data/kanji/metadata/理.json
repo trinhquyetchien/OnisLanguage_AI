@@ -1,0 +1,107 @@
+{
+  "kanji": "理",
+  "meta": {
+    "weight": 1745,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リ"
+    ],
+    "kun": [
+      "ことわり"
+    ],
+    "am_han": "LÍ"
+  },
+  "meaning": {
+    "vi": "lý luận, lí do",
+    "en": "logic, arrangement, reason, justice, truth"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/理.svg"
+  },
+  "frequency": 86,
+  "examples": [
+    "管理",
+    "理解",
+    "理由",
+    "料理",
+    "処理"
+  ],
+  "explanation": {
+    "id": "8012",
+    "text": "理 (đọc là \"ri\") có nghĩa là \"lý do\", \"lý luận\" hoặc \"phân tích\" để chỉ các khía cạnh liên quan đến logic và nguyên nhân.  \nVí dụ:  \n- 理由 (riyuu): Lý do, nguyên nhân.  \n- 理解 (rikai): Hiểu biế"
+  },
+  "comments": [
+    {
+      "id": "865",
+      "lang": "vi",
+      "content_html": "<p>Nhà Vua (王) suy nghĩ <strong>logic </strong>và làm ra những thửa ruộng (田).</p>",
+      "content_text": "Nhà Vua (王) suy nghĩ\nlogic\nvà làm ra những thửa ruộng (田).",
+      "image_url": "https://jpdictionary.com/upload/images/62989951b709c.jpg",
+      "image_path": "assets/images/理_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155343",
+      "lang": "vi",
+      "content_html": "<p>vua ra chính sách ruộng đất hợp lý.</p>",
+      "content_text": "vua ra chính sách ruộng đất hợp lý.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221842",
+      "lang": "vi",
+      "content_html": "<p><strong>理 </strong>là chữ hình thanh, <strong>王</strong> bên trái là bộ <strong>Vương </strong>đảm nhận phần hình (chỉ <strong>Ngọc quý</strong>), bên phải là <strong>里 (Lý) </strong>đảm nhận phần <strong>Thanh </strong>chính là cách đọc của chữ này.<br>Nghĩa gốc là <strong>Chế tác ngọc</strong>, sau mở rộng thành: Sửa sang, sắp đặt công việc — Cái lẽ của sự vật, Lẽ phải etc (Từ điển Nguyễn Quốc Hùng).</p>",
+      "content_text": "理\nlà chữ hình thanh,\n王\nbên trái là bộ\nVương\nđảm nhận phần hình (chỉ\nNgọc quý\n), bên phải là\n里 (Lý)\nđảm nhận phần\nThanh\nchính là cách đọc của chữ này.\nNghĩa gốc là\nChế tác ngọc\n, sau mở rộng thành: Sửa sang, sắp đặt công việc — Cái lẽ của sự vật, Lẽ phải etc (Từ điển Nguyễn Quốc Hùng).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    },
+    {
+      "id": "158287",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>料理 (りょうり): thức ăn<br>地理 (ちり): địa lý<br>無理 (むり): vô lý<br>理由 (りゆう): lý do<br>管理人 (かんりにん): quản lý<br>整理 (せいり): sắp xếp</p>",
+      "content_text": "JLPT N4\n料理 (りょうり): thức ăn\n地理 (ちり): địa lý\n無理 (むり): vô lý\n理由 (りゆう): lý do\n管理人 (かんりにん): quản lý\n整理 (せいり): sắp xếp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

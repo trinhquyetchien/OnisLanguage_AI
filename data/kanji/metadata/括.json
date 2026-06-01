@@ -1,0 +1,90 @@
+{
+  "kanji": "括",
+  "meta": {
+    "weight": 1081,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カツ"
+    ],
+    "kun": [
+      "くく.る"
+    ],
+    "am_han": "QUÁT, HOẠT"
+  },
+  "meaning": {
+    "vi": "buộc chặt, buộc lại, bắt giữ, thắt chặt",
+    "en": "fasten, tie up, arrest, constrict"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/括.svg"
+  },
+  "frequency": 1026,
+  "examples": [
+    "一括",
+    "総括",
+    "包括",
+    "統括",
+    "括弧"
+  ],
+  "explanation": {
+    "id": "979",
+    "text": "括 (đọc là \"katsu\") có nghĩa là \"kết hợp\", \"bao gồm\" để chỉ việc gom lại hoặc tổ chức các phần lại với nhau.  \nVí dụ:  \n- 括弧 (kakko): Dấu ngoặc.  \n- 括約筋 (katsuyakuskin): Cơ vòng (như trong cơ"
+  },
+  "comments": [
+    {
+      "id": "153883",
+      "lang": "vi",
+      "content_html": "<p>khua TAY múa LƯỠI bao QUÁT vấn đề</p>",
+      "content_text": "khua TAY múa LƯỠI bao QUÁT vấn đề",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153884",
+      "lang": "vi",
+      "content_html": "<p>Tay mà giữ lưỡi thì quát làm sao được</p>",
+      "content_text": "Tay mà giữ lưỡi thì quát làm sao được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153885",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay bao quát buộc chặt cái lữoi vào</p>",
+      "content_text": "Dùng tay bao quát buộc chặt cái lữoi vào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

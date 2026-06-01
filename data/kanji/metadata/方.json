@@ -1,0 +1,92 @@
+{
+  "kanji": "方",
+  "meta": {
+    "weight": 1201,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "かた",
+      "-かた",
+      "-がた"
+    ],
+    "am_han": "PHƯƠNG"
+  },
+  "meaning": {
+    "vi": "hướng, phương hướng",
+    "en": "direction, person, alternative"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/方.svg"
+  },
+  "frequency": 46,
+  "examples": [
+    "方",
+    "方法",
+    "地方",
+    "一方",
+    "方向"
+  ],
+  "explanation": {
+    "id": "7180",
+    "text": "方 (đọc là \"hō\" hoặc \"kata\") có nghĩa là \"phương\", \"hướng\", \"cách thức\" để chỉ các phương diện, hướng đi hoặc cách thực hiện một việc. \n\nVí dụ:\n- 方法 (hōhō): Phương pháp, cách thức.\n- 方針 (hōsh"
+  },
+  "comments": [
+    {
+      "id": "191038",
+      "lang": "vi",
+      "content_html": "<p><strong>phương hướng</strong></p>",
+      "content_text": "phương hướng",
+      "image_url": "https://jpdictionary.com/upload/images/648a90ff0f364.jpg",
+      "image_path": "assets/images/方_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "719",
+      "lang": "vi",
+      "content_html": "<p>Vui lòng đi theo <strong>hướng </strong>của lá cờ.</p>",
+      "content_text": "Vui lòng đi theo\nhướng\ncủa lá cờ.",
+      "image_url": "https://jpdictionary.com/upload/images/6298407386b88.jpg",
+      "image_path": "assets/images/方_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154155",
+      "lang": "vi",
+      "content_html": "<p>Vạn(万) cái đầu(亠) đều hướng về một phương(方)</p>",
+      "content_text": "Vạn(万) cái đầu(亠) đều hướng về một phương(方)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "kanji": "然",
+  "meta": {
+    "weight": 1659,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゼン",
+      "ネン"
+    ],
+    "kun": [
+      "しか",
+      "しか.り",
+      "しか.し",
+      "さ"
+    ],
+    "am_han": "NHIÊN"
+  },
+  "meaning": {
+    "vi": "tự nhiên, đương nhiên",
+    "en": "sort of thing, so, if so, in that case, well"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/然.svg"
+  },
+  "frequency": 401,
+  "examples": [
+    "自然",
+    "当然",
+    "全然",
+    "突然",
+    "偶然"
+  ],
+  "explanation": {
+    "id": "4592",
+    "text": "然 (đọc là \"zan\" hoặc \"nara\") có nghĩa là \"như vậy\", \"nhưng\", thường dùng để chỉ trạng thái tự nhiên hoặc việc gì đó xảy ra theo cách thông thường.\n\nVí dụ:\n- 自然 (shizen): Tự nhiên, thiên nhiê"
+  },
+  "comments": [
+    {
+      "id": "155174",
+      "lang": "vi",
+      "content_html": "<p>Dưới ánh trăng 月 chú chó 犬 an NHIÊN nằm bên đống lửa 灬</p>",
+      "content_text": "Dưới ánh trăng 月 chú chó 犬 an NHIÊN nằm bên đống lửa 灬",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191105",
+      "lang": "vi",
+      "content_html": "<p>tự <strong>nhiên </strong>- 自然</p>",
+      "content_text": "tự\nnhiên\n- 自然",
+      "image_url": "https://jpdictionary.com/upload/images/648ac0aa30927.jpg",
+      "image_path": "assets/images/然_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "155175",
+      "lang": "vi",
+      "content_html": "<p>Đêm Trăng cùng Cún ngồi nhóm lửa<br>cảnh vật xung quanh thật tự NHIÊN</p>",
+      "content_text": "Đêm Trăng cùng Cún ngồi nhóm lửa\ncảnh vật xung quanh thật tự NHIÊN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155176",
+      "lang": "vi",
+      "content_html": "<p>Nghiêng nghiêng bóng NGUYỆT (月) xế tà, đột NHIÊN (然) CHÓ (犬) sủa canh gà điểm tư (,,,,)</p>",
+      "content_text": "Nghiêng nghiêng bóng NGUYỆT (月) xế tà, đột NHIÊN (然) CHÓ (犬) sủa canh gà điểm tư (,,,,)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

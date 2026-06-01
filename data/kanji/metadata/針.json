@@ -1,0 +1,107 @@
+{
+  "kanji": "針",
+  "meta": {
+    "weight": 2741,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "はり"
+    ],
+    "am_han": "CHÂM"
+  },
+  "meaning": {
+    "vi": "kim, châm cứu",
+    "en": "needle, pin, staple, stinger"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/針.svg"
+  },
+  "frequency": 505,
+  "examples": [
+    "方針",
+    "針",
+    "指針",
+    "針金",
+    "羅針盤"
+  ],
+  "explanation": {
+    "id": "4137",
+    "text": "針 (đọc là \"hari\") có nghĩa là \"kim,\" thường chỉ đến các vật sắc nhọn hoặc dụng cụ dùng để xuyên qua, như kim may hoặc kim châm.  \nVí dụ:  \n- 針刺し (harisashi): Cái nẹp kim, hộp đựng kim.  \n- 針"
+  },
+  "comments": [
+    {
+      "id": "157528",
+      "lang": "vi",
+      "content_html": "<p>10 cây kim châm</p>",
+      "content_text": "10 cây kim châm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190639",
+      "lang": "vi",
+      "content_html": "<p>長針(ちょうしん): Kim dài</p><p>短針(たんしん): Kim ngắn</p>",
+      "content_text": "長針(ちょうしん): Kim dài\n短針(たんしん): Kim ngắn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "157529",
+      "lang": "vi",
+      "content_html": "<p>Vàng 10 chính là phương CHÂM để phấn đấu</p>",
+      "content_text": "Vàng 10 chính là phương CHÂM để phấn đấu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157530",
+      "lang": "vi",
+      "content_html": "<p>Lấy cái cây bằng KIM loại giống như cây KIM đêm CHÂM cứu khắp người bệnh nhân ..Avic</p>",
+      "content_text": "Lấy cái cây bằng KIM loại giống như cây KIM đêm CHÂM cứu khắp người bệnh nhân ..Avic",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

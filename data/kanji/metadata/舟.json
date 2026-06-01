@@ -1,0 +1,90 @@
+{
+  "kanji": "舟",
+  "meta": {
+    "weight": 2236,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "ふね",
+      "ふな-",
+      "-ぶね"
+    ],
+    "am_han": "CHU"
+  },
+  "meaning": {
+    "vi": "tàu thuyền",
+    "en": "boat, ship"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/舟.svg"
+  },
+  "frequency": 1786,
+  "examples": [
+    "舟",
+    "小舟",
+    "助け舟"
+  ],
+  "explanation": {
+    "id": "3511",
+    "text": "舟 (đọc là \"shuu\" hoặc \"fune\") có nghĩa là \"thuyền\", chỉ các phương tiện giao thông trên nước.  \nVí dụ:  \n- 舟 (fune): Thuyền, tàu.  \n- 舟歌 (funauta): Bài hát về thuyền.  \n- 漁舟 (gyoshuu): Thuyề"
+  },
+  "comments": [
+    {
+      "id": "156426",
+      "lang": "vi",
+      "content_html": "<p>Nhìn từ trên xuống giống cái thuyền, người ngồi sau chèo cho người đằng trc Chu du</p>",
+      "content_text": "Nhìn từ trên xuống giống cái thuyền, người ngồi sau chèo cho người đằng trc Chu du",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156427",
+      "lang": "vi",
+      "content_html": "<p>Mẹ (母) đi CHU(舟) du bằng THUYỀN</p>",
+      "content_text": "Mẹ (母) đi CHU(舟) du bằng THUYỀN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156428",
+      "lang": "vi",
+      "content_html": "<p>xung QUANH cái Thuyền(T) Chu du có 2 giọt nước.<br><br>x</p>",
+      "content_text": "xung QUANH cái Thuyền(T) Chu du có 2 giọt nước.\nx",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

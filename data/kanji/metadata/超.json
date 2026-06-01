@@ -1,0 +1,108 @@
+{
+  "kanji": "超",
+  "meta": {
+    "weight": 2586,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "こ.える",
+      "こ.す"
+    ],
+    "am_han": "SIÊU"
+  },
+  "meaning": {
+    "vi": "siêu, siêu việt",
+    "en": "transcend, super-, ultra-"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/超.svg"
+  },
+  "frequency": 597,
+  "examples": [
+    "超",
+    "超える",
+    "超過",
+    "超越",
+    "超人"
+  ],
+  "explanation": {
+    "id": "5398",
+    "text": "超 (đọc là \"chō\") có nghĩa là \"siêu\", chỉ sự vượt trội, hơn hẳn hoặc vượt qua một mức độ nào đó. \n\nVí dụ:\n- 超える (koeru): Vượt qua.\n- 超能力 (chōnōryoku): Siêu năng lực.\n- 超市場 (chōichiba): Siêu t"
+  },
+  "comments": [
+    {
+      "id": "157158",
+      "lang": "vi",
+      "content_html": "<p>chân TẨU MIỆNG ngậm DAO thật là SIÊU</p>",
+      "content_text": "chân TẨU MIỆNG ngậm DAO thật là SIÊU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157159",
+      "lang": "vi",
+      "content_html": "<p>có thể CHẠY được TRIỆU cây số thì thật SIÊU việt</p>",
+      "content_text": "có thể CHẠY được TRIỆU cây số thì thật SIÊU việt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190715",
+      "lang": "vi",
+      "content_html": "<p>chạy bộ cầm dao mà mồm oang oang thì quả là siêu</p>",
+      "content_text": "chạy bộ cầm dao mà mồm oang oang thì quả là siêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157160",
+      "lang": "vi",
+      "content_html": "<p>Chạy Triệu km thì chỉ có Siêu nhân</p>",
+      "content_text": "Chạy Triệu km thì chỉ có Siêu nhân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

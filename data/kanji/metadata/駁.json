@@ -1,0 +1,35 @@
+{
+  "kanji": "駁",
+  "meta": {
+    "weight": 2946,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハク",
+      "バク"
+    ],
+    "kun": [
+      "ぶち",
+      "まじ.る",
+      "まだら"
+    ],
+    "am_han": "BÁC"
+  },
+  "meaning": {
+    "vi": "bác bỏ, mâu thuẫn",
+    "en": "refutation, contradiction"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/駁.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6363",
+    "text": "駁 (đọc là \"baku\") có nghĩa là \"phản đối\", \"chống lại\" để chỉ các hành động liên quan đến việc bác bỏ, phản biện ý kiến hoặc lập luận.  \nVí dụ:  \n- 駁論 (bakuron): Lập luận phản biện.  \n- 駁回 (b"
+  },
+  "comments": []
+}

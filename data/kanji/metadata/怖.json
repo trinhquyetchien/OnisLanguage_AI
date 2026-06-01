@@ -1,0 +1,94 @@
+{
+  "kanji": "怖",
+  "meta": {
+    "weight": 951,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ",
+      "ホ"
+    ],
+    "kun": [
+      "こわ.い",
+      "こわ.がる",
+      "お.じる",
+      "おそ.れる"
+    ],
+    "am_han": "BỐ"
+  },
+  "meaning": {
+    "vi": "sợ, khủng bố",
+    "en": "dreadful, be frightened, fearful"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/怖.svg"
+  },
+  "frequency": 1325,
+  "examples": [
+    "怖い",
+    "恐怖",
+    "怖",
+    "恐怖症",
+    "畏怖"
+  ],
+  "explanation": {
+    "id": "6809",
+    "text": "怖 (đọc là \"kowa\" hoặc \"bō\") có nghĩa là \"sợ hãi\", để chỉ cảm giác sợ hãi hoặc điều gì đó đáng sợ.  \nVí dụ:  \n- 恐怖 (kyōfu): Nỗi sợ hãi, kinh hoàng.  \n- 怖がる (kowagaru): Sợ hãi, lo lắng về điều"
+  },
+  "comments": [
+    {
+      "id": "153541",
+      "lang": "vi",
+      "content_html": "<p>Tâm  忄  mềm như vải 布 , hàm ý là tâm dễ lay động ( tâm sợ hãi )</p>",
+      "content_text": "Tâm  忄  mềm như vải 布 , hàm ý là tâm dễ lay động ( tâm sợ hãi )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153542",
+      "lang": "vi",
+      "content_html": "<p>tôi cầm khăn ra PHỐ để trong TÂM luôn nhớ đến BỐ</p>",
+      "content_text": "tôi cầm khăn ra PHỐ để trong TÂM luôn nhớ đến BỐ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153543",
+      "lang": "vi",
+      "content_html": "<p>Thằng tâm sợ hết vải may quần</p>",
+      "content_text": "Thằng tâm sợ hết vải may quần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

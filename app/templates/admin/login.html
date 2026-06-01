@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ admin_title }} | Dang nhap</title>
+    <link rel="stylesheet" href="{{ request.url_for('admin-static', path='admin.css') }}">
+</head>
+<body class="login-body">
+    <section class="login-panel">
+        <div class="login-copy">
+            <p class="eyebrow">Admin control center</p>
+            <h1>{{ admin_title }}</h1>
+            <p>Dang nhap de xem thong ke database, quan ly nguoi dung va chinh sua toan bo du lieu he thong.</p>
+            <ul class="feature-list">
+                <li>Dashboard tong quan theo bang du lieu</li>
+                <li>CRUD day du cho cac bang chinh</li>
+                <li>Tim kiem nhanh va dieu huong ro rang</li>
+            </ul>
+        </div>
+        <form method="post" action="/admin/login" class="login-card">
+            <h2>Dang nhap admin</h2>
+            {% if error %}
+            <div class="alert">{{ error }}</div>
+            {% endif %}
+            <label>
+                <span>Email</span>
+                <input type="email" name="email" value="{{ email }}" required>
+            </label>
+            <label>
+                <span>Mat khau</span>
+                <input type="password" name="password" required>
+            </label>
+            <button type="submit" class="primary-button">Vao trang quan tri</button>
+            <p class="hint">Mac dinh duoc phep: {{ tables[0].label if tables else '' }} tai khoan trong `ADMIN_EMAILS`. Demo seed: `demo@onis.app / 123456`.</p>
+        </form>
+    </section>
+</body>
+</html>

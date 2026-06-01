@@ -1,0 +1,91 @@
+{
+  "kanji": "甲",
+  "meta": {
+    "weight": 1775,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "カン"
+    ],
+    "kun": [
+      "きのえ"
+    ],
+    "am_han": "GIÁP"
+  },
+  "meaning": {
+    "vi": "áo giáp, cao (giọng nói), hạng A, hạng nhất, cũ, mu bàn chân, mai",
+    "en": "armor, high (voice), A grade, first class, former, instep, carapace"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/甲.svg"
+  },
+  "frequency": 1073,
+  "examples": [
+    "甲",
+    "甲斐",
+    "甲府",
+    "装甲",
+    "甲板"
+  ],
+  "explanation": {
+    "id": "2502",
+    "text": "甲 (đọc là \"kō\" hoặc \"ka\") có nghĩa là \"vỏ, lớp ngoài\", thường chỉ những thứ liên quan đến hình thức bên ngoài hoặc cấp bậc, vị trí trong một hệ thống.\n\nVí dụ:\n- 甲羅 (kōra): Vỏ cứng của động v"
+  },
+  "comments": [
+    {
+      "id": "155396",
+      "lang": "vi",
+      "content_html": "<p>đảo ngược sự tự do là bị bao bọc</p>",
+      "content_text": "đảo ngược sự tự do là bị bao bọc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155397",
+      "lang": "vi",
+      "content_html": "<p>trong hợp đồng: Bên A</p>",
+      "content_text": "trong hợp đồng: Bên A",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155398",
+      "lang": "vi",
+      "content_html": "<p>trái ngược sự TỰ DO  --  là phải mặc ÁO GIÁP như MAI rùa</p>",
+      "content_text": "trái ngược sự TỰ DO  --  là phải mặc ÁO GIÁP như MAI rùa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

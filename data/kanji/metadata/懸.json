@@ -1,0 +1,92 @@
+{
+  "kanji": "懸",
+  "meta": {
+    "weight": 1027,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン",
+      "ケ"
+    ],
+    "kun": [
+      "か.ける",
+      "か.かる"
+    ],
+    "am_han": "HUYỀN"
+  },
+  "meaning": {
+    "vi": "trạng thái đình chỉ, treo, phụ thuộc, tham vấn, xa cách, xa nhau",
+    "en": "state of suspension, hang, depend, consult, distant, far apart"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/懸.svg"
+  },
+  "frequency": 889,
+  "examples": [
+    "一生懸命",
+    "懸念",
+    "懸賞",
+    "懸命",
+    "懸案"
+  ],
+  "explanation": {
+    "id": "2131",
+    "text": "懸 (đọc là \"ken\" hoặc \"kakeru\") có nghĩa là \"treo\", \"suspend\", thường chỉ việc treo lơ lửng hoặc giữ một cái gì đó ở trạng thái chưa hoàn thành. \n\nVí dụ:\n- 懸念 (kenen): Lo ngại, lo lắng.\n- 懸垂 "
+  },
+  "comments": [
+    {
+      "id": "153739",
+      "lang": "vi",
+      "content_html": "<p>một sợi chỉ buộc con tim của huyện tỉnh có màu huyền</p>",
+      "content_text": "một sợi chỉ buộc con tim của huyện tỉnh có màu huyền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153740",
+      "lang": "vi",
+      "content_html": "<p>Huyện của HUYỀN Chỉ có Trái Tim</p>",
+      "content_text": "Huyện của HUYỀN Chỉ có Trái Tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153741",
+      "lang": "vi",
+      "content_html": "<p>Các Huyện có quan Hệ bằng Tâm</p>",
+      "content_text": "Các Huyện có quan Hệ bằng Tâm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

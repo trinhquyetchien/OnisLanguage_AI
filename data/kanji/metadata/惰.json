@@ -1,0 +1,85 @@
+{
+  "kanji": "惰",
+  "meta": {
+    "weight": 992,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダ"
+    ],
+    "kun": [],
+    "am_han": "NỌA"
+  },
+  "meaning": {
+    "vi": "lười biếng",
+    "en": "lazy, laziness"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/惰.svg"
+  },
+  "frequency": 2336,
+  "examples": [
+    "怠惰",
+    "惰性"
+  ],
+  "explanation": {
+    "id": "4895",
+    "text": "惰 (đọc là \"da\") có nghĩa là \"lười biếng\", chỉ trạng thái không hoạt động hoặc thiếu năng lượng, thường liên quan đến sự trì trệ trong hành động.\n\nVí dụ:\n- 惰性 (dasei): Quán tính, thói quen là"
+  },
+  "comments": [
+    {
+      "id": "153646",
+      "lang": "vi",
+      "content_html": "<p>tim nguyệt nằm bên trái nên NỌA là người lười biếng</p>",
+      "content_text": "tim nguyệt nằm bên trái nên NỌA là người lười biếng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153647",
+      "lang": "vi",
+      "content_html": "<p>trong Tâm cảm thấy sai Trái khi Nọa nạt chị Nguyệt làm việc LƯỜI BIẾNG</p>",
+      "content_text": "trong Tâm cảm thấy sai Trái khi Nọa nạt chị Nguyệt làm việc LƯỜI BIẾNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153648",
+      "lang": "vi",
+      "content_html": "<p>Mô TẢ Trái Tim LƯỜI BIẾNG của Nguyệt</p>",
+      "content_text": "Mô TẢ Trái Tim LƯỜI BIẾNG của Nguyệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

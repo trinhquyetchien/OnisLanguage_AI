@@ -1,0 +1,91 @@
+{
+  "kanji": "餌",
+  "meta": {
+    "weight": 2935,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ",
+      "ニ"
+    ],
+    "kun": [
+      "え",
+      "えば",
+      "えさ",
+      "もち"
+    ],
+    "am_han": "NHỊ"
+  },
+  "meaning": {
+    "vi": "thức ăn, mồi, con mồi, lợi nhuận hấp dẫn",
+    "en": "food, bait, prey, tempting profit"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/餌.svg"
+  },
+  "frequency": 2277,
+  "examples": [
+    "餌",
+    "餌食"
+  ],
+  "explanation": {
+    "id": "356",
+    "text": "餌 (đọc là \"e\") có nghĩa là \"mồi\", \"thức ăn cho động vật\" dùng để chỉ thức ăn cho cá hoặc thú săn.  \nVí dụ:  \n- 餌食 (ejiki): Con mồi.  \n- 餌やり (e yari): Cho ăn, cho mồi.  \n- 生餌 (nama e): Mồi số"
+  },
+  "comments": [
+    {
+      "id": "157955",
+      "lang": "vi",
+      "content_html": "<p>Nhĩ làm THỨC ĂN cho NHỊ</p>",
+      "content_text": "Nhĩ làm THỨC ĂN cho NHỊ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157956",
+      "lang": "vi",
+      "content_html": "<p>Thực phẩm làm từ mộc Nhĩ có thể làm mồi câu cá thứ 2 (dự phòng) - NHỊ</p>",
+      "content_text": "Thực phẩm làm từ mộc Nhĩ có thể làm mồi câu cá thứ 2 (dự phòng) - NHỊ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157957",
+      "lang": "vi",
+      "content_html": "<p>Thả tai xuống làm mồi câu cho cá ăn</p>",
+      "content_text": "Thả tai xuống làm mồi câu cho cá ăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "撃",
+  "meta": {
+    "weight": 1149,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲキ"
+    ],
+    "kun": [
+      "う.つ"
+    ],
+    "am_han": "KÍCH"
+  },
+  "meaning": {
+    "vi": "đánh bại, tấn công, chinh phục",
+    "en": "beat, attack, defeat, conquer"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/撃.svg"
+  },
+  "frequency": 473,
+  "examples": [
+    "攻撃",
+    "衝撃",
+    "目撃",
+    "打撃",
+    "襲撃"
+  ],
+  "explanation": {
+    "id": "2053",
+    "text": "撃 (đọc là \"geki\") có nghĩa là \"tấn công\", \"đánh\" để chỉ các hành động liên quan đến việc tấn công hoặc bắn.  \nVí dụ:  \n- 攻撃 (kōgeki): Tấn công, công kích.  \n- 撃つ (utsu): Bắn, đánh.  \n- 銃撃 (j"
+  },
+  "comments": [
+    {
+      "id": "154035",
+      "lang": "vi",
+      "content_html": "<p>TAY(手) cầm THÙ(殳) công KÍCH(撃) XE(車) địch.</p>",
+      "content_text": "TAY(手) cầm THÙ(殳) công KÍCH(撃) XE(車) địch.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154036",
+      "lang": "vi",
+      "content_html": "<p>tay không công kích xe địch</p>",
+      "content_text": "tay không công kích xe địch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154037",
+      "lang": "vi",
+      "content_html": "<p>Xa+Thù=xe Tăng -&#62; công Kích xe Tăng bằng Tay không thì chỉ là hạ sách!</p>",
+      "content_text": "Xa+Thù=xe Tăng -> công Kích xe Tăng bằng Tay không thì chỉ là hạ sách!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

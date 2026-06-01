@@ -1,0 +1,105 @@
+{
+  "kanji": "匹",
+  "meta": {
+    "weight": 380,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒツ"
+    ],
+    "kun": [
+      "ひき"
+    ],
+    "am_han": "THẤT"
+  },
+  "meaning": {
+    "vi": "số đếm con vật",
+    "en": "equal, head, counter for small animals, roll of cloth"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/匹.svg"
+  },
+  "frequency": 1384,
+  "examples": [
+    "匹",
+    "匹敵",
+    "一匹狼"
+  ],
+  "explanation": {
+    "id": "6643",
+    "text": "匹 (đọc là \"hiki\") có nghĩa là \"một con\" hoặc \"một cái\" để chỉ số lượng của động vật, thường dùng trong việc đếm. \n\nVí dụ:\n- 一匹 (ippiki): Một con (động vật).\n- 三匹 (sanbiki): Ba con (động vật)"
+  },
+  "comments": [
+    {
+      "id": "152144",
+      "lang": "vi",
+      "content_html": "<p>Thất mà như Tứ, bảo sao có “Thất ngôn Tứ tuyệt”.</p>",
+      "content_text": "Thất mà như Tứ, bảo sao có “Thất ngôn Tứ tuyệt”.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152145",
+      "lang": "vi",
+      "content_html": "<p>Đi Tứ Phương buôn động VẬT, sau về ĐẾM đi đếm lại vẫn THẤT bát. (Thôi quyết định bỏ nghề đi)</p>",
+      "content_text": "Đi Tứ Phương buôn động VẬT, sau về ĐẾM đi đếm lại vẫn THẤT bát. (Thôi quyết định bỏ nghề đi)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158679",
+      "lang": "vi",
+      "content_html": "<p>何匹 (なんびき): mấy con (vật)</p><p>Trả lời: số đếm + 匹 (ひき)</p><p>Ngoại lệ:</p><p>1匹: いっぴき</p><p>3匹: さんびき</p><p>6匹: ろっぴき</p><p>8匹: はっぴき</p><p>10匹: じゅっぴき</p>",
+      "content_text": "何匹 (なんびき): mấy con (vật)\nTrả lời: số đếm + 匹 (ひき)\nNgoại lệ:\n1匹: いっぴき\n3匹: さんびき\n6匹: ろっぴき\n8匹: はっぴき\n10匹: じゅっぴき",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "152146",
+      "lang": "vi",
+      "content_html": "<p>đếm đi đếm lại số 4 vẫn thiếu 1 nét</p>",
+      "content_text": "đếm đi đếm lại số 4 vẫn thiếu 1 nét",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

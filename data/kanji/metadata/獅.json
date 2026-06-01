@@ -1,0 +1,53 @@
+{
+  "kanji": "獅",
+  "meta": {
+    "weight": 1727,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "しし"
+    ],
+    "am_han": "SƯ"
+  },
+  "meaning": {
+    "vi": "sư tử",
+    "en": "lion"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/獅.svg"
+  },
+  "frequency": 1914,
+  "examples": [
+    "獅子",
+    "獅子舞"
+  ],
+  "explanation": {
+    "id": "3113",
+    "text": "獅 (đọc là \"shi\") có nghĩa là \"sư tử\", chỉ loài thú mạnh mẽ, biểu tượng cho sức mạnh và quyền lực.  \nVí dụ:  \n- 獅子 (shishi): Sư tử.  \n- 獅子舞 (shishimai): Múa sư tử, một loại hình nghệ thuật tr"
+  },
+  "comments": [
+    {
+      "id": "155305",
+      "lang": "vi",
+      "content_html": "<p>Con CHÓ có SƯ phụ là con SƯ tử</p>",
+      "content_text": "Con CHÓ có SƯ phụ là con SƯ tử",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

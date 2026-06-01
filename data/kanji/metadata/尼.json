@@ -1,0 +1,87 @@
+{
+  "kanji": "尼",
+  "meta": {
+    "weight": 769,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ニ"
+    ],
+    "kun": [
+      "あま"
+    ],
+    "am_han": "NI, NỆ, NẶC, NẬT"
+  },
+  "meaning": {
+    "vi": "ni cô",
+    "en": "nun"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/尼.svg"
+  },
+  "frequency": 1844,
+  "examples": [
+    "尼",
+    "尼僧"
+  ],
+  "explanation": {
+    "id": "6089",
+    "text": "尼 (đọc là \"ni\") có nghĩa là \"ni cô\" hoặc \"người phụ nữ tu hành\" trong tiếng Nhật. \n\nVí dụ:\n- 尼僧 (nisō): Ni cô, người nữ tu.\n- 尼寺 (nidera): Chùa ni, nơi thờ phượng dành cho ni cô.\n- 尼貴 (niki)"
+  },
+  "comments": [
+    {
+      "id": "153089",
+      "lang": "vi",
+      "content_html": "<p>泥 là bùn, giống như cái xấu phàm tục.<br>Người xa lìa phàm tục là ni cô 尼</p>",
+      "content_text": "泥 là bùn, giống như cái xấu phàm tục.\nNgười xa lìa phàm tục là ni cô 尼",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153090",
+      "lang": "vi",
+      "content_html": "<p>cương thi cười hihi là ni cô</p>",
+      "content_text": "cương thi cười hihi là ni cô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153091",
+      "lang": "vi",
+      "content_html": "<p>xác chết ngậm thìa sẽ hóa thành ni cô</p>",
+      "content_text": "xác chết ngậm thìa sẽ hóa thành ni cô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

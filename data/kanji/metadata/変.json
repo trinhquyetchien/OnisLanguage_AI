@@ -1,0 +1,92 @@
+{
+  "kanji": "変",
+  "meta": {
+    "weight": 615,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘン"
+    ],
+    "kun": [
+      "か.わる",
+      "か.わり",
+      "か.える"
+    ],
+    "am_han": "BIẾN"
+  },
+  "meaning": {
+    "vi": "biến hóa, thay đổi",
+    "en": "unusual, change, strange"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/変.svg"
+  },
+  "frequency": 238,
+  "examples": [
+    "大変",
+    "変化",
+    "変更",
+    "変え",
+    "変"
+  ],
+  "explanation": {
+    "id": "7049",
+    "text": "変 (đọc là \"hen\") có nghĩa là \"biến đổi\", \"thay đổi\" để chỉ các hành động hoặc trạng thái khác biệt, không bình thường.\n\nVí dụ:\n- 変化 (henka): Biến đổi, thay đổi.\n- 変わる (kawaru): Thay đổi, biế"
+  },
+  "comments": [
+    {
+      "id": "190955",
+      "lang": "vi",
+      "content_html": "<p><strong>biến thái</strong> - 変態 (へんたい)</p>",
+      "content_text": "biến thái\n- 変態 (へんたい)",
+      "image_url": "https://jpdictionary.com/upload/images/648a763702536.jpg",
+      "image_path": "assets/images/変_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "37360",
+      "lang": "vi",
+      "content_html": "<p>Anh ta mặc trang phục <strong>kỳ quái</strong>.\r\n</p>",
+      "content_text": "Anh ta mặc trang phục\nkỳ quái\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfeab8d665f.jpg",
+      "image_path": "assets/images/変_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152708",
+      "lang": "vi",
+      "content_html": "<p>Chạy nhanh khi màu đỏ biến đổi</p>",
+      "content_text": "Chạy nhanh khi màu đỏ biến đổi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

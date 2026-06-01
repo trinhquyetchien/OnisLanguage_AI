@@ -1,0 +1,92 @@
+{
+  "kanji": "黙",
+  "meta": {
+    "weight": 3028,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モク",
+      "ボク"
+    ],
+    "kun": [
+      "だま.る",
+      "もだ.す"
+    ],
+    "am_han": "MẶC, MẮC"
+  },
+  "meaning": {
+    "vi": "im lặng, trở nên im lặng, ngừng nói, để nguyên như vậy",
+    "en": "silence, become silent, stop speaking, leave as is"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/黙.svg"
+  },
+  "frequency": 1338,
+  "examples": [
+    "沈黙",
+    "暗黙",
+    "黙認",
+    "黙示録",
+    "寡黙"
+  ],
+  "explanation": {
+    "id": "7625",
+    "text": "黙 (đọc là \"moku\" hoặc \"doku\") có nghĩa là \"im lặng\", \"không nói\" để chỉ trạng thái không phát ra âm thanh hay lời nói.\n\nVí dụ:\n- 黙る (damaru): Im lặng, ngừng nói.\n- 黙祷 (mokutou): Lời cầu nguy"
+  },
+  "comments": [
+    {
+      "id": "158110",
+      "lang": "vi",
+      "content_html": "<p>Nướng chó ngoài đồng đen hắc nhưng mọi người mặc kệ im lặng</p>",
+      "content_text": "Nướng chó ngoài đồng đen hắc nhưng mọi người mặc kệ im lặng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158111",
+      "lang": "vi",
+      "content_html": "<p>Thật vô LÝ khi NƯỚNG con CHÓ mà ai cũng mặc kệ im lặng</p>",
+      "content_text": "Thật vô LÝ khi NƯỚNG con CHÓ mà ai cũng mặc kệ im lặng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158112",
+      "lang": "vi",
+      "content_html": "<p>ĐEN như CHÓ thì còn nói gì nữa, IM LẶNG đi, MẶC kệ người ta nói.</p>",
+      "content_text": "ĐEN như CHÓ thì còn nói gì nữa, IM LẶNG đi, MẶC kệ người ta nói.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

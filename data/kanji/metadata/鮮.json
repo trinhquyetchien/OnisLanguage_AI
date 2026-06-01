@@ -1,0 +1,90 @@
+{
+  "kanji": "鮮",
+  "meta": {
+    "weight": 2979,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "あざ.やか"
+    ],
+    "am_han": "TIÊN, TIỂN"
+  },
+  "meaning": {
+    "vi": "tươi, sống động, rõ ràng, rực rỡ, Hàn Quốc",
+    "en": "fresh, vivid, clear, brilliant, Korea"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/鮮.svg"
+  },
+  "frequency": 355,
+  "examples": [
+    "北朝鮮",
+    "朝鮮",
+    "新鮮",
+    "鮮やか",
+    "朝鮮半島"
+  ],
+  "explanation": {
+    "id": "4580",
+    "text": "鮮 (đọc là \"sen\" hoặc \"shun\") có nghĩa là \"tươi sống\", \"sắc nét\" để chỉ sự mới mẻ, tươi ngon, hoặc màu sắc rực rỡ.  \nVí dụ:  \n- 鮮魚 (sengyo): Cá tươi.  \n- 鮮明 (senmei): Rõ ràng, nổi bật.  \n- 鮮や"
+  },
+  "comments": [
+    {
+      "id": "158043",
+      "lang": "vi",
+      "content_html": "<p>cá và dê lúc nào cũng phải ăn tươi mới ngon</p>",
+      "content_text": "cá và dê lúc nào cũng phải ăn tươi mới ngon",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158044",
+      "lang": "vi",
+      "content_html": "<p>cá và dê ăn tươi thì mới lên TIÊN</p>",
+      "content_text": "cá và dê ăn tươi thì mới lên TIÊN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158045",
+      "lang": "vi",
+      "content_html": "<p>CÁ và DÊ muốn tươi sống thì phải ăn trước TIÊN</p>",
+      "content_text": "CÁ và DÊ muốn tươi sống thì phải ăn trước TIÊN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

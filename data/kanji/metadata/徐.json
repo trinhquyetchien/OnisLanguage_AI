@@ -1,0 +1,87 @@
+{
+  "kanji": "徐",
+  "meta": {
+    "weight": 926,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョ"
+    ],
+    "kun": [
+      "おもむ.ろに"
+    ],
+    "am_han": "TỪ"
+  },
+  "meaning": {
+    "vi": "dần dần, từ từ, có chủ ý, nhẹ nhàng",
+    "en": "gradually, slowly, deliberately, gently"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/徐.svg"
+  },
+  "frequency": 1470,
+  "examples": [
+    "徐々に",
+    "徐行"
+  ],
+  "explanation": {
+    "id": "3731",
+    "text": "徐 (đọc là \"jo\") có nghĩa là \"chậm rãi\", \"từ từ\" để chỉ các hành động diễn ra một cách nhẹ nhàng, không gấp gáp.  \nVí dụ:  \n- 徐々に (jojo ni): Dần dần, từ từ.  \n- 徐行 (jokō): Đi chậm, đi từ từ. "
+  },
+  "comments": [
+    {
+      "id": "153471",
+      "lang": "vi",
+      "content_html": "<p>DƯ thời gian nên cứ bước chân TỪ TỪ</p>",
+      "content_text": "DƯ thời gian nên cứ bước chân TỪ TỪ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153472",
+      "lang": "vi",
+      "content_html": "<p>2 đứa trẻ đội nón đi trên đường từ từ dần dần</p>",
+      "content_text": "2 đứa trẻ đội nón đi trên đường từ từ dần dần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153473",
+      "lang": "vi",
+      "content_html": "<p>Xích có dư từ từ rồi trói</p>",
+      "content_text": "Xích có dư từ từ rồi trói",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

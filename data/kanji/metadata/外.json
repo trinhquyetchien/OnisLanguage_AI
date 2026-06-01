@@ -1,0 +1,112 @@
+{
+  "kanji": "外",
+  "meta": {
+    "weight": 618,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガイ",
+      "ゲ"
+    ],
+    "kun": [
+      "そと",
+      "ほか",
+      "はず.す",
+      "はず.れる",
+      "と-"
+    ],
+    "am_han": "NGOẠI"
+  },
+  "meaning": {
+    "vi": "bên ngoài, ngoại thành",
+    "en": "outside"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/外.svg"
+  },
+  "frequency": 81,
+  "examples": [
+    "以外",
+    "外",
+    "外国",
+    "海外",
+    "外交"
+  ],
+  "explanation": {
+    "id": "828",
+    "text": "外 (đọc là \"gai\" hoặc \"soto\") có nghĩa là \"ngoài\", \"bên ngoài\", chỉ ra không gian hoặc vị trí bên ngoài một cái gì đó. \n\nVí dụ:\n- 外国 (gaikoku): Nước ngoài.\n- 外出 (gaishutsu): Ra ngoài, đi ra n"
+  },
+  "comments": [
+    {
+      "id": "513",
+      "lang": "vi",
+      "content_html": "<p>Chúng ta hãy hút thuốc lá tabako（<strong>タ</strong>バコ）ở bên <strong>ngoài</strong>.</p>",
+      "content_text": "Chúng ta hãy hút thuốc lá tabako（\nタ\nバコ）ở bên\nngoài\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62976749b5d62.jpg",
+      "image_path": "assets/images/外_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152718",
+      "lang": "vi",
+      "content_html": "<p>tatoo 夕卜 xuất phát từ ngoại quốc</p>",
+      "content_text": "tatoo 夕卜 xuất phát từ ngoại quốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221798",
+      "lang": "vi",
+      "content_html": "<p>Có một giải thích khá hay (Không được kiểm chứng) là: \"Đi xem <strong>Bói </strong>vào buổi <strong>Tối </strong>là khác với lẽ thường tức <strong>Ngoại </strong>lệ\"&nbsp;<br>(Cuối ngày tinh thần lực không còn nhiều nên bói không còn chuẩn xác - nên đi coi bói sáng sớm nhất là quẻ đầu tiên).&nbsp;</p>",
+      "content_text": "Có một giải thích khá hay (Không được kiểm chứng) là: \"Đi xem\nBói\nvào buổi\nTối\nlà khác với lẽ thường tức\nNgoại\nlệ\"\n(Cuối ngày tinh thần lực không còn nhiều nên bói không còn chuẩn xác - nên đi coi bói sáng sớm nhất là quẻ đầu tiên).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    },
+    {
+      "id": "158350",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>外 (そと): bên ngoài</p><p>外国 (がいこく): nước ngoài<br>外国人 (がいこくじん): người nước ngoài</p>",
+      "content_text": "JLPT N5\n外 (そと): bên ngoài\n外国 (がいこく): nước ngoài\n外国人 (がいこくじん): người nước ngoài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

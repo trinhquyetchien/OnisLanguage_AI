@@ -1,0 +1,68 @@
+{
+  "kanji": "訣",
+  "meta": {
+    "weight": 2461,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケツ"
+    ],
+    "kun": [
+      "わかれ",
+      "わかれ.る"
+    ],
+    "am_han": "QUYẾT"
+  },
+  "meaning": {
+    "vi": "tách biệt, một phần, bí mật",
+    "en": "separation, part, secret"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/訣.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2086",
+    "text": "訣 (đọc là \"ketsu\") có nghĩa là \"kết\" hoặc \"giải pháp\", thường chỉ về sự phân chia hay sự kết thúc một điều gì đó. \n\nVí dụ:\n- 訣別 (ketsubetsu): Chia tay, từ biệt.\n- 訣論 (ketsuron): Kết luận, qu"
+  },
+  "comments": [
+    {
+      "id": "220680",
+      "lang": "vi",
+      "content_html": "<p>Bí quyết nói chuyện với quái vật</p>",
+      "content_text": "Bí quyết nói chuyện với quái vật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220681",
+      "lang": "vi",
+      "content_html": "<p>nói chuyện cần phải có khẩu quyết</p>",
+      "content_text": "nói chuyện cần phải có khẩu quyết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

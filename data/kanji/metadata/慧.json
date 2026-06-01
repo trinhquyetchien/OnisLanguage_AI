@@ -1,0 +1,88 @@
+{
+  "kanji": "慧",
+  "meta": {
+    "weight": 1009,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ",
+      "エ"
+    ],
+    "kun": [
+      "さとい"
+    ],
+    "am_han": "TUỆ"
+  },
+  "meaning": {
+    "vi": "khôn ngoan",
+    "en": "wise"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/慧.svg"
+  },
+  "frequency": 2168,
+  "examples": [
+    "慧",
+    "智慧"
+  ],
+  "explanation": {
+    "id": "1970",
+    "text": "慧 (đọc là \"ke\") có nghĩa là \"trí tuệ\", \"sự thông minh\" để chỉ khả năng tư duy sáng suốt và hiểu biết sâu sắc.\n\nVí dụ:\n- 慧眼 (keigan): Con mắt trí tuệ, khả năng nhận thức tinh tường.\n- 知恵 (chi"
+  },
+  "comments": [
+    {
+      "id": "153691",
+      "lang": "vi",
+      "content_html": "<p>trí Tuệ của E dc 2 ong chủ 2 ong củ 主 dạy bằg cả con tim 心</p>",
+      "content_text": "trí Tuệ của E dc 2 ong chủ 2 ong củ 主 dạy bằg cả con tim 心",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153692",
+      "lang": "vi",
+      "content_html": "<p>2 ông chủ có trí TUỆ là do ăn đầu nhím và tim</p>",
+      "content_text": "2 ông chủ có trí TUỆ là do ăn đầu nhím và tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153693",
+      "lang": "vi",
+      "content_html": "<p>3131ヨ心</p>",
+      "content_text": "3131ヨ心",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

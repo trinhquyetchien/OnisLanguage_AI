@@ -1,0 +1,94 @@
+{
+  "kanji": "金",
+  "meta": {
+    "weight": 2738,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キン",
+      "コン",
+      "ゴン"
+    ],
+    "kun": [
+      "かね",
+      "かな-",
+      "-がね"
+    ],
+    "am_han": "KIM"
+  },
+  "meaning": {
+    "vi": "vàng, hoàng kim",
+    "en": "gold"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/金.svg"
+  },
+  "frequency": 53,
+  "examples": [
+    "金",
+    "お金",
+    "金融",
+    "資金",
+    "年金"
+  ],
+  "explanation": {
+    "id": "1798",
+    "text": "金 (đọc là \"kin\" hoặc \"kana\") có nghĩa là \"vàng\", \"tiền\" hoặc \"kim loại\". Chữ này thường liên quan đến giá trị, tài sản và vật liệu kim loại.\n\nVí dụ:\n- 金曜日 (kin'yōbi): Thứ Sáu.\n- お金 (okane): "
+  },
+  "comments": [
+    {
+      "id": "485",
+      "lang": "vi",
+      "content_html": "<p>Nghe nói dưới núi có <strong>vàng</strong></p>",
+      "content_text": "Nghe nói dưới núi có\nvàng",
+      "image_url": "https://jpdictionary.com/upload/images/629763b8a7b64.jpg",
+      "image_path": "assets/images/金_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191219",
+      "lang": "vi",
+      "content_html": "<p><strong>vàng</strong></p>",
+      "content_text": "vàng",
+      "image_url": "https://jpdictionary.com/upload/images/648add2d04058.jpg",
+      "image_path": "assets/images/金_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158343",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>お金 (おかね): tiền<br>金よう日 (きんようび): Thứ Sáu</p>",
+      "content_text": "JLPT N5\nお金 (おかね): tiền\n金よう日 (きんようび): Thứ Sáu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

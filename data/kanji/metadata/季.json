@@ -1,0 +1,88 @@
+{
+  "kanji": "季",
+  "meta": {
+    "weight": 700,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [],
+    "am_han": "QUÝ"
+  },
+  "meaning": {
+    "vi": "mùa",
+    "en": "seasons"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/季.svg"
+  },
+  "frequency": 842,
+  "examples": [
+    "季節",
+    "四季",
+    "今季",
+    "冬季",
+    "夏季"
+  ],
+  "explanation": {
+    "id": "1349",
+    "text": "季 (đọc là \"ki\") có nghĩa là \"mùa\" để chỉ các khoảng thời gian trong năm.  \nVí dụ:  \n- 季節 (kisetsu): Mùa, mùa vụ.  \n- 季語 (kigo): Từ ngữ mùa, từ vựng liên quan đến mùa.  \n- 季刊 (kikan): Tạp chí"
+  },
+  "comments": [
+    {
+      "id": "152907",
+      "lang": "vi",
+      "content_html": "<p>cây LÚA CON chỉ sống đc 1 QUÝ thôi...</p>",
+      "content_text": "cây LÚA CON chỉ sống đc 1 QUÝ thôi...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152908",
+      "lang": "vi",
+      "content_html": "<p>Bé Hoà rất QUÝ bốn mùa.</p>",
+      "content_text": "Bé Hoà rất QUÝ bốn mùa.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152909",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: thằng Con (子) đội Lúa (禾) lên đầu để chuyển đi<br>==&#62; là đang giúp mẹ trong Mùa gặt (季)<br>..性..</p>",
+      "content_text": "Góc Nhìn: thằng Con (子) đội Lúa (禾) lên đầu để chuyển đi\n==> là đang giúp mẹ trong Mùa gặt (季)\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

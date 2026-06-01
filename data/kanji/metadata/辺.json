@@ -1,0 +1,92 @@
+{
+  "kanji": "辺",
+  "meta": {
+    "weight": 2631,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘン"
+    ],
+    "kun": [
+      "あた.り",
+      "ほと.り",
+      "-べ"
+    ],
+    "am_han": "BIÊN"
+  },
+  "meaning": {
+    "vi": "biên giới",
+    "en": "environs, boundary, border, vicinity"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/辺.svg"
+  },
+  "frequency": 428,
+  "examples": [
+    "周辺",
+    "辺",
+    "辺り",
+    "この辺",
+    "近辺"
+  ],
+  "explanation": {
+    "id": "7061",
+    "text": "辺 (đọc là \"hen\") có nghĩa là \"biên giới\", \"khu vực\" hoặc chỉ vị trí xung quanh. \nVí dụ:\n- 辺り (atari): Khu vực, xung quanh.\n- 隣辺 (rinben): Bên cạnh, lân cận.\n- 辺境 (henkyou): Biên giới, vùng h"
+  },
+  "comments": [
+    {
+      "id": "157268",
+      "lang": "vi",
+      "content_html": "<p>đi qua đường BIÊN   giới sẻ ăn đao</p>",
+      "content_text": "đi qua đường BIÊN   giới sẻ ăn đao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157269",
+      "lang": "vi",
+      "content_html": "<p>cầm Đao đi xa (Sước) đến vùng Biên giữ đất nước</p>",
+      "content_text": "cầm Đao đi xa (Sước) đến vùng Biên giữ đất nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157270",
+      "lang": "vi",
+      "content_html": "<p>lính gác cầm đao đứng canh biên giới</p>",
+      "content_text": "lính gác cầm đao đứng canh biên giới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "鏡",
+  "meta": {
+    "weight": 2794,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ",
+      "ケイ"
+    ],
+    "kun": [
+      "かがみ"
+    ],
+    "am_han": "KÍNH"
+  },
+  "meaning": {
+    "vi": "gương, mỏ vịt, đầu thùng, bánh gạo hình tròn",
+    "en": "mirror, speculum, barrel-head, round rice-cake offering"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/鏡.svg"
+  },
+  "frequency": 1506,
+  "examples": [
+    "鏡",
+    "眼鏡",
+    "望遠鏡",
+    "顕微鏡",
+    "双眼鏡"
+  ],
+  "explanation": {
+    "id": "1702",
+    "text": "鏡 (đọc là \"kyō\" hoặc \"kagami\") có nghĩa là \"gương\" để chỉ các vật dụng phản chiếu hình ảnh, thường được sử dụng trong cuộc sống hàng ngày và văn hóa.  \nVí dụ:  \n- 鏡台 (kyōdai): Bàn trang điểm"
+  },
+  "comments": [
+    {
+      "id": "157613",
+      "lang": "vi",
+      "content_html": "<p>đứng nhìn mình trc một tấm kim loại được gọi là gương</p>",
+      "content_text": "đứng nhìn mình trc một tấm kim loại được gọi là gương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157614",
+      "lang": "vi",
+      "content_html": "<p>Vật bằng kim loại mà có thể nhìn thấy mình đứng trong đó là GƯƠNG</p>",
+      "content_text": "Vật bằng kim loại mà có thể nhìn thấy mình đứng trong đó là GƯƠNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157615",
+      "lang": "vi",
+      "content_html": "<p>Một người đang đứng nhìn cái kính được dát vàng</p>",
+      "content_text": "Một người đang đứng nhìn cái kính được dát vàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

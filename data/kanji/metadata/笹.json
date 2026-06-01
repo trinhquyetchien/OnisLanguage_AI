@@ -1,0 +1,84 @@
+{
+  "kanji": "笹",
+  "meta": {
+    "weight": 1989,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "ささ"
+    ],
+    "am_han": "THẾ"
+  },
+  "meaning": {
+    "vi": "cỏ tre, (kokuji)",
+    "en": "bamboo grass, (kokuji)"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/笹.svg"
+  },
+  "frequency": 1743,
+  "examples": [
+    "笹"
+  ],
+  "explanation": {
+    "id": "2922",
+    "text": "笹 (đọc là \"sasa\") có nghĩa là \"trúc nhỏ\" hoặc \"cỏ trúc\", chỉ các loại cây bụi giống như trúc thường thấy trong tự nhiên ở Nhật Bản. \n\nVí dụ:\n- 笹舟 (sasabune): Thuyền làm từ lá trúc, thường đư"
+  },
+  "comments": [
+    {
+      "id": "155867",
+      "lang": "vi",
+      "content_html": "<p>Trúc trên thế giới có khi gọi là Tre</p>",
+      "content_text": "Trúc trên thế giới có khi gọi là Tre",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155868",
+      "lang": "vi",
+      "content_html": "<p>Bánh chưng được thế giới gói bằng lá trúc</p>",
+      "content_text": "Bánh chưng được thế giới gói bằng lá trúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155869",
+      "lang": "vi",
+      "content_html": "<p>chữ thế</p>",
+      "content_text": "chữ thế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

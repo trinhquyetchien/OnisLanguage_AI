@@ -1,0 +1,87 @@
+{
+  "kanji": "蛍",
+  "meta": {
+    "weight": 2379,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "ほたる"
+    ],
+    "am_han": "HUỲNH"
+  },
+  "meaning": {
+    "vi": "bọ sét, đom đóm",
+    "en": "lightning-bug, firefly"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/蛍.svg"
+  },
+  "frequency": 2031,
+  "examples": [
+    "蛍光",
+    "蛍"
+  ],
+  "explanation": {
+    "id": "2019",
+    "text": "蛍 (đọc là \"hotaru\") có nghĩa là \"đom đóm\", một loại côn trùng phát sáng vào ban đêm. \nVí dụ:\n- 蛍光 (keikou): Phát quang, ánh sáng huỳnh quang.\n- 蛍火 (hotarubi): Ánh sáng đom đóm.\n- 蛍狩り (hotaru"
+  },
+  "comments": [
+    {
+      "id": "156670",
+      "lang": "vi",
+      "content_html": "<p>Côn trùng phát ra 3 tia sáng: đom đóm</p>",
+      "content_text": "Côn trùng phát ra 3 tia sáng: đom đóm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156672",
+      "lang": "vi",
+      "content_html": "<p>Côn trùng phát sáng là ĐOM ĐÓM</p>",
+      "content_text": "Côn trùng phát sáng là ĐOM ĐÓM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156671",
+      "lang": "vi",
+      "content_html": "<p>Mấy con CÔN TRÙNG thì thích bu vào đèn HUỲNH QUANG</p>",
+      "content_text": "Mấy con CÔN TRÙNG thì thích bu vào đèn HUỲNH QUANG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

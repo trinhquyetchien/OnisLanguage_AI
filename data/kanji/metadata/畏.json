@@ -1,0 +1,91 @@
+{
+  "kanji": "畏",
+  "meta": {
+    "weight": 1781,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "おそ.れる",
+      "かしこま.る",
+      "かしこ",
+      "かしこ.し"
+    ],
+    "am_han": "ÚY"
+  },
+  "meaning": {
+    "vi": "sợ hãi, hùng vĩ, ân cần, e ngại",
+    "en": "fear, majestic, graciously, be apprehensive"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/畏.svg"
+  },
+  "frequency": 2389,
+  "examples": [
+    "畏敬",
+    "畏怖",
+    "畏れ"
+  ],
+  "explanation": {
+    "id": "158",
+    "text": "畏 (đọc là \"i\") có nghĩa là \"sợ hãi\", \"tôn kính\" để chỉ cảm giác kính trọng hoặc sợ hãi đối với điều gì đó lớn lao hoặc thiêng liêng.\n\nVí dụ:\n- 畏れ (ore): Sự tôn kính, sự sợ hãi.\n- 畏縮 (ishuku)"
+  },
+  "comments": [
+    {
+      "id": "155414",
+      "lang": "vi",
+      "content_html": "<p>đại Úy ra đồng (ĐIỀN) thì thấy bộ y (衣) phục mất đầu nên sợ hãi</p>",
+      "content_text": "đại Úy ra đồng (ĐIỀN) thì thấy bộ y (衣) phục mất đầu nên sợ hãi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155415",
+      "lang": "vi",
+      "content_html": "<p>Ông uý sợ hải khi đi trên cánh đồng toàn chân người</p>",
+      "content_text": "Ông uý sợ hải khi đi trên cánh đồng toàn chân người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155416",
+      "lang": "vi",
+      "content_html": "<p>かしこまりました</p>",
+      "content_text": "かしこまりました",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

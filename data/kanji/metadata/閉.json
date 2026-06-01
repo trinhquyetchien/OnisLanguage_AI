@@ -1,0 +1,111 @@
+{
+  "kanji": "閉",
+  "meta": {
+    "weight": 2803,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘイ"
+    ],
+    "kun": [
+      "と.じる",
+      "と.ざす",
+      "し.める",
+      "し.まる",
+      "た.てる"
+    ],
+    "am_han": "BẾ"
+  },
+  "meaning": {
+    "vi": "đóng, bế mạc",
+    "en": "closed, shut"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/閉.svg"
+  },
+  "frequency": 951,
+  "examples": [
+    "閉鎖",
+    "閉店",
+    "自閉症",
+    "閉じる",
+    "閉会"
+  ],
+  "explanation": {
+    "id": "7014",
+    "text": "閉 (đọc là \"hei\" hoặc \"toji\") có nghĩa là \"đóng\", chỉ hành động khép lại hoặc làm cho cái gì đó không còn mở.  \nVí dụ:  \n- 閉じる (tojiru): Đóng lại, khép lại.  \n- 閉館 (heikan): Đóng cửa (nhà ga,"
+  },
+  "comments": [
+    {
+      "id": "36842",
+      "lang": "vi",
+      "content_html": "<p>Một người <strong>đóng </strong>cổng (門)</p>",
+      "content_text": "Một người\nđóng\ncổng (門)",
+      "image_url": "https://jpdictionary.com/upload/images/62ac7d72747e8.jpg",
+      "image_path": "assets/images/閉_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157626",
+      "lang": "vi",
+      "content_html": "<p>Đóng CỬA(MÔN) BẾ (ĐÓNG) quan luyện công mới thành TÀI</p>",
+      "content_text": "Đóng CỬA(MÔN) BẾ (ĐÓNG) quan luyện công mới thành TÀI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157627",
+      "lang": "vi",
+      "content_html": "<p>ô, cửa đóng mất rồi</p>",
+      "content_text": "ô, cửa đóng mất rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157628",
+      "lang": "vi",
+      "content_html": "<p>ĐÓNG cổng rồi thì mở ô (オ) ra còn đi về</p>",
+      "content_text": "ĐÓNG cổng rồi thì mở ô (オ) ra còn đi về",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

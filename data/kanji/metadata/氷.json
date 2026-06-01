@@ -1,0 +1,92 @@
+{
+  "kanji": "氷",
+  "meta": {
+    "weight": 1481,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒョウ"
+    ],
+    "kun": [
+      "こおり",
+      "ひ",
+      "こお.る"
+    ],
+    "am_han": "BĂNG"
+  },
+  "meaning": {
+    "vi": "băng",
+    "en": "icicle, ice, hail, freeze, congeal"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/氷.svg"
+  },
+  "frequency": 1450,
+  "examples": [
+    "氷",
+    "氷河",
+    "氷山",
+    "流氷",
+    "氷点下"
+  ],
+  "explanation": {
+    "id": "6703",
+    "text": "氷 (đọc là \"hyo\") có nghĩa là \"băng\" để chỉ trạng thái của nước khi đông lại, hoặc các vật thể có liên quan đến băng.  \nVí dụ:  \n- 氷山 (hyōzan): Núi băng.  \n- 氷点 (hyōten): Điểm đóng băng.  \n- "
+  },
+  "comments": [
+    {
+      "id": "154754",
+      "lang": "vi",
+      "content_html": "<p>Thêm 1 giọt bên trái Nước sẽ đóng thành BĂNG</p>",
+      "content_text": "Thêm 1 giọt bên trái Nước sẽ đóng thành BĂNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154755",
+      "lang": "vi",
+      "content_html": "<p>nước đã đóng băng thành cục</p>",
+      "content_text": "nước đã đóng băng thành cục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154756",
+      "lang": "vi",
+      "content_html": "<p>BĂNG (氷) là một cục (`) nước (水) đá。</p>",
+      "content_text": "BĂNG (氷) là một cục (`) nước (水) đá。",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

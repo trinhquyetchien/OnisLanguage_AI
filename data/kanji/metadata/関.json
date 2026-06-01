@@ -1,0 +1,111 @@
+{
+  "kanji": "関",
+  "meta": {
+    "weight": 2808,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "せき",
+      "-ぜき",
+      "かか.わる",
+      "からくり",
+      "かんぬき"
+    ],
+    "am_han": "QUAN"
+  },
+  "meaning": {
+    "vi": "quan hệ",
+    "en": "connection, barrier, gateway, involve, concerning"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/関.svg"
+  },
+  "frequency": 70,
+  "examples": [
+    "関係",
+    "関連",
+    "機関",
+    "に関して",
+    "関心"
+  ],
+  "explanation": {
+    "id": "1194",
+    "text": "関 (đọc là \"kan\" hoặc \"seki\") có nghĩa là \"quan hệ\", \"mối liên hệ\", hoặc \"cửa ải\" để chỉ sự kết nối giữa các đối tượng hoặc một điểm kiểm soát.  \nVí dụ:  \n- 関係 (kankei): Mối quan hệ, liên hệ."
+  },
+  "comments": [
+    {
+      "id": "37145",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã mang quà tặng đến tận cổng (門) để tạo mối <strong>quan hệ</strong> tốt.</p>",
+      "content_text": "Tôi đã mang quà tặng đến tận cổng (門) để tạo mối\nquan hệ\ntốt.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdbad79a4cc.jpg",
+      "image_path": "assets/images/関_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157638",
+      "lang": "vi",
+      "content_html": "<p>ĐÓNG (关) CỬA (門) không QUAN (関) hệ với bên ngoài</p>",
+      "content_text": "ĐÓNG (关) CỬA (門) không QUAN (関) hệ với bên ngoài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157639",
+      "lang": "vi",
+      "content_html": "<p>Hai người lính canh cửa Thiên Môn tránh khỏi những việc không liên QUAN.</p>",
+      "content_text": "Hai người lính canh cửa Thiên Môn tránh khỏi những việc không liên QUAN.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157640",
+      "lang": "vi",
+      "content_html": "<p>Cổng Trời là nơi để tạo mối Quan hệ</p>",
+      "content_text": "Cổng Trời là nơi để tạo mối Quan hệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

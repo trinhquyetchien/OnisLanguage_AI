@@ -1,0 +1,90 @@
+{
+  "kanji": "鼓",
+  "meta": {
+    "weight": 3031,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "つづみ"
+    ],
+    "am_han": "CỔ"
+  },
+  "meaning": {
+    "vi": "trống, nhịp, rouse, tập hợp",
+    "en": "drum, beat, rouse, muster"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/鼓.svg"
+  },
+  "frequency": 1795,
+  "examples": [
+    "太鼓",
+    "鼓動",
+    "鼓",
+    "鼓舞",
+    "舌鼓"
+  ],
+  "explanation": {
+    "id": "2314",
+    "text": "鼓 (đọc là \"ko\") có nghĩa là \"cái trống\" hoặc \"gõ trống\", thường liên quan đến âm thanh và nhịp điệu.  \nVí dụ:  \n- 鼓動 (kodō): Nhịp đập (tim).  \n- 太鼓 (taiko): Trống lớn, nhạc cụ truyền thống N"
+  },
+  "comments": [
+    {
+      "id": "158114",
+      "lang": "vi",
+      "content_html": "<p>CHI 支 10 十 HẠT ĐẬU 豆 để mua cái TRỐNG 鼓 CỔ</p>",
+      "content_text": "CHI 支 10 十 HẠT ĐẬU 豆 để mua cái TRỐNG 鼓 CỔ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158115",
+      "lang": "vi",
+      "content_html": "<p>kẻ sĩ ăn Đậu cầm Chi đánh trống</p>",
+      "content_text": "kẻ sĩ ăn Đậu cầm Chi đánh trống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158116",
+      "lang": "vi",
+      "content_html": "<p>anh Sĩ (士)mở Chi (支) nhánh bán Đậu (豆)Cổ truyền.</p>",
+      "content_text": "anh Sĩ (士)mở Chi (支) nhánh bán Đậu (豆)Cổ truyền.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

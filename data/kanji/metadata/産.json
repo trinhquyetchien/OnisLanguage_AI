@@ -1,0 +1,110 @@
+{
+  "kanji": "産",
+  "meta": {
+    "weight": 1769,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン"
+    ],
+    "kun": [
+      "う.む",
+      "う.まれる",
+      "うぶ-",
+      "む.す"
+    ],
+    "am_han": "SẢN"
+  },
+  "meaning": {
+    "vi": "sản xuất, sinh sản",
+    "en": "products, bear, give birth, yield, childbirth, native, property"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/産.svg"
+  },
+  "frequency": 161,
+  "examples": [
+    "生産",
+    "産業",
+    "資産",
+    "財産",
+    "不動産"
+  ],
+  "explanation": {
+    "id": "3006",
+    "text": "産 (đọc là \"san\") có nghĩa là \"sản xuất\", \"sinh ra\" hoặc \"sinh lợi\". Chữ này thường liên quan đến việc tạo ra hoặc cung cấp thứ gì đó.\n\nVí dụ:\n- 産業 (sangyō): Ngành công nghiệp.\n- 出産 (shussan)"
+  },
+  "comments": [
+    {
+      "id": "36873",
+      "lang": "vi",
+      "content_html": "<p>Tôi <strong>sản xuất </strong>rau tươi (生)</p>",
+      "content_text": "Tôi\nsản xuất\nrau tươi (生)",
+      "image_url": "https://jpdictionary.com/upload/images/62adddaac39be.jpg",
+      "image_path": "assets/images/産_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155381",
+      "lang": "vi",
+      "content_html": "<p>Một người đứng bên vách núi sinh con</p>",
+      "content_text": "Một người đứng bên vách núi sinh con",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155382",
+      "lang": "vi",
+      "content_html": "<p>ĐỨNG vững với SẢN NGHIỆP của người SINH ra mình để lại</p>",
+      "content_text": "ĐỨNG vững với SẢN NGHIỆP của người SINH ra mình để lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158934",
+      "lang": "vi",
+      "content_html": "<p>産地(さんち): Nơi sản xuất</p><p>お土産(おみやげ): Quà lưu niệm</p>",
+      "content_text": "産地(さんち): Nơi sản xuất\nお土産(おみやげ): Quà lưu niệm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

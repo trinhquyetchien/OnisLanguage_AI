@@ -1,0 +1,39 @@
+{
+  "kanji": "幡",
+  "meta": {
+    "weight": 846,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マン",
+      "ハン",
+      "バン",
+      "ホン"
+    ],
+    "kun": [
+      "はた"
+    ],
+    "am_han": "PHIÊN"
+  },
+  "meaning": {
+    "vi": "lá cờ",
+    "en": "flag"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/幡.svg"
+  },
+  "frequency": 1948,
+  "examples": [
+    "八幡",
+    "幡",
+    "八幡宮"
+  ],
+  "explanation": {
+    "id": "6386",
+    "text": "幡 (đọc là \"han\") có nghĩa là \"cờ\" hoặc \"lá cờ\", thường chỉ đến những lá cờ, băng rôn trong các nghi lễ hay sự kiện. \n\nVí dụ:\n- 幡旗 (hankai): Cờ lễ, lá cờ dùng trong các nghi thức.\n- 幡巻き (hanm"
+  },
+  "comments": []
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "淡",
+  "meta": {
+    "weight": 1559,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "あわ.い"
+    ],
+    "am_han": "ĐẠM"
+  },
+  "meaning": {
+    "vi": "mỏng, mờ nhạt, nhợt nhạt, thoáng qua",
+    "en": "thin, faint, pale, fleeting"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/淡.svg"
+  },
+  "frequency": 1436,
+  "examples": [
+    "淡路",
+    "淡々",
+    "淡い",
+    "淡水",
+    "冷淡"
+  ],
+  "explanation": {
+    "id": "5134",
+    "text": "淡 (đọc là \"tan\") có nghĩa là \"nhạt\", \"mờ\", chỉ sự nhẹ nhàng, không đậm đặc hoặc rõ ràng. \n\nVí dụ:\n- 淡水 (tansui): Nước ngọt.\n- 淡い (awai): Nhạt, mờ nhạt.\n- 淡泊 (tanpaku): Thanh đạm, đơn giản, k"
+  },
+  "comments": [
+    {
+      "id": "154939",
+      "lang": "vi",
+      "content_html": "<p>Đang bốc cháy mà vảy nước vào thì điềm đạm khỏi lo</p>",
+      "content_text": "Đang bốc cháy mà vảy nước vào thì điềm đạm khỏi lo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154940",
+      "lang": "vi",
+      "content_html": "<p>Cháy lớn mà gặp nước là điềm đạm lại ngay</p>",
+      "content_text": "Cháy lớn mà gặp nước là điềm đạm lại ngay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154941",
+      "lang": "vi",
+      "content_html": "<p>đổ nước vào lửa cho nhạt đi</p>",
+      "content_text": "đổ nước vào lửa cho nhạt đi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

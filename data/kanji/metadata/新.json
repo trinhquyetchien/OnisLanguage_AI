@@ -1,0 +1,76 @@
+{
+  "kanji": "新",
+  "meta": {
+    "weight": 1200,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "あたら.しい",
+      "あら.た",
+      "あら-",
+      "にい-"
+    ],
+    "am_han": "TÂN"
+  },
+  "meaning": {
+    "vi": "mới, cách tân",
+    "en": "new"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/新.svg"
+  },
+  "frequency": 51,
+  "examples": [
+    "新しい",
+    "新",
+    "新聞",
+    "更新",
+    "新た"
+  ],
+  "explanation": {
+    "id": "4079",
+    "text": "新 (đọc là \"shin\" hoặc \"atarashi\") có nghĩa là \"mới\", chỉ sự mới mẻ, đổi mới hoặc sự ra đời của cái gì đó.  \nVí dụ:  \n- 新聞 (shinbun): Báo, tin tức mới.  \n- 新しい (atarashii): Mới mẻ, hiện đại. "
+  },
+  "comments": [
+    {
+      "id": "580",
+      "lang": "vi",
+      "content_html": "<p>Để bắt đầu điều <strong>mới</strong>, ta đứng (立) lên, đốn cây (木) mở đường bằng rìu.</p>",
+      "content_text": "Để bắt đầu điều\nmới\n, ta đứng (立) lên, đốn cây (木) mở đường bằng rìu.",
+      "image_url": "https://jpdictionary.com/upload/images/62978127ed322.jpg",
+      "image_path": "assets/images/新_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 1,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158271",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>新しい (あたらしい): mới<br>新聞 (しんぶん): báo<br>新聞社 (しんぶんしゃ): tòa báo<br>新幹線 (しんかんせん): tàu shinkansen</p>",
+      "content_text": "JLPT N4\n新しい (あたらしい): mới\n新聞 (しんぶん): báo\n新聞社 (しんぶんしゃ): tòa báo\n新幹線 (しんかんせん): tàu shinkansen",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

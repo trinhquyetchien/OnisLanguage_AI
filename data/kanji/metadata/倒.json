@@ -1,0 +1,112 @@
+{
+  "kanji": "倒",
+  "meta": {
+    "weight": 211,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "たお.れる",
+      "-だお.れ",
+      "たお.す",
+      "さかさま",
+      "さかさ",
+      "さかしま"
+    ],
+    "am_han": "ĐẢO"
+  },
+  "meaning": {
+    "vi": "đổ, đảo lộn",
+    "en": "overthrow, fall, collapse, drop, break down"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/倒.svg"
+  },
+  "frequency": 791,
+  "examples": [
+    "面倒",
+    "圧倒的",
+    "倒れ",
+    "倒産",
+    "圧倒"
+  ],
+  "explanation": {
+    "id": "5760",
+    "text": "倒 (đọc là \"とう\" - \"tao\") có nghĩa là \"lật đổ\", \"ngã\", hoặc \"đảo ngược\". Từ này thường chỉ các hành động liên quan đến việc làm cho một cái gì đó bị ngã hoặc thay đổi vị trí.\n\nVí dụ:\n- 倒れる (ta"
+  },
+  "comments": [
+    {
+      "id": "151720",
+      "lang": "vi",
+      "content_html": "<p>Người mà CHÍ k đạt đc như mong muốn thường dùng DAO để ĐẢO chính, lật đổ</p>",
+      "content_text": "Người mà CHÍ k đạt đc như mong muốn thường dùng DAO để ĐẢO chính, lật đổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190683",
+      "lang": "vi",
+      "content_html": "<p>Người có ý chí mang đao làm thế giới đảo lộn</p>",
+      "content_text": "Người có ý chí mang đao làm thế giới đảo lộn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "151721",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI ra đi để mình tôi ở lại , mảnh TƯƠNG TƯ còn vương trên ĐẤT , ĐAO kiếm trong tay nhưng lòng còn CHAO ĐẢO , NGÃ QUỴ</p>",
+      "content_text": "NGƯỜI ra đi để mình tôi ở lại , mảnh TƯƠNG TƯ còn vương trên ĐẤT , ĐAO kiếm trong tay nhưng lòng còn CHAO ĐẢO , NGÃ QUỴ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151722",
+      "lang": "vi",
+      "content_html": "<p>làm (nhân) mà không chu (đáo) với người khác thì dễ bị (đảo) đổ.</p>",
+      "content_text": "làm (nhân) mà không chu (đáo) với người khác thì dễ bị (đảo) đổ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

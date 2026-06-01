@@ -1,0 +1,108 @@
+{
+  "kanji": "今",
+  "meta": {
+    "weight": 135,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン",
+      "キン"
+    ],
+    "kun": [
+      "いま"
+    ],
+    "am_han": "KIM"
+  },
+  "meaning": {
+    "vi": "bây giờ, đương kim",
+    "en": "now"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/今.svg"
+  },
+  "frequency": 49,
+  "examples": [
+    "今",
+    "今日",
+    "今回",
+    "今後",
+    "今年"
+  ],
+  "explanation": {
+    "id": "2679",
+    "text": "今 (đọc là \"ima\") có nghĩa là \"bây giờ\", \"hiện tại\", chỉ thời điểm hiện tại hoặc điều gì đó đang diễn ra ngay lúc này.\nVí dụ:\n- 今 (ima): Bây giờ, hiện tại.\n- 今週 (konshū): Tuần này.\n- 今晩 (konb"
+  },
+  "comments": [
+    {
+      "id": "495",
+      "lang": "vi",
+      "content_html": "<p><strong>&nbsp;Bây giờ</strong> bạn đang làm gì? Tôi đang ở nhà hát la la la</p>",
+      "content_text": "Bây giờ\nbạn đang làm gì? Tôi đang ở nhà hát la la la",
+      "image_url": "https://jpdictionary.com/upload/images/629764adb0caa.jpg",
+      "image_path": "assets/images/今_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151526",
+      "lang": "vi",
+      "content_html": "<p>Người 人 nhìn đồng hồ chỉ ra(kata) bây giờ 今 là mấy giờ</p>",
+      "content_text": "Người 人 nhìn đồng hồ chỉ ra(kata) bây giờ 今 là mấy giờ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158342",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>今 (いま): bây giờ<br>今日 (きょう): hôm nay<br>今朝 (けさ): sáng nay<br>今年 (ことし): năm nay<br>今月 (こんげつ): tháng này<br>今週 (こんしゅう): tuần này<br>今晩 (こんばん): tối nay</p>",
+      "content_text": "JLPT N5\n今 (いま): bây giờ\n今日 (きょう): hôm nay\n今朝 (けさ): sáng nay\n今年 (ことし): năm nay\n今月 (こんげつ): tháng này\n今週 (こんしゅう): tuần này\n今晩 (こんばん): tối nay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221910",
+      "lang": "vi",
+      "content_html": "<p>今 - KIM (いま): bây giờ</p><p>今日 - KIM NHẬT (きょう): hôm nay</p><p>今朝 - KIM TRIỀU (けさ): sáng nay</p><p>今晩 - KIM VÃN (こんばん): tối nay</p><p>今週 - KIM CHU (こんしゅう): tuần này</p><p>今月 - KIM NGUYỆT (こんげつ): tháng này</p><p>今年 - KIM NIÊN (ことし): năm nay</p>",
+      "content_text": "今 - KIM (いま): bây giờ\n今日 - KIM NHẬT (きょう): hôm nay\n今朝 - KIM TRIỀU (けさ): sáng nay\n今晩 - KIM VÃN (こんばん): tối nay\n今週 - KIM CHU (こんしゅう): tuần này\n今月 - KIM NGUYỆT (こんげつ): tháng này\n今年 - KIM NIÊN (ことし): năm nay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5167",
+        "name": "v v",
+        "image_url": "https://jpdictionary.com/upload/images/681ca46917089.jpg"
+      }
+    }
+  ]
+}

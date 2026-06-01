@@ -1,0 +1,90 @@
+{
+  "kanji": "奏",
+  "meta": {
+    "weight": 634,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "かな.でる"
+    ],
+    "am_han": "TẤU"
+  },
+  "meaning": {
+    "vi": "chơi nhạc, nói chuyện với người cai trị, hoàn thành",
+    "en": "play music, speak to a ruler, complete"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/奏.svg"
+  },
+  "frequency": 1067,
+  "examples": [
+    "演奏",
+    "奏者",
+    "伴奏",
+    "協奏曲",
+    "吹奏楽"
+  ],
+  "explanation": {
+    "id": "4686",
+    "text": "奏 (đọc là \"sō\") có nghĩa là \"thực hiện\", \"trình bày\" để chỉ các hành động liên quan đến việc biểu diễn âm nhạc hoặc thực hiện một tác phẩm nghệ thuật.\n\nVí dụ:\n- 奏楽 (sōgaku): Biểu diễn âm nhạ"
+  },
+  "comments": [
+    {
+      "id": "152757",
+      "lang": "vi",
+      "content_html": "<p>Ba người lên Thiên đình dâng TẤU</p>",
+      "content_text": "Ba người lên Thiên đình dâng TẤU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152758",
+      "lang": "vi",
+      "content_html": "<p>3 người tấu hài ở trên Thiên đình</p>",
+      "content_text": "3 người tấu hài ở trên Thiên đình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152759",
+      "lang": "vi",
+      "content_html": "<p>3 người ( nhiều) hội tụ giữa trời xem tấu</p>",
+      "content_text": "3 người ( nhiều) hội tụ giữa trời xem tấu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

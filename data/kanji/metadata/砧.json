@@ -1,0 +1,32 @@
+{
+  "kanji": "砧",
+  "meta": {
+    "weight": 1870,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チン"
+    ],
+    "kun": [
+      "きぬた"
+    ],
+    "am_han": "CHÂM"
+  },
+  "meaning": {
+    "vi": "khối đầy",
+    "en": "fulling block"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/砧.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1475",
+    "text": "砧 (đọc là \"chin\") có nghĩa là \"cái chày\" hoặc \"đáy của nồi\", thường liên quan đến các dụng cụ nấu ăn hoặc chế biến thực phẩm.\n\nVí dụ:\n- 砧木 (chinboku): Khối gỗ dùng để chặt hoặc đập thức ăn.\n"
+  },
+  "comments": []
+}

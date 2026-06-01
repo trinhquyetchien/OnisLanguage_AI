@@ -1,0 +1,67 @@
+{
+  "kanji": "肋",
+  "meta": {
+    "weight": 2166,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロク"
+    ],
+    "kun": [
+      "あばら"
+    ],
+    "am_han": "LẶC"
+  },
+  "meaning": {
+    "vi": "xương sườn",
+    "en": "rib"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/肋.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8373",
+    "text": "肋 (đọc là \"ろく\", \"あばら\") có nghĩa là \"sườn\" để chỉ các xương sườn trong cơ thể.\n\nVí dụ:\n- 肋骨 (ろっこつ, rokkotsu): Xương sườn.\n- 肋膜 (ろくまく, rokumaku): Màng phổi.\n- 肋筋 (ろくきん, rokukin): Cơ sườn."
+  },
+  "comments": [
+    {
+      "id": "220430",
+      "lang": "vi",
+      "content_html": "<p>chị Nguyệt nhờ anh Lực nắm Xương Sườn</p>",
+      "content_text": "chị Nguyệt nhờ anh Lực nắm Xương Sườn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220431",
+      "lang": "vi",
+      "content_html": "<p>Lặc danh thế Lực xấu đánh gãy xương sườn chị Nguyệt.</p>",
+      "content_text": "Lặc danh thế Lực xấu đánh gãy xương sườn chị Nguyệt.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "kanji": "戯",
+  "meta": {
+    "weight": 1037,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギ",
+      "ゲ"
+    ],
+    "kun": [
+      "たわむ.れる",
+      "ざ.れる",
+      "じゃ.れる"
+    ],
+    "am_han": "HÍ, HÝ, HÉ, NGHÍ"
+  },
+  "meaning": {
+    "vi": "vui đùa, chơi, thể thao",
+    "en": "frolic, play, sport"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/戯.svg"
+  },
+  "frequency": 1880,
+  "examples": [
+    "戯言",
+    "戯曲",
+    "遊戯",
+    "悪戯",
+    "戯れ"
+  ],
+  "explanation": {
+    "id": "1415",
+    "text": "戯 (đọc là \"gi\") có nghĩa là \"diễn kịch\", \"trò chơi\" để chỉ các hoạt động vui nhộn, giải trí hoặc nghệ thuật biểu diễn.  \nVí dụ:  \n- 戯曲 (gikyoku): Kịch bản, vở kịch.  \n- 戯れる (tagireru): Chơi "
+  },
+  "comments": [
+    {
+      "id": "153757",
+      "lang": "vi",
+      "content_html": "<p>虍 ( hô ) vằn hổ<br>虚 ( hư ) hư danh 虚名 . Hư vô 虚無 ...<br>戯れ ( hí ) trò đùa...<br>Ngày xưa vằn hổ như 1 thứ vô danh nên chỉ biết qua những trò đùa nghịch ngợm ác HÍ của trẻ con</p>",
+      "content_text": "虍 ( hô ) vằn hổ\n虚 ( hư ) hư danh 虚名 . Hư vô 虚無 ...\n戯れ ( hí ) trò đùa...\nNgày xưa vằn hổ như 1 thứ vô danh nên chỉ biết qua những trò đùa nghịch ngợm ác HÍ của trẻ con",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153758",
+      "lang": "vi",
+      "content_html": "<p>Dùng cây mác HƯ cấu đánh nhau cười hi hí...</p>",
+      "content_text": "Dùng cây mác HƯ cấu đánh nhau cười hi hí...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153759",
+      "lang": "vi",
+      "content_html": "<p>7 đứa trẻ xếp hàng dùng cây qua đánh trận giả hú hí trong nhà</p>",
+      "content_text": "7 đứa trẻ xếp hàng dùng cây qua đánh trận giả hú hí trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

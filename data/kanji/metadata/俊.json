@@ -1,0 +1,87 @@
+{
+  "kanji": "俊",
+  "meta": {
+    "weight": 198,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュン"
+    ],
+    "kun": [],
+    "am_han": "TUẤN"
+  },
+  "meaning": {
+    "vi": "sagacious, thiên tài, xuất sắc",
+    "en": "sagacious, genius, excellence"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/俊.svg"
+  },
+  "frequency": 1007,
+  "examples": [
+    "俊",
+    "俊彦",
+    "俊英",
+    "俊敏"
+  ],
+  "explanation": {
+    "id": "3617",
+    "text": "俊 (đọc là \"shun\") có nghĩa là \"thông minh\", \"tài giỏi\", thường chỉ những người có năng lực xuất sắc hoặc trí tuệ vượt trội.  \nVí dụ:  \n- 俊才 (shunsai): Tài năng xuất chúng, người tài giỏi.  \n"
+  },
+  "comments": [
+    {
+      "id": "151683",
+      "lang": "vi",
+      "content_html": "<p>俊= 亻 + 允 + 夂 = nhân + duẫn ( thật thà) + truy ( theo sau)<br>Tuấn tú thì luôn có người thật lòng đi theo</p>",
+      "content_text": "俊= 亻 + 允 + 夂 = nhân + duẫn ( thật thà) + truy ( theo sau)\nTuấn tú thì luôn có người thật lòng đi theo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151684",
+      "lang": "vi",
+      "content_html": "<p>Thằng TUẤN con ô Tư hay chạy đi chạy lại bây giờ GIỎI lắm</p>",
+      "content_text": "Thằng TUẤN con ô Tư hay chạy đi chạy lại bây giờ GIỎI lắm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151685",
+      "lang": "vi",
+      "content_html": "<p>là người TUẤN kiệt (俊) , thì dù có gian TRUY(夂) vẫn luôn thành thật(DUẪN)(允)</p>",
+      "content_text": "là người TUẤN kiệt (俊) , thì dù có gian TRUY(夂) vẫn luôn thành thật(DUẪN)(允)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

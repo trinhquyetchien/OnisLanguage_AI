@@ -1,0 +1,91 @@
+{
+  "kanji": "踏",
+  "meta": {
+    "weight": 2598,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "ふ.む",
+      "ふ.まえる"
+    ],
+    "am_han": "ĐẠP"
+  },
+  "meaning": {
+    "vi": "bước, giẫm đạp, thực hiện, thẩm định, trốn tránh thanh toán",
+    "en": "step, trample, carry through, appraise, evade payment"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/踏.svg"
+  },
+  "frequency": 723,
+  "examples": [
+    "踏む",
+    "舞踏",
+    "踏み出し",
+    "踏襲",
+    "踏み出す"
+  ],
+  "explanation": {
+    "id": "5874",
+    "text": "踏 (đọc là \"とう\" - tou, \"ふむ\" - fumu) có nghĩa là \"dẫm\", \"bước lên\" để chỉ hành động giẫm lên hoặc bước đi trên một bề mặt nào đó.\n\nVí dụ:\n- 踏む (fumu): Dẫm lên, bước lên.\n- 踏切 (fumikiri): Nơi g"
+  },
+  "comments": [
+    {
+      "id": "157189",
+      "lang": "vi",
+      "content_html": "<p>Chân đạp lên nước trải qua 1 ngày</p>",
+      "content_text": "Chân đạp lên nước trải qua 1 ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157190",
+      "lang": "vi",
+      "content_html": "<p>Ngày đặt(đạp) chân lên nước Nhật</p>",
+      "content_text": "Ngày đặt(đạp) chân lên nước Nhật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157191",
+      "lang": "vi",
+      "content_html": "<p>Lấy chân đạp mặt trời ở dưới nước</p>",
+      "content_text": "Lấy chân đạp mặt trời ở dưới nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

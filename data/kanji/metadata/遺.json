@@ -1,0 +1,91 @@
+{
+  "kanji": "遺",
+  "meta": {
+    "weight": 2691,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ",
+      "ユイ"
+    ],
+    "kun": [
+      "のこ.す"
+    ],
+    "am_han": "DI, DỊ"
+  },
+  "meaning": {
+    "vi": "thừa kế, để lại phía sau, dự trữ",
+    "en": "bequeath, leave behind, reserve"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/遺.svg"
+  },
+  "frequency": 647,
+  "examples": [
+    "遺伝子",
+    "遺産",
+    "遺跡",
+    "遺族",
+    "遺伝"
+  ],
+  "explanation": {
+    "id": "188",
+    "text": "遺 (đọc là \"i\") có nghĩa là \"di sản\", \"để lại\" hoặc \"bỏ lại\" để chỉ các hành động liên quan đến việc để lại di vật, di sản hay những thứ bị bỏ quên.\n\nVí dụ:\n- 遺産 (isan): Di sản, tài sản thừa "
+  },
+  "comments": [
+    {
+      "id": "157411",
+      "lang": "vi",
+      "content_html": "<p>chạy một mạch đi lấy cái quí giá để di truyền lại cho con cháu.</p>",
+      "content_text": "chạy một mạch đi lấy cái quí giá để di truyền lại cho con cháu.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157412",
+      "lang": "vi",
+      "content_html": "<p>DI sản để lại trước khi “ra ĐI” là MÁI NHÀ + ĐẤT+TIỀN = QUÝ (貴)</p>",
+      "content_text": "DI sản để lại trước khi “ra ĐI” là MÁI NHÀ + ĐẤT+TIỀN = QUÝ (貴)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157413",
+      "lang": "vi",
+      "content_html": "<p>Khi ra đi (Xước) cái Quí giá để lại cho con cháu là Di chúc</p>",
+      "content_text": "Khi ra đi (Xước) cái Quí giá để lại cho con cháu là Di chúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

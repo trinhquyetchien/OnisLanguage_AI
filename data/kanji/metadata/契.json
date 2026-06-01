@@ -1,0 +1,87 @@
+{
+  "kanji": "契",
+  "meta": {
+    "weight": 635,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "ちぎ.る"
+    ],
+    "am_han": "KHẾ, TIẾT, KHIẾT, KHẤT"
+  },
+  "meaning": {
+    "vi": "cam kết, lời hứa, lời thề",
+    "en": "pledge, promise, vow"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/契.svg"
+  },
+  "frequency": 898,
+  "examples": [
+    "契約",
+    "契機"
+  ],
+  "explanation": {
+    "id": "1955",
+    "text": "契 (đọc là \"ki\") có nghĩa là \"hợp đồng\", \"cam kết\" để chỉ các hành động liên quan đến việc lập thỏa thuận hoặc ký kết.\nVí dụ:\n- 契約 (keiyaku): Hợp đồng.\n- 契機 (keiki): Cơ hội, thời điểm quyết đ"
+  },
+  "comments": [
+    {
+      "id": "152760",
+      "lang": "vi",
+      "content_html": "<p>Ông chủ cầm đao to làm Khế ước</p>",
+      "content_text": "Ông chủ cầm đao to làm Khế ước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152761",
+      "lang": "vi",
+      "content_html": "<p>Khế ước về phân chia 2 miếng đất to</p>",
+      "content_text": "Khế ước về phân chia 2 miếng đất to",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152762",
+      "lang": "vi",
+      "content_html": "<p>喫 Khiết ( ăn uống ) có bộ Khẩu 口 . 契 Khiết ( hợp đồng ) không có bộ Khẩu. Cách nhớ : 契 ( hợp đồng ) của t tất nhiên không có cái mõm của mày rồi :))</p>",
+      "content_text": "喫 Khiết ( ăn uống ) có bộ Khẩu 口 . 契 Khiết ( hợp đồng ) không có bộ Khẩu. Cách nhớ : 契 ( hợp đồng ) của t tất nhiên không có cái mõm của mày rồi :))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

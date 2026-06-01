@@ -1,0 +1,56 @@
+{
+  "kanji": "瑞",
+  "meta": {
+    "weight": 1754,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ズイ",
+      "スイ"
+    ],
+    "kun": [
+      "みず-",
+      "しるし"
+    ],
+    "am_han": "THỤY"
+  },
+  "meaning": {
+    "vi": "Xin chúc mừng",
+    "en": "congratulations"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/瑞.svg"
+  },
+  "frequency": 1873,
+  "examples": [
+    "瑞",
+    "瑞穂",
+    "瑞々しい"
+  ],
+  "explanation": {
+    "id": "4245",
+    "text": "瑞 (đọc là \"zui\" hoặc \"mizu\") có nghĩa là \"cát tường\", \"điềm lành\", thường chỉ những điều tốt đẹp, may mắn. \n\nVí dụ:\n- 瑞兆 (zuichou): Điềm báo tốt lành.\n- 瑞雪 (zuisetsu): Tuyết đầu mùa, biểu tr"
+  },
+  "comments": [
+    {
+      "id": "155356",
+      "lang": "vi",
+      "content_html": "<p>thụy điển , thụy sĩ</p>",
+      "content_text": "thụy điển , thụy sĩ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

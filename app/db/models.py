@@ -1,4 +1,4 @@
-from sqlalchemy import Column, String, DateTime, Text, ARRAY, Integer
+from sqlalchemy import Column, String, DateTime, Text, ARRAY, Integer, Float
 from sqlalchemy.dialects.postgresql import UUID, JSONB
 from sqlalchemy.sql import func
 import uuid
@@ -52,7 +52,38 @@ class PracticeQuestion(Base):
     position = Column(Integer, nullable=False)
     kind = Column(String, nullable=False) # multiple_choice, short_answer
     prompt = Column(Text, nullable=False)
+    image_url = Column(String, nullable=True)
+    audio_url = Column(String, nullable=True)
     options = Column(JSONB, default=[])
     correct_answer = Column(Text, nullable=False)
     explanation = Column(Text, nullable=True)
 
+
+class MediaTranscriptHistory(Base):
+    __tablename__ = "media_transcript_history"
+
+    history_id = Column(Integer, primary_key=True, autoincrement=True)
+    owner_user_id = Column(UUID(as_uuid=True), nullable=True)
+    title = Column(String, nullable=False)
+    source_type = Column(String, nullable=False)
+    source_uri = Column(Text, nullable=True)
+    media_url = Column(Text, nullable=True)
+    media_kind = Column(String, nullable=True)
+    duration = Column(Float, nullable=False, default=0.0)
+    full_text_ja = Column(Text, nullable=False)
+    full_text_vi = Column(Text, nullable=True)
+    segments = Column(JSONB, default=list)
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+
+
+class AudioSample(Base):
+    __tablename__ = "audio_samples"
+
+    audio_id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    owner_user_id = Column(UUID(as_uuid=True), nullable=True)
+    title = Column(String, nullable=False)
+    file_path = Column(Text, nullable=False)
+    transcript_ja = Column(Text, nullable=True)
+    transcript_vi = Column(Text, nullable=True)
+    tags = Column(ARRAY(Text), default=list)
+    created_at = Column(DateTime(timezone=True), server_default=func.now())

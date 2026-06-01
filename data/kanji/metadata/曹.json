@@ -1,0 +1,89 @@
+{
+  "kanji": "曹",
+  "meta": {
+    "weight": 1262,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "ゾウ"
+    ],
+    "kun": [],
+    "am_han": "TÀO"
+  },
+  "meaning": {
+    "vi": "văn phòng, quan chức, đồng chí, đồng nghiệp",
+    "en": "office, official, comrade, fellow"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/曹.svg"
+  },
+  "frequency": 1998,
+  "examples": [
+    "法曹",
+    "軍曹",
+    "曹",
+    "曹洞宗",
+    "法曹界"
+  ],
+  "explanation": {
+    "id": "4721",
+    "text": "曹 (đọc là \"sō\") có nghĩa là \"nhóm\", \"đội\" hoặc \"lớp\" để chỉ một nhóm người hoặc tổ chức có chức năng nhất định. \n\nVí dụ:\n- 曹操 (Sōsō): Tên một nhân vật lịch sử nổi tiếng trong thời kỳ Tam Quố"
+  },
+  "comments": [
+    {
+      "id": "154308",
+      "lang": "vi",
+      "content_html": "<p>mỗi ca khúc của nam tào đều dk cập nhật hàng ngày</p>",
+      "content_text": "mỗi ca khúc của nam tào đều dk cập nhật hàng ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154309",
+      "lang": "vi",
+      "content_html": "<p>曹操 tào tháo</p>",
+      "content_text": "曹操 tào tháo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154310",
+      "lang": "vi",
+      "content_html": "<p>Một ca Khúc mà hát cả Ngày đúng là Tào lao</p>",
+      "content_text": "Một ca Khúc mà hát cả Ngày đúng là Tào lao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

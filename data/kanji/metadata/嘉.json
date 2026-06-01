@@ -1,0 +1,85 @@
+{
+  "kanji": "嘉",
+  "meta": {
+    "weight": 516,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "よみ.する",
+      "よい"
+    ],
+    "am_han": "GIA"
+  },
+  "meaning": {
+    "vi": "hoan nghênh, khen ngợi, quý trọng, hạnh phúc, tốt lành",
+    "en": "applaud, praise, esteem, happy, auspicious"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/嘉.svg"
+  },
+  "frequency": 1553,
+  "examples": [],
+  "explanation": {
+    "id": "627",
+    "text": "嘉 (đọc là \"ka\") có nghĩa là \"khen ngợi\", \"tán thưởng\" để chỉ các hành động liên quan đến sự khen ngợi hoặc tôn vinh điều gì đó tốt đẹp.\n\nVí dụ:\n- 嘉賞 (kashou): Khen thưởng, tán dương.\n- 嘉言 (k"
+  },
+  "comments": [
+    {
+      "id": "152485",
+      "lang": "vi",
+      "content_html": "<p>GIA Cát Tường là cái tên MAY MẮN</p>",
+      "content_text": "GIA Cát Tường là cái tên MAY MẮN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152486",
+      "lang": "vi",
+      "content_html": "<p>Người ta đánh trống 壴 để gia<br>加 tăng thêm không khí sôi nổi khi khen ngợi ai đó và chúc phúc<br>lành tới họ.</p>",
+      "content_text": "Người ta đánh trống 壴 để gia\n加 tăng thêm không khí sôi nổi khi khen ngợi ai đó và chúc phúc\nlành tới họ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152487",
+      "lang": "vi",
+      "content_html": "<p>10 người ăn Đậu sẽ Gia tăng sản lượng</p>",
+      "content_text": "10 người ăn Đậu sẽ Gia tăng sản lượng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

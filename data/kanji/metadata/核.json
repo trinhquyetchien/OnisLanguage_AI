@@ -1,0 +1,88 @@
+{
+  "kanji": "核",
+  "meta": {
+    "weight": 1343,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク"
+    ],
+    "kun": [],
+    "am_han": "HẠCH"
+  },
+  "meaning": {
+    "vi": "hạt nhân, lõi",
+    "en": "nucleus, core, kernel"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/核.svg"
+  },
+  "frequency": 475,
+  "examples": [
+    "核",
+    "核兵器",
+    "中核",
+    "核心",
+    "結核"
+  ],
+  "explanation": {
+    "id": "903",
+    "text": "核 (đọc là \"kaku\") có nghĩa là \"hạt nhân\" hoặc \"cốt lõi\", để chỉ các thành phần cơ bản của vật chất hoặc ý tưởng.  \nVí dụ:  \n- 核兵器 (kakubuki): Vũ khí hạt nhân.  \n- 核心 (kakushin): Cốt lõi, tru"
+  },
+  "comments": [
+    {
+      "id": "154492",
+      "lang": "vi",
+      "content_html": "<p>4 người đội mũ nhặt hạt dứoi gốc cây</p>",
+      "content_text": "4 người đội mũ nhặt hạt dứoi gốc cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154493",
+      "lang": "vi",
+      "content_html": "<p>Cây 木 hoa cứt Lợn 亥 dùng để làm nhiệt HẠCH chế tạo HẠT NHÂN (核)かく</p>",
+      "content_text": "Cây 木 hoa cứt Lợn 亥 dùng để làm nhiệt HẠCH chế tạo HẠT NHÂN (核)かく",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154494",
+      "lang": "vi",
+      "content_html": "<p>4 Nhân tố đứng Đầu là HẠT giống trong cuộc thi sát HẠCH</p>",
+      "content_text": "4 Nhân tố đứng Đầu là HẠT giống trong cuộc thi sát HẠCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

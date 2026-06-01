@@ -1,0 +1,85 @@
+{
+  "kanji": "亦",
+  "meta": {
+    "weight": 125,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エキ",
+      "ヤク"
+    ],
+    "kun": [
+      "また"
+    ],
+    "am_han": "DIỆC"
+  },
+  "meaning": {
+    "vi": "nữa, một lần nữa",
+    "en": "also, again"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/亦.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7424",
+    "text": "亦 (đọc là \"yaku\" hoặc \"nō\") có nghĩa là \"cũng\", \"còn nữa\", dùng để chỉ sự bổ sung hoặc tương đồng trong câu. \n\nVí dụ:\n- 亦々 (yaku yaku): Cũng như vậy, tương tự.\n- 亦是 (yakushi): Cũng là, cũng "
+  },
+  "comments": [
+    {
+      "id": "218829",
+      "lang": "vi",
+      "content_html": "<p>Dưới đầu(亠 ) có 4 cái lông (灬)( 4 chấm hỏa) là con chim Diệc (亦) nhìn giống con cò._Hản Là Tuấn_</p>",
+      "content_text": "Dưới đầu(亠 ) có 4 cái lông (灬)( 4 chấm hỏa) là con chim Diệc (亦) nhìn giống con cò._Hản Là Tuấn_",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218831",
+      "lang": "vi",
+      "content_html": "<p>DIỆC gần giống XÍCH</p>",
+      "content_text": "DIỆC gần giống XÍCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218830",
+      "lang": "vi",
+      "content_html": "<p>Diệc Đầu bị Lửa đốt nên màu đỏ.</p>",
+      "content_text": "Diệc Đầu bị Lửa đốt nên màu đỏ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "kanji": "嫡",
+  "meta": {
+    "weight": 688,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チャク",
+      "テキ"
+    ],
+    "kun": [],
+    "am_han": "ĐÍCH"
+  },
+  "meaning": {
+    "vi": "người vợ hợp pháp, dòng dõi trực hệ (không phải là con hoang)",
+    "en": "legitimate wife, direct descent (non-bastard)"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/嫡.svg"
+  },
+  "frequency": 2130,
+  "examples": [
+    "嫡出"
+  ],
+  "explanation": {
+    "id": "5262",
+    "text": "嫡 (đọc là \"taku\") có nghĩa là \"hợp pháp\", thường chỉ sự hợp pháp trong quan hệ gia đình, như con cái hợp pháp hoặc vị trí chính thức trong gia đình. \n\nVí dụ:\n- 嫡男 (takunan): Con trai hợp phá"
+  },
+  "comments": [
+    {
+      "id": "152882",
+      "lang": "vi",
+      "content_html": "<p>tìm 1 người phụ nữa thích hợp là mục ĐÍCH hợp pháp của mỗi người đàn ông</p>",
+      "content_text": "tìm 1 người phụ nữa thích hợp là mục ĐÍCH hợp pháp của mỗi người đàn ông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152883",
+      "lang": "vi",
+      "content_html": "<p>phụ nữ sinh ra con trong vị trí ngôi nhà cổ này là cháu đích tôn</p>",
+      "content_text": "phụ nữ sinh ra con trong vị trí ngôi nhà cổ này là cháu đích tôn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152884",
+      "lang": "vi",
+      "content_html": "<p>khi người phụ nữ có mục đích đứng cố định ở đâu đó thì ko ai ngăn cản đc</p>",
+      "content_text": "khi người phụ nữ có mục đích đứng cố định ở đâu đó thì ko ai ngăn cản đc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

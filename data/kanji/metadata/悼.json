@@ -1,0 +1,88 @@
+{
+  "kanji": "悼",
+  "meta": {
+    "weight": 983,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "いた.む"
+    ],
+    "am_han": "ĐIỆU"
+  },
+  "meaning": {
+    "vi": "than thở, đau buồn về",
+    "en": "lament, grieve over"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/悼.svg"
+  },
+  "frequency": 1645,
+  "examples": [
+    "追悼",
+    "哀悼",
+    "悼む"
+  ],
+  "explanation": {
+    "id": "5793",
+    "text": "悼 (đọc là \"dō\") có nghĩa là \"thương tiếc\" hoặc \"tưởng nhớ\" những người đã khuất. \n\nVí dụ:\n- 悼念 (dōnen): Sự thương tiếc, tưởng niệm.\n- 悼む (dōmu): Thương tiếc, đau buồn vì cái chết của ai đó.\n"
+  },
+  "comments": [
+    {
+      "id": "153617",
+      "lang": "vi",
+      "content_html": "<p>từ tận đáy lòng (tâm)  xin chia buồn vì bị trộm mất cáci bàn</p>",
+      "content_text": "từ tận đáy lòng (tâm)  xin chia buồn vì bị trộm mất cáci bàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153618",
+      "lang": "vi",
+      "content_html": "<p>con tim  truy điệu trên bàn</p>",
+      "content_text": "con tim  truy điệu trên bàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153619",
+      "lang": "vi",
+      "content_html": "<p>Con tim truy điệu thương tiếc người ngoảnh mặt với cái ác đã ra đi quá sớm</p>",
+      "content_text": "Con tim truy điệu thương tiếc người ngoảnh mặt với cái ác đã ra đi quá sớm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

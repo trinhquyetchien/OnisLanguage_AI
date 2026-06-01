@@ -1,0 +1,109 @@
+{
+  "kanji": "飛",
+  "meta": {
+    "weight": 2924,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "と.ぶ",
+      "と.ばす",
+      "-と.ばす"
+    ],
+    "am_han": "PHI"
+  },
+  "meaning": {
+    "vi": "bay, phi công",
+    "en": "fly, skip (pages), scatter"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/飛.svg"
+  },
+  "frequency": 580,
+  "examples": [
+    "飛行機",
+    "飛行",
+    "飛ぶ",
+    "飛ばし",
+    "飛躍"
+  ],
+  "explanation": {
+    "id": "6609",
+    "text": "飛 (đọc là \"hi\" hoặc \"tou\") có nghĩa là \"bay\", để chỉ hành động di chuyển trong không khí.  \nVí dụ:  \n- 飛行機 (hikouki): Máy bay.  \n- 飛ぶ (tobu): Bay, nhảy.  \n- 飛び込む (tobikomu): Nhảy vào, lao và"
+  },
+  "comments": [
+    {
+      "id": "37282",
+      "lang": "vi",
+      "content_html": "<p>Những con chim dang rộng cánh <strong>bay</strong>.</p>",
+      "content_text": "Những con chim dang rộng cánh\nbay\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdf0f8a4d1.jpg",
+      "image_path": "assets/images/飛_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157925",
+      "lang": "vi",
+      "content_html": "<p>anh Thăng bị 2 cái giày cao gót PHI thẳng vào mặt</p>",
+      "content_text": "anh Thăng bị 2 cái giày cao gót PHI thẳng vào mặt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157926",
+      "lang": "vi",
+      "content_html": "<p>Thăng 升JLPT1 (đơn vị đo lường, ô vuông).<br>Hai cánh chim 飞  phi  飛 thăng 升 lên trời.</p>",
+      "content_text": "Thăng 升JLPT1 (đơn vị đo lường, ô vuông).\nHai cánh chim 飞  phi  飛 thăng 升 lên trời.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157927",
+      "lang": "vi",
+      "content_html": "<p>Máy bay trực thăng 升 phi (bay) thẳng lên trời =hai đôi cánh 飛</p>",
+      "content_text": "Máy bay trực thăng 升 phi (bay) thẳng lên trời =hai đôi cánh 飛",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

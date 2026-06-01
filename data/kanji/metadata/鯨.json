@@ -1,0 +1,87 @@
+{
+  "kanji": "鯨",
+  "meta": {
+    "weight": 2983,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲイ"
+    ],
+    "kun": [
+      "くじら"
+    ],
+    "am_han": "KÌNH"
+  },
+  "meaning": {
+    "vi": "cá voi",
+    "en": "whale"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/鯨.svg"
+  },
+  "frequency": 1486,
+  "examples": [
+    "鯨",
+    "捕鯨"
+  ],
+  "explanation": {
+    "id": "2045",
+    "text": "鯨 (đọc là \"kujira\") có nghĩa là \"cá voi\", chỉ những loài động vật biển lớn thuộc bộ cá voi.  \nVí dụ:  \n- 鯨肉 (kujirniku): Thịt cá voi.  \n- 鯨類 (kujirairui): Loài cá voi.  \n- 鯨座 (kujira za): Ch"
+  },
+  "comments": [
+    {
+      "id": "158050",
+      "lang": "vi",
+      "content_html": "<p>cá ở kinh đô là con cá kình</p>",
+      "content_text": "cá ở kinh đô là con cá kình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158051",
+      "lang": "vi",
+      "content_html": "<p>cá kình trông kinh bỏ mợ</p>",
+      "content_text": "cá kình trông kinh bỏ mợ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158052",
+      "lang": "vi",
+      "content_html": "<p>cá voi mà ở kinh đô thì chỉ là cá kình</p>",
+      "content_text": "cá voi mà ở kinh đô thì chỉ là cá kình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

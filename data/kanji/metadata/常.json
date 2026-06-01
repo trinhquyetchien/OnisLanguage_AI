@@ -1,0 +1,91 @@
+{
+  "kanji": "常",
+  "meta": {
+    "weight": 841,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [
+      "つね",
+      "とこ-"
+    ],
+    "am_han": "THƯỜNG"
+  },
+  "meaning": {
+    "vi": "thông thường, bình thường",
+    "en": "usual, ordinary, normal, common, regular, continually, always, long-lasting"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/常.svg"
+  },
+  "frequency": 293,
+  "examples": [
+    "非常",
+    "通常",
+    "常に",
+    "日常",
+    "異常"
+  ],
+  "explanation": {
+    "id": "3964",
+    "text": "常 (đọc là \"jou\") có nghĩa là \"thường\", \"thông thường\" để chỉ những điều bình thường, phổ biến hoặc xảy ra thường xuyên.\n\nVí dụ:\n- 常識 (joushiki): Kiến thức thông thường, hiểu biết căn bản.\n- "
+  },
+  "comments": [
+    {
+      "id": "153266",
+      "lang": "vi",
+      "content_html": "<p>trẻ NHỎ đi HỌC THƯỜNG có khăn lau MIỆNG</p>",
+      "content_text": "trẻ NHỎ đi HỌC THƯỜNG có khăn lau MIỆNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153267",
+      "lang": "vi",
+      "content_html": "<p>Hoà thượng THƯỜNG có cái khăn</p>",
+      "content_text": "Hoà thượng THƯỜNG có cái khăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153268",
+      "lang": "vi",
+      "content_html": "<p>hòa thượng 尚 ở  thành thị là chuyện thường</p>",
+      "content_text": "hòa thượng 尚 ở  thành thị là chuyện thường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

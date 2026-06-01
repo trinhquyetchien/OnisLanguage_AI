@@ -1,0 +1,105 @@
+{
+  "kanji": "隊",
+  "meta": {
+    "weight": 2840,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ"
+    ],
+    "kun": [],
+    "am_han": "ĐỘI"
+  },
+  "meaning": {
+    "vi": "trung đoàn, đảng, đại đội, đội",
+    "en": "regiment, party, company, squad"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/隊.svg"
+  },
+  "frequency": 605,
+  "examples": [
+    "自衛隊",
+    "隊",
+    "部隊",
+    "軍隊",
+    "隊員"
+  ],
+  "explanation": {
+    "id": "4986",
+    "text": "隊 (đọc là \"tai\") có nghĩa là \"đội\" hoặc \"nhóm\", để chỉ tập hợp những người hoặc vật có cùng mục đích, chức năng trong một tổ chức hay hoạt động nào đó.  \nVí dụ:  \n- 隊員 (taiin): Thành viên độ"
+  },
+  "comments": [
+    {
+      "id": "157727",
+      "lang": "vi",
+      "content_html": "<p>Bộ ĐỘI thì thích thịt HEO hai tai trên ĐỒI</p>",
+      "content_text": "Bộ ĐỘI thì thích thịt HEO hai tai trên ĐỒI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157728",
+      "lang": "vi",
+      "content_html": "<p>biệt đôi 13 chú lợn</p>",
+      "content_text": "biệt đôi 13 chú lợn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157729",
+      "lang": "vi",
+      "content_html": "<p>Bộ ĐỘI thích LỢN thả ĐỒI</p>",
+      "content_text": "Bộ ĐỘI thích LỢN thả ĐỒI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "218477",
+      "lang": "vi",
+      "content_html": "<p>trên đồi có bầy heo của bộ đội</p>",
+      "content_text": "trên đồi có bầy heo của bộ đội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    }
+  ]
+}

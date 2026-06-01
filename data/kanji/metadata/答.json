@@ -1,0 +1,108 @@
+{
+  "kanji": "答",
+  "meta": {
+    "weight": 1997,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "こた.える",
+      "こた.え"
+    ],
+    "am_han": "ĐÁP"
+  },
+  "meaning": {
+    "vi": "trả lời, đáp án",
+    "en": "solution, answer"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/答.svg"
+  },
+  "frequency": 486,
+  "examples": [
+    "答え",
+    "回答",
+    "答弁",
+    "答える",
+    "応答"
+  ],
+  "explanation": {
+    "id": "5840",
+    "text": "答 (đọc là \"taku\" hoặc \"dā\") có nghĩa là \"trả lời\" hoặc \"đáp\". Chữ này chỉ các hành động liên quan đến việc cung cấp câu trả lời hay phản hồi.\n\nVí dụ:\n- 答える (kotaeru): Trả lời.\n- 答案 (とうあん, tō"
+  },
+  "comments": [
+    {
+      "id": "36940",
+      "lang": "vi",
+      "content_html": "<p><strong>Câu trả lời </strong>của chúng tôi hợp nhau (合) như cái hộp tre (竹) và nắp của nó.</p>",
+      "content_text": "Câu trả lời\ncủa chúng tôi hợp nhau (合) như cái hộp tre (竹) và nắp của nó.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4563525d3.jpg",
+      "image_path": "assets/images/答_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155885",
+      "lang": "vi",
+      "content_html": "<p>Thấy hợp lí thì viết ĐÁP án lên đốt tre</p>",
+      "content_text": "Thấy hợp lí thì viết ĐÁP án lên đốt tre",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158556",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>答える (こたえる): trả lời</p>",
+      "content_text": "JLPT N4\n答える (こたえる): trả lời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "222030",
+      "lang": "vi",
+      "content_html": "<p><strong>⺮ (竹) Bộ trúc</strong> – tre, trúc</p><p><strong>Biểu ý</strong>: liên quan đến vật liệu làm từ tre (giỏ, sọt, dụng cụ, v.v.)</p><p><strong>合 (kai) Hội</strong></p><p><strong>Hình thanh</strong>: gợi âm đọc “dá”, và cũng góp phần ngữ nghĩa: <strong>\"đáp ứng\", \"gộp lại\"</strong></p><p><br><strong>竹 + 合 = 答</strong> → nguyên thủy là <strong>dùng tre để vá lưới, sửa hàng rào</strong>, từ đó nghĩa mở rộng ra <strong>trả lời, đáp lại</strong>, như cách <strong>\"lấp đầy chỗ trống\" trong lời nói</strong>.</p>",
+      "content_text": "⺮ (竹) Bộ trúc\n– tre, trúc\nBiểu ý\n: liên quan đến vật liệu làm từ tre (giỏ, sọt, dụng cụ, v.v.)\n合 (kai) Hội\nHình thanh\n: gợi âm đọc “dá”, và cũng góp phần ngữ nghĩa:\n\"đáp ứng\", \"gộp lại\"\n竹 + 合 = 答\n→ nguyên thủy là\ndùng tre để vá lưới, sửa hàng rào\n, từ đó nghĩa mở rộng ra\ntrả lời, đáp lại\n, như cách\n\"lấp đầy chỗ trống\" trong lời nói\n.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

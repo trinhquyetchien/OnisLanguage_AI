@@ -1,0 +1,91 @@
+{
+  "kanji": "如",
+  "meta": {
+    "weight": 645,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョ",
+      "ニョ"
+    ],
+    "kun": [
+      "ごと.し"
+    ],
+    "am_han": "NHƯ"
+  },
+  "meaning": {
+    "vi": "giống như, như thể, tốt hơn, tốt nhất, bình đẳng",
+    "en": "likeness, like, such as, as if, better, best, equal"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/如.svg"
+  },
+  "frequency": 1704,
+  "examples": [
+    "如",
+    "如何",
+    "如く",
+    "欠如",
+    "如何に"
+  ],
+  "explanation": {
+    "id": "6120",
+    "text": "如 (đọc là \"jo\" hoặc \"nyo\") có nghĩa là \"như\", \"giống như\" để chỉ sự so sánh hoặc tương đồng.\n\nVí dụ:\n- 如実 (nyojitsu): Như thật, chân thực.\n- 如来 (nyorai): Như lai, một thuật ngữ trong Phật gi"
+  },
+  "comments": [
+    {
+      "id": "152785",
+      "lang": "vi",
+      "content_html": "<p>phụ NỮ có MIỆNG NHƯ nhau</p>",
+      "content_text": "phụ NỮ có MIỆNG NHƯ nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152786",
+      "lang": "vi",
+      "content_html": "<p>cô gái có miệng to là e NHƯ</p>",
+      "content_text": "cô gái có miệng to là e NHƯ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152787",
+      "lang": "vi",
+      "content_html": "<p>Người phụ Nữ đi thẩm mĩ để được cái Miệng “Như” ý</p>",
+      "content_text": "Người phụ Nữ đi thẩm mĩ để được cái Miệng “Như” ý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

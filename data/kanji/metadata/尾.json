@@ -1,0 +1,90 @@
+{
+  "kanji": "尾",
+  "meta": {
+    "weight": 771,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビ"
+    ],
+    "kun": [
+      "お"
+    ],
+    "am_han": "VĨ"
+  },
+  "meaning": {
+    "vi": "đuôi, cuối, quầy cho cá, độ dốc thấp hơn của núi",
+    "en": "tail, end, counter for fish, lower slope of mountain"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/尾.svg"
+  },
+  "frequency": 875,
+  "examples": [
+    "尾",
+    "尻尾",
+    "末尾",
+    "語尾",
+    "尾根"
+  ],
+  "explanation": {
+    "id": "6619",
+    "text": "尾 (đọc là \"bi\") có nghĩa là \"đuôi\" để chỉ phần cuối, phần tiếp giáp của một vật thể hoặc khái niệm.  \nVí dụ:  \n- 尾行 (bikou): Theo dõi, rình rập.  \n- 尾羽 (obawa): Lông đuôi.  \n- 尾音 (bi-on): Âm"
+  },
+  "comments": [
+    {
+      "id": "153095",
+      "lang": "vi",
+      "content_html": "<p>Có cái Lông VĨ đại mọc ở gần cửa hậu là cái ĐUÔI</p>",
+      "content_text": "Có cái Lông VĨ đại mọc ở gần cửa hậu là cái ĐUÔI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153096",
+      "lang": "vi",
+      "content_html": "<p>Lông ở cửa sau là cái đuôi</p>",
+      "content_text": "Lông ở cửa sau là cái đuôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153097",
+      "lang": "vi",
+      "content_html": "<p>cửu VĨ hồ nấp dưới cái (THI thể 尸 ) có ( LÔNG 毛) dài và 9 cái ĐUÔI...</p>",
+      "content_text": "cửu VĨ hồ nấp dưới cái (THI thể 尸 ) có ( LÔNG 毛) dài và 9 cái ĐUÔI...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "kanji": "禄",
+  "meta": {
+    "weight": 1913,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロク"
+    ],
+    "kun": [
+      "さいわ.い",
+      "ふち"
+    ],
+    "am_han": "LỘC"
+  },
+  "meaning": {
+    "vi": "thái ấp, trợ cấp, lương hưu, hạnh phúc",
+    "en": "fief, allowance, pension, grant, happiness"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/禄.svg"
+  },
+  "frequency": 2126,
+  "examples": [
+    "禄",
+    "貫禄",
+    "元禄"
+  ],
+  "explanation": {
+    "id": "8369",
+    "text": "禄 (đọc là \"roku\") có nghĩa là \"lộc\", thường chỉ về phúc lợi, thu nhập, hoặc phần thưởng mà một người nhận được. \n\nVí dụ:\n- 禄高 (rokudaka): Thu nhập, lương bổng.\n- 官禄 (kanroku): Lộc của quan c"
+  },
+  "comments": [
+    {
+      "id": "155712",
+      "lang": "vi",
+      "content_html": "<p>Thắp nến xin tài LỘC yo như nước</p>",
+      "content_text": "Thắp nến xin tài LỘC yo như nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155713",
+      "lang": "vi",
+      "content_html": "<p>福禄寿 : Phúc Lộc Thọ</p>",
+      "content_text": "福禄寿 : Phúc Lộc Thọ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155714",
+      "lang": "vi",
+      "content_html": "<p>Co nhím ở trên đầu nguồn nước sẽ có lộc từ cây thị</p>",
+      "content_text": "Co nhím ở trên đầu nguồn nước sẽ có lộc từ cây thị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

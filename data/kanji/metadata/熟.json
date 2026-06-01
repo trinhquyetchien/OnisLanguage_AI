@@ -1,0 +1,90 @@
+{
+  "kanji": "熟",
+  "meta": {
+    "weight": 1671,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュク"
+    ],
+    "kun": [
+      "う.れる"
+    ],
+    "am_han": "THỤC"
+  },
+  "meaning": {
+    "vi": "êm dịu, chín muồi, trưởng thành, có được kỹ năng",
+    "en": "mellow, ripen, mature, acquire skill"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/熟.svg"
+  },
+  "frequency": 1415,
+  "examples": [
+    "成熟",
+    "未熟",
+    "熟成",
+    "熟練",
+    "熟語"
+  ],
+  "explanation": {
+    "id": "3605",
+    "text": "熟 (đọc là \"ju\") có nghĩa là \"chín\", \"quen thuộc\", chỉ trạng thái đã phát triển hoàn thiện hoặc kiến thức sâu sắc về điều gì đó.  \nVí dụ:  \n- 熟成 (jukusei): Lên men, chín muồi (thường dùng tro"
+  },
+  "comments": [
+    {
+      "id": "155199",
+      "lang": "vi",
+      "content_html": "<p>Đứa trẻ được tập luyện tỉ mĩ thuần thục khi có hoả hoạn thì mồm kêu to đồng thời cuộn tròn lại</p>",
+      "content_text": "Đứa trẻ được tập luyện tỉ mĩ thuần thục khi có hoả hoạn thì mồm kêu to đồng thời cuộn tròn lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155200",
+      "lang": "vi",
+      "content_html": "<p>ĐẦU tiên dạy TRẺ dùng MIỆNG thổi LỬA một cách HOÀN toàn THÀNH “THỤC”.</p>",
+      "content_text": "ĐẦU tiên dạy TRẺ dùng MIỆNG thổi LỬA một cách HOÀN toàn THÀNH “THỤC”.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155201",
+      "lang": "vi",
+      "content_html": "<p>Đứa trẻ vừa chạy vòng tròn quanh đống lửa vừa nói 1 cách thuần THỤC</p>",
+      "content_text": "Đứa trẻ vừa chạy vòng tròn quanh đống lửa vừa nói 1 cách thuần THỤC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

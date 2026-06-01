@@ -1,0 +1,108 @@
+{
+  "kanji": "許",
+  "meta": {
+    "weight": 2464,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョ"
+    ],
+    "kun": [
+      "ゆる.す",
+      "もと"
+    ],
+    "am_han": "HỨA"
+  },
+  "meaning": {
+    "vi": "cho phép",
+    "en": "permit, approve"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/許.svg"
+  },
+  "frequency": 720,
+  "examples": [
+    "特許",
+    "許可",
+    "免許",
+    "許し",
+    "許容"
+  ],
+  "explanation": {
+    "id": "1589",
+    "text": "許 (đọc là \"kyoka\" hoặc \"yurusu\") có nghĩa là \"cho phép\", \"thừa nhận\", chỉ các hành động liên quan đến việc cho phép hoặc chấp thuận điều gì đó.\n\nVí dụ:\n- 許可 (kyoka): Giấy phép, sự cho phép.\n"
+  },
+  "comments": [
+    {
+      "id": "156856",
+      "lang": "vi",
+      "content_html": "<p>Đây là Ngọ 午 không phải Ngưu 牛 mấy ba mấy má ơi</p>",
+      "content_text": "Đây là Ngọ 午 không phải Ngưu 牛 mấy ba mấy má ơi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156857",
+      "lang": "vi",
+      "content_html": "<p>Hứa cho phép nói vào giờ ngọ</p>",
+      "content_text": "Hứa cho phép nói vào giờ ngọ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156858",
+      "lang": "vi",
+      "content_html": "<p>nói lời hứa vào giờ ngọ</p>",
+      "content_text": "nói lời hứa vào giờ ngọ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222461",
+      "lang": "vi",
+      "content_html": "<p>HỨA nói tha thứ lúc trưa</p>",
+      "content_text": "HỨA nói tha thứ lúc trưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5155",
+        "name": "Doan The Anh (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/66e4a5e9678a0.png"
+      }
+    }
+  ]
+}

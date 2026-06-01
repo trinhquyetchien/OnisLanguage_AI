@@ -1,0 +1,90 @@
+{
+  "kanji": "借",
+  "meta": {
+    "weight": 214,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャク"
+    ],
+    "kun": [
+      "か.りる"
+    ],
+    "am_han": "TÁ"
+  },
+  "meaning": {
+    "vi": "vay, mượn",
+    "en": "borrow, rent"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/借.svg"
+  },
+  "frequency": 932,
+  "examples": [
+    "借り",
+    "借金",
+    "借りる",
+    "借入金",
+    "借家"
+  ],
+  "explanation": {
+    "id": "3366",
+    "text": "借 (đọc là \"shaku\" hoặc \"kariru\") có nghĩa là \"mượn\" để chỉ hành động vay mượn hoặc nhận cái gì đó từ người khác.  \nVí dụ:  \n- 借金 (shakkin): Nợ nần, tiền vay.  \n- 借りる (kariru): Mượn, vay.  \n-"
+  },
+  "comments": [
+    {
+      "id": "36903",
+      "lang": "vi",
+      "content_html": "<p>Khi xưa (昔) tôi đã <strong>mượn </strong>từ một ai đó.</p>",
+      "content_text": "Khi xưa (昔) tôi đã\nmượn\ntừ một ai đó.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc283a20bdf.jpg",
+      "image_path": "assets/images/借_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158589",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>借りる (かりる): mượn</p>",
+      "content_text": "JLPT N4\n借りる (かりる): mượn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "151727",
+      "lang": "vi",
+      "content_html": "<p>MƯỢN MỘT NGƯỜI HAI MỐT NGÀY</p>",
+      "content_text": "MƯỢN MỘT NGƯỜI HAI MỐT NGÀY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

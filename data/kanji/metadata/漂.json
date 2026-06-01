@@ -1,0 +1,89 @@
+{
+  "kanji": "漂",
+  "meta": {
+    "weight": 1605,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒョウ"
+    ],
+    "kun": [
+      "ただよ.う"
+    ],
+    "am_han": "PHIÊU, PHIẾU"
+  },
+  "meaning": {
+    "vi": "trôi, trôi (trên chất lỏng)",
+    "en": "drift, float (on liquid)"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/漂.svg"
+  },
+  "frequency": 1492,
+  "examples": [
+    "漂う",
+    "漂流",
+    "漂着",
+    "漂白"
+  ],
+  "explanation": {
+    "id": "6706",
+    "text": "漂 (đọc là \"hyou\" hoặc \"piao\") có nghĩa là \"trôi nổi\", \"bay lượn\" để chỉ các trạng thái di chuyển không ổn định, như việc trôi dạt trên mặt nước hay bay trong không khí.\n\nVí dụ:\n- 漂流 (hyouryu"
+  },
+  "comments": [
+    {
+      "id": "155058",
+      "lang": "vi",
+      "content_html": "<p>phiếu rơi tung toé lan toả khăps mặt nước</p>",
+      "content_text": "phiếu rơi tung toé lan toả khăps mặt nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155059",
+      "lang": "vi",
+      "content_html": "<p>Lấy nước xoá đi dấu \"sắc\" trên chữ \"Phiếu\" =&#62; Phiêu</p>",
+      "content_text": "Lấy nước xoá đi dấu \"sắc\" trên chữ \"Phiếu\" => Phiêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155060",
+      "lang": "vi",
+      "content_html": "<p>Cầm ngân PHIẾU đi du lịch khắm THỦY động.</p>",
+      "content_text": "Cầm ngân PHIẾU đi du lịch khắm THỦY động.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

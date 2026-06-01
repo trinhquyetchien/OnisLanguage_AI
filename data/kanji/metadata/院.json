@@ -1,0 +1,105 @@
+{
+  "kanji": "院",
+  "meta": {
+    "weight": 2825,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イン"
+    ],
+    "kun": [],
+    "am_han": "VIỆN"
+  },
+  "meaning": {
+    "vi": "học viện",
+    "en": "Inst., institution, temple, mansion, school"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/院.svg"
+  },
+  "frequency": 150,
+  "examples": [
+    "病院",
+    "院",
+    "大学院",
+    "入院",
+    "衆議院"
+  ],
+  "explanation": {
+    "id": "269",
+    "text": "院 (đọc là \"in\") có nghĩa là \"viện\", \"cơ sở\" chỉ các tổ chức, cơ quan hoặc nơi chốn nhất định. \n\nVí dụ:\n- 院長 (inchō): Giám đốc viện.\n- 医院 (i-in): Phòng khám.\n- 学院 (gakuin): Học viện."
+  },
+  "comments": [
+    {
+      "id": "636",
+      "lang": "vi",
+      "content_html": "<p>Đã khoẻ (<strong>元</strong>気) và ra <strong>viện </strong>về nhà.</p>",
+      "content_text": "Đã khoẻ (\n元\n気) và ra\nviện\nvề nhà.",
+      "image_url": "https://jpdictionary.com/upload/images/62978b0919511.jpg",
+      "image_path": "assets/images/院_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157684",
+      "lang": "vi",
+      "content_html": "<p>cái Nhà (宀) giúp phục hồi NGUYÊN khí  (元) đó chính là bệnh VIỆN (院)。<br>gò đất阝(PHỤ): có thể thêm vào: cái nhà cao như cái gò đất, hoặc ở trên gò đất.<br>..性..</p>",
+      "content_text": "cái Nhà (宀) giúp phục hồi NGUYÊN khí  (元) đó chính là bệnh VIỆN (院)。\ngò đất阝(PHỤ): có thể thêm vào: cái nhà cao như cái gò đất, hoặc ở trên gò đất.\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157685",
+      "lang": "vi",
+      "content_html": "<p>Nơi bạn có thể hoàn toàn hồi phục là bệnh viện</p>",
+      "content_text": "Nơi bạn có thể hoàn toàn hồi phục là bệnh viện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158309",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>病院 (びょういん): bệnh viện<br>退院 (たいいん): xuất viện<br>入院 (にゅういん): nhập viện<br>美容院 (びよういん): tiệm cắt tóc / làm đẹp</p>",
+      "content_text": "JLPT N4\n病院 (びょういん): bệnh viện\n退院 (たいいん): xuất viện\n入院 (にゅういん): nhập viện\n美容院 (びよういん): tiệm cắt tóc / làm đẹp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "kanji": "蒙",
+  "meta": {
+    "weight": 2321,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モウ",
+      "ボウ"
+    ],
+    "kun": [
+      "こうむ.る",
+      "おお.う",
+      "くら.い"
+    ],
+    "am_han": "MÔNG"
+  },
+  "meaning": {
+    "vi": "sự ngu dốt, bóng tối, nhận được, phải chịu, duy trì, Mông Cổ",
+    "en": "ignorance, darkness, get, receive, be subjected to, sustain, Mongolia"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/蒙.svg"
+  },
+  "frequency": 2360,
+  "examples": [
+    "啓蒙",
+    "蒙"
+  ],
+  "explanation": {
+    "id": "7616",
+    "text": "蒙 (đọc là \"mou\" hoặc \"kakaru\") có nghĩa là \"mờ mịt\", \"không rõ ràng\", thường chỉ tình trạng thiếu hiểu biết hoặc sự bảo vệ.  \n\nVí dụ:  \n- 蒙昧 (moumaku): Dốt nát, ngu muội.  \n- 蒙受 (moushu): Nh"
+  },
+  "comments": [
+    {
+      "id": "156579",
+      "lang": "vi",
+      "content_html": "<p>Mông là nhà cỏ...</p>",
+      "content_text": "Mông là nhà cỏ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156580",
+      "lang": "vi",
+      "content_html": "<p>Ở nhà trồng cỏ chẳng trông MÔNG gì được, chỉ có dốt thôi</p>",
+      "content_text": "Ở nhà trồng cỏ chẳng trông MÔNG gì được, chỉ có dốt thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

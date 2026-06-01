@@ -1,0 +1,84 @@
+{
+  "kanji": "丙",
+  "meta": {
+    "weight": 85,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘイ"
+    ],
+    "kun": [
+      "ひのえ"
+    ],
+    "am_han": "BÍNH"
+  },
+  "meaning": {
+    "vi": "lớp thứ ba, thứ ba, thứ ba lịch thứ ba",
+    "en": "third class, 3rd, 3rd calendar sign"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/丙.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6984",
+    "text": "丙 (đọc là \"hei\" hoặc \"bō\") có nghĩa là \"thứ ba\" trong hệ thống phân loại, thường dùng trong các văn bản pháp lý hoặc lịch. \n\nVí dụ:\n- 丙午 (hēi wǔ): Năm Giáp Ngọ (theo lịch Trung Quốc).\n- 丙類 ("
+  },
+  "comments": [
+    {
+      "id": "218784",
+      "lang": "vi",
+      "content_html": "<p>BÍNH bong 1 tiếng bên Trong cái chuông</p>",
+      "content_text": "BÍNH bong 1 tiếng bên Trong cái chuông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218785",
+      "lang": "vi",
+      "content_html": "<p>BÍNH đẹp trai NHẤT họ NỘI</p>",
+      "content_text": "BÍNH đẹp trai NHẤT họ NỘI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218786",
+      "lang": "vi",
+      "content_html": "<p>năm bính ngọ thì trong nhà 1 miếng ăn cũng k có</p>",
+      "content_text": "năm bính ngọ thì trong nhà 1 miếng ăn cũng k có",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

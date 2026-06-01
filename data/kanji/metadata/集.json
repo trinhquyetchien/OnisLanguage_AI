@@ -1,0 +1,92 @@
+{
+  "kanji": "集",
+  "meta": {
+    "weight": 2856,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "あつ.まる",
+      "あつ.める",
+      "つど.う"
+    ],
+    "am_han": "TẬP"
+  },
+  "meaning": {
+    "vi": "tụ tập, tập hợp",
+    "en": "gather, meet, congregate, swarm, flock"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/集.svg"
+  },
+  "frequency": 210,
+  "examples": [
+    "編集",
+    "集",
+    "集中",
+    "集め",
+    "集団"
+  ],
+  "explanation": {
+    "id": "3537",
+    "text": "集 (đọc là \"shuu\" hoặc \"atsumeru\") có nghĩa là \"tập hợp\", \"thu thập\" để chỉ hành động gom lại, tập trung hoặc thu thập các vật thể hoặc thông tin.\n\nVí dụ:\n- 集合 (shuu gō): Tập hợp, nhóm lại.\n-"
+  },
+  "comments": [
+    {
+      "id": "36950",
+      "lang": "vi",
+      "content_html": "<p>Những con chim<strong> tập hợp</strong> trên cây (木).</p>",
+      "content_text": "Những con chim\ntập hợp\ntrên cây (木).",
+      "image_url": "https://jpdictionary.com/upload/images/62bc467057752.jpg",
+      "image_path": "assets/images/集_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191225",
+      "lang": "vi",
+      "content_html": "<p><strong>tập </strong>hợp - 集る (あつまる)</p>",
+      "content_text": "tập\nhợp - 集る (あつまる)",
+      "image_url": "https://jpdictionary.com/upload/images/648ade418da34.jpg",
+      "image_path": "assets/images/集_2.jpg",
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158374",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>集る (あつまる): tập hợp<br>集める (あつめる): thu thập</p>",
+      "content_text": "JLPT N4\n集る (あつまる): tập hợp\n集める (あつめる): thu thập",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

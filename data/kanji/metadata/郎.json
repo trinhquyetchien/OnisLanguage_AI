@@ -1,0 +1,91 @@
+{
+  "kanji": "郎",
+  "meta": {
+    "weight": 2702,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロウ",
+      "リョウ"
+    ],
+    "kun": [
+      "おとこ"
+    ],
+    "am_han": "LANG, LẢNG, LOANG, LOEN, LOẺN, SANG"
+  },
+  "meaning": {
+    "vi": "con trai, truy cập cho con trai",
+    "en": "son, counter for sons"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/郎.svg"
+  },
+  "frequency": 569,
+  "examples": [
+    "郎",
+    "三郎",
+    "野郎",
+    "新郎",
+    "金太郎"
+  ],
+  "explanation": {
+    "id": "8360",
+    "text": "郎 (đọc là \"rō\") có nghĩa là \"nam\" hoặc \"trai trẻ\", thường được dùng để chỉ người đàn ông, đặc biệt là trong ngữ cảnh chỉ con trai hoặc thanh niên. \n\nVí dụ:\n- 郎君 (rōkun): Chàng trai, chàng.\n-"
+  },
+  "comments": [
+    {
+      "id": "157442",
+      "lang": "vi",
+      "content_html": "<p>Người bụng to do ăn tốt kia chính là tân Lang</p>",
+      "content_text": "Người bụng to do ăn tốt kia chính là tân Lang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157443",
+      "lang": "vi",
+      "content_html": "<p>Lang bạt đến vùng đất tốt</p>",
+      "content_text": "Lang bạt đến vùng đất tốt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157444",
+      "lang": "vi",
+      "content_html": "<p>Con trai là phải biết lang bạt tới những vùng đất tốt để kiếm ăn</p>",
+      "content_text": "Con trai là phải biết lang bạt tới những vùng đất tốt để kiếm ăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

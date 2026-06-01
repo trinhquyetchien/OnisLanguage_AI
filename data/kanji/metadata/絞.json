@@ -1,0 +1,92 @@
+{
+  "kanji": "絞",
+  "meta": {
+    "weight": 2074,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "しぼ.る",
+      "し.める",
+      "し.まる"
+    ],
+    "am_han": "GIẢO, HÀO"
+  },
+  "meaning": {
+    "vi": "bóp cổ, thắt lại, vắt",
+    "en": "strangle, constrict, wring"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/絞.svg"
+  },
+  "frequency": 1288,
+  "examples": [
+    "絞り",
+    "絞る",
+    "絞り込み",
+    "絞り込む",
+    "絞める"
+  ],
+  "explanation": {
+    "id": "2519",
+    "text": "絞 (đọc là \"kō\" hoặc \"shaku\") có nghĩa là \"vắt\", \"siết chặt\", thường chỉ các hành động liên quan đến việc vắt nước hoặc siết một vật gì đó.\n\nVí dụ:\n- 絞り (shibori): Vắt, nén (thường dùng để ch"
+  },
+  "comments": [
+    {
+      "id": "156041",
+      "lang": "vi",
+      "content_html": "<p>Sợi dây giao nhau là điểm thắt siết bóp...</p>",
+      "content_text": "Sợi dây giao nhau là điểm thắt siết bóp...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156042",
+      "lang": "vi",
+      "content_html": "<p>Giao cho GIẢO VẮT kiệt sợi Dây</p>",
+      "content_text": "Giao cho GIẢO VẮT kiệt sợi Dây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156043",
+      "lang": "vi",
+      "content_html": "<p>Vắt một mảnh vải thì những sợi chỉ giao chéo nhau</p>",
+      "content_text": "Vắt một mảnh vải thì những sợi chỉ giao chéo nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

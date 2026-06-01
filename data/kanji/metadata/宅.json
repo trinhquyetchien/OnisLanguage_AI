@@ -1,0 +1,105 @@
+{
+  "kanji": "宅",
+  "meta": {
+    "weight": 704,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タク"
+    ],
+    "kun": [],
+    "am_han": "TRẠCH"
+  },
+  "meaning": {
+    "vi": "nhà",
+    "en": "home, house, residence, our house, my husband"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/宅.svg"
+  },
+  "frequency": 357,
+  "examples": [
+    "住宅",
+    "自宅",
+    "帰宅",
+    "宅",
+    "在宅"
+  ],
+  "explanation": {
+    "id": "5026",
+    "text": "宅 (đọc là \"taku\") có nghĩa là \"nhà\", \"chỗ ở\" để chỉ nơi cư trú hoặc không gian sống.\n\nVí dụ:\n- 自宅 (jitaku): Nhà riêng, nơi ở của mình.\n- 宅配 (takuhai): Giao hàng tận nhà.\n- 宅録 (takuroku): Ghi"
+  },
+  "comments": [
+    {
+      "id": "37119",
+      "lang": "vi",
+      "content_html": "<p>Tôi thích ở trong <strong>nhà </strong>mình.</p>",
+      "content_text": "Tôi thích ở trong\nnhà\nmình.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb48488215.jpg",
+      "image_path": "assets/images/宅_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152919",
+      "lang": "vi",
+      "content_html": "<p>nhà mi ở mô nhơn trạch</p>",
+      "content_text": "nhà mi ở mô nhơn trạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152920",
+      "lang": "vi",
+      "content_html": "<p>Dưới MÁI NHÀ có 7 con TRẠCH</p>",
+      "content_text": "Dưới MÁI NHÀ có 7 con TRẠCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152921",
+      "lang": "vi",
+      "content_html": "<p>Anh Miên đi mô cũng về Nhơn Trạch</p>",
+      "content_text": "Anh Miên đi mô cũng về Nhơn Trạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

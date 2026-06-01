@@ -1,0 +1,108 @@
+{
+  "kanji": "五",
+  "meta": {
+    "weight": 116,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴ"
+    ],
+    "kun": [
+      "いつ",
+      "いつ.つ"
+    ],
+    "am_han": "NGŨ"
+  },
+  "meaning": {
+    "vi": "năm",
+    "en": "five"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/五.svg"
+  },
+  "frequency": 31,
+  "examples": [
+    "五",
+    "五月",
+    "五輪",
+    "五つ",
+    "五感"
+  ],
+  "explanation": {
+    "id": "2316",
+    "text": "五 (đọc là \"go\") có nghĩa là \"số năm\" để chỉ con số 5 trong tiếng Nhật. \n\nVí dụ:\n- 五つ (itsutsu): Năm cái, năm món.\n- 五十 (goju): Năm mươi.\n- 五輪 (gorin): Năm vòng, biểu tượng Olympic."
+  },
+  "comments": [
+    {
+      "id": "455",
+      "lang": "vi",
+      "content_html": "<p>Bạn có thể tạo thành hình chữ 「五」với 5 que diêm không?</p>",
+      "content_text": "Bạn có thể tạo thành hình chữ 「五」với 5 que diêm không?",
+      "image_url": "https://jpdictionary.com/upload/images/62975fb2f21b8.jpg",
+      "image_path": "assets/images/五_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "218623",
+      "lang": "vi",
+      "content_html": "",
+      "content_text": "",
+      "image_url": "https://jpdictionary.com/upload/images/653889443e646.jpg",
+      "image_path": "assets/images/五_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158337",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>五 (ご): số 5</p>",
+      "content_text": "JLPT N5\n五 (ご): số 5",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "158356",
+      "lang": "vi",
+      "content_html": "<p>Bắt chân hình chữ NGŨ</p>",
+      "content_text": "Bắt chân hình chữ NGŨ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

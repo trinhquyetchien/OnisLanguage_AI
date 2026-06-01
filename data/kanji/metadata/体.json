@@ -1,0 +1,109 @@
+{
+  "kanji": "体",
+  "meta": {
+    "weight": 174,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ",
+      "テイ"
+    ],
+    "kun": [
+      "からだ",
+      "かたち"
+    ],
+    "am_han": "THỂ"
+  },
+  "meaning": {
+    "vi": "cơ thể",
+    "en": "body, substance, object, reality, counter for images"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/体.svg"
+  },
+  "frequency": 88,
+  "examples": [
+    "体",
+    "全体",
+    "具体",
+    "団体",
+    "体験"
+  ],
+  "explanation": {
+    "id": "4918",
+    "text": "体 (đọc là \"tai\" hoặc \"karada\") có nghĩa là \"thân thể\" hoặc \"cơ thể\", thường dùng để chỉ hình dạng vật lý hoặc cơ cấu cơ thể con người và động vật. \n\nVí dụ:\n- 体温 (taion): Nhiệt độ cơ thể.\n- 体"
+  },
+  "comments": [
+    {
+      "id": "732",
+      "lang": "vi",
+      "content_html": "<p>Khi<strong> cơ thể </strong>bị thương thì chúng ta băng bó lại rồi nghỉ ngơi (休).</p>",
+      "content_text": "Khi\ncơ thể\nbị thương thì chúng ta băng bó lại rồi nghỉ ngơi (休).",
+      "image_url": "https://jpdictionary.com/upload/images/629841ed51bda.jpg",
+      "image_path": "assets/images/体_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151630",
+      "lang": "vi",
+      "content_html": "<p>người(亻) mà nhiều như cây(本) gọi là tập THỂ</p>",
+      "content_text": "người(亻) mà nhiều như cây(本) gọi là tập THỂ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158288",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>体 (からだ): cơ thể<br>大体 (だいたい): đại khái, nói chung<br>体重 (たいじゅう): cân nặng<br>体温計 (たいおんけい): nhiệt kế</p>",
+      "content_text": "JLPT N4\n体 (からだ): cơ thể\n大体 (だいたい): đại khái, nói chung\n体重 (たいじゅう): cân nặng\n体温計 (たいおんけい): nhiệt kế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221843",
+      "lang": "vi",
+      "content_html": "<p>Đây là chữ giản thể của <strong>體</strong>, <strong>体 </strong>gồm <strong>Nhân </strong>+ <strong>Bản</strong>, cái <strong>Gốc </strong>của mỗi <strong>Người </strong>chính là <strong>Cơ thể</strong>, vì vậy mọi người nên chú ý đến sức khỏe thể chất nhé.</p>",
+      "content_text": "Đây là chữ giản thể của\n體\n,\n体\ngồm\nNhân\n+\nBản\n, cái\nGốc\ncủa mỗi\nNgười\nchính là\nCơ thể\n, vì vậy mọi người nên chú ý đến sức khỏe thể chất nhé.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

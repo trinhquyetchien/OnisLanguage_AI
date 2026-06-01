@@ -1,0 +1,90 @@
+{
+  "kanji": "芽",
+  "meta": {
+    "weight": 2260,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガ"
+    ],
+    "kun": [
+      "め"
+    ],
+    "am_han": "NHA"
+  },
+  "meaning": {
+    "vi": "chồi, nảy mầm, giáo, mầm",
+    "en": "bud, sprout, spear, germ"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/芽.svg"
+  },
+  "frequency": 1691,
+  "examples": [
+    "芽",
+    "芽生え",
+    "発芽",
+    "萌芽",
+    "新芽"
+  ],
+  "explanation": {
+    "id": "732",
+    "text": "芽 (đọc là \"me\") có nghĩa là \"mầm\", chỉ các phần non của cây cỏ khi bắt đầu phát triển. \n\nVí dụ:\n- 芽生える (mebaeru): Nảy mầm, đâm chồi.\n- 芽キャベツ (me kyabetsu): Cải Brussels.\n- 芽吹く (mebuku): Đâm "
+  },
+  "comments": [
+    {
+      "id": "156482",
+      "lang": "vi",
+      "content_html": "<p>Cô giáo thảo ( 艹 THẢO) vừa ăn Nha đam (牙 NHA)  vừa cầm ô.  ( ở dưới như chữ Ô  katakana)</p>",
+      "content_text": "Cô giáo thảo ( 艹 THẢO) vừa ăn Nha đam (牙 NHA)  vừa cầm ô.  ( ở dưới như chữ Ô  katakana)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156483",
+      "lang": "vi",
+      "content_html": "<p>9 ngọn cỏ đang đâm mầm</p>",
+      "content_text": "9 ngọn cỏ đang đâm mầm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156484",
+      "lang": "vi",
+      "content_html": "<p>Cố giáo thảo ăn kẹo mạch nha</p>",
+      "content_text": "Cố giáo thảo ăn kẹo mạch nha",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

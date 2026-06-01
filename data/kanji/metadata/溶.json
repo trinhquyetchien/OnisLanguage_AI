@@ -1,0 +1,92 @@
+{
+  "kanji": "溶",
+  "meta": {
+    "weight": 1596,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "と.ける",
+      "と.かす",
+      "と.く"
+    ],
+    "am_han": "DUNG"
+  },
+  "meaning": {
+    "vi": "tan chảy",
+    "en": "melt, dissolve, thaw"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/溶.svg"
+  },
+  "frequency": 1364,
+  "examples": [
+    "溶接",
+    "溶解",
+    "溶剤",
+    "溶液",
+    "溶ける"
+  ],
+  "explanation": {
+    "id": "7875",
+    "text": "溶 (đọc là \"yō\") có nghĩa là \"tan chảy\", chỉ các hành động liên quan đến việc làm cho một chất nào đó hòa tan hoặc bị biến đổi trạng thái thành lỏng.\n\nVí dụ:\n- 溶ける (tokeru): Tan chảy, hòa tan"
+  },
+  "comments": [
+    {
+      "id": "155034",
+      "lang": "vi",
+      "content_html": "<p>Tuyết tan ra thành nước chảy xuyên từ mái nhà xuống thung lũng</p>",
+      "content_text": "Tuyết tan ra thành nước chảy xuyên từ mái nhà xuống thung lũng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155035",
+      "lang": "vi",
+      "content_html": "<p>Dung dịch thì bằng dung môi cộng vs nước</p>",
+      "content_text": "Dung dịch thì bằng dung môi cộng vs nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155036",
+      "lang": "vi",
+      "content_html": "<p>Dung dịch chảy từ mái nhà xuống cái cốc</p>",
+      "content_text": "Dung dịch chảy từ mái nhà xuống cái cốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

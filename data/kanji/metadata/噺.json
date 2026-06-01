@@ -1,0 +1,33 @@
+{
+  "kanji": "噺",
+  "meta": {
+    "weight": 527,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "はなし"
+    ],
+    "am_han": "KHẨU"
+  },
+  "meaning": {
+    "vi": "nói chuyện, (kokuji)",
+    "en": "talk, (kokuji)"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/噺.svg"
+  },
+  "frequency": 2308,
+  "examples": [
+    "噺",
+    "噺家"
+  ],
+  "explanation": {
+    "id": "6429",
+    "text": "噺 (đọc là \"hana\") có nghĩa là \"câu chuyện\", \"giai thoại\", thường được dùng để chỉ những câu chuyện hài hước hoặc giải trí.  \nVí dụ:  \n- 噺家 (hanashika): Người kể chuyện, nghệ sĩ kể chuyện.  \n"
+  },
+  "comments": []
+}

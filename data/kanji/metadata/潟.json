@@ -1,0 +1,89 @@
+{
+  "kanji": "潟",
+  "meta": {
+    "weight": 1620,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ"
+    ],
+    "kun": [
+      "かた",
+      "-がた"
+    ],
+    "am_han": "TÍCH"
+  },
+  "meaning": {
+    "vi": "đầm phá",
+    "en": "lagoon"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/潟.svg"
+  },
+  "frequency": 1204,
+  "examples": [
+    "新潟",
+    "干潟",
+    "潟"
+  ],
+  "explanation": {
+    "id": "967",
+    "text": "潟 (đọc là \"kata\") có nghĩa là \"bãi bùn\", chỉ các vùng đất ngập nước hoặc bãi lầy ven biển.  \nVí dụ:  \n- 干潟 (higata): Bãi bùn, vùng đất ngập nước.  \n- 潟湖 (takako): Hồ bãi bùn, hồ có bãi lầy. "
+  },
+  "comments": [
+    {
+      "id": "155097",
+      "lang": "vi",
+      "content_html": "<p>TÍCH luỹ Cối đá làm đê Bao bọc Bãi Đất Ven Biển</p>",
+      "content_text": "TÍCH luỹ Cối đá làm đê Bao bọc Bãi Đất Ven Biển",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155098",
+      "lang": "vi",
+      "content_html": "<p>Đất mặn là loại đất ngậm nước biển do đó luôn ở trạng thái nhão<br>nhoét. Ở đây ta có hình cái cối với những thứ được bao lại (cho<br>trong cối để giã); sau đó rồi dùng lửa đun rồi đổ thêm nước vào -<br>sẽ ra 1 dung dịch nhão nhoét như là đất ngậm nước biển vậy.</p>",
+      "content_text": "Đất mặn là loại đất ngậm nước biển do đó luôn ở trạng thái nhão\nnhoét. Ở đây ta có hình cái cối với những thứ được bao lại (cho\ntrong cối để giã); sau đó rồi dùng lửa đun rồi đổ thêm nước vào -\nsẽ ra 1 dung dịch nhão nhoét như là đất ngậm nước biển vậy.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155099",
+      "lang": "vi",
+      "content_html": "<p>Dấu tích của những cối đá bao quanh bếp lửa ở bãi biển</p>",
+      "content_text": "Dấu tích của những cối đá bao quanh bếp lửa ở bãi biển",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

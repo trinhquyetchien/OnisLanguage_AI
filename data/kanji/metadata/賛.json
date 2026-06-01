@@ -1,0 +1,108 @@
+{
+  "kanji": "賛",
+  "meta": {
+    "weight": 2569,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン"
+    ],
+    "kun": [
+      "たす.ける",
+      "たた.える"
+    ],
+    "am_han": "TÁN"
+  },
+  "meaning": {
+    "vi": "tán thành",
+    "en": "approve, praise, title or inscription on picture, assist, agree with"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/賛.svg"
+  },
+  "frequency": 868,
+  "examples": [
+    "賛成",
+    "賛同",
+    "絶賛",
+    "賞賛",
+    "賛否"
+  ],
+  "explanation": {
+    "id": "3020",
+    "text": "賛 (đọc là \"san\") có nghĩa là \"tán thành\", \"khen ngợi\", chỉ hành động đồng ý hoặc ca ngợi điều gì đó.\n\nVí dụ:\n- 賛成 (sansei): Tán thành, đồng ý.\n- 賛美 (sanbi): Khen ngợi, ca ngợi.\n- 賛助 (sansho)"
+  },
+  "comments": [
+    {
+      "id": "37254",
+      "lang": "vi",
+      "content_html": "<p>Mọi người đã <strong>tán thưởng</strong> những người chồng (夫) mang chiếc vỏ sò (貝) lớn về nhà.</p>",
+      "content_text": "Mọi người đã\ntán thưởng\nnhững người chồng (夫) mang chiếc vỏ sò (貝) lớn về nhà.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfda85ba816.jpg",
+      "image_path": "assets/images/賛_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157112",
+      "lang": "vi",
+      "content_html": "<p>2 ông chồng ( 夫,) tán thành dùng chung con sò lông (貝)</p>",
+      "content_text": "2 ông chồng ( 夫,) tán thành dùng chung con sò lông (貝)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157113",
+      "lang": "vi",
+      "content_html": "<p>Có tiền thì tán thành đồng ý cưới được cả 2 chồng</p>",
+      "content_text": "Có tiền thì tán thành đồng ý cưới được cả 2 chồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157114",
+      "lang": "vi",
+      "content_html": "<p>Chỉ cần có được 2 người Chồng với có Tiền thì việc gì tôi cũng Tán thành hết</p>",
+      "content_text": "Chỉ cần có được 2 người Chồng với có Tiền thì việc gì tôi cũng Tán thành hết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

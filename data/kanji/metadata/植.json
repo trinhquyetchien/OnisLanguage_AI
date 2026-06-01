@@ -1,0 +1,91 @@
+{
+  "kanji": "植",
+  "meta": {
+    "weight": 1384,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショク"
+    ],
+    "kun": [
+      "う.える",
+      "う.わる"
+    ],
+    "am_han": "THỰC"
+  },
+  "meaning": {
+    "vi": "thực vật",
+    "en": "plant"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/植.svg"
+  },
+  "frequency": 699,
+  "examples": [
+    "植物",
+    "植民",
+    "移植",
+    "植木",
+    "入植"
+  ],
+  "explanation": {
+    "id": "4015",
+    "text": "植 (đọc là \"shoku\" hoặc \"uete\") có nghĩa là \"trồng\", \"cây cối\" để chỉ các hành động liên quan đến việc trồng cây hoặc thực vật.\n\nVí dụ:\n- 植物 (shokubutsu): Thực vật, cây cối.\n- 植える (ueru): Trồ"
+  },
+  "comments": [
+    {
+      "id": "154563",
+      "lang": "vi",
+      "content_html": "<p>Trực tiếp trồng cây</p>",
+      "content_text": "Trực tiếp trồng cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154564",
+      "lang": "vi",
+      "content_html": "<p>TRỰC tiếp trồng THỰC vật, k chăn nuôi</p>",
+      "content_text": "TRỰC tiếp trồng THỰC vật, k chăn nuôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154565",
+      "lang": "vi",
+      "content_html": "<p>ở trên CÂY có MƯỜI con MẮT nhìn xuống một người đang NGỒI ở dưới đất, thù THỰC sự đáng sợ.</p>",
+      "content_text": "ở trên CÂY có MƯỜI con MẮT nhìn xuống một người đang NGỒI ở dưới đất, thù THỰC sự đáng sợ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

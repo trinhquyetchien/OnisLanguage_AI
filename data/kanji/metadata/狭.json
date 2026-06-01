@@ -1,0 +1,94 @@
+{
+  "kanji": "狭",
+  "meta": {
+    "weight": 1714,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ",
+      "コウ"
+    ],
+    "kun": [
+      "せま.い",
+      "せば.める",
+      "せば.まる",
+      "さ"
+    ],
+    "am_han": "HIỆP, HẸP"
+  },
+  "meaning": {
+    "vi": "chật chội, chật hẹp, hợp đồng, chặt chẽ",
+    "en": "cramped, narrow, contract, tight"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/狭.svg"
+  },
+  "frequency": 1346,
+  "examples": [
+    "狭い",
+    "狭",
+    "狭間",
+    "狭義",
+    "狭し"
+  ],
+  "explanation": {
+    "id": "1685",
+    "text": "狭 (đọc là \"kyō\" hoặc \"se\", nghĩa là \"hẹp\", \"chật\") chỉ trạng thái không gian bị giới hạn, thường liên quan đến kích thước nhỏ hoặc sự chật chội.\n\nVí dụ:\n- 狭い (semai): Hẹp, chật.\n- 狭隘 (kyōai)"
+  },
+  "comments": [
+    {
+      "id": "155275",
+      "lang": "vi",
+      "content_html": "<p>HIỆP 2, con CHÓ chui qua 2 ngọn LỬA HẸP</p>",
+      "content_text": "HIỆP 2, con CHÓ chui qua 2 ngọn LỬA HẸP",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155276",
+      "lang": "vi",
+      "content_html": "<p>loài chó 犭thì suy nghĩ hạn hẹp 夹</p>",
+      "content_text": "loài chó 犭thì suy nghĩ hạn hẹp 夹",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155277",
+      "lang": "vi",
+      "content_html": "<p>Hai người ép chặt tay lại đi đi qua con ngõ hẹp</p>",
+      "content_text": "Hai người ép chặt tay lại đi đi qua con ngõ hẹp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

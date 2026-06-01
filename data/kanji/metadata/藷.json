@@ -1,0 +1,51 @@
+{
+  "kanji": "藷",
+  "meta": {
+    "weight": 2362,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショ",
+      "ジョ"
+    ],
+    "kun": [
+      "いも"
+    ],
+    "am_han": "THỰ"
+  },
+  "meaning": {
+    "vi": "khoai tây",
+    "en": "potato"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/藷.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3713",
+    "text": "藷 (đọc là \"ja\" hoặc \"satoimo\") có nghĩa là \"khoai môn\" hoặc \"củ lang\", chỉ các loại củ được trồng để làm thực phẩm. \n\nVí dụ:\n- 藷 (satoimo): Khoai môn.\n- 藷饅頭 (satoimonjū): Bánh bao nhân khoai"
+  },
+  "comments": [
+    {
+      "id": "220591",
+      "lang": "vi",
+      "content_html": "<p>thảo mai nói lời giả tạo ngọt như khoai lang mật</p>",
+      "content_text": "thảo mai nói lời giả tạo ngọt như khoai lang mật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

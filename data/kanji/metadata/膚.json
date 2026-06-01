@@ -1,0 +1,86 @@
+{
+  "kanji": "膚",
+  "meta": {
+    "weight": 2212,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "はだ"
+    ],
+    "am_han": "PHU"
+  },
+  "meaning": {
+    "vi": "da",
+    "en": "skin, body, grain, texture, disposition"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/膚.svg"
+  },
+  "frequency": 1679,
+  "examples": [
+    "皮膚"
+  ],
+  "explanation": {
+    "id": "6837",
+    "text": "膚 (đọc là \"fū\") có nghĩa là \"da\" để chỉ lớp ngoài cùng của cơ thể, liên quan đến các vấn đề về da và cảm nhận.  \nVí dụ:  \n- 膚色 (fushoku): Màu da.  \n- 膚触り (fuzawari): Cảm giác khi chạm vào da"
+  },
+  "comments": [
+    {
+      "id": "156368",
+      "lang": "vi",
+      "content_html": "<p>Ở trong nhà 7 七 ngày ngắm ruộng ngắm trăng quả thật là cung PHU</p>",
+      "content_text": "Ở trong nhà 7 七 ngày ngắm ruộng ngắm trăng quả thật là cung PHU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156369",
+      "lang": "vi",
+      "content_html": "<p>Lột DA Tra tấn 7 Vị Thầy Bói 1 cách Vũ PHU</p>",
+      "content_text": "Lột DA Tra tấn 7 Vị Thầy Bói 1 cách Vũ PHU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156370",
+      "lang": "vi",
+      "content_html": "<p>Chế biến ruột vị dạ dày con hổ một cách công Phu</p>",
+      "content_text": "Chế biến ruột vị dạ dày con hổ một cách công Phu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

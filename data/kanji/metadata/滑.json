@@ -1,0 +1,92 @@
+{
+  "kanji": "滑",
+  "meta": {
+    "weight": 1600,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カツ",
+      "コツ"
+    ],
+    "kun": [
+      "すべ.る",
+      "なめ.らか"
+    ],
+    "am_han": "HOẠT, CỐT"
+  },
+  "meaning": {
+    "vi": "trơn trượt, trượt, trượt kỳ thi",
+    "en": "slippery, slide, slip, fail exam"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/滑.svg"
+  },
+  "frequency": 1238,
+  "examples": [
+    "円滑",
+    "滑走",
+    "滑り",
+    "滑稽",
+    "滑らか"
+  ],
+  "explanation": {
+    "id": "988",
+    "text": "滑 (đọc là \"katsu\" hoặc \"suberu\") có nghĩa là \"trượt\", \"trơn\" để chỉ các hành động liên quan đến sự trơn tru, lướt nhẹ hoặc không bám dính.\n\nVí dụ:\n- 滑る (suberu): Trượt ngã, lướt.\n- 滑走路 (kass"
+  },
+  "comments": [
+    {
+      "id": "155043",
+      "lang": "vi",
+      "content_html": "<p>Khi uống sữa (bộ thủy) thì sương cốt dễ hoạt động hơn</p>",
+      "content_text": "Khi uống sữa (bộ thủy) thì sương cốt dễ hoạt động hơn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155044",
+      "lang": "vi",
+      "content_html": "<p>Dẫn vào nước trượt ngã gẫy mẹ sương ( cốt)</p>",
+      "content_text": "Dẫn vào nước trượt ngã gẫy mẹ sương ( cốt)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155045",
+      "lang": "vi",
+      "content_html": "<p>Nước làm cho xương Cốt trơn tru linh Hoạt</p>",
+      "content_text": "Nước làm cho xương Cốt trơn tru linh Hoạt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

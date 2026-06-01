@@ -1,0 +1,92 @@
+{
+  "kanji": "卑",
+  "meta": {
+    "weight": 389,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "いや.しい",
+      "いや.しむ",
+      "いや.しめる"
+    ],
+    "am_han": "TI"
+  },
+  "meaning": {
+    "vi": "hèn mọn, cơ bản, thấp hèn, thô tục",
+    "en": "lowly, base, vile, vulgar"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/卑.svg"
+  },
+  "frequency": 2003,
+  "examples": [
+    "卑怯",
+    "卑劣",
+    "卑屈",
+    "卑しい",
+    "卑下"
+  ],
+  "explanation": {
+    "id": "20301",
+    "text": "卑 (đọc là \"sō\") có nghĩa là \"giấy\" hoặc \"tờ giấy\", thường liên quan đến các chất liệu làm từ giấy hoặc tài liệu.  \nVí dụ:  \n- 卑類 (sōrui): Loại giấy, chủng loại giấy.  \n- 卑器 (sōki): Dụng cụ b"
+  },
+  "comments": [
+    {
+      "id": "152168",
+      "lang": "vi",
+      "content_html": "<p>Vì 4 cái ruộng mà ti hèn bần tiện</p>",
+      "content_text": "Vì 4 cái ruộng mà ti hèn bần tiện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152169",
+      "lang": "vi",
+      "content_html": "<p>Làm CHỦ 4 cái RUỘNG mà vẫn tự TI</p>",
+      "content_text": "Làm CHỦ 4 cái RUỘNG mà vẫn tự TI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152170",
+      "lang": "vi",
+      "content_html": "<p>Vì 4 cái ruộng mà ti hèn rụng chỉ còn 1 sợi tóc</p>",
+      "content_text": "Vì 4 cái ruộng mà ti hèn rụng chỉ còn 1 sợi tóc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

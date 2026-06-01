@@ -1,0 +1,88 @@
+{
+  "kanji": "鍵",
+  "meta": {
+    "weight": 2785,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "かぎ"
+    ],
+    "am_han": "KIỆN"
+  },
+  "meaning": {
+    "vi": "Chìa khóa",
+    "en": "key"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/鍵.svg"
+  },
+  "frequency": 2029,
+  "examples": [
+    "鍵",
+    "鍵盤",
+    "鍵穴"
+  ],
+  "explanation": {
+    "id": "2185",
+    "text": "鍵 (đọc là \"ken\" hoặc \"kagi\") có nghĩa là \"chìa khóa\" để chỉ các vật dụng dùng để mở khóa hoặc bảo vệ.  \nVí dụ:  \n- 鍵盤 (kenban): Bàn phím.  \n- 鍵をかける (kagi o kakeru): Khóa (cái gì đó).  \n- 鍵屋 "
+  },
+  "comments": [
+    {
+      "id": "157598",
+      "lang": "vi",
+      "content_html": "<p>Kim loại đc kiến thiết thành ổ khoá</p>",
+      "content_text": "Kim loại đc kiến thiết thành ổ khoá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157599",
+      "lang": "vi",
+      "content_html": "<p>kim loại để bảo vệ công trình kiến trúc là gì thì các bạn tự hiểu</p>",
+      "content_text": "kim loại để bảo vệ công trình kiến trúc là gì thì các bạn tự hiểu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157600",
+      "lang": "vi",
+      "content_html": "<p>Dùng KIM loại KIẾN thiết 1 KIỆN chìa khoá</p>",
+      "content_text": "Dùng KIM loại KIẾN thiết 1 KIỆN chìa khoá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

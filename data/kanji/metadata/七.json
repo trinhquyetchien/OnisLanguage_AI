@@ -1,0 +1,109 @@
+{
+  "kanji": "七",
+  "meta": {
+    "weight": 73,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シチ"
+    ],
+    "kun": [
+      "なな",
+      "なな.つ",
+      "なの"
+    ],
+    "am_han": "THẤT"
+  },
+  "meaning": {
+    "vi": "bảy",
+    "en": "seven"
+  },
+  "stroke": {
+    "count": 2,
+    "svg": "assets/svg/七.svg"
+  },
+  "frequency": 115,
+  "examples": [
+    "七",
+    "七月",
+    "七夕",
+    "七つ",
+    "七面鳥"
+  ],
+  "explanation": {
+    "id": "3260",
+    "text": "七 (đọc là \"shichi\" hoặc \"nana\") có nghĩa là \"số bảy\". Nó được sử dụng để chỉ con số 7 trong các ngữ cảnh khác nhau.\n\nVí dụ:\n- 七夕 (tanabata): Lễ hội Ngưu Lang Chức Nữ, diễn ra vào ngày 7 thán"
+  },
+  "comments": [
+    {
+      "id": "457",
+      "lang": "vi",
+      "content_html": "<p>2 cộng 5 bằng 7.</p>",
+      "content_text": "2 cộng 5 bằng 7.",
+      "image_url": "https://jpdictionary.com/upload/images/62975fed2815b.jpg",
+      "image_path": "assets/images/七_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151387",
+      "lang": "vi",
+      "content_html": "<p>Số 7 viết ngược.</p>",
+      "content_text": "Số 7 viết ngược.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158451",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>七 (しち/なな): bảy</p>",
+      "content_text": "JLPT N5\n七 (しち/なな): bảy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "222295",
+      "lang": "vi",
+      "content_html": "<p>Nhị thập thất</p>",
+      "content_text": "Nhị thập thất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5155",
+        "name": "Doan The Anh (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/66e4a5e9678a0.png"
+      }
+    }
+  ]
+}

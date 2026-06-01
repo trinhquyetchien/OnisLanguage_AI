@@ -1,0 +1,86 @@
+{
+  "kanji": "鹸",
+  "meta": {
+    "weight": 3015,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン",
+      "カン",
+      "セン"
+    ],
+    "kun": [
+      "あ.く"
+    ],
+    "am_han": "KIỀM"
+  },
+  "meaning": {
+    "vi": "độ mặn",
+    "en": "saltiness"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/鹸.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2197",
+    "text": "鹸 (đọc là \"ken\") có nghĩa là \"xà phòng\", chỉ các sản phẩm làm sạch hoặc chất béo được sử dụng trong việc tạo ra xà phòng.  \nVí dụ:  \n- 石鹸 (sekken): Xà phòng.  \n- 洗顔料 (senganryō, thường sử dụ"
+  },
+  "comments": [
+    {
+      "id": "221128",
+      "lang": "vi",
+      "content_html": "<p>Bộ Dảm/Kiềm/Thiêm nghĩa là chất bazơ.</p>",
+      "content_text": "Bộ Dảm/Kiềm/Thiêm nghĩa là chất bazơ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221129",
+      "lang": "vi",
+      "content_html": "<p>Chất kiềm<br>Mẹ ơi hoá -.-</p>",
+      "content_text": "Chất kiềm\nMẹ ơi hoá -.-",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221130",
+      "lang": "vi",
+      "content_html": "<p>Kiềm</p>",
+      "content_text": "Kiềm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "kanji": "剃",
+  "meta": {
+    "weight": 327,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "まい",
+      "そ.る",
+      "す.る"
+    ],
+    "am_han": "THẾ"
+  },
+  "meaning": {
+    "vi": "cạo râu",
+    "en": "shave"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/剃.svg"
+  },
+  "frequency": 2411,
+  "examples": [
+    "剃刀",
+    "剃る"
+  ],
+  "explanation": {
+    "id": "5534",
+    "text": "剃 (đọc là \"sei\") có nghĩa là \"cạo\" để chỉ hành động cạo râu hoặc tóc.  \nVí dụ:  \n- 剃刀 (kamishimo): Dao cạo.  \n- 剃る (soru): Cạo, cắt (tóc, râu).  \n- 剃髪 (seihatsu): Cạo đầu, thường dùng trong "
+  },
+  "comments": [
+    {
+      "id": "152019",
+      "lang": "vi",
+      "content_html": "<p>đệ mang đao đi thế kéo để cạo râu</p>",
+      "content_text": "đệ mang đao đi thế kéo để cạo râu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152020",
+      "lang": "vi",
+      "content_html": "<p>ĐỆ mang ĐAO đi đâu THẾ</p>",
+      "content_text": "ĐỆ mang ĐAO đi đâu THẾ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152021",
+      "lang": "vi",
+      "content_html": "<p>Đệ tao nó bị Đao mới Cạo tóc THẾ!</p>",
+      "content_text": "Đệ tao nó bị Đao mới Cạo tóc THẾ!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

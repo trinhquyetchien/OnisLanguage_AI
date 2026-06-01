@@ -1,0 +1,91 @@
+{
+  "kanji": "営",
+  "meta": {
+    "weight": 513,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エイ"
+    ],
+    "kun": [
+      "いとな.む",
+      "いとな.み"
+    ],
+    "am_han": "DOANH"
+  },
+  "meaning": {
+    "vi": "kinh doanh, doanh nghiệp",
+    "en": "occupation, camp, perform, build, conduct (business)"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/営.svg"
+  },
+  "frequency": 303,
+  "examples": [
+    "経営",
+    "運営",
+    "営業",
+    "民営",
+    "営利"
+  ],
+  "explanation": {
+    "id": "362",
+    "text": "営 (đọc là \"ei\") có nghĩa là \"kinh doanh\", \"hoạt động\" để chỉ các hành động liên quan đến việc tổ chức, điều hành hoặc thực hiện một công việc nào đó.  \nVí dụ:  \n- 営業 (eigyou): Kinh doanh, ho"
+  },
+  "comments": [
+    {
+      "id": "152471",
+      "lang": "vi",
+      "content_html": "<p>may ong lam kinh doanh dau to, bung to, toc thua</p>",
+      "content_text": "may ong lam kinh doanh dau to, bung to, toc thua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152472",
+      "lang": "vi",
+      "content_html": "<p>muốn kinh doanh phải có kim chỉ (いと）nam （なむ）</p>",
+      "content_text": "muốn kinh doanh phải có kim chỉ (いと）nam （なむ）",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152473",
+      "lang": "vi",
+      "content_html": "<p>khi mưa rơi xuống mái nhà thì có 2 ng đang bàn luận về chiến lược kinh doanh...</p>",
+      "content_text": "khi mưa rơi xuống mái nhà thì có 2 ng đang bàn luận về chiến lược kinh doanh...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

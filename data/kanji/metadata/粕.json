@@ -1,0 +1,32 @@
+{
+  "kanji": "粕",
+  "meta": {
+    "weight": 2029,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハク"
+    ],
+    "kun": [
+      "かす"
+    ],
+    "am_han": "PHÁCH"
+  },
+  "meaning": {
+    "vi": "phế liệu, phế thải",
+    "en": "scrap, waste"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/粕.svg"
+  },
+  "frequency": 1905,
+  "examples": [],
+  "explanation": {
+    "id": "6337",
+    "text": "粕 (đọc là \"kasu\") có nghĩa là \"bã\", \"cặn\" để chỉ các phần còn lại sau khi chế biến, thường dùng trong ngành thực phẩm và đồ uống.  \nVí dụ:  \n- 醤油粕 (shoyu kasu): Bã nước tương, phần còn lại s"
+  },
+  "comments": []
+}

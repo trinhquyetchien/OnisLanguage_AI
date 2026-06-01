@@ -1,0 +1,89 @@
+{
+  "kanji": "吊",
+  "meta": {
+    "weight": 450,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "つ.る",
+      "つる.す"
+    ],
+    "am_han": "ĐIẾU"
+  },
+  "meaning": {
+    "vi": "đình chỉ, treo, mặc (kiếm)",
+    "en": "suspend, hang, wear (sword)"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/吊.svg"
+  },
+  "frequency": 2475,
+  "examples": [
+    "吊り",
+    "吊り上げ",
+    "首吊り"
+  ],
+  "explanation": {
+    "id": "5511",
+    "text": "吊 (đọc là \"tsuri\" hoặc \"chō\") có nghĩa là \"treo\", \"hang\". Nó chỉ các hành động liên quan đến việc treo hoặc buộc.\n\nVí dụ:\n- 吊り橋 (tsuribashi): Cầu treo.\n- 吊る (tsuru): Treo lên, mắc vào.\n- 吊り下"
+  },
+  "comments": [
+    {
+      "id": "152316",
+      "lang": "vi",
+      "content_html": "<p>ra thành thị đọc điếu văn</p>",
+      "content_text": "ra thành thị đọc điếu văn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152317",
+      "lang": "vi",
+      "content_html": "<p>Treo cái Khăn lên Miệng</p>",
+      "content_text": "Treo cái Khăn lên Miệng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152318",
+      "lang": "vi",
+      "content_html": "<p>(lấy hình tượng cây điếu cày):cây điếu cày đặt trên giá đỡ</p>",
+      "content_text": "(lấy hình tượng cây điếu cày):cây điếu cày đặt trên giá đỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

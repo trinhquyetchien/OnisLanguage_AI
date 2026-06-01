@@ -1,0 +1,92 @@
+{
+  "kanji": "多",
+  "meta": {
+    "weight": 620,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タ"
+    ],
+    "kun": [
+      "おお.い",
+      "まさ.に",
+      "まさ.る"
+    ],
+    "am_han": "ĐA"
+  },
+  "meaning": {
+    "vi": "nhiều, phần đa",
+    "en": "many, frequent, much"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/多.svg"
+  },
+  "frequency": 139,
+  "examples": [
+    "多く",
+    "多い",
+    "多数",
+    "多分",
+    "多"
+  ],
+  "explanation": {
+    "id": "4868",
+    "text": "多 (đọc là \"ta\") có nghĩa là \"nhiều\", \"đa dạng\" để chỉ số lượng lớn hoặc sự phong phú.\nVí dụ:\n- 多い (ooi): Nhiều, đông.\n- 多様 (tayou): Đa dạng, phong phú.\n- 多分 (tabun): Có lẽ, có thể."
+  },
+  "comments": [
+    {
+      "id": "589",
+      "lang": "vi",
+      "content_html": "<p>Có <strong>nhiều </strong>chữ「タ」</p>",
+      "content_text": "Có\nnhiều\nchữ「タ」",
+      "image_url": "https://jpdictionary.com/upload/images/6297828397994.jpg",
+      "image_path": "assets/images/多_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158305",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>多い (おおい): nhiều</p>",
+      "content_text": "JLPT N4\n多い (おおい): nhiều",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "152721",
+      "lang": "vi",
+      "content_html": "<p>Có nhiều chữ ta 夕 là ĐA</p>",
+      "content_text": "Có nhiều chữ ta 夕 là ĐA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

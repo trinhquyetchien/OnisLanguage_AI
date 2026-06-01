@@ -1,0 +1,85 @@
+{
+  "kanji": "帥",
+  "meta": {
+    "weight": 835,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スイ"
+    ],
+    "kun": [],
+    "am_han": "SUẤT, SÚY"
+  },
+  "meaning": {
+    "vi": "chỉ huy, dẫn đầu quân đội, thống đốc",
+    "en": "commander, leading troops, governor"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/帥.svg"
+  },
+  "frequency": 2016,
+  "examples": [
+    "元帥",
+    "総帥"
+  ],
+  "explanation": {
+    "id": "4208",
+    "text": "帥 (đọc là \"sui\" hoặc \"shui\") có nghĩa là \"tướng quân\", \"người chỉ huy\" để chỉ các vị trí lãnh đạo trong quân đội hoặc người có quyền lực.  \nVí dụ:  \n- 帥気 (suiki): Phong thái, khí chất tướng "
+  },
+  "comments": [
+    {
+      "id": "153248",
+      "lang": "vi",
+      "content_html": "<p>Giáo Sư (師) bỏ mũ đi làm tướng</p>",
+      "content_text": "Giáo Sư (師) bỏ mũ đi làm tướng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153249",
+      "lang": "vi",
+      "content_html": "<p>cần cổ SÚY cho các quan tướng đeo khăn</p>",
+      "content_text": "cần cổ SÚY cho các quan tướng đeo khăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153250",
+      "lang": "vi",
+      "content_html": "<p>Quan Tướng SOÁI là người cầm Cân nảy mực</p>",
+      "content_text": "Quan Tướng SOÁI là người cầm Cân nảy mực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

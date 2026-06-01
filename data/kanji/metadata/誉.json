@@ -1,0 +1,91 @@
+{
+  "kanji": "誉",
+  "meta": {
+    "weight": 2486,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨ"
+    ],
+    "kun": [
+      "ほま.れ",
+      "ほ.める"
+    ],
+    "am_han": "DỰ"
+  },
+  "meaning": {
+    "vi": "danh tiếng, ca ngợi, danh dự, vinh quang",
+    "en": "reputation, praise, honor, glory"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/誉.svg"
+  },
+  "frequency": 1064,
+  "examples": [
+    "名誉",
+    "栄誉",
+    "不名誉",
+    "誉める",
+    "誉れ"
+  ],
+  "explanation": {
+    "id": "7827",
+    "text": "誉 (đọc là \"yo\") có nghĩa là \"danh tiếng\", \"vinh danh\", thường chỉ đến sự công nhận hoặc sự tôn trọng từ người khác.  \nVí dụ:  \n- 誉れ (otore): Danh dự, vinh quang.  \n- 誉高い (yodakai): Danh tiến"
+  },
+  "comments": [
+    {
+      "id": "156910",
+      "lang": "vi",
+      "content_html": "<p>Lời Nói To và có Lửa thể hiện Danh DỰ của bản thân</p>",
+      "content_text": "Lời Nói To và có Lửa thể hiện Danh DỰ của bản thân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156911",
+      "lang": "vi",
+      "content_html": "<p>Lời nói mà như phát Quang lên cho thấy được niềm vinh Dự của bản thân</p>",
+      "content_text": "Lời nói mà như phát Quang lên cho thấy được niềm vinh Dự của bản thân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156912",
+      "lang": "vi",
+      "content_html": "<p>Ngôn từ phát to ra 3 tiếng thể hiện danh dự bản thân</p>",
+      "content_text": "Ngôn từ phát to ra 3 tiếng thể hiện danh dự bản thân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "kanji": "杵",
+  "meta": {
+    "weight": 1301,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショ",
+      "ソ"
+    ],
+    "kun": [
+      "きね"
+    ],
+    "am_han": "XỬ"
+  },
+  "meaning": {
+    "vi": "chày gỗ",
+    "en": "wooden pestle"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/杵.svg"
+  },
+  "frequency": 2355,
+  "examples": [
+    "杵"
+  ],
+  "explanation": {
+    "id": "1476",
+    "text": "杵 (đọc là \"shaku\") có nghĩa là \"cái chày\" dùng để giã gạo, biểu thị các hoạt động liên quan đến việc chế biến thực phẩm hoặc truyền thống văn hóa Nhật Bản.\nVí dụ:\n- 杵と臼 (shaku to usu): Cái c"
+  },
+  "comments": [
+    {
+      "id": "154411",
+      "lang": "vi",
+      "content_html": "<p>Dùng cây làm chày đúng giờ Ngọ</p>",
+      "content_text": "Dùng cây làm chày đúng giờ Ngọ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

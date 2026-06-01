@@ -1,0 +1,33 @@
+{
+  "kanji": "毘",
+  "meta": {
+    "weight": 1475,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ",
+      "ビ"
+    ],
+    "kun": [
+      "たす.ける"
+    ],
+    "am_han": "BÌ"
+  },
+  "meaning": {
+    "vi": "giúp đỡ",
+    "en": "help, assist"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/毘.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6626",
+    "text": "毘 (đọc là \"bi\") có nghĩa là \"hộ vệ\", \"bảo vệ\" thường liên quan đến việc hỗ trợ hoặc bảo đảm an toàn cho ai đó.  \nVí dụ:  \n- 毘沙門天 (Bishamonten): Thần bảo vệ, một trong bảy vị thần may mắn tro"
+  },
+  "comments": []
+}

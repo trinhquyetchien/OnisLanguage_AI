@@ -1,0 +1,112 @@
+{
+  "kanji": "詰",
+  "meta": {
+    "weight": 2481,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キツ",
+      "キチ"
+    ],
+    "kun": [
+      "つ.める",
+      "つ.め",
+      "-づ.め",
+      "つ.まる",
+      "つ.む"
+    ],
+    "am_han": "CẬT"
+  },
+  "meaning": {
+    "vi": "đóng hộp, đóng gói",
+    "en": "packed, close, pressed, reprove, rebuke, blame"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/詰.svg"
+  },
+  "frequency": 1020,
+  "examples": [
+    "詰め",
+    "詰",
+    "缶詰",
+    "詰将棋",
+    "詰める"
+  ],
+  "explanation": {
+    "id": "1472",
+    "text": "詰 (đọc là \"kyuu\" hoặc \"tsume\") có nghĩa là \"nhồi nhét\", \"chất đầy\" hoặc \"căng thẳng\" để chỉ các hành động liên quan đến việc ép chặt, nhồi vào, hoặc tình trạng bị áp lực.\n\nVí dụ:\n- 詰める (tsum"
+  },
+  "comments": [
+    {
+      "id": "156895",
+      "lang": "vi",
+      "content_html": "<p>a sĩ quan nói CẬT lực</p>",
+      "content_text": "a sĩ quan nói CẬT lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190746",
+      "lang": "vi",
+      "content_html": "<p>Ngôn từ kẻ sĩ nói ra tận miệng kín đáo như đồ đóng cật</p>",
+      "content_text": "Ngôn từ kẻ sĩ nói ra tận miệng kín đáo như đồ đóng cật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156896",
+      "lang": "vi",
+      "content_html": "<p>CÁT NÓI CẬT lực</p>",
+      "content_text": "CÁT NÓI CẬT lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156897",
+      "lang": "vi",
+      "content_html": "<p>Nói nhiều lấy đất nhét vào mồm.. nhồi nhét, kín, tắc nghẽn, chặt</p>",
+      "content_text": "Nói nhiều lấy đất nhét vào mồm.. nhồi nhét, kín, tắc nghẽn, chặt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

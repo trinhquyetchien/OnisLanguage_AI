@@ -1,0 +1,89 @@
+{
+  "kanji": "疫",
+  "meta": {
+    "weight": 1800,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エキ",
+      "ヤク"
+    ],
+    "kun": [],
+    "am_han": "DỊCH"
+  },
+  "meaning": {
+    "vi": "bệnh dịch",
+    "en": "epidemic"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/疫.svg"
+  },
+  "frequency": 1661,
+  "examples": [
+    "免疫",
+    "検疫",
+    "疫学",
+    "疫病",
+    "防疫"
+  ],
+  "explanation": {
+    "id": "410",
+    "text": "疫 (đọc là \"eki\") có nghĩa là \"dịch bệnh\", thường được sử dụng để chỉ các loại bệnh truyền nhiễm hoặc dịch tễ. \n\nVí dụ:\n- 疫病 (ekibyō): Bệnh dịch, dịch bệnh.\n- 疫痢 (ekiri): Bệnh tiêu chảy do dị"
+  },
+  "comments": [
+    {
+      "id": "155452",
+      "lang": "vi",
+      "content_html": "<p>DỊCH BỆNH là kẻ THÙ của con người</p>",
+      "content_text": "DỊCH BỆNH là kẻ THÙ của con người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155453",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa dịch bệnh bị lây qua các trại binh lính khi đánh nhau, nên các cụ kết hợp chữ thù và chữ nạch</p>",
+      "content_text": "Ngày xưa dịch bệnh bị lây qua các trại binh lính khi đánh nhau, nên các cụ kết hợp chữ thù và chữ nạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155454",
+      "lang": "vi",
+      "content_html": "<p>Kẻ thù bị bệnh dịch</p>",
+      "content_text": "Kẻ thù bị bệnh dịch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

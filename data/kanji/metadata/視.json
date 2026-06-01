@@ -1,0 +1,90 @@
+{
+  "kanji": "視",
+  "meta": {
+    "weight": 2443,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "み.る"
+    ],
+    "am_han": "THỊ"
+  },
+  "meaning": {
+    "vi": "kiểm tra, coi như, xem, nhìn vào",
+    "en": "inspection, regard as, see, look at"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/視.svg"
+  },
+  "frequency": 362,
+  "examples": [
+    "視点",
+    "無視",
+    "監視",
+    "重視",
+    "視聴"
+  ],
+  "explanation": {
+    "id": "3140",
+    "text": "視 (đọc là \"shi\") có nghĩa là \"nhìn\", \"quan sát\" để chỉ các hành động liên quan đến việc xem xét, nhìn nhận sự việc.  \nVí dụ:  \n- 視覚 (shikaku): Thị giác, khả năng nhìn.  \n- 視野 (shiha): Tầm nh"
+  },
+  "comments": [
+    {
+      "id": "156801",
+      "lang": "vi",
+      "content_html": "<p>NHÌN (見) theo CHỈ THỊ (示) để kiểm tra THỊ LỰC (視)</p>",
+      "content_text": "NHÌN (見) theo CHỈ THỊ (示) để kiểm tra THỊ LỰC (視)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156802",
+      "lang": "vi",
+      "content_html": "<p>mọi người phải dùng mắt(Kiến ) nhìn kĩ Thị nở nê (ネ) giống chữ nê katakana không mn</p>",
+      "content_text": "mọi người phải dùng mắt(Kiến ) nhìn kĩ Thị nở nê (ネ) giống chữ nê katakana không mn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156803",
+      "lang": "vi",
+      "content_html": "<p>Nể (ネ) thiệt! anh ta Nhìn THỊ Nở thấy ưng mắt</p>",
+      "content_text": "Nể (ネ) thiệt! anh ta Nhìn THỊ Nở thấy ưng mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

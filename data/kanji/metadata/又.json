@@ -1,0 +1,89 @@
+{
+  "kanji": "又",
+  "meta": {
+    "weight": 417,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ"
+    ],
+    "kun": [
+      "また",
+      "また-",
+      "また.の-"
+    ],
+    "am_han": "HỰU"
+  },
+  "meaning": {
+    "vi": "hoặc một lần nữa, hơn nữa, mặt khác",
+    "en": "or again, furthermore, on the other hand"
+  },
+  "stroke": {
+    "count": 2,
+    "svg": "assets/svg/又.svg"
+  },
+  "frequency": 1874,
+  "examples": [
+    "又は",
+    "又"
+  ],
+  "explanation": {
+    "id": "7429",
+    "text": "又 (đọc là \"yò\" hoặc \"mata\") có nghĩa là \"lại\", \"cũng\", dùng để diễn tả sự lặp lại hoặc bổ sung thông tin.  \nVí dụ:  \n- また会いましょう (mata aimashou): Hẹn gặp lại.  \n- 又は (yowai): Hoặc, hoặc là.  "
+  },
+  "comments": [
+    {
+      "id": "152235",
+      "lang": "vi",
+      "content_html": "<p>vừa trừ vừa nhân</p>",
+      "content_text": "vừa trừ vừa nhân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152236",
+      "lang": "vi",
+      "content_html": "<p>người con gái lại đau tim vì giận giữ</p>",
+      "content_text": "người con gái lại đau tim vì giận giữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152237",
+      "lang": "vi",
+      "content_html": "<p>vắt chéo 2 tay trước ngực</p>",
+      "content_text": "vắt chéo 2 tay trước ngực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

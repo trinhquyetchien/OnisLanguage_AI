@@ -1,0 +1,90 @@
+{
+  "kanji": "裸",
+  "meta": {
+    "weight": 2428,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ラ"
+    ],
+    "kun": [
+      "はだか"
+    ],
+    "am_han": "LỎA, KHỎA"
+  },
+  "meaning": {
+    "vi": "khỏa thân, không mảnh vải che thân, mặc một phần",
+    "en": "naked, nude, uncovered, partially clothed"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/裸.svg"
+  },
+  "frequency": 1796,
+  "examples": [
+    "裸",
+    "全裸",
+    "裸足",
+    "赤裸々",
+    "裸体"
+  ],
+  "explanation": {
+    "id": "7943",
+    "text": "裸 (đọc là \"ra\") có nghĩa là \"khỏa thân\", chỉ trạng thái không mặc quần áo hoặc sự trần trụi.  \nVí dụ:  \n- 裸体 (ratai): Cơ thể trần truồng, khỏa thân.  \n- 裸足 (hadashi): Chân không, chân trần. "
+  },
+  "comments": [
+    {
+      "id": "156757",
+      "lang": "vi",
+      "content_html": "<p>kết quả của việc thoát y là khỏa thân</p>",
+      "content_text": "kết quả của việc thoát y là khỏa thân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156758",
+      "lang": "vi",
+      "content_html": "<p>Hoa QUẢ đặt lên BÀN THỜ phải k đc mặc gì giống như gà KHOẢ thân vậy</p>",
+      "content_text": "Hoa QUẢ đặt lên BÀN THỜ phải k đc mặc gì giống như gà KHOẢ thân vậy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156759",
+      "lang": "vi",
+      "content_html": "<p>chị gái tôi ăn hoa quả trong lúc khoả thân</p>",
+      "content_text": "chị gái tôi ăn hoa quả trong lúc khoả thân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

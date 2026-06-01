@@ -1,0 +1,128 @@
+{
+  "kanji": "晴",
+  "meta": {
+    "weight": 1241,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ"
+    ],
+    "kun": [
+      "は.れる",
+      "は.れ",
+      "は.れ-",
+      "-ば.れ",
+      "は.らす"
+    ],
+    "am_han": "TÌNH"
+  },
+  "meaning": {
+    "vi": "nắng",
+    "en": "clear up"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/晴.svg"
+  },
+  "frequency": 1022,
+  "examples": [
+    "素晴らしい",
+    "晴れ",
+    "晴",
+    "素晴らしく",
+    "快晴"
+  ],
+  "explanation": {
+    "id": "4313",
+    "text": "晴 (đọc là \"sei\" hoặc \"haru\") có nghĩa là \"trời nắng\", \"thời tiết đẹp\", chỉ tình trạng thời tiết trong sáng, không mây mù.  \nVí dụ:  \n- 晴天 (seiten): Ngày trời nắng, thời tiết đẹp.  \n- 晴れる (ha"
+  },
+  "comments": [
+    {
+      "id": "154252",
+      "lang": "vi",
+      "content_html": "<p>Mặt trời trong xanh là nắng</p>",
+      "content_text": "Mặt trời trong xanh là nắng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154253",
+      "lang": "vi",
+      "content_html": "<p>TRỜI XANH hữu TÌNH</p>",
+      "content_text": "TRỜI XANH hữu TÌNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154254",
+      "lang": "vi",
+      "content_html": "<p>Ngày mà bầu trời trong xanh thì tất nhiên là nắng rồi.</p>",
+      "content_text": "Ngày mà bầu trời trong xanh thì tất nhiên là nắng rồi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222047",
+      "lang": "vi",
+      "content_html": "<p>Tình thiên (晴天) còn là tên một bài thơ do bác Hồ sáng tác<br><br>Bài thơ: Tình thiên - 晴天 (Hồ Chí Minh - 胡志明)<br>事物循環原有定，<br>雨天之後必晴天。<br>片時宇宙解淋服，<br>萬里山河晒錦氈。<br>日暖風清花帶笑，<br>樹高枝潤鳥爭言。<br>人和萬物都興奮，<br>苦盡甘來理自然。</p>",
+      "content_text": "Tình thiên (晴天) còn là tên một bài thơ do bác Hồ sáng tác\nBài thơ: Tình thiên - 晴天 (Hồ Chí Minh - 胡志明)\n事物循環原有定，\n雨天之後必晴天。\n片時宇宙解淋服，\n萬里山河晒錦氈。\n日暖風清花帶笑，\n樹高枝潤鳥爭言。\n人和萬物都興奮，\n苦盡甘來理自然。",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    },
+    {
+      "id": "222048",
+      "lang": "vi",
+      "content_html": "<p>Lưu ý quan trọng là <strong>Tình (晴) </strong>chỉ là tạnh mưa, trong sáng, quang đãng chứ <strong>KHÔNG </strong>phải là có nắng, nhiều người nghĩ là nắng do có bộ<strong> Nhật (日) </strong>nên có thể hiểu là trời nắng nhưng đó là không chính xác.</p>",
+      "content_text": "Lưu ý quan trọng là\nTình (晴)\nchỉ là tạnh mưa, trong sáng, quang đãng chứ\nKHÔNG\nphải là có nắng, nhiều người nghĩ là nắng do có bộ\nNhật (日)\nnên có thể hiểu là trời nắng nhưng đó là không chính xác.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

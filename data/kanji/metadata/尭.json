@@ -1,0 +1,84 @@
+{
+  "kanji": "尭",
+  "meta": {
+    "weight": 765,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギョウ"
+    ],
+    "kun": [
+      "たか.い"
+    ],
+    "am_han": "NGHIÊU"
+  },
+  "meaning": {
+    "vi": "cao, xa",
+    "en": "high, far"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/尭.svg"
+  },
+  "frequency": 2136,
+  "examples": [],
+  "explanation": {
+    "id": "1717",
+    "text": "尭 (đọc là \"gyō\" hoặc \"yō\") có nghĩa là \"tốt đẹp\", \"cao quý\", thường được dùng để chỉ những phẩm chất tốt, sự thông thái và công bằng.\n\nVí dụ:\n- 尭舜 (Gyōshun): Nói về hai vị vua huyền thoại tr"
+  },
+  "comments": [
+    {
+      "id": "153074",
+      "lang": "vi",
+      "content_html": "<p>Có ba chữ 土 (Thổ) cộng thêm chữ 兀 (Ngột). Chữ Ngột  thường nói về tính cao, có bộ nhân đi cao mà đầu bằng phẳng thường dùng chỉ địa hình đất núi, hình phạt chặt chân. Cả chữ Nghiêu có thể hiểu là cao (đống đất cao), ngoài ra còn là họ của vua Nghiêu vốn</p>",
+      "content_text": "Có ba chữ 土 (Thổ) cộng thêm chữ 兀 (Ngột). Chữ Ngột  thường nói về tính cao, có bộ nhân đi cao mà đầu bằng phẳng thường dùng chỉ địa hình đất núi, hình phạt chặt chân. Cả chữ Nghiêu có thể hiểu là cao (đống đất cao), ngoài ra còn là họ của vua Nghiêu vốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153075",
+      "lang": "vi",
+      "content_html": "<p>vua nghiêu thuấn china khựa</p>",
+      "content_text": "vua nghiêu thuấn china khựa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153076",
+      "lang": "vi",
+      "content_html": "<p>10 bó cỏ cao như chân của vua NGHIÊU</p>",
+      "content_text": "10 bó cỏ cao như chân của vua NGHIÊU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

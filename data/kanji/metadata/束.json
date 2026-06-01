@@ -1,0 +1,110 @@
+{
+  "kanji": "束",
+  "meta": {
+    "weight": 1294,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソク"
+    ],
+    "kun": [
+      "たば",
+      "たば.ねる",
+      "つか",
+      "つか.ねる"
+    ],
+    "am_han": "THÚC"
+  },
+  "meaning": {
+    "vi": "bó (hoa)",
+    "en": "bundle, sheaf, ream, tie in bundles, govern, manage, control"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/束.svg"
+  },
+  "frequency": 918,
+  "examples": [
+    "約束",
+    "拘束",
+    "束",
+    "結束",
+    "花束"
+  ],
+  "explanation": {
+    "id": "4798",
+    "text": "束 (đọc là \"soku\" hoặc \"tabi\") có nghĩa là \"buộc\", \"gói lại\" để chỉ các hành động liên quan đến việc kết nối hoặc gom lại.\nVí dụ:\n- 束縛 (sokubaku): Sự ràng buộc, hạn chế.\n- 束ねる (tabaneru): Buộ"
+  },
+  "comments": [
+    {
+      "id": "37272",
+      "lang": "vi",
+      "content_html": "<p>Anh ấy cho tôi <strong>bó </strong>hoa.</p>",
+      "content_text": "Anh ấy cho tôi\nbó\nhoa.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdc03c87cf.jpg",
+      "image_path": "assets/images/束_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154394",
+      "lang": "vi",
+      "content_html": "<p>NÓI CHUYỆN (khẩu) với CÂY hàng ngày sẽ THÚC đẩy cây mau lớn.</p>",
+      "content_text": "NÓI CHUYỆN (khẩu) với CÂY hàng ngày sẽ THÚC đẩy cây mau lớn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154395",
+      "lang": "vi",
+      "content_html": "<p>dùng miệng Thúc vào cây</p>",
+      "content_text": "dùng miệng Thúc vào cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154396",
+      "lang": "vi",
+      "content_html": "<p>THÚC cái cây vào mồm</p>",
+      "content_text": "THÚC cái cây vào mồm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

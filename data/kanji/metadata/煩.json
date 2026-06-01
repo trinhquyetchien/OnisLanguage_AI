@@ -1,0 +1,92 @@
+{
+  "kanji": "煩",
+  "meta": {
+    "weight": 1666,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン",
+      "ボン"
+    ],
+    "kun": [
+      "わずら.う",
+      "わずら.わす",
+      "うるさ.がる",
+      "うるさ.い"
+    ],
+    "am_han": "PHIỀN"
+  },
+  "meaning": {
+    "vi": "lo lắng, rắc rối, đau đớn, ốm, khó chịu, phiền toái",
+    "en": "anxiety, trouble, worry, pain, ill, annoy, nuisance, irksome"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/煩.svg"
+  },
+  "frequency": 2081,
+  "examples": [
+    "煩雑",
+    "煩悩",
+    "煩わしい"
+  ],
+  "explanation": {
+    "id": "6499",
+    "text": "煩 (đọc là \"han\") có nghĩa là \"phiền phức\", \"khó chịu\" để chỉ những cảm xúc hay tình huống gây rắc rối, khó khăn.\n\nVí dụ:\n- 煩悩 (bannō): Phiền não, sự lo âu, cảm giác bất an.\n- 煩わしい (wazurawas"
+  },
+  "comments": [
+    {
+      "id": "155190",
+      "lang": "vi",
+      "content_html": "<p>Đầu buồn phiền như đang  rực lửa</p>",
+      "content_text": "Đầu buồn phiền như đang  rực lửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155191",
+      "lang": "vi",
+      "content_html": "<p>có lửa nóng bực ở trong đầu thì rất phiền</p>",
+      "content_text": "có lửa nóng bực ở trong đầu thì rất phiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155192",
+      "lang": "vi",
+      "content_html": "<p>đốt cháy một con sò to thì rất phiền toái</p>",
+      "content_text": "đốt cháy một con sò to thì rất phiền toái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

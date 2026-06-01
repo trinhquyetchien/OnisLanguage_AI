@@ -1,0 +1,91 @@
+{
+  "kanji": "百",
+  "meta": {
+    "weight": 1820,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒャク",
+      "ビャク"
+    ],
+    "kun": [
+      "もも"
+    ],
+    "am_han": "BÁCH"
+  },
+  "meaning": {
+    "vi": "trăm, bách niên",
+    "en": "hundred"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/百.svg"
+  },
+  "frequency": 163,
+  "examples": [
+    "百",
+    "百貨店",
+    "百科",
+    "百姓",
+    "八百屋"
+  ],
+  "explanation": {
+    "id": "6688",
+    "text": "百 (đọc là \"hyaku\") có nghĩa là \"một trăm\", dùng để chỉ số lượng hoặc quy mô lớn.\nVí dụ:\n- 百円 (hyakuen): Một trăm yên.\n- 百万 (hyakuman): Một triệu.\n- 百合 (yuri): Hoa huệ, cũng được sử dụng để c"
+  },
+  "comments": [
+    {
+      "id": "462",
+      "lang": "vi",
+      "content_html": "<p>Xoay số \"100\" 90 độ về bên phải thì nó sẽ trở thành chữ 「百」</p>",
+      "content_text": "Xoay số \"100\" 90 độ về bên phải thì nó sẽ trở thành chữ 「百」",
+      "image_url": "https://jpdictionary.com/upload/images/6297611cd874d.jpg",
+      "image_path": "assets/images/百_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158458",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>百 (ひゃく): một trăm<br>八百屋 (やおや): cửa hàng rau quả</p>",
+      "content_text": "JLPT N5\n百 (ひゃく): một trăm\n八百屋 (やおや): cửa hàng rau quả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "155502",
+      "lang": "vi",
+      "content_html": "<p>Bạch thêm sắc thành Bách, Bách bỏ sắc thành Bạch.</p>",
+      "content_text": "Bạch thêm sắc thành Bách, Bách bỏ sắc thành Bạch.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

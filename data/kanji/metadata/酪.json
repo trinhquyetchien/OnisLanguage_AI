@@ -1,0 +1,84 @@
+{
+  "kanji": "酪",
+  "meta": {
+    "weight": 2718,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ラク"
+    ],
+    "kun": [],
+    "am_han": "LẠC"
+  },
+  "meaning": {
+    "vi": "các sản phẩm từ sữa, váng sữa, nước dùng, nước hoa quả",
+    "en": "dairy products, whey, broth, fruit juice"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/酪.svg"
+  },
+  "frequency": 2012,
+  "examples": [
+    "酪農"
+  ],
+  "explanation": {
+    "id": "7968",
+    "text": "酪 (đọc là \"raku\") có nghĩa là \"sữa\" hoặc \"sữa đông\", thường chỉ đến các sản phẩm từ sữa như phô mai hoặc kem.  \nVí dụ:  \n- 酪農 (rakunō): Ngành chăn nuôi bò sữa.  \n- 酪 (raku): Sữa đông, thường"
+  },
+  "comments": [
+    {
+      "id": "157482",
+      "lang": "vi",
+      "content_html": "<p>Chị DẬU trồng CÁC loại LẠC làm BƠ SỮA</p>",
+      "content_text": "Chị DẬU trồng CÁC loại LẠC làm BƠ SỮA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157483",
+      "lang": "vi",
+      "content_html": "<p>các vị uống rượu thì hay ăn lạc</p>",
+      "content_text": "các vị uống rượu thì hay ăn lạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157484",
+      "lang": "vi",
+      "content_html": "<p>quan khách say rượu ăn lạc tưởng bơ</p>",
+      "content_text": "quan khách say rượu ăn lạc tưởng bơ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

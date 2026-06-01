@@ -1,0 +1,88 @@
+{
+  "kanji": "抽",
+  "meta": {
+    "weight": 1069,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "ひき-"
+    ],
+    "am_han": "TRỪU"
+  },
+  "meaning": {
+    "vi": "nhổ, kéo, giải nén, excel",
+    "en": "pluck, pull, extract, excel"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/抽.svg"
+  },
+  "frequency": 1437,
+  "examples": [
+    "抽象",
+    "抽選",
+    "抽出"
+  ],
+  "explanation": {
+    "id": "5280",
+    "text": "抽 (đọc là \"chū\") có nghĩa là \"rút ra\", \"kéo ra\" để chỉ các hành động liên quan đến việc lấy hoặc chọn cái gì đó từ một nhóm hoặc kho chứa.\n\nVí dụ:\n- 抽選 (chūsen): Xổ số, rút thăm.\n- 抽出 (chūsh"
+  },
+  "comments": [
+    {
+      "id": "153847",
+      "lang": "vi",
+      "content_html": "<p>giống chữ áp 押 vãi, tiếng nhật thật trừu tượng !</p>",
+      "content_text": "giống chữ áp 押 vãi, tiếng nhật thật trừu tượng !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153848",
+      "lang": "vi",
+      "content_html": "<p>Tự do là thứ rất trìu tượng, không thể nắm bắt bằng tay</p>",
+      "content_text": "Tự do là thứ rất trìu tượng, không thể nắm bắt bằng tay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153849",
+      "lang": "vi",
+      "content_html": "<p>(Người câm) Tay múa tự Do nhìn rất TRỪU tượng</p>",
+      "content_text": "(Người câm) Tay múa tự Do nhìn rất TRỪU tượng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "沿",
+  "meta": {
+    "weight": 1512,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "そ.う",
+      "-ぞ.い"
+    ],
+    "am_han": "DUYÊN"
+  },
+  "meaning": {
+    "vi": "chạy cùng, theo cùng, nằm dọc theo",
+    "en": "run alongside, follow along, run along, lie along"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/沿.svg"
+  },
+  "frequency": 1121,
+  "examples": [
+    "沿い",
+    "沿岸",
+    "沿線",
+    "沿う",
+    "沿道"
+  ],
+  "explanation": {
+    "id": "458",
+    "text": "沿 (đọc là \"en\") có nghĩa là \"dọc theo\", \"theo\" để chỉ sự di chuyển hoặc tồn tại dọc theo một đường nào đó.\n\nVí dụ:\n- 沿岸 (engan): Bờ biển.\n- 沿う (au): Dọc theo, theo.\n- 沿道 (endō): Đường đi dọc"
+  },
+  "comments": [
+    {
+      "id": "154820",
+      "lang": "vi",
+      "content_html": "<p>TÁM cái Miệng nói chuyện bắn NƯỚC tung toé rất vô DUYÊN</p>",
+      "content_text": "TÁM cái Miệng nói chuyện bắn NƯỚC tung toé rất vô DUYÊN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154821",
+      "lang": "vi",
+      "content_html": "<p>Phía Trước CỬA SỐ 8 có em tên THUỶ rất có DUYÊN. chúng ta đi DỌC THEO lối này đến đó làm quen nha.</p>",
+      "content_text": "Phía Trước CỬA SỐ 8 có em tên THUỶ rất có DUYÊN. chúng ta đi DỌC THEO lối này đến đó làm quen nha.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154822",
+      "lang": "vi",
+      "content_html": "<p>Vô DUYÊN là cái miệng cứ ba Tám suốt ngày rồi nước bọt thì bắn tung toé</p>",
+      "content_text": "Vô DUYÊN là cái miệng cứ ba Tám suốt ngày rồi nước bọt thì bắn tung toé",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

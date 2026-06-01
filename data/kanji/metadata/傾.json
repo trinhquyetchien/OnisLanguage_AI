@@ -1,0 +1,111 @@
+{
+  "kanji": "傾",
+  "meta": {
+    "weight": 239,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "かたむ.く",
+      "かたむ.ける",
+      "かたぶ.く",
+      "かた.げる",
+      "かし.げる"
+    ],
+    "am_han": "KHUYNH"
+  },
+  "meaning": {
+    "vi": "nghiêng, khuynh hướng",
+    "en": "lean, incline, tilt, trend, wane, sink, ruin, bias"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/傾.svg"
+  },
+  "frequency": 938,
+  "examples": [
+    "傾向",
+    "傾斜",
+    "傾き",
+    "傾ける",
+    "傾"
+  ],
+  "explanation": {
+    "id": "1934",
+    "text": "傾 (đọc là \"kei\" hoặc \"katamau\") có nghĩa là \"nghiêng\", \"khuynh hướng\" để chỉ sự nghiêng lệch hoặc xu hướng của một cái gì đó.\n\nVí dụ:\n- 傾斜 (keisha): Độ nghiêng, độ dốc.\n- 傾く (katamuku): Nghi"
+  },
+  "comments": [
+    {
+      "id": "151789",
+      "lang": "vi",
+      "content_html": "<p>Người Đứng cầm Thìa gõ vào Đầu thì có Khuynh hướng bị Nghiêng!</p>",
+      "content_text": "Người Đứng cầm Thìa gõ vào Đầu thì có Khuynh hướng bị Nghiêng!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190741",
+      "lang": "vi",
+      "content_html": "<p>Người bán thìa là đầu óc có khuynh hướng</p>",
+      "content_text": "Người bán thìa là đầu óc có khuynh hướng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "151790",
+      "lang": "vi",
+      "content_html": "<p>Đầu có khuynh hướng tiến hoá độ nghiêng như tt nxp</p>",
+      "content_text": "Đầu có khuynh hướng tiến hoá độ nghiêng như tt nxp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151791",
+      "lang": "vi",
+      "content_html": "<p>1 KHOẢNH khắc NHÂN dân bị KHUYNH đảo</p>",
+      "content_text": "1 KHOẢNH khắc NHÂN dân bị KHUYNH đảo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

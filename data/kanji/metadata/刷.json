@@ -1,0 +1,93 @@
+{
+  "kanji": "刷",
+  "meta": {
+    "weight": 323,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サツ"
+    ],
+    "kun": [
+      "す.る",
+      "-ず.り",
+      "-ずり",
+      "は.く"
+    ],
+    "am_han": "LOÁT"
+  },
+  "meaning": {
+    "vi": "in ấn",
+    "en": "printing, print, brush"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/刷.svg"
+  },
+  "frequency": 1352,
+  "examples": [
+    "印刷",
+    "印刷物",
+    "刷",
+    "刷新",
+    "刷り"
+  ],
+  "explanation": {
+    "id": "2931",
+    "text": "刷 (đọc là \"satsu\" hoặc \"surashi\") có nghĩa là \"in\", \"xoa\", hoặc \"đánh dấu\" để chỉ các hành động liên quan đến việc in ấn hoặc làm dấu.\nVí dụ:\n- 刷新 (sasshin): Đổi mới, cập nhật.\n- 印刷 (insatsu"
+  },
+  "comments": [
+    {
+      "id": "152007",
+      "lang": "vi",
+      "content_html": "<p>ĐAO LOÁT hình cái KHĂN lên thây ma(THI)</p>",
+      "content_text": "ĐAO LOÁT hình cái KHĂN lên thây ma(THI)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152008",
+      "lang": "vi",
+      "content_html": "<p>tưởng tượng xíu: 1 vụ án- khi cảnh sát đến thì thấy cảnh tượng 1 thi thể bị 1 miếng vải đắp lên, cạnh bên là 1 con dao. Hình ảnh về vụ án được mọi người đao loát về rất nhiều.</p>",
+      "content_text": "tưởng tượng xíu: 1 vụ án- khi cảnh sát đến thì thấy cảnh tượng 1 thi thể bị 1 miếng vải đắp lên, cạnh bên là 1 con dao. Hình ảnh về vụ án được mọi người đao loát về rất nhiều.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152009",
+      "lang": "vi",
+      "content_html": "<p>XÁC CHẾT cầm ĐAO cắt cái KHĂN ra để IN ấn gọi là LOÁT</p>",
+      "content_text": "XÁC CHẾT cầm ĐAO cắt cái KHĂN ra để IN ấn gọi là LOÁT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

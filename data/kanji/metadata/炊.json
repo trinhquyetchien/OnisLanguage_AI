@@ -1,0 +1,91 @@
+{
+  "kanji": "炊",
+  "meta": {
+    "weight": 1647,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "た.く",
+      "-だ.き"
+    ],
+    "am_han": "XUY, XÚY"
+  },
+  "meaning": {
+    "vi": "nấu, đun sôi",
+    "en": "cook, boil"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/炊.svg"
+  },
+  "frequency": 1777,
+  "examples": [
+    "炊飯",
+    "自炊",
+    "炊く",
+    "雑炊",
+    "炊事"
+  ],
+  "explanation": {
+    "id": "4217",
+    "text": "炊 (đọc là \"sui\") có nghĩa là \"nấu\" để chỉ các hành động liên quan đến việc nấu ăn, đặc biệt là cơm.\nVí dụ:\n- 炊飯 (suihan): Nấu cơm.\n- 炊く (taku): Nấu chín (thường dùng cho cơm).\n- 炊き込みご飯 (taki"
+  },
+  "comments": [
+    {
+      "id": "155144",
+      "lang": "vi",
+      "content_html": "<p>Lửa mà bị thiếu XUY ra ko thể nấu ăn</p>",
+      "content_text": "Lửa mà bị thiếu XUY ra ko thể nấu ăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155145",
+      "lang": "vi",
+      "content_html": "<p>thiếu lửa là nấu</p>",
+      "content_text": "thiếu lửa là nấu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155146",
+      "lang": "vi",
+      "content_html": "<p>Cổ Xuý cho việc nấu cơm thiếu lửa</p>",
+      "content_text": "Cổ Xuý cho việc nấu cơm thiếu lửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

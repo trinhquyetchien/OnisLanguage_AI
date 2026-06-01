@@ -1,0 +1,92 @@
+{
+  "kanji": "故",
+  "meta": {
+    "weight": 1171,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "ゆえ",
+      "ふる.い",
+      "もと"
+    ],
+    "am_han": "CỐ"
+  },
+  "meaning": {
+    "vi": "tình cờ, đặc biệt, cố ý, lý do, nguyên nhân, hoàn cảnh, sự muộn màng, do đó",
+    "en": "happenstance, especially, intentionally, reason, cause, circumstances, the late, therefore, consequently"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/故.svg"
+  },
+  "frequency": 612,
+  "examples": [
+    "事故",
+    "何故",
+    "故",
+    "何故か",
+    "故障"
+  ],
+  "explanation": {
+    "id": "2278",
+    "text": "故 (đọc là \"ko\") có nghĩa là \"nguyên nhân\", \"cái chết\" hoặc \"xưa kia\". Từ này thường chỉ đến lý do hay nguồn gốc của một sự việc, hoặc ám chỉ đến người đã qua đời.\n\nVí dụ:\n- 故人 (kojin): Người"
+  },
+  "comments": [
+    {
+      "id": "154080",
+      "lang": "vi",
+      "content_html": "<p>Đập nát đồ CỔ là sự CỐ lớn</p>",
+      "content_text": "Đập nát đồ CỔ là sự CỐ lớn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154081",
+      "lang": "vi",
+      "content_html": "<p>Đánh đồ cổ sẽ gây ra sự cố</p>",
+      "content_text": "Đánh đồ cổ sẽ gây ra sự cố",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154082",
+      "lang": "vi",
+      "content_html": "<p>đừng Cố đụng vào đồ Cũ sẽ rất dễ vỡ</p>",
+      "content_text": "đừng Cố đụng vào đồ Cũ sẽ rất dễ vỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

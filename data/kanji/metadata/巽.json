@@ -1,0 +1,86 @@
+{
+  "kanji": "巽",
+  "meta": {
+    "weight": 827,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソン"
+    ],
+    "kun": [
+      "たつみ"
+    ],
+    "am_han": "TỐN"
+  },
+  "meaning": {
+    "vi": "Đông Nam",
+    "en": "southeast"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/巽.svg"
+  },
+  "frequency": 2061,
+  "examples": [
+    "巽"
+  ],
+  "explanation": {
+    "id": "5087",
+    "text": "巽 (đọc là \"sun\") có nghĩa là \"hướng đông nam\", thường liên quan đến các yếu tố phong thủy hoặc hướng đi. \n\nVí dụ:\n- 巽風 (sunpu): Gió đông nam.\n- 巽方位 (sunhōi): Hướng đông nam.\n- 巽亥 (sunai): Mộ"
+  },
+  "comments": [
+    {
+      "id": "153229",
+      "lang": "vi",
+      "content_html": "<p>độ tuổi hai hai cộng con người trở lên từ tốn</p>",
+      "content_text": "độ tuổi hai hai cộng con người trở lên từ tốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153230",
+      "lang": "vi",
+      "content_html": "<p>trong quá trình Tuyển (選) chọn phải hi sinh con đường thì thật là Tốn kém</p>",
+      "content_text": "trong quá trình Tuyển (選) chọn phải hi sinh con đường thì thật là Tốn kém",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153231",
+      "lang": "vi",
+      "content_html": "<p>Tốn kém xảy ra trước độ tuổi Hai Hai Cộng sau đó con người trở lên từ tốn.</p>",
+      "content_text": "Tốn kém xảy ra trước độ tuổi Hai Hai Cộng sau đó con người trở lên từ tốn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

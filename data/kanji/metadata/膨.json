@@ -1,0 +1,91 @@
+{
+  "kanji": "膨",
+  "meta": {
+    "weight": 2215,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [
+      "ふく.らむ",
+      "ふく.れる"
+    ],
+    "am_han": "BÀNH"
+  },
+  "meaning": {
+    "vi": "sưng lên, béo lên, dày lên",
+    "en": "swell, get fat, thick"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/膨.svg"
+  },
+  "frequency": 1293,
+  "examples": [
+    "膨大",
+    "膨張",
+    "膨れ",
+    "膨らむ",
+    "膨らみ"
+  ],
+  "explanation": {
+    "id": "7291",
+    "text": "膨 (đọc là \"bō\") có nghĩa là \"phình ra\", \"to lên\" để chỉ sự gia tăng kích thước hoặc thể tích của một thứ gì đó.  \nVí dụ:  \n- 膨張 (bōchō): Mở rộng, phình to.  \n- 膨れ上がる (bukureagaru): Phình lên"
+  },
+  "comments": [
+    {
+      "id": "156377",
+      "lang": "vi",
+      "content_html": "<p>Dưới ánh trăng, trong lòng đất, hạt đậu đang mọc rễ dài ra và lan rộng bành trướng ra xung quanh</p>",
+      "content_text": "Dưới ánh trăng, trong lòng đất, hạt đậu đang mọc rễ dài ra và lan rộng bành trướng ra xung quanh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156378",
+      "lang": "vi",
+      "content_html": "<p>Dưới ánh TRĂNG, nằm dưới mặt ĐẤT, hạt ĐẬU đang mọc TÓC và BÀNH trướng và to lớn ra.</p>",
+      "content_text": "Dưới ánh TRĂNG, nằm dưới mặt ĐẤT, hạt ĐẬU đang mọc TÓC và BÀNH trướng và to lớn ra.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156379",
+      "lang": "vi",
+      "content_html": "<p>chị Nguyệt 月 thổi gió làm đất, đá 土 phồng lên</p>",
+      "content_text": "chị Nguyệt 月 thổi gió làm đất, đá 土 phồng lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

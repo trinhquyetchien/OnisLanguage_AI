@@ -1,0 +1,91 @@
+{
+  "kanji": "考",
+  "meta": {
+    "weight": 2148,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "かんが.える",
+      "かんが.え"
+    ],
+    "am_han": "KHẢO"
+  },
+  "meaning": {
+    "vi": "suy nghĩ kỹ, khảo sát",
+    "en": "consider, think over"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/考.svg"
+  },
+  "frequency": 196,
+  "examples": [
+    "考え",
+    "考える",
+    "参考",
+    "考え方",
+    "思考"
+  ],
+  "explanation": {
+    "id": "2528",
+    "text": "考 (đọc là \"kō\") có nghĩa là \"suy nghĩ\", \"cân nhắc\", thường liên quan đến việc tư duy hoặc xem xét điều gì đó cẩn thận.\n\nVí dụ:\n- 思考 (shikō): Suy nghĩ, tư duy.\n- 考える (kangaeru): Suy nghĩ, cân"
+  },
+  "comments": [
+    {
+      "id": "36851",
+      "lang": "vi",
+      "content_html": "<p>Tôi <strong>suy nghĩ </strong>vì sao người ta lại già (老) đi.</p>",
+      "content_text": "Tôi\nsuy nghĩ\nvì sao người ta lại già (老) đi.",
+      "image_url": "https://jpdictionary.com/upload/images/62ac7f3487b3f.jpg",
+      "image_path": "assets/images/考_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156229",
+      "lang": "vi",
+      "content_html": "<p>nằm trên đất suy nghĩ ra 5 Ý TƯỞNG</p>",
+      "content_text": "nằm trên đất suy nghĩ ra 5 Ý TƯỞNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191159",
+      "lang": "vi",
+      "content_html": "<p><strong>suy nghĩ</strong></p>",
+      "content_text": "suy nghĩ",
+      "image_url": "https://jpdictionary.com/upload/images/648ace00ea735.jpg",
+      "image_path": "assets/images/考_3.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

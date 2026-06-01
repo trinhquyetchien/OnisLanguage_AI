@@ -1,0 +1,89 @@
+{
+  "kanji": "栗",
+  "meta": {
+    "weight": 1338,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リツ",
+      "リ"
+    ],
+    "kun": [
+      "くり",
+      "おののく"
+    ],
+    "am_han": "LẬT"
+  },
+  "meaning": {
+    "vi": "hạt dẻ",
+    "en": "chestnut"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/栗.svg"
+  },
+  "frequency": 1550,
+  "examples": [
+    "栗",
+    "片栗粉"
+  ],
+  "explanation": {
+    "id": "1890",
+    "text": "栗 (đọc là \"kuri\") có nghĩa là \"hạt dẻ\", chỉ loại quả có vỏ gai, thường được ăn hoặc dùng trong ẩm thực.  \nVí dụ:  \n- 栗ごはん (kuri gohan): Cơm hạt dẻ.  \n- 栗饅頭 (kurimanjuu): Bánh bao nhân hạt dẻ"
+  },
+  "comments": [
+    {
+      "id": "154483",
+      "lang": "vi",
+      "content_html": "<p>Ông Tây trèo lên cây hái hạt Dẻ nhưng đô con quá nên cứ sợ Lật</p>",
+      "content_text": "Ông Tây trèo lên cây hái hạt Dẻ nhưng đô con quá nên cứ sợ Lật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154484",
+      "lang": "vi",
+      "content_html": "<p>LẬT đật Trèo lên Cây khu rừng phía Tây hái hạt DẺ</p>",
+      "content_text": "LẬT đật Trèo lên Cây khu rừng phía Tây hái hạt DẺ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154485",
+      "lang": "vi",
+      "content_html": "<p>TÂY 西 trèo CÂY 木 run như con LẬT đật.</p>",
+      "content_text": "TÂY 西 trèo CÂY 木 run như con LẬT đật.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "幌",
+  "meta": {
+    "weight": 844,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "ほろ",
+      "とばり"
+    ],
+    "am_han": "HOẢNG"
+  },
+  "meaning": {
+    "vi": "tán, mái hiên, mui xe, rèm",
+    "en": "canopy, awning, hood, curtain"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/幌.svg"
+  },
+  "frequency": 1309,
+  "examples": [
+    "札幌",
+    "幌"
+  ],
+  "explanation": {
+    "id": "7353",
+    "text": "幌 (đọc là \"hō\") có nghĩa là \"mái che\", \"bạt\" để chỉ các vật dụng hoặc cấu trúc che phủ, bảo vệ khỏi thời tiết.  \nVí dụ:  \n- 幌馬車 (hōbasha): Xe ngựa có mái che.  \n- 幌 (hō): Mái che, bạt, vải c"
+  },
+  "comments": [
+    {
+      "id": "153275",
+      "lang": "vi",
+      "content_html": "<p>Lấy cái khăn để che ánh sáng mặt trời <br>(VD cái BẠT che ô tô)</p>",
+      "content_text": "Lấy cái khăn để che ánh sáng mặt trời\n(VD cái BẠT che ô tô)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153276",
+      "lang": "vi",
+      "content_html": "<p>Thành phố Hoảng loạn vì 1 ngày mặt trời bị che khuất</p>",
+      "content_text": "Thành phố Hoảng loạn vì 1 ngày mặt trời bị che khuất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153277",
+      "lang": "vi",
+      "content_html": "<p>Hoảng loạn lấy Khăn che Ánh sáng Mặt trời</p>",
+      "content_text": "Hoảng loạn lấy Khăn che Ánh sáng Mặt trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

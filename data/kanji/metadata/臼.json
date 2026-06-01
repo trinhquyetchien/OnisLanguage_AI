@@ -1,0 +1,90 @@
+{
+  "kanji": "臼",
+  "meta": {
+    "weight": 2227,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ",
+      "グ"
+    ],
+    "kun": [
+      "うす",
+      "うすづ.く"
+    ],
+    "am_han": "CỮU"
+  },
+  "meaning": {
+    "vi": "cối",
+    "en": "mortar"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/臼.svg"
+  },
+  "frequency": 2048,
+  "examples": [
+    "脱臼",
+    "石臼",
+    "臼"
+  ],
+  "explanation": {
+    "id": "313",
+    "text": "臼 (đọc là \"kyū\" hoặc \"usuki\") có nghĩa là \"cối\", chỉ dụng cụ dùng để nghiền ngũ cốc hoặc gia vị. \n\nVí dụ:\n- 臼歯 (kyūshi): Răng hàm.\n- 臼 (usuki): Cối, dụng cụ nghiền.\n- 餅つき臼 (mochitsuki usuki)"
+  },
+  "comments": [
+    {
+      "id": "156403",
+      "lang": "vi",
+      "content_html": "<p>Hình ảnh Quốc Cữu tay đan vào nhau làm thành cối đá</p>",
+      "content_text": "Hình ảnh Quốc Cữu tay đan vào nhau làm thành cối đá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156405",
+      "lang": "vi",
+      "content_html": "<p>mặt trời nứt đôi vĩnh CỬU</p>",
+      "content_text": "mặt trời nứt đôi vĩnh CỬU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156404",
+      "lang": "vi",
+      "content_html": "<p>giã vào Cái Cối 臼 làm Mặt Trời 日 nứt đôi vĩnh Cữu</p>",
+      "content_text": "giã vào Cái Cối 臼 làm Mặt Trời 日 nứt đôi vĩnh Cữu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

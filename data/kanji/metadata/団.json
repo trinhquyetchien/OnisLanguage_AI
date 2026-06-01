@@ -1,0 +1,92 @@
+{
+  "kanji": "団",
+  "meta": {
+    "weight": 534,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダン",
+      "トン"
+    ],
+    "kun": [
+      "かたまり",
+      "まる.い"
+    ],
+    "am_han": "ĐOÀN"
+  },
+  "meaning": {
+    "vi": "nhóm, đoàn thể",
+    "en": "group, association"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/団.svg"
+  },
+  "frequency": 213,
+  "examples": [
+    "団体",
+    "団",
+    "集団",
+    "公団",
+    "財団"
+  ],
+  "explanation": {
+    "id": "5166",
+    "text": "団 (đọc là \"dan\") có nghĩa là \"nhóm\", \"đoàn thể\" để chỉ các tập hợp, nhóm người hoặc tổ chức.  \nVí dụ:  \n- 団体 (dantai): Tổ chức, đoàn thể.  \n- 団結 (danketsu): Đoàn kết, sự thống nhất.  \n- 団欒 ("
+  },
+  "comments": [
+    {
+      "id": "152521",
+      "lang": "vi",
+      "content_html": "<p>đoàn thể là 1 cái miệng lớn luôn nói những lời lẽ rất thốn</p>",
+      "content_text": "đoàn thể là 1 cái miệng lớn luôn nói những lời lẽ rất thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152522",
+      "lang": "vi",
+      "content_html": "<p>Đoàn thể miệng ăn luôn thiếu Thốn</p>",
+      "content_text": "Đoàn thể miệng ăn luôn thiếu Thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152523",
+      "lang": "vi",
+      "content_html": "<p>nghiệp ĐOÀN .nghe đã thấy THỐN</p>",
+      "content_text": "nghiệp ĐOÀN .nghe đã thấy THỐN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

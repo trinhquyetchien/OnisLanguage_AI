@@ -1,0 +1,91 @@
+{
+  "kanji": "齢",
+  "meta": {
+    "weight": 3034,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ"
+    ],
+    "kun": [
+      "よわい",
+      "とし"
+    ],
+    "am_han": "LINH"
+  },
+  "meaning": {
+    "vi": "tuổi",
+    "en": "age"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/齢.svg"
+  },
+  "frequency": 770,
+  "examples": [
+    "年齢",
+    "高齢",
+    "齢",
+    "老齢",
+    "樹齢"
+  ],
+  "explanation": {
+    "id": "8247",
+    "text": "齢 (đọc là \"rei\") có nghĩa là \"tuổi tác\", thường chỉ độ tuổi hoặc giai đoạn trong cuộc đời.  \nVí dụ:  \n- 年齢 (nenrei): Độ tuổi, tuổi tác.  \n- 齢を取る (rei o toru): Có tuổi, già đi.  \n- 高齢者 (kōrei"
+  },
+  "comments": [
+    {
+      "id": "158120",
+      "lang": "vi",
+      "content_html": "<p>Tuổi càng tăng răng càng ko nghe lệnh</p>",
+      "content_text": "Tuổi càng tăng răng càng ko nghe lệnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158121",
+      "lang": "vi",
+      "content_html": "<p>Răng 歯 người già ko ăn được đồ lạnh 冷</p>",
+      "content_text": "Răng 歯 người già ko ăn được đồ lạnh 冷",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158122",
+      "lang": "vi",
+      "content_html": "<p>người cao linh(lãnh) tuổi già rụng hết răng</p>",
+      "content_text": "người cao linh(lãnh) tuổi già rụng hết răng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

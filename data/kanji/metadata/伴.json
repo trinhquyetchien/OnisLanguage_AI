@@ -1,0 +1,91 @@
+{
+  "kanji": "伴",
+  "meta": {
+    "weight": 161,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン",
+      "バン"
+    ],
+    "kun": [
+      "ともな.う"
+    ],
+    "am_han": "BẠN"
+  },
+  "meaning": {
+    "vi": "phối hợp, đồng hành, mang theo",
+    "en": "consort, accompany, bring with, companion"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/伴.svg"
+  },
+  "frequency": 886,
+  "examples": [
+    "伴う",
+    "伴い",
+    "伴奏",
+    "伴",
+    "同伴"
+  ],
+  "explanation": {
+    "id": "6435",
+    "text": "伴 (đọc là \"ban\") có nghĩa là \"bạn\" hoặc \"cùng với\" để chỉ sự đồng hành hoặc kết hợp giữa các đối tượng.  \nVí dụ:  \n- 伴侶 (hanryo): Bạn đời, người bạn đồng hành.  \n- 伴う (tamanau): Đi cùng, đi "
+  },
+  "comments": [
+    {
+      "id": "151597",
+      "lang": "vi",
+      "content_html": "<p>1 Nửa của bản thân chính là người BẠN đời</p>",
+      "content_text": "1 Nửa của bản thân chính là người BẠN đời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151598",
+      "lang": "vi",
+      "content_html": "<p>Bán nhân là bạn</p>",
+      "content_text": "Bán nhân là bạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151599",
+      "lang": "vi",
+      "content_html": "<p>@ゴーバンハウ: \"bán\" ở đây là phân nửa chứ không phải động từ, những cách nhớ như vậy về lâu dài sẽ làm sai lệch đi cách hiểu nghĩa của chữ Hán.</p>",
+      "content_text": "@ゴーバンハウ: \"bán\" ở đây là phân nửa chứ không phải động từ, những cách nhớ như vậy về lâu dài sẽ làm sai lệch đi cách hiểu nghĩa của chữ Hán.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

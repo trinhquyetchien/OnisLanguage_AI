@@ -1,0 +1,91 @@
+{
+  "kanji": "独",
+  "meta": {
+    "weight": 1713,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドク",
+      "トク"
+    ],
+    "kun": [
+      "ひと.り"
+    ],
+    "am_han": "ĐỘC"
+  },
+  "meaning": {
+    "vi": "độc thân, một mình, tự phát, Đức",
+    "en": "single, alone, spontaneously, Germany"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/独.svg"
+  },
+  "frequency": 365,
+  "examples": [
+    "独立",
+    "独自",
+    "独特",
+    "独占",
+    "単独"
+  ],
+  "explanation": {
+    "id": "5971",
+    "text": "独 (đọc là \"doku\") có nghĩa là \"độc lập\", \"cô độc\" để chỉ trạng thái một mình hoặc không phụ thuộc vào ai khác.  \nVí dụ:  \n- 独立 (dokuritsu): Độc lập, tự chủ.  \n- 独特 (dokutoku): Đặc trưng, đặc"
+  },
+  "comments": [
+    {
+      "id": "155272",
+      "lang": "vi",
+      "content_html": "<p>Độc thân thì k dùng 3 con sâu :))</p>",
+      "content_text": "Độc thân thì k dùng 3 con sâu :))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155273",
+      "lang": "vi",
+      "content_html": "<p>Các bạn phân biệt giúp khuyển 犭 và trãi 豸(sâu) nhé.<br>Like cách nhớ của bạn Diễm, độc thân kg dùng 3 con sói ;))</p>",
+      "content_text": "Các bạn phân biệt giúp khuyển 犭 và trãi 豸(sâu) nhé.\nLike cách nhớ của bạn Diễm, độc thân kg dùng 3 con sói ;))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155274",
+      "lang": "vi",
+      "content_html": "<p>ĐỘC thân nên nuôi Chó và côn Trùng</p>",
+      "content_text": "ĐỘC thân nên nuôi Chó và côn Trùng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

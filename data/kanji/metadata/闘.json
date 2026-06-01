@@ -1,0 +1,91 @@
+{
+  "kanji": "闘",
+  "meta": {
+    "weight": 2814,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "たたか.う",
+      "あらそ.う"
+    ],
+    "am_han": "ĐẤU"
+  },
+  "meaning": {
+    "vi": "chiến đấu, chiến tranh",
+    "en": "fight, war"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/闘.svg"
+  },
+  "frequency": 751,
+  "examples": [
+    "戦闘",
+    "闘争",
+    "闘い",
+    "奮闘",
+    "格闘"
+  ],
+  "explanation": {
+    "id": "5895",
+    "text": "闘 (đọc là \"tō\") có nghĩa là \"chiến đấu\", \"đấu tranh\" để chỉ các hành động liên quan đến việc chiến đấu hoặc tranh đấu trong nhiều bối cảnh khác nhau.  \nVí dụ:  \n- 闘志 (tōshi): Ý chí chiến đấu"
+  },
+  "comments": [
+    {
+      "id": "157654",
+      "lang": "vi",
+      "content_html": "<p>Chiến đấu để được ăn món đậu thật thốn</p>",
+      "content_text": "Chiến đấu để được ăn món đậu thật thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157655",
+      "lang": "vi",
+      "content_html": "<p>Thiếu THỐN mua Đậu ở Cổng chùa về ăn để ĐẤU tranh với cái đói</p>",
+      "content_text": "Thiếu THỐN mua Đậu ở Cổng chùa về ăn để ĐẤU tranh với cái đói",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157656",
+      "lang": "vi",
+      "content_html": "<p>Phải đấu tranh với hạt đậu đang nằm ở hậu môn thật là thốn!</p>",
+      "content_text": "Phải đấu tranh với hạt đậu đang nằm ở hậu môn thật là thốn!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

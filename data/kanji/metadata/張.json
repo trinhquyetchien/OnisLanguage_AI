@@ -1,0 +1,92 @@
+{
+  "kanji": "張",
+  "meta": {
+    "weight": 904,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "は.る",
+      "-は.り",
+      "-ば.り"
+    ],
+    "am_han": "TRƯƠNG, TRƯỚNG"
+  },
+  "meaning": {
+    "vi": "kéo dài, đếm cung và nhạc cụ dây, kéo căng, trải rộng, dựng lên (lều)",
+    "en": "lengthen, counter for bows & stringed instruments, stretch, spread, put up (tent)"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/張.svg"
+  },
+  "frequency": 403,
+  "examples": [
+    "主張",
+    "緊張",
+    "出張",
+    "拡張",
+    "頑張り"
+  ],
+  "explanation": {
+    "id": "5349",
+    "text": "張 (đọc là \"chou\" hoặc \"haru\") có nghĩa là \"kéo dài\", \"mở rộng\", thường chỉ hành động làm cho một cái gì đó lớn hơn hoặc kéo căng ra.\n\nVí dụ:\n- 張り紙 (harigami): Giấy dán, thông báo.\n- 張る (haru"
+  },
+  "comments": [
+    {
+      "id": "153413",
+      "lang": "vi",
+      "content_html": "<p>trường kéo cung bị trương bụng</p>",
+      "content_text": "trường kéo cung bị trương bụng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153414",
+      "lang": "vi",
+      "content_html": "<p>cây CUNG đang bị kéo DÀI  --»  làm CĂNG lên để PHÔ TRƯƠNG, MỞ RỘNG</p>",
+      "content_text": "cây CUNG đang bị kéo DÀI  --»  làm CĂNG lên để PHÔ TRƯƠNG, MỞ RỘNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153415",
+      "lang": "vi",
+      "content_html": "<p>Cung muốn căng dài thì phải khẩn TRƯƠNG ko đc lo lắng</p>",
+      "content_text": "Cung muốn căng dài thì phải khẩn TRƯƠNG ko đc lo lắng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

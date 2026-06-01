@@ -1,0 +1,91 @@
+{
+  "kanji": "全",
+  "meta": {
+    "weight": 269,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゼン"
+    ],
+    "kun": [
+      "まった.く",
+      "すべ.て"
+    ],
+    "am_han": "TOÀN"
+  },
+  "meaning": {
+    "vi": "toàn bộ",
+    "en": "whole, entire, all, complete, fulfill"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/全.svg"
+  },
+  "frequency": 75,
+  "examples": [
+    "全体",
+    "全く",
+    "全て",
+    "安全",
+    "全"
+  ],
+  "explanation": {
+    "id": "4595",
+    "text": "全 (đọc là \"zen\") có nghĩa là \"toàn bộ\", \"toàn diện\" để chỉ sự hoàn chỉnh hoặc đầy đủ của một cái gì đó.\n\nVí dụ:\n- 全部 (zenbu): Tất cả, toàn bộ.\n- 全力 (zenryoku): Toàn lực, sức lực tối đa.\n- 全員"
+  },
+  "comments": [
+    {
+      "id": "190898",
+      "lang": "vi",
+      "content_html": "<p><strong>toàn bộ</strong></p>",
+      "content_text": "toàn bộ",
+      "image_url": "https://jpdictionary.com/upload/images/648a659135310.jpg",
+      "image_path": "assets/images/全_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "37091",
+      "lang": "vi",
+      "content_html": "<p>Nhà vua (王) thống trị<strong> toàn bộ</strong> những thứ có trên núi.</p>",
+      "content_text": "Nhà vua (王) thống trị\ntoàn bộ\nnhững thứ có trên núi.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb24dd99ae.jpg",
+      "image_path": "assets/images/全_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151864",
+      "lang": "vi",
+      "content_html": "<p>Vua là người toàn vẹn</p>",
+      "content_text": "Vua là người toàn vẹn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

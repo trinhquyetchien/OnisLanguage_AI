@@ -1,0 +1,91 @@
+{
+  "kanji": "依",
+  "meta": {
+    "weight": 186,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ",
+      "エ"
+    ],
+    "kun": [
+      "よ.る"
+    ],
+    "am_han": "Ỷ"
+  },
+  "meaning": {
+    "vi": "ỷ lại, phụ thuộc",
+    "en": "reliant, depend on, consequently, therefore, due to"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/依.svg"
+  },
+  "frequency": 906,
+  "examples": [
+    "依頼",
+    "依存",
+    "依然として",
+    "依然",
+    "依拠"
+  ],
+  "explanation": {
+    "id": "119",
+    "text": "依 (đọc là \"i\") có nghĩa là \"dựa vào\", \"tin tưởng\" để chỉ các hành động liên quan đến sự phụ thuộc hoặc sự tin cậy vào người khác hoặc điều gì đó.\n\nVí dụ:\n- 依存 (izon): Sự phụ thuộc, lệ thuộc."
+  },
+  "comments": [
+    {
+      "id": "151658",
+      "lang": "vi",
+      "content_html": "<p>ỷ lại cho vợ giặt y phục</p>",
+      "content_text": "ỷ lại cho vợ giặt y phục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151659",
+      "lang": "vi",
+      "content_html": "<p>Bề ngoài của CON NGƯỜI (亻) thì PHỤ THUỘC(依) vào TRANG PHỤC(衣) họ mặc.</p>",
+      "content_text": "Bề ngoài của CON NGƯỜI (亻) thì PHỤ THUỘC(依) vào TRANG PHỤC(衣) họ mặc.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151660",
+      "lang": "vi",
+      "content_html": "<p>Người có bộ y phục ko giặt cứ Ỷ lại nhờ vả</p>",
+      "content_text": "Người có bộ y phục ko giặt cứ Ỷ lại nhờ vả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

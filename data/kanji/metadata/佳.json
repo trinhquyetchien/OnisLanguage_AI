@@ -1,0 +1,86 @@
+{
+  "kanji": "佳",
+  "meta": {
+    "weight": 178,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [],
+    "am_han": "GIAI"
+  },
+  "meaning": {
+    "vi": "xuất sắc, đẹp, tốt, làm hài lòng, có tay nghề cao",
+    "en": "excellent, beautiful, good, pleasing, skilled"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/佳.svg"
+  },
+  "frequency": 1643,
+  "examples": [
+    "佳",
+    "佳作",
+    "佳境"
+  ],
+  "explanation": {
+    "id": "618",
+    "text": "佳 (đọc là \"ka\") có nghĩa là \"tốt\", \"đẹp\", dùng để chỉ những điều tốt đẹp, phù hợp hoặc hoàn hảo.  \nVí dụ:  \n- 佳作 (kasaku): Tác phẩm xuất sắc.  \n- 佳人 (kajin): Người phụ nữ đẹp.  \n- 佳境 (kakyou"
+  },
+  "comments": [
+    {
+      "id": "151640",
+      "lang": "vi",
+      "content_html": "<p>Người có nhieu đất thì có giai nhân trong nhà</p>",
+      "content_text": "Người có nhieu đất thì có giai nhân trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151641",
+      "lang": "vi",
+      "content_html": "<p>Người giai nhân có 2 (nhiều) miếng đất</p>",
+      "content_text": "Người giai nhân có 2 (nhiều) miếng đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151642",
+      "lang": "vi",
+      "content_html": "<p>Khuê là người đẹp</p>",
+      "content_text": "Khuê là người đẹp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

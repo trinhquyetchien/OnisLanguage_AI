@@ -1,0 +1,90 @@
+{
+  "kanji": "剰",
+  "meta": {
+    "weight": 337,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [
+      "あまつさえ",
+      "あま.り",
+      "あま.る"
+    ],
+    "am_han": "THẶNG, THỪA"
+  },
+  "meaning": {
+    "vi": "thặng dư, bên cạnh đó",
+    "en": "surplus, besides"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/剰.svg"
+  },
+  "frequency": 1448,
+  "examples": [
+    "過剰",
+    "余剰",
+    "剰余"
+  ],
+  "explanation": {
+    "id": "3950",
+    "text": "剰 (đọc là \"jō\") có nghĩa là \"thặng dư\", chỉ sự vượt quá hoặc dư thừa so với mức cần thiết. \n\nVí dụ:\n- 剰余 (jōyo): Thặng dư, phần dư ra.\n- 剰余金 (jōyokin): Tiền thặng dư, lợi nhuận dư thừa.\n- 剰余"
+  },
+  "comments": [
+    {
+      "id": "152048",
+      "lang": "vi",
+      "content_html": "<p>Số đao thừa lại là THẶNG dư</p>",
+      "content_text": "Số đao thừa lại là THẶNG dư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152049",
+      "lang": "vi",
+      "content_html": "<p>phần được cắt ra từ phần dư thừa gọi là thặng dư</p>",
+      "content_text": "phần được cắt ra từ phần dư thừa gọi là thặng dư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152050",
+      "lang": "vi",
+      "content_html": "<p>1000 bông hoa trên cây mà dùng đao cắt thì còn THẶNG dư nhiều</p>",
+      "content_text": "1000 bông hoa trên cây mà dùng đao cắt thì còn THẶNG dư nhiều",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

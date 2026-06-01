@@ -1,0 +1,73 @@
+{
+  "kanji": "冬",
+  "meta": {
+    "weight": 289,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "ふゆ"
+    ],
+    "am_han": "ĐÔNG"
+  },
+  "meaning": {
+    "vi": "mùa đông",
+    "en": "winter"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/冬.svg"
+  },
+  "frequency": 1090,
+  "examples": [
+    "冬",
+    "冬季",
+    "冬休み",
+    "冬場",
+    "真冬"
+  ],
+  "explanation": {
+    "id": "5766",
+    "text": "冬 (đọc là \"tō\" hoặc \"fuyu\") có nghĩa là \"mùa đông\", chỉ thời gian lạnh giá trong năm.  \nVí dụ:  \n- 冬季 (tōki): Mùa đông, thời kỳ đông.  \n- 冬服 (fuyufuku): Áo mùa đông.  \n- 冬眠 (dōmin): Ngủ đông"
+  },
+  "comments": [
+    {
+      "id": "712",
+      "lang": "vi",
+      "content_html": "<p>Sẽ rất trơn trượt khi đi trên băng vào mùa <strong>đông</strong>.</p>",
+      "content_text": "Sẽ rất trơn trượt khi đi trên băng vào mùa\nđông\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62983f2588813.jpg",
+      "image_path": "assets/images/冬_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158598",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>冬 (ふゆ): mùa đông</p>",
+      "content_text": "JLPT N4\n冬 (ふゆ): mùa đông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

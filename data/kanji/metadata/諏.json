@@ -1,0 +1,34 @@
+{
+  "kanji": "諏",
+  "meta": {
+    "weight": 2505,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ",
+      "ス"
+    ],
+    "kun": [
+      "そう",
+      "はか.る"
+    ],
+    "am_han": "TƯU"
+  },
+  "meaning": {
+    "vi": "tham khảo ý kiến",
+    "en": "consult"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/諏.svg"
+  },
+  "frequency": 1949,
+  "examples": [],
+  "explanation": {
+    "id": "4186",
+    "text": "諏 (đọc là \"su\") có nghĩa là \"hỏi thăm\", \"thỉnh cầu\" để chỉ hành động yêu cầu thông tin hoặc sự giúp đỡ từ người khác.\n\nVí dụ:\n- 諏訪 (Suwa): Tên một địa danh ở Nhật Bản.\n- 諏訪湖 (Suwa-ko): Hồ Su"
+  },
+  "comments": []
+}

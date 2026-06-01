@@ -1,0 +1,93 @@
+{
+  "kanji": "与",
+  "meta": {
+    "weight": 80,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨ"
+    ],
+    "kun": [
+      "あた.える",
+      "あずか.る",
+      "くみ.する",
+      "ともに"
+    ],
+    "am_han": "DỮ, DỰ"
+  },
+  "meaning": {
+    "vi": "cho, ban tặng",
+    "en": "bestow, participate in, give, award, impart, provide, cause, gift, godsend"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/与.svg"
+  },
+  "frequency": 308,
+  "examples": [
+    "与え",
+    "与える",
+    "給与",
+    "関与",
+    "与党"
+  ],
+  "explanation": {
+    "id": "7822",
+    "text": "与 (đọc là \"yo\") có nghĩa là \"cùng với\", \"với\" để chỉ sự kết nối, hợp tác hoặc liên quan giữa các đối tượng.  \nVí dụ:  \n- 与える (ataeru): Cung cấp, ban tặng.  \n- 参加与 (sankayou): Tham gia cùng. "
+  },
+  "comments": [
+    {
+      "id": "151406",
+      "lang": "vi",
+      "content_html": "<p>Mua 5 (quả táo) sẽ được tặng thêm 1 quả<br>与える: cho, tặng<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Mua 5 (quả táo) sẽ được tặng thêm 1 quả\n与える: cho, tặng\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151407",
+      "lang": "vi",
+      "content_html": "<p>Tham DỰ hội thảo mỗi 1 NĂM 1 lần thôi</p>",
+      "content_text": "Tham DỰ hội thảo mỗi 1 NĂM 1 lần thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151408",
+      "lang": "vi",
+      "content_html": "<p>Lương cấp DỮ được 5 tỉ</p>",
+      "content_text": "Lương cấp DỮ được 5 tỉ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

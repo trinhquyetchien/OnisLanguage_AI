@@ -1,0 +1,88 @@
+{
+  "kanji": "噛",
+  "meta": {
+    "weight": 523,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ゴウ"
+    ],
+    "kun": [
+      "か.む",
+      "か.じる"
+    ],
+    "am_han": "GIẢO"
+  },
+  "meaning": {
+    "vi": "nhai, cắn, gặm",
+    "en": "chew, bite, gnaw"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/噛.svg"
+  },
+  "frequency": 2399,
+  "examples": [
+    "噛む"
+  ],
+  "explanation": {
+    "id": "1031",
+    "text": "噛 (đọc là \"kami\" hoặc \"kamu\") có nghĩa là \"cắn\", \"nhai\" để chỉ hành động sử dụng răng để nghiền nát thức ăn hoặc đối tượng nào đó.  \nVí dụ:  \n- 噛む (kamu): Cắn, nhai.  \n- 噛みつく (kamitsuku): Cắ"
+  },
+  "comments": [
+    {
+      "id": "152497",
+      "lang": "vi",
+      "content_html": "<p>RĂNG trong MIỆNG dùng để nhai</p>",
+      "content_text": "RĂNG trong MIỆNG dùng để nhai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152498",
+      "lang": "vi",
+      "content_html": "<p>Miệng đang GIAO GIẢO nhai Xỉ</p>",
+      "content_text": "Miệng đang GIAO GIẢO nhai Xỉ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152499",
+      "lang": "vi",
+      "content_html": "<p>đủ MIỆNG đủ RĂNG  --  thì CẮN rồi NHAI thôi</p>",
+      "content_text": "đủ MIỆNG đủ RĂNG  --  thì CẮN rồi NHAI thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

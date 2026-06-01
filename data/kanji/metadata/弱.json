@@ -1,0 +1,110 @@
+{
+  "kanji": "弱",
+  "meta": {
+    "weight": 903,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジャク"
+    ],
+    "kun": [
+      "よわ.い",
+      "よわ.る",
+      "よわ.まる",
+      "よわ.める"
+    ],
+    "am_han": "NHƯỢC"
+  },
+  "meaning": {
+    "vi": "yếu, nhược điểm",
+    "en": "weak, frail"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/弱.svg"
+  },
+  "frequency": 958,
+  "examples": [
+    "弱い",
+    "弱",
+    "脆弱",
+    "弱者",
+    "弱点"
+  ],
+  "explanation": {
+    "id": "3397",
+    "text": "弱 (đọc là \"jaku\" hoặc \"yowai\") có nghĩa là \"yếu\", chỉ sự yếu đuối hoặc không mạnh mẽ. \n\nVí dụ:\n- 弱点 (jakuten): Điểm yếu.\n- 弱い (yowai): Yếu, mềm yếu.\n- 弱者 (jakusha): Người yếu đuối, kẻ yếu."
+  },
+  "comments": [
+    {
+      "id": "1043",
+      "lang": "vi",
+      "content_html": "<p>2 con chim non <strong>yếu ớt</strong></p>",
+      "content_text": "2 con chim non\nyếu ớt",
+      "image_url": "https://jpdictionary.com/upload/images/62a1f92445ca2.jpg",
+      "image_path": "assets/images/弱_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153410",
+      "lang": "vi",
+      "content_html": "<p>kẻ địch vì hai cây cung (CUNG) đều bị đóng băng (BĂNG) nên trở nên yếu (NHƯỢC)</p>",
+      "content_text": "kẻ địch vì hai cây cung (CUNG) đều bị đóng băng (BĂNG) nên trở nên yếu (NHƯỢC)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153411",
+      "lang": "vi",
+      "content_html": "<p>nhược điểm của con chim là đôi cánh. hãy dùng cung bắn vào điểm yếu đó</p>",
+      "content_text": "nhược điểm của con chim là đôi cánh. hãy dùng cung bắn vào điểm yếu đó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153412",
+      "lang": "vi",
+      "content_html": "<p>2 cây cung lớn (&#62;) mà YẾU</p>",
+      "content_text": "2 cây cung lớn (>) mà YẾU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

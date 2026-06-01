@@ -1,0 +1,90 @@
+{
+  "kanji": "論",
+  "meta": {
+    "weight": 2507,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロン"
+    ],
+    "kun": [
+      "あげつら.う"
+    ],
+    "am_han": "LUẬN"
+  },
+  "meaning": {
+    "vi": "lập luận, nghị luận",
+    "en": "argument, discourse"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/論.svg"
+  },
+  "frequency": 227,
+  "examples": [
+    "議論",
+    "論",
+    "理論",
+    "結論",
+    "論文"
+  ],
+  "explanation": {
+    "id": "8380",
+    "text": "論 (đọc là \"ron\") có nghĩa là \"luận\" để chỉ các hành động liên quan đến việc thảo luận, tranh luận hoặc phân tích một vấn đề.\n\nVí dụ:\n- 論文 (ronbun): Bài luận, luận văn.\n- 論じる (ronjiru): Thảo "
+  },
+  "comments": [
+    {
+      "id": "156959",
+      "lang": "vi",
+      "content_html": "<p>Ngôn cộng luân là ngôn luận</p>",
+      "content_text": "Ngôn cộng luân là ngôn luận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156960",
+      "lang": "vi",
+      "content_html": "<p>ngân lộn là ngôn Luận</p>",
+      "content_text": "ngân lộn là ngôn Luận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156961",
+      "lang": "vi",
+      "content_html": "<p>lời nói bàn Luận về 1 quyển Sách dưới mái nhà</p>",
+      "content_text": "lời nói bàn Luận về 1 quyển Sách dưới mái nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

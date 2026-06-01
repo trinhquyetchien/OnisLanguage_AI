@@ -1,0 +1,89 @@
+{
+  "kanji": "雅",
+  "meta": {
+    "weight": 2855,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガ"
+    ],
+    "kun": [
+      "みや.び"
+    ],
+    "am_han": "NHÃ"
+  },
+  "meaning": {
+    "vi": "duyên dáng, thanh lịch, tinh tế",
+    "en": "gracious, elegant, graceful, refined"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/雅.svg"
+  },
+  "frequency": 1192,
+  "examples": [
+    "優雅",
+    "雅",
+    "雅人",
+    "雅楽"
+  ],
+  "explanation": {
+    "id": "738",
+    "text": "雅 (đọc là \"ga\") có nghĩa là \"thanh nhã\", \" tao nhã\" thường chỉ vẻ đẹp, sự tinh tế trong văn hóa hoặc nghệ thuật.\n\nVí dụ:\n- 雅楽 (gagaku): Nhạc cổ truyền Nhật Bản, âm nhạc thanh nhã.\n- 優雅 (yūga"
+  },
+  "comments": [
+    {
+      "id": "157765",
+      "lang": "vi",
+      "content_html": "<p>Người nhã nhặn thì không dùng răng cắn vào chim</p>",
+      "content_text": "Người nhã nhặn thì không dùng răng cắn vào chim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157766",
+      "lang": "vi",
+      "content_html": "<p>Người cầm gươm nuôi chim nhìn tao nhã thanh lịch</p>",
+      "content_text": "Người cầm gươm nuôi chim nhìn tao nhã thanh lịch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157767",
+      "lang": "vi",
+      "content_html": "<p>chim không có nanh nên nhìn tao nhã</p>",
+      "content_text": "chim không có nanh nên nhìn tao nhã",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

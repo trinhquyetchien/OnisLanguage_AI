@@ -1,0 +1,93 @@
+{
+  "kanji": "刃",
+  "meta": {
+    "weight": 310,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジン",
+      "ニン"
+    ],
+    "kun": [
+      "は",
+      "やいば",
+      "き.る"
+    ],
+    "am_han": "NHẬN"
+  },
+  "meaning": {
+    "vi": "lưỡi, kiếm, cạnh",
+    "en": "blade, sword, edge"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/刃.svg"
+  },
+  "frequency": 1763,
+  "examples": [
+    "刃",
+    "刃物",
+    "刃先",
+    "諸刃",
+    "両刃"
+  ],
+  "explanation": {
+    "id": "4150",
+    "text": "刃 (đọc là \"jin\" hoặc \"ha\") có nghĩa là \"lưỡi\" hoặc \"mũi dao\", thường chỉ về phần sắc của các vật dụng cắt, như dao hay kiếm. \n\nVí dụ:\n- 刃物 (hamono): Vật dụng sắc nhọn, đồ cắt.\n- 刃先 (hasaki):"
+  },
+  "comments": [
+    {
+      "id": "151968",
+      "lang": "vi",
+      "content_html": "<p>ĐAO đã có CHỦ , NHẬN vơ là CHÉM</p>",
+      "content_text": "ĐAO đã có CHỦ , NHẬN vơ là CHÉM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151969",
+      "lang": "vi",
+      "content_html": "<p>NHẬN thấy con Dao mẻ nhưng vẫn SẮC NHỌN</p>",
+      "content_text": "NHẬN thấy con Dao mẻ nhưng vẫn SẮC NHỌN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151970",
+      "lang": "vi",
+      "content_html": "<p>鬼滅の刃ーきめつのやいば- thanh gươm diệt quỷ</p>",
+      "content_text": "鬼滅の刃ーきめつのやいば- thanh gươm diệt quỷ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

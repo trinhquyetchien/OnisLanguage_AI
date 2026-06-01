@@ -1,0 +1,87 @@
+{
+  "kanji": "匂",
+  "meta": {
+    "weight": 371,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "にお.う",
+      "にお.い",
+      "にお.わせる"
+    ],
+    "am_han": "MÙI"
+  },
+  "meaning": {
+    "vi": "thơm, bốc mùi, phát sáng, bóng gió, (kokuji)",
+    "en": "fragrant, stink, glow, insinuate, (kokuji)"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/匂.svg"
+  },
+  "frequency": 2213,
+  "examples": [
+    "匂い",
+    "匂"
+  ],
+  "explanation": {
+    "id": "6096",
+    "text": "匂 (đọc là \"nioi\") có nghĩa là \"mùi\" hoặc \"hương thơm\", để chỉ các giác quan liên quan đến mùi hương và cảm nhận.  \nVí dụ:  \n- 匂い (nioi): Mùi hương, hương vị.  \n- 香匂 (kan-nioi): Hương thơm dễ"
+  },
+  "comments": [
+    {
+      "id": "152127",
+      "lang": "vi",
+      "content_html": "<p>CÁI THÌA để trong BAO lâu ngày có MÙI.</p>",
+      "content_text": "CÁI THÌA để trong BAO lâu ngày có MÙI.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152128",
+      "lang": "vi",
+      "content_html": "<p>Bọc  hi  lâu ngày thì có mùi</p>",
+      "content_text": "Bọc  hi  lâu ngày thì có mùi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152129",
+      "lang": "vi",
+      "content_html": "<p>ở trong Bao có cái Thìa phát ra MÙI hương thơm</p>",
+      "content_text": "ở trong Bao có cái Thìa phát ra MÙI hương thơm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

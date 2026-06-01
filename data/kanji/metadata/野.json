@@ -1,0 +1,109 @@
+{
+  "kanji": "野",
+  "meta": {
+    "weight": 2736,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヤ",
+      "ショ"
+    ],
+    "kun": [
+      "の",
+      "の-"
+    ],
+    "am_han": "DÃ"
+  },
+  "meaning": {
+    "vi": "cánh đồng, thôn dã",
+    "en": "plains, field, rustic, civilian life"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/野.svg"
+  },
+  "frequency": 120,
+  "examples": [
+    "分野",
+    "野球",
+    "野菜",
+    "野",
+    "長野"
+  ],
+  "explanation": {
+    "id": "7680",
+    "text": "野 (đọc là \"ya\" hoặc \"no\") có nghĩa là \"cánh đồng\", \"hoang dã\" để chỉ những vùng đất không được canh tác hoặc tự nhiên. \n\nVí dụ:\n- 野菜 (yasai): Rau củ.\n- 野生 (yasei): Hoang dã, tự nhiên.\n- 野球 ("
+  },
+  "comments": [
+    {
+      "id": "883",
+      "lang": "vi",
+      "content_html": "<p>Người mẹ cõng con đi đến <strong>cánh đồng</strong></p>",
+      "content_text": "Người mẹ cõng con đi đến\ncánh đồng",
+      "image_url": "https://jpdictionary.com/upload/images/6298a03d47b00.jpg",
+      "image_path": "assets/images/野_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157517",
+      "lang": "vi",
+      "content_html": "<p>tôi dự予 định về làng  里　sống thôn dã野, trồng rau　野菜</p>",
+      "content_text": "tôi dự予 định về làng  里　sống thôn dã野, trồng rau　野菜",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158893",
+      "lang": "vi",
+      "content_html": "<p>生野菜(なまやさい): rau sống</p>",
+      "content_text": "生野菜(なまやさい): rau sống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "158300",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>野菜 (やさい): rau<br>野球 (やきゅう): bóng chày</p>",
+      "content_text": "JLPT N4\n野菜 (やさい): rau\n野球 (やきゅう): bóng chày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

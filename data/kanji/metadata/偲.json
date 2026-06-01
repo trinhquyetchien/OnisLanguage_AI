@@ -1,0 +1,53 @@
+{
+  "kanji": "偲",
+  "meta": {
+    "weight": 226,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ",
+      "シ"
+    ],
+    "kun": [
+      "しの.ぶ"
+    ],
+    "am_han": "TI, TAI"
+  },
+  "meaning": {
+    "vi": "hồi ức, nhớ lại",
+    "en": "recollect, remember"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/偲.svg"
+  },
+  "frequency": 2350,
+  "examples": [
+    "偲ぶ"
+  ],
+  "explanation": {
+    "id": "3302",
+    "text": "Chữ Hán 偲 (đọc là \"sai\") có nghĩa là \"nhớ lại\" hoặc \"hoài niệm\", thường liên quan đến việc nhớ về người đã khuất hoặc kỷ niệm.\n\nVí dụ:\n- 偲ぶ (shinobu): Nhớ lại, tưởng nhớ.\n- 偲び合う (shinobiau):"
+  },
+  "comments": [
+    {
+      "id": "151755",
+      "lang": "vi",
+      "content_html": "<p>Người đứng nhớ hồi tưởng lại cánh đồng trong tâm TƯ</p>",
+      "content_text": "Người đứng nhớ hồi tưởng lại cánh đồng trong tâm TƯ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

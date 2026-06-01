@@ -1,0 +1,107 @@
+{
+  "kanji": "民",
+  "meta": {
+    "weight": 1478,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ミン"
+    ],
+    "kun": [
+      "たみ"
+    ],
+    "am_han": "DÂN"
+  },
+  "meaning": {
+    "vi": "dân tộc",
+    "en": "people, nation, subjects"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/民.svg"
+  },
+  "frequency": 28,
+  "examples": [
+    "国民",
+    "市民",
+    "住民",
+    "民間",
+    "民族"
+  ],
+  "explanation": {
+    "id": "7506",
+    "text": "民 (đọc là \"min\") có nghĩa là \"dân\" để chỉ người dân, nhân dân hoặc cộng đồng.\n\nVí dụ:\n- 民族 (minzoku): Dân tộc.\n- 民間 (minkan): Tư nhân, khu vực dân gian.\n- 市民 (shimin): Công dân, người thành "
+  },
+  "comments": [
+    {
+      "id": "36920",
+      "lang": "vi",
+      "content_html": "<p>Người <strong>dân </strong>đều có miệng và họ tên.</p>",
+      "content_text": "Người\ndân\nđều có miệng và họ tên.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4194b786d.jpg",
+      "image_path": "assets/images/民_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154745",
+      "lang": "vi",
+      "content_html": "<p>Người, dân gọi 口 nhau bằng họ tên 氏</p>",
+      "content_text": "Người, dân gọi 口 nhau bằng họ tên 氏",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158997",
+      "lang": "vi",
+      "content_html": "<p>Chữ 民 trong tiếng Nhật được phát âm là min. Nó có nghĩa là \"người dân\" hoặc \"dân tộc\".</p><p>Ví dụ, từ 民主 (minshu) có nghĩa là \"dân chủ\" hoặc \"chủ nghĩa dân chủ\". Chữ 民 cũng có thể xuất hiện trong các từ khác như 民族 (minzoku) có nghĩa là \"dân tộc\" hoặc 民意 (mini) có nghĩa là \"ý kiến của dân\".</p>",
+      "content_text": "Chữ 民 trong tiếng Nhật được phát âm là min. Nó có nghĩa là \"người dân\" hoặc \"dân tộc\".\nVí dụ, từ 民主 (minshu) có nghĩa là \"dân chủ\" hoặc \"chủ nghĩa dân chủ\". Chữ 民 cũng có thể xuất hiện trong các từ khác như 民族 (minzoku) có nghĩa là \"dân tộc\" hoặc 民意 (mini) có nghĩa là \"ý kiến của dân\".",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "2",
+        "name": "ピカチュウ",
+        "image_url": "https://jpdictionary.com/upload/images/63918f2e8dcf1.png"
+      }
+    },
+    {
+      "id": "154746",
+      "lang": "vi",
+      "content_html": "<p>Thị nở (氏) há Mồm ngáp (口 KHẨU) toàn Dân ngất hết.<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Thị nở (氏) há Mồm ngáp (口 KHẨU) toàn Dân ngất hết.\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "kanji": "璃",
+  "meta": {
+    "weight": 1757,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リ"
+    ],
+    "kun": [],
+    "am_han": "LI"
+  },
+  "meaning": {
+    "vi": "thủy tinh, lapis lazuli",
+    "en": "glassy, lapis lazuli"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/璃.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8015",
+    "text": "璃 (đọc là \"ri\") có nghĩa là \"thủy tinh\" hoặc \"pha lê\", thường dùng để chỉ các loại vật liệu trong suốt, tinh khiết và đẹp mắt. \n\nVí dụ:\n- 璃子 (riko): Pha lê.\n- 璃細工 (rizai ku): Nghề thủ công c"
+  },
+  "comments": [
+    {
+      "id": "220100",
+      "lang": "vi",
+      "content_html": "<p>“Quân vương đội mũ rèn gươm<br>Đặt trong cối đá màu cườm lưu li.”</p>",
+      "content_text": "“Quân vương đội mũ rèn gươm\nĐặt trong cối đá màu cườm lưu li.”",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220101",
+      "lang": "vi",
+      "content_html": "<p>Khu vương ở thì xanh màu lưu li</p>",
+      "content_text": "Khu vương ở thì xanh màu lưu li",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220102",
+      "lang": "vi",
+      "content_html": "<p>Ô vua đầu u mê mụ mị cho quây quanh hết ngọc lưu Li</p>",
+      "content_text": "Ô vua đầu u mê mụ mị cho quây quanh hết ngọc lưu Li",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

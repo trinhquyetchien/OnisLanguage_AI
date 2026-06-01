@@ -1,0 +1,85 @@
+{
+  "kanji": "痢",
+  "meta": {
+    "weight": 1810,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リ"
+    ],
+    "kun": [],
+    "am_han": "LỊ"
+  },
+  "meaning": {
+    "vi": "bệnh tiêu chảy",
+    "en": "diarrhea"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/痢.svg"
+  },
+  "frequency": 2037,
+  "examples": [
+    "下痢",
+    "痢"
+  ],
+  "explanation": {
+    "id": "8018",
+    "text": "痢 (đọc là \"ri\") có nghĩa là \"tiêu chảy\", thường dùng để chỉ các bệnh lý liên quan đến tiêu hóa. \n\nVí dụ:\n- 痢疾 (rijitsu): Bệnh tiêu chảy.\n- 赤痢 (akari): Bệnh lỵ amip.\n- 胃腸炎 (ichouen): Viêm dạ "
+  },
+  "comments": [
+    {
+      "id": "155473",
+      "lang": "vi",
+      "content_html": "<p>Lợi bị bệnh kiết lị</p>",
+      "content_text": "Lợi bị bệnh kiết lị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155474",
+      "lang": "vi",
+      "content_html": "<p>Thằng Lợi bị KIẾT LỊ phải nhập viện</p>",
+      "content_text": "Thằng Lợi bị KIẾT LỊ phải nhập viện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155475",
+      "lang": "vi",
+      "content_html": "<p>Bệnh ko có lợi là bệnh kiết LỊ</p>",
+      "content_text": "Bệnh ko có lợi là bệnh kiết LỊ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

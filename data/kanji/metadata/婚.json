@@ -1,0 +1,105 @@
+{
+  "kanji": "婚",
+  "meta": {
+    "weight": 680,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン"
+    ],
+    "kun": [],
+    "am_han": "HÔN"
+  },
+  "meaning": {
+    "vi": "hôn nhân",
+    "en": "marriage"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/婚.svg"
+  },
+  "frequency": 767,
+  "examples": [
+    "結婚",
+    "離婚",
+    "結婚式",
+    "婚約",
+    "婚"
+  ],
+  "explanation": {
+    "id": "2689",
+    "text": "婚 (đọc là \"kon\") có nghĩa là \"hôn nhân\" để chỉ các hành động hoặc khái niệm liên quan đến việc kết hôn, tổ chức lễ cưới.\n\nVí dụ:\n- 結婚 (kekkon): Kết hôn, hôn nhân.\n- 婚約 (kon'yaku): Đính hôn.\n"
+  },
+  "comments": [
+    {
+      "id": "37192",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ (女) đổi họ (氏) sau khi <strong>kết hôn</strong>.</p>",
+      "content_text": "Phụ nữ (女) đổi họ (氏) sau khi\nkết hôn\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd3967b2a1.jpg",
+      "image_path": "assets/images/婚_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152858",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ kết HÔN phải đổi Họ trong Ngày</p>",
+      "content_text": "Phụ nữ kết HÔN phải đổi Họ trong Ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152859",
+      "lang": "vi",
+      "content_html": "<p>Ngày kết HÔN là NGÀY  người PHỤ NỮ phải thay tên đổi HỌ</p>",
+      "content_text": "Ngày kết HÔN là NGÀY  người PHỤ NỮ phải thay tên đổi HỌ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152860",
+      "lang": "vi",
+      "content_html": "<p>1 ngày đẹp trời làm giấy kết hôn với phụ nữ</p>",
+      "content_text": "1 ngày đẹp trời làm giấy kết hôn với phụ nữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

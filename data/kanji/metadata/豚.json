@@ -1,0 +1,106 @@
+{
+  "kanji": "豚",
+  "meta": {
+    "weight": 2537,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トン"
+    ],
+    "kun": [
+      "ぶた"
+    ],
+    "am_han": "ĐỒN, ĐỘN"
+  },
+  "meaning": {
+    "vi": "heo",
+    "en": "pork, pig"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/豚.svg"
+  },
+  "frequency": 1864,
+  "examples": [
+    "豚",
+    "豚肉",
+    "豚汁",
+    "養豚"
+  ],
+  "explanation": {
+    "id": "6017",
+    "text": "豚 (đọc là \"buta\") có nghĩa là \"lợn\" hoặc \"heo\", chỉ loài động vật nuôi dùng làm thực phẩm.  \nVí dụ:  \n- 豚肉 (butaniku): Thịt lợn.  \n- 豚舎 (buta-sha): Chuồng heo.  \n- 豚カツ (tonkatsu): Món thịt l"
+  },
+  "comments": [
+    {
+      "id": "872",
+      "lang": "vi",
+      "content_html": "<p>Con <strong>heo </strong>đang nhìn mặt trăng (月).</p>",
+      "content_text": "Con\nheo\nđang nhìn mặt trăng (月).",
+      "image_url": "https://jpdictionary.com/upload/images/62989dda81ac6.jpg",
+      "image_path": "assets/images/豚_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157031",
+      "lang": "vi",
+      "content_html": "<p>Nghe ĐỒN nguyệt béo như lợn</p>",
+      "content_text": "Nghe ĐỒN nguyệt béo như lợn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157032",
+      "lang": "vi",
+      "content_html": "<p>Nghe ĐỒN trên MẶT TRĂNG nuôi đc LỢN</p>",
+      "content_text": "Nghe ĐỒN trên MẶT TRĂNG nuôi đc LỢN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157033",
+      "lang": "vi",
+      "content_html": "<p>Nghe Đồn chị Hằng (NGUYỆT) thịt Bác Giới (Lợn)</p>",
+      "content_text": "Nghe Đồn chị Hằng (NGUYỆT) thịt Bác Giới (Lợn)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

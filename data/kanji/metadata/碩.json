@@ -1,0 +1,50 @@
+{
+  "kanji": "碩",
+  "meta": {
+    "weight": 1888,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ"
+    ],
+    "kun": [
+      "おお.きい"
+    ],
+    "am_han": "THẠC"
+  },
+  "meaning": {
+    "vi": "lớn, vĩ đại, lỗi lạc",
+    "en": "large, great, eminent"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/碩.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4427",
+    "text": "碩 (đọc là \"soku\") có nghĩa là \"to lớn\", \"vĩ đại\" để chỉ sự nổi bật, xuất sắc hoặc có quy mô lớn trong một lĩnh vực nào đó.\n\nVí dụ:\n- 碩士 (sokushi): Thạc sĩ.\n- 碩大 (sokudai): Rất lớn, khổng lồ."
+  },
+  "comments": [
+    {
+      "id": "220221",
+      "lang": "vi",
+      "content_html": "<p>thạc sĩ</p>",
+      "content_text": "thạc sĩ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

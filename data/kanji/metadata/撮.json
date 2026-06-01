@@ -1,0 +1,92 @@
+{
+  "kanji": "撮",
+  "meta": {
+    "weight": 1156,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サツ"
+    ],
+    "kun": [
+      "と.る",
+      "つま.む",
+      "-ど.り"
+    ],
+    "am_han": "TOÁT"
+  },
+  "meaning": {
+    "vi": "chụp nhanh, chụp ảnh",
+    "en": "snapshot, take pictures"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/撮.svg"
+  },
+  "frequency": 1023,
+  "examples": [
+    "撮影",
+    "撮り",
+    "撮る",
+    "特撮",
+    "撮れる"
+  ],
+  "explanation": {
+    "id": "2940",
+    "text": "撮 (đọc là \"satsu\" hoặc \"toru\") có nghĩa là \"chụp\", \"quay phim\" hoặc \"thu thập\" để chỉ các hành động liên quan đến việc ghi lại hình ảnh hoặc thông tin.  \nVí dụ:  \n- 撮影 (satsuei): Quay phim, "
+  },
+  "comments": [
+    {
+      "id": "154047",
+      "lang": "vi",
+      "content_html": "<p>Tay chụp ảnh tối cao toát ra vẻ bề ngoài</p>",
+      "content_text": "Tay chụp ảnh tối cao toát ra vẻ bề ngoài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154048",
+      "lang": "vi",
+      "content_html": "<p>撮 (Toát) : Sự Tối[最 (Tối Thượng)] của 1 Tay[扌(bộ thủ)] săn ảnh là phải Toát[撮 (Toát)] lên vẻ đẹp.</p>",
+      "content_text": "撮 (Toát) : Sự Tối[最 (Tối Thượng)] của 1 Tay[扌(bộ thủ)] săn ảnh là phải Toát[撮 (Toát)] lên vẻ đẹp.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154049",
+      "lang": "vi",
+      "content_html": "<p>Chụp ảnh vùng TỐI sợ TOÁT mồ hôi</p>",
+      "content_text": "Chụp ảnh vùng TỐI sợ TOÁT mồ hôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

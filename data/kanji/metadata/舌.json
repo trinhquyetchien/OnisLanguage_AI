@@ -1,0 +1,90 @@
+{
+  "kanji": "舌",
+  "meta": {
+    "weight": 2229,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゼツ"
+    ],
+    "kun": [
+      "した"
+    ],
+    "am_han": "THIỆT"
+  },
+  "meaning": {
+    "vi": "lưỡi, cây sậy, cái kẹp",
+    "en": "tongue, reed, clapper"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/舌.svg"
+  },
+  "frequency": 1830,
+  "examples": [
+    "舌",
+    "毒舌",
+    "饒舌",
+    "舌鼓",
+    "舌打ち"
+  ],
+  "explanation": {
+    "id": "4463",
+    "text": "舌 (đọc là \"tate\") có nghĩa là \"lưỡi\" để chỉ phần cơ quan trong miệng dùng để ăn uống và phát âm.  \nVí dụ:  \n- 舌打ち (shitauchi): Đánh lưỡi, thể hiện sự không hài lòng.  \n- 舌先 (shitazaki): Đầu "
+  },
+  "comments": [
+    {
+      "id": "156409",
+      "lang": "vi",
+      "content_html": "<p>hàng nghìn cái mồm đều nói ra bằng lưỡi</p>",
+      "content_text": "hàng nghìn cái mồm đều nói ra bằng lưỡi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156410",
+      "lang": "vi",
+      "content_html": "<p>thiệt tình thì lúc hôn đứa nào cũng thích đá lưỡi cả nghìn lần</p>",
+      "content_text": "thiệt tình thì lúc hôn đứa nào cũng thích đá lưỡi cả nghìn lần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156411",
+      "lang": "vi",
+      "content_html": "<p>lưỡi không xương 1000 cái miệng nói cũng ko lại</p>",
+      "content_text": "lưỡi không xương 1000 cái miệng nói cũng ko lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

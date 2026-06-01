@@ -1,0 +1,111 @@
+{
+  "kanji": "焼",
+  "meta": {
+    "weight": 1660,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "や.く",
+      "や.き",
+      "や.き-",
+      "-や.き",
+      "や.ける"
+    ],
+    "am_han": "THIÊU"
+  },
+  "meaning": {
+    "vi": "nướng, thiêu đốt",
+    "en": "bake, burning"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/焼.svg"
+  },
+  "frequency": 982,
+  "examples": [
+    "焼き",
+    "焼酎",
+    "燃焼",
+    "焼く",
+    "焼肉"
+  ],
+  "explanation": {
+    "id": "3862",
+    "text": "焼 (đọc là \"yaku\") có nghĩa là \"nướng\", \"rán\" để chỉ các hành động liên quan đến việc chế biến thực phẩm bằng nhiệt độ cao.\n\nVí dụ:\n- 焼肉 (yakiniku): Thịt nướng.\n- 焼き魚 (yakizakana): Cá nướng.\n"
+  },
+  "comments": [
+    {
+      "id": "37014",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã <strong>đốt </strong>30 thanh gỗ.</p>",
+      "content_text": "Tôi đã\nđốt\n30 thanh gỗ.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4faeac35c.jpg",
+      "image_path": "assets/images/焼_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155177",
+      "lang": "vi",
+      "content_html": "<p>Ngày 30 đi đốt lửa</p>",
+      "content_text": "Ngày 30 đi đốt lửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155178",
+      "lang": "vi",
+      "content_html": "<p>THIÊU Đốt 10 Vườn Rau Chân vịt</p>",
+      "content_text": "THIÊU Đốt 10 Vườn Rau Chân vịt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155179",
+      "lang": "vi",
+      "content_html": "<p>THIÊU (焼) HUỶ (卉) CÁI GHẾ (兀) đi.</p>",
+      "content_text": "THIÊU (焼) HUỶ (卉) CÁI GHẾ (兀) đi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "宴",
+  "meta": {
+    "weight": 728,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "うたげ"
+    ],
+    "am_han": "YẾN"
+  },
+  "meaning": {
+    "vi": "bữa tiệc",
+    "en": "banquet, feast, party"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/宴.svg"
+  },
+  "frequency": 1675,
+  "examples": [
+    "宴会",
+    "披露宴",
+    "宴",
+    "饗宴",
+    "酒宴"
+  ],
+  "explanation": {
+    "id": "445",
+    "text": "宴 (đọc là \"en\") có nghĩa là \"tiệc\" hoặc \"buổi tiệc\" để chỉ các sự kiện ăn uống, giải trí.  \nVí dụ:  \n- 宴会 (enkai): Tiệc tùng, buổi tiệc.  \n- 宴席 (enseki): Chỗ ngồi trong tiệc.  \n- 祝宴 (shuku-e"
+  },
+  "comments": [
+    {
+      "id": "152974",
+      "lang": "vi",
+      "content_html": "<p>Có gái trong nhà tổ chức yến tiệc nguyên 1 ngày</p>",
+      "content_text": "Có gái trong nhà tổ chức yến tiệc nguyên 1 ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152975",
+      "lang": "vi",
+      "content_html": "<p>tổ chức Yến tiệc trong Nhà nhân Ngày Phụ Nữ</p>",
+      "content_text": "tổ chức Yến tiệc trong Nhà nhân Ngày Phụ Nữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152976",
+      "lang": "vi",
+      "content_html": "<p>Người phụ nữ ở trong nhà cả ngày để chuẩn bị yến tiệc</p>",
+      "content_text": "Người phụ nữ ở trong nhà cả ngày để chuẩn bị yến tiệc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "減",
+  "meta": {
+    "weight": 1573,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲン"
+    ],
+    "kun": [
+      "へ.る",
+      "へ.らす"
+    ],
+    "am_han": "GIẢM"
+  },
+  "meaning": {
+    "vi": "giảm",
+    "en": "dwindle, decrease, reduce, decline, curtail, get hungry"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/減.svg"
+  },
+  "frequency": 261,
+  "examples": [
+    "減少",
+    "削減",
+    "減",
+    "いい加減",
+    "軽減"
+  ],
+  "explanation": {
+    "id": "2215",
+    "text": "減 (đọc là \"gen\") có nghĩa là \"giảm\" để chỉ các hành động liên quan đến việc giảm bớt, cắt giảm hoặc hạ thấp một cái gì đó.  \nVí dụ:  \n- 減少 (genshō): Sự giảm thiểu, giảm bớt.  \n- 減税 (genzei):"
+  },
+  "comments": [
+    {
+      "id": "154975",
+      "lang": "vi",
+      "content_html": "<p>NƯỚC trong HÀM đang GIẢM</p>",
+      "content_text": "NƯỚC trong HÀM đang GIẢM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154976",
+      "lang": "vi",
+      "content_html": "<p>Nước chảy qua miệng núi ngày càng giảm</p>",
+      "content_text": "Nước chảy qua miệng núi ngày càng giảm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154977",
+      "lang": "vi",
+      "content_html": "<p>đi qua sườn núi kiếm nước làm sức lực giảm 10 lần</p>",
+      "content_text": "đi qua sườn núi kiếm nước làm sức lực giảm 10 lần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

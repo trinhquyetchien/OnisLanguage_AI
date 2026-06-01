@@ -1,0 +1,89 @@
+{
+  "kanji": "逝",
+  "meta": {
+    "weight": 2659,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ"
+    ],
+    "kun": [
+      "ゆ.く",
+      "い.く"
+    ],
+    "am_han": "THỆ"
+  },
+  "meaning": {
+    "vi": "ra đi, chết",
+    "en": "departed, die"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/逝.svg"
+  },
+  "frequency": 2018,
+  "examples": [
+    "逝去",
+    "逝く",
+    "急逝"
+  ],
+  "explanation": {
+    "id": "4359",
+    "text": "逝 (đọc là \"shi\" hoặc \"sei\") có nghĩa là \"ra đi\", thường chỉ về cái chết hoặc sự rời bỏ. \n\nVí dụ:\n- 逝去 (shikyuu): Qua đời, mất.\n- 逝く (iku): Ra đi, mất.\n- 永遠の逝 (eien no shi): Sự ra đi vĩnh viễ"
+  },
+  "comments": [
+    {
+      "id": "157330",
+      "lang": "vi",
+      "content_html": "<p>Thằng triết tuyên thệ thề chết không chạy</p>",
+      "content_text": "Thằng triết tuyên thệ thề chết không chạy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157331",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm rìu bước trên đường tuyên THỆ : chết vinh còn hơn sống nhục</p>",
+      "content_text": "Tay cầm rìu bước trên đường tuyên THỆ : chết vinh còn hơn sống nhục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157332",
+      "lang": "vi",
+      "content_html": "<p>Con Đường đã bị Bẻ gãy nên không thể Quay trở về được nữa</p>",
+      "content_text": "Con Đường đã bị Bẻ gãy nên không thể Quay trở về được nữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

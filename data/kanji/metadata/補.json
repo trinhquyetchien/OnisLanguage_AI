@@ -1,0 +1,90 @@
+{
+  "kanji": "補",
+  "meta": {
+    "weight": 2424,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホ"
+    ],
+    "kun": [
+      "おぎな.う"
+    ],
+    "am_han": "BỔ"
+  },
+  "meaning": {
+    "vi": "bổ sung, bổ túc",
+    "en": "supplement, supply, make good, offset, compensate, assistant, learner"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/補.svg"
+  },
+  "frequency": 332,
+  "examples": [
+    "補助",
+    "候補",
+    "補償",
+    "補足",
+    "補正"
+  ],
+  "explanation": {
+    "id": "7104",
+    "text": "補 (đọc là \"ho\") có nghĩa là \"bổ sung\", \"hỗ trợ\" để chỉ các hành động liên quan đến việc bổ sung hoặc cải thiện điều gì đó.  \nVí dụ:  \n- 補助 (hojo): Sự hỗ trợ, trợ cấp.  \n- 補う (oginau): Bổ sun"
+  },
+  "comments": [
+    {
+      "id": "156754",
+      "lang": "vi",
+      "content_html": "<p>Sử dụng  hết mười bộ y phục thì phải bổ sung thêm!</p>",
+      "content_text": "Sử dụng  hết mười bộ y phục thì phải bổ sung thêm!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156755",
+      "lang": "vi",
+      "content_html": "<p>Bổ nhiệm người canh đền sử dụng câu thánh giá</p>",
+      "content_text": "Bổ nhiệm người canh đền sử dụng câu thánh giá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156756",
+      "lang": "vi",
+      "content_html": "<p>Họ BỔ đã BỔ sung SIÊM Y cho quý ông Đỗ PHỦ</p>",
+      "content_text": "Họ BỔ đã BỔ sung SIÊM Y cho quý ông Đỗ PHỦ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

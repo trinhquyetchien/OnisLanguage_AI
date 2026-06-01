@@ -1,0 +1,91 @@
+{
+  "kanji": "旧",
+  "meta": {
+    "weight": 1211,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "ふる.い",
+      "もと"
+    ],
+    "am_han": "CỰU"
+  },
+  "meaning": {
+    "vi": "cũ, cựu binh",
+    "en": "old times, old things, old friend, former, ex-"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/旧.svg"
+  },
+  "frequency": 549,
+  "examples": [
+    "旧",
+    "復旧",
+    "旧約",
+    "旧来",
+    "旧式"
+  ],
+  "explanation": {
+    "id": "1561",
+    "text": "旧 (đọc là \"kyuu\" hoặc \"kiu\") có nghĩa là \"cũ\", \"trước đây\". Nó thường chỉ những thứ đã qua hoặc tồn tại lâu dài trước đây.\n\nVí dụ:\n- 旧友 (kyuu-yuu): Bạn cũ, bạn bè từ thời xưa.\n- 旧式 (kyuu-shi"
+  },
+  "comments": [
+    {
+      "id": "154180",
+      "lang": "vi",
+      "content_html": "<p>MỘT NGÀY trôi qua đã gọi là CỰU rồi (là quá khứ, là đã qua), ngày mai là tương lai</p>",
+      "content_text": "MỘT NGÀY trôi qua đã gọi là CỰU rồi (là quá khứ, là đã qua), ngày mai là tương lai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154181",
+      "lang": "vi",
+      "content_html": "<p>Chơi 18 năm mà vẫn đồng đoàn kì Cựu</p>",
+      "content_text": "Chơi 18 năm mà vẫn đồng đoàn kì Cựu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154182",
+      "lang": "vi",
+      "content_html": "<p>Có mười tám |日 cựu chiến binh kì cựu</p>",
+      "content_text": "Có mười tám |日 cựu chiến binh kì cựu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

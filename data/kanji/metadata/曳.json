@@ -1,0 +1,50 @@
+{
+  "kanji": "曳",
+  "meta": {
+    "weight": 1259,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エイ"
+    ],
+    "kun": [
+      "ひ.く"
+    ],
+    "am_han": "DUỆ"
+  },
+  "meaning": {
+    "vi": "kéo, giật, thừa nhận, cài đặt, báo giá, tham khảo",
+    "en": "pull, tug, jerk, admit, install, quote, refer to"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/曳.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "374",
+    "text": "曳 (đọc là \"eki\") có nghĩa là \"kéo\", \"lôi\" để chỉ các hành động liên quan đến việc kéo hoặc di chuyển một vật gì đó.\n\nVí dụ:\n- 曳航 (えいこう, eikou): Kéo tàu, công việc kéo tàu thuyền.\n- 曳きずり (ひきず"
+  },
+  "comments": [
+    {
+      "id": "219770",
+      "lang": "vi",
+      "content_html": "<p>Người đi vào mặt trời Hậu DUỆ mặt trời</p>",
+      "content_text": "Người đi vào mặt trời Hậu DUỆ mặt trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

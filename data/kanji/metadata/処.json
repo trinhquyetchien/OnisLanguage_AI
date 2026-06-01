@@ -1,0 +1,109 @@
+{
+  "kanji": "処",
+  "meta": {
+    "weight": 300,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショ"
+    ],
+    "kun": [
+      "ところ",
+      "-こ",
+      "お.る"
+    ],
+    "am_han": "XỬ, XỨ"
+  },
+  "meaning": {
+    "vi": "xử lý",
+    "en": "dispose, manage, deal with, sentence, condemn, act, behave, place"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/処.svg"
+  },
+  "frequency": 547,
+  "examples": [
+    "処理",
+    "処分",
+    "対処",
+    "何処",
+    "処置"
+  ],
+  "explanation": {
+    "id": "3679",
+    "text": "処 (đọc là \"sho\" hoặc \"kuru\") có nghĩa là \"xử lý\", \"đối phó\", chỉ các hành động liên quan đến việc xử lý tình huống hoặc quản lý một vấn đề nào đó.\n\nVí dụ:\n- 処理 (shori): Xử lý, giải quyết.\n- "
+  },
+  "comments": [
+    {
+      "id": "151945",
+      "lang": "vi",
+      "content_html": "<p>chân duỗi thoải mái dưới gầm bàn để XỬ lý công việc</p>",
+      "content_text": "chân duỗi thoải mái dưới gầm bàn để XỬ lý công việc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190669",
+      "lang": "vi",
+      "content_html": "<p>muốn Truy xuất tài liệu phải ngồi xuống Bàn để Xử lý</p>",
+      "content_text": "muốn Truy xuất tài liệu phải ngồi xuống Bàn để Xử lý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "151946",
+      "lang": "vi",
+      "content_html": "<p>Truy đuổi XỬ lý thằng KỈ</p>",
+      "content_text": "Truy đuổi XỬ lý thằng KỈ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151947",
+      "lang": "vi",
+      "content_html": "<p>Gặp Tri kỉ nơi xứ người</p>",
+      "content_text": "Gặp Tri kỉ nơi xứ người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

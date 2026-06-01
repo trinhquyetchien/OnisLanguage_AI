@@ -1,0 +1,88 @@
+{
+  "kanji": "焚",
+  "meta": {
+    "weight": 1656,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フン",
+      "ホン",
+      "ハン"
+    ],
+    "kun": [
+      "た.く",
+      "や.く",
+      "やきがり"
+    ],
+    "am_han": "PHẦN, PHẪN"
+  },
+  "meaning": {
+    "vi": "đốt cháy, đốt lửa, đun sôi, nấu ăn",
+    "en": "burn, kindle, build a fire, boil, cook"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/焚.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6959",
+    "text": "焚 (đọc là \"bun\") có nghĩa là \"đốt cháy\", chỉ các hành động liên quan đến việc đốt hoặc thiêu hủy bằng lửa.\n\nVí dụ:\n- 焚き火 (takibi): Lửa trại.\n- 焚書 (bansho): Đốt sách, thường dùng để chỉ việc "
+  },
+  "comments": [
+    {
+      "id": "220021",
+      "lang": "vi",
+      "content_html": "<p>Ngọn lửa thiêu đốt 1 phần khu rừng</p>",
+      "content_text": "Ngọn lửa thiêu đốt 1 phần khu rừng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220022",
+      "lang": "vi",
+      "content_html": "<p>rừng thưa(木木) đã bị ngọn lửa (火) thiêu đốt một PHẦN (焚)</p>",
+      "content_text": "rừng thưa(木木) đã bị ngọn lửa (火) thiêu đốt một PHẦN (焚)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220023",
+      "lang": "vi",
+      "content_html": "<p>chỉ có 2 CÂY RỪNG THƯA trên NGỌN LỬA  --  nên ĐỐT trong PHẪN nộ</p>",
+      "content_text": "chỉ có 2 CÂY RỪNG THƯA trên NGỌN LỬA  --  nên ĐỐT trong PHẪN nộ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

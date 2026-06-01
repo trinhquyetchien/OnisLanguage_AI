@@ -1,0 +1,107 @@
+{
+  "kanji": "記",
+  "meta": {
+    "weight": 2459,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "しる.す"
+    ],
+    "am_han": "KÍ"
+  },
+  "meaning": {
+    "vi": "ghi chép, kí sự",
+    "en": "scribe, account, narrative"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/記.svg"
+  },
+  "frequency": 149,
+  "examples": [
+    "記事",
+    "日記",
+    "記憶",
+    "記録",
+    "記者"
+  ],
+  "explanation": {
+    "id": "1368",
+    "text": "記 (đọc là \"ki\") có nghĩa là \"ghi chép\", \"kỷ niệm\" để chỉ các hành động liên quan đến việc ghi lại thông tin hoặc sự kiện.\n\nVí dụ:\n- 記録 (kiroku): Ghi chép, bản ghi.\n- 記憶 (kioku): Ký ức, trí n"
+  },
+  "comments": [
+    {
+      "id": "37184",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã <strong>ghi chép </strong>những điều anh nói.</p>",
+      "content_text": "Tôi đã\nghi chép\nnhững điều anh nói.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd28e36c6d.jpg",
+      "image_path": "assets/images/記_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156844",
+      "lang": "vi",
+      "content_html": "<p>NGÔN ngữ chỉ bản thân( KỈ) mình biết là nhật KÍ</p>",
+      "content_text": "NGÔN ngữ chỉ bản thân( KỈ) mình biết là nhật KÍ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156845",
+      "lang": "vi",
+      "content_html": "<p>Bản Thân 己 dùng Nhật Kí 記 để ghi lại những Lời 言 hay ý đẹp.</p>",
+      "content_text": "Bản Thân 己 dùng Nhật Kí 記 để ghi lại những Lời 言 hay ý đẹp.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156846",
+      "lang": "vi",
+      "content_html": "<p>Kí ức về lời nói của em 2 năm trước làm tôi nhớ mãi không quên.</p>",
+      "content_text": "Kí ức về lời nói của em 2 năm trước làm tôi nhớ mãi không quên.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

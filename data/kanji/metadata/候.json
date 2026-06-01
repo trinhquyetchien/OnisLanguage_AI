@@ -1,0 +1,90 @@
+{
+  "kanji": "候",
+  "meta": {
+    "weight": 213,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "そうろう"
+    ],
+    "am_han": "HẬU"
+  },
+  "meaning": {
+    "vi": "khí hậu",
+    "en": "climate, season, weather, wait for, expect"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/候.svg"
+  },
+  "frequency": 510,
+  "examples": [
+    "候補",
+    "気候",
+    "天候",
+    "症候群",
+    "立候補"
+  ],
+  "explanation": {
+    "id": "2379",
+    "text": "候 (đọc là \"kō\") có nghĩa là \"thời tiết\", \"chờ đợi\" hoặc \"tình huống\". \n\nVí dụ:\n- 候補 (kōho): Ứng viên, người được đề cử.\n- 時候 (jikō): Thời tiết, mùa.\n- 待候 (taikō): Chờ đợi, chờ tin."
+  },
+  "comments": [
+    {
+      "id": "151723",
+      "lang": "vi",
+      "content_html": "<p>rủ người  ( イ ) iu ( ユ ）  đi bắn tên fai phụ thuộc vào khí Hậu</p>",
+      "content_text": "rủ người  ( イ ) iu ( ユ ）  đi bắn tên fai phụ thuộc vào khí Hậu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151724",
+      "lang": "vi",
+      "content_html": "<p>Người xưa đi săn cầm theo mũi tên nhưng khi nào cũng phụ thuộc khí hậu</p>",
+      "content_text": "Người xưa đi săn cầm theo mũi tên nhưng khi nào cũng phụ thuộc khí hậu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151725",
+      "lang": "vi",
+      "content_html": "<p>tước Hầu mang theo 1 cái Cổn để đo khí Hậu</p>",
+      "content_text": "tước Hầu mang theo 1 cái Cổn để đo khí Hậu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

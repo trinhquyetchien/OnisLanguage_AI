@@ -1,0 +1,51 @@
+{
+  "kanji": "駿",
+  "meta": {
+    "weight": 2954,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュン",
+      "スン"
+    ],
+    "kun": [
+      "すぐ.れる"
+    ],
+    "am_han": "TUẤN"
+  },
+  "meaning": {
+    "vi": "một con ngựa tốt, tốc độ, một người nhanh",
+    "en": "a good horse, speed, a fast person"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/駿.svg"
+  },
+  "frequency": 1817,
+  "examples": [],
+  "explanation": {
+    "id": "3635",
+    "text": "駿 (đọc là \"shun\") có nghĩa là \"mãnh lực\", \"ngựa nhanh\" để chỉ các loại ngựa khỏe, nhanh nhẹn hoặc người có năng lực vượt trội.  \nVí dụ:  \n- 駿馬 (shunba): Ngựa nhanh, ngựa tốt.  \n- 駿才 (shunsai"
+  },
+  "comments": [
+    {
+      "id": "157992",
+      "lang": "vi",
+      "content_html": "<p>Có con TUẤN mã nên phổng mũi chân đứng vênh vênh, lúc nào cũng dắt theo sau</p>",
+      "content_text": "Có con TUẤN mã nên phổng mũi chân đứng vênh vênh, lúc nào cũng dắt theo sau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

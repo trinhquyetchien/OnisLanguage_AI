@@ -1,0 +1,53 @@
+{
+  "kanji": "橘",
+  "meta": {
+    "weight": 1428,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キツ"
+    ],
+    "kun": [
+      "たちばな"
+    ],
+    "am_han": "QUẤT"
+  },
+  "meaning": {
+    "vi": "quýt cam",
+    "en": "mandarin orange"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/橘.svg"
+  },
+  "frequency": 2053,
+  "examples": [
+    "橘",
+    "柑橘"
+  ],
+  "explanation": {
+    "id": "1469",
+    "text": "橘 (đọc là \"kitsu\" hoặc \"tachibana\") có nghĩa là \"quả quýt\" hoặc \"cây quýt\", thường chỉ về một loại cây ăn quả và biểu trưng cho sự tốt lành trong văn hóa Nhật Bản.\n\nVí dụ:\n- 橘 (tachibana): Q"
+  },
+  "comments": [
+    {
+      "id": "154628",
+      "lang": "vi",
+      "content_html": "<p>Câu quấy tachibana tuy mềm yếu nhưg có thể trồng 4 phương</p>",
+      "content_text": "Câu quấy tachibana tuy mềm yếu nhưg có thể trồng 4 phương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

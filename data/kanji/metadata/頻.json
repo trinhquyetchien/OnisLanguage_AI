@@ -1,0 +1,89 @@
+{
+  "kanji": "頻",
+  "meta": {
+    "weight": 2912,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒン"
+    ],
+    "kun": [
+      "しき.りに"
+    ],
+    "am_han": "TẦN"
+  },
+  "meaning": {
+    "vi": "lặp đi lặp lại",
+    "en": "repeatedly, recur"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/頻.svg"
+  },
+  "frequency": 1590,
+  "examples": [
+    "頻繁",
+    "頻度",
+    "頻発",
+    "頻出"
+  ],
+  "explanation": {
+    "id": "6772",
+    "text": "頻 (đọc là \"hin\") có nghĩa là \"thường xuyên\", \"lặp lại\" để chỉ sự xuất hiện nhiều lần hoặc sự thường xuyên của một hành động.\n\nVí dụ:\n- 頻繁 (hinpan): Thường xuyên, liên tục.\n- 頻出 (hinshutsu): "
+  },
+  "comments": [
+    {
+      "id": "157895",
+      "lang": "vi",
+      "content_html": "<p>Tần suất người đi bộ đếm bằng đầu</p>",
+      "content_text": "Tần suất người đi bộ đếm bằng đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157896",
+      "lang": "vi",
+      "content_html": "<p>tần suất tôi đi bộ tính bằng đầu ngón tay</p>",
+      "content_text": "tần suất tôi đi bộ tính bằng đầu ngón tay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157897",
+      "lang": "vi",
+      "content_html": "<p>Tần Bổ ĐẦU( tần bổ đầu)</p>",
+      "content_text": "Tần Bổ ĐẦU( tần bổ đầu)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

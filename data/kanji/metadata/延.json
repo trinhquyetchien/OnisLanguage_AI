@@ -1,0 +1,110 @@
+{
+  "kanji": "延",
+  "meta": {
+    "weight": 882,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "の.びる",
+      "の.べる",
+      "の.べ",
+      "の.ばす"
+    ],
+    "am_han": "DUYÊN"
+  },
+  "meaning": {
+    "vi": "kéo dài, trì hoãn",
+    "en": "prolong, stretching"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/延.svg"
+  },
+  "frequency": 747,
+  "examples": [
+    "延長",
+    "延期",
+    "遅延",
+    "蔓延",
+    "延び"
+  ],
+  "explanation": {
+    "id": "448",
+    "text": "延 (đọc là \"en\") có nghĩa là \"kéo dài\", \"gia hạn\" để chỉ các hành động liên quan đến việc mở rộng thời gian hoặc không gian.\n\nVí dụ:\n- 延長 (enchou): Gia hạn, kéo dài thời gian.\n- 延びる (nobiru):"
+  },
+  "comments": [
+    {
+      "id": "153367",
+      "lang": "vi",
+      "content_html": "<p>Duyên Dẫn Chính đi chơi</p>",
+      "content_text": "Duyên Dẫn Chính đi chơi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190720",
+      "lang": "vi",
+      "content_html": "<p>dẫn nhau đi tới Chính đường là có Duyên</p>",
+      "content_text": "dẫn nhau đi tới Chính đường là có Duyên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "153368",
+      "lang": "vi",
+      "content_html": "<p>Chính nghĩa được dẫn dắt kéo dài</p>",
+      "content_text": "Chính nghĩa được dẫn dắt kéo dài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153369",
+      "lang": "vi",
+      "content_html": "<p>có DUYÊN thì sẽ được DẪN dắt tới CHÍNH nghĩa</p>",
+      "content_text": "có DUYÊN thì sẽ được DẪN dắt tới CHÍNH nghĩa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

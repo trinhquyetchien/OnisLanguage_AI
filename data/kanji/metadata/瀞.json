@@ -1,0 +1,35 @@
+{
+  "kanji": "瀞",
+  "meta": {
+    "weight": 1635,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ショウ",
+      "ジュウ"
+    ],
+    "kun": [
+      "とろ",
+      "きよ.い"
+    ],
+    "am_han": "TIÊU, TĨNH, TỊNH"
+  },
+  "meaning": {
+    "vi": "nước tinh khiết, nước trong, hồ bơi trong sông",
+    "en": "pure water, clear water, pool in a river"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/瀞.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6003",
+    "text": "瀞 (đọc là \"sei\") có nghĩa là \"nước trong, nước yên ả\", thường chỉ sự tĩnh lặng và sạch sẽ của nước. \n\nVí dụ:\n- 瀞水 (seisui): Nước trong, nước yên ả.\n- 瀞澄 (seichō): Tĩnh lặng và trong sạch như"
+  },
+  "comments": []
+}

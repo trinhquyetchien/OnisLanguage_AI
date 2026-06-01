@@ -1,0 +1,84 @@
+{
+  "kanji": "峠",
+  "meta": {
+    "weight": 796,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "とうげ"
+    ],
+    "am_han": "ĐÈO"
+  },
+  "meaning": {
+    "vi": "đỉnh núi, vượt qua núi, cao trào, đỉnh, (kokuji)",
+    "en": "mountain peak, mountain pass, climax, crest, (kokuji)"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/峠.svg"
+  },
+  "frequency": 1941,
+  "examples": [
+    "峠"
+  ],
+  "explanation": {
+    "id": "5938",
+    "text": "峠 (đọc là \"tōge\") có nghĩa là \"đèo\" hoặc \"đỉnh đèo\", chỉ những đoạn đường núi cao, nơi mà các con đường giao nhau hoặc vượt qua đỉnh núi.  \nVí dụ:  \n- 峠道 (tōgedō): Con đường đèo.  \n- 峠越え (tō"
+  },
+  "comments": [
+    {
+      "id": "153154",
+      "lang": "vi",
+      "content_html": "<p>ngọn núi chỗ cao chỗ thấp uốn éo thành đèo</p>",
+      "content_text": "ngọn núi chỗ cao chỗ thấp uốn éo thành đèo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153155",
+      "lang": "vi",
+      "content_html": "<p>峠 : là 国字 (Quốc tự) : Hán Tự do Nhật tạo ra.<br><br>Nghĩa 1: Đèo (đường đi nằm giữa hai ngọn núi)<br><br>Nghĩa 2: Là THỜI ĐIỂM \"cao trào\" của một sự vật, sự việc. VD: 病気は今夜が峠だ.<br>..Tâm Sinh Tính..</p>",
+      "content_text": "峠 : là 国字 (Quốc tự) : Hán Tự do Nhật tạo ra.\nNghĩa 1: Đèo (đường đi nằm giữa hai ngọn núi)\nNghĩa 2: Là THỜI ĐIỂM \"cao trào\" của một sự vật, sự việc. VD: 病気は今夜が峠だ.\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153156",
+      "lang": "vi",
+      "content_html": "<p>ĐÈO Lên Núi rồi lại ĐÈO Xuống Núi</p>",
+      "content_text": "ĐÈO Lên Núi rồi lại ĐÈO Xuống Núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

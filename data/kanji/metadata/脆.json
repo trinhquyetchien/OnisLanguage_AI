@@ -1,0 +1,87 @@
+{
+  "kanji": "脆",
+  "meta": {
+    "weight": 2193,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゼイ",
+      "セイ",
+      "セツ"
+    ],
+    "kun": [
+      "もろ.い",
+      "よわい"
+    ],
+    "am_han": "THÚY"
+  },
+  "meaning": {
+    "vi": "giòn, dễ vỡ, dễ bị đánh bại, đa cảm, dễ bị tổn thương",
+    "en": "brittle, fragile, easy to beat, sentimental, susceptible"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/脆.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4379",
+    "text": "脆 (đọc là \"sui\" hoặc \"moro\") có nghĩa là \"giòn\", \"dễ vỡ\" để chỉ độ mềm mại hoặc tính chất dễ bị phá vỡ của vật liệu hay thực phẩm.  \nVí dụ:  \n- 脆い (moro): Giòn, dễ gãy.  \n- 脆弱 (zeijaku): Yếu"
+  },
+  "comments": [
+    {
+      "id": "220445",
+      "lang": "vi",
+      "content_html": "<p>THÚY mỏng manh, NGUY hiểm như chị NGUYỆT thảo mai.</p>",
+      "content_text": "THÚY mỏng manh, NGUY hiểm như chị NGUYỆT thảo mai.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220446",
+      "lang": "vi",
+      "content_html": "<p>NGUYỆT múa rối (もろい)  mềm dẻo nhưng rất NGUY hiểm và thâm THUÝ</p>",
+      "content_text": "NGUYỆT múa rối (もろい)  mềm dẻo nhưng rất NGUY hiểm và thâm THUÝ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220447",
+      "lang": "vi",
+      "content_html": "<p>Trăng mà che mặt trời thì rất NGUY hiểm với đôi mắt thanh THÚY của con người</p>",
+      "content_text": "Trăng mà che mặt trời thì rất NGUY hiểm với đôi mắt thanh THÚY của con người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

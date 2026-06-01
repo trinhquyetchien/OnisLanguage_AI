@@ -1,0 +1,67 @@
+{
+  "kanji": "蕎",
+  "meta": {
+    "weight": 2343,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "そば"
+    ],
+    "am_han": "KIỀU"
+  },
+  "meaning": {
+    "vi": "kiều mạch",
+    "en": "buckwheat"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/蕎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1698",
+    "text": "蕎 (đọc là \"kyō\") có nghĩa là \"kiều mạch\", loại ngũ cốc thường dùng để làm mì soba trong ẩm thực Nhật Bản. \n\nVí dụ:\n- 蕎麦 (soba): Mì kiều mạch, một món ăn truyền thống của Nhật Bản.\n- 蕎麦屋 (sob"
+  },
+  "comments": [
+    {
+      "id": "220576",
+      "lang": "vi",
+      "content_html": "<p>Nàng Kiều ở trên lầu cao, tay cầm cỏ và lúa</p>",
+      "content_text": "Nàng Kiều ở trên lầu cao, tay cầm cỏ và lúa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220577",
+      "lang": "vi",
+      "content_html": "<p>Cỏ hoa trên trời cao lấy về trồng làm lúa KIỀU mạch</p>",
+      "content_text": "Cỏ hoa trên trời cao lấy về trồng làm lúa KIỀU mạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

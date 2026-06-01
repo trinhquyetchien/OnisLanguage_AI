@@ -1,0 +1,93 @@
+{
+  "kanji": "音",
+  "meta": {
+    "weight": 2893,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オン",
+      "イン",
+      "-ノン"
+    ],
+    "kun": [
+      "おと",
+      "ね"
+    ],
+    "am_han": "ÂM"
+  },
+  "meaning": {
+    "vi": "âm thanh",
+    "en": "sound, noise"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/音.svg"
+  },
+  "frequency": 491,
+  "examples": [
+    "音楽",
+    "音",
+    "録音",
+    "発音",
+    "音声"
+  ],
+  "explanation": {
+    "id": "597",
+    "text": "音 (đọc là \"on\" hoặc \"ne\") có nghĩa là \"âm thanh\", \"tiếng\" để chỉ các khái niệm liên quan đến âm thanh hoặc tiếng động.  \nVí dụ:  \n- 音楽 (ongaku): Âm nhạc.  \n- 音声 (onsei): Giọng nói, âm thanh."
+  },
+  "comments": [
+    {
+      "id": "895",
+      "lang": "vi",
+      "content_html": "<p>Khi mặt trời (日) lên, mọi người đứng dậy (立) và phát ra <strong>âm thanh</strong>.</p>",
+      "content_text": "Khi mặt trời (日) lên, mọi người đứng dậy (立) và phát ra\nâm thanh\n.",
+      "image_url": "https://jpdictionary.com/upload/images/6298b02d6fd26.png",
+      "image_path": "assets/images/音_1.png",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191231",
+      "lang": "vi",
+      "content_html": "<p><strong>âm thanh</strong></p>",
+      "content_text": "âm thanh",
+      "image_url": "https://jpdictionary.com/upload/images/648aded70a856.jpg",
+      "image_path": "assets/images/音_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "157853",
+      "lang": "vi",
+      "content_html": "<p>Đứng lên 立 ghế cả ngày 日để luyện âm. Mệt.</p>",
+      "content_text": "Đứng lên 立 ghế cả ngày 日để luyện âm. Mệt.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

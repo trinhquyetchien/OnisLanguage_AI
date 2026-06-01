@@ -1,0 +1,93 @@
+{
+  "kanji": "謀",
+  "meta": {
+    "weight": 2515,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ",
+      "ム"
+    ],
+    "kun": [
+      "はか.る",
+      "たばか.る",
+      "はかりごと"
+    ],
+    "am_han": "MƯU"
+  },
+  "meaning": {
+    "vi": "âm mưu, gian lận, áp đặt, lên kế hoạch, nghĩ ra, kế hoạch, có trong tâm trí, lừa dối",
+    "en": "conspire, cheat, impose on, plan, devise, scheme, have in mind, deceive"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/謀.svg"
+  },
+  "frequency": 1370,
+  "examples": [
+    "共謀",
+    "陰謀",
+    "無謀",
+    "参謀",
+    "謀略"
+  ],
+  "explanation": {
+    "id": "7294",
+    "text": "謀 (đọc là \"ぼう\", \"む\") có nghĩa là \"mưu đồ\", \"kế hoạch\" liên quan đến những hành động suy tính, lập kế hoạch hoặc âm mưu.  \nVí dụ:  \n- 謀反 (muhan): Khởi nghĩa, phản loạn.  \n- 謀略 (muryaku): Kế s"
+  },
+  "comments": [
+    {
+      "id": "156978",
+      "lang": "vi",
+      "content_html": "<p>MƯU mẹo phải dùng NGÔN từ MỘC mạc mà NGỌT ngào!</p>",
+      "content_text": "MƯU mẹo phải dùng NGÔN từ MỘC mạc mà NGỌT ngào!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156979",
+      "lang": "vi",
+      "content_html": "<p>Nói lời ngọt trên cây là mưu trí</p>",
+      "content_text": "Nói lời ngọt trên cây là mưu trí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156980",
+      "lang": "vi",
+      "content_html": "<p>Ngôn-cam-mộc</p>",
+      "content_text": "Ngôn-cam-mộc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

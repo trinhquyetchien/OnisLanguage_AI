@@ -1,0 +1,114 @@
+{
+  "kanji": "解",
+  "meta": {
+    "weight": 2450,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ",
+      "ゲ"
+    ],
+    "kun": [
+      "と.く",
+      "と.かす",
+      "と.ける",
+      "ほど.く",
+      "ほど.ける",
+      "わか.る",
+      "さと.る"
+    ],
+    "am_han": "GIẢI"
+  },
+  "meaning": {
+    "vi": "giải quyết",
+    "en": "unravel, notes, key, explanation, understanding, untie, undo, solve, answer, cancel, absolve, explain, minute"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/解.svg"
+  },
+  "frequency": 176,
+  "examples": [
+    "理解",
+    "解決",
+    "解説",
+    "解釈",
+    "見解"
+  ],
+  "explanation": {
+    "id": "749",
+    "text": "解 (đọc là \"kai\" hoặc \"gesu\") có nghĩa là \"giải thích\", \"giải quyết\" để chỉ các hành động liên quan đến việc làm sáng tỏ hoặc tháo gỡ vấn đề.\n\nVí dụ:\n- 解決 (kaiketsu): Giải quyết, tìm ra giải "
+  },
+  "comments": [
+    {
+      "id": "156819",
+      "lang": "vi",
+      "content_html": "<p>Dùng đao dồn bò vào góc để giải quyết</p>",
+      "content_text": "Dùng đao dồn bò vào góc để giải quyết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156820",
+      "lang": "vi",
+      "content_html": "<p>Giải thích tại sao dùng dao giết bò lấy sừng</p>",
+      "content_text": "Giải thích tại sao dùng dao giết bò lấy sừng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222027",
+      "lang": "vi",
+      "content_html": "<p><strong>Dùng dao (刀) để cắt sừng (角) của con bò (牛)</strong><br>→ Tượng hình hành động <strong>tách rời</strong>, <strong>phân chia</strong>, <strong>giải thể</strong>, từ đó phát triển nghĩa <strong>giải thích, tháo gỡ, giải quyết</strong>.</p>",
+      "content_text": "Dùng dao (刀) để cắt sừng (角) của con bò (牛)\n→ Tượng hình hành động\ntách rời\n,\nphân chia\n,\ngiải thể\n, từ đó phát triển nghĩa\ngiải thích, tháo gỡ, giải quyết\n.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    },
+    {
+      "id": "156821",
+      "lang": "vi",
+      "content_html": "<p>Dùng đao phân giải sừng bò ra xem có gì</p>",
+      "content_text": "Dùng đao phân giải sừng bò ra xem có gì",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

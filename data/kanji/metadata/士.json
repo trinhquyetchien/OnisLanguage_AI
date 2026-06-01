@@ -1,0 +1,90 @@
+{
+  "kanji": "士",
+  "meta": {
+    "weight": 608,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "さむらい"
+    ],
+    "am_han": "SĨ"
+  },
+  "meaning": {
+    "vi": "quý ông, học giả, samurai, samurai cấp tiến (số 33)",
+    "en": "gentleman, scholar, samurai, samurai radical (no. 33)"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/士.svg"
+  },
+  "frequency": 526,
+  "examples": [
+    "弁護士",
+    "士",
+    "同士",
+    "博士",
+    "兵士"
+  ],
+  "explanation": {
+    "id": "3064",
+    "text": "士 (đọc là \"shi\") có nghĩa là \"nhà trí thức\", \"người có học vấn\" hoặc \"hiệp sĩ\", thường chỉ những người có địa vị trong xã hội. \n\nVí dụ:\n- 武士 (bushi): Samurai, chiến binh.\n- 士族 (shizoku): Tần"
+  },
+  "comments": [
+    {
+      "id": "36883",
+      "lang": "vi",
+      "content_html": "<p>11 (十一) <strong>võ sĩ</strong></p>",
+      "content_text": "11 (十一)\nvõ sĩ",
+      "image_url": "https://jpdictionary.com/upload/images/62addfaf51e23.jpg",
+      "image_path": "assets/images/士_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152691",
+      "lang": "vi",
+      "content_html": "<p>Kẻ SĨ học một (一) biết 10(十)<br>-Chú nhầm với chữ THỔ(土</p>",
+      "content_text": "Kẻ SĨ học một (一) biết 10(十)\n-Chú nhầm với chữ THỔ(土",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152692",
+      "lang": "vi",
+      "content_html": "<p>Sĩ diện học Mười biết Một nên không thành Nhân sĩ được.</p>",
+      "content_text": "Sĩ diện học Mười biết Một nên không thành Nhân sĩ được.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

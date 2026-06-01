@@ -1,0 +1,71 @@
+{
+  "kanji": "倦",
+  "meta": {
+    "weight": 217,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "あき.る",
+      "あぐ.む",
+      "あぐ.ねる",
+      "う.む",
+      "つか.れる"
+    ],
+    "am_han": "QUYỆN"
+  },
+  "meaning": {
+    "vi": "mất hứng thú với",
+    "en": "lose interest in, tire of"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/倦.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2098",
+    "text": "倦 (đọc là \"ken\") có nghĩa là \"mệt mỏi\", \"chán nản\" để chỉ trạng thái thiếu năng lượng hoặc cảm giác không muốn tiếp tục làm gì đó.  \nVí dụ:  \n- 倦怠 (kentai): Sự mệt mỏi, uể oải.  \n- 倦む (quemu"
+  },
+  "comments": [
+    {
+      "id": "218885",
+      "lang": "vi",
+      "content_html": "<p>1 người sau khi chơi Quyền anh thường sẽ rất mệt.</p>",
+      "content_text": "1 người sau khi chơi Quyền anh thường sẽ rất mệt.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218886",
+      "lang": "vi",
+      "content_html": "<p>元カノの話を持ち出す</p>",
+      "content_text": "元カノの話を持ち出す",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

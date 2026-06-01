@@ -1,0 +1,91 @@
+{
+  "kanji": "死",
+  "meta": {
+    "weight": 1459,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "し.ぬ",
+      "し.に-"
+    ],
+    "am_han": "TỬ"
+  },
+  "meaning": {
+    "vi": "chết, tự tử",
+    "en": "death, die"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/死.svg"
+  },
+  "frequency": 229,
+  "examples": [
+    "死",
+    "死亡",
+    "死ぬ",
+    "必死",
+    "死者"
+  ],
+  "explanation": {
+    "id": "3107",
+    "text": "死 (đọc là \"shi\") có nghĩa là \"chết\", chỉ trạng thái không còn sự sống. \n\nVí dụ:\n- 死亡 (shibou): Sự chết, tử vong.\n- 死体 (shitai): Xác chết.\n- 自殺 (jisatsu): Tự sát, tự tử."
+  },
+  "comments": [
+    {
+      "id": "36853",
+      "lang": "vi",
+      "content_html": "<p>\"Nghe nói có tiểu thuyết \"<strong>Chết </strong>ở Tahi\" nhỉ?\"</p><p>\"Không có đâu\"</p>",
+      "content_text": "\"Nghe nói có tiểu thuyết \"\nChết\nở Tahi\" nhỉ?\"\n\"Không có đâu\"",
+      "image_url": "https://jpdictionary.com/upload/images/62ac7f86a2d39.png",
+      "image_path": "assets/images/死_1.png",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154698",
+      "lang": "vi",
+      "content_html": "<p>MỘT (ー) mình TA (タ) cười hi HI (ヒ) trước khi CHẾT(死)</p>",
+      "content_text": "MỘT (ー) mình TA (タ) cười hi HI (ヒ) trước khi CHẾT(死)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158380",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>死ぬ (しぬ): chết</p>",
+      "content_text": "JLPT N4\n死ぬ (しぬ): chết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

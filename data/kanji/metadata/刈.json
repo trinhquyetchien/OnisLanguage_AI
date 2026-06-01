@@ -1,0 +1,88 @@
+{
+  "kanji": "刈",
+  "meta": {
+    "weight": 313,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガイ",
+      "カイ"
+    ],
+    "kun": [
+      "か.る"
+    ],
+    "am_han": "NGẢI"
+  },
+  "meaning": {
+    "vi": "gặt, cắt, kẹp, xén, tỉa",
+    "en": "reap, cut, clip, trim, prune"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/刈.svg"
+  },
+  "frequency": 1738,
+  "examples": [
+    "稲刈り",
+    "草刈り"
+  ],
+  "explanation": {
+    "id": "1047",
+    "text": "刈 (đọc là \"kari\") có nghĩa là \"gặt\", \"cắt\" để chỉ các hành động liên quan đến việc thu hoạch hoặc cắt tỉa cây cối.  \nVí dụ:  \n- 刈り取り (karitori): Gặt hái, thu hoạch.  \n- 刈る (karu): Cắt, gặt. "
+  },
+  "comments": [
+    {
+      "id": "151977",
+      "lang": "vi",
+      "content_html": "<p>Bộ nghệ nhìn giống chữ メnhỉ , MÊ ĐAO như bị bùa NGẢI</p>",
+      "content_text": "Bộ nghệ nhìn giống chữ メnhỉ , MÊ ĐAO như bị bùa NGẢI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151978",
+      "lang": "vi",
+      "content_html": "<p>Đao Cắt chéo bùa ngải</p>",
+      "content_text": "Đao Cắt chéo bùa ngải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151979",
+      "lang": "vi",
+      "content_html": "<p>Mê Li như chơi Ngải</p>",
+      "content_text": "Mê Li như chơi Ngải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

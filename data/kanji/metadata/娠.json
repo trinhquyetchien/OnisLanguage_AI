@@ -1,0 +1,84 @@
+{
+  "kanji": "娠",
+  "meta": {
+    "weight": 674,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [],
+    "am_han": "THẦN"
+  },
+  "meaning": {
+    "vi": "với đứa trẻ, mang thai",
+    "en": "with child, pregnancy"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/娠.svg"
+  },
+  "frequency": 1623,
+  "examples": [
+    "妊娠"
+  ],
+  "explanation": {
+    "id": "4060",
+    "text": "娠 (đọc là \"shin\") có nghĩa là \"mang thai\" để chỉ trạng thái mang thai hoặc sự thụ thai.  \nVí dụ:  \n- 妊娠 (ninshin): Mang thai, thai kỳ.  \n- 娠婦 (shinpuku): Phụ nữ mang thai.  \n- 流産 (ryūzan): S"
+  },
+  "comments": [
+    {
+      "id": "152848",
+      "lang": "vi",
+      "content_html": "<p>Phụ Nữ xem đứa con MANG trong bụng như thiên THẦN</p>",
+      "content_text": "Phụ Nữ xem đứa con MANG trong bụng như thiên THẦN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152849",
+      "lang": "vi",
+      "content_html": "<p>phụ nữ có mang được coi như thần</p>",
+      "content_text": "phụ nữ có mang được coi như thần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152850",
+      "lang": "vi",
+      "content_html": "<p>Năm Thìn 辰 cô gái女  có chửa và sinh ra đứa bé đẹp như thiên Thần</p>",
+      "content_text": "Năm Thìn 辰 cô gái女  có chửa và sinh ra đứa bé đẹp như thiên Thần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

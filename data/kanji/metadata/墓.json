@@ -1,0 +1,90 @@
+{
+  "kanji": "墓",
+  "meta": {
+    "weight": 597,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボ"
+    ],
+    "kun": [
+      "はか"
+    ],
+    "am_han": "MỘ"
+  },
+  "meaning": {
+    "vi": "mồ mả",
+    "en": "grave, tomb"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/墓.svg"
+  },
+  "frequency": 1337,
+  "examples": [
+    "墓",
+    "墓地",
+    "墓参り",
+    "墓石",
+    "墓場"
+  ],
+  "explanation": {
+    "id": "7117",
+    "text": "墓 (đọc là \"bo\" hoặc \"haka\") có nghĩa là \"mộ\", \"ngôi mộ\" để chỉ nơi chôn cất người đã khuất.\n\nVí dụ:\n- 墓地 (bochi): Nghĩa trang.\n- 墓碑 (bōhi): Bia mộ.\n- 墓参り (hakamae): Viếng mộ."
+  },
+  "comments": [
+    {
+      "id": "152663",
+      "lang": "vi",
+      "content_html": "<p>Trên là cỏ hoa mặt trời chiếu dưới có mái đất che là ngội mộ</p>",
+      "content_text": "Trên là cỏ hoa mặt trời chiếu dưới có mái đất che là ngội mộ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152664",
+      "lang": "vi",
+      "content_html": "<p>Ngôi mộ nằm ở vùng đất lớn phủ đầy cỏ tràn ngập ánh mặt trời</p>",
+      "content_text": "Ngôi mộ nằm ở vùng đất lớn phủ đầy cỏ tràn ngập ánh mặt trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152665",
+      "lang": "vi",
+      "content_html": "<p>莫 : Lượng lớn莫 cỏ艹 trên mặt trời 日 to 大<br>募 : Chiêu mộ 募 lượng lớn 莫 lực sĩ 力 <br>漠 : Sa mạc漠 cần một lượng lớn莫 nước 氵 <br>幕 : Mạc phủ 幕 dùng một lượng lớn莫 khăn巾<br>墓 : Mộ墓 là nơi có nhiều莫 đất土<br>暮 : Cuộc sống暮 = lượng lớn莫 ngày日<br>模 : Mô hình模 cần lượng lớn莫 gỗ木</p>",
+      "content_text": "莫 : Lượng lớn莫 cỏ艹 trên mặt trời 日 to 大\n募 : Chiêu mộ 募 lượng lớn 莫 lực sĩ 力\n漠 : Sa mạc漠 cần một lượng lớn莫 nước 氵\n幕 : Mạc phủ 幕 dùng một lượng lớn莫 khăn巾\n墓 : Mộ墓 là nơi có nhiều莫 đất土\n暮 : Cuộc sống暮 = lượng lớn莫 ngày日\n模 : Mô hình模 cần lượng lớn莫 gỗ木",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

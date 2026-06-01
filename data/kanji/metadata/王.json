@@ -1,0 +1,106 @@
+{
+  "kanji": "王",
+  "meta": {
+    "weight": 1733,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オウ",
+      "-ノウ"
+    ],
+    "kun": [],
+    "am_han": "VƯƠNG"
+  },
+  "meaning": {
+    "vi": "vua",
+    "en": "king, rule, magnate"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/王.svg"
+  },
+  "frequency": 684,
+  "examples": [
+    "王",
+    "王国",
+    "王子",
+    "女王",
+    "王様"
+  ],
+  "explanation": {
+    "id": "538",
+    "text": "王 (đọc là \"ō\") có nghĩa là \"vua\", \"người cai trị\" để chỉ một vị lãnh đạo hoặc quyền lực tối cao.\n\nVí dụ:\n- 王様 (okusama): Vị vua, nhà vua.\n- 王国 (ōkoku): Vương quốc.\n- 女王 (joō): Nữ hoàng."
+  },
+  "comments": [
+    {
+      "id": "568",
+      "lang": "vi",
+      "content_html": "<p>Đức <strong>Vua </strong>đang đứng.</p>",
+      "content_text": "Đức\nVua\nđang đứng.",
+      "image_url": "https://jpdictionary.com/upload/images/62977ed287ae3.jpg",
+      "image_path": "assets/images/王_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155321",
+      "lang": "vi",
+      "content_html": "<p>một (NHẤT) mảnh đất (THỔ) chỉ có một vua (VƯƠNG)</p>",
+      "content_text": "một (NHẤT) mảnh đất (THỔ) chỉ có một vua (VƯƠNG)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221783",
+      "lang": "vi",
+      "content_html": "<p>3 nét lần lượt là Thiên, Nhân, Địa. Đứng thẳng giữa thiên địa thống trị loài người đấy là Vương&nbsp;</p>",
+      "content_text": "3 nét lần lượt là Thiên, Nhân, Địa. Đứng thẳng giữa thiên địa thống trị loài người đấy là Vương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    },
+    {
+      "id": "155322",
+      "lang": "vi",
+      "content_html": "<p>Vua là người thông suốt 3 cõi thiên địa nhân</p>",
+      "content_text": "Vua là người thông suốt 3 cõi thiên địa nhân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

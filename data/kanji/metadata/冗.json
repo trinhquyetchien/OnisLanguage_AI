@@ -1,0 +1,85 @@
+{
+  "kanji": "冗",
+  "meta": {
+    "weight": 284,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [],
+    "am_han": "NHŨNG"
+  },
+  "meaning": {
+    "vi": "thừa, vô dụng",
+    "en": "superfluous, uselessness"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/冗.svg"
+  },
+  "frequency": 1782,
+  "examples": [
+    "冗談",
+    "冗長"
+  ],
+  "explanation": {
+    "id": "3948",
+    "text": "冗 (đọc là \"jō\") có nghĩa là \"thừa thãi\", \"rườm rà\" để chỉ những thứ không cần thiết hoặc dư thừa.  \nVí dụ:  \n- 冗談 (jōdan): Lời nói đùa, trò đùa.  \n- 冗長 (jōchō): Sự dài dòng, rườm rà.  \n- 冗費 "
+  },
+  "comments": [
+    {
+      "id": "151906",
+      "lang": "vi",
+      "content_html": "<p>quan ngồi ghế ở nhà gây nhũng nhiễu người dân</p>",
+      "content_text": "quan ngồi ghế ở nhà gây nhũng nhiễu người dân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151907",
+      "lang": "vi",
+      "content_html": "<p>quan đội KHĂN ngồi GHẾ gây NHŨNG nhiễu cho người dân</p>",
+      "content_text": "quan đội KHĂN ngồi GHẾ gây NHŨNG nhiễu cho người dân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151908",
+      "lang": "vi",
+      "content_html": "<p>TRÙM mền lên GHẾ  --»  vì nó DƯ THỪA</p>",
+      "content_text": "TRÙM mền lên GHẾ  --»  vì nó DƯ THỪA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

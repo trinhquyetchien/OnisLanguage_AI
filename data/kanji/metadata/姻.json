@@ -1,0 +1,84 @@
+{
+  "kanji": "姻",
+  "meta": {
+    "weight": 669,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イン"
+    ],
+    "kun": [],
+    "am_han": "NHÂN"
+  },
+  "meaning": {
+    "vi": "hôn nhân, kết hôn",
+    "en": "matrimony, marry"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/姻.svg"
+  },
+  "frequency": 1985,
+  "examples": [
+    "婚姻"
+  ],
+  "explanation": {
+    "id": "251",
+    "text": "姻 (đọc là \"in\") có nghĩa là \"hôn nhân\" hoặc \"quan hệ vợ chồng\", biểu thị các khía cạnh liên quan đến mối quan hệ hôn nhân.  \nVí dụ:  \n- 姻戚 (insekki): Quan hệ thông gia, họ hàng qua hôn nhân."
+  },
+  "comments": [
+    {
+      "id": "152836",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ sau hôn nhân thì như đi tù ( thâm )</p>",
+      "content_text": "Phụ nữ sau hôn nhân thì như đi tù ( thâm )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152837",
+      "lang": "vi",
+      "content_html": "<p>Nguyên nhân của cuộc hôn nhân là do cô gái</p>",
+      "content_text": "Nguyên nhân của cuộc hôn nhân là do cô gái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152838",
+      "lang": "vi",
+      "content_html": "<p>nơi Nương Tựa 因 cho người phụ nữ 女 sau kết hôn gọi là NHÂN 姻 (đàn trai)</p>",
+      "content_text": "nơi Nương Tựa 因 cho người phụ nữ 女 sau kết hôn gọi là NHÂN 姻 (đàn trai)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

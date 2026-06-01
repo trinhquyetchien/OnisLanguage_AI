@@ -1,0 +1,112 @@
+{
+  "kanji": "乾",
+  "meta": {
+    "weight": 107,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン",
+      "ケン"
+    ],
+    "kun": [
+      "かわ.く",
+      "かわ.かす",
+      "ほ.す",
+      "ひ.る",
+      "いぬい"
+    ],
+    "am_han": "CAN"
+  },
+  "meaning": {
+    "vi": "hạn hán, khô",
+    "en": "drought, dry, dessicate, drink up, heaven, emperor"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/乾.svg"
+  },
+  "frequency": 1453,
+  "examples": [
+    "乾燥",
+    "乾杯",
+    "乾",
+    "乾き",
+    "乾電池"
+  ],
+  "explanation": {
+    "id": "1054",
+    "text": "乾 (đọc là \"kan\" hoặc \"in\") có nghĩa là \"khô\", \"khô ráo\", thường chỉ trạng thái khô hanh, hoặc liên quan đến sự khô cạn. \n\nVí dụ:\n- 乾燥 (kansou): Khô ráo, sự khô.\n- 乾杯 (kanpai): Cụng ly, chúc "
+  },
+  "comments": [
+    {
+      "id": "151469",
+      "lang": "vi",
+      "content_html": "<p>Nắng 20 ngày thì người vừa nằm vừa quỳ</p>",
+      "content_text": "Nắng 20 ngày thì người vừa nằm vừa quỳ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190726",
+      "lang": "vi",
+      "content_html": "<p>mới 10 h sáng Sớm mà Ất làm cái Can khô queo</p>",
+      "content_text": "mới 10 h sáng Sớm mà Ất làm cái Can khô queo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "151470",
+      "lang": "vi",
+      "content_html": "<p>khô hạn nên quỳ gối cầu xin mặt trời đừng mọc</p>",
+      "content_text": "khô hạn nên quỳ gối cầu xin mặt trời đừng mọc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151471",
+      "lang": "vi",
+      "content_html": "<p>buổi sáng thằng Ất nằm ngang uống cạn ly rượu</p>",
+      "content_text": "buổi sáng thằng Ất nằm ngang uống cạn ly rượu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

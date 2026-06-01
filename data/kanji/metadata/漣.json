@@ -1,0 +1,51 @@
+{
+  "kanji": "漣",
+  "meta": {
+    "weight": 1613,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レン",
+      "ラン"
+    ],
+    "kun": [
+      "さざなみ"
+    ],
+    "am_han": "LIÊN"
+  },
+  "meaning": {
+    "vi": "gợn sóng",
+    "en": "ripples"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/漣.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8277",
+    "text": "漣 (đọc là \"ren\") có nghĩa là \"gợn sóng\", chỉ các hình ảnh về sóng hoặc gợn nước nhẹ nhàng.  \nVí dụ:  \n- 漣波 (renpa): Gợn sóng, sóng nhỏ.  \n- 漣が立つ (ren ga tatsu): Xuất hiện gợn sóng.  \n- 漣のように"
+  },
+  "comments": [
+    {
+      "id": "219980",
+      "lang": "vi",
+      "content_html": "<p>連絡</p>",
+      "content_text": "連絡",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

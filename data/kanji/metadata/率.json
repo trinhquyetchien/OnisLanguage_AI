@@ -1,0 +1,92 @@
+{
+  "kanji": "率",
+  "meta": {
+    "weight": 1731,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソツ",
+      "リツ",
+      "シュツ"
+    ],
+    "kun": [
+      "ひき.いる"
+    ],
+    "am_han": "SUẤT, SÚY, LUẬT, SOÁT"
+  },
+  "meaning": {
+    "vi": "tỷ lệ, tỷ lệ,%, yếu tố, dẫn đầu, mũi nhọn, lệnh",
+    "en": "ratio, rate, proportion, %, factor, lead, spearhead, command"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/率.svg"
+  },
+  "frequency": 383,
+  "examples": [
+    "率",
+    "効率",
+    "確率",
+    "比率",
+    "率直"
+  ],
+  "explanation": {
+    "id": "8037",
+    "text": "率 (đọc là \"sū\" hoặc \"ritsu\") có nghĩa là \"tỷ lệ\", \"tỉ lệ phần trăm\" để chỉ các khái niệm liên quan đến sự so sánh, đo lường, hoặc phân chia.  \nVí dụ:  \n- 率直 (sotchoku): Thẳng thắn, trung thự"
+  },
+  "comments": [
+    {
+      "id": "155315",
+      "lang": "vi",
+      "content_html": "<p>2 tảng băng đen hợp lại thì có công suất gấp 10 lần</p>",
+      "content_text": "2 tảng băng đen hợp lại thì có công suất gấp 10 lần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155316",
+      "lang": "vi",
+      "content_html": "<p>Huyềnsan sản xuất Băng đạt năng SUẤT x10 lần</p>",
+      "content_text": "Huyềnsan sản xuất Băng đạt năng SUẤT x10 lần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155317",
+      "lang": "vi",
+      "content_html": "<p>Huyền 玄 giới là nơi yêu ma tự do suất 率 đầu lộ diện, phá phách 10 十phương chư phật</p>",
+      "content_text": "Huyền 玄 giới là nơi yêu ma tự do suất 率 đầu lộ diện, phá phách 10 十phương chư phật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

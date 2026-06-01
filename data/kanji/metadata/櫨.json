@@ -1,0 +1,32 @@
+{
+  "kanji": "櫨",
+  "meta": {
+    "weight": 1436,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロ"
+    ],
+    "kun": [
+      "はぜ"
+    ],
+    "am_han": "LÔ"
+  },
+  "meaning": {
+    "vi": "cây sáp, cây sơn",
+    "en": "wax tree, sumac"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/櫨.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6385",
+    "text": "櫨 (đọc là \"tochi\") có nghĩa là \"cây trăn\" hoặc \"cây ngô đồng,\" thường liên quan đến cây cối và gỗ. \n\nVí dụ:\n- 櫨の木 (tochi no ki): Cây trăn.\n- 櫨（とち）で作る (tochi de tsukuru): Làm từ gỗ cây trăn."
+  },
+  "comments": []
+}

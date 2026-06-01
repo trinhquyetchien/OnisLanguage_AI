@@ -1,0 +1,94 @@
+{
+  "kanji": "児",
+  "meta": {
+    "weight": 265,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ",
+      "ニ",
+      "ゲイ"
+    ],
+    "kun": [
+      "こ",
+      "-こ",
+      "-っこ"
+    ],
+    "am_han": "NHI"
+  },
+  "meaning": {
+    "vi": "đứa trẻ, nhi đồng",
+    "en": "newborn babe, child, young of animals"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/児.svg"
+  },
+  "frequency": 679,
+  "examples": [
+    "児童",
+    "育児",
+    "児",
+    "幼児",
+    "鹿児島"
+  ],
+  "explanation": {
+    "id": "3183",
+    "text": "児 (đọc là \"ji\" hoặc \"ni\") có nghĩa là \"trẻ em\", \"thiếu niên\", thường chỉ đến trẻ nhỏ hoặc những người chưa trưởng thành. \n\nVí dụ:\n- 児童 (jidō): Trẻ em, học sinh.\n- 幼児 (yōji): Trẻ sơ sinh, trẻ"
+  },
+  "comments": [
+    {
+      "id": "151855",
+      "lang": "vi",
+      "content_html": "<p>người dưới 18 tuổi thì vẫn là nhi đồng</p>",
+      "content_text": "người dưới 18 tuổi thì vẫn là nhi đồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151856",
+      "lang": "vi",
+      "content_html": "<p>Mới biết đi 1 ngày thì là trẻ em</p>",
+      "content_text": "Mới biết đi 1 ngày thì là trẻ em",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151857",
+      "lang": "vi",
+      "content_html": "<p>hồng hài NHI sinh 1 ngày là biết đi.</p>",
+      "content_text": "hồng hài NHI sinh 1 ngày là biết đi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

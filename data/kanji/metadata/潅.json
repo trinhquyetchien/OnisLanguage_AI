@@ -1,0 +1,50 @@
+{
+  "kanji": "潅",
+  "meta": {
+    "weight": 1617,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "そそ.ぐ"
+    ],
+    "am_han": "QUÁN"
+  },
+  "meaning": {
+    "vi": "đổ vào, tưới, đổ (nước mắt), chảy vào, tập trung vào",
+    "en": "pour into, irrigate, shed (tears), flow into, concentrate on"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/潅.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1140",
+    "text": "潅 (đọc là \"kan\") có nghĩa là \"tưới\" hoặc \"rót nước\", thường chỉ các hành động liên quan đến việc tưới tiêu, cung cấp nước cho cây trồng hoặc các hoạt động tương tự.\n\nVí dụ:\n- 潅水 (kansui): Tư"
+  },
+  "comments": [
+    {
+      "id": "219983",
+      "lang": "vi",
+      "content_html": "<p>Quán</p>",
+      "content_text": "Quán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

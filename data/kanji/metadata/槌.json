@@ -1,0 +1,53 @@
+{
+  "kanji": "槌",
+  "meta": {
+    "weight": 1409,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ツイ"
+    ],
+    "kun": [
+      "つち"
+    ],
+    "am_han": "CHÙY"
+  },
+  "meaning": {
+    "vi": "búa, vồ",
+    "en": "hammer, mallet"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/槌.svg"
+  },
+  "frequency": 2462,
+  "examples": [
+    "相槌",
+    "槌"
+  ],
+  "explanation": {
+    "id": "5451",
+    "text": "槌 (đọc là \"tsuchi\") có nghĩa là \"búa\", một công cụ dùng để đánh, gõ hoặc đập.  \nVí dụ:  \n- 槌打ち (tsuchiwachi): Đánh búa, thao tác đập bằng búa.  \n- 槌音 (tsuchi-on): Âm thanh do búa tạo ra.  \n-"
+  },
+  "comments": [
+    {
+      "id": "154595",
+      "lang": "vi",
+      "content_html": "<p>Mang chùy đi truy lùng cái cây ^^</p>",
+      "content_text": "Mang chùy đi truy lùng cái cây ^^",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

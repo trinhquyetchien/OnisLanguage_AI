@@ -1,0 +1,89 @@
+{
+  "kanji": "鳩",
+  "meta": {
+    "weight": 2995,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ",
+      "ク"
+    ],
+    "kun": [
+      "はと",
+      "あつ.める"
+    ],
+    "am_han": "CƯU"
+  },
+  "meaning": {
+    "vi": "chim bồ câu",
+    "en": "pigeon, dove"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/鳩.svg"
+  },
+  "frequency": 1637,
+  "examples": [
+    "鳩",
+    "伝書鳩"
+  ],
+  "explanation": {
+    "id": "6426",
+    "text": "鳩 (đọc là \"kyū\" hoặc \"hato\") có nghĩa là \"bồ câu\", thường được sử dụng để chỉ loài chim này trong văn hóa và biểu tượng hòa bình. \n\nVí dụ:\n- 鳩 (hato): Bồ câu.\n- 鳩時計 (hatodokei): Đồng hồ bồ c"
+  },
+  "comments": [
+    {
+      "id": "158057",
+      "lang": "vi",
+      "content_html": "<p>Con chim bồ câu thể hiện tình yêu vĩnh cửu nên thường được treo trong đám cưới</p>",
+      "content_text": "Con chim bồ câu thể hiện tình yêu vĩnh cửu nên thường được treo trong đám cưới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158058",
+      "lang": "vi",
+      "content_html": "<p>9 con Chim Bồ Câu Cưu mang lẫn nhau</p>",
+      "content_text": "9 con Chim Bồ Câu Cưu mang lẫn nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158059",
+      "lang": "vi",
+      "content_html": "<p>9 con chim 鳥 nhỏ gộp lại mới bàng 1 con bồ câu 鳩</p>",
+      "content_text": "9 con chim 鳥 nhỏ gộp lại mới bàng 1 con bồ câu 鳩",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "獄",
+  "meta": {
+    "weight": 1726,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴク"
+    ],
+    "kun": [],
+    "am_han": "NGỤC"
+  },
+  "meaning": {
+    "vi": "nhà tù",
+    "en": "prison, jail"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/獄.svg"
+  },
+  "frequency": 1529,
+  "examples": [
+    "地獄",
+    "監獄",
+    "投獄",
+    "牢獄",
+    "獄中"
+  ],
+  "explanation": {
+    "id": "2650",
+    "text": "獄 (đọc là \"goku\") có nghĩa là \"ngục\", thường chỉ đến nhà tù hoặc nơi giam giữ. \n\nVí dụ:\n- 獄中 (gokuchuu): Trong ngục, trong tù.\n- 獄卒 (gokusotsu): Nhân viên nhà tù, cai ngục.\n- 地獄 (jigoku): Đị"
+  },
+  "comments": [
+    {
+      "id": "155302",
+      "lang": "vi",
+      "content_html": "<p>Địa NGỤC là lúc người ta NÓI nhau chẳng khác gì CHÓ với MÈO</p>",
+      "content_text": "Địa NGỤC là lúc người ta NÓI nhau chẳng khác gì CHÓ với MÈO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155303",
+      "lang": "vi",
+      "content_html": "<p>bị BẮT vào NGỤC thì chỉ có NÓI chuyện với CHÓ</p>",
+      "content_text": "bị BẮT vào NGỤC thì chỉ có NÓI chuyện với CHÓ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155304",
+      "lang": "vi",
+      "content_html": "<p>Khuyển+ngôn+khuyển</p>",
+      "content_text": "Khuyển+ngôn+khuyển",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

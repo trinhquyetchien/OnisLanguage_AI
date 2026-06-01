@@ -1,0 +1,86 @@
+{
+  "kanji": "繋",
+  "meta": {
+    "weight": 2115,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "つな.ぐ",
+      "かか.る",
+      "か.ける"
+    ],
+    "am_han": "HỆ"
+  },
+  "meaning": {
+    "vi": "buộc, buộc chặt, chuỗi, kết nối",
+    "en": "tie, fasten, chain, tether, connect"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/繋.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2008",
+    "text": "繋 (đọc là \"ketsu\" hay \"tsunagu\") có nghĩa là \"kết nối\", \"buộc lại\" để chỉ hành động liên kết hoặc nối liền các vật thể, ý tưởng.  \nVí dụ:  \n- 繋がる (tsunagaru): Kết nối, nối liền.  \n- 繋ぐ (tsun"
+  },
+  "comments": [
+    {
+      "id": "220356",
+      "lang": "vi",
+      "content_html": "<p>Dùng dây quan hệ buộc xe kẻ thù</p>",
+      "content_text": "Dùng dây quan hệ buộc xe kẻ thù",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220357",
+      "lang": "vi",
+      "content_html": "<p>Tặng xe 車 cho kẻ thù 殳 để buộc sợi dây 糸 quan hệ</p>",
+      "content_text": "Tặng xe 車 cho kẻ thù 殳 để buộc sợi dây 糸 quan hệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220358",
+      "lang": "vi",
+      "content_html": "<p>lấy DÂY buộc XE của kẻ THÙ phải thật HỆ trọng</p>",
+      "content_text": "lấy DÂY buộc XE của kẻ THÙ phải thật HỆ trọng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

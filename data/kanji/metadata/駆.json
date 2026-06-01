@@ -1,0 +1,108 @@
+{
+  "kanji": "駆",
+  "meta": {
+    "weight": 2949,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ク"
+    ],
+    "kun": [
+      "か.ける",
+      "か.る"
+    ],
+    "am_han": "KHU"
+  },
+  "meaning": {
+    "vi": "lái xe, chạy, phi nước đại, tiến lên, truyền cảm hứng, thúc đẩy",
+    "en": "drive, run, gallop, advance, inspire, impel"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/駆.svg"
+  },
+  "frequency": 1033,
+  "examples": [
+    "駆使",
+    "駆け",
+    "駆動",
+    "駆除",
+    "先駆"
+  ],
+  "explanation": {
+    "id": "1832",
+    "text": "駆 (đọc là \"ku\") có nghĩa là \"chạy\", \"đuổi\". Nó thường được sử dụng để chỉ các hành động liên quan đến việc chạy đuổi hoặc điều khiển.\n\nVí dụ:\n- 駆ける (kakeru): Chạy, chạy nhanh.\n- 駆動 (kudō): S"
+  },
+  "comments": [
+    {
+      "id": "157983",
+      "lang": "vi",
+      "content_html": "<p>Đánh xe 駆る  ngựa 馬 thật nhanh về khu 区 căn cứ để báo tin.</p>",
+      "content_text": "Đánh xe 駆る  ngựa 馬 thật nhanh về khu 区 căn cứ để báo tin.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "218705",
+      "lang": "vi",
+      "content_html": "<p>chi phối ngựa chạy quanh khu</p>",
+      "content_text": "chi phối ngựa chạy quanh khu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "2490",
+        "name": "Thanh Hải Nguyễn",
+        "image_url": "https://jpdictionary.com/upload/images/660671100ebb7.jpg"
+      }
+    },
+    {
+      "id": "157984",
+      "lang": "vi",
+      "content_html": "<p>Dắt ngựa đến khu vực buôn bán</p>",
+      "content_text": "Dắt ngựa đến khu vực buôn bán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157985",
+      "lang": "vi",
+      "content_html": "<p>NGỰA ở KHU vực đó CHẠY NHANH</p>",
+      "content_text": "NGỰA ở KHU vực đó CHẠY NHANH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

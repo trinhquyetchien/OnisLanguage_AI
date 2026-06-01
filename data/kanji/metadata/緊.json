@@ -1,0 +1,91 @@
+{
+  "kanji": "緊",
+  "meta": {
+    "weight": 2093,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キン"
+    ],
+    "kun": [
+      "し.める",
+      "し.まる"
+    ],
+    "am_han": "KHẨN"
+  },
+  "meaning": {
+    "vi": "căng thẳng, rắn chắc, cứng, đáng tin cậy, chặt chẽ",
+    "en": "tense, solid, hard, reliable, tight"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/緊.svg"
+  },
+  "frequency": 677,
+  "examples": [
+    "緊張",
+    "緊急",
+    "緊密",
+    "緊迫",
+    "喫緊"
+  ],
+  "explanation": {
+    "id": "1777",
+    "text": "緊 (đọc là \"kin\") có nghĩa là \"căng thẳng\", \"khẩn cấp\" để chỉ tình trạng gấp rút hoặc sự căng thẳng trong những tình huống nhất định.\n\nVí dụ:\n- 緊急 (kinkyuu): Khẩn cấp.\n- 緊張 (kinchou): Căng th"
+  },
+  "comments": [
+    {
+      "id": "156091",
+      "lang": "vi",
+      "content_html": "<p>Quần thần (Thần) qua qua lại lại (Hựu) xoắn xuýt (Mịch) hết cả lên hẳn là có việc KHẨN</p>",
+      "content_text": "Quần thần (Thần) qua qua lại lại (Hựu) xoắn xuýt (Mịch) hết cả lên hẳn là có việc KHẨN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156092",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: ông đại Thần (臣) bị trói lại bằng sợi dây (糸 Mịch)<br>c1 ==&#62; mặt ông lộ rõ sự căng thẳng (緊張　きんちょう)<br>c2 ==&#62; ngay lập tức ông cầu KHẨN (緊) xin tha<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Góc Nhìn: ông đại Thần (臣) bị trói lại bằng sợi dây (糸 Mịch)\nc1 ==> mặt ông lộ rõ sự căng thẳng (緊張　きんちょう)\nc2 ==> ngay lập tức ông cầu KHẨN (緊) xin tha\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156093",
+      "lang": "vi",
+      "content_html": "<p>KHẨN trương lấy SỢI DÂY (mịch) buộc QUAN (thần) LẠI (hựu)</p>",
+      "content_text": "KHẨN trương lấy SỢI DÂY (mịch) buộc QUAN (thần) LẠI (hựu)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

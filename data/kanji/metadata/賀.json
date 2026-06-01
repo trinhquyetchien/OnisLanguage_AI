@@ -1,0 +1,88 @@
+{
+  "kanji": "賀",
+  "meta": {
+    "weight": 2560,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガ"
+    ],
+    "kun": [],
+    "am_han": "HẠ"
+  },
+  "meaning": {
+    "vi": "xin chúc mừng, niềm vui",
+    "en": "congratulations, joy"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/賀.svg"
+  },
+  "frequency": 1056,
+  "examples": [
+    "年賀状",
+    "滋賀",
+    "佐賀",
+    "賀",
+    "加賀"
+  ],
+  "explanation": {
+    "id": "736",
+    "text": "賀 (đọc là \"ga\") có nghĩa là \"chúc mừng\", thường liên quan đến việc thể hiện sự vui mừng hoặc lời chúc tốt đẹp trong các dịp lễ, sự kiện.  \nVí dụ:  \n- 賀正 (gashō): Chúc mừng năm mới.  \n- 賀詞 (g"
+  },
+  "comments": [
+    {
+      "id": "157094",
+      "lang": "vi",
+      "content_html": "<p>HẠ thấp việc gia công tiền để tổ chức tiệc tùng các kiểu</p>",
+      "content_text": "HẠ thấp việc gia công tiền để tổ chức tiệc tùng các kiểu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157095",
+      "lang": "vi",
+      "content_html": "<p>GIA tăng thêm bảo BỐI để Chúc mừng điện HẠ</p>",
+      "content_text": "GIA tăng thêm bảo BỐI để Chúc mừng điện HẠ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157096",
+      "lang": "vi",
+      "content_html": "<p>Đưa thêm vỏ sò để chúc mừng</p>",
+      "content_text": "Đưa thêm vỏ sò để chúc mừng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

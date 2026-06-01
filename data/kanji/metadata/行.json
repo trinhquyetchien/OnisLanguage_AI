@@ -1,0 +1,99 @@
+{
+  "kanji": "行",
+  "meta": {
+    "weight": 2402,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ギョウ",
+      "アン"
+    ],
+    "kun": [
+      "い.く",
+      "ゆ.く",
+      "-ゆ.き",
+      "-ゆき",
+      "-い.き",
+      "-いき",
+      "おこな.う",
+      "おこ.なう"
+    ],
+    "am_han": "HÀNH, HÀNG"
+  },
+  "meaning": {
+    "vi": "đi, thực hành",
+    "en": "going, journey, carry out, conduct, act, line, row, bank"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/行.svg"
+  },
+  "frequency": 20,
+  "examples": [
+    "行く",
+    "行動",
+    "行き",
+    "行う",
+    "旅行"
+  ],
+  "explanation": {
+    "id": "2550",
+    "text": "行 (đọc là \"kou\" hoặc \"gyou\") có nghĩa là \"hành động\", \"đi\", \"thực hiện\" để chỉ các hoạt động di chuyển hoặc thực hiện một việc gì đó.  \nVí dụ:  \n- 行動 (koudou): Hành động, hành vi.  \n- 行く (ik"
+  },
+  "comments": [
+    {
+      "id": "674",
+      "lang": "vi",
+      "content_html": "<p>Tại góc đường này bạn hãy quyết định là sẽ <strong>đi </strong>đâu.</p>",
+      "content_text": "Tại góc đường này bạn hãy quyết định là sẽ\nđi\nđâu.",
+      "image_url": "https://jpdictionary.com/upload/images/629834a5be3bc.jpg",
+      "image_path": "assets/images/行_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191175",
+      "lang": "vi",
+      "content_html": "<p><strong>du lịch</strong> - 旅行 LỮ HÀNH (りょこう)</p>",
+      "content_text": "du lịch\n- 旅行 LỮ HÀNH (りょこう)",
+      "image_url": "https://jpdictionary.com/upload/images/648ad4b88dd7b.jpg",
+      "image_path": "assets/images/行_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "159011",
+      "lang": "vi",
+      "content_html": "<p>行事(ぎょうじ): Sự kiện</p>",
+      "content_text": "行事(ぎょうじ): Sự kiện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

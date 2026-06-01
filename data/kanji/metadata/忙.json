@@ -1,0 +1,111 @@
+{
+  "kanji": "忙",
+  "meta": {
+    "weight": 944,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ",
+      "モウ"
+    ],
+    "kun": [
+      "いそが.しい",
+      "せわ.しい",
+      "おそ.れる",
+      "うれえるさま"
+    ],
+    "am_han": "MANG"
+  },
+  "meaning": {
+    "vi": "bận rộn",
+    "en": "busy, occupied, restless"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/忙.svg"
+  },
+  "frequency": 1475,
+  "examples": [
+    "忙しい",
+    "多忙",
+    "大忙し",
+    "繁忙",
+    "忙殺"
+  ],
+  "explanation": {
+    "id": "7265",
+    "text": "忙 (đọc là \"bō\" hoặc \"isogashii\") có nghĩa là \"bận rộn\", chỉ trạng thái không có thời gian rảnh rỗi, thường liên quan đến công việc hoặc hoạt động.  \nVí dụ:  \n- 忙しい (isogashii): Bận rộn.  \n- "
+  },
+  "comments": [
+    {
+      "id": "191016",
+      "lang": "vi",
+      "content_html": "<p><strong>bận rộn</strong> ➝ mệt</p>",
+      "content_text": "bận rộn\n➝ mệt",
+      "image_url": "https://jpdictionary.com/upload/images/648a8e360387c.jpg",
+      "image_path": "assets/images/忙_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "153523",
+      "lang": "vi",
+      "content_html": "<p>Người ta chỉ BẬN (忙) với bạn khi trong TIM (忄) của họ đã MẤT (亡) đi bạn rồi.</p>",
+      "content_text": "Người ta chỉ BẬN (忙) với bạn khi trong TIM (忄) của họ đã MẤT (亡) đi bạn rồi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153524",
+      "lang": "vi",
+      "content_html": "<p>Tâm mệt muốn chết vì bận rộn</p>",
+      "content_text": "Tâm mệt muốn chết vì bận rộn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153525",
+      "lang": "vi",
+      "content_html": "<p>Tim dựng đứng lên vì bận rộn mệt muốn chết</p>",
+      "content_text": "Tim dựng đứng lên vì bận rộn mệt muốn chết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

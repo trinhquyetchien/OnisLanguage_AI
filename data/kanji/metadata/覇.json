@@ -1,0 +1,91 @@
+{
+  "kanji": "覇",
+  "meta": {
+    "weight": 2440,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハ",
+      "ハク"
+    ],
+    "kun": [
+      "はたがしら"
+    ],
+    "am_han": "BÁ, PHÁCH"
+  },
+  "meaning": {
+    "vi": "bá chủ, tối cao, lãnh đạo, vô địch",
+    "en": "hegemony, supremacy, leadership, champion"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/覇.svg"
+  },
+  "frequency": 1173,
+  "examples": [
+    "制覇",
+    "那覇",
+    "連覇",
+    "覇権",
+    "覇者"
+  ],
+  "explanation": {
+    "id": "6225",
+    "text": "覇 (đọc là \"ha\") có nghĩa là \"chế ngự\", \"thống trị\" để chỉ sự vượt trội hoặc quyền lực trong một lĩnh vực nào đó.\n\nVí dụ:\n- 覇権 (haken): Quyền thống trị, quyền lực.\n- 覇者 (hasha): Người thống t"
+  },
+  "comments": [
+    {
+      "id": "156792",
+      "lang": "vi",
+      "content_html": "<p>Em nguyệt tìm cách làm Bá quyền phương tây</p>",
+      "content_text": "Em nguyệt tìm cách làm Bá quyền phương tây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156793",
+      "lang": "vi",
+      "content_html": "<p>Qua nhiều tháng 月 cải cách 革 để nuôi mộng xưng BÁ vượt phuong Tây 西</p>",
+      "content_text": "Qua nhiều tháng 月 cải cách 革 để nuôi mộng xưng BÁ vượt phuong Tây 西",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156794",
+      "lang": "vi",
+      "content_html": "<p>覇王色の覇気</p>",
+      "content_text": "覇王色の覇気",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

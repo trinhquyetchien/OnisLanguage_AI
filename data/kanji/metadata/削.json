@@ -1,0 +1,92 @@
+{
+  "kanji": "削",
+  "meta": {
+    "weight": 329,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サク"
+    ],
+    "kun": [
+      "けず.る",
+      "はつ.る",
+      "そ.ぐ"
+    ],
+    "am_han": "TƯỚC"
+  },
+  "meaning": {
+    "vi": "máy bay, mài, whittle, pare, cạo",
+    "en": "plane, sharpen, whittle, pare, shave"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/削.svg"
+  },
+  "frequency": 814,
+  "examples": [
+    "削除",
+    "削減",
+    "添削",
+    "削り",
+    "削る"
+  ],
+  "explanation": {
+    "id": "2885",
+    "text": "削 (đọc là \"saku\") có nghĩa là \"gọt\", \"cắt\" để chỉ hành động giảm bớt hoặc loại bỏ một phần nào đó.  \nVí dụ:  \n- 削除 (sakujo): Xóa, loại bỏ.  \n- 削り出す (suri dasu): Gọt ra, khắc ra.  \n- 削る (kezu"
+  },
+  "comments": [
+    {
+      "id": "152025",
+      "lang": "vi",
+      "content_html": "<p>tiêu diệt kẻ địch cần tước đoạt vũ khí</p>",
+      "content_text": "tiêu diệt kẻ địch cần tước đoạt vũ khí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 2,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152026",
+      "lang": "vi",
+      "content_html": "<p>Tiêu diệt kẻ thù cần cướp Kiếm</p>",
+      "content_text": "Tiêu diệt kẻ thù cần cướp Kiếm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152027",
+      "lang": "vi",
+      "content_html": "<p>Dùng dao tước tiêu cái vỏ</p>",
+      "content_text": "Dùng dao tước tiêu cái vỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

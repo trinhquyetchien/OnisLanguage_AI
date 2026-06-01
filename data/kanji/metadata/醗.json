@@ -1,0 +1,32 @@
+{
+  "kanji": "醗",
+  "meta": {
+    "weight": 2727,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハツ"
+    ],
+    "kun": [
+      "かも.す"
+    ],
+    "am_han": "PHÁT"
+  },
+  "meaning": {
+    "vi": "lên men, sản xuất bia",
+    "en": "fermentation, brewing"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/醗.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6406",
+    "text": "醗 (đọc là \"hatsu\") có nghĩa là \"fermentation\" (ferment) để chỉ các quá trình lên men trong thực phẩm và đồ uống.  \nVí dụ:  \n- 醗酵 (hakkou): Sự lên men, quá trình biến đổi của vi sinh vật.  \n-"
+  },
+  "comments": []
+}

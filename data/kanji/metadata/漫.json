@@ -1,0 +1,91 @@
+{
+  "kanji": "漫",
+  "meta": {
+    "weight": 1614,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マン"
+    ],
+    "kun": [
+      "みだり.に",
+      "そぞ.ろ"
+    ],
+    "am_han": "MẠN, MAN"
+  },
+  "meaning": {
+    "vi": "phim hoạt hình, vô tình, không kiềm chế, bất chấp bản thân, hư hỏng",
+    "en": "cartoon, involuntarily, unrestrained, in spite of oneself, corrupt"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/漫.svg"
+  },
+  "frequency": 1408,
+  "examples": [
+    "漫画",
+    "漫才",
+    "散漫",
+    "浪漫",
+    "天真爛漫"
+  ],
+  "explanation": {
+    "id": "7460",
+    "text": "漫 (đọc là \"man\") có nghĩa là \"mang tính phóng khoáng\", \"không nghiêm túc\" để chỉ các hành động hoặc thái độ thoải mái, không hạn chế.\n\nVí dụ:\n- 漫画 (manga): Truyện tranh, phim hoạt hình.\n- 漫才"
+  },
+  "comments": [
+    {
+      "id": "155079",
+      "lang": "vi",
+      "content_html": "<p>Đứng chéo chân mắt nhìn mặt trời cho vã mồ hôi thật là tản mạn nhàm chán</p>",
+      "content_text": "Đứng chéo chân mắt nhìn mặt trời cho vã mồ hôi thật là tản mạn nhàm chán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155080",
+      "lang": "vi",
+      "content_html": "<p>Ở NƯớc Nhật người ta rất thích Chạy ra ngoài Đọc truyện tranh MAN GA lãn MẠN</p>",
+      "content_text": "Ở NƯớc Nhật người ta rất thích Chạy ra ngoài Đọc truyện tranh MAN GA lãn MẠN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155081",
+      "lang": "vi",
+      "content_html": "<p>Ở nước 氵 Nhật 日, mắc võng 罒 nằm chéo chân 又 Tản mạn đọc manga</p>",
+      "content_text": "Ở nước 氵 Nhật 日, mắc võng 罒 nằm chéo chân 又 Tản mạn đọc manga",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

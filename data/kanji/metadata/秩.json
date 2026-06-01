@@ -1,0 +1,85 @@
+{
+  "kanji": "秩",
+  "meta": {
+    "weight": 1932,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チツ"
+    ],
+    "kun": [],
+    "am_han": "TRẬT"
+  },
+  "meaning": {
+    "vi": "đều đặn, lương, đơn hàng",
+    "en": "regularity, salary, order"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/秩.svg"
+  },
+  "frequency": 1275,
+  "examples": [
+    "秩序",
+    "無秩序"
+  ],
+  "explanation": {
+    "id": "5253",
+    "text": "秩 (đọc là \"chitsu\") có nghĩa là \"trật tự\", \"hệ thống\", thường dùng để chỉ sự sắp xếp có tổ chức hoặc thứ bậc trong một hệ thống nào đó.\n\nVí dụ:\n- 秩序 (chitsujyo): Trật tự, kỷ cương.\n- 秩序正しい ("
+  },
+  "comments": [
+    {
+      "id": "155748",
+      "lang": "vi",
+      "content_html": "<p>Mất đi hoà khí sẽ ko giữ được trật tự</p>",
+      "content_text": "Mất đi hoà khí sẽ ko giữ được trật tự",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155749",
+      "lang": "vi",
+      "content_html": "<p>cây LÚA bị THẤT mùa. thương lái ép giá nông dân . nông dân không giữ được TRẬT tự đã cãi lại...</p>",
+      "content_text": "cây LÚA bị THẤT mùa. thương lái ép giá nông dân . nông dân không giữ được TRẬT tự đã cãi lại...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155750",
+      "lang": "vi",
+      "content_html": "<p>Hoà và Thất trật tự !</p>",
+      "content_text": "Hoà và Thất trật tự !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

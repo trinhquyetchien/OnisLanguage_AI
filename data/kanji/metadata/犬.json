@@ -1,0 +1,91 @@
+{
+  "kanji": "犬",
+  "meta": {
+    "weight": 1704,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "いぬ",
+      "いぬ-"
+    ],
+    "am_han": "KHUYỂN"
+  },
+  "meaning": {
+    "vi": "con chó",
+    "en": "dog"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/犬.svg"
+  },
+  "frequency": 1326,
+  "examples": [
+    "犬",
+    "愛犬",
+    "子犬",
+    "負け犬",
+    "盲導犬"
+  ],
+  "explanation": {
+    "id": "2149",
+    "text": "犬 (đọc là \"inu\") có nghĩa là \"chó\", chỉ loài vật nuôi phổ biến và thân thuộc với con người.  \nVí dụ:  \n- 犬小屋 (inugoya): Chuồng chó.  \n- 飼い犬 (kaiinu): Chó nuôi.  \n- 猟犬 (ryouken): Chó săn."
+  },
+  "comments": [
+    {
+      "id": "768",
+      "lang": "vi",
+      "content_html": "<p>Hình dáng của con <strong>chó</strong> (犬).</p>",
+      "content_text": "Hình dáng của con\nchó\n(犬).",
+      "image_url": "https://jpdictionary.com/upload/images/62984e7d6404f.jpg",
+      "image_path": "assets/images/犬_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155255",
+      "lang": "vi",
+      "content_html": "<p>Thằng Đại (大) là chủ của con chó (犬)</p>",
+      "content_text": "Thằng Đại (大) là chủ của con chó (犬)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158605",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>犬 (いぬ): con chó</p>",
+      "content_text": "JLPT N4\n犬 (いぬ): con chó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "審",
+  "meta": {
+    "weight": 745,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "つまび.らか",
+      "つぶさ.に"
+    ],
+    "am_han": "THẨM"
+  },
+  "meaning": {
+    "vi": "điều trần, thẩm phán, xét xử",
+    "en": "hearing, judge, trial"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/審.svg"
+  },
+  "frequency": 412,
+  "examples": [
+    "審議",
+    "審査",
+    "審判",
+    "審理",
+    "不審"
+  ],
+  "explanation": {
+    "id": "4066",
+    "text": "審 (đọc là \"shin\") có nghĩa là \"thẩm tra\", \"xét duyệt\" để chỉ các hành động liên quan đến việc kiểm tra, đánh giá hoặc thẩm định.\n\nVí dụ:\n- 審査 (shinsa): Thẩm tra, kiểm tra.\n- 審判 (shinpan): Tr"
+  },
+  "comments": [
+    {
+      "id": "153022",
+      "lang": "vi",
+      "content_html": "<p>Trong nhà có phiên toà phúc thẩm</p>",
+      "content_text": "Trong nhà có phiên toà phúc thẩm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153023",
+      "lang": "vi",
+      "content_html": "<p>Đã gặp nhiều từ có cách gợi ý của bạn, rất dễ nhớ. Cám ơn 厚顔 nhé!</p>",
+      "content_text": "Đã gặp nhiều từ có cách gợi ý của bạn, rất dễ nhớ. Cám ơn 厚顔 nhé!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153024",
+      "lang": "vi",
+      "content_html": "<p>dưới mái nhà, cảnh sát đang thẩm tra số liệu</p>",
+      "content_text": "dưới mái nhà, cảnh sát đang thẩm tra số liệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

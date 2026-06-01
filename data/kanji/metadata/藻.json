@@ -1,0 +1,88 @@
+{
+  "kanji": "藻",
+  "meta": {
+    "weight": 2363,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "も"
+    ],
+    "am_han": "TẢO"
+  },
+  "meaning": {
+    "vi": "rong biển, bèo tấm",
+    "en": "seaweed, duckweed"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/藻.svg"
+  },
+  "frequency": 2124,
+  "examples": [
+    "藻",
+    "海藻",
+    "珪藻土"
+  ],
+  "explanation": {
+    "id": "4755",
+    "text": "藻 (đọc là \"mō\") có nghĩa là \"rong\", chỉ các loại thực vật thủy sinh như rong biển và tảo.  \nVí dụ:  \n- 藻類 (mōrui): Tảo, nhóm thực vật thủy sinh.  \n- 海藻 (kaimō): Rong biển.  \n- 水藻 (suizō): Ro"
+  },
+  "comments": [
+    {
+      "id": "156636",
+      "lang": "vi",
+      "content_html": "<p>Tảo là sản phẩm kết hợp của cây cỏ dưới nước</p>",
+      "content_text": "Tảo là sản phẩm kết hợp của cây cỏ dưới nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156637",
+      "lang": "vi",
+      "content_html": "<p>Cỏ, nước là sản phẩm tạo ra cây tảo</p>",
+      "content_text": "Cỏ, nước là sản phẩm tạo ra cây tảo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156638",
+      "lang": "vi",
+      "content_html": "<p>Cỏ nước đều là sản phẩm từ cây TẢO</p>",
+      "content_text": "Cỏ nước đều là sản phẩm từ cây TẢO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

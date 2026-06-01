@@ -1,0 +1,55 @@
+{
+  "kanji": "蔭",
+  "meta": {
+    "weight": 2337,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イン",
+      "オン"
+    ],
+    "kun": [
+      "かげ"
+    ],
+    "am_han": "ẤM"
+  },
+  "meaning": {
+    "vi": "bóng râm, bóng tối, hỗ trợ ủng hộ",
+    "en": "shade, shadow, backing assistance"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/蔭.svg"
+  },
+  "frequency": 2166,
+  "examples": [
+    "蔭",
+    "お蔭",
+    "お蔭様"
+  ],
+  "explanation": {
+    "id": "266",
+    "text": "蔭 (đọc là \"in\") có nghĩa là \"bóng râm\" hoặc \"bóng tối\", thường chỉ những nơi có bóng râm hoặc ảnh hưởng từ cái gì đó.\n\nVí dụ:\n- 蔭 (in): Bóng râm.\n- 蔭る (inru): Che chở, tạo bóng râm.\n- 蔭に入る ("
+  },
+  "comments": [
+    {
+      "id": "156598",
+      "lang": "vi",
+      "content_html": "<p>Hiện tại (今) trời đang có Mây (Vân), đám Mây in Bóng của mình lên bãi Cỏ</p>",
+      "content_text": "Hiện tại (今) trời đang có Mây (Vân), đám Mây in Bóng của mình lên bãi Cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

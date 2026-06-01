@@ -1,0 +1,90 @@
+{
+  "kanji": "醜",
+  "meta": {
+    "weight": 2728,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "みにく.い",
+      "しこ"
+    ],
+    "am_han": "XÚ"
+  },
+  "meaning": {
+    "vi": "xấu xí, ô uế, xấu hổ",
+    "en": "ugly, unclean, shame, bad looking"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/醜.svg"
+  },
+  "frequency": 2074,
+  "examples": [
+    "醜い",
+    "醜",
+    "醜悪",
+    "醜態"
+  ],
+  "explanation": {
+    "id": "3541",
+    "text": "醜 (đọc là \"shuu\" hoặc \"minikui\") có nghĩa là \"xấu xí\", \"không đẹp\" để chỉ những điều không hấp dẫn về ngoại hình hoặc tính cách.\n\nVí dụ:\n- 醜い (minikui): Xấu xí, không đẹp.\n- 醜態 (shuutai): Hì"
+  },
+  "comments": [
+    {
+      "id": "157497",
+      "lang": "vi",
+      "content_html": "<p>Quỷ uống rượu thì xấu xa tột độ</p>",
+      "content_text": "Quỷ uống rượu thì xấu xa tột độ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157498",
+      "lang": "vi",
+      "content_html": "<p>GÀ hoá Quỷ thật là xấu xí  .</p>",
+      "content_text": "GÀ hoá Quỷ thật là xấu xí  .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157499",
+      "lang": "vi",
+      "content_html": "<p>quỷ xấu xí uống rượu tôm XÚ</p>",
+      "content_text": "quỷ xấu xí uống rượu tôm XÚ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

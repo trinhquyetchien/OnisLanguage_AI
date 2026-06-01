@@ -1,0 +1,87 @@
+{
+  "kanji": "侯",
+  "meta": {
+    "weight": 191,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [],
+    "am_han": "HẦU"
+  },
+  "meaning": {
+    "vi": "hầu tước, chúa tể, daimyo",
+    "en": "marquis, lord, daimyo"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/侯.svg"
+  },
+  "frequency": 2363,
+  "examples": [
+    "王侯",
+    "侯",
+    "侯爵",
+    "諸侯"
+  ],
+  "explanation": {
+    "id": "2376",
+    "text": "侯 (đọc là \"kō\" hoặc \"hō\") có nghĩa là \"quý tộc\", \"công tước\" để chỉ những người có địa vị, danh hiệu trong xã hội.\nVí dụ:\n- 侯爵 (kōshaku): Công tước.\n- 侯国 (kōkoku): Quốc gia nhỏ, thường thuộc"
+  },
+  "comments": [
+    {
+      "id": "151668",
+      "lang": "vi",
+      "content_html": "<p>Người đội mũ vai đeo cung tên chính là tước hầu</p>",
+      "content_text": "Người đội mũ vai đeo cung tên chính là tước hầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151669",
+      "lang": "vi",
+      "content_html": "<p>Hoàng Hậu (候) mất đi một người HẦU (侯)</p>",
+      "content_text": "Hoàng Hậu (候) mất đi một người HẦU (侯)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151670",
+      "lang": "vi",
+      "content_html": "<p>Người có túi tên bên mình là công hầu</p>",
+      "content_text": "Người có túi tên bên mình là công hầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

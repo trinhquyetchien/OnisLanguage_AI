@@ -1,0 +1,110 @@
+{
+  "kanji": "歳",
+  "meta": {
+    "weight": 1457,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ",
+      "セイ"
+    ],
+    "kun": [
+      "とし",
+      "とせ",
+      "よわい"
+    ],
+    "am_han": "TUẾ"
+  },
+  "meaning": {
+    "vi": "tuổi",
+    "en": "year-end, age, occasion, opportunity"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/歳.svg"
+  },
+  "frequency": 269,
+  "examples": [
+    "歳",
+    "歳出",
+    "歳入",
+    "歳月",
+    "万歳"
+  ],
+  "explanation": {
+    "id": "2801",
+    "text": "歳 (đọc là \"sai\") có nghĩa là \"tuổi\" để chỉ số tuổi của một người hoặc vật. \nVí dụ:\n- 年齢 (nenrei): Độ tuổi.\n- 歳月 (saigetsu): Thời gian, năm tháng.\n- 二十歳 (hatachi): Hai mươi tuổi."
+  },
+  "comments": [
+    {
+      "id": "37228",
+      "lang": "vi",
+      "content_html": "<p>Hãy ngừng (止) hỏi tôi bao nhiêu <strong>tuổi</strong>!</p>",
+      "content_text": "Hãy ngừng (止) hỏi tôi bao nhiêu\ntuổi\n!",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd6cfbd898.jpg",
+      "image_path": "assets/images/歳_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154690",
+      "lang": "vi",
+      "content_html": "<p>Hoàn cảnh: Con Chó (戌 Tuất) Nhỏ (小) Dừng lại (止)<br>==&#62; tè ở gốc cây vạn TUẾ (歳).<br>..性..</p>",
+      "content_text": "Hoàn cảnh: Con Chó (戌 Tuất) Nhỏ (小) Dừng lại (止)\n==> tè ở gốc cây vạn TUẾ (歳).\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154691",
+      "lang": "vi",
+      "content_html": "<p>Dừng lại hỏi nhỏ , qua tuổi Tuất là tuổi con gì ?</p>",
+      "content_text": "Dừng lại hỏi nhỏ , qua tuổi Tuất là tuổi con gì ?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158680",
+      "lang": "vi",
+      "content_html": "<p>何歳 (なんさい): mấy tuổi</p><p>Trả lời: số đếm + 歳 (さい)</p><p>Ngoại lệ:</p><p>1歳: いっさい</p><p>8歳: はっさい</p><p>10歳: じゅっさい</p><p>20歳: はたち</p>",
+      "content_text": "何歳 (なんさい): mấy tuổi\nTrả lời: số đếm + 歳 (さい)\nNgoại lệ:\n1歳: いっさい\n8歳: はっさい\n10歳: じゅっさい\n20歳: はたち",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

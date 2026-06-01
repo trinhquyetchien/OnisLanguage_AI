@@ -1,0 +1,92 @@
+{
+  "kanji": "凹",
+  "meta": {
+    "weight": 306,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オウ"
+    ],
+    "kun": [
+      "くぼ.む",
+      "へこ.む",
+      "ぼこ"
+    ],
+    "am_han": "AO"
+  },
+  "meaning": {
+    "vi": "lõm, rỗng, trũng",
+    "en": "concave, hollow, sunken"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/凹.svg"
+  },
+  "frequency": 2206,
+  "examples": [
+    "凹み",
+    "凹凸",
+    "凸凹",
+    "凹",
+    "凹む"
+  ],
+  "explanation": {
+    "id": "508",
+    "text": "凹 (đọc là \"ō\") có nghĩa là \"lõm\" hoặc \"chỗ trũng\", thường chỉ hình dạng có phần lõm vào bên trong.  \nVí dụ:  \n- 凹凸 (ōtotsu): Lõm và lồi, không bằng phẳng.  \n- 凹む (hekomu): Lõm xuống, bị trũn"
+  },
+  "comments": [
+    {
+      "id": "151958",
+      "lang": "vi",
+      "content_html": "<p>Cái ao có chỗ lõm hình chữ U</p>",
+      "content_text": "Cái ao có chỗ lõm hình chữ U",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151959",
+      "lang": "vi",
+      "content_html": "<p>Kay le câm mẹ mồm vào</p>",
+      "content_text": "Kay le câm mẹ mồm vào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151960",
+      "lang": "vi",
+      "content_html": "<p>凸凹 hố gà</p>",
+      "content_text": "凸凹 hố gà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

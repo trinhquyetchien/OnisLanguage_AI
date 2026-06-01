@@ -1,0 +1,88 @@
+{
+  "kanji": "仙",
+  "meta": {
+    "weight": 142,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン",
+      "セント"
+    ],
+    "kun": [],
+    "am_han": "TIÊN"
+  },
+  "meaning": {
+    "vi": "ẩn sĩ, thuật sĩ, xu",
+    "en": "hermit, wizard, cent"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/仙.svg"
+  },
+  "frequency": 1157,
+  "examples": [
+    "仙台",
+    "仙",
+    "仙人",
+    "水仙"
+  ],
+  "explanation": {
+    "id": "4469",
+    "text": "仙 (đọc là \"sen\") có nghĩa là \"tiên\" để chỉ các sinh vật huyền thoại, thường được coi là người có sức mạnh siêu nhiên hoặc sống lâu. \n\nVí dụ:\n- 仙人 (sennin): Tiên nhân, người tu luyện, có khả "
+  },
+  "comments": [
+    {
+      "id": "151544",
+      "lang": "vi",
+      "content_html": "<p>Người đướng trước núi là tiên</p>",
+      "content_text": "Người đướng trước núi là tiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151545",
+      "lang": "vi",
+      "content_html": "<p>Người sống trên Núi là TIÊN</p>",
+      "content_text": "Người sống trên Núi là TIÊN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151546",
+      "lang": "vi",
+      "content_html": "<p>Người đứng cạnh núi là TIÊN nhân</p>",
+      "content_text": "Người đứng cạnh núi là TIÊN nhân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

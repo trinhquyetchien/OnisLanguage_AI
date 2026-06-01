@@ -1,0 +1,89 @@
+{
+  "kanji": "傘",
+  "meta": {
+    "weight": 233,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン"
+    ],
+    "kun": [
+      "かさ"
+    ],
+    "am_han": "TẢN"
+  },
+  "meaning": {
+    "vi": "chiêc du",
+    "en": "umbrella"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/傘.svg"
+  },
+  "frequency": 1694,
+  "examples": [
+    "傘",
+    "傘下",
+    "日傘",
+    "落下傘"
+  ],
+  "explanation": {
+    "id": "2979",
+    "text": "傘 (đọc là \"kasa\") có nghĩa là \"cái ô\" dùng để che mưa hoặc nắng.  \nVí dụ:  \n- 傘をさす (kasa o sasu): Dùng ô (mở ô).  \n- 折りたたみ傘 (oritadami kasa): Ô gấp.  \n- 日傘 (higasa): Ô che nắng."
+  },
+  "comments": [
+    {
+      "id": "151774",
+      "lang": "vi",
+      "content_html": "<p>10 cái oi che được cho bốn người</p>",
+      "content_text": "10 cái oi che được cho bốn người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151775",
+      "lang": "vi",
+      "content_html": "<p>Góc nhìn: 1 người trên cao che cho 14 người (十 + 4人 )ở dưới.<br>==&#62; Ô Dù (傘 TÁN) của con ông cháu cha.<br>..性..</p>",
+      "content_text": "Góc nhìn: 1 người trên cao che cho 14 người (十 + 4人 )ở dưới.\n==> Ô Dù (傘 TÁN) của con ông cháu cha.\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151776",
+      "lang": "vi",
+      "content_html": "<p>Tán 4 cô thì được 10 cái dù</p>",
+      "content_text": "Tán 4 cô thì được 10 cái dù",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

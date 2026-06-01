@@ -1,0 +1,91 @@
+{
+  "kanji": "谷",
+  "meta": {
+    "weight": 2534,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コク"
+    ],
+    "kun": [
+      "たに",
+      "きわ.まる"
+    ],
+    "am_han": "CỐC"
+  },
+  "meaning": {
+    "vi": "thung lũng",
+    "en": "valley"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/谷.svg"
+  },
+  "frequency": 508,
+  "examples": [
+    "谷",
+    "谷川",
+    "谷間",
+    "渓谷",
+    "峡谷"
+  ],
+  "explanation": {
+    "id": "5099",
+    "text": "谷 (đọc là \"tani\" hoặc \"koku\") có nghĩa là \"thung lũng\" để chỉ các vùng địa hình thấp hơn xung quanh. \n\nVí dụ:\n- 谷間 (tanima): Thung lũng, khoảng trống giữa các ngọn đồi.\n- 山谷 (sangai): Thung "
+  },
+  "comments": [
+    {
+      "id": "157022",
+      "lang": "vi",
+      "content_html": "<p>Giữa thung lũng có một ngôi nhà.</p>",
+      "content_text": "Giữa thung lũng có một ngôi nhà.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157023",
+      "lang": "vi",
+      "content_html": "<p>Trong thung lũng có tám Nhân Khẩu</p>",
+      "content_text": "Trong thung lũng có tám Nhân Khẩu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157024",
+      "lang": "vi",
+      "content_html": "<p>Tượng hình: Có ngôi nhà ở thâm sơn cùng cốc 谷.</p>",
+      "content_text": "Tượng hình: Có ngôi nhà ở thâm sơn cùng cốc 谷.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

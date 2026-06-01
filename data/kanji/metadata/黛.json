@@ -1,0 +1,50 @@
+{
+  "kanji": "黛",
+  "meta": {
+    "weight": 3029,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ"
+    ],
+    "kun": [
+      "まゆずみ"
+    ],
+    "am_han": "ĐẠI"
+  },
+  "meaning": {
+    "vi": "lông mày đen",
+    "en": "blackened eyebrows"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/黛.svg"
+  },
+  "frequency": 2254,
+  "examples": [],
+  "explanation": {
+    "id": "4989",
+    "text": "黛 (đọc là \"tai\") có nghĩa là \"màu đen\" hoặc \"đen thẫm\", thường liên quan đến màu sắc của lông mày hoặc tóc. \n\nVí dụ:\n- 黛眉 (taibi): Lông mày đen, thường được dùng để chỉ vẻ đẹp.\n- 黛色 (taiiro)"
+  },
+  "comments": [
+    {
+      "id": "158113",
+      "lang": "vi",
+      "content_html": "<p>Thời ĐẠI người đứng làm giặc đen như lông mày</p>",
+      "content_text": "Thời ĐẠI người đứng làm giặc đen như lông mày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

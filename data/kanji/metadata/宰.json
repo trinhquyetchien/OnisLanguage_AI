@@ -1,0 +1,85 @@
+{
+  "kanji": "宰",
+  "meta": {
+    "weight": 726,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [],
+    "am_han": "TỂ"
+  },
+  "meaning": {
+    "vi": "giám đốc, quản lý, quy tắc",
+    "en": "superintend, manager, rule"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/宰.svg"
+  },
+  "frequency": 1597,
+  "examples": [
+    "主宰",
+    "宰相"
+  ],
+  "explanation": {
+    "id": "2791",
+    "text": "宰 (đọc là \"sai\") có nghĩa là \"chúa tể\", \"người cai quản\" để chỉ các hành động liên quan đến việc lãnh đạo hoặc quản lý.\n\nVí dụ:\n- 宰相 (saishō): Thủ tướng, người đứng đầu chính phủ.\n- 宰執 (saij"
+  },
+  "comments": [
+    {
+      "id": "152968",
+      "lang": "vi",
+      "content_html": "<p>ăn Cay nhất nhà là chúa TỂ</p>",
+      "content_text": "ăn Cay nhất nhà là chúa TỂ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152969",
+      "lang": "vi",
+      "content_html": "<p>tuy tể tướng làm việc trong nhà nhưng công việc phải ngậm đắng nuốt cay</p>",
+      "content_text": "tuy tể tướng làm việc trong nhà nhưng công việc phải ngậm đắng nuốt cay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152970",
+      "lang": "vi",
+      "content_html": "<p>Tể tướng là người ăn ớt Cay nhất cái nhà này</p>",
+      "content_text": "Tể tướng là người ăn ớt Cay nhất cái nhà này",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

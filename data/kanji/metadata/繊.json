@@ -1,0 +1,88 @@
+{
+  "kanji": "繊",
+  "meta": {
+    "weight": 2114,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [],
+    "am_han": "TIÊM"
+  },
+  "meaning": {
+    "vi": "kimono mảnh, mịn, mỏng",
+    "en": "slender, fine, thin kimono"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/繊.svg"
+  },
+  "frequency": 1451,
+  "examples": [
+    "繊維",
+    "繊細",
+    "繊",
+    "化繊",
+    "合繊"
+  ],
+  "explanation": {
+    "id": "4538",
+    "text": "繊 (đọc là \"sen\") có nghĩa là \"mỏng manh\", \"tinh tế\", thường dùng để chỉ các vật liệu nhẹ, mảnh mai hoặc cảm xúc tinh tế.  \nVí dụ:  \n- 繊維 (sen'i): Sợi, chất xơ.  \n- 繊細 (sensai): Tinh tế, nhạy"
+  },
+  "comments": [
+    {
+      "id": "156151",
+      "lang": "vi",
+      "content_html": "<p>Muốn TIÊM được em Mịch THANH MẢNH thì phải vượt qua 10 thằng đang xếp hàng</p>",
+      "content_text": "Muốn TIÊM được em Mịch THANH MẢNH thì phải vượt qua 10 thằng đang xếp hàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156152",
+      "lang": "vi",
+      "content_html": "<p>chiến đấu với đất để sợi chỉ có thể đứng bình thường được</p>",
+      "content_text": "chiến đấu với đất để sợi chỉ có thể đứng bình thường được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156153",
+      "lang": "vi",
+      "content_html": "<p>mũi tiêm thanh mảnh qua 10 sợi tơ xếp hàng</p>",
+      "content_text": "mũi tiêm thanh mảnh qua 10 sợi tơ xếp hàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

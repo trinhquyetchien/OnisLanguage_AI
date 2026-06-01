@@ -1,0 +1,126 @@
+{
+  "kanji": "落",
+  "meta": {
+    "weight": 2306,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ラク"
+    ],
+    "kun": [
+      "お.ちる",
+      "お.ち",
+      "お.とす"
+    ],
+    "am_han": "LẠC"
+  },
+  "meaning": {
+    "vi": "rơi",
+    "en": "fall, drop, come down, village, hamlet"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/落.svg"
+  },
+  "frequency": 420,
+  "examples": [
+    "落ち",
+    "落とし",
+    "下落",
+    "落ちる",
+    "落とす"
+  ],
+  "explanation": {
+    "id": "7965",
+    "text": "落 (đọc là \"raku\" hoặc \"ochiru\") có nghĩa là \"rơi\", \"xuống\", để chỉ hành động rơi xuống hoặc giảm đi.  \nVí dụ:  \n- 落ちる (ochiru): Rơi, ngã.  \n- 落下 (rakka): Sự rơi, rơi xuống.  \n- 落語 (rakugo): "
+  },
+  "comments": [
+    {
+      "id": "156557",
+      "lang": "vi",
+      "content_html": "<p>nghe Các vị bị Lạc xuống vực kể rằng: đã lấy nước từ cỏ để uống</p>",
+      "content_text": "nghe Các vị bị Lạc xuống vực kể rằng: đã lấy nước từ cỏ để uống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190654",
+      "lang": "vi",
+      "content_html": "<p>chốn Hoa rơi nước chảy Các vị sẽ bị Lạc rơi</p>",
+      "content_text": "chốn Hoa rơi nước chảy Các vị sẽ bị Lạc rơi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156558",
+      "lang": "vi",
+      "content_html": "<p>Hoa 艹 rơi nước 氵chảy vị khách 各 LẠC vào khung cảnh hữu tình</p>",
+      "content_text": "Hoa 艹 rơi nước 氵chảy vị khách 各 LẠC vào khung cảnh hữu tình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222002",
+      "lang": "vi",
+      "content_html": "<p><strong>Hoa \"rơi\" </strong>hữu ý, <strong>nước </strong>chảy vô tình.&nbsp;<strong>&nbsp;</strong></p>",
+      "content_text": "Hoa \"rơi\"\nhữu ý,\nnước\nchảy vô tình.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    },
+    {
+      "id": "156559",
+      "lang": "vi",
+      "content_html": "<p>CÁC vị hãy lấy NƯỚC tưới cho HOA nếu không nó sẽ rụng lá mà LẠC sắc</p>",
+      "content_text": "CÁC vị hãy lấy NƯỚC tưới cho HOA nếu không nó sẽ rụng lá mà LẠC sắc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

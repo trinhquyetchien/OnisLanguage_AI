@@ -1,0 +1,90 @@
+{
+  "kanji": "豪",
+  "meta": {
+    "weight": 2539,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴウ"
+    ],
+    "kun": [
+      "えら.い"
+    ],
+    "am_han": "HÀO"
+  },
+  "meaning": {
+    "vi": "chế ngự, vĩ đại, mạnh mẽ, xuất sắc, Úc",
+    "en": "overpowering, great, powerful, excelling, Australia"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/豪.svg"
+  },
+  "frequency": 1104,
+  "examples": [
+    "豪華",
+    "豪",
+    "強豪",
+    "豪州",
+    "富豪"
+  ],
+  "explanation": {
+    "id": "2619",
+    "text": "豪 (đọc là \"gō\" hoặc \"go\") có nghĩa là \"hào phóng\", \"mạnh mẽ\", \"vĩ đại\" để chỉ sự giàu có hoặc sự hùng mạnh.  \nVí dụ:  \n- 豪華 (gōka): Sang trọng, xa hoa.  \n- 豪族 (gōzoku): Gia tộc quyền quý, hà"
+  },
+  "comments": [
+    {
+      "id": "157037",
+      "lang": "vi",
+      "content_html": "<p>Nhà cao nuôi lợn thể hiện là hào gia giàu có</p>",
+      "content_text": "Nhà cao nuôi lợn thể hiện là hào gia giàu có",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157038",
+      "lang": "vi",
+      "content_html": "<p>Nhà cao nuôi Lợn là cường Hào</p>",
+      "content_text": "Nhà cao nuôi Lợn là cường Hào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157039",
+      "lang": "vi",
+      "content_html": "<p>Nhà giàu thường có nhà cao cửa rộng và nuôi nhiều heo</p>",
+      "content_text": "Nhà giàu thường có nhà cao cửa rộng và nuôi nhiều heo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

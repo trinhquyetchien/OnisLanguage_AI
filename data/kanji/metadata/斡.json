@@ -1,0 +1,53 @@
+{
+  "kanji": "斡",
+  "meta": {
+    "weight": 1193,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アツ",
+      "カン",
+      "ワツ"
+    ],
+    "kun": [
+      "めぐ.る",
+      "めぐ.らす"
+    ],
+    "am_han": "OÁT, QUẢN"
+  },
+  "meaning": {
+    "vi": "đi xung quanh, cai trị, quản lý",
+    "en": "go around, rule, administer"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/斡.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "58",
+    "text": "斡 (đọc là \"atsu\") có nghĩa là \"chuyển động\", \"quản lý\" để chỉ các hành động liên quan đến việc điều hành, quản lý hoặc luân chuyển.\n\nVí dụ:\n- 斡旋 (assen): Môi giới, trung gian.\n- 斡旋者 (assen-s"
+  },
+  "comments": [
+    {
+      "id": "219707",
+      "lang": "vi",
+      "content_html": "<p>câu trúc được quan quản lí</p>",
+      "content_text": "câu trúc được quan quản lí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

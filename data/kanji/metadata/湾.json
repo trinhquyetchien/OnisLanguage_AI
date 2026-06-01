@@ -1,0 +1,90 @@
+{
+  "kanji": "湾",
+  "meta": {
+    "weight": 1587,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ワン"
+    ],
+    "kun": [
+      "いりえ"
+    ],
+    "am_han": "LOAN"
+  },
+  "meaning": {
+    "vi": "vịnh",
+    "en": "gulf, bay, inlet"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/湾.svg"
+  },
+  "frequency": 545,
+  "examples": [
+    "台湾",
+    "湾",
+    "湾岸",
+    "港湾",
+    "湾曲"
+  ],
+  "explanation": {
+    "id": "8433",
+    "text": "湾 (đọc là \"wan\") có nghĩa là \"vịnh\" để chỉ các khu vực nước bị cong hoặc lõm vào đất liền, thường dùng để nói về các vùng biển hoặc hồ.\n\nVí dụ:\n- 湾岸 (wangan): Bờ vịnh.\n- 湾曲 (wankyoku): Hình "
+  },
+  "comments": [
+    {
+      "id": "155007",
+      "lang": "vi",
+      "content_html": "<p>vịnh đài Loan có dòng nước màu đỏ hình vòng Cung</p>",
+      "content_text": "vịnh đài Loan có dòng nước màu đỏ hình vòng Cung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155008",
+      "lang": "vi",
+      "content_html": "<p>Trong hoàng Cung có vịnh Nước toàn màu Đỏ</p>",
+      "content_text": "Trong hoàng Cung có vịnh Nước toàn màu Đỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155009",
+      "lang": "vi",
+      "content_html": "<p>Họ DIỆC muốn quay lại Đài Loan (台湾) phải đi theo hình vòng cung bằng đường thuỷ</p>",
+      "content_text": "Họ DIỆC muốn quay lại Đài Loan (台湾) phải đi theo hình vòng cung bằng đường thuỷ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

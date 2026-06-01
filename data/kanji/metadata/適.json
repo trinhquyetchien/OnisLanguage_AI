@@ -1,0 +1,90 @@
+{
+  "kanji": "適",
+  "meta": {
+    "weight": 2685,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テキ"
+    ],
+    "kun": [
+      "かな.う"
+    ],
+    "am_han": "THÍCH"
+  },
+  "meaning": {
+    "vi": "thích hợp",
+    "en": "suitable, occasional, rare, qualified, capable"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/適.svg"
+  },
+  "frequency": 670,
+  "examples": [
+    "適用",
+    "適切",
+    "適当",
+    "最適",
+    "快適"
+  ],
+  "explanation": {
+    "id": "5626",
+    "text": "適 (đọc là \"teki\" hoặc \"taku\") có nghĩa là \"thích hợp\", \"phù hợp\", để chỉ sự tương thích hoặc sự phù hợp với một điều kiện nào đó.  \nVí dụ:  \n- 適切 (tekisetsu): Thích hợp, phù hợp.  \n- 適応 (tek"
+  },
+  "comments": [
+    {
+      "id": "157396",
+      "lang": "vi",
+      "content_html": "<p>Thích đứng và đi xung quanh cái bình Cổ quen thuộc.</p>",
+      "content_text": "Thích đứng và đi xung quanh cái bình Cổ quen thuộc.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157397",
+      "lang": "vi",
+      "content_html": "<p>con đường này rất phù hợp để vận chuyển những chiếc bình cổ</p>",
+      "content_text": "con đường này rất phù hợp để vận chuyển những chiếc bình cổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157398",
+      "lang": "vi",
+      "content_html": "<p>ta THÍCH ĐỨNG và BƯỚC ĐI trên VÙNG ĐẤT CỔ</p>",
+      "content_text": "ta THÍCH ĐỨNG và BƯỚC ĐI trên VÙNG ĐẤT CỔ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

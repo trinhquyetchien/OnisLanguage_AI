@@ -1,0 +1,109 @@
+{
+  "kanji": "天",
+  "meta": {
+    "weight": 624,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テン"
+    ],
+    "kun": [
+      "あまつ",
+      "あめ",
+      "あま-"
+    ],
+    "am_han": "THIÊN"
+  },
+  "meaning": {
+    "vi": "bầu trời, thiên đường",
+    "en": "heavens, sky, imperial"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/天.svg"
+  },
+  "frequency": 512,
+  "examples": [
+    "天気",
+    "天",
+    "天皇",
+    "楽天",
+    "天然"
+  ],
+  "explanation": {
+    "id": "5654",
+    "text": "天 (đọc là \"ten\") có nghĩa là \"trời\" hoặc \"bầu trời\", thường chỉ các khái niệm liên quan đến thiên nhiên hoặc sức mạnh vượt trội.  \nVí dụ:  \n- 天気 (tenki): Thời tiết.  \n- 天使 (tenshi): Thiên th"
+  },
+  "comments": [
+    {
+      "id": "755",
+      "lang": "vi",
+      "content_html": "<p>Dang rộng đôi tay ngước nhìn <strong>trời</strong>.</p>",
+      "content_text": "Dang rộng đôi tay ngước nhìn\ntrời\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62984c385558a.jpg",
+      "image_path": "assets/images/天_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152731",
+      "lang": "vi",
+      "content_html": "<p>Thứ to 大 lớn nhất 一 chính là ông trời 天</p>",
+      "content_text": "Thứ to 大 lớn nhất 一 chính là ông trời 天",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158461",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>天気 (てんき): thời tiết</p>",
+      "content_text": "JLPT N5\n天気 (てんき): thời tiết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "222370",
+      "lang": "vi",
+      "content_html": "<p>天才　てんさい　Thiên tài</p>",
+      "content_text": "天才　てんさい　Thiên tài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "9810",
+        "name": "Hạnh Hạnh",
+        "image_url": "https://jpdictionary.com/upload/images/693795a72fd75.png"
+      }
+    }
+  ]
+}

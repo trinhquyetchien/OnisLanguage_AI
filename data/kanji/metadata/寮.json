@@ -1,0 +1,85 @@
+{
+  "kanji": "寮",
+  "meta": {
+    "weight": 746,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [],
+    "am_han": "LIÊU"
+  },
+  "meaning": {
+    "vi": "ký túc xá, biệt thự, hiệu trà",
+    "en": "dormitory, hostel, villa, tea pavillion"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/寮.svg"
+  },
+  "frequency": 1705,
+  "examples": [
+    "寮",
+    "寮生"
+  ],
+  "explanation": {
+    "id": "8105",
+    "text": "寮 (đọc là \"ryō\") có nghĩa là \"kí túc xá\" hoặc \"nhà trọ\", chỉ các cơ sở nơi cư trú tập trung cho sinh viên hoặc công nhân.  \nVí dụ:  \n- 寮生活 (ryōseikatsu): Cuộc sống trong kí túc xá.  \n- 学生寮 ("
+  },
+  "comments": [
+    {
+      "id": "153025",
+      "lang": "vi",
+      "content_html": "<p>寮: Có mái nhà là kí túc xá<br>療: Bị bệnh thì phải điều trị<br>僚: Người quan liêu</p>",
+      "content_text": "寮: Có mái nhà là kí túc xá\n療: Bị bệnh thì phải điều trị\n僚: Người quan liêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153026",
+      "lang": "vi",
+      "content_html": "<p>miên+đại+nhật+tiểu=&#62; Đại tiểu đồng liêu(đồng nghiệp) ở cùng nhautrong kí túc xá!</p>",
+      "content_text": "miên+đại+nhật+tiểu=> Đại tiểu đồng liêu(đồng nghiệp) ở cùng nhautrong kí túc xá!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153027",
+      "lang": "vi",
+      "content_html": "<p>Người từ nhỏ tới to cùng ở vói nhau cả ngày trong ngôi nhà là ký túc liêu xá</p>",
+      "content_text": "Người từ nhỏ tới to cùng ở vói nhau cả ngày trong ngôi nhà là ký túc liêu xá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "気",
+  "meta": {
+    "weight": 1479,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ",
+      "ケ"
+    ],
+    "kun": [
+      "き"
+    ],
+    "am_han": "KHÍ"
+  },
+  "meaning": {
+    "vi": "tinh thần, khí chất",
+    "en": "spirit, mind, air, atmosphere, mood"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/気.svg"
+  },
+  "frequency": 113,
+  "examples": [
+    "気",
+    "気持ち",
+    "人気",
+    "気分",
+    "雰囲気"
+  ],
+  "explanation": {
+    "id": "1333",
+    "text": "気 (đọc là \"ki\") có nghĩa là \"khí\", \"tinh thần\" hoặc \"cảm xúc\", thường được dùng để chỉ trạng thái tâm lý, năng lượng sống hay khí chất của con người.\n\nVí dụ:\n- 気持ち (kimochi): Cảm giác, tâm t"
+  },
+  "comments": [
+    {
+      "id": "191083",
+      "lang": "vi",
+      "content_html": "<p><strong>khí</strong></p><p>空気（くうき）：không khí</p>",
+      "content_text": "khí\n空気（くうき）：không khí",
+      "image_url": "https://jpdictionary.com/upload/images/648abe44d65fb.jpg",
+      "image_path": "assets/images/気_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "587",
+      "lang": "vi",
+      "content_html": "<p>Nếu bạn thở ra mạnh thì không chừng <strong>tinh thần</strong> bạn sẽ lên cao.</p>",
+      "content_text": "Nếu bạn thở ra mạnh thì không chừng\ntinh thần\nbạn sẽ lên cao.",
+      "image_url": "https://jpdictionary.com/upload/images/6297826370844.jpg",
+      "image_path": "assets/images/気_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154750",
+      "lang": "vi",
+      "content_html": "<p>nằm trên một sườn núi ngược được đánh dấu X thật là khí phách</p>",
+      "content_text": "nằm trên một sườn núi ngược được đánh dấu X thật là khí phách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

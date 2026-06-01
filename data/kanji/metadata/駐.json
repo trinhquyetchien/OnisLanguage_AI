@@ -1,0 +1,105 @@
+{
+  "kanji": "駐",
+  "meta": {
+    "weight": 2951,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [],
+    "am_han": "TRÚ"
+  },
+  "meaning": {
+    "vi": "dừng lại, cư trú",
+    "en": "stop-over, reside in, resident"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/駐.svg"
+  },
+  "frequency": 955,
+  "examples": [
+    "駐車",
+    "駐在",
+    "駐留",
+    "常駐",
+    "駐屯"
+  ],
+  "explanation": {
+    "id": "5307",
+    "text": "駐 (đọc là \"chuu\") có nghĩa là \"đậu lại\", \"ở lại\" để chỉ hành động đứng yên hoặc lưu trú tại một địa điểm nhất định.\n\nVí dụ:\n- 駐車場 (chuusha jou): Bãi đỗ xe.\n- 駐在 (chuzai): Ở lại, lưu trú.\n- 駐"
+  },
+  "comments": [
+    {
+      "id": "37294",
+      "lang": "vi",
+      "content_html": "<p>Ông chủ (主) và con ngựa (馬) đang <strong>cư trú </strong>ở đây.</p>",
+      "content_text": "Ông chủ (主) và con ngựa (馬) đang\ncư trú\nở đây.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe140112b1.jpg",
+      "image_path": "assets/images/駐_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157986",
+      "lang": "vi",
+      "content_html": "<p>Con ngựa mà ở gần ông chủ thì lúc nào cũng có chổ trú</p>",
+      "content_text": "Con ngựa mà ở gần ông chủ thì lúc nào cũng có chổ trú",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157987",
+      "lang": "vi",
+      "content_html": "<p>Ngựa TRÚ bên cạnh chủ.</p>",
+      "content_text": "Ngựa TRÚ bên cạnh chủ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157988",
+      "lang": "vi",
+      "content_html": "<p>Con ngựa và người chủ tìm nơi lưu TRÚ</p>",
+      "content_text": "Con ngựa và người chủ tìm nơi lưu TRÚ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

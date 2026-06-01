@@ -1,0 +1,108 @@
+{
+  "kanji": "観",
+  "meta": {
+    "weight": 2448,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "み.る",
+      "しめ.す"
+    ],
+    "am_han": "QUAN"
+  },
+  "meaning": {
+    "vi": "quan sát, tham quan",
+    "en": "outlook, look, appearance, condition, view"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/観.svg"
+  },
+  "frequency": 476,
+  "examples": [
+    "観",
+    "観光",
+    "観点",
+    "観察",
+    "観客"
+  ],
+  "explanation": {
+    "id": "1179",
+    "text": "観 (đọc là \"kan\") có nghĩa là \"quan sát\", \"nhìn nhận\" để chỉ các hành động liên quan đến việc nhìn, thưởng thức hoặc đánh giá.  \nVí dụ:  \n- 観光 (kankou): Du lịch, tham quan.  \n- 観察 (kansatsu):"
+  },
+  "comments": [
+    {
+      "id": "156813",
+      "lang": "vi",
+      "content_html": "<p>Dùng MẮT QUAN sát vẻ ngoài của con CHIM đang nằm</p>",
+      "content_text": "Dùng MẮT QUAN sát vẻ ngoài của con CHIM đang nằm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191183",
+      "lang": "vi",
+      "content_html": "<p><strong>quan sát</strong></p>",
+      "content_text": "quan sát",
+      "image_url": "https://jpdictionary.com/upload/images/648ad73d79284.jpg",
+      "image_path": "assets/images/観_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "156814",
+      "lang": "vi",
+      "content_html": "<p>nằm quan sát 1 conchim</p>",
+      "content_text": "nằm quan sát 1 conchim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156815",
+      "lang": "vi",
+      "content_html": "<p>thằng đang nằm dài dùng tay vuốt con chim và quan sát xem có ai đến hay ko</p>",
+      "content_text": "thằng đang nằm dài dùng tay vuốt con chim và quan sát xem có ai đến hay ko",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

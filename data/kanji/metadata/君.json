@@ -1,0 +1,108 @@
+{
+  "kanji": "君",
+  "meta": {
+    "weight": 458,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "クン"
+    ],
+    "kun": [
+      "きみ",
+      "-ぎみ"
+    ],
+    "am_han": "QUÂN"
+  },
+  "meaning": {
+    "vi": "bạn, quân vương",
+    "en": "mister, you, ruler, male name suffix"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/君.svg"
+  },
+  "frequency": 947,
+  "examples": [
+    "君",
+    "諸君",
+    "君たち",
+    "君が代",
+    "君主"
+  ],
+  "explanation": {
+    "id": "1905",
+    "text": "君 (đọc là \"kun\") có nghĩa là \"quý ngài\", \"người\" để chỉ một cách thân mật hoặc kính trọng đối với người khác, thường dùng trong ngữ cảnh chỉ kẻ dưới hay bạn bè.\n\nVí dụ:\n- 君主 (kunshu): Quân c"
+  },
+  "comments": [
+    {
+      "id": "37334",
+      "lang": "vi",
+      "content_html": "<p><strong>Nhà vua </strong>ra lệnh bằng cây trượng và miệng (口).</p>",
+      "content_text": "Nhà vua\nra lệnh bằng cây trượng và miệng (口).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe751aa809.jpg",
+      "image_path": "assets/images/君_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152334",
+      "lang": "vi",
+      "content_html": "<p>Quân là Em. Em chính là コ+ロ+ナ(君) (コロナ2020)</p>",
+      "content_text": "Quân là Em. Em chính là コ+ロ+ナ(君) (コロナ2020)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152335",
+      "lang": "vi",
+      "content_html": "<p>Đạo làm Quân trong tay cầm Giáo phải làm theo lẽ Phải!</p>",
+      "content_text": "Đạo làm Quân trong tay cầm Giáo phải làm theo lẽ Phải!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152336",
+      "lang": "vi",
+      "content_html": "<p>尹 DUẪN, DOÃN (trị, chính) ==&#62; sửa chữa, thay đổi những việc chính, quan trọng. <br>口 KHẨU (miệng) ==&#62; có tiếng nói.<br>==&#62; Muốn làm vua phải có tiếng nói và làm những việc chính, quan trọng để sửa chữa và cải cách đất nước tốt hơn.</p>",
+      "content_text": "尹 DUẪN, DOÃN (trị, chính) ==> sửa chữa, thay đổi những việc chính, quan trọng.\n口 KHẨU (miệng) ==> có tiếng nói.\n==> Muốn làm vua phải có tiếng nói và làm những việc chính, quan trọng để sửa chữa và cải cách đất nước tốt hơn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

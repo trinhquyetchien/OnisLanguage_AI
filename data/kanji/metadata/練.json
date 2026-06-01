@@ -1,0 +1,108 @@
+{
+  "kanji": "練",
+  "meta": {
+    "weight": 2104,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レン"
+    ],
+    "kun": [
+      "ね.る",
+      "ね.り"
+    ],
+    "am_han": "LUYỆN"
+  },
+  "meaning": {
+    "vi": "thực hành, luyện tập",
+    "en": "practice, gloss, train, drill, polish, refine"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/練.svg"
+  },
+  "frequency": 788,
+  "examples": [
+    "練習",
+    "訓練",
+    "洗練",
+    "試練",
+    "熟練"
+  ],
+  "explanation": {
+    "id": "8286",
+    "text": "練 (đọc là \"ren\") có nghĩa là \"luyện tập\", \"rèn giũa\" để chỉ các hành động liên quan đến việc luyện tập hoặc cải thiện kỹ năng.\n\nVí dụ:\n- 練習 (renshū): Luyện tập, thực hành.\n- 練る (neru): Nhào "
+  },
+  "comments": [
+    {
+      "id": "37072",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã <strong>luyện tập</strong> kéo chỉ (糸) ở phía Đông (東).</p>",
+      "content_text": "Tôi đã\nluyện tập\nkéo chỉ (糸) ở phía Đông (東).",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb082b2de0.jpg",
+      "image_path": "assets/images/練_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156119",
+      "lang": "vi",
+      "content_html": "<p>Đông(東) phương bất bại dùng sợi Chỉ (糸) để Luyện (練) tịch tà kiếm phổ</p>",
+      "content_text": "Đông(東) phương bất bại dùng sợi Chỉ (糸) để Luyện (練) tịch tà kiếm phổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156120",
+      "lang": "vi",
+      "content_html": "<p>Muốn luyện võ thì mang theo quận dây rồi hướng về PHÍA ĐÔNG</p>",
+      "content_text": "Muốn luyện võ thì mang theo quận dây rồi hướng về PHÍA ĐÔNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156121",
+      "lang": "vi",
+      "content_html": "<p>Chỉ Luyện tập phía Đông</p>",
+      "content_text": "Chỉ Luyện tập phía Đông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

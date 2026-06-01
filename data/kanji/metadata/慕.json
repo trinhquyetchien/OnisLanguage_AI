@@ -1,0 +1,86 @@
+{
+  "kanji": "慕",
+  "meta": {
+    "weight": 1006,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボ"
+    ],
+    "kun": [
+      "した.う"
+    ],
+    "am_han": "MỘ"
+  },
+  "meaning": {
+    "vi": "pining, khao khát, yêu tha thiết, yêu mến",
+    "en": "pining, yearn for, love dearly, adore"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/慕.svg"
+  },
+  "frequency": 2100,
+  "examples": [
+    "慕う"
+  ],
+  "explanation": {
+    "id": "7120",
+    "text": "慕 (đọc là \"bo\") có nghĩa là \"tôn sùng\", \"khao khát\" để chỉ sự ngưỡng mộ hoặc ao ước về một điều gì đó, thường liên quan đến tình cảm.\n\nVí dụ:\n- 慕情 (bojō): Tình cảm ngưỡng mộ, cảm xúc chân th"
+  },
+  "comments": [
+    {
+      "id": "153682",
+      "lang": "vi",
+      "content_html": "<p>Cỏ hâm MỘ mặt trời vì mặt trời có trái tim lớn.</p>",
+      "content_text": "Cỏ hâm MỘ mặt trời vì mặt trời có trái tim lớn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153683",
+      "lang": "vi",
+      "content_html": "<p>Hoa ngày ngày dù to hay nhỏ cũng đc mọi ng ái MỘ</p>",
+      "content_text": "Hoa ngày ngày dù to hay nhỏ cũng đc mọi ng ái MỘ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153684",
+      "lang": "vi",
+      "content_html": "<p>Ngưỡng mộ (慕)vì cây cỏ bị mặt trời (日)lớn (大)đốt mà vẫn không chế</p>",
+      "content_text": "Ngưỡng mộ (慕)vì cây cỏ bị mặt trời (日)lớn (大)đốt mà vẫn không chế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

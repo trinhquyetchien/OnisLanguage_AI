@@ -1,0 +1,91 @@
+{
+  "kanji": "某",
+  "meta": {
+    "weight": 1320,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [
+      "それがし",
+      "なにがし"
+    ],
+    "am_han": "MỖ"
+  },
+  "meaning": {
+    "vi": "so-and-so, một, một nhất định, người đó",
+    "en": "so-and-so, one, a certain, that person"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/某.svg"
+  },
+  "frequency": 2106,
+  "examples": [
+    "某",
+    "某所",
+    "某社",
+    "某氏",
+    "某国"
+  ],
+  "explanation": {
+    "id": "7276",
+    "text": "某 (đọc là \"bō\") có nghĩa là \"một người nào đó\" hoặc \"cái gì đó không rõ ràng\" để chỉ một cá nhân hoặc sự vật không được xác định cụ thể.\n\nVí dụ:\n- 某所 (bōsho): Một nơi nào đó, địa điểm không "
+  },
+  "comments": [
+    {
+      "id": "154451",
+      "lang": "vi",
+      "content_html": "<p>cây cam ngọt của ÔNG MỖ NÀO ĐÓ</p>",
+      "content_text": "cây cam ngọt của ÔNG MỖ NÀO ĐÓ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154452",
+      "lang": "vi",
+      "content_html": "<p>đang âm Mưu (謀) mà không nói (言) thì chính là anh ta (Mỗ)</p>",
+      "content_text": "đang âm Mưu (謀) mà không nói (言) thì chính là anh ta (Mỗ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154453",
+      "lang": "vi",
+      "content_html": "<p>Anh ta trèo lên cây hái quả cam thì bị chim mổ</p>",
+      "content_text": "Anh ta trèo lên cây hái quả cam thì bị chim mổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

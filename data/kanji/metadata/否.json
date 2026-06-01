@@ -1,0 +1,91 @@
+{
+  "kanji": "否",
+  "meta": {
+    "weight": 461,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "いな",
+      "いや"
+    ],
+    "am_han": "PHỦ"
+  },
+  "meaning": {
+    "vi": "phủ định",
+    "en": "negate, no, noes, refuse, decline, deny"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/否.svg"
+  },
+  "frequency": 561,
+  "examples": [
+    "否定",
+    "拒否",
+    "否",
+    "賛否",
+    "否決"
+  ],
+  "explanation": {
+    "id": "6533",
+    "text": "否 (đọc là \"hi\") có nghĩa là \"không\", \"phủ định\" để chỉ sự bác bỏ hoặc không đồng ý với điều gì đó.\n\nVí dụ:\n- 否定 (hitei): Sự phủ định, bác bỏ.\n- 否認 (hinin): Phủ nhận, từ chối thừa nhận.\n- 否決 "
+  },
+  "comments": [
+    {
+      "id": "152340",
+      "lang": "vi",
+      "content_html": "<p>Phủ nhận lời nói từ miệng</p>",
+      "content_text": "Phủ nhận lời nói từ miệng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152341",
+      "lang": "vi",
+      "content_html": "<p>Mồm (口) mà cứ nói Không (不) là Phủ</p>",
+      "content_text": "Mồm (口) mà cứ nói Không (不) là Phủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152342",
+      "lang": "vi",
+      "content_html": "<p>PHỦ nhận BẤT kì lời nào từ MIỆNG</p>",
+      "content_text": "PHỦ nhận BẤT kì lời nào từ MIỆNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "kanji": "爪",
+  "meta": {
+    "weight": 1681,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "つめ",
+      "つま-"
+    ],
+    "am_han": "TRẢO"
+  },
+  "meaning": {
+    "vi": "móng vuốt, móng tay, talon",
+    "en": "claw, nail, talon"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/爪.svg"
+  },
+  "frequency": 2025,
+  "examples": [
+    "爪"
+  ],
+  "explanation": {
+    "id": "5508",
+    "text": "爪 (đọc là \"tsume\") có nghĩa là \"móng\" để chỉ các bộ phận sắc nhọn của động vật hoặc con người.\n\nVí dụ:\n- 爪切り (tsume kiri): Kéo cắt móng tay.\n- 爪先 (tsumesaki): Đầu ngón tay, ngón chân.\n- 指爪 ("
+  },
+  "comments": [
+    {
+      "id": "155215",
+      "lang": "vi",
+      "content_html": "<p>MÓNG tay cào lên TRẢO để lại 3 vết xước dài</p>",
+      "content_text": "MÓNG tay cào lên TRẢO để lại 3 vết xước dài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155216",
+      "lang": "vi",
+      "content_html": "<p>long trảo thủ ( móng tay của rồng)、là miếng võ dùng móng tay để cào nhau của đàn bà, sau khi cào để lại 3 vết</p>",
+      "content_text": "long trảo thủ ( móng tay của rồng)、là miếng võ dùng móng tay để cào nhau của đàn bà, sau khi cào để lại 3 vết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

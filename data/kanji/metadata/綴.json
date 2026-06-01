@@ -1,0 +1,60 @@
+{
+  "kanji": "綴",
+  "meta": {
+    "weight": 2089,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ",
+      "テツ",
+      "テチ",
+      "ゲツ"
+    ],
+    "kun": [
+      "と.じる",
+      "つづ.る",
+      "つづり",
+      "すみ.やか"
+    ],
+    "am_han": "CHUẾ, CHUYẾT, XUYẾT"
+  },
+  "meaning": {
+    "vi": "soạn, đánh vần, viết, ràng buộc (sách)",
+    "en": "compose, spell, write, bind (books)"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/綴.svg"
+  },
+  "frequency": 2149,
+  "examples": [
+    "綴り",
+    "綴る",
+    "綴"
+  ],
+  "explanation": {
+    "id": "5491",
+    "text": "綴 (đọc là \"tsuzuru\") có nghĩa là \"gắn kết\", \"kết nối\" để chỉ các hành động liên quan đến việc liên kết, ghi chép hoặc tạo thành một cái gì đó hoàn chỉnh.\n\nVí dụ:\n- 綴じる (tojiru): Gắn kết, đón"
+  },
+  "comments": [
+    {
+      "id": "156081",
+      "lang": "vi",
+      "content_html": "<p>4 cái TAY bị Ghim XUYẾT lại với sợi chỉ , bỏ mãi ko ra !</p>",
+      "content_text": "4 cái TAY bị Ghim XUYẾT lại với sợi chỉ , bỏ mãi ko ra !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

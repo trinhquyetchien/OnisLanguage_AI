@@ -1,0 +1,49 @@
+{
+  "kanji": "犀",
+  "meta": {
+    "weight": 1702,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ",
+      "セイ"
+    ],
+    "kun": [],
+    "am_han": "TÊ"
+  },
+  "meaning": {
+    "vi": "tê giác",
+    "en": "rhinocerous"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/犀.svg"
+  },
+  "frequency": 2426,
+  "examples": [],
+  "explanation": {
+    "id": "2811",
+    "text": "犀 (đọc là \"sai\") có nghĩa là \"tê giác\", chỉ loài động vật lớn, mạnh mẽ với sừng trên mũi. \n\nVí dụ:\n- 犀角 (saikaku): Sừng tê giác.\n- 犀の目 (sai no me): Mắt tê giác, thường được sử dụng trong văn"
+  },
+  "comments": [
+    {
+      "id": "155251",
+      "lang": "vi",
+      "content_html": "<p>con TRÂU đội 2 cái XÁC trên đầu là con TÊ (giác)</p>",
+      "content_text": "con TRÂU đội 2 cái XÁC trên đầu là con TÊ (giác)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

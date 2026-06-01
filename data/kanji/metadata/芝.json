@@ -1,0 +1,90 @@
+{
+  "kanji": "芝",
+  "meta": {
+    "weight": 2251,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "しば"
+    ],
+    "am_han": "CHI"
+  },
+  "meaning": {
+    "vi": "cỏ, bãi cỏ",
+    "en": "turf, lawn"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/芝.svg"
+  },
+  "frequency": 1052,
+  "examples": [
+    "芝居",
+    "芝",
+    "芝生",
+    "紙芝居",
+    "人工芝"
+  ],
+  "explanation": {
+    "id": "3309",
+    "text": "芝 (đọc là \"shi\") có nghĩa là \"cỏ\", thường chỉ về cỏ lát sân hoặc các loại cỏ nói chung. \n\nVí dụ:\n- 芝生 (shibau): Bãi cỏ, thảm cỏ.\n- 芝居 (shibai): Kịch nghệ, vở kịch.\n- 芝マウンド (shimaundo): Đường"
+  },
+  "comments": [
+    {
+      "id": "156461",
+      "lang": "vi",
+      "content_html": "<p>Bãi cỏ hình chữ z</p>",
+      "content_text": "Bãi cỏ hình chữ z",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156462",
+      "lang": "vi",
+      "content_html": "<p>mang cỏ 艹 về nhà 亠 làm CHI Zậy 乙</p>",
+      "content_text": "mang cỏ 艹 về nhà 亠 làm CHI Zậy 乙",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156463",
+      "lang": "vi",
+      "content_html": "<p>bãi cỏ hình số 1 đè số 2 là CHI  Zậy</p>",
+      "content_text": "bãi cỏ hình số 1 đè số 2 là CHI  Zậy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

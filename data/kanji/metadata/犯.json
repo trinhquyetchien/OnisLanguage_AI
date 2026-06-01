@@ -1,0 +1,91 @@
+{
+  "kanji": "犯",
+  "meta": {
+    "weight": 1705,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン",
+      "ボン"
+    ],
+    "kun": [
+      "おか.す"
+    ],
+    "am_han": "PHẠM"
+  },
+  "meaning": {
+    "vi": "tội lỗi, phạm nhân",
+    "en": "crime, sin, offense"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/犯.svg"
+  },
+  "frequency": 874,
+  "examples": [
+    "犯罪",
+    "犯人",
+    "犯",
+    "防犯",
+    "犯行"
+  ],
+  "explanation": {
+    "id": "6472",
+    "text": "犯 (đọc là \"han\") có nghĩa là \"phạm tội\", \"vi phạm\" để chỉ các hành động liên quan đến việc vi phạm pháp luật hoặc quy định.\n\nVí dụ:\n- 犯罪 (hanzai): Tội phạm, hành vi phạm tội.\n- 犯人 (hannin): "
+  },
+  "comments": [
+    {
+      "id": "155258",
+      "lang": "vi",
+      "content_html": "<p>Con chó khi phạm lỗi thường cuộn mình vào</p>",
+      "content_text": "Con chó khi phạm lỗi thường cuộn mình vào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155259",
+      "lang": "vi",
+      "content_html": "<p>Phạm nhân gục đầu vì tội trộm chó</p>",
+      "content_text": "Phạm nhân gục đầu vì tội trộm chó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155260",
+      "lang": "vi",
+      "content_html": "<p>người ăn chộm chó bị cho là phạm tội và buộc cùng với con chó để trừng phạt</p>",
+      "content_text": "người ăn chộm chó bị cho là phạm tội và buộc cùng với con chó để trừng phạt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

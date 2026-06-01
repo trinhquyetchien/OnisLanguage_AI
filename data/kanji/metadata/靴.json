@@ -1,0 +1,89 @@
+{
+  "kanji": "靴",
+  "meta": {
+    "weight": 2885,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "くつ"
+    ],
+    "am_han": "NGOA"
+  },
+  "meaning": {
+    "vi": "giày",
+    "en": "shoes"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/靴.svg"
+  },
+  "frequency": 1561,
+  "examples": [
+    "靴",
+    "靴下",
+    "長靴",
+    "革靴"
+  ],
+  "explanation": {
+    "id": "1876",
+    "text": "靴 (đọc là \"kutsu\") có nghĩa là \"giày\" để chỉ các loại giày dép mà con người mang.  \nVí dụ:\n- 靴下 (kutsushita): Tất, vớ.\n- 靴屋 (kutsuya): Cửa hàng giày.\n- スニーカー靴 (sunīka kutsu): Giày thể thao."
+  },
+  "comments": [
+    {
+      "id": "157847",
+      "lang": "vi",
+      "content_html": "<p>Da được biến hoá thành giày</p>",
+      "content_text": "Da được biến hoá thành giày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157848",
+      "lang": "vi",
+      "content_html": "<p>Giữa 中 cỏ và hoa cất giấu 1 一 đôi giày</p>",
+      "content_text": "Giữa 中 cỏ và hoa cất giấu 1 一 đôi giày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157849",
+      "lang": "vi",
+      "content_html": "<p>Đi giày DA, trên bãi CỎ, đạp phải くつ</p>",
+      "content_text": "Đi giày DA, trên bãi CỎ, đạp phải くつ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

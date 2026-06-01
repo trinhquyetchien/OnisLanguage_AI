@@ -1,0 +1,86 @@
+{
+  "kanji": "漠",
+  "meta": {
+    "weight": 1611,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バク"
+    ],
+    "kun": [],
+    "am_han": "MẠC"
+  },
+  "meaning": {
+    "vi": "mơ hồ, mờ mịt, sa mạc, rộng lớn",
+    "en": "vague, obscure, desert, wide"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/漠.svg"
+  },
+  "frequency": 1611,
+  "examples": [
+    "砂漠",
+    "沙漠",
+    "漠"
+  ],
+  "explanation": {
+    "id": "6349",
+    "text": "漠 (đọc là \"baku\") có nghĩa là \"hoang vu\", \"mênh mông\", thường chỉ những vùng đất rộng lớn, trống trải như sa mạc hoặc biển cả.\nVí dụ:\n- 漠然 (bakuzan): Mơ hồ, không rõ ràng.\n- 漠北 (Baku Hoku): "
+  },
+  "comments": [
+    {
+      "id": "155073",
+      "lang": "vi",
+      "content_html": "<p>Ban NGÀY nắng TO Cây CỎ cần phải có NƯỚC để sống sót trên Sa MẠC</p>",
+      "content_text": "Ban NGÀY nắng TO Cây CỎ cần phải có NƯỚC để sống sót trên Sa MẠC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155074",
+      "lang": "vi",
+      "content_html": "<p>莫 : Lượng lớn莫 cỏ艹 trên mặt trời 日 to 大<br>募 : Chiêu mộ 募 lượng lớn 莫 lực sĩ 力 <br>漠 : Sa mạc漠 cần một lượng lớn莫 nước 氵 <br>幕 : Mạc phủ 幕 dùng một lượng lớn莫 khăn巾<br>墓 : Mộ墓 là nơi có nhiều莫 đất土<br>暮 : Cuộc sống暮 = lượng lớn莫 ngày日<br>模 : Mô hình模 cần lượng lớn莫 gỗ木</p>",
+      "content_text": "莫 : Lượng lớn莫 cỏ艹 trên mặt trời 日 to 大\n募 : Chiêu mộ 募 lượng lớn 莫 lực sĩ 力\n漠 : Sa mạc漠 cần một lượng lớn莫 nước 氵\n幕 : Mạc phủ 幕 dùng một lượng lớn莫 khăn巾\n墓 : Mộ墓 là nơi có nhiều莫 đất土\n暮 : Cuộc sống暮 = lượng lớn莫 ngày日\n模 : Mô hình模 cần lượng lớn莫 gỗ木",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155075",
+      "lang": "vi",
+      "content_html": "<p>Sa mạc nơi chỉ có mặt trời lớn chiếu chói chang vả cỏ dại</p>",
+      "content_text": "Sa mạc nơi chỉ có mặt trời lớn chiếu chói chang vả cỏ dại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

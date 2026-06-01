@@ -1,0 +1,86 @@
+{
+  "kanji": "沃",
+  "meta": {
+    "weight": 1498,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ",
+      "ヨク",
+      "オク"
+    ],
+    "kun": [
+      "そそ.ぐ"
+    ],
+    "am_han": "ỐC"
+  },
+  "meaning": {
+    "vi": "khả năng sinh sản",
+    "en": "fertility"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/沃.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7924",
+    "text": "沃 (đọc là \"yaku\") có nghĩa là \"màu mỡ\", chỉ sự phong phú, thịnh vượng, đặc biệt trong nông nghiệp.  \nVí dụ:  \n- 沃土 (yokudo): Đất màu mỡ, đất phì nhiêu.  \n- 沃野 (yokuya): Đồng cỏ màu mỡ, vùng "
+  },
+  "comments": [
+    {
+      "id": "219915",
+      "lang": "vi",
+      "content_html": "<p>con ỐC 沃 này sống dưới THỦY 氵cung thịt rất mềm đc ng dân YÊU 夭 mếm...</p>",
+      "content_text": "con ỐC 沃 này sống dưới THỦY 氵cung thịt rất mềm đc ng dân YÊU 夭 mếm...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219916",
+      "lang": "vi",
+      "content_html": "<p>tưới nước vào con ốc đáng yêu</p>",
+      "content_text": "tưới nước vào con ốc đáng yêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219917",
+      "lang": "vi",
+      "content_html": "<p>Thuỷ Yêu tinh tưới nước cho con Ốc</p>",
+      "content_text": "Thuỷ Yêu tinh tưới nước cho con Ốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

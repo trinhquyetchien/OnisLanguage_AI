@@ -1,0 +1,48 @@
+{
+  "kanji": "麿",
+  "meta": {
+    "weight": 3024,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "まろ"
+    ],
+    "am_han": "MA"
+  },
+  "meaning": {
+    "vi": "Tôi, bạn, (kokuji)",
+    "en": "I, you, (kokuji)"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/麿.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7448",
+    "text": "麿 (đọc là \"maro\") có nghĩa là \"người đàn ông\", thường được dùng để chỉ một cách thân mật hoặc trìu mến. \n\nVí dụ:\n- 麿君 (maro-kun): Cách gọi thân mật cho một chàng trai.\n- 麿屋 (maroya): Cửa hàn"
+  },
+  "comments": [
+    {
+      "id": "221138",
+      "lang": "vi",
+      "content_html": "<p>cvhh</p>",
+      "content_text": "cvhh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

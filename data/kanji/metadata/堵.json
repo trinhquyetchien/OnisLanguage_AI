@@ -1,0 +1,67 @@
+{
+  "kanji": "堵",
+  "meta": {
+    "weight": 580,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ト"
+    ],
+    "kun": [
+      "かき"
+    ],
+    "am_han": "ĐỔ"
+  },
+  "meaning": {
+    "vi": "hàng rào, lan can, bao vây",
+    "en": "fence, railing, enclosure"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/堵.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5703",
+    "text": "堵 (đọc là \"to\") có nghĩa là \"chặn\", \"cản trở\" để chỉ các hành động liên quan đến việc ngăn chặn, cản lại hoặc đóng kín một lối đi.\n\nVí dụ:\n- 堵塞 (dōsaku): Tắc nghẽn, bị chặn.\n- 堵住 (tōjū): Bị "
+  },
+  "comments": [
+    {
+      "id": "219218",
+      "lang": "vi",
+      "content_html": "<p>Đất giả thì ĐỔ hết đi nhe</p>",
+      "content_text": "Đất giả thì ĐỔ hết đi nhe",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219219",
+      "lang": "vi",
+      "content_html": "<p>(giả) sự có đất(thổ) tức là (đổ) đạt an đỗ cũng giống như ăn cư.</p>",
+      "content_text": "(giả) sự có đất(thổ) tức là (đổ) đạt an đỗ cũng giống như ăn cư.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

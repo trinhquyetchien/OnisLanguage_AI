@@ -1,0 +1,116 @@
+{
+  "kanji": "代",
+  "meta": {
+    "weight": 143,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダイ",
+      "タイ"
+    ],
+    "kun": [
+      "か.わる",
+      "かわ.る",
+      "かわ.り",
+      "か.わり",
+      "-がわ.り",
+      "-が.わり",
+      "か.える",
+      "よ",
+      "しろ"
+    ],
+    "am_han": "ĐẠI"
+  },
+  "meaning": {
+    "vi": "đại biểu, đại diện",
+    "en": "substitute, change, convert, replace, period, age, counter for decades of ages, eras, etc., generation, charge, rate, fee"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/代.svg"
+  },
+  "frequency": 66,
+  "examples": [
+    "時代",
+    "代表",
+    "代",
+    "現代",
+    "年代"
+  ],
+  "explanation": {
+    "id": "4995",
+    "text": "代 (đọc là \"dai\" hoặc \"tai\") có nghĩa là \"thay thế\", \"thế hệ\", để chỉ việc đại diện, thay thế hoặc thời kỳ.  \nVí dụ:  \n- 代表 (daihyou): Đại diện, người đại diện.  \n- 代わり (kawari): Thay thế, sự"
+  },
+  "comments": [
+    {
+      "id": "36904",
+      "lang": "vi",
+      "content_html": "<p>\"Để tôi<strong> thay thế </strong>anh.\"</p>",
+      "content_text": "\"Để tôi\nthay thế\nanh.\"",
+      "image_url": "https://jpdictionary.com/upload/images/62bc3fc03317f.jpg",
+      "image_path": "assets/images/代_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151547",
+      "lang": "vi",
+      "content_html": "<p>thời Đại thay đổi, người trở thành Dặc</p>",
+      "content_text": "thời Đại thay đổi, người trở thành Dặc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158280",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>代わり (かわり): thay đổi<br>時代 (じだい): thời đại</p>",
+      "content_text": "JLPT N4\n代わり (かわり): thay đổi\n時代 (じだい): thời đại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221827",
+      "lang": "vi",
+      "content_html": "<p>Bộ Nhân + Dặc = Đi săn thủ lĩnh là người hành động đầu tiên =&gt; Đại biểu, đại diện (Thủ lĩnh)</p>",
+      "content_text": "Bộ Nhân + Dặc = Đi săn thủ lĩnh là người hành động đầu tiên => Đại biểu, đại diện (Thủ lĩnh)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

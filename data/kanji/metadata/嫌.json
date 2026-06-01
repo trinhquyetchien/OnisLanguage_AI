@@ -1,0 +1,93 @@
+{
+  "kanji": "嫌",
+  "meta": {
+    "weight": 687,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン",
+      "ゲン"
+    ],
+    "kun": [
+      "きら.う",
+      "きら.い",
+      "いや"
+    ],
+    "am_han": "HIỀM"
+  },
+  "meaning": {
+    "vi": "không thích, ghê tởm, ghét bỏ",
+    "en": "dislike, detest, hate"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/嫌.svg"
+  },
+  "frequency": 1207,
+  "examples": [
+    "嫌",
+    "嫌い",
+    "嫌悪",
+    "機嫌",
+    "大嫌い"
+  ],
+  "explanation": {
+    "id": "2122",
+    "text": "嫌 (đọc là \"ken\" hoặc \"iya\") có nghĩa là \"không thích\", \"ghét\" để chỉ cảm giác không ưa hoặc khinh ghét về một điều gì đó.  \nVí dụ:  \n- 嫌い (kirai): Ghét, không thích.  \n- 嫌悪 (ken'o): Sự ghê t"
+  },
+  "comments": [
+    {
+      "id": "152879",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ thường có HIỀM khích việc KIÊM (兼) nhiều thứ.</p>",
+      "content_text": "Phụ nữ thường có HIỀM khích việc KIÊM (兼) nhiều thứ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152880",
+      "lang": "vi",
+      "content_html": "<p>兼 : KIÊM (けん、げん、れん) kiêm nhiều việc<br>廉 : Kiêm thanh LIÊM nên có nhà<br>謙 : Kiêm nói lời KHIÊM tốn<br>嫌 : Nhưng Kiêm lại HIỀM khích với phụ nữ</p>",
+      "content_text": "兼 : KIÊM (けん、げん、れん) kiêm nhiều việc\n廉 : Kiêm thanh LIÊM nên có nhà\n謙 : Kiêm nói lời KHIÊM tốn\n嫌 : Nhưng Kiêm lại HIỀM khích với phụ nữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152881",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ thường có hiềm khích việc cầm chổi quét nhà</p>",
+      "content_text": "Phụ nữ thường có hiềm khích việc cầm chổi quét nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

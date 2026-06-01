@@ -1,0 +1,75 @@
+{
+  "kanji": "雄",
+  "meta": {
+    "weight": 2854,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ"
+    ],
+    "kun": [
+      "お-",
+      "おす",
+      "おん"
+    ],
+    "am_han": "HÙNG"
+  },
+  "meaning": {
+    "vi": "nam tính, nam, anh hùng, lãnh đạo, ưu việt, xuất sắc",
+    "en": "masculine, male, hero, leader, superiority, excellence"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/雄.svg"
+  },
+  "frequency": 669,
+  "examples": [
+    "英雄",
+    "雄",
+    "雄大",
+    "雄弁",
+    "雄叫び"
+  ],
+  "explanation": {
+    "id": "7800",
+    "text": "雄 (đọc là \"yuu\" hoặc \"osu\") có nghĩa là \"hùng mạnh\", \"nam giới\" để chỉ các đặc điểm liên quan đến sức mạnh, sự nam tính hoặc loài động vật đực.  \nVí dụ:  \n- 雄志 (yuushi): Hoài bão lớn, ý chí "
+  },
+  "comments": [
+    {
+      "id": "157762",
+      "lang": "vi",
+      "content_html": "<p>NAM(ナム） nhi có CHYM（隹） giống đực là anh HÙNG</p>",
+      "content_text": "NAM(ナム） nhi có CHYM（隹） giống đực là anh HÙNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158190",
+      "lang": "vi",
+      "content_html": "<p>Nam (ナム) sờ chim Hùng (隹) , giống đực với nhau ai lại làm thế :))</p>",
+      "content_text": "Nam (ナム) sờ chim Hùng (隹) , giống đực với nhau ai lại làm thế :))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "173",
+        "name": "Vinh Trường Nguyễn",
+        "image_url": "https://jpdictionary.com/upload/images/62f9fc079ec88.png"
+      }
+    }
+  ]
+}

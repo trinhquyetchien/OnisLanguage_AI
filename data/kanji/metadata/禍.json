@@ -1,0 +1,88 @@
+{
+  "kanji": "禍",
+  "meta": {
+    "weight": 1915,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "わざわい"
+    ],
+    "am_han": "HỌA"
+  },
+  "meaning": {
+    "vi": "tai họa, bất hạnh, ác độc, lời nguyền",
+    "en": "calamity, misfortune, evil, curse"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/禍.svg"
+  },
+  "frequency": 2010,
+  "examples": [
+    "禍",
+    "禍根",
+    "惨禍"
+  ],
+  "explanation": {
+    "id": "20330",
+    "text": "禍 (đọc là \"rin\") có nghĩa là \"khô ráo\", thường được dùng để chỉ tình trạng không có nước, khô hạn. \n\nVí dụ:\n- 陸乾燥 (rikkan-sou): Đất liền khô ráo.\n- 乾燥する (kansou suru): Làm khô, trở nên khô r"
+  },
+  "comments": [
+    {
+      "id": "155718",
+      "lang": "vi",
+      "content_html": "<p>Qua loa 咼 là biểu thị 礻 của tai hoạ 禍</p>",
+      "content_text": "Qua loa 咼 là biểu thị 礻 của tai hoạ 禍",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155719",
+      "lang": "vi",
+      "content_html": "<p>Tai hoạ ấp đến khi qua đền</p>",
+      "content_text": "Tai hoạ ấp đến khi qua đền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155720",
+      "lang": "vi",
+      "content_html": "<p>chị Thị đã Qua đc tai Họa trời dáng</p>",
+      "content_text": "chị Thị đã Qua đc tai Họa trời dáng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

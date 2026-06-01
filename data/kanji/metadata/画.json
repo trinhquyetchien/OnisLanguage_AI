@@ -1,0 +1,97 @@
+{
+  "kanji": "画",
+  "meta": {
+    "weight": 1779,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガ",
+      "カク",
+      "エ",
+      "カイ"
+    ],
+    "kun": [
+      "えが.く",
+      "かく.する",
+      "かぎ.る",
+      "はかりごと",
+      "はか.る"
+    ],
+    "am_han": "HỌA, HOẠCH"
+  },
+  "meaning": {
+    "vi": "kế hoạch, họa sĩ",
+    "en": "brush-stroke, picture"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/画.svg"
+  },
+  "frequency": 199,
+  "examples": [
+    "映画",
+    "計画",
+    "企画",
+    "画像",
+    "画面"
+  ],
+  "explanation": {
+    "id": "726",
+    "text": "画 (đọc là \"ga\" hoặc \"kaku\") có nghĩa là \"họa\" hoặc \"vẽ\", dùng để chỉ các hoạt động liên quan đến nghệ thuật hình ảnh hoặc việc vẽ tranh.\n\nVí dụ:\n- 画家 (gaka): Nghệ sĩ, họa sĩ.\n- 絵画 (kaiga): H"
+  },
+  "comments": [
+    {
+      "id": "917",
+      "lang": "vi",
+      "content_html": "<p><strong>Vẽ </strong>bức tranh cánh đồng (田).</p>",
+      "content_text": "Vẽ\nbức tranh cánh đồng (田).",
+      "image_url": "https://jpdictionary.com/upload/images/6298b551028d4.jpg",
+      "image_path": "assets/images/画_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191121",
+      "lang": "vi",
+      "content_html": "<p><strong>họa </strong>sĩ - 画家 (がか)</p>",
+      "content_text": "họa\nsĩ - 画家 (がか)",
+      "image_url": "https://jpdictionary.com/upload/images/648ac3e9e0470.jpg",
+      "image_path": "assets/images/画_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "155409",
+      "lang": "vi",
+      "content_html": "<p>vì MỘT RUỘNG ĐẤT mà HÁ MIỆNG gây Họa</p>",
+      "content_text": "vì MỘT RUỘNG ĐẤT mà HÁ MIỆNG gây Họa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

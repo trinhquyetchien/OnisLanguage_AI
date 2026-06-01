@@ -1,0 +1,88 @@
+{
+  "kanji": "謙",
+  "meta": {
+    "weight": 2520,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "へりくだ.る"
+    ],
+    "am_han": "KHIÊM, KHIỆM"
+  },
+  "meaning": {
+    "vi": "tự huyễn hoặc bản thân, hạ mình, khiêm tốn",
+    "en": "self-effacing, humble oneself, condescend, be modest"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/謙.svg"
+  },
+  "frequency": 1582,
+  "examples": [
+    "謙虚",
+    "謙遜",
+    "謙譲"
+  ],
+  "explanation": {
+    "id": "2173",
+    "text": "謙 (đọc là \"ken\") có nghĩa là \"khiêm tốn\", để chỉ thái độ khiêm nhường, không tự phụ về bản thân.  \nVí dụ:  \n- 謙遜 (kenson): Khiêm tốn, nhún nhường.  \n- 謙虚 (kenkyo): Khiêm nhường, modesty.  \n-"
+  },
+  "comments": [
+    {
+      "id": "156987",
+      "lang": "vi",
+      "content_html": "<p>(Ngôn) từ của người (kiêm) nhiều chức vụ thường (khiêm )tốn</p>",
+      "content_text": "(Ngôn) từ của người (kiêm) nhiều chức vụ thường (khiêm )tốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156988",
+      "lang": "vi",
+      "content_html": "<p>兼 : KIÊM (けん、げん、れん) kiêm nhiều việc<br>廉 : Kiêm thanh LIÊM nên có nhà<br>謙 : Kiêm nói lời KHIÊM tốn<br>嫌 : Nhưng Kiêm lại HIỀM khích với phụ nữ</p>",
+      "content_text": "兼 : KIÊM (けん、げん、れん) kiêm nhiều việc\n廉 : Kiêm thanh LIÊM nên có nhà\n謙 : Kiêm nói lời KHIÊM tốn\n嫌 : Nhưng Kiêm lại HIỀM khích với phụ nữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156989",
+      "lang": "vi",
+      "content_html": "<p>Nói không ghét phụ nữ thì khiêm tốn quá.</p>",
+      "content_text": "Nói không ghét phụ nữ thì khiêm tốn quá.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

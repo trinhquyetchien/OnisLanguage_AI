@@ -1,0 +1,84 @@
+{
+  "kanji": "諺",
+  "meta": {
+    "weight": 2513,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲン"
+    ],
+    "kun": [
+      "ことわざ"
+    ],
+    "am_han": "NGẠN"
+  },
+  "meaning": {
+    "vi": "tục ngữ",
+    "en": "proverb"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/諺.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2236",
+    "text": "諺 (đọc là \"gen\") có nghĩa là \"châm ngôn\" hoặc \"câu nói thông thái\", chỉ những câu nói được truyền khẩu, mang ý nghĩa giáo dục hoặc kinh nghiệm sống.\n\nVí dụ:\n- 諺語 (engo): Châm ngôn, câu nói t"
+  },
+  "comments": [
+    {
+      "id": "220714",
+      "lang": "vi",
+      "content_html": "<p>NGẠN ngữ là những NGÔN từ được người xưa LẬP 立 ra, có quan điểm nhìn nhận cao rộng như SƯỜN núi và gắn liền, dính chặt như SAM với đời sống thường ngày.</p>",
+      "content_text": "NGẠN ngữ là những NGÔN từ được người xưa LẬP 立 ra, có quan điểm nhìn nhận cao rộng như SƯỜN núi và gắn liền, dính chặt như SAM với đời sống thường ngày.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220715",
+      "lang": "vi",
+      "content_html": "<p>NGẠN (諺) ngữ thường NÓI (言) về những khuôn MẶT  (顔) không ĐẦU (頁)</p>",
+      "content_text": "NGẠN (諺) ngữ thường NÓI (言) về những khuôn MẶT  (顔) không ĐẦU (頁)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220716",
+      "lang": "vi",
+      "content_html": "<p>Ngạn là những lời nói hay</p>",
+      "content_text": "Ngạn là những lời nói hay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

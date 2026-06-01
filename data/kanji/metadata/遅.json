@@ -1,0 +1,109 @@
+{
+  "kanji": "遅",
+  "meta": {
+    "weight": 2671,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チ"
+    ],
+    "kun": [
+      "おく.れる",
+      "おく.らす",
+      "おそ.い"
+    ],
+    "am_han": "TRÌ"
+  },
+  "meaning": {
+    "vi": "chậm, muộn",
+    "en": "slow, late, back, later"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/遅.svg"
+  },
+  "frequency": 833,
+  "examples": [
+    "遅れ",
+    "遅く",
+    "遅い",
+    "遅刻",
+    "遅れる"
+  ],
+  "explanation": {
+    "id": "5229",
+    "text": "遅 (đọc là \"chi\") có nghĩa là \"muộn\", \"trễ\" để chỉ các tình huống liên quan đến thời gian không đúng hẹn hoặc chậm trễ.\n\nVí dụ:\n- 遅刻 (chikoku): Đến muộn.\n- 遅れる (okureru): Bị trễ, đến chậm.\n- "
+  },
+  "comments": [
+    {
+      "id": "37292",
+      "lang": "vi",
+      "content_html": "<p>Một con cừu (羊) đã đi <strong>trễ</strong>.\r\n</p>",
+      "content_text": "Một con cừu (羊) đã đi\ntrễ\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe0260c2db.jpg",
+      "image_path": "assets/images/遅_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157360",
+      "lang": "vi",
+      "content_html": "<p>Con dê kéo theo cái xác nên đi chậm</p>",
+      "content_text": "Con dê kéo theo cái xác nên đi chậm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157361",
+      "lang": "vi",
+      "content_html": "<p>con DÊ(dương) bước đi (SƯỚC) chậm chạp như cái thây ma (THI) làm muộn giờ (TRÌ)</p>",
+      "content_text": "con DÊ(dương) bước đi (SƯỚC) chậm chạp như cái thây ma (THI) làm muộn giờ (TRÌ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157362",
+      "lang": "vi",
+      "content_html": "<p>Thi thể của con dê nằm trên đường nên làm cho xe cộ bị TRÌ trệ</p>",
+      "content_text": "Thi thể của con dê nằm trên đường nên làm cho xe cộ bị TRÌ trệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

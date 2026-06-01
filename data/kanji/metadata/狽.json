@@ -1,0 +1,50 @@
+{
+  "kanji": "狽",
+  "meta": {
+    "weight": 1717,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン",
+      "バイ",
+      "ハイ"
+    ],
+    "kun": [],
+    "am_han": "BÁI"
+  },
+  "meaning": {
+    "vi": "chó sói, hãy lo lắng",
+    "en": "wolf, be flurried"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/狽.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6294",
+    "text": "狽 (đọc là \"bai\") có nghĩa là \"một loại sói\", thường chỉ đến hình ảnh của loài sói hoặc những kẻ giả mạo, không trung thực. \n\nVí dụ:\n- 狽狼 (bailou): Sói xám, ám chỉ động vật hoặc hình tượng li"
+  },
+  "comments": [
+    {
+      "id": "220073",
+      "lang": "vi",
+      "content_html": "<p>kiếm  Tiền 貝 mà nhục như Chó thì BÁI bai luôn</p>",
+      "content_text": "kiếm  Tiền 貝 mà nhục như Chó thì BÁI bai luôn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

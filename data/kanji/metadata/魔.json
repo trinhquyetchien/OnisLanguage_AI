@@ -1,0 +1,105 @@
+{
+  "kanji": "魔",
+  "meta": {
+    "weight": 2971,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マ"
+    ],
+    "kun": [],
+    "am_han": "MA"
+  },
+  "meaning": {
+    "vi": "phù thủy, ác quỷ, ác linh",
+    "en": "witch, demon, evil spirit"
+  },
+  "stroke": {
+    "count": 21,
+    "svg": "assets/svg/魔.svg"
+  },
+  "frequency": 1514,
+  "examples": [
+    "邪魔",
+    "魔法",
+    "悪魔",
+    "魔",
+    "魔女"
+  ],
+  "explanation": {
+    "id": "7377",
+    "text": "魔 (đọc là \"ma\") có nghĩa là \"quái vật\", \"ma quỷ\" để chỉ những sinh vật siêu nhiên hoặc điều kỳ bí.  \nVí dụ:  \n- 魔法 (mahou): Phép thuật, ma thuật.  \n- 悪魔 (akuma): Ác quỷ, ma ám.  \n- 魔女 (majo)"
+  },
+  "comments": [
+    {
+      "id": "158033",
+      "lang": "vi",
+      "content_html": "<p>Trong nhà có 2 con quỷ ma cây</p>",
+      "content_text": "Trong nhà có 2 con quỷ ma cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158034",
+      "lang": "vi",
+      "content_html": "<p>4 chữ MA:<br>麻<br>Dưới Hiên Nhà có 2 Cây MA Lanh<br>(cây Lanh, vải lanh あさぬの)<br><br>摩<br>Ma có Tay 手 là Ma sát, xoa bóp. <br>まさつ、さする<br><br>磨<br>Ma có Đá 石 là Ma mài, đánh bóng, mài dũa.<br>Nghiên Ma, 歯磨き đánh răng<br><br>魔<br>Ma có Quỷ 鬼 đương nhiên là Ma Quỷ<br>悪魔 ác ma, 魔術 ma thuật</p>",
+      "content_text": "4 chữ MA:\n麻\nDưới Hiên Nhà có 2 Cây MA Lanh\n(cây Lanh, vải lanh あさぬの)\n摩\nMa có Tay 手 là Ma sát, xoa bóp.\nまさつ、さする\n磨\nMa có Đá 石 là Ma mài, đánh bóng, mài dũa.\nNghiên Ma, 歯磨き đánh răng\n魔\nMa có Quỷ 鬼 đương nhiên là Ma Quỷ\n悪魔 ác ma, 魔術 ma thuật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158035",
+      "lang": "vi",
+      "content_html": "<p>Quỷ (鬼) đất (土) sống trong Khối đá (塊) . Còn quỷ gỗ (木) sống trong nhà Ma ( 魔 )</p>",
+      "content_text": "Quỷ (鬼) đất (土) sống trong Khối đá (塊) . Còn quỷ gỗ (木) sống trong nhà Ma ( 魔 )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222350",
+      "lang": "vi",
+      "content_html": "<p>歴　cũng có hơi hướng giống bộ ma , Ma mà dừng lại thì bóc Lịch !</p>",
+      "content_text": "歴　cũng có hơi hướng giống bộ ma , Ma mà dừng lại thì bóc Lịch !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "7864",
+        "name": "Phùng Kiệt",
+        "image_url": "https://jpdictionary.com/upload/images/6862b39a30971.png"
+      }
+    }
+  ]
+}

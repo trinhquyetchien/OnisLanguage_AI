@@ -1,0 +1,92 @@
+{
+  "kanji": "即",
+  "meta": {
+    "weight": 402,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソク"
+    ],
+    "kun": [
+      "つ.く",
+      "つ.ける",
+      "すなわ.ち"
+    ],
+    "am_han": "TỨC"
+  },
+  "meaning": {
+    "vi": "tức thì, cụ thể là, như là, phù hợp, đồng ý, thích ứng",
+    "en": "instant, namely, as is, conform, agree, adapt"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/即.svg"
+  },
+  "frequency": 1167,
+  "examples": [
+    "即",
+    "即ち",
+    "即座",
+    "即時",
+    "即興"
+  ],
+  "explanation": {
+    "id": "4792",
+    "text": "即 (đọc là \"soku\") có nghĩa là \"ngay lập tức\", \"thực tế\" hoặc \"tức thì\". \n\nVí dụ:\n- 即座 (sokuzai): Ngay lập tức, lập tức.\n- 即ち (すなわち, sunawachi): Tức là, nghĩa là.\n- 即効 (sokkō): Hiệu quả ngay "
+  },
+  "comments": [
+    {
+      "id": "152201",
+      "lang": "vi",
+      "content_html": "<p>tức khắc ko lấn Cấn tiểu Tiết</p>",
+      "content_text": "tức khắc ko lấn Cấn tiểu Tiết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152202",
+      "lang": "vi",
+      "content_html": "<p>bị con Dao Cấn vào đít nên rất là Tức...</p>",
+      "content_text": "bị con Dao Cấn vào đít nên rất là Tức...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152203",
+      "lang": "vi",
+      "content_html": "<p>CẤN của TIẾT, TỨC là không ăn được nữa.</p>",
+      "content_text": "CẤN của TIẾT, TỨC là không ăn được nữa.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

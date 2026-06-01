@@ -1,0 +1,90 @@
+{
+  "kanji": "項",
+  "meta": {
+    "weight": 2899,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "うなじ"
+    ],
+    "am_han": "HẠNG"
+  },
+  "meaning": {
+    "vi": "đoạn, gáy, mệnh đề, mục, thuật ngữ (biểu thức)",
+    "en": "paragraph, nape of neck, clause, item, term (expression)"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/項.svg"
+  },
+  "frequency": 884,
+  "examples": [
+    "項目",
+    "事項",
+    "項",
+    "条項",
+    "前項"
+  ],
+  "explanation": {
+    "id": "2587",
+    "text": "項 (đọc là \"kou\" hoặc \"an\") có nghĩa là \"hạng mục\", \"điều khoản\" hoặc \"phần\". Nó thường chỉ các phần tử trong danh sách hay các mục cần chú ý.\n\nVí dụ:\n- 項目 (koumoku): Hạng mục, điều khoản.\n- "
+  },
+  "comments": [
+    {
+      "id": "157868",
+      "lang": "vi",
+      "content_html": "<p>Đầu làm công việc liên quan tới các hạng mục</p>",
+      "content_text": "Đầu làm công việc liên quan tới các hạng mục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157869",
+      "lang": "vi",
+      "content_html": "<p>Để làm 1 hạng mục công trình cần phải có cái đầu thông minh</p>",
+      "content_text": "Để làm 1 hạng mục công trình cần phải có cái đầu thông minh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157870",
+      "lang": "vi",
+      "content_html": "<p>Ai có 工 sẽ được thăng 項 ghi lên giấy 頁</p>",
+      "content_text": "Ai có 工 sẽ được thăng 項 ghi lên giấy 頁",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

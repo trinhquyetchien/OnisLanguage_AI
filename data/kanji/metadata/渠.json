@@ -1,0 +1,36 @@
+{
+  "kanji": "渠",
+  "meta": {
+    "weight": 1574,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョ"
+    ],
+    "kun": [
+      "かれ",
+      "なんぞ",
+      "なに",
+      "みぞ",
+      "いずくんぞ"
+    ],
+    "am_han": "CỪ"
+  },
+  "meaning": {
+    "vi": "mương, kênh, âu thuyền",
+    "en": "ditch, canal, lock"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/渠.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1585",
+    "text": "渠 (đọc là \"kyo\") có nghĩa là \"mương\", \"kênh\" để chỉ các hệ thống thủy lợi hoặc đường dẫn nước.  \nVí dụ:  \n- 渠 (kyo): Kênh, mương.  \n- 渠水 (kyosui): Nước trong kênh.  \n- 渠道 (kyodō): Đường dẫn "
+  },
+  "comments": []
+}

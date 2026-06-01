@@ -1,0 +1,107 @@
+{
+  "kanji": "招",
+  "meta": {
+    "weight": 1077,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "まね.く"
+    ],
+    "am_han": "CHIÊU"
+  },
+  "meaning": {
+    "vi": "chiêu đãi, mời",
+    "en": "beckon, invite, summon, engage"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/招.svg"
+  },
+  "frequency": 840,
+  "examples": [
+    "招待",
+    "招く",
+    "招き",
+    "招集",
+    "招聘"
+  ],
+  "explanation": {
+    "id": "3815",
+    "text": "招 (đọc là \"shō\" hoặc \"manee\") có nghĩa là \"mời gọi\", \"triệu hồi\" để chỉ các hành động liên quan đến việc thu hút hoặc mời ai đó tham gia.\n\nVí dụ:\n- 招待 (shōtai): Lời mời, sự mời gọi.\n- 招く (ma"
+  },
+  "comments": [
+    {
+      "id": "37218",
+      "lang": "vi",
+      "content_html": "<p>Tôi sẽ <strong>mời </strong>bạn.</p>",
+      "content_text": "Tôi sẽ\nmời\nbạn.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd5962b39c.jpg",
+      "image_path": "assets/images/招_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153871",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm 1 triệu mang đi chiêu đãi</p>",
+      "content_text": "Tay cầm 1 triệu mang đi chiêu đãi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190685",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm dao xẻ thịt, miệng luôn mồm chiêu đãi</p>",
+      "content_text": "Tay cầm dao xẻ thịt, miệng luôn mồm chiêu đãi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "153872",
+      "lang": "vi",
+      "content_html": "<p>Tay cẩm đao mồm đi gọi mời ăn tiệc chiêu đãi</p>",
+      "content_text": "Tay cẩm đao mồm đi gọi mời ăn tiệc chiêu đãi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

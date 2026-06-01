@@ -1,0 +1,125 @@
+{
+  "kanji": "裁",
+  "meta": {
+    "weight": 2419,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "た.つ",
+      "さば.く"
+    ],
+    "am_han": "TÀI"
+  },
+  "meaning": {
+    "vi": "thợ may, thẩm phán, quyết định, cắt ra (mẫu)",
+    "en": "tailor, judge, decision, cut out (pattern)"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/裁.svg"
+  },
+  "frequency": 297,
+  "examples": [
+    "裁判",
+    "裁判所",
+    "総裁",
+    "裁判官",
+    "制裁"
+  ],
+  "explanation": {
+    "id": "2833",
+    "text": "裁 (đọc là \"sai\") có nghĩa là \"cắt\", \"chỉnh sửa\" để chỉ các hành động liên quan đến việc cắt gọt, xử lý hoặc điều chỉnh vật chất.  \nVí dụ:  \n- 裁断 (saitan): Cắt, quyết định.  \n- 裁縫 (saihō): Ng"
+  },
+  "comments": [
+    {
+      "id": "156739",
+      "lang": "vi",
+      "content_html": "<p>Cuộc chiến đất đai y phục cần có tài phán xử chia cắt</p>",
+      "content_text": "Cuộc chiến đất đai y phục cần có tài phán xử chia cắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156740",
+      "lang": "vi",
+      "content_html": "<p>Công việc của thằng trọng tài là mặc y phục rồi chỉ chạy qua chạy lại tren đất ( sân bóng)</p>",
+      "content_text": "Công việc của thằng trọng tài là mặc y phục rồi chỉ chạy qua chạy lại tren đất ( sân bóng)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191265",
+      "lang": "vi",
+      "content_html": "<p>phân chia Đất đai Quần áo phải Qua người thẩm phán có Tài</p>",
+      "content_text": "phân chia Đất đai Quần áo phải Qua người thẩm phán có Tài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156741",
+      "lang": "vi",
+      "content_html": "<p>Đất đai và y phục phải qua người có tài phán xét</p>",
+      "content_text": "Đất đai và y phục phải qua người có tài phán xét",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221636",
+      "lang": "vi",
+      "content_html": "<p>裁 (đọc là \"sai\") có nghĩa là \"phán xét\" \"quyết định\" để chỉ các hành động liên quan đến việc ra quyết định, phán xét, hoặc công việc may vá.</p><p>Ví dụ:</p><ol><li><strong>裁判 (saiban)</strong>: Phiên tòa, xét xử.</li><li><strong>裁く (sabaku)</strong>: Phán xét, phân xử.</li><li><strong>独裁 (dokusai)</strong>: Chế độ độc tài, độc đoán.</li></ol>",
+      "content_text": "裁 (đọc là \"sai\") có nghĩa là \"phán xét\" \"quyết định\" để chỉ các hành động liên quan đến việc ra quyết định, phán xét, hoặc công việc may vá.\nVí dụ:\n裁判 (saiban)\n: Phiên tòa, xét xử.\n裁く (sabaku)\n: Phán xét, phân xử.\n独裁 (dokusai)\n: Chế độ độc tài, độc đoán.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

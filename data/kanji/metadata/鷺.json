@@ -1,0 +1,53 @@
+{
+  "kanji": "鷺",
+  "meta": {
+    "weight": 3014,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロ"
+    ],
+    "kun": [
+      "さぎ"
+    ],
+    "am_han": "LỘ"
+  },
+  "meaning": {
+    "vi": "diệc",
+    "en": "heron"
+  },
+  "stroke": {
+    "count": 24,
+    "svg": "assets/svg/鷺.svg"
+  },
+  "frequency": 2172,
+  "examples": [
+    "朱鷺",
+    "鷺"
+  ],
+  "explanation": {
+    "id": "2881",
+    "text": "鷺 (đọc là \"sagi\") có nghĩa là \"chim cò\" để chỉ một loài chim sống ở vùng nước, thường được biết đến vì sự thanh lịch và khả năng săn mồi.  \nVí dụ:  \n- 鷺舞 (sagimai): Múa cò, điệu múa lấy cảm "
+  },
+  "comments": [
+    {
+      "id": "158081",
+      "lang": "vi",
+      "content_html": "<p>Có là loại CHIM hay đi trên ĐƯỜNG để kiếm ăn (Con cò mà đi ăn đêm)</p>",
+      "content_text": "Có là loại CHIM hay đi trên ĐƯỜNG để kiếm ăn (Con cò mà đi ăn đêm)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

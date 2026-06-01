@@ -1,0 +1,91 @@
+{
+  "kanji": "角",
+  "meta": {
+    "weight": 2449,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク"
+    ],
+    "kun": [
+      "かど",
+      "つの"
+    ],
+    "am_han": "GIÁC"
+  },
+  "meaning": {
+    "vi": "góc, tam giác, tứ giác",
+    "en": "angle, corner, square, horn, antlers"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/角.svg"
+  },
+  "frequency": 805,
+  "examples": [
+    "角",
+    "角度",
+    "全角",
+    "一角",
+    "三角"
+  ],
+  "explanation": {
+    "id": "919",
+    "text": "角 (đọc là \"kaku\" hoặc \"tsuno\") có nghĩa là \"góc\", \"sừng\" để chỉ các khía cạnh liên quan đến hình dạng, góc cạnh hoặc những thứ giống như sừng.\n\nVí dụ:\n- 角度 (kakudo): Góc độ.\n- 角 (tsuno): Sừn"
+  },
+  "comments": [
+    {
+      "id": "156816",
+      "lang": "vi",
+      "content_html": "<p>Ở góc ruộng có sừng tê GIÁC</p>",
+      "content_text": "Ở góc ruộng có sừng tê GIÁC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156817",
+      "lang": "vi",
+      "content_html": "<p>sử DỤNG cái thước hình chữ KƯ để đo GÓC</p>",
+      "content_text": "sử DỤNG cái thước hình chữ KƯ để đo GÓC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156818",
+      "lang": "vi",
+      "content_html": "<p>Bò một sừng là con tê giác.</p>",
+      "content_text": "Bò một sừng là con tê giác.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

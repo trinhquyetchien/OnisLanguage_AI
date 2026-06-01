@@ -1,0 +1,107 @@
+{
+  "kanji": "杯",
+  "meta": {
+    "weight": 1299,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハイ"
+    ],
+    "kun": [
+      "さかずき"
+    ],
+    "am_han": "BÔI"
+  },
+  "meaning": {
+    "vi": "ly, chén",
+    "en": "counter for cupfuls, wine glass, glass, toast"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/杯.svg"
+  },
+  "frequency": 1235,
+  "examples": [
+    "杯",
+    "一杯",
+    "Ｗ杯",
+    "精一杯",
+    "乾杯"
+  ],
+  "explanation": {
+    "id": "6269",
+    "text": "杯 (đọc là \"hai\") có nghĩa là \"cái cốc\", \"cái chén\" để chỉ các dụng cụ dùng để đựng thức uống, thường là rượu hoặc nước.\n\nVí dụ:\n- 一杯 (ippai): Một cốc, một ly.\n- 杯酒 (haishu): Ly rượu, thường "
+  },
+  "comments": [
+    {
+      "id": "154405",
+      "lang": "vi",
+      "content_html": "<p>cái ly uống rượu không nhất thiết phải bằng gỗ</p>",
+      "content_text": "cái ly uống rượu không nhất thiết phải bằng gỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154406",
+      "lang": "vi",
+      "content_html": "<p>Không uống chén gỗ, sợ bôi bác</p>",
+      "content_text": "Không uống chén gỗ, sợ bôi bác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154407",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: cái Cây (木) Bất mãn (不), vì sao?<br>==&#62; Vì bị trồng ở trong cái Chén (杯) bé xíu.<br>..性..</p>",
+      "content_text": "Góc Nhìn: cái Cây (木) Bất mãn (不), vì sao?\n==> Vì bị trồng ở trong cái Chén (杯) bé xíu.\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158686",
+      "lang": "vi",
+      "content_html": "<p>何杯（なんばい）: mấy cốc (đồ uống)</p><p>Trả lời: số đếm + 杯（はい）</p><p>Ngoại lệ:</p><p>1杯: いっぱい</p><p>3杯: さんばい</p><p>6杯: ろっぱい</p><p>8杯: はっぱい</p><p>10杯: じゅっぱい</p>",
+      "content_text": "何杯（なんばい）: mấy cốc (đồ uống)\nTrả lời: số đếm + 杯（はい）\nNgoại lệ:\n1杯: いっぱい\n3杯: さんばい\n6杯: ろっぱい\n8杯: はっぱい\n10杯: じゅっぱい",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

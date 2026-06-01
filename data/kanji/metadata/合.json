@@ -1,0 +1,100 @@
+{
+  "kanji": "合",
+  "meta": {
+    "weight": 448,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴウ",
+      "ガッ",
+      "カッ"
+    ],
+    "kun": [
+      "あ.う",
+      "-あ.う",
+      "あ.い",
+      "あい-",
+      "-あ.い",
+      "-あい",
+      "あ.わす",
+      "あ.わせる",
+      "-あ.わせる"
+    ],
+    "am_han": "HỢP"
+  },
+  "meaning": {
+    "vi": "phù hợp",
+    "en": "fit, suit, join, 0.1"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/合.svg"
+  },
+  "frequency": 41,
+  "examples": [
+    "場合",
+    "試合",
+    "総合",
+    "合わせ",
+    "組合"
+  ],
+  "explanation": {
+    "id": "2607",
+    "text": "合 (đọc là \"gō\" hoặc \"ai\") có nghĩa là \"hợp\", \"kết hợp\" để chỉ các hành động liên quan đến việc tụ họp, kết nối, hoặc hòa nhập.\n\nVí dụ:\n- 合格 (gōkaku): Đỗ, đạt yêu cầu.\n- 合同 (gōdō): Liên hợp, "
+  },
+  "comments": [
+    {
+      "id": "190925",
+      "lang": "vi",
+      "content_html": "<p>che mồm mới là <strong>hợp </strong>lý</p>",
+      "content_text": "che mồm mới là\nhợp\nlý",
+      "image_url": "https://jpdictionary.com/upload/images/648a703015561.jpg",
+      "image_path": "assets/images/合_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36938",
+      "lang": "vi",
+      "content_html": "<p>Cái hộp và nắp của nó <strong>hợp </strong>với nhau.</p>",
+      "content_text": "Cái hộp và nắp của nó\nhợp\nvới nhau.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4521af1fc.jpg",
+      "image_path": "assets/images/合_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152310",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI có MỘT cái MIỆNG là HỢP lí</p>",
+      "content_text": "NGƯỜI có MỘT cái MIỆNG là HỢP lí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

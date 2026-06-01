@@ -1,0 +1,107 @@
+{
+  "kanji": "戸",
+  "meta": {
+    "weight": 1039,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "と"
+    ],
+    "am_han": "HỘ"
+  },
+  "meaning": {
+    "vi": "cửa, hộ khẩu",
+    "en": "door, counter for houses, door radical (no. 63)"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/戸.svg"
+  },
+  "frequency": 575,
+  "examples": [
+    "神戸",
+    "江戸",
+    "戸",
+    "井戸",
+    "水戸"
+  ],
+  "explanation": {
+    "id": "2275",
+    "text": "戸 (đọc là \"ko\" hoặc \"to\") có nghĩa là \"cửa\", thường chỉ về cửa ra vào trong nhà. \n\nVí dụ:\n- 戸口 (toguchi): Cửa chính, lối vào.\n- 戸棚 (todana): Tủ đựng đồ, kệ để đồ.\n- 戸籍 (koseki): Sổ hộ khẩu, "
+  },
+  "comments": [
+    {
+      "id": "36960",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của <strong>cánh cửa</strong>.</p>",
+      "content_text": "Hình dạng của\ncánh cửa\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4ae25418e.jpg",
+      "image_path": "assets/images/戸_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153763",
+      "lang": "vi",
+      "content_html": "<p>Một 一 con Ma 尸 đang gõ Cửa 戸 nhà tôi.</p>",
+      "content_text": "Một 一 con Ma 尸 đang gõ Cửa 戸 nhà tôi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153764",
+      "lang": "vi",
+      "content_html": "<p>mỗi hộ gia đình đều có 1 cánh cửa chính</p>",
+      "content_text": "mỗi hộ gia đình đều có 1 cánh cửa chính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153765",
+      "lang": "vi",
+      "content_html": "<p>Một con Ma đang giữ cửa (hộ) nhà tôi</p>",
+      "content_text": "Một con Ma đang giữ cửa (hộ) nhà tôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

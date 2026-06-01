@@ -1,0 +1,90 @@
+{
+  "kanji": "筒",
+  "meta": {
+    "weight": 1996,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "つつ"
+    ],
+    "am_han": "ĐỒNG"
+  },
+  "meaning": {
+    "vi": "cái ống",
+    "en": "cylinder, pipe, tube, gun barrel, sleeve"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/筒.svg"
+  },
+  "frequency": 1631,
+  "examples": [
+    "封筒",
+    "筒",
+    "筒井",
+    "円筒",
+    "水筒"
+  ],
+  "explanation": {
+    "id": "5843",
+    "text": "筒 (đọc là \"tsutsu\") có nghĩa là \"ống\", chỉ các vật hình trụ hoặc ống chứa.  \nVí dụ:  \n- 筒抜け (tsutsunuke): Nghe lén, thông tin bị rò rỉ.  \n- 筒状 (tsutsujō): Hình ống, dạng ống.  \n- 弾筒 (dantsut"
+  },
+  "comments": [
+    {
+      "id": "155881",
+      "lang": "vi",
+      "content_html": "<p>giống 同じ với cây trúc 竹 cây tre cũng có từng ống 筒</p>",
+      "content_text": "giống 同じ với cây trúc 竹 cây tre cũng có từng ống 筒",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155882",
+      "lang": "vi",
+      "content_html": "<p>Cây tre có các ống đồng đều nhau</p>",
+      "content_text": "Cây tre có các ống đồng đều nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155883",
+      "lang": "vi",
+      "content_html": "<p>các ống tre có cùng đốt đồng giống nhau</p>",
+      "content_text": "các ống tre có cùng đốt đồng giống nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

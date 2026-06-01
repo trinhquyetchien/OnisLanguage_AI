@@ -1,0 +1,89 @@
+{
+  "kanji": "不",
+  "meta": {
+    "weight": 79,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ",
+      "ブ"
+    ],
+    "kun": [],
+    "am_han": "BẤT"
+  },
+  "meaning": {
+    "vi": "không, bất công",
+    "en": "negative, non-, bad, ugly, clumsy"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/不.svg"
+  },
+  "frequency": 101,
+  "examples": [
+    "不安",
+    "不思議",
+    "不足",
+    "不",
+    "不明"
+  ],
+  "explanation": {
+    "id": "6782",
+    "text": "不 (đọc là \"fu\" hoặc \"bu\") có nghĩa là \"không\" để chỉ sự phủ định, từ chối hoặc thiếu vắng điều gì đó.\n\nVí dụ:\n- 不安 (fuan): Lo âu, không yên tâm.\n- 不明 (fumyō): Không rõ, không minh bạch.\n- 不適"
+  },
+  "comments": [
+    {
+      "id": "190856",
+      "lang": "vi",
+      "content_html": "",
+      "content_text": "",
+      "image_url": "https://jpdictionary.com/upload/images/648a4598319b4.jpg",
+      "image_path": "assets/images/不_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36952",
+      "lang": "vi",
+      "content_html": "<p><strong>Không đúng </strong>(T - true).</p>",
+      "content_text": "Không đúng\n(T - true).",
+      "image_url": "https://jpdictionary.com/upload/images/62bc469ba3794.jpg",
+      "image_path": "assets/images/不_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151403",
+      "lang": "vi",
+      "content_html": "<p>Cây (木) bị bẻ ngọn sinh ra BẤT (不) mãn cho người trồng.</p>",
+      "content_text": "Cây (木) bị bẻ ngọn sinh ra BẤT (不) mãn cho người trồng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

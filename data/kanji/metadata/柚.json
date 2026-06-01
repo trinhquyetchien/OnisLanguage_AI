@@ -1,0 +1,55 @@
+{
+  "kanji": "柚",
+  "meta": {
+    "weight": 1325,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユ",
+      "ユウ",
+      "ジク"
+    ],
+    "kun": [
+      "ゆず"
+    ],
+    "am_han": "DỮU, TRỤC"
+  },
+  "meaning": {
+    "vi": "cây thanh yên - thuộc họ cam quýt",
+    "en": "citron"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/柚.svg"
+  },
+  "frequency": 2489,
+  "examples": [
+    "柚子",
+    "柚"
+  ],
+  "explanation": {
+    "id": "7765",
+    "text": "柚 (đọc là \"yuzu\") có nghĩa là \"quả yuzu\", một loại trái cây chua thường được sử dụng trong ẩm thực Nhật Bản. \n\nVí dụ:\n- 柚子 (yuzu): Quả yuzu.\n- 柚子胡椒 (yuzu kosho): Gia vị làm từ yuzu và ớt.\n- "
+  },
+  "comments": [
+    {
+      "id": "154460",
+      "lang": "vi",
+      "content_html": "<p>Cây mọc tự do thân như TRỤC mà sai Dữu</p>",
+      "content_text": "Cây mọc tự do thân như TRỤC mà sai Dữu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

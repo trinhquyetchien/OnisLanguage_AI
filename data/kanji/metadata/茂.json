@@ -1,0 +1,87 @@
+{
+  "kanji": "茂",
+  "meta": {
+    "weight": 2272,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モ"
+    ],
+    "kun": [
+      "しげ.る"
+    ],
+    "am_han": "MẬU"
+  },
+  "meaning": {
+    "vi": "mọc um tùm, mọc dày, um tùm",
+    "en": "overgrown, grow thick, be luxuriant"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/茂.svg"
+  },
+  "frequency": 1188,
+  "examples": [
+    "茂み",
+    "生い茂る"
+  ],
+  "explanation": {
+    "id": "7593",
+    "text": "茂 (đọc là \"shū\" hoặc \"mo\") có nghĩa là \"rậm rạp\", \"xum xuê\", thường dùng để chỉ thực vật, cây cối phát triển tốt và dày đặc.\n\nVí dụ:\n- 茂み (shigemi): Bụi rậm, chỗ cây cối um tùm.\n- 茂る (shiger"
+  },
+  "comments": [
+    {
+      "id": "156500",
+      "lang": "vi",
+      "content_html": "<p>cỏ hình thành nên bụi rậm</p>",
+      "content_text": "cỏ hình thành nên bụi rậm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156501",
+      "lang": "vi",
+      "content_html": "<p>Qua sườn núi có bụi cỏ Mâu nặng MẬU</p>",
+      "content_text": "Qua sườn núi có bụi cỏ Mâu nặng MẬU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156502",
+      "lang": "vi",
+      "content_html": "<p>Bụi cây mọc um tùm hoa Mậu</p>",
+      "content_text": "Bụi cây mọc um tùm hoa Mậu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

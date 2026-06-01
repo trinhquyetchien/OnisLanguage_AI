@@ -1,0 +1,90 @@
+{
+  "kanji": "叩",
+  "meta": {
+    "weight": 434,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "たた.く",
+      "はた.く",
+      "すぎ"
+    ],
+    "am_han": "KHẤU"
+  },
+  "meaning": {
+    "vi": "đình công, đánh bại, kow tow, hit, thrash, chỉ trích",
+    "en": "strike, beat, kow tow, hit, thrash, criticize"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/叩.svg"
+  },
+  "frequency": 2316,
+  "examples": [
+    "叩き",
+    "叩く",
+    "袋叩き"
+  ],
+  "explanation": {
+    "id": "5069",
+    "text": "叩 (đọc là \"kaku\" hoặc \"tataku\") có nghĩa là \"gõ\", \"đánh\" để chỉ các hành động liên quan đến việc gõ, đập hay tương tác với một bề mặt nào đó.  \nVí dụ:  \n- 叩く (tataku): Gõ, đánh.  \n- 叩きつける (t"
+  },
+  "comments": [
+    {
+      "id": "152271",
+      "lang": "vi",
+      "content_html": "<p>OP là khấu mà EP là ấn</p>",
+      "content_text": "OP là khấu mà EP là ấn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152272",
+      "lang": "vi",
+      "content_html": "<p>(Tù nhân) miệng ngậm tre Khấu đầu van xin</p>",
+      "content_text": "(Tù nhân) miệng ngậm tre Khấu đầu van xin",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152273",
+      "lang": "vi",
+      "content_html": "<p>OnePiece đập nhau tới tấp</p>",
+      "content_text": "OnePiece đập nhau tới tấp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

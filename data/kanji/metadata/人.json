@@ -1,0 +1,93 @@
+{
+  "kanji": "人",
+  "meta": {
+    "weight": 131,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジン",
+      "ニン"
+    ],
+    "kun": [
+      "ひと",
+      "-り",
+      "-と"
+    ],
+    "am_han": "NHÂN"
+  },
+  "meaning": {
+    "vi": "người",
+    "en": "person"
+  },
+  "stroke": {
+    "count": 2,
+    "svg": "assets/svg/人.svg"
+  },
+  "frequency": 5,
+  "examples": [
+    "人",
+    "人間",
+    "個人",
+    "日本人",
+    "人々"
+  ],
+  "explanation": {
+    "id": "4144",
+    "text": "人 (đọc là \"hito\") có nghĩa là \"người\", chỉ các cá nhân hoặc con người nói chung.  \nVí dụ:  \n- 人間 (ningen): Con người, nhân loại.  \n- 大人 (otona): Người lớn, trưởng thành.  \n- 人口 (jinkō): Dân "
+  },
+  "comments": [
+    {
+      "id": "493",
+      "lang": "vi",
+      "content_html": "<p>Con <strong>người </strong>đứng bằng 2 chân</p>",
+      "content_text": "Con\nngười\nđứng bằng 2 chân",
+      "image_url": "https://jpdictionary.com/upload/images/6297647fd37cf.jpg",
+      "image_path": "assets/images/人_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190871",
+      "lang": "vi",
+      "content_html": "<p><strong>người</strong></p>",
+      "content_text": "người",
+      "image_url": "https://jpdictionary.com/upload/images/648a60524e075.jpg",
+      "image_path": "assets/images/人_2.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158210",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>人 (ひと): người</p><p>日本人 (にほんじん): người Nhật</p><p>一人 (ひとり): 1 người</p><p>二人 (ふたり): 2 người</p><p>三人 (さんにん): 3 người</p>",
+      "content_text": "JLPT N5\n人 (ひと): người\n日本人 (にほんじん): người Nhật\n一人 (ひとり): 1 người\n二人 (ふたり): 2 người\n三人 (さんにん): 3 người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

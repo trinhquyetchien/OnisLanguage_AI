@@ -1,0 +1,108 @@
+{
+  "kanji": "仏",
+  "meta": {
+    "weight": 137,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ブツ",
+      "フツ"
+    ],
+    "kun": [
+      "ほとけ"
+    ],
+    "am_han": "PHẬT"
+  },
+  "meaning": {
+    "vi": "Phật",
+    "en": "Buddha, the dead, France"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/仏.svg"
+  },
+  "frequency": 819,
+  "examples": [
+    "仏",
+    "仏教",
+    "仏壇",
+    "仏像",
+    "念仏"
+  ],
+  "explanation": {
+    "id": "6937",
+    "text": "仏 (đọc là \"butsu\" hoặc \"hotoke\") có nghĩa là \"Phật\", chỉ về người đã đạt được giác ngộ trong Phật giáo. \n\nVí dụ:\n- 仏教 (bukkyō): Đạo Phật, tôn giáo Phật giáo.\n- 仏像 (butsuzō): Tượng Phật.\n- 仏壇"
+  },
+  "comments": [
+    {
+      "id": "190875",
+      "lang": "vi",
+      "content_html": "<p><strong>PHẬT</strong></p>",
+      "content_text": "PHẬT",
+      "image_url": "https://jpdictionary.com/upload/images/648a619555636.jpg",
+      "image_path": "assets/images/仏_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "151532",
+      "lang": "vi",
+      "content_html": "<p>Người cứ ngồi KHƯ KHƯ một chỗ là PHẬT</p>",
+      "content_text": "Người cứ ngồi KHƯ KHƯ một chỗ là PHẬT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151533",
+      "lang": "vi",
+      "content_html": "<p>trong Ta(私) có Phật (仏).</p>",
+      "content_text": "trong Ta(私) có Phật (仏).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151534",
+      "lang": "vi",
+      "content_html": "<p>PHẬT là NGƯỜI MŨI TO</p>",
+      "content_text": "PHẬT là NGƯỜI MŨI TO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

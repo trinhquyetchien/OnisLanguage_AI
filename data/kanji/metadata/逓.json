@@ -1,0 +1,88 @@
+{
+  "kanji": "逓",
+  "meta": {
+    "weight": 2654,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "かわ.る",
+      "たがいに"
+    ],
+    "am_han": "ĐỆ"
+  },
+  "meaning": {
+    "vi": "chuyển tiếp, lần lượt, gửi",
+    "en": "relay, in turn, sending"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/逓.svg"
+  },
+  "frequency": 1957,
+  "examples": [
+    "逓減",
+    "逓信"
+  ],
+  "explanation": {
+    "id": "5600",
+    "text": "逓 (đọc là \"tei\") có nghĩa là \"chuyển giao\" hoặc \"gửi\" để chỉ các hành động liên quan đến việc chuyển tiếp, truyền đạt thông tin hoặc hàng hóa.\n\nVí dụ:\n- 逓信 (teishin): Gửi thư.\n- 逓減 (teigen):"
+  },
+  "comments": [
+    {
+      "id": "157321",
+      "lang": "vi",
+      "content_html": "<p>cầm 2 cái khăn và búa đi đệ trình trên con đường này</p>",
+      "content_text": "cầm 2 cái khăn và búa đi đệ trình trên con đường này",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157322",
+      "lang": "vi",
+      "content_html": "<p>Đệ trình là j mọi người</p>",
+      "content_text": "Đệ trình là j mọi người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157323",
+      "lang": "vi",
+      "content_html": "<p>đệ trình 2 cái khăn trên đường dưới sườn núi</p>",
+      "content_text": "đệ trình 2 cái khăn trên đường dưới sườn núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

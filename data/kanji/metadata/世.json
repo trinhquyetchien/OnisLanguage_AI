@@ -1,0 +1,92 @@
+{
+  "kanji": "世",
+  "meta": {
+    "weight": 83,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "セ",
+      "ソウ"
+    ],
+    "kun": [
+      "よ"
+    ],
+    "am_han": "THẾ"
+  },
+  "meaning": {
+    "vi": "thế hệ, thế giới",
+    "en": "generation, world, society, public"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/世.svg"
+  },
+  "frequency": 135,
+  "examples": [
+    "世界",
+    "世紀",
+    "世",
+    "世代",
+    "世の中"
+  ],
+  "explanation": {
+    "id": "4280",
+    "text": "世 (đọc là \"sei\" hoặc \"yo\") có nghĩa là \"thế giới\", \"thế hệ\" hoặc \"cuộc sống\". \n\nVí dụ:\n- 世界 (sekai): Thế giới.\n- 世代 (sedai): Thế hệ.\n- 世話 (sewa): Sự chăm sóc, giúp đỡ."
+  },
+  "comments": [
+    {
+      "id": "190858",
+      "lang": "vi",
+      "content_html": "",
+      "content_text": "",
+      "image_url": "https://jpdictionary.com/upload/images/648a45c2c298d.jpg",
+      "image_path": "assets/images/世_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36910",
+      "lang": "vi",
+      "content_html": "<p>Chữ 「せ」 trong từ 「せかい」 (<strong>thế giới</strong>) được tạo thành từ chữ Hán này.</p>",
+      "content_text": "Chữ 「せ」 trong từ 「せかい」 (\nthế giới\n) được tạo thành từ chữ Hán này.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4054c9718.jpg",
+      "image_path": "assets/images/世_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151412",
+      "lang": "vi",
+      "content_html": "<p>nhìn gần giống với chữ (せ) trong せかい thế giới</p>",
+      "content_text": "nhìn gần giống với chữ (せ) trong せかい thế giới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

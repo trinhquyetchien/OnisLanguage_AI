@@ -1,0 +1,85 @@
+{
+  "kanji": "鰻",
+  "meta": {
+    "weight": 2990,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マン",
+      "バン"
+    ],
+    "kun": [
+      "うなぎ"
+    ],
+    "am_han": "MAN"
+  },
+  "meaning": {
+    "vi": "con lươn",
+    "en": "eel"
+  },
+  "stroke": {
+    "count": 22,
+    "svg": "assets/svg/鰻.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "329",
+    "text": "鰻 (đọc là \"unagi\") có nghĩa là \"lươn\", chỉ loại cá sống dưới nước, thường được sử dụng trong ẩm thực Nhật Bản. \n\nVí dụ:\n- 鰻丼 (unadon): Cơm lươn, món ăn gồm cơm và lươn nướng.\n- 鰻屋 (unagiya):"
+  },
+  "comments": [
+    {
+      "id": "221113",
+      "lang": "vi",
+      "content_html": "<p>Cá mà nằm Võng bị mặt trời chiếu Lại biến thành lươn</p>",
+      "content_text": "Cá mà nằm Võng bị mặt trời chiếu Lại biến thành lươn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221114",
+      "lang": "vi",
+      "content_html": "<p>Lươn là 1 loại cá (魚) dài (曼)</p>",
+      "content_text": "Lươn là 1 loại cá (魚) dài (曼)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221115",
+      "lang": "vi",
+      "content_html": "<p>CÁ mà MẶT TRỜI chiếu lên VÕNG LƯỚI và LẶP LẠI  --  là LƯƠN MAN</p>",
+      "content_text": "CÁ mà MẶT TRỜI chiếu lên VÕNG LƯỚI và LẶP LẠI  --  là LƯƠN MAN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "酢",
+  "meta": {
+    "weight": 2717,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サク"
+    ],
+    "kun": [
+      "す"
+    ],
+    "am_han": "TẠC"
+  },
+  "meaning": {
+    "vi": "dấm, chua",
+    "en": "vinegar, sour, acid, tart"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/酢.svg"
+  },
+  "frequency": 1955,
+  "examples": [
+    "酢",
+    "ポン酢",
+    "酢の物",
+    "酢酸",
+    "梅酢"
+  ],
+  "explanation": {
+    "id": "4191",
+    "text": "酢 (đọc là \"su\") có nghĩa là \"giấm\", chỉ loại gia vị chua được làm từ quá trình lên men.  \nVí dụ:  \n- 酢飯 (sumeshi): Cơm giấm, thường dùng trong sushi.  \n- 米酢 (komezu): Giấm gạo.  \n- 酢酸 (suan)"
+  },
+  "comments": [
+    {
+      "id": "157479",
+      "lang": "vi",
+      "content_html": "<p>Rượu Ép (F) thành Giấm</p>",
+      "content_text": "Rượu Ép (F) thành Giấm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157480",
+      "lang": "vi",
+      "content_html": "<p>giấm được tạo (tạc) ra từ rượu</p>",
+      "content_text": "giấm được tạo (tạc) ra từ rượu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157481",
+      "lang": "vi",
+      "content_html": "<p>rượu bị ép thành giấm ăn ( tạc)</p>",
+      "content_text": "rượu bị ép thành giấm ăn ( tạc)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

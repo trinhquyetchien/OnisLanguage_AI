@@ -1,0 +1,87 @@
+{
+  "kanji": "嘗",
+  "meta": {
+    "weight": 517,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ",
+      "ジョウ"
+    ],
+    "kun": [
+      "かつ.て",
+      "こころ.みる",
+      "な.める"
+    ],
+    "am_han": "THƯỜNG"
+  },
+  "meaning": {
+    "vi": "một lần, trước đây, đã từng, không bao giờ, ex-, liếm, lòng, đốt cháy lên, nếm, trải qua, đánh giá thấp, coi thường",
+    "en": "once, before, formerly, ever, never, ex-, lick, lap up, burn up, taste, undergo, underrate, despise"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/嘗.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3770",
+    "text": "嘗 (đọc là \"shou\") có nghĩa là \"nếm\", \"thử\" để chỉ hành động thưởng thức hoặc kiểm tra hương vị của một cái gì đó.\n\nVí dụ:\n- 嘗める (nameru): Nếm, thử.\n- 嘗試 (shoushi): Thử nghiệm, thử sức.\n- 嘗て "
+  },
+  "comments": [
+    {
+      "id": "219151",
+      "lang": "vi",
+      "content_html": "<p>đã có thời ngày qua ngày (日) ngồi nhà（ヒ） há miêng(口) chờ sung</p>",
+      "content_text": "đã có thời ngày qua ngày (日) ngồi nhà（ヒ） há miêng(口) chờ sung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219152",
+      "lang": "vi",
+      "content_html": "<p>TRƯỚC KIA ĐÃ TỪNG BẢY (ヒ) NGÀY(日) há MIỆNG chờ sung. Thật bất bình THƯỜNG<br><br>- Chỉnh sửa theo câu của bạn Hoàn để nhớ luôn âm Hán Việt</p>",
+      "content_text": "TRƯỚC KIA ĐÃ TỪNG BẢY (ヒ) NGÀY(日) há MIỆNG chờ sung. Thật bất bình THƯỜNG\n- Chỉnh sửa theo câu của bạn Hoàn để nhớ luôn âm Hán Việt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219153",
+      "lang": "vi",
+      "content_html": "<p>chỉ tay vào hòa thượng là hành động coi thường</p>",
+      "content_text": "chỉ tay vào hòa thượng là hành động coi thường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

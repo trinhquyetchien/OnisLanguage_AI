@@ -1,0 +1,56 @@
+{
+  "kanji": "廟",
+  "meta": {
+    "weight": 880,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビョウ",
+      "ミョウ"
+    ],
+    "kun": [
+      "たまや",
+      "みたまや",
+      "やしろ"
+    ],
+    "am_han": "MIẾU"
+  },
+  "meaning": {
+    "vi": "lăng, miếu, cung điện",
+    "en": "mausoleum, shrine, palace"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/廟.svg"
+  },
+  "frequency": 2101,
+  "examples": [
+    "廟",
+    "霊廟"
+  ],
+  "explanation": {
+    "id": "6722",
+    "text": "廟 (đọc là \"byō\") có nghĩa là \"đền thờ\" hoặc \"miếu\" để chỉ nơi thờ cúng, thường dành cho các vị thần hoặc tổ tiên.\n\nVí dụ:\n- 廟 (byō): Đền thờ.\n- 廟祭 (byōsai): Lễ hội tại đền thờ.\n- 家廟 (kyabyō)"
+  },
+  "comments": [
+    {
+      "id": "153365",
+      "lang": "vi",
+      "content_html": "<p>MÁI HIÊN để chôn hoàng đế lúc SÁNG SỚM  --  LĂNG MIẾU</p>",
+      "content_text": "MÁI HIÊN để chôn hoàng đế lúc SÁNG SỚM  --  LĂNG MIẾU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

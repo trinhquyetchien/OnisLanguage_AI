@@ -1,0 +1,99 @@
+{
+  "kanji": "悪",
+  "meta": {
+    "weight": 980,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アク",
+      "オ"
+    ],
+    "kun": [
+      "わる.い",
+      "わる-",
+      "あ.し",
+      "にく.い",
+      "-にく.い",
+      "ああ",
+      "いずくに",
+      "いずくんぞ",
+      "にく.む"
+    ],
+    "am_han": "ÁC"
+  },
+  "meaning": {
+    "vi": "xấu xa, độc ác",
+    "en": "bad, vice, rascal, false, evil, wrong"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/悪.svg"
+  },
+  "frequency": 530,
+  "examples": [
+    "悪い",
+    "悪",
+    "最悪",
+    "悪化",
+    "悪魔"
+  ],
+  "explanation": {
+    "id": "33",
+    "text": "悪 (đọc là \"aku\") có nghĩa là \"xấu\", \"ác\" để chỉ những điều không tốt, tiêu cực hoặc hành vi xấu.\n\nVí dụ:\n- 悪化 (akka): Tình trạng xấu đi, diễn biến xấu.\n- 悪戯 (itazura): Trò nghịch ngợm, quậy "
+  },
+  "comments": [
+    {
+      "id": "1045",
+      "lang": "vi",
+      "content_html": "<p>Trái tim (心) họ cảm thấy <strong>xấu</strong> (悪) về nhau.</p>",
+      "content_text": "Trái tim (心) họ cảm thấy\nxấu\n(悪) về nhau.",
+      "image_url": "https://jpdictionary.com/upload/images/62a1f99727928.png",
+      "image_path": "assets/images/悪_1.png",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191024",
+      "lang": "vi",
+      "content_html": "<p><strong>tồi tệ </strong>- 気持ちが悪い</p>",
+      "content_text": "tồi tệ\n- 気持ちが悪い",
+      "image_url": "https://jpdictionary.com/upload/images/648a8f4f05887.jpg",
+      "image_path": "assets/images/悪_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "153611",
+      "lang": "vi",
+      "content_html": "<p>Người mà HAI MỒM 亜 là có TÂM 心 địa độc ÁC 悪</p>",
+      "content_text": "Người mà HAI MỒM 亜 là có TÂM 心 địa độc ÁC 悪",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

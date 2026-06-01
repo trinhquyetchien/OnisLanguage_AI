@@ -1,0 +1,53 @@
+{
+  "kanji": "僻",
+  "meta": {
+    "weight": 247,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘキ",
+      "ヒ",
+      "ヘイ"
+    ],
+    "kun": [
+      "へき.する",
+      "ひが.む"
+    ],
+    "am_han": "TÍCH"
+  },
+  "meaning": {
+    "vi": "thành kiến, thiên vị, khu vực nông thôn",
+    "en": "prejudice, bias, rural area"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/僻.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7026",
+    "text": "僻 (đọc là \"heki\" hoặc \"hiki\") có nghĩa là \"hẻo lánh\", \"kỳ quặc\" để chỉ những nơi xa xôi hoặc tính cách khác thường.  \nVí dụ:  \n- 僻地 (hekichi): Nơi hẻo lánh, vùng sâu vùng xa.  \n- 僻み (hekami)"
+  },
+  "comments": [
+    {
+      "id": "218910",
+      "lang": "vi",
+      "content_html": "<p>Người nào Nghe miệng cương thi nói bao lần cay đắng thì sẽ mất Tích</p>",
+      "content_text": "Người nào Nghe miệng cương thi nói bao lần cay đắng thì sẽ mất Tích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "陽",
+  "meta": {
+    "weight": 2836,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "ひ"
+    ],
+    "am_han": "DƯƠNG"
+  },
+  "meaning": {
+    "vi": "ánh sáng mặt trời, thái dương",
+    "en": "sunshine, yang principle, positive, male, heaven, daytime"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/陽.svg"
+  },
+  "frequency": 1071,
+  "examples": [
+    "太陽",
+    "陽",
+    "陽気",
+    "陽子",
+    "太陽光"
+  ],
+  "explanation": {
+    "id": "7911",
+    "text": "陽 (đọc là \"yō\") có nghĩa là \"mặt trời\", \"ánh sáng\" hoặc \"tích cực\", thường liên quan đến những điều tươi sáng và năng lượng.  \nVí dụ:  \n- 陽射し (hizashi): Ánh nắng, ánh sáng mặt trời.  \n- 陽気 ("
+  },
+  "comments": [
+    {
+      "id": "157717",
+      "lang": "vi",
+      "content_html": "<p>Bố Dương làm việc ở công trường dưới ánh mặt trời</p>",
+      "content_text": "Bố Dương làm việc ở công trường dưới ánh mặt trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157719",
+      "lang": "vi",
+      "content_html": "<p>vật(vật) vã suốt cả ngày(nhật) với con bồ dưới ánh dương</p>",
+      "content_text": "vật(vật) vã suốt cả ngày(nhật) với con bồ dưới ánh dương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157718",
+      "lang": "vi",
+      "content_html": "<p>Mặt trời lấp ló sau đồi là Dương</p>",
+      "content_text": "Mặt trời lấp ló sau đồi là Dương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

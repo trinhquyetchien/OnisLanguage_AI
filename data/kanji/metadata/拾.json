@@ -1,0 +1,108 @@
+{
+  "kanji": "拾",
+  "meta": {
+    "weight": 1086,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ",
+      "ジュウ"
+    ],
+    "kun": [
+      "ひろ.う"
+    ],
+    "am_han": "THẬP"
+  },
+  "meaning": {
+    "vi": "nhặt, thu thập",
+    "en": "pick up, gather, find, go on foot, ten"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/拾.svg"
+  },
+  "frequency": 1479,
+  "examples": [
+    "拾い",
+    "拾う",
+    "収拾",
+    "拾い読み",
+    "拾"
+  ],
+  "explanation": {
+    "id": "3487",
+    "text": "拾 (đọc là \"shuu\" hoặc \"tobu\") có nghĩa là \"nhặt\", \"thu thập\" để chỉ các hành động liên quan đến việc nhặt hoặc thu gom đồ vật.  \nVí dụ:  \n- 拾う (hirou): Nhặt lên, thu gom.  \n- 拾得物 (shuutakubu"
+  },
+  "comments": [
+    {
+      "id": "37350",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã <strong>nhặt </strong>tờ 10.000 yên từ sọt rác.</p>",
+      "content_text": "Tôi đã\nnhặt\ntờ 10.000 yên từ sọt rác.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe9bee2185.jpg",
+      "image_path": "assets/images/拾_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153895",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay để thu thập, tập hợp lại</p>",
+      "content_text": "Dùng tay để thu thập, tập hợp lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153896",
+      "lang": "vi",
+      "content_html": "<p>cái gì Hợp Tay thì lượm luôn</p>",
+      "content_text": "cái gì Hợp Tay thì lượm luôn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153897",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay手mà hợp 合 để thu thập 拾 những thứ quan trọng</p>",
+      "content_text": "Dùng tay手mà hợp 合 để thu thập 拾 những thứ quan trọng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

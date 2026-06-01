@@ -1,0 +1,33 @@
+{
+  "kanji": "輯",
+  "meta": {
+    "weight": 2619,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "あつ.める",
+      "やわ.らぐ"
+    ],
+    "am_han": "TẬP"
+  },
+  "meaning": {
+    "vi": "tập hợp, thu thập, biên dịch",
+    "en": "gather, collect, compile"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/輯.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3527",
+    "text": "輯 (đọc là \"jiku\") có nghĩa là \"kết nối\", \"liên kết\" để chỉ các hành động liên quan đến việc kết hợp hoặc tổ chức thông tin.\n\nVí dụ:\n- 輯録 (jikuroku): Ghi chép, hồ sơ.\n- 輯む (jiku mu): Tập hợp,"
+  },
+  "comments": []
+}

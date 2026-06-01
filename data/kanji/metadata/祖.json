@@ -1,0 +1,105 @@
+{
+  "kanji": "祖",
+  "meta": {
+    "weight": 1904,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ"
+    ],
+    "kun": [],
+    "am_han": "TỔ"
+  },
+  "meaning": {
+    "vi": "tổ tiên",
+    "en": "ancestor, pioneer, founder"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/祖.svg"
+  },
+  "frequency": 1226,
+  "examples": [
+    "祖母",
+    "祖父",
+    "先祖",
+    "祖国",
+    "祖先"
+  ],
+  "explanation": {
+    "id": "4637",
+    "text": "祖 (đọc là \"so\") có nghĩa là \"tổ tiên\", \"người sáng lập\" để chỉ các thế hệ trước hoặc nguồn gốc của một dòng họ, gia đình.\n\nVí dụ:\n- 祖先 (sosen): Tổ tiên.\n- 祖国 (sokoku): Tổ quốc.\n- 祖父 (sofu): "
+  },
+  "comments": [
+    {
+      "id": "155691",
+      "lang": "vi",
+      "content_html": "<p>tổ tiên họ thị sống trong ngôi nhà 3 tầng</p>",
+      "content_text": "tổ tiên họ thị sống trong ngôi nhà 3 tầng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155692",
+      "lang": "vi",
+      "content_html": "<p>祖: Tổ tiên nề nếp<br>租: Hòa bình đặt thuế má<br>粗: Gạo thô<br>阻: Gò đất cản trở<br>組: Sợi dây nối tổ chức</p>",
+      "content_text": "祖: Tổ tiên nề nếp\n租: Hòa bình đặt thuế má\n粗: Gạo thô\n阻: Gò đất cản trở\n組: Sợi dây nối tổ chức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155693",
+      "lang": "vi",
+      "content_html": "<p>Chỉ Thị của Tổ tiên là không được sống buông Thả.</p>",
+      "content_text": "Chỉ Thị của Tổ tiên là không được sống buông Thả.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221822",
+      "lang": "vi",
+      "content_html": "<p><strong>礻(Sùng bái) &nbsp;+ 且 (Bài vị - Tượng hình) =&gt; Sùng bái bài vị -&gt; Tổ tiên</strong></p>",
+      "content_text": "礻(Sùng bái)  + 且 (Bài vị - Tượng hình) => Sùng bái bài vị -> Tổ tiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

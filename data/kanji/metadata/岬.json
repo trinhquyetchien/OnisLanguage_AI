@@ -1,0 +1,86 @@
+{
+  "kanji": "岬",
+  "meta": {
+    "weight": 792,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "みさき"
+    ],
+    "am_han": "GIÁP"
+  },
+  "meaning": {
+    "vi": "mũi đất, mỏm đất",
+    "en": "headland, cape, spit, promontory"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/岬.svg"
+  },
+  "frequency": 1972,
+  "examples": [
+    "岬"
+  ],
+  "explanation": {
+    "id": "7482",
+    "text": "岬 (đọc là \"misaki\") có nghĩa là \"mũi đất\", thường chỉ những phần đất nhô ra biển. \n\nVí dụ:\n- 岬角 (misakikaku): Góc mũi đất.\n- 白岬 (shiramizaki): Mũi đất trắng.\n- 岬灯台 (misakitōdai): Hải đăng tr"
+  },
+  "comments": [
+    {
+      "id": "153143",
+      "lang": "vi",
+      "content_html": "<p>ở cạnh núi có mot mảnh ruộng chồi lên gọi là mũi đất</p>",
+      "content_text": "ở cạnh núi có mot mảnh ruộng chồi lên gọi là mũi đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153144",
+      "lang": "vi",
+      "content_html": "<p>giáp núi có một mảnh đất chòi lên gọi là mũi đất</p>",
+      "content_text": "giáp núi có một mảnh đất chòi lên gọi là mũi đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153145",
+      "lang": "vi",
+      "content_html": "<p>Giáp núi có cái ruộng chồi lên là vệ núi</p>",
+      "content_text": "Giáp núi có cái ruộng chồi lên là vệ núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

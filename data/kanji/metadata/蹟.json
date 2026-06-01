@@ -1,0 +1,51 @@
+{
+  "kanji": "蹟",
+  "meta": {
+    "weight": 2600,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ",
+      "シャク"
+    ],
+    "kun": [
+      "あと"
+    ],
+    "am_han": "TÍCH"
+  },
+  "meaning": {
+    "vi": "còn lại, dấu vết, dấu chân",
+    "en": "remains, traces, footprint"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/蹟.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4424",
+    "text": "蹟 (đọc là \"seki\" hoặc \"shaku\") có nghĩa là \"dấu tích\", \"dấu vết\" để chỉ những gì còn lại từ một hoạt động hoặc sự kiện trong quá khứ.  \nVí dụ:  \n- 足跡 (ashiato): Dấu chân, dấu tích của người "
+  },
+  "comments": [
+    {
+      "id": "220793",
+      "lang": "vi",
+      "content_html": "<p>đi bộ mà vẫn phải chịu trách nhiệm đúng là truyện cổ tích</p>",
+      "content_text": "đi bộ mà vẫn phải chịu trách nhiệm đúng là truyện cổ tích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

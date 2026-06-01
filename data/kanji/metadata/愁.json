@@ -1,0 +1,88 @@
+{
+  "kanji": "愁",
+  "meta": {
+    "weight": 995,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "うれ.える",
+      "うれ.い"
+    ],
+    "am_han": "SẦU"
+  },
+  "meaning": {
+    "vi": "đau khổ, đau buồn, than thở, lo lắng",
+    "en": "distress, grieve, lament, be anxious"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/愁.svg"
+  },
+  "frequency": 2171,
+  "examples": [
+    "哀愁",
+    "郷愁"
+  ],
+  "explanation": {
+    "id": "3484",
+    "text": "感 (đọc là \"shū\") có nghĩa là \"buồn bã\", \"lo lắng\" để chỉ cảm giác u ám, trăn trở trong tâm trí.\nVí dụ:\n- 愁い (urami): Nỗi buồn, sự tiếc nuối.\n- 愁苦 (shūku): Nỗi khổ, sự đau buồn.\n- 愁訴 (shūsso)"
+  },
+  "comments": [
+    {
+      "id": "153652",
+      "lang": "vi",
+      "content_html": "<p>mùa thu cây lá đỏ như lửa sinh tâm trạng u sầu buồn bã</p>",
+      "content_text": "mùa thu cây lá đỏ như lửa sinh tâm trạng u sầu buồn bã",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153653",
+      "lang": "vi",
+      "content_html": "<p>bộ phim trái tim mùa thu rất bi sầu</p>",
+      "content_text": "bộ phim trái tim mùa thu rất bi sầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153654",
+      "lang": "vi",
+      "content_html": "<p>mỗi năm đến thu lòng man mác buồn</p>",
+      "content_text": "mỗi năm đến thu lòng man mác buồn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

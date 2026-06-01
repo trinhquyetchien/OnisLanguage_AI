@@ -1,0 +1,93 @@
+{
+  "kanji": "没",
+  "meta": {
+    "weight": 1504,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボツ",
+      "モツ"
+    ],
+    "kun": [
+      "おぼ.れる",
+      "しず.む",
+      "ない"
+    ],
+    "am_han": "MỘT, MỊT, MỐT"
+  },
+  "meaning": {
+    "vi": "chết đuối, chìm, ẩn, rơi vào, biến mất, chết",
+    "en": "drown, sink, hide, fall into, disappear, die"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/没.svg"
+  },
+  "frequency": 1385,
+  "examples": [
+    "没頭",
+    "沈没",
+    "没収",
+    "出没",
+    "没"
+  ],
+  "explanation": {
+    "id": "7344",
+    "text": "没 (đọc là \"motsu\" hoặc \"bu\") có nghĩa là \"không\", \"biến mất\", thường chỉ sự thiếu hụt hoặc không tồn tại.\n\nVí dụ:\n- 没収 (boshū): Tịch thu, thu hồi.\n- 没落 (boraku): Sụp đổ, suy tàn.\n- 没頭 (bottō"
+  },
+  "comments": [
+    {
+      "id": "154799",
+      "lang": "vi",
+      "content_html": "<p>Thù này dù có phải xuống Nước cũng MỘT lòng trả</p>",
+      "content_text": "Thù này dù có phải xuống Nước cũng MỘT lòng trả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154800",
+      "lang": "vi",
+      "content_html": "<p>Nợ Nước Thù nhà MỘT hai phải trả.</p>",
+      "content_text": "Nợ Nước Thù nhà MỘT hai phải trả.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154801",
+      "lang": "vi",
+      "content_html": "<p>Ném hòn đá xuống nước 1 cái là chấm hết</p>",
+      "content_text": "Ném hòn đá xuống nước 1 cái là chấm hết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

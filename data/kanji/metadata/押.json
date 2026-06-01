@@ -1,0 +1,111 @@
+{
+  "kanji": "押",
+  "meta": {
+    "weight": 1068,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オウ"
+    ],
+    "kun": [
+      "お.す",
+      "お.し-",
+      "お.っ-",
+      "お.さえる",
+      "おさ.える"
+    ],
+    "am_han": "ÁP"
+  },
+  "meaning": {
+    "vi": "ấn",
+    "en": "push, stop, check, subdue, attach, seize, weight, shove, press, seal, do in spite of"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/押.svg"
+  },
+  "frequency": 789,
+  "examples": [
+    "押し",
+    "押す",
+    "押さえ",
+    "押し付け",
+    "押しつけ"
+  ],
+  "explanation": {
+    "id": "523",
+    "text": "押 (đọc là \"atsu\" hoặc \"oshi\") có nghĩa là \"ép\", \"ấn\" để chỉ các hành động liên quan đến việc đè nén, ấn xuống hoặc áp lực.\n\nVí dụ:\n- 押し込む (oshikomu): Ép vào, đẩy vào.\n- 押し出し (oshidashi): Đẩy"
+  },
+  "comments": [
+    {
+      "id": "36843",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã <strong>ấn </strong>biển báo.</p>",
+      "content_text": "Tôi đã\nấn\nbiển báo.",
+      "image_url": "https://jpdictionary.com/upload/images/62ac7de4b5ff7.jpg",
+      "image_path": "assets/images/押_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153844",
+      "lang": "vi",
+      "content_html": "<p>Dùng Tay đảo ngược tự do là Áp bức, nắm bắt</p>",
+      "content_text": "Dùng Tay đảo ngược tự do là Áp bức, nắm bắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153845",
+      "lang": "vi",
+      "content_html": "<p>TAY mang GIÁP ÁP vào địch</p>",
+      "content_text": "TAY mang GIÁP ÁP vào địch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158938",
+      "lang": "vi",
+      "content_html": "<p>後押し(あとおし): Đẩy từ phía sau</p>",
+      "content_text": "後押し(あとおし): Đẩy từ phía sau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

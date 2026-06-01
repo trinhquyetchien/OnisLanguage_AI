@@ -1,0 +1,34 @@
+{
+  "kanji": "樟",
+  "meta": {
+    "weight": 1418,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "くす"
+    ],
+    "am_han": "CHƯƠNG"
+  },
+  "meaning": {
+    "vi": "long não",
+    "en": "camphor"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/樟.svg"
+  },
+  "frequency": 2252,
+  "examples": [
+    "樟"
+  ],
+  "explanation": {
+    "id": "3845",
+    "text": "樟 (đọc là \"shou\") có nghĩa là \"cây tràm\", một loại cây thuộc họ Lauraceae, thường được sử dụng để lấy tinh dầu hoặc làm gỗ. \n\nVí dụ:\n- 樟脳 (shounou): Camphor, long não (chất chiết xuất từ cây"
+  },
+  "comments": []
+}

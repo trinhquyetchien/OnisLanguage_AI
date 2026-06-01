@@ -1,0 +1,94 @@
+{
+  "kanji": "流",
+  "meta": {
+    "weight": 1535,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リュウ",
+      "ル"
+    ],
+    "kun": [
+      "なが.れる",
+      "なが.れ",
+      "なが.す",
+      "-なが.す"
+    ],
+    "am_han": "LƯU"
+  },
+  "meaning": {
+    "vi": "dòng chảy, lưu thông",
+    "en": "current, a sink, flow, forfeit"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/流.svg"
+  },
+  "frequency": 280,
+  "examples": [
+    "流れ",
+    "交流",
+    "流",
+    "流通",
+    "流し"
+  ],
+  "explanation": {
+    "id": "8050",
+    "text": "流 (đọc là \"ryū\") có nghĩa là \"chảy\", \"lưu thông\" để chỉ các hành động liên quan đến việc di chuyển hoặc phân bố một cách tự nhiên, thường liên quan đến nước hoặc dòng chảy.\n\nVí dụ:\n- 流れる (na"
+  },
+  "comments": [
+    {
+      "id": "154886",
+      "lang": "vi",
+      "content_html": "<p>ĐẦU TƯ NƯỚC đổ ra SÔNG mới LƯU thông đc dòng chảy</p>",
+      "content_text": "ĐẦU TƯ NƯỚC đổ ra SÔNG mới LƯU thông đc dòng chảy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154887",
+      "lang": "vi",
+      "content_html": "<p>Nước đổ lên đầu dòng sông thì với lưu thông đc</p>",
+      "content_text": "Nước đổ lên đầu dòng sông thì với lưu thông đc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154888",
+      "lang": "vi",
+      "content_html": "<p>Anh LƯU đầu tư tiền nạo vét con sông cho nước chảy</p>",
+      "content_text": "Anh LƯU đầu tư tiền nạo vét con sông cho nước chảy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "朗",
+  "meta": {
+    "weight": 1273,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロウ"
+    ],
+    "kun": [
+      "ほが.らか",
+      "あき.らか"
+    ],
+    "am_han": "LÃNG"
+  },
+  "meaning": {
+    "vi": "du dương, rõ ràng, tươi sáng, thanh thản, vui vẻ",
+    "en": "melodious, clear, bright, serene, cheerful"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/朗.svg"
+  },
+  "frequency": 1374,
+  "examples": [
+    "朗読",
+    "朗報",
+    "明朗",
+    "朗らか"
+  ],
+  "explanation": {
+    "id": "20274",
+    "text": "朗 (đọc là \"rō\", \"raku\") có nghĩa là \"sáng sủa\", \"tươi sáng\" để chỉ sự tỏa sáng hoặc trạng thái vui vẻ, thoải mái.\n\nVí dụ:\n- 朗明 (rōmei): Sáng suốt, minh bạch.\n- 朗朗 (rōrō): Vui vẻ, tươi sáng ("
+  },
+  "comments": [
+    {
+      "id": "154337",
+      "lang": "vi",
+      "content_html": "<p>ngồi ăn dưới trăng thì thiệc lãng mạn ^^</p>",
+      "content_text": "ngồi ăn dưới trăng thì thiệc lãng mạn ^^",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154338",
+      "lang": "vi",
+      "content_html": "<p>mặt trăng lương thiện nhìn rạng rỡ tươi tắn nhất</p>",
+      "content_text": "mặt trăng lương thiện nhìn rạng rỡ tươi tắn nhất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154339",
+      "lang": "vi",
+      "content_html": "<p>Tháng Sáng sủa là tháng có nhiều điều Tốt xảy đến</p>",
+      "content_text": "Tháng Sáng sủa là tháng có nhiều điều Tốt xảy đến",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

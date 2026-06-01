@@ -1,0 +1,91 @@
+{
+  "kanji": "浴",
+  "meta": {
+    "weight": 1544,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨク"
+    ],
+    "kun": [
+      "あ.びる",
+      "あ.びせる"
+    ],
+    "am_han": "DỤC"
+  },
+  "meaning": {
+    "vi": "tắm",
+    "en": "bathe, be favored with, bask in"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/浴.svg"
+  },
+  "frequency": 1136,
+  "examples": [
+    "入浴",
+    "浴衣",
+    "浴びる",
+    "浴室",
+    "海水浴"
+  ],
+  "explanation": {
+    "id": "7927",
+    "text": "浴 (đọc là \"yoku\") có nghĩa là \"tắm\" hoặc \"ngâm mình\" để chỉ các hành động liên quan đến việc tắm rửa hoặc thư giãn trong nước.  \nVí dụ:  \n- 浴槽 (yokusō): Bồn tắm.  \n- 浴びる (abiru): Tắm, ngâm m"
+  },
+  "comments": [
+    {
+      "id": "154911",
+      "lang": "vi",
+      "content_html": "<p>Bạn gái DỤC đi TẮM ở tuyệt tình CỐC</p>",
+      "content_text": "Bạn gái DỤC đi TẮM ở tuyệt tình CỐC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154912",
+      "lang": "vi",
+      "content_html": "<p>Tắm nước trong tuyệt tình cốc</p>",
+      "content_text": "Tắm nước trong tuyệt tình cốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154913",
+      "lang": "vi",
+      "content_html": "<p>TÁM  NHÂN KHẨU đang tập thể DỤC nước NƯỚC</p>",
+      "content_text": "TÁM  NHÂN KHẨU đang tập thể DỤC nước NƯỚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

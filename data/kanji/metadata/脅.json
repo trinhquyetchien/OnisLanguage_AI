@@ -1,0 +1,109 @@
+{
+  "kanji": "脅",
+  "meta": {
+    "weight": 2192,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "おびや.かす",
+      "おど.す",
+      "おど.かす"
+    ],
+    "am_han": "HIẾP"
+  },
+  "meaning": {
+    "vi": "đe dọa, ép buộc",
+    "en": "threaten, coerce"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/脅.svg"
+  },
+  "frequency": 1183,
+  "examples": [
+    "脅威",
+    "脅迫",
+    "脅し",
+    "脅かす",
+    "脅かし"
+  ],
+  "explanation": {
+    "id": "1692",
+    "text": "脅 (đọc là \"kyō\" hoặc \"osoi\") có nghĩa là \"đe dọa\", \"uy hiếp\" để chỉ các hành động gây áp lực hoặc đe dọa người khác.\n\nVí dụ:\n- 脅迫 (kyōhaku): Đe dọa, uy hiếp.\n- 脅かす (obiyakasu): Đe dọa, làm s"
+  },
+  "comments": [
+    {
+      "id": "156326",
+      "lang": "vi",
+      "content_html": "<p>3 thế lực uy hiếp chị nguyệt ở dưới</p>",
+      "content_text": "3 thế lực uy hiếp chị nguyệt ở dưới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156327",
+      "lang": "vi",
+      "content_html": "<p>3 thằng lực đè chị nguyệt</p>",
+      "content_text": "3 thằng lực đè chị nguyệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156328",
+      "lang": "vi",
+      "content_html": "<p>3 tên dùng Lực uy HIẾP chị Nguyệt</p>",
+      "content_text": "3 tên dùng Lực uy HIẾP chị Nguyệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221939",
+      "lang": "vi",
+      "content_html": "<p>Chị Nguyệt quá khổ</p>",
+      "content_text": "Chị Nguyệt quá khổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6446",
+        "name": "Kin Cham",
+        "image_url": "https://jpdictionary.com/upload/images/67c248f09b488.png"
+      }
+    }
+  ]
+}

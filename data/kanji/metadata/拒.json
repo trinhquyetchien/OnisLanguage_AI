@@ -1,0 +1,89 @@
+{
+  "kanji": "拒",
+  "meta": {
+    "weight": 1073,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョ",
+      "ゴ"
+    ],
+    "kun": [
+      "こば.む"
+    ],
+    "am_han": "CỰ, CỦ"
+  },
+  "meaning": {
+    "vi": "đẩy lùi, từ chối",
+    "en": "repel, refuse, reject, decline"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/拒.svg"
+  },
+  "frequency": 863,
+  "examples": [
+    "拒否",
+    "拒絶",
+    "拒む"
+  ],
+  "explanation": {
+    "id": "1576",
+    "text": "拒 (đọc là \"kyo\") có nghĩa là \"từ chối\", \"cự tuyệt\" để chỉ việc không chấp nhận hoặc bác bỏ điều gì đó.\n\nVí dụ:\n- 拒否 (kyohi): Từ chối, phủ quyết.\n- 拒絶 (kyozetsu): Cự tuyệt, bác bỏ.\n- 拒食 (kyos"
+  },
+  "comments": [
+    {
+      "id": "153859",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm khiên chống cự</p>",
+      "content_text": "Tay cầm khiên chống cự",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153860",
+      "lang": "vi",
+      "content_html": "<p>Tay to chống cự tốt</p>",
+      "content_text": "Tay to chống cự tốt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153861",
+      "lang": "vi",
+      "content_html": "<p>Kháng CỰ bằng Tay</p>",
+      "content_text": "Kháng CỰ bằng Tay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

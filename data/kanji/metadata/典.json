@@ -1,0 +1,92 @@
+{
+  "kanji": "典",
+  "meta": {
+    "weight": 277,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テン",
+      "デン"
+    ],
+    "kun": [
+      "ふみ",
+      "のり"
+    ],
+    "am_han": "ĐIỂN"
+  },
+  "meaning": {
+    "vi": "luật, lễ, lệ",
+    "en": "code, ceremony, law, rule"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/典.svg"
+  },
+  "frequency": 1055,
+  "examples": [
+    "辞典",
+    "典型",
+    "古典",
+    "特典",
+    "事典"
+  ],
+  "explanation": {
+    "id": "5648",
+    "text": "典 (đọc là \"ten\") có nghĩa là \"tiêu chuẩn\", \"sách vở\" hoặc \"khuôn mẫu\", thường chỉ các văn bản, quy tắc hay hướng dẫn.  \nVí dụ:  \n- 典型 (tenkei): Tiêu biểu, đặc trưng.  \n- 典籍 (tenseki): Kinh đ"
+  },
+  "comments": [
+    {
+      "id": "151886",
+      "lang": "vi",
+      "content_html": "<p>tám ca khúc kinh điển</p>",
+      "content_text": "tám ca khúc kinh điển",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151887",
+      "lang": "vi",
+      "content_html": "<p>Ca khúc kinh điển sẽ đc đánh 2 dấu dưới chân</p>",
+      "content_text": "Ca khúc kinh điển sẽ đc đánh 2 dấu dưới chân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151888",
+      "lang": "vi",
+      "content_html": "<p>Khúc ca hát 8 lần đã đc vào từ ĐIỂN cổ ĐIỂN</p>",
+      "content_text": "Khúc ca hát 8 lần đã đc vào từ ĐIỂN cổ ĐIỂN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

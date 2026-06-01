@@ -1,0 +1,107 @@
+{
+  "kanji": "鋳",
+  "meta": {
+    "weight": 2767,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ",
+      "イ",
+      "シュ",
+      "シュウ"
+    ],
+    "kun": [
+      "い.る"
+    ],
+    "am_han": "CHÚ, CỤC"
+  },
+  "meaning": {
+    "vi": "đúc",
+    "en": "casting, mint"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/鋳.svg"
+  },
+  "frequency": 2005,
+  "examples": [
+    "鋳造",
+    "鋳物"
+  ],
+  "explanation": {
+    "id": "5304",
+    "text": "鋳 (đọc là \"chū\") có nghĩa là \"đúc\" để chỉ các hành động liên quan đến việc đúc kim loại hoặc tạo hình vật liệu.  \nVí dụ:  \n- 鋳造 (chūzō): Đúc, quá trình tạo ra các sản phẩm từ kim loại bằng c"
+  },
+  "comments": [
+    {
+      "id": "157570",
+      "lang": "vi",
+      "content_html": "<p>CHÚ thuổi THỌ đã cao nhưng vẫn làm ĐÚC kim loại!</p>",
+      "content_text": "CHÚ thuổi THỌ đã cao nhưng vẫn làm ĐÚC kim loại!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157571",
+      "lang": "vi",
+      "content_html": "<p>Chú Thọ nhà tau làm nghề đúc Vàng( Kim loại).</p>",
+      "content_text": "Chú Thọ nhà tau làm nghề đúc Vàng( Kim loại).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157572",
+      "lang": "vi",
+      "content_html": "<p>tăng tuổi thọ kim loại.. cần đúc lại nhiều lấn</p>",
+      "content_text": "tăng tuổi thọ kim loại.. cần đúc lại nhiều lấn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221899",
+      "lang": "vi",
+      "content_html": "<p>tuổi thọ càng cao đúc kim loại càng giỏi</p>",
+      "content_text": "tuổi thọ càng cao đúc kim loại càng giỏi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "2490",
+        "name": "Thanh Hải Nguyễn",
+        "image_url": "https://jpdictionary.com/upload/images/660671100ebb7.jpg"
+      }
+    }
+  ]
+}

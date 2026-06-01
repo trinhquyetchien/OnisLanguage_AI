@@ -1,0 +1,86 @@
+{
+  "kanji": "塾",
+  "meta": {
+    "weight": 595,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュク"
+    ],
+    "kun": [],
+    "am_han": "THỤC"
+  },
+  "meaning": {
+    "vi": "trường luyện thi, trường tư thục",
+    "en": "cram school, private school"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/塾.svg"
+  },
+  "frequency": 1297,
+  "examples": [
+    "塾",
+    "塾長",
+    "塾生"
+  ],
+  "explanation": {
+    "id": "3602",
+    "text": "塾 (đọc là \"juku\") có nghĩa là \"trường tư\", thường chỉ các lớp học bổ túc hoặc trung tâm dạy thêm. \n\nVí dụ:\n- 塾生 (jukusei): Học sinh của trường tư.\n- 学習塾 (gakushūjuku): Trung tâm học tập, lớp"
+  },
+  "comments": [
+    {
+      "id": "152657",
+      "lang": "vi",
+      "content_html": "<p>塾 = 亠  +  口 ＋ 子 ＋ 丸 ＋ 土 <br>Đứa trẻ có đầu hình vuông chạy vòng tròn quanh mảnh đất tư thục</p>",
+      "content_text": "塾 = 亠  +  口 ＋ 子 ＋ 丸 ＋ 土\nĐứa trẻ có đầu hình vuông chạy vòng tròn quanh mảnh đất tư thục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152658",
+      "lang": "vi",
+      "content_html": "<p>đứa trẻ đội mũ chạy vòng tròn trên bãi đất</p>",
+      "content_text": "đứa trẻ đội mũ chạy vòng tròn trên bãi đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152659",
+      "lang": "vi",
+      "content_html": "<p>trường học thêm tư thục có đất cho bọn trẻ chạy loanh quanh</p>",
+      "content_text": "trường học thêm tư thục có đất cho bọn trẻ chạy loanh quanh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

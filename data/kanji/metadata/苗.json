@@ -1,0 +1,92 @@
+{
+  "kanji": "苗",
+  "meta": {
+    "weight": 2265,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビョウ",
+      "ミョウ"
+    ],
+    "kun": [
+      "なえ",
+      "なわ-"
+    ],
+    "am_han": "MIÊU, MEO, MIỀU"
+  },
+  "meaning": {
+    "vi": "cây con, cây non, chồi non",
+    "en": "seedling, sapling, shoot"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/苗.svg"
+  },
+  "frequency": 1713,
+  "examples": [
+    "苗",
+    "苗字",
+    "早苗",
+    "苗木",
+    "種苗"
+  ],
+  "explanation": {
+    "id": "6735",
+    "text": "苗 (đọc là \"na\") có nghĩa là \"mầm, cây giống\" để chỉ các loại cây non hoặc mầm mống.  \nVí dụ:  \n- 苗木 (naegi): Cây giống, cây con.  \n- 稲苗 (inanae): Mạ lúa, cây lúa con.  \n- 苗圃 (naho): Vườn ươm"
+  },
+  "comments": [
+    {
+      "id": "156487",
+      "lang": "vi",
+      "content_html": "<p>Lúa non  ngoài ruộng miêu tả bằng hoa cỏ</p>",
+      "content_text": "Lúa non  ngoài ruộng miêu tả bằng hoa cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156488",
+      "lang": "vi",
+      "content_html": "<p>Miêu ơi ta bảo miêu này<br>Cây non ngoài ruộng mọc đầy đấy Miêu</p>",
+      "content_text": "Miêu ơi ta bảo miêu này\nCây non ngoài ruộng mọc đầy đấy Miêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156489",
+      "lang": "vi",
+      "content_html": "<p>mạ được miêu tả như hoa trên cánh đồng</p>",
+      "content_text": "mạ được miêu tả như hoa trên cánh đồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

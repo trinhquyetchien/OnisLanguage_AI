@@ -1,0 +1,96 @@
+{
+  "kanji": "乱",
+  "meta": {
+    "weight": 105,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ラン",
+      "ロン"
+    ],
+    "kun": [
+      "みだ.れる",
+      "みだ.る",
+      "みだ.す",
+      "みだ",
+      "おさ.める",
+      "わた.る"
+    ],
+    "am_han": "LOẠN"
+  },
+  "meaning": {
+    "vi": "bạo loạn",
+    "en": "riot, war, disorder, disturb"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/乱.svg"
+  },
+  "frequency": 755,
+  "examples": [
+    "混乱",
+    "乱",
+    "乱れ",
+    "乱暴",
+    "反乱"
+  ],
+  "explanation": {
+    "id": "7971",
+    "text": "乱 (đọc là \"ran\") có nghĩa là \"loạn\", chỉ các trạng thái hỗn loạn, bạo loạn hoặc sự mất trật tự. \n\nVí dụ:\n- 乱暴 (ranbō): Bạo lực, hung hãn.\n- 混乱 (konran): Sự hỗn loạn, lộn xộn.\n- 乱れる (midareru"
+  },
+  "comments": [
+    {
+      "id": "151463",
+      "lang": "vi",
+      "content_html": "<p>Lưỡi uốn chữ L để nói chữ loạn</p>",
+      "content_text": "Lưỡi uốn chữ L để nói chữ loạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151464",
+      "lang": "vi",
+      "content_html": "<p>Hàng 千 cái 口 làm LOẠN vì cái chữ L</p>",
+      "content_text": "Hàng 千 cái 口 làm LOẠN vì cái chữ L",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151465",
+      "lang": "vi",
+      "content_html": "<p>Dùng lưỡi liếm ti là loạn.</p>",
+      "content_text": "Dùng lưỡi liếm ti là loạn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

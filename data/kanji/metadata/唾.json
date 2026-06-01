@@ -1,0 +1,86 @@
+{
+  "kanji": "唾",
+  "meta": {
+    "weight": 497,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダ",
+      "タ"
+    ],
+    "kun": [
+      "つば",
+      "つばき"
+    ],
+    "am_han": "THÓA"
+  },
+  "meaning": {
+    "vi": "nước bọt, đờm",
+    "en": "saliva, sputum"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/唾.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4883",
+    "text": "唾 (đọc là \"da\") có nghĩa là \"bọt, nước bọt\", thường chỉ sự phân tiết trong miệng. \n\nVí dụ:\n- 唾液 (daiyaku): Nước bọt.\n- 唾を吐く (da o haku): Khạc nhổ, nhổ nước bọt.\n- 唾棄 (daki): Sự khinh bỉ, chê"
+  },
+  "comments": [
+    {
+      "id": "219126",
+      "lang": "vi",
+      "content_html": "<p>Nói THOA THOÁ làm NƯỚC BỌT rơi xuống tung toé</p>",
+      "content_text": "Nói THOA THOÁ làm NƯỚC BỌT rơi xuống tung toé",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219127",
+      "lang": "vi",
+      "content_html": "<p>mồm thùy nói thoa thóa làm nước bọt rơi xuống</p>",
+      "content_text": "mồm thùy nói thoa thóa làm nước bọt rơi xuống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219128",
+      "lang": "vi",
+      "content_html": "<p>Cái thứ Rũ xuống từ Miệng thì chỉ có thể là Nước Bọt</p>",
+      "content_text": "Cái thứ Rũ xuống từ Miệng thì chỉ có thể là Nước Bọt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "kanji": "暫",
+  "meta": {
+    "weight": 1251,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ザン"
+    ],
+    "kun": [
+      "しばら.く"
+    ],
+    "am_han": "TẠM"
+  },
+  "meaning": {
+    "vi": "tạm thời, một lúc, chốc lát, lâu dài",
+    "en": "temporarily, a while, moment, long time"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/暫.svg"
+  },
+  "frequency": 1112,
+  "examples": [
+    "暫定",
+    "暫く",
+    "暫時",
+    "暫し"
+  ],
+  "explanation": {
+    "id": "3032",
+    "text": "暫 (đọc là \"zan\") có nghĩa là \"tạm thời\", \"nhất thời\" để chỉ các tình huống, trạng thái không bền vững hoặc chỉ diễn ra trong một khoảng thời gian ngắn.\n\nVí dụ:\n- 暫定 (zantei): Tạm thời, điều "
+  },
+  "comments": [
+    {
+      "id": "154283",
+      "lang": "vi",
+      "content_html": "<p>Tạm thời cho tôi đỗ chiếc xe này gần mặt trời</p>",
+      "content_text": "Tạm thời cho tôi đỗ chiếc xe này gần mặt trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154284",
+      "lang": "vi",
+      "content_html": "<p>tạm hoãn ngày xử trảm</p>",
+      "content_text": "tạm hoãn ngày xử trảm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154285",
+      "lang": "vi",
+      "content_html": "<p>Tạm thời cho tôi đỗ xe gần đây một ngày</p>",
+      "content_text": "Tạm thời cho tôi đỗ xe gần đây một ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

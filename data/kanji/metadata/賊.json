@@ -1,0 +1,88 @@
+{
+  "kanji": "賊",
+  "meta": {
+    "weight": 2565,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゾク"
+    ],
+    "kun": [],
+    "am_han": "TẶC"
+  },
+  "meaning": {
+    "vi": "trộm, nổi loạn, phản bội, cướp",
+    "en": "burglar, rebel, traitor, robber"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/賊.svg"
+  },
+  "frequency": 2045,
+  "examples": [
+    "海賊",
+    "海賊版",
+    "盗賊",
+    "賊",
+    "山賊"
+  ],
+  "explanation": {
+    "id": "4813",
+    "text": "賊 (đọc là \"zoku\") có nghĩa là \"kẻ cướp\", \"tội phạm\", chỉ các hành động liên quan đến việc gây hại hay ăn cắp của người khác.  \nVí dụ:  \n- 海賊 (kaizoku): Hải tặc, cướp biển.  \n- 賊軍 (zokugun): "
+  },
+  "comments": [
+    {
+      "id": "157106",
+      "lang": "vi",
+      "content_html": "<p>Cuộc chiến của bọn phản tặc cướp 10 quan tiền</p>",
+      "content_text": "Cuộc chiến của bọn phản tặc cướp 10 quan tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157107",
+      "lang": "vi",
+      "content_html": "<p>Bảo bối đã qua tay hải tặc 10 lần</p>",
+      "content_text": "Bảo bối đã qua tay hải tặc 10 lần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157108",
+      "lang": "vi",
+      "content_html": "<p>bọn hải tặc dùng cây qua( vũ khí ) uy hiếp để thu thập bảo bối</p>",
+      "content_text": "bọn hải tặc dùng cây qua( vũ khí ) uy hiếp để thu thập bảo bối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

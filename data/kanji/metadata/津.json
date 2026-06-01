@@ -1,0 +1,90 @@
+{
+  "kanji": "津",
+  "meta": {
+    "weight": 1529,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "つ"
+    ],
+    "am_han": "TÂN"
+  },
+  "meaning": {
+    "vi": "thiên đường, bến cảng, bến phà",
+    "en": "haven, port, harbor, ferry"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/津.svg"
+  },
+  "frequency": 1036,
+  "examples": [
+    "津波",
+    "津",
+    "大津",
+    "興味津々",
+    "天津"
+  ],
+  "explanation": {
+    "id": "5441",
+    "text": "津 (đọc là \"tsu\") có nghĩa là \"bến cảng\", \"nơi cập bến\" để chỉ các địa điểm liên quan đến giao thông đường thủy hoặc những nơi gần nước.  \nVí dụ:  \n- 津波 (tsunami): Sóng thần.  \n- 港津 (minato-t"
+  },
+  "comments": [
+    {
+      "id": "154871",
+      "lang": "vi",
+      "content_html": "<p>Cầm Bút vẽ con SÓNG thần trên Bến TÂN cương</p>",
+      "content_text": "Cầm Bút vẽ con SÓNG thần trên Bến TÂN cương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154872",
+      "lang": "vi",
+      "content_html": "<p>Rửa cây bút ngay Tân Bến Cảng</p>",
+      "content_text": "Rửa cây bút ngay Tân Bến Cảng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154873",
+      "lang": "vi",
+      "content_html": "<p>Mới mua cây BÚT NƯỚC ở TÂN bến Thượng hải</p>",
+      "content_text": "Mới mua cây BÚT NƯỚC ở TÂN bến Thượng hải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

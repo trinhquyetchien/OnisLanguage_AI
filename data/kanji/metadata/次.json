@@ -1,0 +1,109 @@
+{
+  "kanji": "次",
+  "meta": {
+    "weight": 1440,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ",
+      "シ"
+    ],
+    "kun": [
+      "つ.ぐ",
+      "つぎ"
+    ],
+    "am_han": "THỨ"
+  },
+  "meaning": {
+    "vi": "tiếp theo, thứ tự",
+    "en": "next, order, sequence"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/次.svg"
+  },
+  "frequency": 222,
+  "examples": [
+    "次",
+    "次第",
+    "次に",
+    "次回",
+    "次々"
+  ],
+  "explanation": {
+    "id": "3201",
+    "text": "次 (đọc là \"ji\" hoặc \"tsugi\") có nghĩa là \"tiếp theo\", \"sau\" để chỉ thứ tự hoặc sự kế tiếp trong một chuỗi sự vật, sự việc.\n\nVí dụ:\n- 次回 (jikai): Lần tới, lần sau.\n- 次の (tsugi no): Tiếp theo,"
+  },
+  "comments": [
+    {
+      "id": "37246",
+      "lang": "vi",
+      "content_html": "<p>Một người há to miệng và hét lên: \"<strong>Kế tiếp</strong>!\"</p>",
+      "content_text": "Một người há to miệng và hét lên: \"\nKế tiếp\n!\"",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd83b14d81.jpg",
+      "image_path": "assets/images/次_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154643",
+      "lang": "vi",
+      "content_html": "<p>bạn BĂNG thiếu (KHIẾM) nên mời bạn tiếp theo (THỨ)</p>",
+      "content_text": "bạn BĂNG thiếu (KHIẾM) nên mời bạn tiếp theo (THỨ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154644",
+      "lang": "vi",
+      "content_html": "<p>những người thiếu nợ 欠  thì lần lượt vào nhà băng 冫cướp tiền</p>",
+      "content_text": "những người thiếu nợ 欠  thì lần lượt vào nhà băng 冫cướp tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154645",
+      "lang": "vi",
+      "content_html": "<p>Nhà BĂNG không THIẾU THỨ gì.</p>",
+      "content_text": "Nhà BĂNG không THIẾU THỨ gì.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "kanji": "頚",
+  "meta": {
+    "weight": 2908,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "くび"
+    ],
+    "am_han": "CẢNH"
+  },
+  "meaning": {
+    "vi": "cổ, đầu",
+    "en": "neck, head"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/頚.svg"
+  },
+  "frequency": 2470,
+  "examples": [
+    "頚椎",
+    "頚"
+  ],
+  "explanation": {
+    "id": "2034",
+    "text": "頚 (đọc là \"kubi\") có nghĩa là \"cổ\" để chỉ bộ phận cơ thể nối giữa đầu và thân.  \nVí dụ:  \n- 頚椎 (keitsui): Đốt sống cổ.  \n- 頚部 (keibu): Vùng cổ.  \n- 頚動脈 (keidōmyaku): Động mạch cổ."
+  },
+  "comments": []
+}

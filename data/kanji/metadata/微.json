@@ -1,0 +1,90 @@
+{
+  "kanji": "微",
+  "meta": {
+    "weight": 933,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビ"
+    ],
+    "kun": [
+      "かす.か"
+    ],
+    "am_han": "VI"
+  },
+  "meaning": {
+    "vi": "tinh tế, nhỏ nhặt, tầm thường",
+    "en": "delicate, minuteness, insignificance"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/微.svg"
+  },
+  "frequency": 1108,
+  "examples": [
+    "微妙",
+    "微生物",
+    "微笑み",
+    "微",
+    "顕微鏡"
+  ],
+  "explanation": {
+    "id": "6622",
+    "text": "微 (đọc là \"bi\") có nghĩa là \"nhỏ bé\", \"mảnh mai\" để chỉ các điều gì đó tinh tế, nhẹ nhàng hoặc không đáng kể.\n\nVí dụ:\n- 微妙 (bimyō): Tinh tế, mơ hồ.\n- 微細 (bisai): Siêu nhỏ, tinh vi.\n- 微熱 (bin"
+  },
+  "comments": [
+    {
+      "id": "153493",
+      "lang": "vi",
+      "content_html": "<p>Con đường 彳 lên núi 山 còn sót lại dấu chân 兀 NHỎ sau trận đánh 攵 nhau hôm qua</p>",
+      "content_text": "Con đường 彳 lên núi 山 còn sót lại dấu chân 兀 NHỎ sau trận đánh 攵 nhau hôm qua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153494",
+      "lang": "vi",
+      "content_html": "<p>đi lên núi bằng cả chân vào tay thì rất vi diệu</p>",
+      "content_text": "đi lên núi bằng cả chân vào tay thì rất vi diệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153495",
+      "lang": "vi",
+      "content_html": "<p>Vua mà mất đi đặc trưng thì trở lại thành nguyên 1 con người bé nhỏ</p>",
+      "content_text": "Vua mà mất đi đặc trưng thì trở lại thành nguyên 1 con người bé nhỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

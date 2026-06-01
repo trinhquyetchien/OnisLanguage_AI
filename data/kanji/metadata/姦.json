@@ -1,0 +1,70 @@
+{
+  "kanji": "姦",
+  "meta": {
+    "weight": 665,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン",
+      "ケン"
+    ],
+    "kun": [
+      "かん.する",
+      "かしま.しい",
+      "みだら"
+    ],
+    "am_han": "GIAN"
+  },
+  "meaning": {
+    "vi": "xấu xa, nghịch ngợm, dụ dỗ, cưỡng hiếp, ồn ào",
+    "en": "wicked, mischief, seduce, rape, noisy"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/姦.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1084",
+    "text": "姦 (đọc là \"kan\") có nghĩa là \"gian dâm\" hoặc \"ngoại tình\", chỉ các hành động không trung thực trong tình dục.  \nVí dụ:  \n- 姦通 (kantō): Quan hệ ngoài hôn nhân, ngoại tình.  \n- 姦淫 (kan'in): Gi"
+  },
+  "comments": [
+    {
+      "id": "219300",
+      "lang": "vi",
+      "content_html": "<p>gian dâm cùng 3 người phụ nữ</p>",
+      "content_text": "gian dâm cùng 3 người phụ nữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219301",
+      "lang": "vi",
+      "content_html": "<p>Không GIAN có 3 người phụ NỮ thì ỒN ÀO như chợ</p>",
+      "content_text": "Không GIAN có 3 người phụ NỮ thì ỒN ÀO như chợ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "kanji": "泣",
+  "meta": {
+    "weight": 1520,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "な.く"
+    ],
+    "am_han": "KHẤP"
+  },
+  "meaning": {
+    "vi": "khóc, rên rỉ",
+    "en": "cry, weep, moan"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/泣.svg"
+  },
+  "frequency": 1380,
+  "examples": [
+    "泣き",
+    "泣く",
+    "号泣",
+    "泣ける",
+    "泣く泣く"
+  ],
+  "explanation": {
+    "id": "1536",
+    "text": "泣 (đọc là \"naku\") có nghĩa là \"khóc\", chỉ hành động thể hiện cảm xúc buồn bã hoặc đau khổ.  \nVí dụ:  \n- 泣く (naku): Khóc.  \n- 泣き声 (nakigoe): Tiếng khóc.  \n- 大泣き (oonaki): Khóc lớn, khóc to."
+  },
+  "comments": [
+    {
+      "id": "37024",
+      "lang": "vi",
+      "content_html": "<p>Một người đang đứng (立) <strong>khóc</strong>.</p>",
+      "content_text": "Một người đang đứng (立)\nkhóc\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc50ff658f6.jpg",
+      "image_path": "assets/images/泣_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154844",
+      "lang": "vi",
+      "content_html": "<p>Đứng mà chảy nước là khóc</p>",
+      "content_text": "Đứng mà chảy nước là khóc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154845",
+      "lang": "vi",
+      "content_html": "<p>Khấp khõm đứng bên sông rồi khóc</p>",
+      "content_text": "Khấp khõm đứng bên sông rồi khóc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154846",
+      "lang": "vi",
+      "content_html": "<p>NƯỚC rơi thành những giọt ĐỨNG  --»  là KHÓC</p>",
+      "content_text": "NƯỚC rơi thành những giọt ĐỨNG  --»  là KHÓC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "kanji": "敦",
+  "meta": {
+    "weight": 1178,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トン",
+      "タイ",
+      "ダン",
+      "チョウ"
+    ],
+    "kun": [
+      "あつ.い"
+    ],
+    "am_han": "ĐÔN, ĐÔI, ĐỐI, ĐỘN"
+  },
+  "meaning": {
+    "vi": "công nghiệp, tốt bụng",
+    "en": "industry, kindliness"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/敦.svg"
+  },
+  "frequency": 1695,
+  "examples": [
+    "敦煌"
+  ],
+  "explanation": {
+    "id": "6011",
+    "text": "敦 (đọc là \"ton\" hoặc \"dun\") có nghĩa là \"chân thành\", \"hiền hòa\", thể hiện sự ấm áp và khuyến khích tình cảm tốt đẹp giữa mọi người.\n\nVí dụ:\n- 敦厚 (tonkou): Chân thành, hiền hậu.\n- 敦誼 (dungi)"
+  },
+  "comments": [
+    {
+      "id": "154101",
+      "lang": "vi",
+      "content_html": "<p>ĐÔN ĐỘN ĐÔI ĐỐI (chỉ cần nhớ 1 trong 4 chữ) -&#62; cách nhớ : Thằng HƯỞNG bị đánh (攵) nhiều nên bị đần ĐỘN.</p>",
+      "content_text": "ĐÔN ĐỘN ĐÔI ĐỐI (chỉ cần nhớ 1 trong 4 chữ) -> cách nhớ : Thằng HƯỞNG bị đánh (攵) nhiều nên bị đần ĐỘN.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154102",
+      "lang": "vi",
+      "content_html": "<p>Hưởng có bàn Tay rất ĐÔN hậu</p>",
+      "content_text": "Hưởng có bàn Tay rất ĐÔN hậu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154103",
+      "lang": "vi",
+      "content_html": "<p>Đôn (惇) vô tâm (忄) nên bị đánh (攵) thành Đôn (敦)</p>",
+      "content_text": "Đôn (惇) vô tâm (忄) nên bị đánh (攵) thành Đôn (敦)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

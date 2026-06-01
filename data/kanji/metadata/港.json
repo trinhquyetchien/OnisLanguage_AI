@@ -1,0 +1,107 @@
+{
+  "kanji": "港",
+  "meta": {
+    "weight": 1580,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "みなと"
+    ],
+    "am_han": "CẢNG"
+  },
+  "meaning": {
+    "vi": "hải cảng, không cảng",
+    "en": "harbor"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/港.svg"
+  },
+  "frequency": 495,
+  "examples": [
+    "空港",
+    "香港",
+    "港",
+    "港湾",
+    "入港"
+  ],
+  "explanation": {
+    "id": "2495",
+    "text": "港 (đọc là \"moto\") có nghĩa là \"cảng\" để chỉ nơi tàu thuyền cập bến hoặc neo đậu.\nVí dụ:\n- 港町 (minatomachi): Thị trấn cảng.\n- 港湾 (kōwan): Cảng, vịnh.\n- 空港 (kūkō): Sân bay."
+  },
+  "comments": [
+    {
+      "id": "37308",
+      "lang": "vi",
+      "content_html": "<p>Tất cả chúng ta hãy cùng (共) tập hợp ở <strong>cảng</strong>.</p>",
+      "content_text": "Tất cả chúng ta hãy cùng (共) tập hợp ở\ncảng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe2c5b3a4f.jpg",
+      "image_path": "assets/images/港_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154993",
+      "lang": "vi",
+      "content_html": "<p>Lối đi tắt (hạng) ra biển (thuỷ) gọi là CẢNG</p>",
+      "content_text": "Lối đi tắt (hạng) ra biển (thuỷ) gọi là CẢNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190661",
+      "lang": "vi",
+      "content_html": "<p>phải có Nước công Cộng thì bản thân (kỷ) mới xây được hải Cảng</p>",
+      "content_text": "phải có Nước công Cộng thì bản thân (kỷ) mới xây được hải Cảng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "154994",
+      "lang": "vi",
+      "content_html": "<p>CẢNG là nơi có Nước mà mấy đứa tự Kỷ Cộng(tập trung) lại</p>",
+      "content_text": "CẢNG là nơi có Nước mà mấy đứa tự Kỷ Cộng(tập trung) lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

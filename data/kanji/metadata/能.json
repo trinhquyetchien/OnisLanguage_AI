@@ -1,0 +1,108 @@
+{
+  "kanji": "能",
+  "meta": {
+    "weight": 2190,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ノウ"
+    ],
+    "kun": [
+      "よ.く",
+      "あた.う"
+    ],
+    "am_han": "NĂNG"
+  },
+  "meaning": {
+    "vi": "khả năng, tài năng",
+    "en": "ability, talent, skill, capacity"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/能.svg"
+  },
+  "frequency": 273,
+  "examples": [
+    "可能",
+    "機能",
+    "能力",
+    "不可能",
+    "性能"
+  ],
+  "explanation": {
+    "id": "6200",
+    "text": "能 (đọc là \"nō\") có nghĩa là \"có khả năng\", \"có thể\", \"tài năng\" để chỉ khả năng hoặc sức mạnh thực hiện một việc gì đó.\n\nVí dụ:\n- 能力 (nōryoku): Năng lực, khả năng.\n- 可能 (kanō): Có thể, khả t"
+  },
+  "comments": [
+    {
+      "id": "156320",
+      "lang": "vi",
+      "content_html": "<p>Mự nguyệt có khả năng cười hihi</p>",
+      "content_text": "Mự nguyệt có khả năng cười hihi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191165",
+      "lang": "vi",
+      "content_html": "<p>khả <strong>năng </strong>- 可能</p>",
+      "content_text": "khả\nnăng\n- 可能",
+      "image_url": "https://jpdictionary.com/upload/images/648acea91e2b3.jpg",
+      "image_path": "assets/images/能_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "156321",
+      "lang": "vi",
+      "content_html": "<p>NĂNG lực riêng tư của mặt trăng là biết cười hi hi</p>",
+      "content_text": "NĂNG lực riêng tư của mặt trăng là biết cười hi hi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156322",
+      "lang": "vi",
+      "content_html": "<p>Đêm trăng ngồi một mình cười hi hi như bị thiểu năng</p>",
+      "content_text": "Đêm trăng ngồi một mình cười hi hi như bị thiểu năng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

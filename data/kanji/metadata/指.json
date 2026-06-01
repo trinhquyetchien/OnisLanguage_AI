@@ -1,0 +1,109 @@
+{
+  "kanji": "指",
+  "meta": {
+    "weight": 1088,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "ゆび",
+      "さ.す",
+      "-さ.し"
+    ],
+    "am_han": "CHỈ"
+  },
+  "meaning": {
+    "vi": "ngón tay, chỉ định",
+    "en": "finger, point to, indicate, put into, play (chess), measure (ruler)"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/指.svg"
+  },
+  "frequency": 155,
+  "examples": [
+    "指摘",
+    "指導",
+    "指定",
+    "目指し",
+    "目指す"
+  ],
+  "explanation": {
+    "id": "3089",
+    "text": "指 (đọc là \"shi\" hoặc \"sasu\") có nghĩa là \"chỉ\", \"ra hiệu\", thường chỉ đến hành động chỉ trỏ, hướng dẫn hoặc chỉ định.  \nVí dụ:  \n- 指示 (shiji): Chỉ thị, hướng dẫn.  \n- 指摘 (shiteki): Chỉ ra, p"
+  },
+  "comments": [
+    {
+      "id": "153901",
+      "lang": "vi",
+      "content_html": "<p>suốt ngày giơ tay “chuỷ” đạo người khác.</p>",
+      "content_text": "suốt ngày giơ tay “chuỷ” đạo người khác.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153902",
+      "lang": "vi",
+      "content_html": "<p>TAY cầm THÌA CHỈ trỏ cả NGÀY</p>",
+      "content_text": "TAY cầm THÌA CHỈ trỏ cả NGÀY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153903",
+      "lang": "vi",
+      "content_html": "<p>Chủ nhật nào tôi cũng dùng ngón tay viết chữ ヒ</p>",
+      "content_text": "Chủ nhật nào tôi cũng dùng ngón tay viết chữ ヒ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222099",
+      "lang": "vi",
+      "content_html": "<p><strong>扌</strong> là bộ thủ thể hiện ý nghĩa liên quan đến tay<br><strong>旨</strong> là thanh mẫu, gợi cách đọc “shi”<br>→ Kết hợp lại: <strong>指</strong> = dùng tay (<strong>扌</strong>) để biểu đạt một điều gì đó (<strong>旨</strong>)</p>",
+      "content_text": "扌\nlà bộ thủ thể hiện ý nghĩa liên quan đến tay\n旨\nlà thanh mẫu, gợi cách đọc “shi”\n→ Kết hợp lại:\n指\n= dùng tay (\n扌\n) để biểu đạt một điều gì đó (\n旨\n)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

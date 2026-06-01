@@ -1,0 +1,92 @@
+{
+  "kanji": "一",
+  "meta": {
+    "weight": 71,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イチ",
+      "イツ"
+    ],
+    "kun": [
+      "ひと-",
+      "ひと.つ"
+    ],
+    "am_han": "NHẤT"
+  },
+  "meaning": {
+    "vi": "một",
+    "en": "one, one radical (no.1)"
+  },
+  "stroke": {
+    "count": 1,
+    "svg": "assets/svg/一.svg"
+  },
+  "frequency": 2,
+  "examples": [
+    "一",
+    "一つ",
+    "一般",
+    "一番",
+    "一緒"
+  ],
+  "explanation": {
+    "id": "212",
+    "text": "一 (đọc là \"ichi\" hoặc \"itsu\") có nghĩa là \"một\", biểu thị số lượng nhỏ nhất hoặc sự đơn nhất. \n\nVí dụ:\n- 一つ (hitotsu): Một cái, một món.\n- 一日 (ichinichi): Một ngày.\n- 一緒 (issho): Cùng nhau, "
+  },
+  "comments": [
+    {
+      "id": "190852",
+      "lang": "vi",
+      "content_html": "",
+      "content_text": "",
+      "image_url": "https://jpdictionary.com/upload/images/648a44a42b97b.jpg",
+      "image_path": "assets/images/一_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "451",
+      "lang": "vi",
+      "content_html": "<p>Một ngón tay trỏ biểu thị cho số 1.</p>",
+      "content_text": "Một ngón tay trỏ biểu thị cho số 1.",
+      "image_url": "https://jpdictionary.com/upload/images/62975f3d908e2.jpg",
+      "image_path": "assets/images/一_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158207",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>一 (いち): số 1</p><p>一つ (ひとつ): 1 cái</p><p>一人 (ひとり): 1 người</p><p>一日 (いちにち): 1 ngày</p><p>一日 (ついたち): ngày mùng 1</p>",
+      "content_text": "JLPT N5\n一 (いち): số 1\n一つ (ひとつ): 1 cái\n一人 (ひとり): 1 người\n一日 (いちにち): 1 ngày\n一日 (ついたち): ngày mùng 1",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

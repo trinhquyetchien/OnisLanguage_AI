@@ -1,0 +1,129 @@
+{
+  "kanji": "準",
+  "meta": {
+    "weight": 1592,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュン"
+    ],
+    "kun": [
+      "じゅん.じる",
+      "じゅん.ずる",
+      "なぞら.える",
+      "のり",
+      "ひと.しい",
+      "みずもり"
+    ],
+    "am_han": "CHUẨN"
+  },
+  "meaning": {
+    "vi": "tiêu chuẩn, chuẩn bị",
+    "en": "semi-, correspond to, proportionate to, conform, imitate"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/準.svg"
+  },
+  "frequency": 425,
+  "examples": [
+    "準備",
+    "基準",
+    "標準",
+    "水準",
+    "準"
+  ],
+  "explanation": {
+    "id": "3655",
+    "text": "準 (đọc là \"jun\") có nghĩa là \"chuẩn\", \"tiêu chuẩn\", để chỉ các khái niệm liên quan đến việc làm rõ, xác định mức độ hoặc chuẩn mực.  \nVí dụ:  \n- 準備 (junbi): Chuẩn bị.  \n- 標準 (hyōjun): Tiêu c"
+  },
+  "comments": [
+    {
+      "id": "155019",
+      "lang": "vi",
+      "content_html": "<p>Chuẩn bị cho 10 con chim uống nước</p>",
+      "content_text": "Chuẩn bị cho 10 con chim uống nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190699",
+      "lang": "vi",
+      "content_html": "<p>Nước mà chim tới uống 10 lần là Chuẩn</p>",
+      "content_text": "Nước mà chim tới uống 10 lần là Chuẩn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "155020",
+      "lang": "vi",
+      "content_html": "<p>rửa chim 10 lần để chuẩn bị chén :D</p>",
+      "content_text": "rửa chim 10 lần để chuẩn bị chén :D",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155021",
+      "lang": "vi",
+      "content_html": "<p>Chuẩn bị Nước để nấu 10 con Chim</p>",
+      "content_text": "Chuẩn bị Nước để nấu 10 con Chim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222019",
+      "lang": "vi",
+      "content_html": "<p><strong>氵Biểu ý</strong></p><p>Là bộ \"thuỷ\" → liên quan đến <strong>nước, sự đo lường</strong>, tính \"chuẩn\" như mặt nước phẳng</p><p><strong>隼 Biểu âm</strong></p><p>Là phần <strong>gợi âm đọc</strong> gần với <strong>シュン、ジュン</strong></p>",
+      "content_text": "氵Biểu ý\nLà bộ \"thuỷ\" → liên quan đến\nnước, sự đo lường\n, tính \"chuẩn\" như mặt nước phẳng\n隼 Biểu âm\nLà phần\ngợi âm đọc\ngần với\nシュン、ジュン",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

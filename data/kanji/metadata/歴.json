@@ -1,0 +1,106 @@
+{
+  "kanji": "歴",
+  "meta": {
+    "weight": 1458,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レキ",
+      "レッキ"
+    ],
+    "kun": [],
+    "am_han": "LỊCH"
+  },
+  "meaning": {
+    "vi": "lịch, lịch sử, lí lịch",
+    "en": "curriculum, continuation, passage of time"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/歴.svg"
+  },
+  "frequency": 632,
+  "examples": [
+    "歴史",
+    "履歴",
+    "歴",
+    "学歴",
+    "経歴"
+  ],
+  "explanation": {
+    "id": "8253",
+    "text": "歴 (đọc là \"reki\") có nghĩa là \"lịch sử\", \"quá trình\" để chỉ các sự kiện xảy ra theo thời gian hoặc việc ghi chép lại chúng.  \nVí dụ:  \n- 歴史 (rekishi): Lịch sử.  \n- 年歴 (nenreki): Tuổi, niên đ"
+  },
+  "comments": [
+    {
+      "id": "191081",
+      "lang": "vi",
+      "content_html": "<p><strong>lịch</strong></p>",
+      "content_text": "lịch",
+      "image_url": "https://jpdictionary.com/upload/images/648a9878334e2.jpg",
+      "image_path": "assets/images/歴_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "154693",
+      "lang": "vi",
+      "content_html": "<p>DỪNG lại bên hang động ở sườn núi của khu RỪNG để nghĩ về LỊCH sử của nó</p>",
+      "content_text": "DỪNG lại bên hang động ở sườn núi của khu RỪNG để nghĩ về LỊCH sử của nó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154694",
+      "lang": "vi",
+      "content_html": "<p>Dừng lại dưới 2 gốc cây cạnh sườn núi nhớ về Lịch sử</p>",
+      "content_text": "Dừng lại dưới 2 gốc cây cạnh sườn núi nhớ về Lịch sử",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154695",
+      "lang": "vi",
+      "content_html": "<p>DỪNG LẠI ở KHU RỪNG bên trong SƯỜN NÚI để tìm hiểu LỊCH sử</p>",
+      "content_text": "DỪNG LẠI ở KHU RỪNG bên trong SƯỜN NÚI để tìm hiểu LỊCH sử",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

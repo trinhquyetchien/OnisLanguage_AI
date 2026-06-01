@@ -1,0 +1,35 @@
+{
+  "kanji": "矧",
+  "meta": {
+    "weight": 1860,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "は.ぐ",
+      "いわ.んや",
+      "はぐき",
+      "はぎ"
+    ],
+    "am_han": "THẨN"
+  },
+  "meaning": {
+    "vi": "lông (mũi tên)",
+    "en": "feather (arrow)"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/矧.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6311",
+    "text": "Chữ Hán 矧 (đọc là \"shaku\") có nghĩa là \"hợp lại\", \"nối lại\" để chỉ các hành động liên quan đến việc kết hợp, nối ghép.\n\nVí dụ:\n- 矧合 (shakugou): Sự hợp nhất, liên kết.\n- 矧織 (shakuori): Kỹ thu"
+  },
+  "comments": []
+}

@@ -1,0 +1,107 @@
+{
+  "kanji": "沸",
+  "meta": {
+    "weight": 1508,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フツ"
+    ],
+    "kun": [
+      "わ.く",
+      "わ.かす"
+    ],
+    "am_han": "PHÍ"
+  },
+  "meaning": {
+    "vi": "sôi",
+    "en": "seethe, boil, ferment, uproar, breed"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/沸.svg"
+  },
+  "frequency": 1709,
+  "examples": [
+    "沸騰",
+    "沸く",
+    "沸き",
+    "沸かす"
+  ],
+  "explanation": {
+    "id": "6934",
+    "text": "沸 (đọc là \"fu\") có nghĩa là \"sôi\", chỉ trạng thái khi nước hoặc chất lỏng đạt đến nhiệt độ sôi.  \nVí dụ:  \n- 沸騰 (futton): Sự sôi, sự đun sôi.  \n- 沸かす (wakasu): Đun sôi, làm cho sôi.  \n- 沸点 ("
+  },
+  "comments": [
+    {
+      "id": "154808",
+      "lang": "vi",
+      "content_html": "<p>cái gì bị trừ đi, mất đi gọi là phất (弗). nước bị mất đi do bay hơi thì gọi là nước sôi (沸). tương tự chữ phí (費) tiền mất đi gọi là chi phí !</p>",
+      "content_text": "cái gì bị trừ đi, mất đi gọi là phất (弗). nước bị mất đi do bay hơi thì gọi là nước sôi (沸). tương tự chữ phí (費) tiền mất đi gọi là chi phí !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190764",
+      "lang": "vi",
+      "content_html": "<p>nước phất lên ùn ục là nước đang sôi, tắc bếp không để phí</p><p>&nbsp;</p>",
+      "content_text": "nước phất lên ùn ục là nước đang sôi, tắc bếp không để phí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "154809",
+      "lang": "vi",
+      "content_html": "<p>Đun nước sôi lâu quá thì phải trả thêm PHÍ, bỏ nước đi cho tiền xuống dưới là chi PHÍ (学費</p>",
+      "content_text": "Đun nước sôi lâu quá thì phải trả thêm PHÍ, bỏ nước đi cho tiền xuống dưới là chi PHÍ (学費",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154810",
+      "lang": "vi",
+      "content_html": "<p>Nươc sôi thì đi 2 đường cung từ dưới lên</p>",
+      "content_text": "Nươc sôi thì đi 2 đường cung từ dưới lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

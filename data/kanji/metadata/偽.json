@@ -1,0 +1,93 @@
+{
+  "kanji": "偽",
+  "meta": {
+    "weight": 230,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギ",
+      "カ"
+    ],
+    "kun": [
+      "いつわ.る",
+      "にせ",
+      "いつわ.り"
+    ],
+    "am_han": "NGỤY"
+  },
+  "meaning": {
+    "vi": "giả dối, dối trá, lừa dối, giả vờ, giả mạo",
+    "en": "falsehood, lie, deceive, pretend, counterfeit, forgery"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/偽.svg"
+  },
+  "frequency": 1171,
+  "examples": [
+    "偽造",
+    "偽装",
+    "偽",
+    "虚偽",
+    "偽り"
+  ],
+  "explanation": {
+    "id": "1404",
+    "text": "偽 (đọc là \"gi\") có nghĩa là \"giả mạo\", \"lừa dối\" để chỉ các hành động liên quan đến việc làm giả hoặc không chân thực.\n\nVí dụ:\n- 偽者 (nisemono): Người giả mạo, kẻ lừa đảo.\n- 偽装 (gisō): Giả tr"
+  },
+  "comments": [
+    {
+      "id": "151765",
+      "lang": "vi",
+      "content_html": "<p>Người NGỤY biện cho hành Vi sai trái của mình</p>",
+      "content_text": "Người NGỤY biện cho hành Vi sai trái của mình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151766",
+      "lang": "vi",
+      "content_html": "<p>người ngụy trang thành giống con chim, nhưng mà không phải</p>",
+      "content_text": "người ngụy trang thành giống con chim, nhưng mà không phải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151767",
+      "lang": "vi",
+      "content_html": "<p>một người vì mục đích nào đó đã nói dối</p>",
+      "content_text": "một người vì mục đích nào đó đã nói dối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

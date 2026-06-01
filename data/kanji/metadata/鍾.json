@@ -1,0 +1,70 @@
+{
+  "kanji": "鍾",
+  "meta": {
+    "weight": 2786,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ",
+      "シュ"
+    ],
+    "kun": [
+      "あつ.める",
+      "さかずき",
+      "かね"
+    ],
+    "am_han": "CHUNG"
+  },
+  "meaning": {
+    "vi": "trục chính, tập hợp, thu thập",
+    "en": "spindle, gather, collect"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/鍾.svg"
+  },
+  "frequency": 2321,
+  "examples": [],
+  "explanation": {
+    "id": "3931",
+    "text": "鍾 (đọc là \"shō\") có nghĩa là \"chuông\" hoặc \"đồng hồ\", thường chỉ các vật dụng phát ra âm thanh. \n\nVí dụ:\n- 鍾乳洞 (shōnyūdō): Động stalactite, hang có nhũ đá.\n- 鍾情 (shōjō): Tình yêu nồng nàn, s"
+  },
+  "comments": [
+    {
+      "id": "157602",
+      "lang": "vi",
+      "content_html": "<p>Thiên lý trọng kim chung (câu đối của Trạng Lợn Dương Đình Chung)</p>",
+      "content_text": "Thiên lý trọng kim chung (câu đối của Trạng Lợn Dương Đình Chung)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157603",
+      "lang": "vi",
+      "content_html": "<p>Kim Trọng là thằng mang họ Chung</p>",
+      "content_text": "Kim Trọng là thằng mang họ Chung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

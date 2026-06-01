@@ -1,0 +1,88 @@
+{
+  "kanji": "界",
+  "meta": {
+    "weight": 1780,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [],
+    "am_han": "GIỚI"
+  },
+  "meaning": {
+    "vi": "thế giới, ranh giới",
+    "en": "world, boundary"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/界.svg"
+  },
+  "frequency": 158,
+  "examples": [
+    "世界",
+    "業界",
+    "界",
+    "限界",
+    "世界中"
+  ],
+  "explanation": {
+    "id": "798",
+    "text": "界 (đọc là \"kai\") có nghĩa là \"biên giới\", \"thế giới\" hoặc \"khung cảnh\" để chỉ các lĩnh vực, phạm vi, hoặc không gian khác nhau.\n\nVí dụ:\n- 界隈 (kaiwai): Khu vực, vùng lân cận.\n- 世界 (sekai): Th"
+  },
+  "comments": [
+    {
+      "id": "36912",
+      "lang": "vi",
+      "content_html": "<p>Có <strong>ranh giới </strong>giữa ruộng (田) của bạn và ruộng của tôi.</p>",
+      "content_text": "Có\nranh giới\ngiữa ruộng (田) của bạn và ruộng của tôi.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc40894b4f3.jpg",
+      "image_path": "assets/images/界_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191123",
+      "lang": "vi",
+      "content_html": "<p>thế <strong>giới</strong> - 世界 (せかい)</p>",
+      "content_text": "thế\ngiới\n- 世界 (せかい)",
+      "image_url": "https://jpdictionary.com/upload/images/648ac41f616cf.jpg",
+      "image_path": "assets/images/界_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158311",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>世界 (せかい): thế giới<br>世界遺産 (せかいいさん): di sản thế giới<br>世界中 (せかいじゅう): khắp thế giới, toàn thế giới</p>",
+      "content_text": "JLPT N4\n世界 (せかい): thế giới\n世界遺産 (せかいいさん): di sản thế giới\n世界中 (せかいじゅう): khắp thế giới, toàn thế giới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

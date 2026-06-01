@@ -1,0 +1,90 @@
+{
+  "kanji": "途",
+  "meta": {
+    "weight": 2655,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ト"
+    ],
+    "kun": [
+      "みち"
+    ],
+    "am_han": "ĐỒ"
+  },
+  "meaning": {
+    "vi": "con đường, tiền đồ",
+    "en": "route, way, road"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/途.svg"
+  },
+  "frequency": 717,
+  "examples": [
+    "途中",
+    "途上",
+    "用途",
+    "中途半端",
+    "別途"
+  ],
+  "explanation": {
+    "id": "5734",
+    "text": "途 (đọc là \"to\") có nghĩa là \"con đường\", \"hướng đi\" để chỉ các phương hướng, lối đi, hoặc tình huống trong cuộc sống.\n\nVí dụ:\n- 途上 (tojō): Trên đường, trong quá trình.\n- 途中 (tochū): Giữa chừ"
+  },
+  "comments": [
+    {
+      "id": "157324",
+      "lang": "vi",
+      "content_html": "<p>nhớ mang DƯ tiền trên CON ĐƯỜNG gây dựng tiền ĐỒ</p>",
+      "content_text": "nhớ mang DƯ tiền trên CON ĐƯỜNG gây dựng tiền ĐỒ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157325",
+      "lang": "vi",
+      "content_html": "<p>2 chú tiểu đội nón đi hành khất dọc đường để kiếm cơm</p>",
+      "content_text": "2 chú tiểu đội nón đi hành khất dọc đường để kiếm cơm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157326",
+      "lang": "vi",
+      "content_html": "<p>thầy ĐỒ Dư trên ĐƯỜNG đến trường</p>",
+      "content_text": "thầy ĐỒ Dư trên ĐƯỜNG đến trường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

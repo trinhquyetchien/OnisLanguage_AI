@@ -1,0 +1,70 @@
+{
+  "kanji": "樋",
+  "meta": {
+    "weight": 1415,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "ひ",
+      "とい"
+    ],
+    "am_han": "THÔNG"
+  },
+  "meaning": {
+    "vi": "ống nước, máng xối, ống thoát nước, ống dẫn",
+    "en": "water pipe, gutter, downspout, conduit"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/樋.svg"
+  },
+  "frequency": 1814,
+  "examples": [
+    "樋"
+  ],
+  "explanation": {
+    "id": "6612",
+    "text": "樋 (đọc là \"hi\") có nghĩa là \"ống dẫn nước\" hoặc \"máng xối\", chỉ các cấu trúc dùng để dẫn nước hoặc thoát nước.  \nVí dụ:  \n- 樋口 (higuchi): Miệng ống, nơi nước chảy ra.  \n- 雨樋 (amahi): Máng xố"
+  },
+  "comments": [
+    {
+      "id": "154604",
+      "lang": "vi",
+      "content_html": "<p>cái CÂY cho nước chảy THÔNG qua là ống nước của TÔI(とい）</p>",
+      "content_text": "cái CÂY cho nước chảy THÔNG qua là ống nước của TÔI(とい）",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154605",
+      "lang": "vi",
+      "content_html": "<p>muốn THÔNG ống nước thì lấy CÂY mà thọc thôi</p>",
+      "content_text": "muốn THÔNG ống nước thì lấy CÂY mà thọc thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

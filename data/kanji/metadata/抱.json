@@ -1,0 +1,92 @@
+{
+  "kanji": "抱",
+  "meta": {
+    "weight": 1065,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "だ.く",
+      "いだ.く",
+      "かか.える"
+    ],
+    "am_han": "BÃO"
+  },
+  "meaning": {
+    "vi": "ôm, hoài bão",
+    "en": "embrace, hug, hold in arms"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/抱.svg"
+  },
+  "frequency": 871,
+  "examples": [
+    "抱え",
+    "抱える",
+    "抱く",
+    "抱っこ",
+    "抱負"
+  ],
+  "explanation": {
+    "id": "7172",
+    "text": "抱 (đọc là \"hō\") có nghĩa là \"ôm\", \"nắm giữ\" để chỉ hành động ôm ấp hoặc nắm giữ một cái gì đó.  \nVí dụ:  \n- 抱っこ (dakko): Ôm, bế.  \n- 抱える (kakaeru): Mang, giữ trong tay.  \n- 抱負 (hōfu): Nguyện"
+  },
+  "comments": [
+    {
+      "id": "153835",
+      "lang": "vi",
+      "content_html": "<p>Tay tôi ÔM ẤP bao hoài BÃO</p>",
+      "content_text": "Tay tôi ÔM ẤP bao hoài BÃO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153836",
+      "lang": "vi",
+      "content_html": "<p>Bao bàn tay ôm hoài bão trong người</p>",
+      "content_text": "Bao bàn tay ôm hoài bão trong người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153837",
+      "lang": "vi",
+      "content_html": "<p>Dùng 2 tay 手 để bọc 包 là hành động “ôm ấp”</p>",
+      "content_text": "Dùng 2 tay 手 để bọc 包 là hành động “ôm ấp”",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

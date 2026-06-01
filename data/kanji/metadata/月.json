@@ -1,0 +1,91 @@
+{
+  "kanji": "月",
+  "meta": {
+    "weight": 1267,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲツ",
+      "ガツ"
+    ],
+    "kun": [
+      "つき"
+    ],
+    "am_han": "NGUYỆT"
+  },
+  "meaning": {
+    "vi": "tháng, trăng",
+    "en": "month, moon"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/月.svg"
+  },
+  "frequency": 23,
+  "examples": [
+    "月",
+    "ヶ月",
+    "今月",
+    "カ月",
+    "毎月"
+  ],
+  "explanation": {
+    "id": "2089",
+    "text": "月 (đọc là \"tsuki\" hoặc \"getsu\") có nghĩa là \"mặt trăng\" hoặc \"tháng\" để chỉ thời gian liên quan đến chu kỳ của mặt trăng, cũng như biểu thị cho các tháng trong năm.\n\nVí dụ:\n- 月曜日 (getsuyōbi)"
+  },
+  "comments": [
+    {
+      "id": "191055",
+      "lang": "vi",
+      "content_html": "<p><strong>mặt trăng</strong></p>",
+      "content_text": "mặt trăng",
+      "image_url": "https://jpdictionary.com/upload/images/648a92a14345b.jpg",
+      "image_path": "assets/images/月_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "476",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của <strong>mặt trăng</strong> lưỡi liềm</p>",
+      "content_text": "Hình dạng của\nmặt trăng\nlưỡi liềm",
+      "image_url": "https://jpdictionary.com/upload/images/629762b16e702.jpg",
+      "image_path": "assets/images/月_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158214",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>月 (つき): mặt trăng</p><p>毎月 (まいつき): mỗi tháng</p><p>先月 (せんげつ): tháng trước</p><p>今月 (こんげつ): tháng này</p><p>来月 (らいげつ): tháng sau</p><p>&nbsp;</p><p>何月 (なんがつ): tháng mấy</p><p>〜月 (〜がつ): tháng 〜</p>",
+      "content_text": "JLPT N5\n月 (つき): mặt trăng\n毎月 (まいつき): mỗi tháng\n先月 (せんげつ): tháng trước\n今月 (こんげつ): tháng này\n来月 (らいげつ): tháng sau\n何月 (なんがつ): tháng mấy\n〜月 (〜がつ): tháng 〜",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 2,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "kanji": "蓬",
+  "meta": {
+    "weight": 2330,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ",
+      "ブ"
+    ],
+    "kun": [
+      "よもぎ"
+    ],
+    "am_han": "BỒNG"
+  },
+  "meaning": {
+    "vi": "cây xô thơm, cây ngải cứu",
+    "en": "sagebrush, wormwood, mugwort"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/蓬.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7211",
+    "text": "蓬 (đọc là \"hou\" hoặc \"yomogi\") có nghĩa là \"cỏ thơm\", thường chỉ đến loại cỏ có tên là yomogi, dùng trong ẩm thực và y học. \n\nVí dụ:\n- 蓬 (yomogi): Cỏ thơm, cây ngải cứu.\n- 蓬餅 (yomogimochi): "
+  },
+  "comments": [
+    {
+      "id": "220567",
+      "lang": "vi",
+      "content_html": "<p>Các loại Cỏ mọc 3 tầng thẳng đứng trên đường là cỏ Bồng</p>",
+      "content_text": "Các loại Cỏ mọc 3 tầng thẳng đứng trên đường là cỏ Bồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

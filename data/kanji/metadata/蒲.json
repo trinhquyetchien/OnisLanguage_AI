@@ -1,0 +1,39 @@
+{
+  "kanji": "蒲",
+  "meta": {
+    "weight": 2323,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホ",
+      "ボ",
+      "フ",
+      "ブ"
+    ],
+    "kun": [
+      "がま",
+      "かば",
+      "かま"
+    ],
+    "am_han": "BỒ"
+  },
+  "meaning": {
+    "vi": "bullrush, cờ, đuôi mèo",
+    "en": "bullrush, flag, cattail"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/蒲.svg"
+  },
+  "frequency": 1887,
+  "examples": [
+    "菖蒲"
+  ],
+  "explanation": {
+    "id": "1024",
+    "text": "蒲 (đọc là \"ho\" hoặc \"ba\") có nghĩa là \"cây sậy\", thường chỉ các loại cây thủy sinh. \n\nVí dụ:\n- 蒲焼き (ban-yaki): Cá nướng kiểu Nhật, thường dùng lá sậy để nướng.\n- 蒲公英 (pū-kō-ei): Bồ công anh."
+  },
+  "comments": []
+}

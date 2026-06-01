@@ -1,0 +1,86 @@
+{
+  "kanji": "憾",
+  "meta": {
+    "weight": 1023,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "うら.む"
+    ],
+    "am_han": "HÁM"
+  },
+  "meaning": {
+    "vi": "hối hận, xin lỗi",
+    "en": "remorse, regret, be sorry"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/憾.svg"
+  },
+  "frequency": 1682,
+  "examples": [
+    "遺憾"
+  ],
+  "explanation": {
+    "id": "1111",
+    "text": "憾 (đọc là \"kan\") có nghĩa là \"hối tiếc\", \"tiếc nuối\" để chỉ cảm giác không hài lòng về một điều gì đó không đạt được hoặc không hoàn hảo.\n\nVí dụ:\n- 憾み (urami): Nỗi oán hận, tiếc nuối.\n- 悔恨の憾"
+  },
+  "comments": [
+    {
+      "id": "153727",
+      "lang": "vi",
+      "content_html": "<p>bé Tâm Cảm giác hối tiếc vì HÁM lợi trước mắt</p>",
+      "content_text": "bé Tâm Cảm giác hối tiếc vì HÁM lợi trước mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153728",
+      "lang": "vi",
+      "content_html": "<p>Tâm HÁM sắc sẽ phải hối TIẾC</p>",
+      "content_text": "Tâm HÁM sắc sẽ phải hối TIẾC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153729",
+      "lang": "vi",
+      "content_html": "<p>Co. Tim dựng lên vì cảm giác hối tiếc</p>",
+      "content_text": "Co. Tim dựng lên vì cảm giác hối tiếc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "kanji": "淳",
+  "meta": {
+    "weight": 1562,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュン",
+      "シュン"
+    ],
+    "kun": [
+      "あつ.い"
+    ],
+    "am_han": "THUẦN"
+  },
+  "meaning": {
+    "vi": "nguyên chất",
+    "en": "pure"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/淳.svg"
+  },
+  "frequency": 1629,
+  "examples": [],
+  "explanation": {
+    "id": "3651",
+    "text": "淳 (đọc là \"jun\") có nghĩa là \"thuần khiết\", \"chân thật\" để chỉ những điều đơn giản, chân thành và tự nhiên.  \nVí dụ:  \n- 淳朴 (junbaku): Đơn giản, mộc mạc, chân thật.  \n- 淳化 (junka): Sự thuần "
+  },
+  "comments": [
+    {
+      "id": "154945",
+      "lang": "vi",
+      "content_html": "<p>Hưởng nguồn Nước THUẦN khiết</p>",
+      "content_text": "Hưởng nguồn Nước THUẦN khiết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

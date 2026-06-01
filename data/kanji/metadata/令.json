@@ -1,0 +1,88 @@
+{
+  "kanji": "令",
+  "meta": {
+    "weight": 144,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ"
+    ],
+    "kun": [],
+    "am_han": "LỆNH"
+  },
+  "meaning": {
+    "vi": "mệnh lệnh",
+    "en": "orders, laws, command, decree, good"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/令.svg"
+  },
+  "frequency": 804,
+  "examples": [
+    "命令",
+    "法令",
+    "司令",
+    "令",
+    "指令"
+  ],
+  "explanation": {
+    "id": "8203",
+    "text": "令 (đọc là \"rei\" hoặc \"ryou\") có nghĩa là \"mệnh lệnh\", \"chỉ thị\", thường dùng để chỉ sự ra lệnh hoặc yêu cầu. \n\nVí dụ:\n- 令和 (Reiwa): Thời đại Lệnh Hòa, tên của một thời kỳ trong lịch Nhật.\n- "
+  },
+  "comments": [
+    {
+      "id": "151550",
+      "lang": "vi",
+      "content_html": "<p>tôi đc lệnh bắn 1 con ma dưới mái nhà</p>",
+      "content_text": "tôi đc lệnh bắn 1 con ma dưới mái nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151551",
+      "lang": "vi",
+      "content_html": "<p>bây giờ (今 ) chủ ( 、) ra lệnh</p>",
+      "content_text": "bây giờ (今 ) chủ ( 、) ra lệnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151552",
+      "lang": "vi",
+      "content_html": "<p>mama ngồi trong nhà ra lệnh</p>",
+      "content_text": "mama ngồi trong nhà ra lệnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

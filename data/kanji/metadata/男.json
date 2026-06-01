@@ -1,0 +1,92 @@
+{
+  "kanji": "男",
+  "meta": {
+    "weight": 1777,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダン",
+      "ナン"
+    ],
+    "kun": [
+      "おとこ",
+      "お"
+    ],
+    "am_han": "NAM"
+  },
+  "meaning": {
+    "vi": "nam giới",
+    "en": "male"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/男.svg"
+  },
+  "frequency": 240,
+  "examples": [
+    "男",
+    "男性",
+    "男女",
+    "男子",
+    "男の子"
+  ],
+  "explanation": {
+    "id": "5187",
+    "text": "男 (đọc là \"dan\" hoặc \"otoko\") có nghĩa là \"nam\", \"đàn ông\" để chỉ giới tính nam hoặc liên quan đến nam giới.  \nVí dụ:  \n- 男性 (dansei): Nam giới.  \n- 男の子 (otoko no ko): Cậu bé.  \n- 男らしい (otok"
+  },
+  "comments": [
+    {
+      "id": "544",
+      "lang": "vi",
+      "content_html": "<p>Người <strong>đàn ông (男)</strong> đang ra sức (力) làm việc trên ruộng lúa (田).</p>",
+      "content_text": "Người\nđàn ông (男)\nđang ra sức (力) làm việc trên ruộng lúa (田).",
+      "image_url": "https://jpdictionary.com/upload/images/62977cc434119.jpg",
+      "image_path": "assets/images/男_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191119",
+      "lang": "vi",
+      "content_html": "<p><strong>nam </strong>- 男 (おとこ)</p>",
+      "content_text": "nam\n- 男 (おとこ)",
+      "image_url": "https://jpdictionary.com/upload/images/648ac3970d0a2.jpg",
+      "image_path": "assets/images/男_2.jpg",
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "155402",
+      "lang": "vi",
+      "content_html": "<p>Đủ sức LỰC (力) để vác cả thửa RUỘNG (田) lên vai chỉ có thể là NAM (男) giới.<br>.性.</p>",
+      "content_text": "Đủ sức LỰC (力) để vác cả thửa RUỘNG (田) lên vai chỉ có thể là NAM (男) giới.\n.性.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

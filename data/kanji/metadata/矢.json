@@ -1,0 +1,107 @@
+{
+  "kanji": "矢",
+  "meta": {
+    "weight": 1858,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "や"
+    ],
+    "am_han": "THỈ"
+  },
+  "meaning": {
+    "vi": "phi tiêu, mũi tên",
+    "en": "dart, arrow"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/矢.svg"
+  },
+  "frequency": 1294,
+  "examples": [
+    "矢",
+    "無理矢理",
+    "矢印",
+    "矢先",
+    "大矢"
+  ],
+  "explanation": {
+    "id": "7685",
+    "text": "矢 (đọc là \"ya\") có nghĩa là \"mũi tên\" để chỉ các vật thể dùng để bắn hoặc ám chỉ đến sự chính xác, hướng đi.  \nVí dụ:  \n- 矢印 (yajirushi): Mũi tên chỉ hướng.  \n- 矢 (ya): Mũi tên.  \n- 射矢 (sha "
+  },
+  "comments": [
+    {
+      "id": "931",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của <strong>mũi tên</strong></p>",
+      "content_text": "Hình dạng của\nmũi tên",
+      "image_url": "https://jpdictionary.com/upload/images/6298c6c00650a.jpg",
+      "image_path": "assets/images/矢_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155605",
+      "lang": "vi",
+      "content_html": "<p>mũi tên bắn lên trời</p>",
+      "content_text": "mũi tên bắn lên trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155606",
+      "lang": "vi",
+      "content_html": "<p>thằng giặc Đại bị mũi tên bắn xuyên đầu</p>",
+      "content_text": "thằng giặc Đại bị mũi tên bắn xuyên đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155607",
+      "lang": "vi",
+      "content_html": "<p>cái này sao mà JLPT n1 đc nhỉ...có mấy chữ khó lại nằm ở N4-N5</p>",
+      "content_text": "cái này sao mà JLPT n1 đc nhỉ...có mấy chữ khó lại nằm ở N4-N5",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

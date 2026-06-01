@@ -1,0 +1,52 @@
+{
+  "kanji": "吻",
+  "meta": {
+    "weight": 465,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フン",
+      "ブン"
+    ],
+    "kun": [
+      "くちわき",
+      "くちさき"
+    ],
+    "am_han": "VẪN"
+  },
+  "meaning": {
+    "vi": "vòi",
+    "en": "proboscis"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/吻.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6946",
+    "text": "吻 (đọc là \"fun\" hoặc \"kissu\") có nghĩa là \"hôn\" để chỉ hành động hôn nhau, thể hiện tình cảm hoặc sự thân mật.  \nVí dụ:  \n- キス (kisu): Hôn (tiếng Anh \"kiss\", thường dùng trong tiếng Nhật).  "
+  },
+  "comments": [
+    {
+      "id": "219082",
+      "lang": "vi",
+      "content_html": "<p>Phân biệt với 物 bằng bộ khẩu. Nghĩa là mép, miệng nối</p>",
+      "content_text": "Phân biệt với 物 bằng bộ khẩu. Nghĩa là mép, miệng nối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

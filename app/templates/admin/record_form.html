@@ -1,0 +1,43 @@
+{% extends "admin/base.html" %}
+{% block content %}
+<section class="page-header compact">
+    <div>
+        <p class="eyebrow">{{ 'Create record' if mode == 'create' else 'Edit record' }}</p>
+        <h1>{{ page_title }}</h1>
+        <p class="lead">{{ table.description }}</p>
+    </div>
+    <a class="ghost-button anchor-button" href="/admin/table/{{ table.key }}">Quay lai bang</a>
+</section>
+
+<section class="panel form-panel">
+    {% if error %}
+    <div class="alert">{{ error }}</div>
+    {% endif %}
+    <form method="post" class="record-form">
+        <div class="form-grid">
+            {% for field in fields %}
+            <label class="field">
+                <span>{{ field.label }}</span>
+                {% if field.input_type == 'textarea' %}
+                <textarea name="{{ field.name }}" rows="5" {% if field.required %}required{% endif %} {% if field.readonly %}readonly{% endif %}>{{ field.value }}</textarea>
+                {% elif field.input_type == 'datetime-local' %}
+                <input type="datetime-local" name="{{ field.name }}" value="{{ field.value[:16] if field.value else '' }}" {% if field.required %}required{% endif %} {% if field.readonly %}readonly{% endif %}>
+                {% else %}
+                <input type="{{ field.input_type }}" name="{{ field.name }}" value="{{ field.value }}" {% if field.required %}required{% endif %} {% if field.readonly %}readonly{% endif %}>
+                {% endif %}
+                <small>{{ field.help }}</small>
+            </label>
+            {% endfor %}
+        </div>
+        <div class="form-actions">
+            <button type="submit" class="primary-button">{{ 'Tao ban ghi' if mode == 'create' else 'Luu thay doi' }}</button>
+        </div>
+    </form>
+
+    {% if mode == 'edit' %}
+    <form method="post" action="/admin/table/{{ table.key }}/{{ record_id }}/delete" onsubmit="return confirm('Xoa ban ghi nay?')">
+        <button type="submit" class="danger-button">Xoa ban ghi</button>
+    </form>
+    {% endif %}
+</section>
+{% endblock %}

@@ -1,0 +1,91 @@
+{
+  "kanji": "元",
+  "meta": {
+    "weight": 255,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲン",
+      "ガン"
+    ],
+    "kun": [
+      "もと"
+    ],
+    "am_han": "NGUYÊN"
+  },
+  "meaning": {
+    "vi": "khởi đầu",
+    "en": "beginning, former time, origin"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/元.svg"
+  },
+  "frequency": 192,
+  "examples": [
+    "元",
+    "元気",
+    "地元",
+    "次元",
+    "手元"
+  ],
+  "explanation": {
+    "id": "2200",
+    "text": "元 (đọc là \"gen\" hoặc \"moto\") có nghĩa là \"nguyên\", \"gốc\", \"bắt đầu\". Nó thường chỉ đến điểm khởi đầu hoặc nguồn gốc của một cái gì đó.\n\nVí dụ:\n- 元気 (genki): Khỏe mạnh, vui vẻ.\n- 元日 (ganjitsu"
+  },
+  "comments": [
+    {
+      "id": "585",
+      "lang": "vi",
+      "content_html": "<p>Nếu 2 người chạy cùng nhau thì họ sẽ trở nên khoẻ mạnh hơn (<strong>元</strong>気).</p>",
+      "content_text": "Nếu 2 người chạy cùng nhau thì họ sẽ trở nên khoẻ mạnh hơn (\n元\n気).",
+      "image_url": "https://jpdictionary.com/upload/images/62978206c22f7.jpg",
+      "image_path": "assets/images/元_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151831",
+      "lang": "vi",
+      "content_html": "<p>thời Nguyên thủy chỉ có Adam Eva 2 二 người đi 儿 với nhau thôi</p>",
+      "content_text": "thời Nguyên thủy chỉ có Adam Eva 2 二 người đi 儿 với nhau thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158314",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>元気 (げんき): sức khỏe</p>",
+      "content_text": "JLPT N4\n元気 (げんき): sức khỏe",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 1,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "kanji": "靖",
+  "meta": {
+    "weight": 2879,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ジョウ"
+    ],
+    "kun": [
+      "やす.んじる"
+    ],
+    "am_han": "TĨNH"
+  },
+  "meaning": {
+    "vi": "bình yên",
+    "en": "peaceful"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/靖.svg"
+  },
+  "frequency": 1390,
+  "examples": [
+    "靖国",
+    "靖国神社"
+  ],
+  "explanation": {
+    "id": "7706",
+    "text": "靖 (đọc là \"sei\" hoặc \"jō\") có nghĩa là \"yên tĩnh\", \"hòa bình\", thường được dùng để chỉ sự ổn định hoặc hòa bình trong xã hội hoặc tâm hồn.  \nVí dụ:  \n- 靖国神社 (Yasukuni Jinja): Đền Yasukuni, n"
+  },
+  "comments": [
+    {
+      "id": "157834",
+      "lang": "vi",
+      "content_html": "<p>Đứng (立) dưới trời xanh (青) thật là yên tĩnh (靖)</p>",
+      "content_text": "Đứng (立) dưới trời xanh (青) thật là yên tĩnh (靖)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

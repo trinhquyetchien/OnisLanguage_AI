@@ -1,0 +1,90 @@
+{
+  "kanji": "既",
+  "meta": {
+    "weight": 1208,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "すで.に"
+    ],
+    "am_han": "KÍ, KÝ, DĨ"
+  },
+  "meaning": {
+    "vi": "trước đây, đã, lâu rồi",
+    "en": "previously, already, long ago"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/既.svg"
+  },
+  "frequency": 1081,
+  "examples": [
+    "既に",
+    "既存",
+    "既成",
+    "既婚",
+    "既得"
+  ],
+  "explanation": {
+    "id": "1306",
+    "text": "既 (đọc là \"ki\") có nghĩa là \"đã\", \"cái đã xảy ra\" hoặc \"cả hai\". Được sử dụng để chỉ những điều đã được xác nhận hoặc những gì đã tồn tại.\n\nVí dụ:\n- 既婚 (kikon): Đã kết hôn.\n- 既知 (kichi): Đã "
+  },
+  "comments": [
+    {
+      "id": "154175",
+      "lang": "vi",
+      "content_html": "<p>hình dung ra số 96 bạn hạnh ạ</p>",
+      "content_text": "hình dung ra số 96 bạn hạnh ạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154176",
+      "lang": "vi",
+      "content_html": "<p>Lấn cấn thì cũng đã KÍ rồi</p>",
+      "content_text": "Lấn cấn thì cũng đã KÍ rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154177",
+      "lang": "vi",
+      "content_html": "<p>Chữ này viết khó mà khó nhớ thật</p>",
+      "content_text": "Chữ này viết khó mà khó nhớ thật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

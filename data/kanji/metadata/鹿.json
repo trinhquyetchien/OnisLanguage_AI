@@ -1,0 +1,90 @@
+{
+  "kanji": "鹿",
+  "meta": {
+    "weight": 3016,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロク"
+    ],
+    "kun": [
+      "しか",
+      "か"
+    ],
+    "am_han": "LỘC"
+  },
+  "meaning": {
+    "vi": "con hươu",
+    "en": "deer"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/鹿.svg"
+  },
+  "frequency": 957,
+  "examples": [
+    "馬鹿",
+    "鹿児島",
+    "鹿",
+    "馬鹿馬鹿しい"
+  ],
+  "explanation": {
+    "id": "3242",
+    "text": "鹿 (đọc là \"shika\") có nghĩa là \"con hươu\" để chỉ loài động vật hươu trong tự nhiên.  \nVí dụ:  \n- 鹿児島 (Kagoshima): Tên một thành phố ở Nhật, có nghĩa là \"cổng hươu\".  \n- 鹿肉 (shinakuni): Thịt "
+  },
+  "comments": [
+    {
+      "id": "158082",
+      "lang": "vi",
+      "content_html": "<p>Ở phía Tây trước 1 ngôi Nhà cổ có 2 con Tuần LỘC đang Tỉ thí đọ sừng</p>",
+      "content_text": "Ở phía Tây trước 1 ngôi Nhà cổ có 2 con Tuần LỘC đang Tỉ thí đọ sừng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158083",
+      "lang": "vi",
+      "content_html": "<p>Con hươu ở trong nhà mắt trông ra miệng cười hi hi</p>",
+      "content_text": "Con hươu ở trong nhà mắt trông ra miệng cười hi hi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158084",
+      "lang": "vi",
+      "content_html": "<p>trong Nhà có 2 con tuần Lộc đang Tỉ thí xem sừng mọc dọc ai dài hơn</p>",
+      "content_text": "trong Nhà có 2 con tuần Lộc đang Tỉ thí xem sừng mọc dọc ai dài hơn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

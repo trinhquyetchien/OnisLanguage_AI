@@ -1,0 +1,86 @@
+{
+  "kanji": "臆",
+  "meta": {
+    "weight": 2218,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オク",
+      "ヨク"
+    ],
+    "kun": [
+      "むね",
+      "おくする"
+    ],
+    "am_han": "ỨC"
+  },
+  "meaning": {
+    "vi": "nhút nhát, trái tim, tâm trí, sợ hãi, hèn nhát",
+    "en": "timidity, heart, mind, fear, cowardly"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/臆.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "570",
+    "text": "臆 (đọc là \"oku\") có nghĩa là \"nghĩ ngợi\", \"nghe tiếng vọng\" hoặc chỉ trạng thái lo lắng, e sợ. \n\nVí dụ:\n- 臆病 (okubyō): Nhút nhát, sợ hãi.\n- 臆測 (okusaku): Đoán mò, suy đoán không chính xác.\n-"
+  },
+  "comments": [
+    {
+      "id": "220477",
+      "lang": "vi",
+      "content_html": "<p>Chị Nguyệt hay để ý đến ký ức lúc rụt rè</p>",
+      "content_text": "Chị Nguyệt hay để ý đến ký ức lúc rụt rè",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220478",
+      "lang": "vi",
+      "content_html": "<p>Người RỤT RÈ hay để Ý về kí ỨC buồn</p>",
+      "content_text": "Người RỤT RÈ hay để Ý về kí ỨC buồn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220479",
+      "lang": "vi",
+      "content_html": "<p>Nguyệt có ý kiến nhưng rụt rè</p>",
+      "content_text": "Nguyệt có ý kiến nhưng rụt rè",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

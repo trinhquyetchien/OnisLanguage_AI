@@ -1,0 +1,91 @@
+{
+  "kanji": "標",
+  "meta": {
+    "weight": 1417,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒョウ"
+    ],
+    "kun": [
+      "しるべ",
+      "しるし"
+    ],
+    "am_han": "TIÊU, PHIÊU"
+  },
+  "meaning": {
+    "vi": "biển chỉ dẫn, con dấu, dấu, con tem, Dấu ấn, ký hiệu, Huy hiệu, Nhãn hiệu, bằng chứng, quà lưu niệm, Mục tiêu",
+    "en": "signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/標.svg"
+  },
+  "frequency": 686,
+  "examples": [
+    "目標",
+    "標準",
+    "指標",
+    "商標",
+    "標本"
+  ],
+  "explanation": {
+    "id": "6700",
+    "text": "標 (đọc là \"hyō\") có nghĩa là \"dấu hiệu\", \"biểu thị\", thể hiện việc đánh dấu hoặc chỉ dẫn.  \nVí dụ:  \n- 標識 (hyōshiki): Biển báo, dấu hiệu.  \n- 標準 (hyoujun): Tiêu chuẩn, chuẩn mực.  \n- 標本 (hyō"
+  },
+  "comments": [
+    {
+      "id": "154606",
+      "lang": "vi",
+      "content_html": "<p>Dán phiếu lên cây để làm tiêu chuẩn đánh giá ( cây tốt hay k,vv)</p>",
+      "content_text": "Dán phiếu lên cây để làm tiêu chuẩn đánh giá ( cây tốt hay k,vv)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154607",
+      "lang": "vi",
+      "content_html": "<p>Mục tiêu được biểu thị trên 1 cái cây ở hướng tây</p>",
+      "content_text": "Mục tiêu được biểu thị trên 1 cái cây ở hướng tây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154608",
+      "lang": "vi",
+      "content_html": "<p>Lấy cái cây phía tây là mục TIÊU toạ độ và TIÊU chuẩn để làm đích</p>",
+      "content_text": "Lấy cái cây phía tây là mục TIÊU toạ độ và TIÊU chuẩn để làm đích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

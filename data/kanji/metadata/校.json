@@ -1,0 +1,72 @@
+{
+  "kanji": "校",
+  "meta": {
+    "weight": 1339,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "キョウ"
+    ],
+    "kun": [],
+    "am_han": "HIỆU"
+  },
+  "meaning": {
+    "vi": "trường học",
+    "en": "exam, school, printing, proof, correction"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/校.svg"
+  },
+  "frequency": 294,
+  "examples": [
+    "学校",
+    "高校",
+    "小学校",
+    "校",
+    "高校生"
+  ],
+  "explanation": {
+    "id": "2477",
+    "text": "校 (đọc là \"kō\") có nghĩa là \"trường học\" hoặc \"kiểm tra\", để chỉ các hoạt động liên quan đến giáo dục và xác minh.\n\nVí dụ:\n- 学校 (gakkō): Trường học.\n- 校長 (kōchō): Hiệu trưởng.\n- 校正 (kōsei): "
+  },
+  "comments": [
+    {
+      "id": "632",
+      "lang": "vi",
+      "content_html": "<p>Ba (父) tôi đến <strong>trường </strong>để đón tôi.</p>",
+      "content_text": "Ba (父) tôi đến\ntrường\nđể đón tôi.",
+      "image_url": "https://jpdictionary.com/upload/images/62978a93f19c0.jpg",
+      "image_path": "assets/images/校_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158438",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>学校 (がっこう): ngôi trường<br>小学校 (しょうがっこう): trường tiểu học<br>中学校 (ちゅうがっこう): trường cấp 2, trường trung học cơ sở<br>高校 (こうこう): trường cấp 3, trường trung học phổ thông</p>",
+      "content_text": "JLPT N5\n学校 (がっこう): ngôi trường\n小学校 (しょうがっこう): trường tiểu học\n中学校 (ちゅうがっこう): trường cấp 2, trường trung học cơ sở\n高校 (こうこう): trường cấp 3, trường trung học phổ thông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

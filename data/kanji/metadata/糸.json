@@ -1,0 +1,107 @@
+{
+  "kanji": "糸",
+  "meta": {
+    "weight": 2044,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "いと"
+    ],
+    "am_han": "MỊCH"
+  },
+  "meaning": {
+    "vi": "sợi chỉ",
+    "en": "thread"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/糸.svg"
+  },
+  "frequency": 1488,
+  "examples": [
+    "糸",
+    "糸口",
+    "毛糸",
+    "生糸",
+    "菌糸"
+  ],
+  "explanation": {
+    "id": "3122",
+    "text": "糸 (đọc là \"shi\" hoặc \"ito\") có nghĩa là \"sợi chỉ\" hoặc \"sợi dây\", thường dùng để chỉ các vật liệu mảnh, dài và mềm mại như chỉ hoặc dây. \n\nVí dụ:\n- 糸電話 (ito denwa): Điện thoại giấy (dùng sợi"
+  },
+  "comments": [
+    {
+      "id": "956",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của cuộn <strong>chỉ</strong>.</p>",
+      "content_text": "Hình dạng của cuộn\nchỉ\n.",
+      "image_url": "https://jpdictionary.com/upload/images/6298cb4027735.jpg",
+      "image_path": "assets/images/糸_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155964",
+      "lang": "vi",
+      "content_html": "<p>糸 糹\tMỊCH \t\tsợi tơ nhỏ\tĐây là bộ phổ biến, 糹 là biến thể của 糸 rất được hay dùng</p>",
+      "content_text": "糸 糹\tMỊCH \t\tsợi tơ nhỏ\tĐây là bộ phổ biến, 糹 là biến thể của 糸 rất được hay dùng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155966",
+      "lang": "vi",
+      "content_html": "<p>YÊU ma ở trên chú TIỂU ở dưới xếp thành sợi tơ</p>",
+      "content_text": "YÊU ma ở trên chú TIỂU ở dưới xếp thành sợi tơ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155965",
+      "lang": "vi",
+      "content_html": "<p>tình yêu (tâm) nhỏ thì cũng sẽ MỊCH mù như sợi tơ</p>",
+      "content_text": "tình yêu (tâm) nhỏ thì cũng sẽ MỊCH mù như sợi tơ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

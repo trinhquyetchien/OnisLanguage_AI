@@ -1,0 +1,87 @@
+{
+  "kanji": "篤",
+  "meta": {
+    "weight": 2014,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トク"
+    ],
+    "kun": [
+      "あつ.い"
+    ],
+    "am_han": "ĐỐC"
+  },
+  "meaning": {
+    "vi": "nhiệt thành, tốt bụng, thân ái, nghiêm túc, có chủ ý",
+    "en": "fervent, kind, cordial, serious, deliberate"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/篤.svg"
+  },
+  "frequency": 1942,
+  "examples": [
+    "危篤",
+    "篤志"
+  ],
+  "explanation": {
+    "id": "5965",
+    "text": "篤 (đọc là \"toku\") có nghĩa là \"chân thành\", \"nồng nhiệt\" để chỉ sự chân thành và ấm áp trong tình cảm hoặc hành động.  \nVí dụ:  \n- 篤志 (tokushi): Tấm lòng chân thành, ý chí mạnh mẽ.  \n- 篤い (t"
+  },
+  "comments": [
+    {
+      "id": "155913",
+      "lang": "vi",
+      "content_html": "<p>thanh mai trúc mã.. những ng đứng đắn tận tâm</p>",
+      "content_text": "thanh mai trúc mã.. những ng đứng đắn tận tâm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155914",
+      "lang": "vi",
+      "content_html": "<p>muốn đốc thúc .. ngựa.. dùng gậy trúc vụt</p>",
+      "content_text": "muốn đốc thúc .. ngựa.. dùng gậy trúc vụt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155915",
+      "lang": "vi",
+      "content_html": "<p>Ngựa (馬) mà ăn tre trúc (竹)là ngựa của giám Đốc(篤)<br><br>チャン</p>",
+      "content_text": "Ngựa (馬) mà ăn tre trúc (竹)là ngựa của giám Đốc(篤)\nチャン",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

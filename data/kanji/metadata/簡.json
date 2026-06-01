@@ -1,0 +1,92 @@
+{
+  "kanji": "簡",
+  "meta": {
+    "weight": 2016,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン",
+      "ケン"
+    ],
+    "kun": [
+      "えら.ぶ",
+      "ふだ"
+    ],
+    "am_han": "GIẢN"
+  },
+  "meaning": {
+    "vi": "đơn giản",
+    "en": "simplicity, brevity"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/簡.svg"
+  },
+  "frequency": 983,
+  "examples": [
+    "簡単",
+    "簡易",
+    "簡潔",
+    "簡素",
+    "書簡"
+  ],
+  "explanation": {
+    "id": "1161",
+    "text": "簡 (đọc là \"kan\") có nghĩa là \"đơn giản\", \"ngắn gọn\" để chỉ sự đơn giản hoặc dễ hiểu trong một cái gì đó.  \nVí dụ:  \n- 簡単 (kantan): Đơn giản, dễ dàng.  \n- 簡潔 (kanketsu): Ngắn gọn, xúc tích.  "
+  },
+  "comments": [
+    {
+      "id": "155918",
+      "lang": "vi",
+      "content_html": "<p>Không GIAN mà toàn làm bằng TRÚC TRE thì thật là đơn GIẢN</p>",
+      "content_text": "Không GIAN mà toàn làm bằng TRÚC TRE thì thật là đơn GIẢN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155919",
+      "lang": "vi",
+      "content_html": "<p>Tre trúc trồng rất đơn giản chỉ cần cắm xg và chờ thời gian</p>",
+      "content_text": "Tre trúc trồng rất đơn giản chỉ cần cắm xg và chờ thời gian",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155920",
+      "lang": "vi",
+      "content_html": "<p>TRE, TRÚC sẽ tạo nên một KHÔNG GIAN --» GIẢN DỊ, TIẾT GIẢN</p>",
+      "content_text": "TRE, TRÚC sẽ tạo nên một KHÔNG GIAN --» GIẢN DỊ, TIẾT GIẢN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

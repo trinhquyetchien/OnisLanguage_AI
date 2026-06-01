@@ -1,0 +1,69 @@
+{
+  "kanji": "讐",
+  "meta": {
+    "weight": 2533,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "あだ",
+      "むく.いる",
+      "あ.たる"
+    ],
+    "am_han": "THÙ, CỪU"
+  },
+  "meaning": {
+    "vi": "kẻ thù, trả thù",
+    "en": "enemy, revenge"
+  },
+  "stroke": {
+    "count": 23,
+    "svg": "assets/svg/讐.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3521",
+    "text": "讐 (đọc là \"shuu\") có nghĩa là \"thù oán\", chỉ những kẻ thù hoặc mối hận thù giữa người với người.  \nVí dụ:  \n- 讐敵 (shuudeki): Kẻ thù, kẻ thù truyền kiếp.  \n- 讐報 (shuuhou): Sự báo thù.  \n- 讐恨 "
+  },
+  "comments": [
+    {
+      "id": "220730",
+      "lang": "vi",
+      "content_html": "<p>2 con CHIM đang nói về chuyện TRẢ THÙ</p>",
+      "content_text": "2 con CHIM đang nói về chuyện TRẢ THÙ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220731",
+      "lang": "vi",
+      "content_html": "<p>Thù hận hai con chim biết nói</p>",
+      "content_text": "Thù hận hai con chim biết nói",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

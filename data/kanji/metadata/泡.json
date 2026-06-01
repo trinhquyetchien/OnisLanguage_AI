@@ -1,0 +1,90 @@
+{
+  "kanji": "泡",
+  "meta": {
+    "weight": 1518,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "あわ"
+    ],
+    "am_han": "PHAO, BÀO"
+  },
+  "meaning": {
+    "vi": "bong bóng, bọt, suds",
+    "en": "bubbles, foam, suds, froth"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/泡.svg"
+  },
+  "frequency": 1872,
+  "examples": [
+    "泡",
+    "泡盛",
+    "発泡",
+    "気泡",
+    "泡沫"
+  ],
+  "explanation": {
+    "id": "7189",
+    "text": "泡 (đọc là \"hō\" hoặc \"awa\") có nghĩa là \"bọt\", \"bong bóng\", chỉ các hiện tượng liên quan đến sự tạo ra hoặc tồn tại của bọt khí trong chất lỏng.  \nVí dụ:  \n- 泡立てる (awatateru): Đánh bông lên, "
+  },
+  "comments": [
+    {
+      "id": "154838",
+      "lang": "vi",
+      "content_html": "<p>bao trùm mặt nước như Phao bong bóng</p>",
+      "content_text": "bao trùm mặt nước như Phao bong bóng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154839",
+      "lang": "vi",
+      "content_html": "<p>bao quanh nước là cái phao</p>",
+      "content_text": "bao quanh nước là cái phao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154840",
+      "lang": "vi",
+      "content_html": "<p>dùng Bao mà vẫn ra Nước thì cần ngay Phao</p>",
+      "content_text": "dùng Bao mà vẫn ra Nước thì cần ngay Phao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

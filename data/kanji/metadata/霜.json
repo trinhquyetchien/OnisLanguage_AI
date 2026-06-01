@@ -1,0 +1,86 @@
+{
+  "kanji": "霜",
+  "meta": {
+    "weight": 2874,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "しも"
+    ],
+    "am_han": "SƯƠNG"
+  },
+  "meaning": {
+    "vi": "sương giá",
+    "en": "frost"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/霜.svg"
+  },
+  "frequency": 2151,
+  "examples": [
+    "霜"
+  ],
+  "explanation": {
+    "id": "4766",
+    "text": "霜 (đọc là \"sō\") có nghĩa là \"sương giá\", chỉ hiện tượng băng giá xuất hiện trên mặt đất hoặc cây cối khi nhiệt độ giảm xuống.  \nVí dụ:  \n- 霜降 (sōkō): Sương giá, đánh dấu một thời điểm trong "
+  },
+  "comments": [
+    {
+      "id": "157819",
+      "lang": "vi",
+      "content_html": "<p>những hạt mưa rới xuống cái cây nhìn tương tự như những hạt sương</p>",
+      "content_text": "những hạt mưa rới xuống cái cây nhìn tương tự như những hạt sương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157820",
+      "lang": "vi",
+      "content_html": "<p>Tương tự như mưa là sương.</p>",
+      "content_text": "Tương tự như mưa là sương.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157821",
+      "lang": "vi",
+      "content_html": "<p>Có 3 loại sương và chữ Kanji gần giống nhau như dưới đây: (xin mời xem trang 51 sách Shinkanzen N1)<br>1.霧　きり　(vụ)             sương mù<br>2.霜　しも　(sương)      sương giá<br>3.露　つゆ　(lộ)              sương sớm, sương ban mai<br>Chú ý riêng từ つゆ còn có một từ vựng khác</p>",
+      "content_text": "Có 3 loại sương và chữ Kanji gần giống nhau như dưới đây: (xin mời xem trang 51 sách Shinkanzen N1)\n1.霧　きり　(vụ)             sương mù\n2.霜　しも　(sương)      sương giá\n3.露　つゆ　(lộ)              sương sớm, sương ban mai\nChú ý riêng từ つゆ còn có một từ vựng khác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

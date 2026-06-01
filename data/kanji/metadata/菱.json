@@ -1,0 +1,86 @@
+{
+  "kanji": "菱",
+  "meta": {
+    "weight": 2300,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [
+      "ひし"
+    ],
+    "am_han": "LĂNG"
+  },
+  "meaning": {
+    "vi": "kim cương (hình dạng), hạt dẻ nước, hình thoi",
+    "en": "diamond (shape), water chestnut, rhombus"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/菱.svg"
+  },
+  "frequency": 1229,
+  "examples": [
+    "菱"
+  ],
+  "explanation": {
+    "id": "6658",
+    "text": "菱 (đọc là \"rin\") có nghĩa là \"hình thoi\" hoặc \"cây rau mác\". Chữ này thường chỉ về hình dạng hoặc các loại thực vật có hình dáng đặc trưng.\n\nVí dụ:\n- 菱形 (rinhyou): Hình thoi.\n- 菱の実 (hashirim"
+  },
+  "comments": [
+    {
+      "id": "156550",
+      "lang": "vi",
+      "content_html": "<p>三菱 mitsubishi</p>",
+      "content_text": "三菱 mitsubishi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156551",
+      "lang": "vi",
+      "content_html": "<p>菱型　:hinh thoi ◇</p>",
+      "content_text": "菱型　:hinh thoi ◇",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156552",
+      "lang": "vi",
+      "content_html": "<p>Người đi 八 truy đuổi 夂 nhặt được củ ấu hình thoi 菱 trong cỏ 艹 mọc trên đất 土</p>",
+      "content_text": "Người đi 八 truy đuổi 夂 nhặt được củ ấu hình thoi 菱 trong cỏ 艹 mọc trên đất 土",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "kanji": "梗",
+  "meta": {
+    "weight": 1363,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "キョウ"
+    ],
+    "kun": [
+      "ふさぐ",
+      "やまにれ",
+      "おおむね"
+    ],
+    "am_han": "NGẠNH"
+  },
+  "meaning": {
+    "vi": "đối với hầu hết các phần, cận cảnh, thân hoa",
+    "en": "for the most part, close up, flower stem"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/梗.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2480",
+    "text": "梗 (đọc là \"kō\") có nghĩa là \"khúc cây\", \"cành\", hoặc chỉ các phần thừa trong một cái gì đó. Trong ngữ cảnh khác, nó cũng được dùng để chỉ những điều rắc rối hoặc vấn đề.\n\nVí dụ:\n- 梗概 (kōgai)"
+  },
+  "comments": [
+    {
+      "id": "219810",
+      "lang": "vi",
+      "content_html": "<p>Canh tác Cây trên vùng đất ương NGẠNH</p>",
+      "content_text": "Canh tác Cây trên vùng đất ương NGẠNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219811",
+      "lang": "vi",
+      "content_html": "<p>thâm canh cây NGẠNH tắc nghẽn cả đường</p>",
+      "content_text": "thâm canh cây NGẠNH tắc nghẽn cả đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219812",
+      "lang": "vi",
+      "content_html": "<p>canh tân đổi mới bị cây dại ngán đường bị tắc nghẽn</p>",
+      "content_text": "canh tân đổi mới bị cây dại ngán đường bị tắc nghẽn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

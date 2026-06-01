@@ -1,0 +1,71 @@
+{
+  "kanji": "鋤",
+  "meta": {
+    "weight": 2763,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョ",
+      "ショ",
+      "ソ"
+    ],
+    "kun": [
+      "す.く",
+      "すき",
+      "くわ"
+    ],
+    "am_han": "SỪ"
+  },
+  "meaning": {
+    "vi": "thuổng, cày",
+    "en": "spade up, plow"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/鋤.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3737",
+    "text": "鋤 (đọc là \"じょ\" - jo, \"すき\" - suki) có nghĩa là \"cái cuốc\" hoặc \"cái xới\", chỉ các công cụ làm nông để xới đất hoặc canh tác.\n\nVí dụ:\n- 鋤耕 (しょこう - shokou): Cày xới đất.\n- 鋤の刃 (すきのは - suki no h"
+  },
+  "comments": [
+    {
+      "id": "220906",
+      "lang": "vi",
+      "content_html": "<p>XẺNG làm từ VÀNG thì chả CỨU được ai, ghét bỏ SỪ</p>",
+      "content_text": "XẺNG làm từ VÀNG thì chả CỨU được ai, ghét bỏ SỪ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220907",
+      "lang": "vi",
+      "content_html": "<p>Cái Cày làm bằng vàng ngu bỏ Sừ</p>",
+      "content_text": "Cái Cày làm bằng vàng ngu bỏ Sừ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

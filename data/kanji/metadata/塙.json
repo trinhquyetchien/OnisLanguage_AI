@@ -1,0 +1,34 @@
+{
+  "kanji": "塙",
+  "meta": {
+    "weight": 589,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク",
+      "コウ"
+    ],
+    "kun": [
+      "はなわ",
+      "かた.い"
+    ],
+    "am_han": "SÁC, XÁC"
+  },
+  "meaning": {
+    "vi": "dự phóng cây cỏ hoặc núi",
+    "en": "projecting tableland or mountain"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/塙.svg"
+  },
+  "frequency": 2340,
+  "examples": [],
+  "explanation": {
+    "id": "6430",
+    "text": "塙 (đọc là \"hanawa\") có nghĩa là \"bờ đê\", \"ngọn đê\" để chỉ các cấu trúc đất hoặc bảo vệ chống nước lũ.\n\nVí dụ:\n- 塙場 (hanawaba): Nơi bờ đê, khu vực gần ngọn đê.\n- 塙作り (hanawazukuri): Làm bờ đê"
+  },
+  "comments": []
+}

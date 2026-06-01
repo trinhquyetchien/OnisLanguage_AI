@@ -1,0 +1,90 @@
+{
+  "kanji": "学",
+  "meta": {
+    "weight": 702,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガク"
+    ],
+    "kun": [
+      "まな.ぶ"
+    ],
+    "am_han": "HỌC"
+  },
+  "meaning": {
+    "vi": "học tập",
+    "en": "study, learning, science"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/学.svg"
+  },
+  "frequency": 63,
+  "examples": [
+    "大学",
+    "学校",
+    "学",
+    "学生",
+    "科学"
+  ],
+  "explanation": {
+    "id": "940",
+    "text": "学 (đọc là \"gaku\" hoặc \"manabu\") có nghĩa là \"học\" hay \"học tập\", liên quan đến việc tiếp thu kiến thức và giáo dục.  \nVí dụ:  \n- 学校 (gakkou): Trường học.  \n- 学ぶ (manabu): Học, nghiên cứu.  \n"
+  },
+  "comments": [
+    {
+      "id": "190974",
+      "lang": "vi",
+      "content_html": "<p><strong>học tập</strong></p>",
+      "content_text": "học tập",
+      "image_url": "https://jpdictionary.com/upload/images/648a7df5155fa.jpg",
+      "image_path": "assets/images/学_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "550",
+      "lang": "vi",
+      "content_html": "<p>Đứa trẻ (子) <strong>học </strong>ở trường.</p>",
+      "content_text": "Đứa trẻ (子)\nhọc\nở trường.",
+      "image_url": "https://jpdictionary.com/upload/images/62977d45d8ea9.jpg",
+      "image_path": "assets/images/学_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158346",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>学生 (がくせい): học sinh<br>学校 (がっこう): ngôi trường<br>にほんご学校 (にほんごがっこう): Trường dạy tiếng Nhật, trường Nhật ngữ<br>小学校 (しょうがっこう): trường tiểu học<br>中学校 (ちゅうがっこう): trường cấp 2, trường trung học cơ sở</p><p>大学 (だいがく): đại học<br>大学いん (だいがくいん): cao học<br>留学生 (りゅうがくせい): du học sinh</p>",
+      "content_text": "JLPT N5\n学生 (がくせい): học sinh\n学校 (がっこう): ngôi trường\nにほんご学校 (にほんごがっこう): Trường dạy tiếng Nhật, trường Nhật ngữ\n小学校 (しょうがっこう): trường tiểu học\n中学校 (ちゅうがっこう): trường cấp 2, trường trung học cơ sở\n大学 (だいがく): đại học\n大学いん (だいがくいん): cao học\n留学生 (りゅうがくせい): du học sinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

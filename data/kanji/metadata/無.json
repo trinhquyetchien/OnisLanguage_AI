@@ -1,0 +1,91 @@
+{
+  "kanji": "無",
+  "meta": {
+    "weight": 1657,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ム",
+      "ブ"
+    ],
+    "kun": [
+      "な.い"
+    ],
+    "am_han": "VÔ"
+  },
+  "meaning": {
+    "vi": "hư vô, không",
+    "en": "nothingness, none, ain't, nothing, nil, not"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/無.svg"
+  },
+  "frequency": 274,
+  "examples": [
+    "無い",
+    "無料",
+    "無理",
+    "無",
+    "名無し"
+  ],
+  "explanation": {
+    "id": "7519",
+    "text": "無 (đọc là \"mu\" hoặc \"nai\") có nghĩa là \"không\", \"vô\" để chỉ sự thiếu vắng hay không tồn tại của một cái gì đó.  \nVí dụ:  \n- 無理 (muri): Không thể, vô lý.  \n- 無料 (muryō): Miễn phí, không mất t"
+  },
+  "comments": [
+    {
+      "id": "37376",
+      "lang": "vi",
+      "content_html": "<p>Trong cơn hoả hoạn căn nhà bị cháy <strong>không </strong>còn lại gì.</p>",
+      "content_text": "Trong cơn hoả hoạn căn nhà bị cháy\nkhông\ncòn lại gì.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfec4adb351.jpg",
+      "image_path": "assets/images/無_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191103",
+      "lang": "vi",
+      "content_html": "<p><strong>không </strong>còn</p>",
+      "content_text": "không\ncòn",
+      "image_url": "https://jpdictionary.com/upload/images/648ac076f3fc3.jpg",
+      "image_path": "assets/images/無_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158390",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>無くす (なくす): làm mất<br>無くなる (なくなる): mất, hết<br>無理 (むり): vô lý<br>無料 (むりょう): miễn phí</p>",
+      "content_text": "JLPT N4\n無くす (なくす): làm mất\n無くなる (なくなる): mất, hết\n無理 (むり): vô lý\n無料 (むりょう): miễn phí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "争",
+  "meta": {
+    "weight": 111,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "あらそ.う",
+      "いか.でか"
+    ],
+    "am_han": "TRANH"
+  },
+  "meaning": {
+    "vi": "đấu tranh, chiến tranh",
+    "en": "contend, dispute, argue"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/争.svg"
+  },
+  "frequency": 271,
+  "examples": [
+    "戦争",
+    "競争",
+    "紛争",
+    "闘争",
+    "争い"
+  ],
+  "explanation": {
+    "id": "4732",
+    "text": "争 (đọc là \"sou\" hoặc \"arau\") có nghĩa là \"tranh chấp\", \"cạnh tranh\" để chỉ các hành động liên quan đến xung đột hoặc sự cạnh tranh giữa các bên.\n\nVí dụ:\n- 争い (arasoi): Sự tranh chấp, xung độ"
+  },
+  "comments": [
+    {
+      "id": "37129",
+      "lang": "vi",
+      "content_html": "<p>Người đó cầm vũ khí trong tay chuẩn bị <strong>đấu tranh</strong>.</p>",
+      "content_text": "Người đó cầm vũ khí trong tay chuẩn bị\nđấu tranh\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb95285a24.jpg",
+      "image_path": "assets/images/争_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151481",
+      "lang": "vi",
+      "content_html": "<p>Cứ dô quyết chiến ( cư dô trong Katakana, bộ quyết)</p>",
+      "content_text": "Cứ dô quyết chiến ( cư dô trong Katakana, bộ quyết)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151482",
+      "lang": "vi",
+      "content_html": "<p>Đầu đội nón tay cầm súng chiến TRANH đến rồi.</p>",
+      "content_text": "Đầu đội nón tay cầm súng chiến TRANH đến rồi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151483",
+      "lang": "vi",
+      "content_html": "<p>hình ảnh tay cầm vật sắc nhọn đó là chiến tranh</p>",
+      "content_text": "hình ảnh tay cầm vật sắc nhọn đó là chiến tranh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

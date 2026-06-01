@@ -1,0 +1,90 @@
+{
+  "kanji": "柱",
+  "meta": {
+    "weight": 1326,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "はしら"
+    ],
+    "am_han": "TRỤ"
+  },
+  "meaning": {
+    "vi": "trụ, trụ cột",
+    "en": "pillar, post, cylinder, support"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/柱.svg"
+  },
+  "frequency": 1119,
+  "examples": [
+    "柱",
+    "電柱",
+    "支柱",
+    "円柱",
+    "大黒柱"
+  ],
+  "explanation": {
+    "id": "5286",
+    "text": "柱 (đọc là \"hashira\") có nghĩa là \"cột\" hoặc \"trụ\", chỉ các vật thể có chức năng nâng đỡ trong kiến trúc hoặc biểu tượng cho sự vững chắc.\nVí dụ:\n- 柱時計 (hashirudokei): Đồng hồ treo tường, thư"
+  },
+  "comments": [
+    {
+      "id": "154461",
+      "lang": "vi",
+      "content_html": "<p>cái cột trụ 柱 chủ 主 yếu làm từ thân cây 木</p>",
+      "content_text": "cái cột trụ 柱 chủ 主 yếu làm từ thân cây 木",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154462",
+      "lang": "vi",
+      "content_html": "<p>Cây chủ chốt là cái cột</p>",
+      "content_text": "Cây chủ chốt là cái cột",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154463",
+      "lang": "vi",
+      "content_html": "<p>Ông chủ tôi chọn cây này làm trụ cột cho những ngày mưa,,</p>",
+      "content_text": "Ông chủ tôi chọn cây này làm trụ cột cho những ngày mưa,,",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

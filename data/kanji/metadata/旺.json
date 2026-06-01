@@ -1,0 +1,107 @@
+{
+  "kanji": "旺",
+  "meta": {
+    "weight": 1216,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オウ",
+      "キョウ",
+      "ゴウ"
+    ],
+    "kun": [
+      "かがや.き",
+      "うつくし.い",
+      "さかん"
+    ],
+    "am_han": "VƯỢNG"
+  },
+  "meaning": {
+    "vi": "hưng thịnh, thành công, xinh đẹp, mạnh mẽ",
+    "en": "flourishing, successful, beautiful, vigorous"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/旺.svg"
+  },
+  "frequency": 2342,
+  "examples": [
+    "旺盛"
+  ],
+  "explanation": {
+    "id": "526",
+    "text": "旺 (đọc là \"ou\") có nghĩa là \"thịnh vượng\", \"phát đạt\" để chỉ sự phát triển, thịnh vượng trong cuộc sống hoặc kinh tế.  \nVí dụ:  \n- 旺盛 (ousei): Hăng hái, mạnh mẽ, tràn đầy sức sống.  \n- 旺財 (o"
+  },
+  "comments": [
+    {
+      "id": "154195",
+      "lang": "vi",
+      "content_html": "<p>ngày nào còn vua thì đất nước thịn vượng</p>",
+      "content_text": "ngày nào còn vua thì đất nước thịn vượng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154196",
+      "lang": "vi",
+      "content_html": "<p>Con trai vua tên phạm nhật vượng</p>",
+      "content_text": "Con trai vua tên phạm nhật vượng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154197",
+      "lang": "vi",
+      "content_html": "<p>Tỷ phú Nhật 日 Vượng 王</p>",
+      "content_text": "Tỷ phú Nhật 日 Vượng 王",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221784",
+      "lang": "vi",
+      "content_html": "<p>Nhật + Vương còn có nghĩa là rực sáng (sáng rừng rực), ánh sáng tỏa ra xung quanh mặt trời vv</p>",
+      "content_text": "Nhật + Vương còn có nghĩa là rực sáng (sáng rừng rực), ánh sáng tỏa ra xung quanh mặt trời vv",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

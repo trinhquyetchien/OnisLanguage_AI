@@ -1,0 +1,91 @@
+{
+  "kanji": "随",
+  "meta": {
+    "weight": 2842,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ズイ"
+    ],
+    "kun": [
+      "まにま.に",
+      "したが.う"
+    ],
+    "am_han": "TÙY"
+  },
+  "meaning": {
+    "vi": "tuân theo, mặc dù, trong khi, cả hai, tất cả, phục tùng, theo lòng thương xót của (những con sóng)",
+    "en": "follow, though, notwithstanding, while, during, both, all, obey, submit to, comply, at the mercy of (the waves)"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/随.svg"
+  },
+  "frequency": 1396,
+  "examples": [
+    "随分",
+    "随時",
+    "付随",
+    "随所",
+    "追随"
+  ],
+  "explanation": {
+    "id": "4243",
+    "text": "随 (đọc là \"zui\") có nghĩa là \"theo\", \"tuân theo\" để chỉ hành động đi theo hoặc chấp nhận, thích ứng với điều gì đó.\n\nVí dụ:\n- 随筆 (zuipitsu): Bút ký, ghi chép tự do.\n- 随行 (zuikou): Đi theo, đ"
+  },
+  "comments": [
+    {
+      "id": "157733",
+      "lang": "vi",
+      "content_html": "<p>Sau bức tường có tuỳ theo đường dẫn mà đi</p>",
+      "content_text": "Sau bức tường có tuỳ theo đường dẫn mà đi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157734",
+      "lang": "vi",
+      "content_html": "<p>Tuỳ tùng luôn hiện hữu bên tướng quân cầm theo chiếc cờ</p>",
+      "content_text": "Tuỳ tùng luôn hiện hữu bên tướng quân cầm theo chiếc cờ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157735",
+      "lang": "vi",
+      "content_html": "<p>① Đi theo: 我 隨着大家一起去 Tôi sẽ đi theo mọi người; <br>② Vừa... vừa...: 隨說隨記 Vừa nói vừa ghi; <br>③ Bất kì, lúc nào cũng: 隨時注意 Lúc nào cũng chú ý; <br>④ Tùy theo, tuân theo, phục tùng: 隨他的便 Tùy (theo) anh ấy; 隨意 Tùy ý; 隨便 Tùy ý, tùy tiện, tùy thích, tự do, cẩu thả, xu</p>",
+      "content_text": "① Đi theo: 我 隨着大家一起去 Tôi sẽ đi theo mọi người;\n② Vừa... vừa...: 隨說隨記 Vừa nói vừa ghi;\n③ Bất kì, lúc nào cũng: 隨時注意 Lúc nào cũng chú ý;\n④ Tùy theo, tuân theo, phục tùng: 隨他的便 Tùy (theo) anh ấy; 隨意 Tùy ý; 隨便 Tùy ý, tùy tiện, tùy thích, tự do, cẩu thả, xu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

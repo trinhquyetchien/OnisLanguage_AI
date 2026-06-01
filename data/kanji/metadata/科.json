@@ -1,0 +1,105 @@
+{
+  "kanji": "科",
+  "meta": {
+    "weight": 1926,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [],
+    "am_han": "KHOA"
+  },
+  "meaning": {
+    "vi": "khoa, khoa học",
+    "en": "department, course, section"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/科.svg"
+  },
+  "frequency": 531,
+  "examples": [
+    "科学",
+    "科",
+    "教科書",
+    "科目",
+    "学科"
+  ],
+  "explanation": {
+    "id": "642",
+    "text": "科 (đọc là \"ka\") có nghĩa là \"khoa học\", \"môn học\" hoặc \"ngành\". Nó thường được dùng để chỉ các lĩnh vực chuyên môn trong giáo dục và nghiên cứu.\n\nVí dụ:\n- 科学 (kagaku): Khoa học.\n- 学科 (gakka)"
+  },
+  "comments": [
+    {
+      "id": "155735",
+      "lang": "vi",
+      "content_html": "<p>dùng cái ĐẤU đựng LÚa thật là KHOA học</p>",
+      "content_text": "dùng cái ĐẤU đựng LÚa thật là KHOA học",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190667",
+      "lang": "vi",
+      "content_html": "<p>Lúa mà đong bằng Đấu thì quá Khoa học</p>",
+      "content_text": "Lúa mà đong bằng Đấu thì quá Khoa học",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "155736",
+      "lang": "vi",
+      "content_html": "<p>科: Đấu (斗) Lúa ( 禾) dùng để nghiên cứu Khoa (科) học<br>料: Đấu (斗) Gạo (米) dùng làm nguyên Liệu (料) để nấu ăn</p>",
+      "content_text": "科: Đấu (斗) Lúa ( 禾) dùng để nghiên cứu Khoa (科) học\n料: Đấu (斗) Gạo (米) dùng làm nguyên Liệu (料) để nấu ăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155737",
+      "lang": "vi",
+      "content_html": "<p>Dùng cái Đấu 斗 đong Lúa 禾 thật là Khoa Học 科.</p>",
+      "content_text": "Dùng cái Đấu 斗 đong Lúa 禾 thật là Khoa Học 科.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

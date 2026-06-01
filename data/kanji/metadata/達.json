@@ -1,0 +1,108 @@
+{
+  "kanji": "達",
+  "meta": {
+    "weight": 2678,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タツ",
+      "ダ"
+    ],
+    "kun": [
+      "-たち"
+    ],
+    "am_han": "ĐẠT"
+  },
+  "meaning": {
+    "vi": "đạt được",
+    "en": "accomplished, reach, arrive, attain"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/達.svg"
+  },
+  "frequency": 500,
+  "examples": [
+    "達",
+    "友達",
+    "達成",
+    "人達",
+    "発達"
+  ],
+  "explanation": {
+    "id": "5075",
+    "text": "達 (đọc là \"tachi\" hoặc \"datsu\") có nghĩa là \"đạt được\", \"tiến đến\" để chỉ việc hoàn thành, đạt mục tiêu hoặc sự tiến bộ trong một lĩnh vực nào đó.  \nVí dụ:  \n- 達成 (tassei): Đạt được, hoàn th"
+  },
+  "comments": [
+    {
+      "id": "37336",
+      "lang": "vi",
+      "content_html": "<p>Con cừu (羊) chở đất (土) cuối cùng đã <strong>đến nơi</strong>.</p>",
+      "content_text": "Con cừu (羊) chở đất (土) cuối cùng đã\nđến nơi\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe78b21b52.jpg",
+      "image_path": "assets/images/達_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157381",
+      "lang": "vi",
+      "content_html": "<p>達：Sước thổ dương (3 gạch 羊 ---- Không phải hạnh trong hạnh phúc). Để đạt được mục đích, con dê cần phải chở đất đi chặng đường dài. <br>幸:  Hạnh phúc chỉ khi có Đất ( 土 ）và có  ¥ên (2 gạch)</p>",
+      "content_text": "達：Sước thổ dương (3 gạch 羊 ---- Không phải hạnh trong hạnh phúc). Để đạt được mục đích, con dê cần phải chở đất đi chặng đường dài.\n幸:  Hạnh phúc chỉ khi có Đất ( 土 ）và có  ¥ên (2 gạch)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190663",
+      "lang": "vi",
+      "content_html": "<p>có Đất rùi có Cừu là mục tiêu đã Đạt được</p>",
+      "content_text": "có Đất rùi có Cừu là mục tiêu đã Đạt được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157382",
+      "lang": "vi",
+      "content_html": "<p>con DÊ bê trên đầu nó là cục ĐẤT CHẠY nhanhvề nhà. nó đã ĐẠT đc mục đích của nó...</p>",
+      "content_text": "con DÊ bê trên đầu nó là cục ĐẤT CHẠY nhanhvề nhà. nó đã ĐẠT đc mục đích của nó...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "唐",
+  "meta": {
+    "weight": 493,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "から"
+    ],
+    "am_han": "ĐƯỜNG"
+  },
+  "meaning": {
+    "vi": "T'ang, Trung Quốc, nước ngoài",
+    "en": "T'ang, China, foreign"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/唐.svg"
+  },
+  "frequency": 1727,
+  "examples": [
+    "唐",
+    "唐突",
+    "唐辛子",
+    "荒唐無稽",
+    "遣唐使"
+  ],
+  "explanation": {
+    "id": "5775",
+    "text": "唐 (đọc là \"Tō\") có nghĩa là \"Đường\", thường chỉ triều đại nhà Đường ở Trung Quốc, và cũng được dùng để miêu tả văn hóa hoặc phong cách liên quan đến thời kỳ này.\n\nVí dụ:\n- 唐代 (Tōdai): Thời k"
+  },
+  "comments": [
+    {
+      "id": "152421",
+      "lang": "vi",
+      "content_html": "<p>Miệng (em) trong nhà nói ra ngoài Đường</p>",
+      "content_text": "Miệng (em) trong nhà nói ra ngoài Đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152422",
+      "lang": "vi",
+      "content_html": "<p>nhà Đường có quán Nghiễm Ký ăn ngon Miệng</p>",
+      "content_text": "nhà Đường có quán Nghiễm Ký ăn ngon Miệng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152423",
+      "lang": "vi",
+      "content_html": "<p>từ(から) trong Mái nhà vừa Kí tên vừa Mồm to nói khoác là vua nhà ĐƯỜNG</p>",
+      "content_text": "từ(から) trong Mái nhà vừa Kí tên vừa Mồm to nói khoác là vua nhà ĐƯỜNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

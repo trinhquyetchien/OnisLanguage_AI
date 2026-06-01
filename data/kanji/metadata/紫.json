@@ -1,0 +1,90 @@
+{
+  "kanji": "紫",
+  "meta": {
+    "weight": 2062,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "むらさき"
+    ],
+    "am_han": "TỬ"
+  },
+  "meaning": {
+    "vi": "tím",
+    "en": "purple, violet"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/紫.svg"
+  },
+  "frequency": 1516,
+  "examples": [
+    "紫",
+    "紫外線",
+    "紫陽花",
+    "紫色",
+    "筑紫"
+  ],
+  "explanation": {
+    "id": "3128",
+    "text": "紫 (đọc là \"murasaki\") có nghĩa là \"màu tím\" hoặc \"tím\", thường liên quan đến sắc thái và cảm xúc. \n\nVí dụ:\n- 紫色 (murasaki iro): Màu tím.\n- 紫陽花 (ajisai): Hoa cẩm tú cầu, thường có màu tím.\n- "
+  },
+  "comments": [
+    {
+      "id": "156009",
+      "lang": "vi",
+      "content_html": "<p>dứng lại đổ cafe vào sợi chỉ cho thành màu tím</p>",
+      "content_text": "dứng lại đổ cafe vào sợi chỉ cho thành màu tím",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156010",
+      "lang": "vi",
+      "content_html": "<p>Một người đang đi thì DỪNG lại và ngồi trên SỢI DÂY màu TÍM</p>",
+      "content_text": "Một người đang đi thì DỪNG lại và ngồi trên SỢI DÂY màu TÍM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156011",
+      "lang": "vi",
+      "content_html": "<p>hoa TỬ Đằng(紫藤)rủ xuống như những sợi Tơ(mịch) màu TÍA làm ta phải Dừng(chỉ) lại Mỉm cười(ヒ)</p>",
+      "content_text": "hoa TỬ Đằng(紫藤)rủ xuống như những sợi Tơ(mịch) màu TÍA làm ta phải Dừng(chỉ) lại Mỉm cười(ヒ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

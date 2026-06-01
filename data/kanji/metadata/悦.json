@@ -1,0 +1,89 @@
+{
+  "kanji": "悦",
+  "meta": {
+    "weight": 978,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エツ"
+    ],
+    "kun": [
+      "よろこ.ぶ",
+      "よろこ.ばす"
+    ],
+    "am_han": "DUYỆT, DỘT"
+  },
+  "meaning": {
+    "vi": "ngây ngất, vui sướng, sung sướng",
+    "en": "ecstasy, joy, rapture"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/悦.svg"
+  },
+  "frequency": 1762,
+  "examples": [
+    "悦",
+    "満悦",
+    "悦び"
+  ],
+  "explanation": {
+    "id": "419",
+    "text": "悦 (đọc là \"etsu\" hoặc \"yo\") có nghĩa là \"vui mừng\", \"hạnh phúc\". \n\nVí dụ:\n- 悦楽 (etsuraku): Niềm vui, hạnh phúc.\n- 悦ぶ (yodobu): Vui mừng, hạnh phúc.\n- 喜悦 (kietsu): Sự vui mừng, sự hãnh diện."
+  },
+  "comments": [
+    {
+      "id": "153605",
+      "lang": "vi",
+      "content_html": "<p>Trái tim tôi mãn nguyện khi anh trai có 2 cái sừng trên đầu</p>",
+      "content_text": "Trái tim tôi mãn nguyện khi anh trai có 2 cái sừng trên đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153606",
+      "lang": "vi",
+      "content_html": "<p>DUYỆT được cô vợ xinh Trái tim Huynh MÃN NGUYỆN</p>",
+      "content_text": "DUYỆT được cô vợ xinh Trái tim Huynh MÃN NGUYỆN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153607",
+      "lang": "vi",
+      "content_html": "<p>Trái tim huynh dựng lên vì sung sướng tự mãn</p>",
+      "content_text": "Trái tim huynh dựng lên vì sung sướng tự mãn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

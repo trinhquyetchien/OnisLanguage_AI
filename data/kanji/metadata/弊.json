@@ -1,0 +1,88 @@
+{
+  "kanji": "弊",
+  "meta": {
+    "weight": 890,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘイ"
+    ],
+    "kun": [],
+    "am_han": "TỆ, TẾ"
+  },
+  "meaning": {
+    "vi": "lạm dụng, xấu xa, phó mặc, đổ vỡ",
+    "en": "abuse, evil, vice, breakage"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/弊.svg"
+  },
+  "frequency": 1750,
+  "examples": [
+    "弊社",
+    "弊害",
+    "疲弊",
+    "語弊",
+    "弊"
+  ],
+  "explanation": {
+    "id": "7002",
+    "text": "弊 (đọc là \"hei\") có nghĩa là \"hại\", \"tệ hại\" để chỉ những điều bất lợi, tiêu cực hoặc thiệt hại.  \nVí dụ:  \n- 弊社 (heisha): Công ty chúng tôi (cách khiêm nhường).  \n- 弊害 (heigai): Tác hại, bấ"
+  },
+  "comments": [
+    {
+      "id": "153379",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa Lấy Gạo của người khác mà không chắp tay xin phép là tồi TỆ</p>",
+      "content_text": "Ngày xưa Lấy Gạo của người khác mà không chắp tay xin phép là tồi TỆ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153380",
+      "lang": "vi",
+      "content_html": "<p>Xin gạo  (米) mà đến sau (夂) thì TỆ lắm phải chắp 2 tay  (廾) mà lạy</p>",
+      "content_text": "Xin gạo  (米) mà đến sau (夂) thì TỆ lắm phải chắp 2 tay  (廾) mà lạy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153381",
+      "lang": "vi",
+      "content_html": "<p>tệ hại đến nỗi phải chắp tay để đi xin gạo</p>",
+      "content_text": "tệ hại đến nỗi phải chắp tay để đi xin gạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

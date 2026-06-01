@@ -1,0 +1,86 @@
+{
+  "kanji": "藩",
+  "meta": {
+    "weight": 2361,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン"
+    ],
+    "kun": [],
+    "am_han": "PHIÊN, PHAN"
+  },
+  "meaning": {
+    "vi": "gia tộc, bao vây",
+    "en": "clan, enclosure"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/藩.svg"
+  },
+  "frequency": 1896,
+  "examples": [
+    "藩",
+    "藩主",
+    "藩士"
+  ],
+  "explanation": {
+    "id": "6487",
+    "text": "藩 (đọc là \"han\") có nghĩa là \"lãnh thổ\" hoặc \"nhà nước phong kiến\" trong thời kỳ Edo ở Nhật Bản, thường chỉ các lãnh địa của các lãnh chúa.\n\nVí dụ:\n- 藩主 (hanshu): Lãnh chúa, người cai quản m"
+  },
+  "comments": [
+    {
+      "id": "156633",
+      "lang": "vi",
+      "content_html": "<p>đến Phiên lãnh chúa tưới Nước cho Cỏ rồi</p>",
+      "content_text": "đến Phiên lãnh chúa tưới Nước cho Cỏ rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156634",
+      "lang": "vi",
+      "content_html": "<p>李振藩 Lý Chấn Phiên Lý Tiểu Long</p>",
+      "content_text": "李振藩 Lý Chấn Phiên Lý Tiểu Long",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156635",
+      "lang": "vi",
+      "content_html": "<p>Cô THẢO tham gia PHIÊN họp với các vị LÃNH CHÚA các NƯỚC</p>",
+      "content_text": "Cô THẢO tham gia PHIÊN họp với các vị LÃNH CHÚA các NƯỚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

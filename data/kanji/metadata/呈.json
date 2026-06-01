@@ -1,0 +1,88 @@
+{
+  "kanji": "呈",
+  "meta": {
+    "weight": 469,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [],
+    "am_han": "TRÌNH"
+  },
+  "meaning": {
+    "vi": "trưng bày, cung cấp, trình bày, gửi, triển lãm",
+    "en": "display, offer, present, send, exhibit"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/呈.svg"
+  },
+  "frequency": 1571,
+  "examples": [
+    "露呈",
+    "贈呈",
+    "進呈",
+    "呈する",
+    "呈示"
+  ],
+  "explanation": {
+    "id": "5540",
+    "text": "呈 (đọc là \"tei\") có nghĩa là \"trình bày\", \"xuất trình\" để chỉ hành động đưa ra thông tin hoặc tài liệu cho người khác xem xét.\n\nVí dụ:\n- 提呈 (teitei): Trình bày, xuất trình.\n- 呈示 (teiji): Thô"
+  },
+  "comments": [
+    {
+      "id": "152361",
+      "lang": "vi",
+      "content_html": "<p>Trình tấu với vua ( Vương ) là phải dùng mồm( Khẩu )</p>",
+      "content_text": "Trình tấu với vua ( Vương ) là phải dùng mồm( Khẩu )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152362",
+      "lang": "vi",
+      "content_html": "<p>Trình báo với Vua bằng miệng</p>",
+      "content_text": "Trình báo với Vua bằng miệng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152363",
+      "lang": "vi",
+      "content_html": "<p>đã làm vua 王 thì miệng 口 nói phải có (TRÌNH) 呈 độ</p>",
+      "content_text": "đã làm vua 王 thì miệng 口 nói phải có (TRÌNH) 呈 độ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

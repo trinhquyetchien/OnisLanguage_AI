@@ -1,0 +1,109 @@
+{
+  "kanji": "側",
+  "meta": {
+    "weight": 227,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソク"
+    ],
+    "kun": [
+      "かわ",
+      "がわ",
+      "そば"
+    ],
+    "am_han": "TRẮC"
+  },
+  "meaning": {
+    "vi": "phía, bên",
+    "en": "side, lean, oppose, regret"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/側.svg"
+  },
+  "frequency": 216,
+  "examples": [
+    "側",
+    "側面",
+    "外側",
+    "内側",
+    "右側"
+  ],
+  "explanation": {
+    "id": "4788",
+    "text": "側 (đọc là \"soku\" hoặc \"kawa\") có nghĩa là \"bên\", \"cạnh\" để chỉ hướng hoặc vị trí. \n\nVí dụ:\n- 側面 (sokumen): Mặt bên, bên hông.\n- 近側 (chisokawa): Bên gần, phía gần.\n- 側にいる (kawa ni iru): Ở bên"
+  },
+  "comments": [
+    {
+      "id": "37178",
+      "lang": "vi",
+      "content_html": "<p>Tiền và dao ở <strong>phía</strong> bên phải.</p>",
+      "content_text": "Tiền và dao ở\nphía\nbên phải.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd1dcb2476.jpg",
+      "image_path": "assets/images/側_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151756",
+      "lang": "vi",
+      "content_html": "<p>Đao (刂) là bảo Bối (貝)mang bên Người (亻) để đề phòng bất Trắc (側)</p>",
+      "content_text": "Đao (刂) là bảo Bối (貝)mang bên Người (亻) để đề phòng bất Trắc (側)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151757",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI có quy TẮC sẽ đứng BÊN đối diện với người “bất quy tắc”</p>",
+      "content_text": "NGƯỜI có quy TẮC sẽ đứng BÊN đối diện với người “bất quy tắc”",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151758",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI (亻) có bảo Bối (貝) nên mang Đao (刂) để đề phòng bất Trắc (側)</p>",
+      "content_text": "NGƯỜI (亻) có bảo Bối (貝) nên mang Đao (刂) để đề phòng bất Trắc (側)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

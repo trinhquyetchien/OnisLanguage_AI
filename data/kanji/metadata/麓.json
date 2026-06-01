@@ -1,0 +1,87 @@
+{
+  "kanji": "麓",
+  "meta": {
+    "weight": 3017,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロク"
+    ],
+    "kun": [
+      "ふもと"
+    ],
+    "am_han": "LỘC"
+  },
+  "meaning": {
+    "vi": "chân núi",
+    "en": "foot of a mountain"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/麓.svg"
+  },
+  "frequency": 2366,
+  "examples": [
+    "麓",
+    "山麓"
+  ],
+  "explanation": {
+    "id": "8366",
+    "text": "麓 (đọc là \"ろく\" - roku) có nghĩa là \"chân núi\", chỉ khu vực phía dưới hoặc chân của một ngọn núi. \n\nVí dụ:\n- 山麓 (さんろく - sanroku): Chân núi, vùng đất dưới chân núi.\n- 麓に住む (ろくにすむ - roku ni sum"
+  },
+  "comments": [
+    {
+      "id": "158085",
+      "lang": "vi",
+      "content_html": "<p>Dẫn 2 con tuần LỘC từ trên Rừng xuống CHÂN NÚI</p>",
+      "content_text": "Dẫn 2 con tuần LỘC từ trên Rừng xuống CHÂN NÚI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158086",
+      "lang": "vi",
+      "content_html": "<p>Rừng (2 cây) hươu ở thì thường là chân núi</p>",
+      "content_text": "Rừng (2 cây) hươu ở thì thường là chân núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158087",
+      "lang": "vi",
+      "content_html": "<p>tuần lộc sống ở chân núi</p>",
+      "content_text": "tuần lộc sống ở chân núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

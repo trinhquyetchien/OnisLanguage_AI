@@ -1,0 +1,35 @@
+{
+  "kanji": "倶",
+  "meta": {
+    "weight": 220,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "グ",
+      "ク"
+    ],
+    "kun": [
+      "とも.に"
+    ],
+    "am_han": "CÂU"
+  },
+  "meaning": {
+    "vi": "cả hai, cùng nhau, giống nhau",
+    "en": "both, together, alike"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/倶.svg"
+  },
+  "frequency": 1842,
+  "examples": [
+    "倶楽部"
+  ],
+  "explanation": {
+    "id": "1810",
+    "text": "倶 (đọc là \"ku\") có nghĩa là \"cùng nhau\", \"cả hai\" để chỉ sự kết hợp hoặc đi kèm giữa các đối tượng.\n\nVí dụ:\n- 倶楽部 (kurabu): Câu lạc bộ.\n- 倶に (tomo ni): Cùng nhau, chung với nhau.\n- 倶存 (kuzon"
+  },
+  "comments": []
+}

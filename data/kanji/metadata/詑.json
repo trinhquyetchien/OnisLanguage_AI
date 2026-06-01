@@ -1,0 +1,36 @@
+{
+  "kanji": "詑",
+  "meta": {
+    "weight": 2471,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ",
+      "タ",
+      "ダ"
+    ],
+    "kun": [
+      "わ.びる",
+      "わ.び",
+      "あざむ.く"
+    ],
+    "am_han": "DI, THA"
+  },
+  "meaning": {
+    "vi": "lừa dối",
+    "en": "deceive, delude"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/詑.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4882",
+    "text": "詑 (đọc là \"taku\") có nghĩa là \"nói dối\", \"lừa gạt\". \n\nVí dụ:\n- 詑言 (taku gen): Lời nói dối, lời lừa gạt.\n- 詑欺 (taku gi): Lừa đảo, sự gian trá.\n- 詑る (takuru): Nói dối, lừa gạt người khác."
+  },
+  "comments": []
+}

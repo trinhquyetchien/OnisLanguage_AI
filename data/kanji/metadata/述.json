@@ -1,0 +1,90 @@
+{
+  "kanji": "述",
+  "meta": {
+    "weight": 2645,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュツ"
+    ],
+    "kun": [
+      "の.べる"
+    ],
+    "am_han": "THUẬT"
+  },
+  "meaning": {
+    "vi": "tường thuật",
+    "en": "mention, state, speak, relate"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/述.svg"
+  },
+  "frequency": 379,
+  "examples": [
+    "記述",
+    "述べる",
+    "前述",
+    "陳述",
+    "公述"
+  ],
+  "explanation": {
+    "id": "3614",
+    "text": "述 (đọc là \"shutsu\") có nghĩa là \"nói ra\", \"kể lại\" để chỉ các hành động liên quan đến việc diễn đạt hoặc trình bày thông tin.\n\nVí dụ:\n- 述べる (noberu): Nói, diễn đạt.\n- 述語 (jutsugo): Từ định n"
+  },
+  "comments": [
+    {
+      "id": "157294",
+      "lang": "vi",
+      "content_html": "<p>Thuật lại đường đi ra hồ</p>",
+      "content_text": "Thuật lại đường đi ra hồ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157295",
+      "lang": "vi",
+      "content_html": "<p>dẫn nhau đi bước dài đến Hô (ホ) huyền (`) Hồ trần THUẬT</p>",
+      "content_text": "dẫn nhau đi bước dài đến Hô (ホ) huyền (`) Hồ trần THUẬT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157296",
+      "lang": "vi",
+      "content_html": "<p>THUẬT lại câu chuyện của bác HỒ ra đi tìm đường cứu nước</p>",
+      "content_text": "THUẬT lại câu chuyện của bác HỒ ra đi tìm đường cứu nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "思",
+  "meta": {
+    "weight": 953,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "おも.う",
+      "おもえら.く",
+      "おぼ.す"
+    ],
+    "am_han": "TƯ"
+  },
+  "meaning": {
+    "vi": "nghĩ, suy tư",
+    "en": "think"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/思.svg"
+  },
+  "frequency": 132,
+  "examples": [
+    "思い",
+    "思う",
+    "不思議",
+    "思想",
+    "思考"
+  ],
+  "explanation": {
+    "id": "3085",
+    "text": "思 (đọc là \"shi\" hoặc \"omo\") có nghĩa là \"suy nghĩ\", \"tư tưởng\", chỉ các hành động liên quan đến việc suy ngẫm, tư duy hoặc cảm xúc.\n\nVí dụ:\n- 思考 (shikou): Suy nghĩ, tư duy.\n- 思い出 (omoide): K"
+  },
+  "comments": [
+    {
+      "id": "191018",
+      "lang": "vi",
+      "content_html": "<p><strong>suy tư</strong></p>",
+      "content_text": "suy tư",
+      "image_url": "https://jpdictionary.com/upload/images/648a8e6a1fddf.jpg",
+      "image_path": "assets/images/思_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36847",
+      "lang": "vi",
+      "content_html": "<p>Bên đồng ruộng (田), tôi <strong>nghĩ </strong>về người yêu trong tim (心)</p>",
+      "content_text": "Bên đồng ruộng (田), tôi\nnghĩ\nvề người yêu trong tim (心)",
+      "image_url": "https://jpdictionary.com/upload/images/62ac7e7f7582e.png",
+      "image_path": "assets/images/思_2.png",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153545",
+      "lang": "vi",
+      "content_html": "<p>Mảnh ruộng là nơi gửi gắm tâm tư, suy nghĩ của người nông dân</p>",
+      "content_text": "Mảnh ruộng là nơi gửi gắm tâm tư, suy nghĩ của người nông dân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

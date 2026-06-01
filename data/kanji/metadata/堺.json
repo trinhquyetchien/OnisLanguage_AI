@@ -1,0 +1,50 @@
+{
+  "kanji": "堺",
+  "meta": {
+    "weight": 581,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "さかい"
+    ],
+    "am_han": "GIỚI"
+  },
+  "meaning": {
+    "vi": "thế giới",
+    "en": "world"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/堺.svg"
+  },
+  "frequency": 1846,
+  "examples": [],
+  "explanation": {
+    "id": "2866",
+    "text": "堺 (đọc là \"sakai\") có nghĩa là \"rìa\" hoặc \"biên giới\", thường chỉ ra khu vực giáp ranh hoặc cạnh bên, và cũng là tên một thành phố nổi tiếng ở Nhật Bản.\n\nVí dụ:\n- 堺市 (Sakai-shi): Thành phố S"
+  },
+  "comments": [
+    {
+      "id": "152635",
+      "lang": "vi",
+      "content_html": "<p>Giới thiệu về đất ruộng.</p>",
+      "content_text": "Giới thiệu về đất ruộng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

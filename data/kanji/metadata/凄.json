@@ -1,0 +1,93 @@
+{
+  "kanji": "凄",
+  "meta": {
+    "weight": 293,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "サイ"
+    ],
+    "kun": [
+      "さむ.い",
+      "すご.い",
+      "すさ.まじい"
+    ],
+    "am_han": "THÊ"
+  },
+  "meaning": {
+    "vi": "kỳ lạ, đe dọa, kinh khủng",
+    "en": "uncanny, weird, threatening, horrible"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/凄.svg"
+  },
+  "frequency": 2313,
+  "examples": [
+    "凄い",
+    "凄く",
+    "凄まじい",
+    "物凄い",
+    "もの凄い"
+  ],
+  "explanation": {
+    "id": "4289",
+    "text": "凄 (đọc là \"sei\" hoặc \"sugu\") có nghĩa là \"kinh khủng\", \"lạ lùng\", thường dùng để chỉ sự ấn tượng mạnh mẽ, thường liên quan đến cảm xúc hoặc tình huống gây sốc.\n\nVí dụ:\n- 凄い (sugoi): Tuyệt vờ"
+  },
+  "comments": [
+    {
+      "id": "151928",
+      "lang": "vi",
+      "content_html": "<p>THÊ tử mà Lạnh lùng như Băng thì thật là KINH KHỦNG. Sugoi</p>",
+      "content_text": "THÊ tử mà Lạnh lùng như Băng thì thật là KINH KHỦNG. Sugoi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151929",
+      "lang": "vi",
+      "content_html": "<p>Vợ mà lạnh như BĂNG thì thật là THÊ thảm, khủng khếp</p>",
+      "content_text": "Vợ mà lạnh như BĂNG thì thật là THÊ thảm, khủng khếp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151930",
+      "lang": "vi",
+      "content_html": "<p>Chữ hán này chuẩn thật.Vợ luôn すごい。笑笑</p>",
+      "content_text": "Chữ hán này chuẩn thật.Vợ luôn すごい。笑笑",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "kanji": "胞",
+  "meta": {
+    "weight": 2185,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [],
+    "am_han": "BÀO"
+  },
+  "meaning": {
+    "vi": "nhau thai, túi, vỏ bọc",
+    "en": "placenta, sac, sheath"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/胞.svg"
+  },
+  "frequency": 1379,
+  "examples": [
+    "細胞",
+    "同胞",
+    "単細胞"
+  ],
+  "explanation": {
+    "id": "7201",
+    "text": "胞 (đọc là \"hō\") có nghĩa là \"tế bào\" hoặc \"bọc\", chỉ các thành phần sống hoặc cấu trúc bên ngoài của một vật thể.  \nVí dụ:  \n- 胞子 (hōshi): Tế bào sinh sản, như trong nấm.  \n- 胞腫 (hōshun): Kh"
+  },
+  "comments": [
+    {
+      "id": "156308",
+      "lang": "vi",
+      "content_html": "<p>Anh em ruột THỊT thì BAO bọc lấy nhau gọi là đồng BÀO (cùng một tế bào mà ra)</p>",
+      "content_text": "Anh em ruột THỊT thì BAO bọc lấy nhau gọi là đồng BÀO (cùng một tế bào mà ra)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156309",
+      "lang": "vi",
+      "content_html": "<p>Bào thai phải được BAO bọc trong bụng mẹ trong 9 月</p>",
+      "content_text": "Bào thai phải được BAO bọc trong bụng mẹ trong 9 月",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156310",
+      "lang": "vi",
+      "content_html": "<p>Thịt em Nguyệt (月) không Bao (包) là có Bào thai (胞)</p>",
+      "content_text": "Thịt em Nguyệt (月) không Bao (包) là có Bào thai (胞)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

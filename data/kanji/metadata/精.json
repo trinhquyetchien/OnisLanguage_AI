@@ -1,0 +1,92 @@
+{
+  "kanji": "精",
+  "meta": {
+    "weight": 2036,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "しら.げる",
+      "くわ.しい"
+    ],
+    "am_han": "TINH"
+  },
+  "meaning": {
+    "vi": "tinh khiết",
+    "en": "refined, ghost, fairy, energy, vitality, semen, excellence, purity, skill"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/精.svg"
+  },
+  "frequency": 752,
+  "examples": [
+    "精神",
+    "精度",
+    "精一杯",
+    "精密",
+    "妖精"
+  ],
+  "explanation": {
+    "id": "4334",
+    "text": "精 (đọc là \"sei\" hoặc \"sharpshooting\") có nghĩa là \"tinh khiết\", \"tinh tế\" để chỉ sự chính xác, tinh vi hoặc tinh thần. \n\nVí dụ:\n- 精神 (seishin): Tinh thần, tâm hồn.\n- 精密 (seimitsu): Chính xác"
+  },
+  "comments": [
+    {
+      "id": "155952",
+      "lang": "vi",
+      "content_html": "<p>gạo là tinh hoa mà trời xanh ban cho ta.</p>",
+      "content_text": "gạo là tinh hoa mà trời xanh ban cho ta.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155953",
+      "lang": "vi",
+      "content_html": "<p>Gạo sinh ra lúc có trăng thì trắng tinh</p>",
+      "content_text": "Gạo sinh ra lúc có trăng thì trắng tinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155954",
+      "lang": "vi",
+      "content_html": "<p>Hạt GẠO mà mầu xanh khi xay ra sẽ k có mầu trắng TINH</p>",
+      "content_text": "Hạt GẠO mà mầu xanh khi xay ra sẽ k có mầu trắng TINH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

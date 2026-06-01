@@ -1,0 +1,88 @@
+{
+  "kanji": "芳",
+  "meta": {
+    "weight": 2257,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "かんば.しい"
+    ],
+    "am_han": "PHƯƠNG"
+  },
+  "meaning": {
+    "vi": "nước hoa, làm dịu, thuận lợi, thơm",
+    "en": "perfume, balmy, favorable, fragrant"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/芳.svg"
+  },
+  "frequency": 1302,
+  "examples": [
+    "芳香",
+    "芳しい",
+    "芳醇"
+  ],
+  "explanation": {
+    "id": "7205",
+    "text": "芳 (đọc là \"hō\") có nghĩa là \"thơm,\" \"hương thơm,\" thường chỉ về mùi hương dễ chịu hoặc sự tốt đẹp.  \nVí dụ:  \n- 芳香 (hōkō): Hương thơm.  \n- 芳しい (hōshii): Thơm tho, dễ chịu.  \n- 芳名 (hōmei): Tê"
+  },
+  "comments": [
+    {
+      "id": "156473",
+      "lang": "vi",
+      "content_html": "<p>Phương thảo là cỏ thơm</p>",
+      "content_text": "Phương thảo là cỏ thơm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156474",
+      "lang": "vi",
+      "content_html": "<p>Vị đội mũ cỏ thơm</p>",
+      "content_text": "Vị đội mũ cỏ thơm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156475",
+      "lang": "vi",
+      "content_html": "<p>Cỏ (艹) này ở Phương (方) nào mà thơm quá vậy</p>",
+      "content_text": "Cỏ (艹) này ở Phương (方) nào mà thơm quá vậy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "両",
+  "meta": {
+    "weight": 87,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [
+      "てる",
+      "ふたつ"
+    ],
+    "am_han": "LƯỠNG"
+  },
+  "meaning": {
+    "vi": "cả hai",
+    "en": "both, old Japanese coin, counter for carriages (e.g., in a train), two"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/両.svg"
+  },
+  "frequency": 247,
+  "examples": [
+    "両",
+    "両方",
+    "両親",
+    "両者",
+    "車両"
+  ],
+  "explanation": {
+    "id": "8099",
+    "text": "両 (đọc là \"ryō\") có nghĩa là \"hai\" hoặc \"cặp\", thường được dùng để chỉ số lượng hoặc đơn vị trọng lượng. \n\nVí dụ:\n- 両方 (ryōhō): Cả hai, hai bên.\n- 両親 (ryōshin): Cha mẹ.\n- 両替 (ryōgae): Đổi ti"
+  },
+  "comments": [
+    {
+      "id": "37198",
+      "lang": "vi",
+      "content_html": "<p>Người bán cá gánh trên <strong>cả hai</strong> vai.</p>",
+      "content_text": "Người bán cá gánh trên\ncả hai\nvai.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd41e454de.jpg",
+      "image_path": "assets/images/両_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190860",
+      "lang": "vi",
+      "content_html": "<p><strong>cả hai</strong></p>",
+      "content_text": "cả hai",
+      "image_url": "https://jpdictionary.com/upload/images/648a5ea905db2.jpg",
+      "image_path": "assets/images/両_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "151418",
+      "lang": "vi",
+      "content_html": "<p>LƯỠNG LỰ khi MỘT mình đến NGỌN NÚI ở BIÊN GIỚI</p>",
+      "content_text": "LƯỠNG LỰ khi MỘT mình đến NGỌN NÚI ở BIÊN GIỚI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

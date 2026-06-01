@@ -1,0 +1,72 @@
+{
+  "kanji": "鮭",
+  "meta": {
+    "weight": 2978,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ",
+      "ケイ"
+    ],
+    "kun": [
+      "さけ",
+      "しゃけ",
+      "ふぐ"
+    ],
+    "am_han": "KHUÊ, HÀI"
+  },
+  "meaning": {
+    "vi": "cá hồi",
+    "en": "salmon"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/鮭.svg"
+  },
+  "frequency": 2477,
+  "examples": [
+    "鮭"
+  ],
+  "explanation": {
+    "id": "2919",
+    "text": "鮭 (đọc là \"sake\" hoặc \"sha\") có nghĩa là \"cá hồi\", chỉ loại cá thường được dùng trong ẩm thực Nhật Bản.  \nVí dụ:  \n- 鮭の刺身 (sake no sashimi): Sashimi cá hồi.  \n- 鮭ご飯 (sake gohan): Cơm cá hồi."
+  },
+  "comments": [
+    {
+      "id": "158041",
+      "lang": "vi",
+      "content_html": "<p>câu cá hồi hết 2 ngày thứ 7</p>",
+      "content_text": "câu cá hồi hết 2 ngày thứ 7",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158042",
+      "lang": "vi",
+      "content_html": "<p>Anh KHUÊ đắp 2 lớp đất nuôi cá hồi</p>",
+      "content_text": "Anh KHUÊ đắp 2 lớp đất nuôi cá hồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "kanji": "蕪",
+  "meta": {
+    "weight": 2347,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ブ",
+      "ム"
+    ],
+    "kun": [
+      "かぶ",
+      "かぶら",
+      "あれる"
+    ],
+    "am_han": "VU"
+  },
+  "meaning": {
+    "vi": "cây củ cải",
+    "en": "turnip"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/蕪.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6874",
+    "text": "蕪 (đọc là \"bu\") có nghĩa là \"cây cải\" hoặc \"rau cỏ hoang dại\", thường chỉ những loại rau không được chăm sóc kỹ càng. \n\nVí dụ:\n- 蕪菁 (wabujō): Củ cải đường.\n- 蕪の酢漬け (abu no suzuke): Cải ngâm "
+  },
+  "comments": [
+    {
+      "id": "220580",
+      "lang": "vi",
+      "content_html": "<p>chỉ cỏ không có gì hết thật là hoang vu</p>",
+      "content_text": "chỉ cỏ không có gì hết thật là hoang vu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

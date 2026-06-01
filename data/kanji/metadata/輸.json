@@ -1,0 +1,89 @@
+{
+  "kanji": "輸",
+  "meta": {
+    "weight": 2620,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユ",
+      "シュ"
+    ],
+    "kun": [],
+    "am_han": "THÂU"
+  },
+  "meaning": {
+    "vi": "vận chuyển, gửi",
+    "en": "transport, send, be inferior"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/輸.svg"
+  },
+  "frequency": 371,
+  "examples": [
+    "輸入",
+    "輸出",
+    "輸送",
+    "運輸",
+    "運輸省"
+  ],
+  "explanation": {
+    "id": "7731",
+    "text": "輸 (đọc là \"yushutsu\" hoặc \"yushuu\") có nghĩa là \"vận chuyển\", \"chuyển giao\" để chỉ các hành động liên quan đến việc gửi hoặc vận chuyển hàng hóa.\n\nVí dụ:\n- 輸出 (yushutsu): Xuất khẩu.\n- 輸入 (yu"
+  },
+  "comments": [
+    {
+      "id": "157243",
+      "lang": "vi",
+      "content_html": "<p>Xe trước nhà dùng để vận chuyển hàng nhập khẩu</p>",
+      "content_text": "Xe trước nhà dùng để vận chuyển hàng nhập khẩu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190694",
+      "lang": "vi",
+      "content_html": "<p>Xe chở người đến hàng tháng cầm đao Thâu nợ</p>",
+      "content_text": "Xe chở người đến hàng tháng cầm đao Thâu nợ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157244",
+      "lang": "vi",
+      "content_html": "<p>Chiếc XE (xa) kia đến THÂU mua Nón ^ của hãng NHẤT    NGUYỆT DAO.</p>",
+      "content_text": "Chiếc XE (xa) kia đến THÂU mua Nón ^ của hãng NHẤT    NGUYỆT DAO.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

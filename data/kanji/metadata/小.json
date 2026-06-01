@@ -1,0 +1,93 @@
+{
+  "kanji": "小",
+  "meta": {
+    "weight": 760,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "ちい.さい",
+      "こ-",
+      "お-",
+      "さ-"
+    ],
+    "am_han": "TIỂU"
+  },
+  "meaning": {
+    "vi": "nhỏ, tiểu tốt",
+    "en": "little, small"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/小.svg"
+  },
+  "frequency": 114,
+  "examples": [
+    "小",
+    "小さな",
+    "小説",
+    "小学校",
+    "小さい"
+  ],
+  "explanation": {
+    "id": "3787",
+    "text": "小 (đọc là \"shou\" hoặc \"ko\") có nghĩa là \"nhỏ\", \"ít\" để chỉ kích thước hoặc số lượng nhỏ bé.  \nVí dụ:  \n- 小学校 (shougakkou): Trường tiểu học.  \n- 小さい (chisai): Nhỏ bé.  \n- 小説 (shousetsu): Tiểu"
+  },
+  "comments": [
+    {
+      "id": "575",
+      "lang": "vi",
+      "content_html": "<p>Khi bạn co tay lại trông bạn <strong>nhỏ</strong>.</p>",
+      "content_text": "Khi bạn co tay lại trông bạn\nnhỏ\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62978098cb6e9.jpg",
+      "image_path": "assets/images/小_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158450",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>小さい (ちいさい): nhỏ bé<br>小学校 (しょうがっこう): trường tiểu học</p>",
+      "content_text": "JLPT N5\n小さい (ちいさい): nhỏ bé\n小学校 (しょうがっこう): trường tiểu học",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "153064",
+      "lang": "vi",
+      "content_html": "<p>Tiểu nhị Quyết chọn cái Nhỏ giữa Tám cái đang có.</p>",
+      "content_text": "Tiểu nhị Quyết chọn cái Nhỏ giữa Tám cái đang có.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

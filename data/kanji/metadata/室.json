@@ -1,0 +1,90 @@
+{
+  "kanji": "室",
+  "meta": {
+    "weight": 723,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シツ"
+    ],
+    "kun": [
+      "むろ"
+    ],
+    "am_han": "THẤT"
+  },
+  "meaning": {
+    "vi": "phòng, giáo thất",
+    "en": "room, apartment, chamber, greenhouse, cellar"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/室.svg"
+  },
+  "frequency": 550,
+  "examples": [
+    "室",
+    "教室",
+    "室内",
+    "皇室",
+    "室長"
+  ],
+  "explanation": {
+    "id": "3275",
+    "text": "室 (đọc là \"shitsu\") có nghĩa là \"phòng\", \"chỗ\" để chỉ không gian kín hoặc những nơi được sử dụng cho một mục đích cụ thể.  \nVí dụ:  \n- 教室 (kyōshitsu): Phòng học.  \n- 寝室 (shinjitsu): Phòng ng"
+  },
+  "comments": [
+    {
+      "id": "190978",
+      "lang": "vi",
+      "content_html": "<p><strong>phòng</strong></p>",
+      "content_text": "phòng",
+      "image_url": "https://jpdictionary.com/upload/images/648a7e6c1d8ae.jpg",
+      "image_path": "assets/images/室_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "970",
+      "lang": "vi",
+      "content_html": "<p>Thứ bảy (土) nào tôi cũng ở trong <strong>phòng</strong> (室).</p>",
+      "content_text": "Thứ bảy (土) nào tôi cũng ở trong\nphòng\n(室).",
+      "image_url": "https://jpdictionary.com/upload/images/629ac46f4c458.jpg",
+      "image_path": "assets/images/室_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152962",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: khách Đến (至 CHÍ) Nhà (宀 MIÊN)<br>==&#62; mình mời vào Phòng (室 THẤT)<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Góc Nhìn: khách Đến (至 CHÍ) Nhà (宀 MIÊN)\n==> mình mời vào Phòng (室 THẤT)\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

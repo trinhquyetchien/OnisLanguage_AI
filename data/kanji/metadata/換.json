@@ -1,0 +1,92 @@
+{
+  "kanji": "換",
+  "meta": {
+    "weight": 1134,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "か.える",
+      "-か.える",
+      "か.わる"
+    ],
+    "am_han": "HOÁN"
+  },
+  "meaning": {
+    "vi": "hoán đổi",
+    "en": "interchange, period, change, convert, replace, renew"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/換.svg"
+  },
+  "frequency": 687,
+  "examples": [
+    "交換",
+    "転換",
+    "変換",
+    "乗り換え",
+    "互換"
+  ],
+  "explanation": {
+    "id": "1114",
+    "text": "換 (đọc là \"kan\") có nghĩa là \"hoán đổi\", \"thay thế\" để chỉ các hành động liên quan đến việc thay đổi hoặc trao đổi một cái gì đó.\n\nVí dụ:\n- 換気 (kanki): Thông gió.\n- 換金 (kankin): Đổi tiền, ch"
+  },
+  "comments": [
+    {
+      "id": "153992",
+      "lang": "vi",
+      "content_html": "<p>lất Tay  Hoán đổi Tứ Đại mỹ nhân</p>",
+      "content_text": "lất Tay  Hoán đổi Tứ Đại mỹ nhân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153993",
+      "lang": "vi",
+      "content_html": "<p>dùng tay hoán đổi 4 cái đầu cá to</p>",
+      "content_text": "dùng tay hoán đổi 4 cái đầu cá to",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153994",
+      "lang": "vi",
+      "content_html": "<p>Tay tác động là hoán đổi</p>",
+      "content_text": "Tay tác động là hoán đổi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

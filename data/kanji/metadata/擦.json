@@ -1,0 +1,92 @@
+{
+  "kanji": "擦",
+  "meta": {
+    "weight": 1163,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サツ"
+    ],
+    "kun": [
+      "す.る",
+      "す.れる",
+      "-ず.れ",
+      "こす.る",
+      "こす.れる"
+    ],
+    "am_han": "SÁT"
+  },
+  "meaning": {
+    "vi": "cạo, chà, cào",
+    "en": "grate, rub, scratch, scrape, chafe, scour"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/擦.svg"
+  },
+  "frequency": 1485,
+  "examples": [
+    "摩擦",
+    "擦り",
+    "擦れ"
+  ],
+  "explanation": {
+    "id": "2943",
+    "text": "擦 (đọc là \"satsu\" hoặc \"saru\") có nghĩa là \"chà xát\", \"lau chùi\" để chỉ các hành động liên quan đến việc cọ xát bề mặt hoặc làm sạch.  \nVí dụ:  \n- 擦る (suru): Chà xát, cọ.  \n- 擦過 (sakka): Sự "
+  },
+  "comments": [
+    {
+      "id": "154059",
+      "lang": "vi",
+      "content_html": "<p>Cảnh sát dùng tay xoa xát kẻ phạm tội</p>",
+      "content_text": "Cảnh sát dùng tay xoa xát kẻ phạm tội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154060",
+      "lang": "vi",
+      "content_html": "<p>cảnh sát dùng tay chà vào nhau tạo ra Ma sát</p>",
+      "content_text": "cảnh sát dùng tay chà vào nhau tạo ra Ma sát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154061",
+      "lang": "vi",
+      "content_html": "<p>Tay anh cảnh sát bị ma SÁT làm SÁT thương</p>",
+      "content_text": "Tay anh cảnh sát bị ma SÁT làm SÁT thương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

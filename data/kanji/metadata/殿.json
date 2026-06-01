@@ -1,0 +1,92 @@
+{
+  "kanji": "殿",
+  "meta": {
+    "weight": 1469,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "デン",
+      "テン"
+    ],
+    "kun": [
+      "との",
+      "-どの"
+    ],
+    "am_han": "ĐIỆN"
+  },
+  "meaning": {
+    "vi": "sảnh, cung điện",
+    "en": "Mr., hall, mansion, palace, temple, lord"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/殿.svg"
+  },
+  "frequency": 1199,
+  "examples": [
+    "殿",
+    "宮殿",
+    "神殿",
+    "殿下",
+    "殿堂"
+  ],
+  "explanation": {
+    "id": "5687",
+    "text": "殿 (đọc là \"den\" hoặc \"tono\") có nghĩa là \"ngài\", \"quý vị\" để chỉ sự tôn trọng đối với người khác, thường dùng trong các văn bản trang trọng hoặc lịch sự. \n\nVí dụ:\n- 殿様 (donnasama): Quý ông, "
+  },
+  "comments": [
+    {
+      "id": "154723",
+      "lang": "vi",
+      "content_html": "<p>Cùng nhau cầm vũ khí tấn công vào cung điện cướp xác ướp.</p>",
+      "content_text": "Cùng nhau cầm vũ khí tấn công vào cung điện cướp xác ướp.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154724",
+      "lang": "vi",
+      "content_html": "<p>để có được một cụng điện (殿) thì cần nhiều người chết (尸) cộng với (共) binh khí (殳)  (lính cầm binh khí đánh chết thợ)</p>",
+      "content_text": "để có được một cụng điện (殿) thì cần nhiều người chết (尸) cộng với (共) binh khí (殳)  (lính cầm binh khí đánh chết thợ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154725",
+      "lang": "vi",
+      "content_html": "<p>Xác chết cộng lại cùng nhau trả thù cung ĐIỆN</p>",
+      "content_text": "Xác chết cộng lại cùng nhau trả thù cung ĐIỆN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

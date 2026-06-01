@@ -1,0 +1,107 @@
+{
+  "kanji": "律",
+  "meta": {
+    "weight": 924,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リツ",
+      "リチ",
+      "レツ"
+    ],
+    "kun": [],
+    "am_han": "LUẬT"
+  },
+  "meaning": {
+    "vi": "luật pháp",
+    "en": "rhythm, law, regulation, gauge, control"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/律.svg"
+  },
+  "frequency": 992,
+  "examples": [
+    "法律",
+    "自律",
+    "律",
+    "一律",
+    "規律"
+  ],
+  "explanation": {
+    "id": "8034",
+    "text": "律 (đọc là \"ritsu\" hoặc \"ryō\") có nghĩa là \"luật lệ\", \"quy tắc\" để chỉ các quy định hoặc nguyên tắc trong xã hội hoặc âm nhạc.\n\nVí dụ:\n- 律法 (rippō): Luật pháp.\n- 音律 (onritsu): Nhịp điệu, âm đ"
+  },
+  "comments": [
+    {
+      "id": "37141",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã viết (書) các <strong>luật </strong>lệ giao thông.</p>",
+      "content_text": "Tôi đã viết (書) các\nluật\nlệ giao thông.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdba4b60fa6.jpg",
+      "image_path": "assets/images/律_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153465",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm bút viết trên đường đi là luật</p>",
+      "content_text": "Tay cầm bút viết trên đường đi là luật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153466",
+      "lang": "vi",
+      "content_html": "<p>Cầm bút viết luật đường bộ</p>",
+      "content_text": "Cầm bút viết luật đường bộ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153467",
+      "lang": "vi",
+      "content_html": "<p>Luật là do bút viết ra, dùng để ngăn cản những bước chân sai trái</p>",
+      "content_text": "Luật là do bút viết ra, dùng để ngăn cản những bước chân sai trái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "松",
+  "meta": {
+    "weight": 1303,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "まつ"
+    ],
+    "am_han": "TÙNG"
+  },
+  "meaning": {
+    "vi": "cây thông",
+    "en": "pine tree"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/松.svg"
+  },
+  "frequency": 471,
+  "examples": [
+    "松",
+    "松山",
+    "浜松",
+    "高松",
+    "小松"
+  ],
+  "explanation": {
+    "id": "3840",
+    "text": "松 (đọc là \"matsu\") có nghĩa là \"cây thông\", biểu thị hình ảnh cây thông và đôi khi liên quan đến sự bền vững, kiên cường trong văn hóa Nhật Bản.  \nVí dụ:  \n- 松林 (matsubayashi): Rừng thông.  "
+  },
+  "comments": [
+    {
+      "id": "154412",
+      "lang": "vi",
+      "content_html": "<p>Công viên trồng cây TÙNG</p>",
+      "content_text": "Công viên trồng cây TÙNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154413",
+      "lang": "vi",
+      "content_html": "<p>TÁM việc TƯ sẽ thành việc CÔNG, CÂY trồng nơi CÔNG CỘNG là cây TÙNG (CÂY THÔNG)</p>",
+      "content_text": "TÁM việc TƯ sẽ thành việc CÔNG, CÂY trồng nơi CÔNG CỘNG là cây TÙNG (CÂY THÔNG)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154414",
+      "lang": "vi",
+      "content_html": "<p>Cây công cộng là cây thông</p>",
+      "content_text": "Cây công cộng là cây thông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

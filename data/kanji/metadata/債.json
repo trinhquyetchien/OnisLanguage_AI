@@ -1,0 +1,88 @@
+{
+  "kanji": "債",
+  "meta": {
+    "weight": 237,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [],
+    "am_han": "TRÁI"
+  },
+  "meaning": {
+    "vi": "trái phiếu, khoản vay, khoản nợ",
+    "en": "bond, loan, debt"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/債.svg"
+  },
+  "frequency": 728,
+  "examples": [
+    "債権",
+    "債務",
+    "国債",
+    "債",
+    "債券"
+  ],
+  "explanation": {
+    "id": "2775",
+    "text": "債 (đọc là \"sai\") có nghĩa là \"nợ\", chỉ sự cho vay hoặc khoản nợ mà một bên phải trả lại cho bên kia.  \nVí dụ:  \n- 債務 (saimu): Nợ nần, nghĩa vụ trả nợ.  \n- 債権 (saiken): Quyền đòi nợ, trái phi"
+  },
+  "comments": [
+    {
+      "id": "151783",
+      "lang": "vi",
+      "content_html": "<p>Trách nhiệm của Người dân là phải mua TRÁI phiếu</p>",
+      "content_text": "Trách nhiệm của Người dân là phải mua TRÁI phiếu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151784",
+      "lang": "vi",
+      "content_html": "<p>Con (người) không được sống ( trái) với trách nhiệm ( về khoản nợ) của mình</p>",
+      "content_text": "Con (người) không được sống ( trái) với trách nhiệm ( về khoản nợ) của mình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151785",
+      "lang": "vi",
+      "content_html": "<p>trách nhiệm của ngươi là trả khoản nợ trái phiếu</p>",
+      "content_text": "trách nhiệm của ngươi là trả khoản nợ trái phiếu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

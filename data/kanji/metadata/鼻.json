@@ -1,0 +1,90 @@
+{
+  "kanji": "鼻",
+  "meta": {
+    "weight": 3033,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビ"
+    ],
+    "kun": [
+      "はな"
+    ],
+    "am_han": "TỊ"
+  },
+  "meaning": {
+    "vi": "mũi",
+    "en": "nose, snout"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/鼻.svg"
+  },
+  "frequency": 1632,
+  "examples": [
+    "鼻",
+    "鼻水",
+    "鼻血",
+    "耳鼻科",
+    "鼻歌"
+  ],
+  "explanation": {
+    "id": "6636",
+    "text": "鼻 (đọc là \"bi\") có nghĩa là \"mũi\" để chỉ bộ phận cơ thể dùng để ngửi và hô hấp.  \nVí dụ:  \n- 鼻水 (hanamizu): Nước mũi.  \n- 鼻音 (bion): Âm thanh từ mũi.  \n- 鼻血 (hanaji): Chảy máu mũi."
+  },
+  "comments": [
+    {
+      "id": "158117",
+      "lang": "vi",
+      "content_html": "<p>Tự mình ra cánh đồng chắp tay lên mũi chẳng biết để làm gì</p>",
+      "content_text": "Tự mình ra cánh đồng chắp tay lên mũi chẳng biết để làm gì",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158118",
+      "lang": "vi",
+      "content_html": "<p>Tự mình đi ra 20 cánh đồng cho mũi hít thở không khí trong lành</p>",
+      "content_text": "Tự mình đi ra 20 cánh đồng cho mũi hít thở không khí trong lành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158119",
+      "lang": "vi",
+      "content_html": "<p>TỰ nhiên ra RUỘNG, CHẮP TAY phía sau không làm gì, hỉnh MŨI lên trời, sướng thật, ganh TỊ quá!</p>",
+      "content_text": "TỰ nhiên ra RUỘNG, CHẮP TAY phía sau không làm gì, hỉnh MŨI lên trời, sướng thật, ganh TỊ quá!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

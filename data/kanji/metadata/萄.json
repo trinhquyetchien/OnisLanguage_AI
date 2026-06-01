@@ -1,0 +1,83 @@
+{
+  "kanji": "萄",
+  "meta": {
+    "weight": 2301,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドウ",
+      "トウ"
+    ],
+    "kun": [],
+    "am_han": "ĐÀO"
+  },
+  "meaning": {
+    "vi": "nho nho, nho dại",
+    "en": "grape vine, wild grape"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/萄.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5929",
+    "text": "萄 (đọc là \"tou\") có nghĩa là \"nho\" để chỉ loại trái cây hoặc các sản phẩm liên quan đến nho.  \nVí dụ:  \n- 葡萄 (budou): Nho.  \n- 葡萄酒 (budoushu): Rượu nho.  \n- 葡萄園 (budouen): Vườn nho."
+  },
+  "comments": [
+    {
+      "id": "220548",
+      "lang": "vi",
+      "content_html": "<p>Quả nho được cỏ (THẢO) 艹 che trên đầu, BAO 勹 lại trong đồ sành sứ (PHẪU) 缶, đó là chữ ĐÀO 萄。</p>",
+      "content_text": "Quả nho được cỏ (THẢO) 艹 che trên đầu, BAO 勹 lại trong đồ sành sứ (PHẪU) 缶, đó là chữ ĐÀO 萄。",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220549",
+      "lang": "vi",
+      "content_html": "<p>Há miệng nghìn lần mấy bao được</p>",
+      "content_text": "Há miệng nghìn lần mấy bao được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220550",
+      "lang": "vi",
+      "content_html": "<p>cô giáo THẢO rất thích dùng BAO cs có vị PHẪU,với cả vị PHỮU。</p>",
+      "content_text": "cô giáo THẢO rất thích dùng BAO cs có vị PHẪU,với cả vị PHỮU。",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "棋",
+  "meta": {
+    "weight": 1374,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "ご"
+    ],
+    "am_han": "KÌ, KÍ"
+  },
+  "meaning": {
+    "vi": "quân cờ, cờ Nhật, shogi",
+    "en": "chess piece, Japanese chess, shogi"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/棋.svg"
+  },
+  "frequency": 1311,
+  "examples": [
+    "将棋",
+    "詰将棋",
+    "棋士",
+    "棋聖",
+    "棋譜"
+  ],
+  "explanation": {
+    "id": "1314",
+    "text": "棋 (đọc là \"ki\") có nghĩa là \"cờ\", chỉ các trò chơi cờ như cờ vây hay cờ Nhật Bản.  \nVí dụ:  \n- 将棋 (shōgi): Cờ shogi, một loại cờ Nhật Bản.  \n- 棋士 (kishi): Người chơi cờ chuyên nghiệp.  \n- 棋譜"
+  },
+  "comments": [
+    {
+      "id": "154542",
+      "lang": "vi",
+      "content_html": "<p>Quân cờ làm từ cây (木) cam (甘</p>",
+      "content_text": "Quân cờ làm từ cây (木) cam (甘",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154543",
+      "lang": "vi",
+      "content_html": "<p>Họ Kì (其) trả tiền vào kì hạn (期) cuối tháng (月)<br>Họ Kì (其) dùng gỗ (木) làm cờ tướng (棋)<br>Họ Kì (其) dùng đá (石) làm cờ vây (碁)<br>Họ Kì (其) thiếu (欠) nợ nên hay lừa dối (欺)<br>Họ Kì (其) cho người nằm (</p>",
+      "content_text": "Họ Kì (其) trả tiền vào kì hạn (期) cuối tháng (月)\nHọ Kì (其) dùng gỗ (木) làm cờ tướng (棋)\nHọ Kì (其) dùng đá (石) làm cờ vây (碁)\nHọ Kì (其) thiếu (欠) nợ nên hay lừa dối (欺)\nHọ Kì (其) cho người nằm (",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154544",
+      "lang": "vi",
+      "content_html": "<p>Cây cam ngọt đc lấy gỗ cho KÌ thủ làm quân cờ</p>",
+      "content_text": "Cây cam ngọt đc lấy gỗ cho KÌ thủ làm quân cờ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

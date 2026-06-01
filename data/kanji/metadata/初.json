@@ -1,0 +1,113 @@
+{
+  "kanji": "初",
+  "meta": {
+    "weight": 317,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショ"
+    ],
+    "kun": [
+      "はじ.め",
+      "はじ.めて",
+      "はつ",
+      "はつ-",
+      "うい-",
+      "-そ.める",
+      "-ぞ.め"
+    ],
+    "am_han": "SƠ"
+  },
+  "meaning": {
+    "vi": "ban đầu, sơ cấp",
+    "en": "first time, beginning"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/初.svg"
+  },
+  "frequency": 152,
+  "examples": [
+    "最初",
+    "初めて",
+    "初",
+    "初め",
+    "当初"
+  ],
+  "explanation": {
+    "id": "3682",
+    "text": "初 (đọc là \"hatsu\" hoặc \"sho\") có nghĩa là \"lần đầu\", \"khởi đầu\" để chỉ các sự kiện hay tình huống xảy ra lần đầu tiên hoặc khởi đầu một cái gì đó mới mẻ.  \nVí dụ:  \n- 初めて (hajimete): Lần đầu"
+  },
+  "comments": [
+    {
+      "id": "37224",
+      "lang": "vi",
+      "content_html": "<p>Khi làm kimono thì <strong>ban đầu</strong> phải cắt vải bằng dao (刀).</p>",
+      "content_text": "Khi làm kimono thì\nban đầu\nphải cắt vải bằng dao (刀).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd689518d7.jpg",
+      "image_path": "assets/images/初_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151989",
+      "lang": "vi",
+      "content_html": "<p>Thời SƠ khai muốn may áo phải dùng DAO vì chưa có kéo</p>",
+      "content_text": "Thời SƠ khai muốn may áo phải dùng DAO vì chưa có kéo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151990",
+      "lang": "vi",
+      "content_html": "<p>Hội ý: ban Đầu (初 SƠ) người xưa dùng Dao (刀) cắt vải may Y phục (衤), chứ không dùng kéo như bây giờ.<br>..性..</p>",
+      "content_text": "Hội ý: ban Đầu (初 SƠ) người xưa dùng Dao (刀) cắt vải may Y phục (衤), chứ không dùng kéo như bây giờ.\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151991",
+      "lang": "vi",
+      "content_html": "<p>Y học ngày xưa phải dùng Dao rất Thô SƠ</p>",
+      "content_text": "Y học ngày xưa phải dùng Dao rất Thô SƠ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

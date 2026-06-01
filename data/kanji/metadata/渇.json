@@ -1,0 +1,106 @@
+{
+  "kanji": "渇",
+  "meta": {
+    "weight": 1567,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カツ"
+    ],
+    "kun": [
+      "かわ.く"
+    ],
+    "am_han": "KHÁT"
+  },
+  "meaning": {
+    "vi": "khát, khô cạn, giấy da",
+    "en": "thirst, dry up, parch"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/渇.svg"
+  },
+  "frequency": 1944,
+  "examples": [
+    "枯渇",
+    "渇き",
+    "渇望",
+    "渇水"
+  ],
+  "explanation": {
+    "id": "985",
+    "text": "渇 (đọc là \"katsu\") có nghĩa là \"khát\" để chỉ trạng thái thiếu nước, hoặc cảm giác muốn uống nước.  \nVí dụ:  \n- 渇望 (katsubou): Khao khát, mong mỏi.  \n- 渇き (kawaki): Cảm giác khát, sự khát nướ"
+  },
+  "comments": [
+    {
+      "id": "154956",
+      "lang": "vi",
+      "content_html": "<p>Đi dưới mặt trời 日 rất khát nước  氵, uống liền 1 lúc 7 七 ly nước</p>",
+      "content_text": "Đi dưới mặt trời 日 rất khát nước  氵, uống liền 1 lúc 7 七 ly nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154957",
+      "lang": "vi",
+      "content_html": "<p>Trời Nắng miệng có Mùi hôi vì KHÁT nước</p>",
+      "content_text": "Trời Nắng miệng có Mùi hôi vì KHÁT nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154958",
+      "lang": "vi",
+      "content_html": "<p>1 NGÀY uống biết BAO nhiêu THÌA NƯỚC mà vẫn KHÁT khô cổ.</p>",
+      "content_text": "1 NGÀY uống biết BAO nhiêu THÌA NƯỚC mà vẫn KHÁT khô cổ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221731",
+      "lang": "vi",
+      "content_html": "<p>！</p>",
+      "content_text": "！",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4191",
+        "name": "Nguyễn Thuỳ Linh",
+        "image_url": null
+      }
+    }
+  ]
+}

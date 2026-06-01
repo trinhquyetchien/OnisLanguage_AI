@@ -1,0 +1,74 @@
+{
+  "kanji": "口",
+  "meta": {
+    "weight": 431,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ク"
+    ],
+    "kun": [
+      "くち"
+    ],
+    "am_han": "KHẨU"
+  },
+  "meaning": {
+    "vi": "miệng",
+    "en": "mouth"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/口.svg"
+  },
+  "frequency": 284,
+  "examples": [
+    "口",
+    "人口",
+    "口座",
+    "入り口",
+    "山口"
+  ],
+  "explanation": {
+    "id": "2396",
+    "text": "口 (đọc là \"kuchi\") có nghĩa là \"miệng\", \"cửa\" để chỉ các khía cạnh liên quan đến miệng, giao tiếp hoặc lối vào.\n\nVí dụ:\n- 口語 (kugo): Ngôn ngữ nói, tiếng nói hàng ngày.\n- 入口 (iriguchi): Lối v"
+  },
+  "comments": [
+    {
+      "id": "469",
+      "lang": "vi",
+      "content_html": "<p>&nbsp;Hình dạng của cái <strong>miệng</strong></p>",
+      "content_text": "Hình dạng của cái\nmiệng",
+      "image_url": "https://jpdictionary.com/upload/images/629762086cb2a.jpg",
+      "image_path": "assets/images/口_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158393",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>口 (くち): miệng</p><p>入口 (いりぐち): cổng vào<br>出口 (でぐち): lối ra</p><p>非常口 (ひじょうぐち): cửa thoát hiểm<br>人口 (じんこう): dân số</p>",
+      "content_text": "JLPT N4\n口 (くち): miệng\n入口 (いりぐち): cổng vào\n出口 (でぐち): lối ra\n非常口 (ひじょうぐち): cửa thoát hiểm\n人口 (じんこう): dân số",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

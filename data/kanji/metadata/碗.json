@@ -1,0 +1,84 @@
+{
+  "kanji": "碗",
+  "meta": {
+    "weight": 1886,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ワン"
+    ],
+    "kun": [
+      "こばち"
+    ],
+    "am_han": "OẢN"
+  },
+  "meaning": {
+    "vi": "bát sứ, tách trà",
+    "en": "porcelain bowl, tea cup"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/碗.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8436",
+    "text": "碗 (đọc là \"wan\") có nghĩa là \"bát\", chỉ các loại đồ dùng ăn uống hình chóp nhọn, thường dùng để đựng cơm hoặc súp.  \nVí dụ:  \n- 碗にご飯を入れる (wan ni gohan o ireru): Đặt cơm vào bát.  \n- 茶碗 (chaw"
+  },
+  "comments": [
+    {
+      "id": "220218",
+      "lang": "vi",
+      "content_html": "<p>Buổi Tối thời Tiết lạnh nên fai ở trong Nhà Ăn OẢN bằng BÁT Đá</p>",
+      "content_text": "Buổi Tối thời Tiết lạnh nên fai ở trong Nhà Ăn OẢN bằng BÁT Đá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220219",
+      "lang": "vi",
+      "content_html": "<p>cục Đá mà Uyển chuyển là cái Bát</p>",
+      "content_text": "cục Đá mà Uyển chuyển là cái Bát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220220",
+      "lang": "vi",
+      "content_html": "<p>cục ĐÁ để phơi cạnh MÁI NHÀ suốt ĐÊM TỊCH cùng CÂY TRE GÃY  --  thành cái BÁT</p>",
+      "content_text": "cục ĐÁ để phơi cạnh MÁI NHÀ suốt ĐÊM TỊCH cùng CÂY TRE GÃY  --  thành cái BÁT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

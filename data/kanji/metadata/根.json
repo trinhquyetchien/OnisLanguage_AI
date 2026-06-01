@@ -1,0 +1,91 @@
+{
+  "kanji": "根",
+  "meta": {
+    "weight": 1344,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン"
+    ],
+    "kun": [
+      "ね",
+      "-ね"
+    ],
+    "am_han": "CĂN"
+  },
+  "meaning": {
+    "vi": "gốc, căn bản, căn cứ",
+    "en": "root, radical, head (pimple)"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/根.svg"
+  },
+  "frequency": 620,
+  "examples": [
+    "根拠",
+    "根本",
+    "屋根",
+    "根",
+    "大根"
+  ],
+  "explanation": {
+    "id": "2704",
+    "text": "根 (đọc là \"ne\") có nghĩa là \"rễ\" hoặc \"gốc\", chỉ phần dưới đất của cây cối, hoặc gốc rễ của vấn đề.  \nVí dụ:  \n- 根本 (konpon): Căn bản, gốc rễ, nguồn gốc.  \n- 根源 (kongen): Nguồn gốc, nguyên n"
+  },
+  "comments": [
+    {
+      "id": "154495",
+      "lang": "vi",
+      "content_html": "<p>Cây bền(艮 ) nhờ gốc rễ (căn)</p>",
+      "content_text": "Cây bền(艮 ) nhờ gốc rễ (căn)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154496",
+      "lang": "vi",
+      "content_html": "<p>Sự Lương Thiện cũng như màu Mộc vậy đều từ Căn bản gốc rễ mà ra</p>",
+      "content_text": "Sự Lương Thiện cũng như màu Mộc vậy đều từ Căn bản gốc rễ mà ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154497",
+      "lang": "vi",
+      "content_html": "<p>Cây bị Cấn là do CĂN nguyên gốc rễ</p>",
+      "content_text": "Cây bị Cấn là do CĂN nguyên gốc rễ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

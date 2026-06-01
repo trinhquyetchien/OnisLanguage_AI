@@ -1,0 +1,88 @@
+{
+  "kanji": "捲",
+  "meta": {
+    "weight": 1107,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "ま.く",
+      "ま.くる",
+      "まく.る",
+      "めく.る",
+      "まく.れる"
+    ],
+    "am_han": "QUYỂN, QUYỀN"
+  },
+  "meaning": {
+    "vi": "cuộn, gió, lật trang, cuộn tay áo, dải ra, được lật, được cuộn lại",
+    "en": "roll, wind, coil, turn pages, roll up sleeves, strip off, be turned, be rolled up"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/捲.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2137",
+    "text": "捲 (đọc là \"ken\" hoặc \"maku\") có nghĩa là \"cuộn\", \"gập\" để chỉ hành động cuốn lại hoặc gập lại một vật gì đó.  \nVí dụ:  \n- 捲き上げる (makiageru): Cuộn lên, quấn lên.  \n- 捲土重来 (kendochōrai): Trở l"
+  },
+  "comments": [
+    {
+      "id": "219612",
+      "lang": "vi",
+      "content_html": "<p>Tay lật quyển sách</p>",
+      "content_text": "Tay lật quyển sách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219613",
+      "lang": "vi",
+      "content_html": "<p>Quyển sách này là Quyển đã dùng Tay Lật lên.</p>",
+      "content_text": "Quyển sách này là Quyển đã dùng Tay Lật lên.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219614",
+      "lang": "vi",
+      "content_html": "<p>Tay lật quyển sách</p>",
+      "content_text": "Tay lật quyển sách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

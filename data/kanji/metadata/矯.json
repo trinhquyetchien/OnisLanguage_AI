@@ -1,0 +1,86 @@
+{
+  "kanji": "矯",
+  "meta": {
+    "weight": 1863,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "た.める"
+    ],
+    "am_han": "KIỂU"
+  },
+  "meaning": {
+    "vi": "sửa chữa, uốn nắn, cải cách, chữa bệnh, kiểm soát, giả vờ, làm sai lệch",
+    "en": "rectify, straighten, correct, reform, cure, control, pretend, falsify"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/矯.svg"
+  },
+  "frequency": 2105,
+  "examples": [
+    "矯正"
+  ],
+  "explanation": {
+    "id": "1688",
+    "text": "矯 (đọc là \"kyou\") có nghĩa là \"chỉnh sửa\", \"sửa chữa\" để chỉ các hành động liên quan đến việc điều chỉnh hoặc cải thiện một cái gì đó.\n\nVí dụ:\n- 矯正 (kyousei): Sự điều chỉnh, chỉnh hình (thườ"
+  },
+  "comments": [
+    {
+      "id": "155617",
+      "lang": "vi",
+      "content_html": "<p>thúy KIỀU chỉ thích trai THẲNG như MŨI TÊN thôi</p>",
+      "content_text": "thúy KIỀU chỉ thích trai THẲNG như MŨI TÊN thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155618",
+      "lang": "vi",
+      "content_html": "<p>Kiều thích KIỂU mũi Tên</p>",
+      "content_text": "Kiều thích KIỂU mũi Tên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155619",
+      "lang": "vi",
+      "content_html": "<p>chẳng hiểu mũi tên 矢 (KIỂU) 矯 gì mà bắn trúng cây cầu 喬 kiều</p>",
+      "content_text": "chẳng hiểu mũi tên 矢 (KIỂU) 矯 gì mà bắn trúng cây cầu 喬 kiều",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

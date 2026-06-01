@@ -1,0 +1,90 @@
+{
+  "kanji": "線",
+  "meta": {
+    "weight": 2098,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "すじ"
+    ],
+    "am_han": "TUYẾN"
+  },
+  "meaning": {
+    "vi": "dây, vô tuyến",
+    "en": "line, track"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/線.svg"
+  },
+  "frequency": 382,
+  "examples": [
+    "線",
+    "路線",
+    "無線",
+    "視線",
+    "新幹線"
+  ],
+  "explanation": {
+    "id": "4535",
+    "text": "線 (đọc là \"sen\") có nghĩa là \"đường\", \"dòng\" để chỉ các đường nét, đường kẻ, hoặc các khía cạnh liên quan đến hình học hoặc phân bố không gian.\n\nVí dụ:\n- 線路 (senro): Đường ray.\n- 線引き (senbik"
+  },
+  "comments": [
+    {
+      "id": "156104",
+      "lang": "vi",
+      "content_html": "<p>sợi chỉ 糸màu trắng 白ở dưới nước水giống kim Tuyến</p>",
+      "content_text": "sợi chỉ 糸màu trắng 白ở dưới nước水giống kim Tuyến",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156105",
+      "lang": "vi",
+      "content_html": "<p>mịch+thủy+bạch=&#62;trên tuyến đường  dùng nước màu trắng để kẻ đường chỉ vạch!</p>",
+      "content_text": "mịch+thủy+bạch=>trên tuyến đường  dùng nước màu trắng để kẻ đường chỉ vạch!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156106",
+      "lang": "vi",
+      "content_html": "<p>Tuyến Đường bán SỢi chỉ màu trắng bị ngập trong Nước</p>",
+      "content_text": "Tuyến Đường bán SỢi chỉ màu trắng bị ngập trong Nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

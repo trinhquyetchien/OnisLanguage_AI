@@ -1,0 +1,85 @@
+{
+  "kanji": "汽",
+  "meta": {
+    "weight": 1497,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [],
+    "am_han": "KHÍ"
+  },
+  "meaning": {
+    "vi": "hơi nước",
+    "en": "vapor, steam"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/汽.svg"
+  },
+  "frequency": 2020,
+  "examples": [
+    "汽車",
+    "汽笛"
+  ],
+  "explanation": {
+    "id": "1337",
+    "text": "汽 (đọc là \"ki\") có nghĩa là \"hơi nước\", \"khí\" để chỉ các khái niệm liên quan đến hơi nước hoặc khí.  \nVí dụ:  \n- 汽車 (kisha): Xe lửa, tàu hơi nước.  \n- 汽笛 (kidete): Tiếng còi xe lửa.  \n- 汽温 ("
+  },
+  "comments": [
+    {
+      "id": "154787",
+      "lang": "vi",
+      "content_html": "<p>THUỶ chuyển sang KHÍ gọi là hơi nước</p>",
+      "content_text": "THUỶ chuyển sang KHÍ gọi là hơi nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154788",
+      "lang": "vi",
+      "content_html": "<p>THỦY khiến KHÍ MẤT TÀI NGHỆ  --  là sự BỐC HƠI</p>",
+      "content_text": "THỦY khiến KHÍ MẤT TÀI NGHỆ  --  là sự BỐC HƠI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154789",
+      "lang": "vi",
+      "content_html": "<p>Khí bay tạo Hơi Nước từ Thuỷ Khí.</p>",
+      "content_text": "Khí bay tạo Hơi Nước từ Thuỷ Khí.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

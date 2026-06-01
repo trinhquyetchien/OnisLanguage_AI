@@ -1,0 +1,101 @@
+{
+  "kanji": "明",
+  "meta": {
+    "weight": 1221,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "メイ",
+      "ミョウ",
+      "ミン"
+    ],
+    "kun": [
+      "あ.かり",
+      "あか.るい",
+      "あか.るむ",
+      "あか.らむ",
+      "あき.らか",
+      "あ.ける",
+      "-あ.け",
+      "あ.く",
+      "あ.くる",
+      "あ.かす"
+    ],
+    "am_han": "MINH"
+  },
+  "meaning": {
+    "vi": "sáng, quang minh",
+    "en": "bright, light"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/明.svg"
+  },
+  "frequency": 67,
+  "examples": [
+    "説明",
+    "明日",
+    "明らか",
+    "明確",
+    "証明"
+  ],
+  "explanation": {
+    "id": "7550",
+    "text": "明 (đọc là \"mei\" hoặc \"myō\") có nghĩa là \"sáng\", \"rõ ràng\", thể hiện sự sáng sủa hoặc minh bạch.  \nVí dụ:  \n- 明るい (akarui): Sáng sủa, vui vẻ.  \n- 明確 (meikaku): Rõ ràng, minh bạch.  \n- 明日 (ash"
+  },
+  "comments": [
+    {
+      "id": "191049",
+      "lang": "vi",
+      "content_html": "<p><strong>sáng</strong></p>",
+      "content_text": "sáng",
+      "image_url": "https://jpdictionary.com/upload/images/648a92041dcba.jpg",
+      "image_path": "assets/images/明_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "600",
+      "lang": "vi",
+      "content_html": "<p>Nếu kết hợp mặt trời (日) và mặt trăng (月) lại với nhau trời sẽ trở nên <strong>sáng </strong>hơn.</p>",
+      "content_text": "Nếu kết hợp mặt trời (日) và mặt trăng (月) lại với nhau trời sẽ trở nên\nsáng\nhơn.",
+      "image_url": "https://jpdictionary.com/upload/images/629783826c24a.jpg",
+      "image_path": "assets/images/明_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154207",
+      "lang": "vi",
+      "content_html": "<p>Bạn nào xem phim kiếm hiệp Tàu chắc có nghe đến Minh Giáo. Minh Giáo còn có tên khác là Nhật Nguyệt Thần Giáo là vì chữ Minh được ghép bởi chữ Nhật và chữ Nguyệt</p>",
+      "content_text": "Bạn nào xem phim kiếm hiệp Tàu chắc có nghe đến Minh Giáo. Minh Giáo còn có tên khác là Nhật Nguyệt Thần Giáo là vì chữ Minh được ghép bởi chữ Nhật và chữ Nguyệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

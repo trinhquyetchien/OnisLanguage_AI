@@ -1,0 +1,91 @@
+{
+  "kanji": "試",
+  "meta": {
+    "weight": 2477,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "こころ.みる",
+      "ため.す"
+    ],
+    "am_han": "THÍ"
+  },
+  "meaning": {
+    "vi": "thí nghiệm",
+    "en": "test, try, attempt, experiment, ordeal"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/試.svg"
+  },
+  "frequency": 392,
+  "examples": [
+    "試合",
+    "試験",
+    "試し",
+    "試み",
+    "入試"
+  ],
+  "explanation": {
+    "id": "3149",
+    "text": "試 (đọc là \"shi\" hoặc \"tamesu\") có nghĩa là \"thử nghiệm\", \"kiểm tra\" để chỉ các hành động liên quan đến việc thử sức, kiểm tra hoặc thí nghiệm.\n\nVí dụ:\n- 試験 (shiken): Kỳ thi, bài kiểm tra.\n- "
+  },
+  "comments": [
+    {
+      "id": "1008",
+      "lang": "vi",
+      "content_html": "<p>Tại buổi lễ (式), cha nói (言): ”Con sẽ yêu người này đến hết cuộc đời không?”<br>”Vâng, con sẽ <strong>thử</strong>.”</p>",
+      "content_text": "Tại buổi lễ (式), cha nói (言): ”Con sẽ yêu người này đến hết cuộc đời không?”\n”Vâng, con sẽ\nthử\n.”",
+      "image_url": "https://jpdictionary.com/upload/images/62a0a36e0e8e0.png",
+      "image_path": "assets/images/試_1.png",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191185",
+      "lang": "vi",
+      "content_html": "<p><strong>thử </strong>giọng</p><p>thử, kiểm tra - 試す</p>",
+      "content_text": "thử\ngiọng\nthử, kiểm tra - 試す",
+      "image_url": "https://jpdictionary.com/upload/images/648ad7cd108e1.jpg",
+      "image_path": "assets/images/試_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158542",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>試験 (しけん): kỳ thi</p><p>試合 (しあい): trận đấu</p>",
+      "content_text": "JLPT N4\n試験 (しけん): kỳ thi\n試合 (しあい): trận đấu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

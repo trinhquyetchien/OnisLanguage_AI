@@ -1,0 +1,112 @@
+{
+  "kanji": "守",
+  "meta": {
+    "weight": 706,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ",
+      "ス"
+    ],
+    "kun": [
+      "まも.る",
+      "まも.り",
+      "もり",
+      "-もり",
+      "かみ"
+    ],
+    "am_han": "THỦ"
+  },
+  "meaning": {
+    "vi": "phòng thủ, bảo vệ",
+    "en": "guard, protect, defend, obey"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/守.svg"
+  },
+  "frequency": 457,
+  "examples": [
+    "守る",
+    "保守",
+    "守り",
+    "守備",
+    "守"
+  ],
+  "explanation": {
+    "id": "3409",
+    "text": "守 (đọc là \"mamoru\" hoặc \"shu\") có nghĩa là \"bảo vệ\", \"tuân thủ\" để chỉ các hành động liên quan đến việc bảo vệ, giữ gìn hoặc tuân theo quy tắc.  \nVí dụ:  \n- 守る (mamoru): Bảo vệ, giữ gìn.  \n-"
+  },
+  "comments": [
+    {
+      "id": "37274",
+      "lang": "vi",
+      "content_html": "<p>Chiếc chìa khoá này sẽ <strong>bảo vệ </strong>ngôi nhà.</p>",
+      "content_text": "Chiếc chìa khoá này sẽ\nbảo vệ\nngôi nhà.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdc30c719d.jpg",
+      "image_path": "assets/images/守_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152925",
+      "lang": "vi",
+      "content_html": "<p>Cảm giác cố thủ trong nhà rất thốn</p>",
+      "content_text": "Cảm giác cố thủ trong nhà rất thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190655",
+      "lang": "vi",
+      "content_html": "<p>dưới mái nhà (Miên) đang bị Thốn nên phải cố Thủ</p>",
+      "content_text": "dưới mái nhà (Miên) đang bị Thốn nên phải cố Thủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "152926",
+      "lang": "vi",
+      "content_html": "<p>Gác cây thốn (cây dùng để đo đơn vị tấc ngày xưa được làm bằng gỗ hay tre) lên mái nhà để cất giữ (đây là truyền thống ngày xưa của các gia đình ở VN mình đó)</p>",
+      "content_text": "Gác cây thốn (cây dùng để đo đơn vị tấc ngày xưa được làm bằng gỗ hay tre) lên mái nhà để cất giữ (đây là truyền thống ngày xưa của các gia đình ở VN mình đó)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

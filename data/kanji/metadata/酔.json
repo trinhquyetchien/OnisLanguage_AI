@@ -1,0 +1,92 @@
+{
+  "kanji": "酔",
+  "meta": {
+    "weight": 2716,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "よ.う",
+      "よ.い",
+      "よ"
+    ],
+    "am_han": "TÚY"
+  },
+  "meaning": {
+    "vi": "say rượu, cảm thấy buồn nôn, ngộ độc, phấn chấn, mê mẩn",
+    "en": "drunk, feel sick, poisoned, elated, spellbound"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/酔.svg"
+  },
+  "frequency": 1640,
+  "examples": [
+    "麻酔",
+    "酔い",
+    "二日酔い",
+    "酔っ払い",
+    "酔う"
+  ],
+  "explanation": {
+    "id": "4236",
+    "text": "酔 (đọc là \"sui\", \"yo\" hoặc \"yoi\") có nghĩa là \"say\" để chỉ trạng thái say rượu hoặc cảm giác say mê, hưng phấn.\n\nVí dụ:\n- 酔っ払う (yopparau): Say rượu.\n- 酔い (yoi): Cảm giác say (rượu).\n- 酔夢 (su"
+  },
+  "comments": [
+    {
+      "id": "157476",
+      "lang": "vi",
+      "content_html": "<p>9,10 chén rượu thì chẳng say tuý quyền</p>",
+      "content_text": "9,10 chén rượu thì chẳng say tuý quyền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157477",
+      "lang": "vi",
+      "content_html": "<p>Uống rượu say thì không phân biệt được 9 hay 10</p>",
+      "content_text": "Uống rượu say thì không phân biệt được 9 hay 10",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157478",
+      "lang": "vi",
+      "content_html": "<p>Uống rượu mười người thì có chín người say...</p>",
+      "content_text": "Uống rượu mười người thì có chín người say...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

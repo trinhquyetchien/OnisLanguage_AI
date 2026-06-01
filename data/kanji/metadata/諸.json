@@ -1,0 +1,90 @@
+{
+  "kanji": "諸",
+  "meta": {
+    "weight": 2512,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショ"
+    ],
+    "kun": [
+      "もろ"
+    ],
+    "am_han": "CHƯ"
+  },
+  "meaning": {
+    "vi": "các, chư hầu",
+    "en": "various, many, several, together"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/諸.svg"
+  },
+  "frequency": 658,
+  "examples": [
+    "諸",
+    "諸国",
+    "諸君",
+    "諸島",
+    "諸々"
+  ],
+  "explanation": {
+    "id": "20293",
+    "text": "諸 (đọc là \"sho\") có nghĩa là \"nhiều\", \"đa dạng\" để chỉ các thứ khác nhau hoặc nhiều loại.  \nVí dụ:  \n- 諸国 (shokoku): Nhiều quốc gia, các nước.  \n- 諸説 (shosetsu): Nhiều lý thuyết, giả thuyết "
+  },
+  "comments": [
+    {
+      "id": "156972",
+      "lang": "vi",
+      "content_html": "<p>Chư Bát Giới là thằng chuyên dùng lời lẽ giả tạo</p>",
+      "content_text": "Chư Bát Giới là thằng chuyên dùng lời lẽ giả tạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156974",
+      "lang": "vi",
+      "content_html": "<p>các nước CHƯ (諸) hầu cử sứ GIẢ (者) đến phát NGÔN(言)</p>",
+      "content_text": "các nước CHƯ (諸) hầu cử sứ GIẢ (者) đến phát NGÔN(言)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156973",
+      "lang": "vi",
+      "content_html": "<p>CHƯ bát giớt nói chuyện với Tôn Hành Giả</p>",
+      "content_text": "CHƯ bát giớt nói chuyện với Tôn Hành Giả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

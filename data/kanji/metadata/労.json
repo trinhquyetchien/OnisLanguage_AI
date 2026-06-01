@@ -1,0 +1,95 @@
+{
+  "kanji": "労",
+  "meta": {
+    "weight": 351,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロウ"
+    ],
+    "kun": [
+      "ろう.する",
+      "いたわ.る",
+      "いた.ずき",
+      "ねぎら",
+      "つか.れる",
+      "ねぎら.う"
+    ],
+    "am_han": "LAO"
+  },
+  "meaning": {
+    "vi": "lao động",
+    "en": "labor, thank for, reward for, toil, trouble"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/労.svg"
+  },
+  "frequency": 398,
+  "examples": [
+    "労働",
+    "苦労",
+    "労働省",
+    "労",
+    "疲労"
+  ],
+  "explanation": {
+    "id": "8318",
+    "text": "労 (đọc là \"rō\") có nghĩa là \"lao động\", \"công sức\", thường liên quan đến công việc hoặc sự nỗ lực.  \nVí dụ:  \n- 労働 (rōdō): Lao động, công việc.  \n- 労力 (rōryoku): Công sức, nỗ lực.  \n- 労災 (rō"
+  },
+  "comments": [
+    {
+      "id": "152082",
+      "lang": "vi",
+      "content_html": "<p>Lao động cần nhiều sức lực,chiếc khăn thấm ướt mồ hôi</p>",
+      "content_text": "Lao động cần nhiều sức lực,chiếc khăn thấm ướt mồ hôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152083",
+      "lang": "vi",
+      "content_html": "<p>Bỏ sức lao động sẽ có ngày vinh quang (đội vương miện)</p>",
+      "content_text": "Bỏ sức lao động sẽ có ngày vinh quang (đội vương miện)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152084",
+      "lang": "vi",
+      "content_html": "<p>Dùng lực gánh 3 hạt vừng thật lao lực</p>",
+      "content_text": "Dùng lực gánh 3 hạt vừng thật lao lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

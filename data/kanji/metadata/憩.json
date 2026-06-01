@@ -1,0 +1,89 @@
+{
+  "kanji": "憩",
+  "meta": {
+    "weight": 1020,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "いこ.い",
+      "いこ.う"
+    ],
+    "am_han": "KHẾ"
+  },
+  "meaning": {
+    "vi": "giải lao, nghỉ ngơi, thư giãn, thay đổi vị trí",
+    "en": "recess, rest, relax, repose"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/憩.svg"
+  },
+  "frequency": 1731,
+  "examples": [
+    "休憩",
+    "憩い",
+    "憩"
+  ],
+  "explanation": {
+    "id": "1973",
+    "text": "憩 (đọc là \"kei\") có nghĩa là \"nghỉ ngơi\", chỉ trạng thái thư giãn, nghỉ chân.  \nVí dụ:  \n- 憩い (ikoi): Sự nghỉ ngơi, thư giãn.  \n- 憩所 (keisho): Nơi nghỉ ngơi, chỗ dừng chân.  \n- 憩う (ikau): Ng"
+  },
+  "comments": [
+    {
+      "id": "153718",
+      "lang": "vi",
+      "content_html": "<p>lúc nghỉ ngơi lưỡi và tim vẫn tự hoạt động</p>",
+      "content_text": "lúc nghỉ ngơi lưỡi và tim vẫn tự hoạt động",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153719",
+      "lang": "vi",
+      "content_html": "<p>lúc nghỉ ngơi là lúc tự thoại với trái tim</p>",
+      "content_text": "lúc nghỉ ngơi là lúc tự thoại với trái tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153720",
+      "lang": "vi",
+      "content_html": "<p>lúc nghỉ ngơi ăn Khế Lưỡi và Tim vẫn Tự hoạt động</p>",
+      "content_text": "lúc nghỉ ngơi ăn Khế Lưỡi và Tim vẫn Tự hoạt động",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "劣",
+  "meta": {
+    "weight": 346,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レツ"
+    ],
+    "kun": [
+      "おと.る"
+    ],
+    "am_han": "LIỆT"
+  },
+  "meaning": {
+    "vi": "tự ti, kém cỏi, tệ hơn",
+    "en": "inferiority, be inferior to, be worse"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/劣.svg"
+  },
+  "frequency": 1620,
+  "examples": [
+    "劣化",
+    "劣る",
+    "劣等",
+    "卑劣",
+    "劣悪"
+  ],
+  "explanation": {
+    "id": "8259",
+    "text": "劣 (đọc là \"retsu\") có nghĩa là \"kém\", \"thấp hơn\" để chỉ sự so sánh về chất lượng hoặc mức độ nào đó.  \nVí dụ:  \n- 劣化 (rekka): Sự suy giảm chất lượng, xuống cấp.  \n- 劣等感 (rettōkan): Cảm giác "
+  },
+  "comments": [
+    {
+      "id": "152070",
+      "lang": "vi",
+      "content_html": "<p>Thiếu Lực bị LIỆT vào hàng YẾU KÉM</p>",
+      "content_text": "Thiếu Lực bị LIỆT vào hàng YẾU KÉM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152071",
+      "lang": "vi",
+      "content_html": "<p>làm gì thiếu lực quá vậy, yếu quá , bị LIỆT hả ???</p>",
+      "content_text": "làm gì thiếu lực quá vậy, yếu quá , bị LIỆT hả ???",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152072",
+      "lang": "vi",
+      "content_html": "<p>Lực nhỏ hơn sẽ yếu liệt, thấp kém hơn</p>",
+      "content_text": "Lực nhỏ hơn sẽ yếu liệt, thấp kém hơn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "去",
+  "meta": {
+    "weight": 415,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョ",
+      "コ"
+    ],
+    "kun": [
+      "さ.る",
+      "-さ.る"
+    ],
+    "am_han": "KHỨ"
+  },
+  "meaning": {
+    "vi": "quá khứ",
+    "en": "gone, past, quit, leave, elapse, eliminate, divorce"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/去.svg"
+  },
+  "frequency": 440,
+  "examples": [
+    "過去",
+    "去年",
+    "去る",
+    "除去",
+    "死去"
+  ],
+  "explanation": {
+    "id": "1567",
+    "text": "去 (đọc là \"kyo\" hoặc \"ku\") có nghĩa là \"rời đi\", \"ra khỏi\", chỉ hành động di chuyển ra xa hoặc loại bỏ.  \nVí dụ:  \n- 去年 (kyonen): Năm ngoái.  \n- 去る (saru): Rời đi, ra đi.  \n- 去勢 (kyosei): Th"
+  },
+  "comments": [
+    {
+      "id": "564",
+      "lang": "vi",
+      "content_html": "<p>Tôi là người đã sống trong <strong>quá khứ</strong>, bây giờ tôi ở trong lòng đất.</p>",
+      "content_text": "Tôi là người đã sống trong\nquá khứ\n, bây giờ tôi ở trong lòng đất.",
+      "image_url": "https://jpdictionary.com/upload/images/62977e5124059.jpg",
+      "image_path": "assets/images/去_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158552",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>去年 (きょねん): năm ngoái</p>",
+      "content_text": "JLPT N4\n去年 (きょねん): năm ngoái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "152231",
+      "lang": "vi",
+      "content_html": "<p>chôn chuyện riêng tư xuống đất thành quá khứ</p>",
+      "content_text": "chôn chuyện riêng tư xuống đất thành quá khứ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

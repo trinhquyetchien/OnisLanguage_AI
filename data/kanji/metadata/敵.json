@@ -1,0 +1,92 @@
+{
+  "kanji": "敵",
+  "meta": {
+    "weight": 1182,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テキ"
+    ],
+    "kun": [
+      "かたき",
+      "あだ",
+      "かな.う"
+    ],
+    "am_han": "ĐỊCH"
+  },
+  "meaning": {
+    "vi": "kẻ thù, đối thủ",
+    "en": "enemy, foe, opponent"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/敵.svg"
+  },
+  "frequency": 1205,
+  "examples": [
+    "敵",
+    "素敵",
+    "敵対",
+    "匹敵",
+    "無敵"
+  ],
+  "explanation": {
+    "id": "5618",
+    "text": "敵 (đọc là \"teki\") có nghĩa là \"kẻ thù\", \"địch\" để chỉ những người hoặc lực lượng đối kháng, chống lại hoặc gây hại.  \nVí dụ:  \n- 敵軍 (tekigun): Quân địch.  \n- 敵対 (tekitai): Thù địch, đối đầu."
+  },
+  "comments": [
+    {
+      "id": "154113",
+      "lang": "vi",
+      "content_html": "<p>Kẻ Địch lại lập thêm một cái thành cổ ở biên giới!</p>",
+      "content_text": "Kẻ Địch lại lập thêm một cái thành cổ ở biên giới!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154114",
+      "lang": "vi",
+      "content_html": "<p>Lập đồn đánh địch xung quanh nhà cổ</p>",
+      "content_text": "Lập đồn đánh địch xung quanh nhà cổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154115",
+      "lang": "vi",
+      "content_html": "<p>Kẻ phá bình rượu cổ chính là Địch</p>",
+      "content_text": "Kẻ phá bình rượu cổ chính là Địch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

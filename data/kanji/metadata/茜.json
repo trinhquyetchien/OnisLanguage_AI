@@ -1,0 +1,86 @@
+{
+  "kanji": "茜",
+  "meta": {
+    "weight": 2276,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "あかね"
+    ],
+    "am_han": "THIẾN"
+  },
+  "meaning": {
+    "vi": "madder, thuốc nhuộm đỏ, đỏ Thổ Nhĩ Kỳ",
+    "en": "madder, red dye, Turkey red"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/茜.svg"
+  },
+  "frequency": 2422,
+  "examples": [
+    "茜"
+  ],
+  "explanation": {
+    "id": "29",
+    "text": "茜 (đọc là \"akane\") có nghĩa là \"màu đỏ\" hoặc \"cây thuốc nhuộm màu đỏ\" thường dùng để chỉ các sắc thái của màu đỏ trong tự nhiên. \n\nVí dụ:\n- 茜色 (akaneiro): Màu đỏ thẫm.\n- 茜草 (akanegusa): Cây "
+  },
+  "comments": [
+    {
+      "id": "156509",
+      "lang": "vi",
+      "content_html": "<p>Thuốc nhuộm đc làm bằng CỎ có từ phương TÂY</p>",
+      "content_text": "Thuốc nhuộm đc làm bằng CỎ có từ phương TÂY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156510",
+      "lang": "vi",
+      "content_html": "<p>Đọc gần giống tiền. Okane và akane</p>",
+      "content_text": "Đọc gần giống tiền. Okane và akane",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156511",
+      "lang": "vi",
+      "content_html": "<p>Cỏ thiết mọc ở phía tây</p>",
+      "content_text": "Cỏ thiết mọc ở phía tây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

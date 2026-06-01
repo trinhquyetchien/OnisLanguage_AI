@@ -1,0 +1,91 @@
+{
+  "kanji": "架",
+  "meta": {
+    "weight": 1315,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "か.ける",
+      "か.かる"
+    ],
+    "am_han": "GIÁ"
+  },
+  "meaning": {
+    "vi": "dựng lên, khung, gắn kết, hỗ trợ, kệ, cấu trúc",
+    "en": "erect, frame, mount, support, shelf, construct"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/架.svg"
+  },
+  "frequency": 1555,
+  "examples": [
+    "架空",
+    "十字架",
+    "高架",
+    "架",
+    "架け橋"
+  ],
+  "explanation": {
+    "id": "651",
+    "text": "架 (đọc là \"ka\") có nghĩa là \"giá\", \"khung\" để chỉ các vật dụng có cấu trúc hỗ trợ hoặc các khung hình. \n\nVí dụ:\n- 架空 (kakū): Hư cấu, không có thật.\n- 架設 (kasetsu): Lắp đặt, xây dựng một kết "
+  },
+  "comments": [
+    {
+      "id": "154444",
+      "lang": "vi",
+      "content_html": "<p>tham GIA trồng CÂY để góp phần làm gia tăng GIÁ trị của cuộc sống...</p>",
+      "content_text": "tham GIA trồng CÂY để góp phần làm gia tăng GIÁ trị của cuộc sống...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154445",
+      "lang": "vi",
+      "content_html": "<p>gia tăng thêm cây làm giá đỡ</p>",
+      "content_text": "gia tăng thêm cây làm giá đỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154446",
+      "lang": "vi",
+      "content_html": "<p>Cái giá đc gia công từ gỗ</p>",
+      "content_text": "Cái giá đc gia công từ gỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "瓶",
+  "meta": {
+    "weight": 1763,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビン"
+    ],
+    "kun": [
+      "かめ",
+      "へい"
+    ],
+    "am_han": "BÌNH"
+  },
+  "meaning": {
+    "vi": "cái bình",
+    "en": "bottle, vial, jar, jug, vat, urn"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/瓶.svg"
+  },
+  "frequency": 1528,
+  "examples": [
+    "瓶",
+    "花瓶",
+    "瓶詰め",
+    "小瓶",
+    "水瓶座"
+  ],
+  "explanation": {
+    "id": "6779",
+    "text": "瓶 (đọc là \"bin\") có nghĩa là \"chai\" hoặc \"bình\", để chỉ các vật dụng dùng để chứa đựng chất lỏng.  \nVí dụ:  \n- 瓶詰め (binzume): Đồ được đóng chai.  \n- 瓶ビール (bin bīru): Bia chai.  \n- 花瓶 (kabin)"
+  },
+  "comments": [
+    {
+      "id": "155369",
+      "lang": "vi",
+      "content_html": "<p>Khi Sơ khai bình làm bằng ngói</p>",
+      "content_text": "Khi Sơ khai bình làm bằng ngói",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155370",
+      "lang": "vi",
+      "content_html": "<p>21 viên gạch xếp thành 1 hàng tạo Bình phong vững chắc</p>",
+      "content_text": "21 viên gạch xếp thành 1 hàng tạo Bình phong vững chắc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155371",
+      "lang": "vi",
+      "content_html": "<p>Làm đc cái bình ĐẤT NUNG (ngoã) phải TỊNH</p>",
+      "content_text": "Làm đc cái bình ĐẤT NUNG (ngoã) phải TỊNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

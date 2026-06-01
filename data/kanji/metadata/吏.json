@@ -1,0 +1,82 @@
+{
+  "kanji": "吏",
+  "meta": {
+    "weight": 455,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リ"
+    ],
+    "kun": [],
+    "am_han": "LẠI"
+  },
+  "meaning": {
+    "vi": "viên chức, một viên chức",
+    "en": "officer, an official"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/吏.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7999",
+    "text": "吏 (đọc là \"ri\") có nghĩa là \"quan chức\" hoặc \"nhân viên công quyền\", chỉ những người làm việc trong quản lý hành chính hoặc nhà nước.  \nVí dụ:  \n- 吏員 (rian): Nhân viên công chức.  \n- 吏属 (riz"
+  },
+  "comments": [
+    {
+      "id": "219073",
+      "lang": "vi",
+      "content_html": "<p>Quan lại là bậc trượng phu không chỉ nói bằng cái miệng</p>",
+      "content_text": "Quan lại là bậc trượng phu không chỉ nói bằng cái miệng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219074",
+      "lang": "vi",
+      "content_html": "<p>Quan lại người trung thời xưa đội mũ trên đầu</p>",
+      "content_text": "Quan lại người trung thời xưa đội mũ trên đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219075",
+      "lang": "vi",
+      "content_html": "<p>quan LẠI là TRƯỢNG phu giỏi MỒM mép</p>",
+      "content_text": "quan LẠI là TRƯỢNG phu giỏi MỒM mép",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

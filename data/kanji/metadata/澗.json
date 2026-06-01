@@ -1,0 +1,34 @@
+{
+  "kanji": "澗",
+  "meta": {
+    "weight": 1625,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン",
+      "ケン"
+    ],
+    "kun": [
+      "たに",
+      "たにみず"
+    ],
+    "am_han": "GIẢN"
+  },
+  "meaning": {
+    "vi": "sông thung lũng, 10 ** 36",
+    "en": "valley river, 10**36"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/澗.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1139",
+    "text": "澗 (đọc là \"kan\") có nghĩa là \"kênh\", \"suối\" hoặc \"dòng nước\" để chỉ các hình thức dòng chảy của nước, thường liên quan đến môi trường tự nhiên.\n\nVí dụ:\n- 澗流 (kanryū): Dòng suối.\n- 澗谷 (kangai"
+  },
+  "comments": []
+}

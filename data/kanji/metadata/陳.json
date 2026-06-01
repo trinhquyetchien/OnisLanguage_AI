@@ -1,0 +1,90 @@
+{
+  "kanji": "陳",
+  "meta": {
+    "weight": 2831,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チン"
+    ],
+    "kun": [
+      "ひ.ねる"
+    ],
+    "am_han": "TRẦN, TRẬN"
+  },
+  "meaning": {
+    "vi": "triển lãm, trạng thái, liên quan, giải thích",
+    "en": "exhibit, state, relate, explain"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/陳.svg"
+  },
+  "frequency": 1323,
+  "examples": [
+    "陳述",
+    "陳情",
+    "陳",
+    "陳列",
+    "陳腐"
+  ],
+  "explanation": {
+    "id": "5438",
+    "text": "陳 (đọc là \"chin\") có nghĩa là \"trình bày\", \"trưng bày\", hoặc \"giai thoại\" để chỉ các hành động liên quan đến việc đưa ra thông tin, sắp xếp hoặc tôn vinh một điều gì đó.\n\nVí dụ:\n- 陳列 (chinre"
+  },
+  "comments": [
+    {
+      "id": "157702",
+      "lang": "vi",
+      "content_html": "<p>Nhà TRẦN tuyên bố lập nước ở sườn ĐỒI phía ĐÔNG</p>",
+      "content_text": "Nhà TRẦN tuyên bố lập nước ở sườn ĐỒI phía ĐÔNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157703",
+      "lang": "vi",
+      "content_html": "<p>phải trần thuật lại vùng đất ở phía đông</p>",
+      "content_text": "phải trần thuật lại vùng đất ở phía đông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157704",
+      "lang": "vi",
+      "content_html": "<p>Nhà Trần ở vùng đât to phía đông</p>",
+      "content_text": "Nhà Trần ở vùng đât to phía đông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

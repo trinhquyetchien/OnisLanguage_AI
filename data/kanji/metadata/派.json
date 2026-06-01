@@ -1,0 +1,88 @@
+{
+  "kanji": "派",
+  "meta": {
+    "weight": 1534,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハ"
+    ],
+    "kun": [],
+    "am_han": "PHÁI"
+  },
+  "meaning": {
+    "vi": "trường phái, bè phái",
+    "en": "faction, group, party, clique, sect, school"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/派.svg"
+  },
+  "frequency": 164,
+  "examples": [
+    "派",
+    "派遣",
+    "立派",
+    "派手",
+    "派閥"
+  ],
+  "explanation": {
+    "id": "6232",
+    "text": "派 (đọc là \"ha\") có nghĩa là \"phái\", chỉ các nhóm, trường phái hoặc xu hướng khác nhau trong một lĩnh vực nào đó. \n\nVí dụ:\n- 派遣 (haken): Cử đi, phái đi.\n- 学派 (gakuhai): Trường phái học thuật."
+  },
+  "comments": [
+    {
+      "id": "154883",
+      "lang": "vi",
+      "content_html": "<p>Chị Thuỷ dùng long Trảo thủ thì thuộc môn Phái nào</p>",
+      "content_text": "Chị Thuỷ dùng long Trảo thủ thì thuộc môn Phái nào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154884",
+      "lang": "vi",
+      "content_html": "<p>phái ba người đi tưới nước</p>",
+      "content_text": "phái ba người đi tưới nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154885",
+      "lang": "vi",
+      "content_html": "<p>(phái) võ đang được xây dựng trên 3 sườn(hán) núi có nước(thủy) đổ.</p>",
+      "content_text": "(phái) võ đang được xây dựng trên 3 sườn(hán) núi có nước(thủy) đổ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

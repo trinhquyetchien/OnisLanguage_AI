@@ -1,0 +1,87 @@
+{
+  "kanji": "頒",
+  "meta": {
+    "weight": 2904,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン"
+    ],
+    "kun": [
+      "わ.かつ",
+      "わ.ける"
+    ],
+    "am_han": "BAN, PHÂN"
+  },
+  "meaning": {
+    "vi": "phân phối, phổ biến, phân vùng, hiểu",
+    "en": "distribute, disseminate, partition, understand"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/頒.svg"
+  },
+  "frequency": 2287,
+  "examples": [
+    "頒布"
+  ],
+  "explanation": {
+    "id": "6503",
+    "text": "頒 (đọc là \"han\") có nghĩa là \"phân phát\" hoặc \"ban bố\", chỉ các hành động liên quan đến việc phân phối thông tin hoặc tài liệu.\n\nVí dụ:\n- 頒布 (hanpu): Phát hành, công bố.\n- 頒遣 (hanken): Phân "
+  },
+  "comments": [
+    {
+      "id": "157883",
+      "lang": "vi",
+      "content_html": "<p>phân đầu nguoi ra ban thưởng</p>",
+      "content_text": "phân đầu nguoi ra ban thưởng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157884",
+      "lang": "vi",
+      "content_html": "<p>ban bố phân phát đầu người</p>",
+      "content_text": "ban bố phân phát đầu người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157885",
+      "lang": "vi",
+      "content_html": "<p>Phân phát những tờ giấy để Ban bố tin tức.</p>",
+      "content_text": "Phân phát những tờ giấy để Ban bố tin tức.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

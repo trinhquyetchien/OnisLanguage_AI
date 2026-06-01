@@ -1,0 +1,90 @@
+{
+  "kanji": "堀",
+  "meta": {
+    "weight": 570,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "クツ"
+    ],
+    "kun": [
+      "ほり"
+    ],
+    "am_han": "QUẬT"
+  },
+  "meaning": {
+    "vi": "mương, hào, kênh",
+    "en": "ditch, moat, canal"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/堀.svg"
+  },
+  "frequency": 1285,
+  "examples": [
+    "堀江",
+    "堀",
+    "堀川",
+    "内堀",
+    "外堀"
+  ],
+  "explanation": {
+    "id": "7350",
+    "text": "堀 (đọc là \"horu\") có nghĩa là \"hào\" hoặc \"kênh\", chỉ một cấu trúc thủy lợi hoặc hệ thống phòng thủ.  \nVí dụ:  \n- 堀 (horu): Hào, kênh.  \n- 堀割 (horiwari): Kênh đào, hào nước.  \n- 城堀 (shirobori"
+  },
+  "comments": [
+    {
+      "id": "152608",
+      "lang": "vi",
+      "content_html": "<p>có vùng đất bị che Khuất, khai Quật lên thì ra là kênh đào</p>",
+      "content_text": "có vùng đất bị che Khuất, khai Quật lên thì ra là kênh đào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152609",
+      "lang": "vi",
+      "content_html": "<p>Khai Quật được chỗ đất trên núi có cửa vào hang động thây ma</p>",
+      "content_text": "Khai Quật được chỗ đất trên núi có cửa vào hang động thây ma",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152610",
+      "lang": "vi",
+      "content_html": "<p>khai Quật(堀） là đưa THi(尸） thể Xuất（出） ra khỏi lòng Đất（土）</p>",
+      "content_text": "khai Quật(堀） là đưa THi(尸） thể Xuất（出） ra khỏi lòng Đất（土）",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

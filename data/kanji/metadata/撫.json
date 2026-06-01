@@ -1,0 +1,88 @@
+{
+  "kanji": "撫",
+  "meta": {
+    "weight": 1154,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ブ",
+      "フ"
+    ],
+    "kun": [
+      "な.でる"
+    ],
+    "am_han": "PHỦ, MÔ"
+  },
+  "meaning": {
+    "vi": "vuốt ve, vỗ nhẹ",
+    "en": "stroke, pat, smooth down"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/撫.svg"
+  },
+  "frequency": 2402,
+  "examples": [
+    "愛撫",
+    "撫でる"
+  ],
+  "explanation": {
+    "id": "6866",
+    "text": "撫 (đọc là \"bu\") có nghĩa là \"vỗ về\", \"xoa dịu\", thường chỉ các hành động liên quan đến việc an ủi hoặc chăm sóc.  \nVí dụ:  \n- 撫でる (naderu): Xoa, vỗ về.  \n- 撫養 (buyou): Nuôi dưỡng, chăm sóc. "
+  },
+  "comments": [
+    {
+      "id": "154042",
+      "lang": "vi",
+      "content_html": "<p>Lấy Tay Xoa Đầu với ý an ủi \"Không (無) sao đâu\"</p>",
+      "content_text": "Lấy Tay Xoa Đầu với ý an ủi \"Không (無) sao đâu\"",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154043",
+      "lang": "vi",
+      "content_html": "<p>Từ lúc không còn tay, tôi đã bỏ thói quen xoa đầu (rùa)</p>",
+      "content_text": "Từ lúc không còn tay, tôi đã bỏ thói quen xoa đầu (rùa)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154044",
+      "lang": "vi",
+      "content_html": "<p>cái Tay Vô duyên Phủ lên xoa đầu tôi</p>",
+      "content_text": "cái Tay Vô duyên Phủ lên xoa đầu tôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "批",
+  "meta": {
+    "weight": 1053,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [],
+    "am_han": "PHÊ"
+  },
+  "meaning": {
+    "vi": "chỉ trích, đình công",
+    "en": "criticism, strike"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/批.svg"
+  },
+  "frequency": 568,
+  "examples": [
+    "批判",
+    "批評",
+    "批准",
+    "批判的",
+    "批難"
+  ],
+  "explanation": {
+    "id": "6550",
+    "text": "批 (đọc là \"hi\") có nghĩa là \"phê bình\", \"nhận xét\" để chỉ các hành động liên quan đến việc đánh giá, chỉ trích hoặc bình luận về một vấn đề nào đó.  \nVí dụ:  \n- 批判 (hihan): Phê phán, chỉ trí"
+  },
+  "comments": [
+    {
+      "id": "153799",
+      "lang": "vi",
+      "content_html": "<p>Tay tác động vào sự so sánh để phê chuẩn</p>",
+      "content_text": "Tay tác động vào sự so sánh để phê chuẩn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153800",
+      "lang": "vi",
+      "content_html": "<p>người tay(扌) to suốt ngày so(比) kè với kẻ yếu hơn thật đáng phê bình(批)</p>",
+      "content_text": "người tay(扌) to suốt ngày so(比) kè với kẻ yếu hơn thật đáng phê bình(批)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153801",
+      "lang": "vi",
+      "content_html": "<p>Giơ tay so sánh tỉ lệ rồi PHÊ phán</p>",
+      "content_text": "Giơ tay so sánh tỉ lệ rồi PHÊ phán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

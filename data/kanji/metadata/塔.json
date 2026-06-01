@@ -1,0 +1,105 @@
+{
+  "kanji": "塔",
+  "meta": {
+    "weight": 586,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [],
+    "am_han": "THÁP"
+  },
+  "meaning": {
+    "vi": "tháp",
+    "en": "pagoda, tower, steeple"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/塔.svg"
+  },
+  "frequency": 1708,
+  "examples": [
+    "塔",
+    "司令塔",
+    "鉄塔",
+    "金字塔",
+    "エッフェル塔"
+  ],
+  "explanation": {
+    "id": "5778",
+    "text": "塔 (đọc là \"tou\") có nghĩa là \"tháp\", chỉ các công trình kiến trúc cao, thường dùng để chỉ tháp chuông, tháp đèn, hoặc các loại tháp khác.\n\nVí dụ:\n- 灯台 (toutai): Ngọn hải đăng.\n- 仏塔 (buttou):"
+  },
+  "comments": [
+    {
+      "id": "152645",
+      "lang": "vi",
+      "content_html": "<p>Tháp thời xưa dựng lên bằng cách trộn cỏ hoa với đất 1 cách hợp lý</p>",
+      "content_text": "Tháp thời xưa dựng lên bằng cách trộn cỏ hoa với đất 1 cách hợp lý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190763",
+      "lang": "vi",
+      "content_html": "<p>đất vs cỏ hợp lại với nhau làm nguyên liệu để đắp Tháp</p>",
+      "content_text": "đất vs cỏ hợp lại với nhau làm nguyên liệu để đắp Tháp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "152646",
+      "lang": "vi",
+      "content_html": "<p>Tháp dựng lên phải hợp với đất và cỏ.</p>",
+      "content_text": "Tháp dựng lên phải hợp với đất và cỏ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152647",
+      "lang": "vi",
+      "content_html": "<p>đất mà hợp thì cỏ sẽ mọc thành tháp</p>",
+      "content_text": "đất mà hợp thì cỏ sẽ mọc thành tháp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

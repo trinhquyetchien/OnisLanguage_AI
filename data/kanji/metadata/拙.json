@@ -1,0 +1,90 @@
+{
+  "kanji": "拙",
+  "meta": {
+    "weight": 1076,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セツ"
+    ],
+    "kun": [
+      "つたな.い"
+    ],
+    "am_han": "CHUYẾT"
+  },
+  "meaning": {
+    "vi": "vụng về, không khéo léo",
+    "en": "bungling, clumsy, unskillful"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/拙.svg"
+  },
+  "frequency": 1938,
+  "examples": [
+    "稚拙",
+    "拙者",
+    "拙い",
+    "拙",
+    "拙著"
+  ],
+  "explanation": {
+    "id": "4433",
+    "text": "拙 (đọc là \"zetsu\" hoặc \"tachi\") có nghĩa là \"vụng về\", \"kém cỏi\" để chỉ những hành động thiếu khéo léo hoặc tài năng.\n\nVí dụ:\n- 拙者 (zessha): Tôi (cách nói khiêm tốn, thường sử dụng trong văn"
+  },
+  "comments": [
+    {
+      "id": "153868",
+      "lang": "vi",
+      "content_html": "<p>Cầm tay chuyết mãi không xuất thì vụng về</p>",
+      "content_text": "Cầm tay chuyết mãi không xuất thì vụng về",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153869",
+      "lang": "vi",
+      "content_html": "<p>dùng tay chuyết (chuốt) mãi không ra đúng là vụng về ( con zai sẽ hiểu)</p>",
+      "content_text": "dùng tay chuyết (chuốt) mãi không ra đúng là vụng về ( con zai sẽ hiểu)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153870",
+      "lang": "vi",
+      "content_html": "<p>Cứ khi nào xuất thủ mà không xuất não thì là vụng về</p>",
+      "content_text": "Cứ khi nào xuất thủ mà không xuất não thì là vụng về",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

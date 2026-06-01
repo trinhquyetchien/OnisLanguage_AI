@@ -1,0 +1,91 @@
+{
+  "kanji": "少",
+  "meta": {
+    "weight": 761,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "すく.ない",
+      "すこ.し"
+    ],
+    "am_han": "THIỂU, THIẾU"
+  },
+  "meaning": {
+    "vi": "ít, thiểu số",
+    "en": "few, little"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/少.svg"
+  },
+  "frequency": 287,
+  "examples": [
+    "少し",
+    "少ない",
+    "少年",
+    "少なくとも",
+    "もう少し"
+  ],
+  "explanation": {
+    "id": "3790",
+    "text": "少 (đọc là \"shou\" hoặc \"suku nai\") có nghĩa là \"ít\", \"nhỏ\" để chỉ số lượng hoặc mức độ nhỏ bé.  \nVí dụ:  \n- 少ない (sukunai): Ít, hiếm.  \n- 少年 (shounen): Thiếu niên, thanh thiếu niên.  \n- 少女 (sh"
+  },
+  "comments": [
+    {
+      "id": "591",
+      "lang": "vi",
+      "content_html": "<p>Khi bạn phân chia một vật nhỏ (小), bạn chỉ có thể nhận được một <strong>ít</strong>.</p>",
+      "content_text": "Khi bạn phân chia một vật nhỏ (小), bạn chỉ có thể nhận được một\nít\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629782b52fa81.jpg",
+      "image_path": "assets/images/少_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158470",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>少ない (すくない): ít<br>少し (すこし): một ít<br>もう少し (もうすこし): một chút nữa</p>",
+      "content_text": "JLPT N4\n少ない (すくない): ít\n少し (すこし): một ít\nもう少し (もうすこし): một chút nữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "153067",
+      "lang": "vi",
+      "content_html": "<p>đã Nhỏ rồi còn Cắt Bỏ - thì đúng là bọn THIỂU năng THIẾU hiểu biết</p>",
+      "content_text": "đã Nhỏ rồi còn Cắt Bỏ - thì đúng là bọn THIỂU năng THIẾU hiểu biết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

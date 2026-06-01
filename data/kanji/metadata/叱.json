@@ -1,0 +1,90 @@
+{
+  "kanji": "叱",
+  "meta": {
+    "weight": 440,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シツ",
+      "シチ"
+    ],
+    "kun": [
+      "しか.る"
+    ],
+    "am_han": "SẤT"
+  },
+  "meaning": {
+    "vi": "mắng mỏ, khiển trách",
+    "en": "scold, reprove"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/叱.svg"
+  },
+  "frequency": 2255,
+  "examples": [
+    "叱り",
+    "叱る",
+    "叱咤",
+    "叱責"
+  ],
+  "explanation": {
+    "id": "3263",
+    "text": "叱 (đọc là \"shitsu\") có nghĩa là \"mắng\" hoặc \"quở trách\", chỉ các hành động chỉ trích hay khiển trách ai đó.  \nVí dụ:  \n- 叱責 (shisseki): Sự quở trách, reprimand.  \n- 叱る (shikaru): Mắng, quở t"
+  },
+  "comments": [
+    {
+      "id": "152289",
+      "lang": "vi",
+      "content_html": "<p>7 cái miệng quát to, chả biết cái gì SẤT</p>",
+      "content_text": "7 cái miệng quát to, chả biết cái gì SẤT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152290",
+      "lang": "vi",
+      "content_html": "<p>7 cái miệng quát to</p>",
+      "content_text": "7 cái miệng quát to",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152291",
+      "lang": "vi",
+      "content_html": "<p>Sất xược vs bà 7 nên bị quát</p>",
+      "content_text": "Sất xược vs bà 7 nên bị quát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

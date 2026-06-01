@@ -1,0 +1,90 @@
+{
+  "kanji": "剣",
+  "meta": {
+    "weight": 333,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "つるぎ"
+    ],
+    "am_han": "KIẾM, KÉM"
+  },
+  "meaning": {
+    "vi": "saber, thanh kiếm, lưỡi kiếm, kim đồng hồ",
+    "en": "sabre, sword, blade, clock hand"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/剣.svg"
+  },
+  "frequency": 1305,
+  "examples": [
+    "真剣",
+    "剣",
+    "剣道",
+    "剣士",
+    "剣術"
+  ],
+  "explanation": {
+    "id": "2110",
+    "text": "剣 (đọc là \"ken\") có nghĩa là \"kiếm\" để chỉ một loại vũ khí sắc bén, thường dùng trong chiến đấu hoặc biểu trưng cho sức mạnh và danh dự.\n\nVí dụ:\n- 剣道 (kendō): Đường kiếm, môn thể thao võ thu"
+  },
+  "comments": [
+    {
+      "id": "152036",
+      "lang": "vi",
+      "content_html": "<p>10 người đang đội mũ cầm kiếm</p>",
+      "content_text": "10 người đang đội mũ cầm kiếm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152037",
+      "lang": "vi",
+      "content_html": "<p>Trong phim kiếm hiệp ta thấy nhưng tên thích khách hay mang theo KIẾM thường đội nón</p>",
+      "content_text": "Trong phim kiếm hiệp ta thấy nhưng tên thích khách hay mang theo KIẾM thường đội nón",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152038",
+      "lang": "vi",
+      "content_html": "<p>Thí nghiệm không dùng Ngựa mà dùng Đao Kiếm</p>",
+      "content_text": "Thí nghiệm không dùng Ngựa mà dùng Đao Kiếm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

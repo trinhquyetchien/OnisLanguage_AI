@@ -1,0 +1,87 @@
+{
+  "kanji": "擁",
+  "meta": {
+    "weight": 1160,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [],
+    "am_han": "ỦNG, UNG"
+  },
+  "meaning": {
+    "vi": "ôm, chiếm hữu, bảo vệ, dẫn dắt",
+    "en": "hug, embrace, possess, protect, lead"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/擁.svg"
+  },
+  "frequency": 1213,
+  "examples": [
+    "擁護",
+    "抱擁",
+    "擁する",
+    "擁立"
+  ],
+  "explanation": {
+    "id": "7860",
+    "text": "擁 (đọc là \"yō\") có nghĩa là \"ôm\", \"nắm giữ\" để chỉ các hành động liên quan đến việc giữ, bảo vệ hoặc chấp nhận điều gì đó.  \nVí dụ:  \n- 擁護 (yōgo): Bảo vệ, ủng hộ.  \n- 擁立 (yōritsu): Đề cử, ủn"
+  },
+  "comments": [
+    {
+      "id": "154053",
+      "lang": "vi",
+      "content_html": "<p>Tay ÔM Đầu con CHIM NHỎ cho vào ỦNG</p>",
+      "content_text": "Tay ÔM Đầu con CHIM NHỎ cho vào ỦNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154054",
+      "lang": "vi",
+      "content_html": "<p>Tay ủng hộ hầm chim trong nồi</p>",
+      "content_text": "Tay ủng hộ hầm chim trong nồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154055",
+      "lang": "vi",
+      "content_html": "<p>Giơ Tay(  扌) lên Ủng hộ cho 4 chú Chim (隹) vào trong mái nhà (亠)</p>",
+      "content_text": "Giơ Tay(  扌) lên Ủng hộ cho 4 chú Chim (隹) vào trong mái nhà (亠)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

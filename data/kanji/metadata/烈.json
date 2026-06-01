@@ -1,0 +1,90 @@
+{
+  "kanji": "烈",
+  "meta": {
+    "weight": 1652,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レツ"
+    ],
+    "kun": [
+      "はげ.しい"
+    ],
+    "am_han": "LIỆT"
+  },
+  "meaning": {
+    "vi": "hăng hái, bạo lực, kịch liệt, tức giận, nghiêm trọng, cực đoan",
+    "en": "ardent, violent, vehement, furious, severe, extreme"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/烈.svg"
+  },
+  "frequency": 1397,
+  "examples": [
+    "強烈",
+    "猛烈",
+    "熱烈",
+    "熾烈",
+    "痛烈"
+  ],
+  "explanation": {
+    "id": "8262",
+    "text": "烈 (đọc là \"retsu\") có nghĩa là \"mãnh liệt\", \"kịch liệt\", thường dùng để chỉ cường độ mạnh mẽ hoặc cảm xúc mãnh liệt.  \nVí dụ:  \n- 烈火 (rekka): Lửa dữ dội, lửa lớn.  \n- 烈士 (resshi): Anh hùng, "
+  },
+  "comments": [
+    {
+      "id": "155162",
+      "lang": "vi",
+      "content_html": "<p>LIỆT thêm Lửa cho Mãnh LIỆT</p>",
+      "content_text": "LIỆT thêm Lửa cho Mãnh LIỆT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155163",
+      "lang": "vi",
+      "content_html": "<p>Trời tối, quăng hai cây củi cho lửa cháy càng thêm mãnh liệt</p>",
+      "content_text": "Trời tối, quăng hai cây củi cho lửa cháy càng thêm mãnh liệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155164",
+      "lang": "vi",
+      "content_html": "<p>Liệt sĩ gan dạ bị lửa thiêu rụi</p>",
+      "content_text": "Liệt sĩ gan dạ bị lửa thiêu rụi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

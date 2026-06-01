@@ -1,0 +1,91 @@
+{
+  "kanji": "養",
+  "meta": {
+    "weight": 2934,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ",
+      "リョウ"
+    ],
+    "kun": [
+      "やしな.う"
+    ],
+    "am_han": "DƯỠNG, DƯỢNG"
+  },
+  "meaning": {
+    "vi": "nuôi dưỡng, chăm sóc, phát triển",
+    "en": "foster, bring up, rear, develop, nurture"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/養.svg"
+  },
+  "frequency": 888,
+  "examples": [
+    "養成",
+    "栄養",
+    "教養",
+    "療養",
+    "養護"
+  ],
+  "explanation": {
+    "id": "7914",
+    "text": "養 (đọc là \"yō\") có nghĩa là \"nuôi dưỡng\", \"chăm sóc\" để chỉ các hành động liên quan đến việc nuôi sống, giáo dục hoặc phát triển.\n\nVí dụ:\n- 養成 (yōsei): Đào tạo, phát triển.\n- 養う (yōnau): Nuô"
+  },
+  "comments": [
+    {
+      "id": "157952",
+      "lang": "vi",
+      "content_html": "<p>Ăn dê thì bổ dưỡng</p>",
+      "content_text": "Ăn dê thì bổ dưỡng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157953",
+      "lang": "vi",
+      "content_html": "<p>an dưỡng 安養 • ẩm thực liệu dưỡng 飲食療養 • bảo dưỡng 保養 • bão dưỡng 抱養 • bộ dưỡng 哺養 • bổ dưỡng 補養 • bồi dưỡng 培養 • cấp dưỡng 給養 • chung dưỡng 終養 • cung dưỡng 供養 • di dưỡng 頤養 • dinh dưỡng 營養 • doanh dưỡng 營養 • dưỡng bệnh 養病 • dưỡng dục 養育 • dưỡng hoạ 養禍 • d</p>",
+      "content_text": "an dưỡng 安養 • ẩm thực liệu dưỡng 飲食療養 • bảo dưỡng 保養 • bão dưỡng 抱養 • bộ dưỡng 哺養 • bổ dưỡng 補養 • bồi dưỡng 培養 • cấp dưỡng 給養 • chung dưỡng 終養 • cung dưỡng 供養 • di dưỡng 頤養 • dinh dưỡng 營養 • doanh dưỡng 營養 • dưỡng bệnh 養病 • dưỡng dục 養育 • dưỡng hoạ 養禍 • d",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157954",
+      "lang": "vi",
+      "content_html": "<p>Nuôi DƯỠNG con DÊ cho lớn để thịt ĂN</p>",
+      "content_text": "Nuôi DƯỠNG con DÊ cho lớn để thịt ĂN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

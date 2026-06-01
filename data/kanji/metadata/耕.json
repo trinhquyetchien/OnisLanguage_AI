@@ -1,0 +1,90 @@
+{
+  "kanji": "耕",
+  "meta": {
+    "weight": 2152,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "たがや.す"
+    ],
+    "am_han": "CANH"
+  },
+  "meaning": {
+    "vi": "canh tác",
+    "en": "till, plow, cultivate"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/耕.svg"
+  },
+  "frequency": 1568,
+  "examples": [
+    "耕作",
+    "農耕",
+    "耕地",
+    "耕す",
+    "晴耕雨読"
+  ],
+  "explanation": {
+    "id": "2525",
+    "text": "耕 (đọc là \"kō\") có nghĩa là \"cày xới\", chỉ các hoạt động liên quan đến nông nghiệp, đặc biệt là việc làm đất trồng cây.\n\nVí dụ:\n- 耕作 (kōsaku): Canh tác, sản xuất nông nghiệp.\n- 耕す (tagayasu)"
+  },
+  "comments": [
+    {
+      "id": "156238",
+      "lang": "vi",
+      "content_html": "<p>canh tác có 3 cái cây nhưng vẫn phải rào lại cho chắc</p>",
+      "content_text": "canh tác có 3 cái cây nhưng vẫn phải rào lại cho chắc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156239",
+      "lang": "vi",
+      "content_html": "<p>Cầy bừa, CANH tác xong thì đặt cái CẦY(lỗi) bên cạnh cái GIẾNG nghỉ ngơi</p>",
+      "content_text": "Cầy bừa, CANH tác xong thì đặt cái CẦY(lỗi) bên cạnh cái GIẾNG nghỉ ngơi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156240",
+      "lang": "vi",
+      "content_html": "<p>Canh tác ruộng cần có cày và nước giếng</p>",
+      "content_text": "Canh tác ruộng cần có cày và nước giếng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "kanji": "湊",
+  "meta": {
+    "weight": 1581,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "みなと",
+      "あつ.まる"
+    ],
+    "am_han": "THẤU"
+  },
+  "meaning": {
+    "vi": "cảng, bến cảng",
+    "en": "port, harbor"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/湊.svg"
+  },
+  "frequency": 2222,
+  "examples": [
+    "湊"
+  ],
+  "explanation": {
+    "id": "7491",
+    "text": "湊 (đọc là \"minato\") có nghĩa là \"bến cảng\" hoặc \"nơi tụ họp\". Nó thường chỉ những địa điểm bên sông hoặc biển nơi tàu thuyền dừng lại và hàng hóa được bốc dỡ.\n\nVí dụ:\n- 湊町 (Minatomachi): Thị"
+  },
+  "comments": [
+    {
+      "id": "154996",
+      "lang": "vi",
+      "content_html": "<p>BA 三 NGƯỜI 人 THẤU TRỜI 天 THẤU BIỂN 海</p>",
+      "content_text": "BA 三 NGƯỜI 人 THẤU TRỜI 天 THẤU BIỂN 海",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

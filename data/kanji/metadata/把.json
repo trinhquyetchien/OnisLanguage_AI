@@ -1,0 +1,87 @@
+{
+  "kanji": "把",
+  "meta": {
+    "weight": 1057,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハ",
+      "ワ"
+    ],
+    "kun": [],
+    "am_han": "BẢ"
+  },
+  "meaning": {
+    "vi": "nắm bắt, fagot, bó, truy cập cho các gói",
+    "en": "grasp, faggot, bunch, counter for bundles"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/把.svg"
+  },
+  "frequency": 1569,
+  "examples": [
+    "把握",
+    "大雑把",
+    "把"
+  ],
+  "explanation": {
+    "id": "6219",
+    "text": "把 (đọc là \"ha\" hoặc \"ba\") có nghĩa là \"nắm giữ\" hoặc \"cầm\", thường được sử dụng để chỉ hành động cầm nắm hoặc thao tác với vật gì đó. \n\nVí dụ:\n- 把握 (haaku): Nắm bắt, thấu hiểu.\n- 把手 (bashu):"
+  },
+  "comments": [
+    {
+      "id": "153811",
+      "lang": "vi",
+      "content_html": "<p>Tay Ba đang CẦM BẢ chó</p>",
+      "content_text": "Tay Ba đang CẦM BẢ chó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153812",
+      "lang": "vi",
+      "content_html": "<p>lão hạc tay đang cầm bả chó</p>",
+      "content_text": "lão hạc tay đang cầm bả chó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153813",
+      "lang": "vi",
+      "content_html": "<p>BẢ 把 nắm giữ trong tay 扌Pari 巴里</p>",
+      "content_text": "BẢ 把 nắm giữ trong tay 扌Pari 巴里",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

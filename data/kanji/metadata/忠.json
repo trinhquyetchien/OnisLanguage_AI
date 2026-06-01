@@ -1,0 +1,88 @@
+{
+  "kanji": "忠",
+  "meta": {
+    "weight": 946,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [],
+    "am_han": "TRUNG"
+  },
+  "meaning": {
+    "vi": "lòng trung thành, sự chung thủy, sự trung thành",
+    "en": "loyalty, fidelity, faithfulness"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/忠.svg"
+  },
+  "frequency": 1113,
+  "examples": [
+    "忠実",
+    "忠",
+    "忠告",
+    "忠誠",
+    "忠義"
+  ],
+  "explanation": {
+    "id": "5277",
+    "text": "忠 (đọc là \"chū\") có nghĩa là \"trung thành\", \"trung thực\", thể hiện lòng trung kiên và sự tận tâm.  \nVí dụ:  \n- 忠誠 (chūsei): Lòng trung thành.  \n- 忠告 (chūkoku): Lời khuyên chân thành.  \n- 忠実 "
+  },
+  "comments": [
+    {
+      "id": "153529",
+      "lang": "vi",
+      "content_html": "<p>sự TRUNG thực xuất phát từ GIỮA trái TIM</p>",
+      "content_text": "sự TRUNG thực xuất phát từ GIỮA trái TIM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153530",
+      "lang": "vi",
+      "content_html": "<p>Trung thực ở chính giữa tâm</p>",
+      "content_text": "Trung thực ở chính giữa tâm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153531",
+      "lang": "vi",
+      "content_html": "<p>訓　ただ</p>",
+      "content_text": "訓　ただ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "kanji": "賠",
+  "meta": {
+    "weight": 2572,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バイ"
+    ],
+    "kun": [],
+    "am_han": "BỒI"
+  },
+  "meaning": {
+    "vi": "bồi thường",
+    "en": "compensation, indemnify"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/賠.svg"
+  },
+  "frequency": 1243,
+  "examples": [
+    "賠償"
+  ],
+  "explanation": {
+    "id": "6301",
+    "text": "賠 (đọc là \"bai\") có nghĩa là \"bồi thường\", chỉ các hành động liên quan đến việc bồi thường thiệt hại hoặc mất mát.  \nVí dụ:  \n- 賠償 (baishō): Bồi thường.  \n- 賠償金 (baishōkin): Tiền bồi thường."
+  },
+  "comments": [
+    {
+      "id": "157121",
+      "lang": "vi",
+      "content_html": "<p>Dùng tiền bồi thường vì miệng lỡ nói ở vị trí ko phù hợp</p>",
+      "content_text": "Dùng tiền bồi thường vì miệng lỡ nói ở vị trí ko phù hợp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157122",
+      "lang": "vi",
+      "content_html": "<p>Bồi thường phải dùng số tiền gấp bội</p>",
+      "content_text": "Bồi thường phải dùng số tiền gấp bội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

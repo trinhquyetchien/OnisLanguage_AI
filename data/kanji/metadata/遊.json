@@ -1,0 +1,109 @@
+{
+  "kanji": "遊",
+  "meta": {
+    "weight": 2673,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ",
+      "ユ"
+    ],
+    "kun": [
+      "あそ.ぶ",
+      "あそ.ばす"
+    ],
+    "am_han": "DU"
+  },
+  "meaning": {
+    "vi": "chơi",
+    "en": "play"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/遊.svg"
+  },
+  "frequency": 941,
+  "examples": [
+    "遊び",
+    "遊ぶ",
+    "遊園",
+    "遊戯",
+    "浮遊"
+  ],
+  "explanation": {
+    "id": "7790",
+    "text": "遊 (đọc là \"yū\" hoặc \"asobu\") có nghĩa là \"vui chơi\", \"giải trí\", chỉ các hoạt động liên quan đến giải trí và thư giãn.  \nVí dụ:  \n- 遊園地 (yūenchi): Công viên giải trí.  \n- 遊ぶ (asobu): Chơi, v"
+  },
+  "comments": [
+    {
+      "id": "37156",
+      "lang": "vi",
+      "content_html": "<p>Đứa trẻ (子) cầm lá cờ chạy đi <strong>chơi</strong>.</p>",
+      "content_text": "Đứa trẻ (子) cầm lá cờ chạy đi\nchơi\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfcfd0983f2.jpg",
+      "image_path": "assets/images/遊_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157366",
+      "lang": "vi",
+      "content_html": "<p>ĐỨA TRẺ cầm CỜ đi CHU DU khắp 4 PHƯƠNG</p>",
+      "content_text": "ĐỨA TRẺ cầm CỜ đi CHU DU khắp 4 PHƯƠNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157367",
+      "lang": "vi",
+      "content_html": "<p>Chị phương dẫn con đi chơi</p>",
+      "content_text": "Chị phương dẫn con đi chơi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157368",
+      "lang": "vi",
+      "content_html": "<p>ĐỨA BÉ NẰM mơ được DẪN đi chu DU khắp bốn PHƯƠNG.</p>",
+      "content_text": "ĐỨA BÉ NẰM mơ được DẪN đi chu DU khắp bốn PHƯƠNG.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

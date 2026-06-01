@@ -1,0 +1,110 @@
+{
+  "kanji": "台",
+  "meta": {
+    "weight": 439,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダイ",
+      "タイ"
+    ],
+    "kun": [
+      "うてな",
+      "われ",
+      "つかさ"
+    ],
+    "am_han": "ĐÀI"
+  },
+  "meaning": {
+    "vi": "bệ, giá đỡ",
+    "en": "pedestal, a stand, counter for machines and vehicles"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/台.svg"
+  },
+  "frequency": 262,
+  "examples": [
+    "台",
+    "舞台",
+    "台湾",
+    "台風",
+    "仙台"
+  ],
+  "explanation": {
+    "id": "4998",
+    "text": "台 (đọc là \"dai\" hoặc \"tai\") có nghĩa là \"bệ\", \"đài\", chỉ các cấu trúc hoặc vật thể dùng để nâng đỡ hoặc làm nền tảng cho một cái gì đó.\nVí dụ:\n- 台所 (daidokoro): Nhà bếp.\n- 台風 (taifuu): Bão n"
+  },
+  "comments": [
+    {
+      "id": "910",
+      "lang": "vi",
+      "content_html": "<p>Tôi đang ở trên <strong>giá đỡ</strong>.</p>",
+      "content_text": "Tôi đang ở trên\ngiá đỡ\n.",
+      "image_url": "https://jpdictionary.com/upload/images/6298b34430a16.jpg",
+      "image_path": "assets/images/台_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152286",
+      "lang": "vi",
+      "content_html": "<p>Tượng đài là nơi mọi người tụ tập nói chuyện riêng tư</p>",
+      "content_text": "Tượng đài là nơi mọi người tụ tập nói chuyện riêng tư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158387",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>台所 (だいどころ): nhà bếp<br>台風 (たいふう): cơn bão</p>",
+      "content_text": "JLPT N4\n台所 (だいどころ): nhà bếp\n台風 (たいふう): cơn bão",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "158684",
+      "lang": "vi",
+      "content_html": "<p>何台（なんだい）: mấy cái (máy móc, xe cộ)</p><p>Trả lời: số đếm + 台（だい）(không có cách đọc ngoại lệ)</p>",
+      "content_text": "何台（なんだい）: mấy cái (máy móc, xe cộ)\nTrả lời: số đếm + 台（だい）(không có cách đọc ngoại lệ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

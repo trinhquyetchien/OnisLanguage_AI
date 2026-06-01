@@ -1,0 +1,88 @@
+{
+  "kanji": "意",
+  "meta": {
+    "weight": 998,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [],
+    "am_han": "Ý"
+  },
+  "meaning": {
+    "vi": "ý nghĩa, ý kiến",
+    "en": "idea, mind, heart, taste, thought, desire, care, liking"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/意.svg"
+  },
+  "frequency": 99,
+  "examples": [
+    "意味",
+    "意見",
+    "意識",
+    "注意",
+    "用意"
+  ],
+  "explanation": {
+    "id": "143",
+    "text": "意 (đọc là \"i\") có nghĩa là \"ý nghĩa\", \"suy nghĩ\" hoặc \"ý chí\" để chỉ các khái niệm liên quan đến tâm trí, ý tưởng và cảm xúc.  \nVí dụ:  \n- 意味 (imi): Ý nghĩa, nghĩa.  \n- 意志 (ishi): Ý chí, quy"
+  },
+  "comments": [
+    {
+      "id": "191026",
+      "lang": "vi",
+      "content_html": "<p><strong>ý kiến</strong> - 意見</p>",
+      "content_text": "ý kiến\n- 意見",
+      "image_url": "https://jpdictionary.com/upload/images/648a8f9154fb9.jpg",
+      "image_path": "assets/images/意_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36924",
+      "lang": "vi",
+      "content_html": "<p>Lắng nghe âm thanh (音) của trái tim (心) để hiểu <strong>ý</strong> của chính mình.</p>",
+      "content_text": "Lắng nghe âm thanh (音) của trái tim (心) để hiểu\ný\ncủa chính mình.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4215c7565.jpg",
+      "image_path": "assets/images/意_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153659",
+      "lang": "vi",
+      "content_html": "<p>Phật quan ÂM từ bi sẽ ban cho người có TÂM mọi điều như Ý</p>",
+      "content_text": "Phật quan ÂM từ bi sẽ ban cho người có TÂM mọi điều như Ý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

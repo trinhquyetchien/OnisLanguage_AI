@@ -1,0 +1,90 @@
+{
+  "kanji": "謝",
+  "meta": {
+    "weight": 2522,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "あやま.る"
+    ],
+    "am_han": "TẠ"
+  },
+  "meaning": {
+    "vi": "xin lỗi, cảm ơn, từ chối",
+    "en": "apologize, thank, refuse"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/謝.svg"
+  },
+  "frequency": 1028,
+  "examples": [
+    "感謝",
+    "謝罪",
+    "代謝",
+    "慰謝",
+    "謝る"
+  ],
+  "explanation": {
+    "id": "3351",
+    "text": "謝 (đọc là \"sha\" hoặc \"ayamaru\") có nghĩa là \"cảm ơn\", \"xin lỗi\", thường được sử dụng để diễn tả lòng biết ơn hoặc sự xin lỗi. \n\nVí dụ:\n- 謝罪 (shazai): Xin lỗi, lời xin lỗi.\n- 感謝 (kansha): Biế"
+  },
+  "comments": [
+    {
+      "id": "156993",
+      "lang": "vi",
+      "content_html": "<p>NÓI với bản THÂN rằng: dù có THỐN cũng phải cảm TẠ ...</p>",
+      "content_text": "NÓI với bản THÂN rằng: dù có THỐN cũng phải cảm TẠ ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156994",
+      "lang": "vi",
+      "content_html": "<p>Nói với Xạ thủ có Thân hình rất Thốn lời đa TẠ rằng: Ayamaru.</p>",
+      "content_text": "Nói với Xạ thủ có Thân hình rất Thốn lời đa TẠ rằng: Ayamaru.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156995",
+      "lang": "vi",
+      "content_html": "<p>Ngôn từ đa tạ xạ thủ</p>",
+      "content_text": "Ngôn từ đa tạ xạ thủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

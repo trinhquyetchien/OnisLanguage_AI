@@ -1,0 +1,88 @@
+{
+  "kanji": "髄",
+  "meta": {
+    "weight": 2963,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ズイ"
+    ],
+    "kun": [],
+    "am_han": "TỦY"
+  },
+  "meaning": {
+    "vi": "tủy, cốt lõi, bản chất",
+    "en": "marrow, pith, essence"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/髄.svg"
+  },
+  "frequency": 1652,
+  "examples": [
+    "骨髄",
+    "脊髄",
+    "真髄",
+    "髄",
+    "神髄"
+  ],
+  "explanation": {
+    "id": "4247",
+    "text": "髄 (đọc là \"zui\") có nghĩa là \"tuỷ\", chỉ các phần bên trong, đặc biệt là tuỷ xương hoặc các loại tuỷ khác trong cơ thể.  \nVí dụ:  \n- 脊髄 (sekizui): Tuỷ sống.  \n- 髄膜 (zuimaku): Màng não.  \n- 骨髄"
+  },
+  "comments": [
+    {
+      "id": "158011",
+      "lang": "vi",
+      "content_html": "<p>Xương có đường dẫn bên trong là tuỷ</p>",
+      "content_text": "Xương có đường dẫn bên trong là tuỷ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158012",
+      "lang": "vi",
+      "content_html": "<p>Xương cốt đường nào cũng có T\u001dỦY</p>",
+      "content_text": "Xương cốt đường nào cũng có T\u001dỦY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158013",
+      "lang": "vi",
+      "content_html": "<p>TỦY muốn thay được Cốt lõi là có bạn Hữu đưa đường Dẫn lối đến người hiến Xương Tuỷ.</p>",
+      "content_text": "TỦY muốn thay được Cốt lõi là có bạn Hữu đưa đường Dẫn lối đến người hiến Xương Tuỷ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

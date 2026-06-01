@@ -1,0 +1,90 @@
+{
+  "kanji": "暑",
+  "meta": {
+    "weight": 1246,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショ"
+    ],
+    "kun": [
+      "あつ.い"
+    ],
+    "am_han": "THỬ"
+  },
+  "meaning": {
+    "vi": "oi bức, nóng nực, oi bức mùa hè",
+    "en": "sultry, hot, summer heat"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/暑.svg"
+  },
+  "frequency": 1442,
+  "examples": [
+    "暑い",
+    "暑",
+    "猛暑",
+    "蒸し暑い",
+    "残暑"
+  ],
+  "explanation": {
+    "id": "20315",
+    "text": "暑 (đọc là \"shinji\") có nghĩa là \"thân thiết\", \"yêu thương\" để chỉ các mối quan hệ gần gũi, ấm áp giữa con người.  \nVí dụ:  \n- 親しみ (shitashimi): Sự thân thiết, gần gũi.  \n- 親切 (shinsetsu): Tố"
+  },
+  "comments": [
+    {
+      "id": "1033",
+      "lang": "vi",
+      "content_html": "<p>Người (者) đứng dưới mặt trời (日) sẽ thấy <strong>nóng</strong>.</p>",
+      "content_text": "Người (者) đứng dưới mặt trời (日) sẽ thấy\nnóng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62a1e06b01b10.png",
+      "image_path": "assets/images/暑_1.png",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191053",
+      "lang": "vi",
+      "content_html": "<p><strong>nóng</strong></p>",
+      "content_text": "nóng",
+      "image_url": "https://jpdictionary.com/upload/images/648a9289f3700.jpg",
+      "image_path": "assets/images/暑_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "154268",
+      "lang": "vi",
+      "content_html": "<p>Học GIẢ thử đứng dưới ánh nắng MẶT TRỜI với để xem có nóng k</p>",
+      "content_text": "Học GIẢ thử đứng dưới ánh nắng MẶT TRỜI với để xem có nóng k",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

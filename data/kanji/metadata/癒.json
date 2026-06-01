@@ -1,0 +1,91 @@
+{
+  "kanji": "癒",
+  "meta": {
+    "weight": 1815,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユ"
+    ],
+    "kun": [
+      "い.える",
+      "いや.す",
+      "い.やす"
+    ],
+    "am_han": "DŨ"
+  },
+  "meaning": {
+    "vi": "chữa lành, chữa khỏi, làm dịu (khát), tàn phá",
+    "en": "healing, cure, quench (thirst), wreak"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/癒.svg"
+  },
+  "frequency": 1667,
+  "examples": [
+    "癒し",
+    "治癒",
+    "癒着",
+    "癒す"
+  ],
+  "explanation": {
+    "id": "7725",
+    "text": "癒 (đọc là \"yu\") có nghĩa là \"chữa lành\", \"hồi phục\" để chỉ các hành động liên quan đến việc điều trị hoặc làm giảm đau đớn về thể chất và tinh thần.\n\nVí dụ:\n- 癒し (iyashi): Sự chữa lành, sự a"
+  },
+  "comments": [
+    {
+      "id": "155485",
+      "lang": "vi",
+      "content_html": "<p>Bệnh chữa ở trong tâm dưới mái nhà dùng dao mổ xẻ thịt</p>",
+      "content_text": "Bệnh chữa ở trong tâm dưới mái nhà dùng dao mổ xẻ thịt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155486",
+      "lang": "vi",
+      "content_html": "<p>Bệnh tật để tim trước nhà Dũ cái là khỏi HẲN</p>",
+      "content_text": "Bệnh tật để tim trước nhà Dũ cái là khỏi HẲN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155487",
+      "lang": "vi",
+      "content_html": "<p>疒 NẠCH 兪 DU 心 TÂM - tâm 心 bệnh 疒 là phải du 兪 ngoạn mới mong (DŨ) bỏ được</p>",
+      "content_text": "疒 NẠCH 兪 DU 心 TÂM - tâm 心 bệnh 疒 là phải du 兪 ngoạn mới mong (DŨ) bỏ được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

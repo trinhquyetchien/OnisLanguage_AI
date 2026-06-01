@@ -1,0 +1,85 @@
+{
+  "kanji": "渥",
+  "meta": {
+    "weight": 1576,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アク"
+    ],
+    "kun": [
+      "あつ.い",
+      "うるお.う"
+    ],
+    "am_han": "ÁC"
+  },
+  "meaning": {
+    "vi": "lòng tốt, làm ẩm",
+    "en": "kindness, moisten"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/渥.svg"
+  },
+  "frequency": 2257,
+  "examples": [],
+  "explanation": {
+    "id": "39",
+    "text": "渥 (đọc là \"aku\") có nghĩa là \"ẩm ướt\", \"dưỡng ẩm\" để chỉ trạng thái hoặc hành động liên quan đến việc làm cho cái gì đó ẩm hoặc được nuôi dưỡng.\n\nVí dụ:\n- 渥水 (akusui): Nước ẩm, nước với độ ẩ"
+  },
+  "comments": [
+    {
+      "id": "154981",
+      "lang": "vi",
+      "content_html": "<p>cho nước vào con ỐC là độc ÁC</p>",
+      "content_text": "cho nước vào con ỐC là độc ÁC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154982",
+      "lang": "vi",
+      "content_html": "<p>Phòng ỐC bị NƯỚC thấm lầy lội, bẩn thỉu như vùng ÁC ĐỊA(渥地), vùng đầm lầy</p>",
+      "content_text": "Phòng ỐC bị NƯỚC thấm lầy lội, bẩn thỉu như vùng ÁC ĐỊA(渥地), vùng đầm lầy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154983",
+      "lang": "vi",
+      "content_html": "<p>Nước tràn vào nhà=&#62;ẩm ướt</p>",
+      "content_text": "Nước tràn vào nhà=>ẩm ướt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "kanji": "只",
+  "meta": {
+    "weight": 435,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "ただ"
+    ],
+    "am_han": "CHÍCH"
+  },
+  "meaning": {
+    "vi": "duy nhất, miễn phí, ngoài ra",
+    "en": "only, free, in addition"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/只.svg"
+  },
+  "frequency": 2288,
+  "examples": [
+    "只今",
+    "只"
+  ],
+  "explanation": {
+    "id": "5066",
+    "text": "只 (đọc là \"shi\" hoặc \"tada\") có nghĩa là \"chỉ\", \"đơn giản\" để chỉ sự hạn chế, chỉ ra một điều cụ thể hoặc đơn lẻ.  \nVí dụ:  \n- 只今 (ima): Hiện tại, ngay bây giờ.  \n- 只是 (tada): Chỉ, chỉ là.  "
+  },
+  "comments": [
+    {
+      "id": "152274",
+      "lang": "vi",
+      "content_html": "<p>có 8 người thì mỗi người cũng chỉ có duy nhất 1 cái miệng mà thôi</p>",
+      "content_text": "có 8 người thì mỗi người cũng chỉ có duy nhất 1 cái miệng mà thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152275",
+      "lang": "vi",
+      "content_html": "<p>Dưới miệng CHỈ có 2 cộng râu</p>",
+      "content_text": "Dưới miệng CHỈ có 2 cộng râu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152276",
+      "lang": "vi",
+      "content_html": "<p>Cái miệng chỉ thích có 2 chân</p>",
+      "content_text": "Cái miệng chỉ thích có 2 chân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

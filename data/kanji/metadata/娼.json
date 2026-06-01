@@ -1,0 +1,52 @@
+{
+  "kanji": "娼",
+  "meta": {
+    "weight": 677,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "あそびめ"
+    ],
+    "am_han": "XƯỚNG"
+  },
+  "meaning": {
+    "vi": "gái điếm",
+    "en": "prostitute"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/娼.svg"
+  },
+  "frequency": 2242,
+  "examples": [
+    "娼婦"
+  ],
+  "explanation": {
+    "id": "3779",
+    "text": "娼 (đọc là \"shō\") có nghĩa là \"gái mại dâm\" hoặc \"người hành nghề mại dâm\". \n\nVí dụ:\n- 娼婦 (shōfu): Gái điếm, gái mại dâm.\n- 娼家 (shōka): Nhà chứa, cơ sở mại dâm. \n- 娼妓 (shōgi): Mại dâm, gái mạ"
+  },
+  "comments": [
+    {
+      "id": "152854",
+      "lang": "vi",
+      "content_html": "<p>ngày ngày có gái thì xướng.</p>",
+      "content_text": "ngày ngày có gái thì xướng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

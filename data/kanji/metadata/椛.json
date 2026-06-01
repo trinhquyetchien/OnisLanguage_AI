@@ -1,0 +1,31 @@
+{
+  "kanji": "椛",
+  "meta": {
+    "weight": 1387,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "かば",
+      "もみじ"
+    ],
+    "am_han": "HOA"
+  },
+  "meaning": {
+    "vi": "tán lá mùa thu, bạch dương, phong, (kokuji)",
+    "en": "autumn foliage, birch, maple, (kokuji)"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/椛.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1010",
+    "text": "椛 (đọc là \"ka\") có nghĩa là \"cây phong\" hoặc chỉ các loại cây có lá giống như cây phong. \n\nVí dụ:\n- 椛葉 (kabaha): Lá cây phong.\n- 椛の木 (ka no ki): Cây phong.\n- 椛紅葉 (kakōyō): Sắc đỏ của lá phon"
+  },
+  "comments": []
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "族",
+  "meta": {
+    "weight": 1206,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゾク"
+    ],
+    "kun": [],
+    "am_han": "TỘC"
+  },
+  "meaning": {
+    "vi": "gia tộc, dân tộc",
+    "en": "tribe, family"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/族.svg"
+  },
+  "frequency": 393,
+  "examples": [
+    "家族",
+    "民族",
+    "族",
+    "遺族",
+    "貴族"
+  ],
+  "explanation": {
+    "id": "4815",
+    "text": "族 (đọc là \"zoku\") có nghĩa là \"tộc\", \"gia tộc\", chỉ các nhóm người có quan hệ huyết thống hoặc văn hóa chung. \n\nVí dụ:\n- 家族 (kazoku): Gia đình.\n- 民族 (minzoku): Dân tộc, chủng tộc.\n- 族長 (zoku"
+  },
+  "comments": [
+    {
+      "id": "191042",
+      "lang": "vi",
+      "content_html": "<p>bộ <strong>tộc </strong>mixi</p><p>tộc: nhóm</p>",
+      "content_text": "bộ\ntộc\nmixi\ntộc: nhóm",
+      "image_url": "https://jpdictionary.com/upload/images/648a917655a5a.jpg",
+      "image_path": "assets/images/族_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "933",
+      "lang": "vi",
+      "content_html": "<p>Dưới lá cờ, mọi người sẽ bảo vệ<strong> gia đình</strong> họ bằng mũi tên (矢).</p>",
+      "content_text": "Dưới lá cờ, mọi người sẽ bảo vệ\ngia đình\nhọ bằng mũi tên (矢).",
+      "image_url": "https://jpdictionary.com/upload/images/6298c71535554.jpg",
+      "image_path": "assets/images/族_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154169",
+      "lang": "vi",
+      "content_html": "<p>NẰM bắn TÊN là PHƯƠNG pháp của gia TỘC.</p>",
+      "content_text": "NẰM bắn TÊN là PHƯƠNG pháp của gia TỘC.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "欄",
+  "meta": {
+    "weight": 1437,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ラン"
+    ],
+    "kun": [
+      "てすり"
+    ],
+    "am_han": "LAN"
+  },
+  "meaning": {
+    "vi": "cột, lan can, trống, không gian",
+    "en": "column, handrail, blank, space"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/欄.svg"
+  },
+  "frequency": 1523,
+  "examples": [
+    "欄",
+    "空欄",
+    "本欄"
+  ],
+  "explanation": {
+    "id": "7981",
+    "text": "欄 (đọc là \"ran\") có nghĩa là \"cột\", \"mục\" hoặc \"khung\" để chỉ các phần trong bảng, danh sách hoặc không gian phân chia.  \nVí dụ:  \n- 欄干 (rankan): Lan can, rào chắn.  \n- 目欄 (moku-ran): Mục tr"
+  },
+  "comments": [
+    {
+      "id": "154637",
+      "lang": "vi",
+      "content_html": "<p>Trồng Cây ngoài cửa để thi thoảng ra ngoài LAN can ngắm MẶT Trời mọc</p>",
+      "content_text": "Trồng Cây ngoài cửa để thi thoảng ra ngoài LAN can ngắm MẶT Trời mọc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154638",
+      "lang": "vi",
+      "content_html": "<p>chặt CÂY để làm CỬA và LAN can ở phía ĐÔNG...</p>",
+      "content_text": "chặt CÂY để làm CỬA và LAN can ở phía ĐÔNG...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154639",
+      "lang": "vi",
+      "content_html": "<p>đặt cây ở cửa phía đông để làm lan can</p>",
+      "content_text": "đặt cây ở cửa phía đông để làm lan can",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

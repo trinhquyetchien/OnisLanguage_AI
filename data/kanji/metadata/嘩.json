@@ -1,0 +1,85 @@
+{
+  "kanji": "嘩",
+  "meta": {
+    "weight": 519,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "ケ"
+    ],
+    "kun": [
+      "かまびす.しい"
+    ],
+    "am_han": "HOA"
+  },
+  "meaning": {
+    "vi": "ồn ào",
+    "en": "noisy"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/嘩.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "698",
+    "text": "嘩 (đọc là \"ka\") có nghĩa là \"ồn ào\", \"làm ầm ĩ\" để chỉ các tình huống gây ra tiếng ồn hoặc náo động.\n\nVí dụ:\n- 嘩喧騒 (kakasou): Sự ồn ào, huyên náo.\n- 嘩々 (kagagata): Tiếng kêu, tiếng la hét.\n-"
+  },
+  "comments": [
+    {
+      "id": "219154",
+      "lang": "vi",
+      "content_html": "<p>MIỆNG lưỡi ba HOA chích choè</p>",
+      "content_text": "MIỆNG lưỡi ba HOA chích choè",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219155",
+      "lang": "vi",
+      "content_html": "<p>Hoa hay MIỆNG lưỡi ba HOA chích choè.</p>",
+      "content_text": "Hoa hay MIỆNG lưỡi ba HOA chích choè.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219156",
+      "lang": "vi",
+      "content_html": "<p>Người hoa chỉ võ mồm</p>",
+      "content_text": "Người hoa chỉ võ mồm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

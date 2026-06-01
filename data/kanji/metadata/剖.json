@@ -1,0 +1,84 @@
+{
+  "kanji": "剖",
+  "meta": {
+    "weight": 331,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [],
+    "am_han": "PHẨU"
+  },
+  "meaning": {
+    "vi": "chia",
+    "en": "divide"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/剖.svg"
+  },
+  "frequency": 1918,
+  "examples": [
+    "解剖"
+  ],
+  "explanation": {
+    "id": "7250",
+    "text": "剖 (đọc là \"bō\") có nghĩa là \"mổ xẻ\", \"phân chia\" để chỉ hành động mổ hoặc cắt một vật gì đó ra thành nhiều phần.\nVí dụ:\n- 剖析 (bōsaku): Phân tích, mổ xẻ vấn đề.\n- 剖検 (bōken): Khám nghiệm, mổ "
+  },
+  "comments": [
+    {
+      "id": "152031",
+      "lang": "vi",
+      "content_html": "<p>phẫu thuật phải cầm đao đứng và nói</p>",
+      "content_text": "phẫu thuật phải cầm đao đứng và nói",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152032",
+      "lang": "vi",
+      "content_html": "<p>Chém nhiều hơn bội lần mà không bị tội là Giải Phẫu</p>",
+      "content_text": "Chém nhiều hơn bội lần mà không bị tội là Giải Phẫu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152033",
+      "lang": "vi",
+      "content_html": "<p>Dùng dao giải phẫu vị trí miệng</p>",
+      "content_text": "Dùng dao giải phẫu vị trí miệng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

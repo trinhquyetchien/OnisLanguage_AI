@@ -1,0 +1,124 @@
+{
+  "kanji": "握",
+  "meta": {
+    "weight": 1135,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アク"
+    ],
+    "kun": [
+      "にぎ.る"
+    ],
+    "am_han": "ÁC"
+  },
+  "meaning": {
+    "vi": "nắm, giữ, khuôn sushi, hối lộ",
+    "en": "grip, hold, mould sushi, bribe"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/握.svg"
+  },
+  "frequency": 1003,
+  "examples": [
+    "把握",
+    "握り",
+    "握手",
+    "握る",
+    "掌握"
+  ],
+  "explanation": {
+    "id": "36",
+    "text": "握 (đọc là \"aku\") có nghĩa là \"nắm\", \"cầm\" để chỉ các hành động liên quan đến việc nắm giữ hoặc cầm nắm vật gì đó.\n\nVí dụ:\n- 握手 (akushu): Bắt tay.\n- 握る (nigiru): Nắm, cầm.\n- 握力 (akuriyoku): S"
+  },
+  "comments": [
+    {
+      "id": "153995",
+      "lang": "vi",
+      "content_html": "<p>Chạy vào phòng ốc nắm chặt bàn tay để kìm nén mặt ác trong cong người.</p>",
+      "content_text": "Chạy vào phòng ốc nắm chặt bàn tay để kìm nén mặt ác trong cong người.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153996",
+      "lang": "vi",
+      "content_html": "<p>kẻ Ác trong Tay luôn Nắm giữ nhiều toà cao Ốc</p>",
+      "content_text": "kẻ Ác trong Tay luôn Nắm giữ nhiều toà cao Ốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222488",
+      "lang": "vi",
+      "content_html": "<p>Tay giữ ỐC thì ÁC</p>",
+      "content_text": "Tay giữ ỐC thì ÁC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5155",
+        "name": "Doan The Anh (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/66e4a5e9678a0.png"
+      }
+    },
+    {
+      "id": "153997",
+      "lang": "vi",
+      "content_html": "<p>dùng Tay Cầm cả toà cao Ốc thì chú mày Ác rồi. nể</p>",
+      "content_text": "dùng Tay Cầm cả toà cao Ốc thì chú mày Ác rồi. nể",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221616",
+      "lang": "vi",
+      "content_html": "<p>Nắm tay nhau vào phòng thì ác quá :)))</p>",
+      "content_text": "Nắm tay nhau vào phòng thì ác quá :)))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "777",
+        "name": "Hai Nguyen",
+        "image_url": "https://jpdictionary.com/upload/images/63feeeea6213b.png"
+      }
+    }
+  ]
+}

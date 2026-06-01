@@ -1,0 +1,89 @@
+{
+  "kanji": "槽",
+  "meta": {
+    "weight": 1414,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "ふね"
+    ],
+    "am_han": "TÀO"
+  },
+  "meaning": {
+    "vi": "thùng, bồn, bể",
+    "en": "vat, tub, tank"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/槽.svg"
+  },
+  "frequency": 1809,
+  "examples": [
+    "水槽",
+    "浴槽",
+    "槽",
+    "浄化槽"
+  ],
+  "explanation": {
+    "id": "4726",
+    "text": "槽 (đọc là \"sou\") có nghĩa là \"bể\", \"thùng chứa\" để chỉ những vật dùng để chứa hoặc lưu trữ chất lỏng, thường là trong các hoạt động nông nghiệp hoặc sản xuất.\n\nVí dụ:\n- 槽水 (sou mizu): Nước t"
+  },
+  "comments": [
+    {
+      "id": "154601",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa bể nước làm bằng gỗ sau 1 ngày đục đẽo ra được bể chửa 6 ngăn</p>",
+      "content_text": "Thời xưa bể nước làm bằng gỗ sau 1 ngày đục đẽo ra được bể chửa 6 ngăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154602",
+      "lang": "vi",
+      "content_html": "<p>tào tháo dùng cây làm cái máng</p>",
+      "content_text": "tào tháo dùng cây làm cái máng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154603",
+      "lang": "vi",
+      "content_html": "<p>bị TÀO 曹 THÁO đuổi,chạy đến gốc CÂY 木 bậy vào vào cái MÁNG</p>",
+      "content_text": "bị TÀO 曹 THÁO đuổi,chạy đến gốc CÂY 木 bậy vào vào cái MÁNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

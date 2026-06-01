@@ -1,0 +1,90 @@
+{
+  "kanji": "岩",
+  "meta": {
+    "weight": 791,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガン"
+    ],
+    "kun": [
+      "いわ"
+    ],
+    "am_han": "NHAM"
+  },
+  "meaning": {
+    "vi": "đá, nham thạch",
+    "en": "boulder, rock, cliff"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/岩.svg"
+  },
+  "frequency": 787,
+  "examples": [
+    "岩",
+    "岩手",
+    "岩石",
+    "岩盤",
+    "岩場"
+  ],
+  "explanation": {
+    "id": "1222",
+    "text": "岩 (đọc là \"gan\" hoặc \"iwa\") có nghĩa là \"đá\", chỉ các khối đá lớn hoặc địa hình đá. \n\nVí dụ:\n- 岩石 (ganseki): Đá, khoáng sản.\n- 岩場 (iwaba): Khu vực có nhiều đá.\n- 岩山 (iwayama): Núi đá."
+  },
+  "comments": [
+    {
+      "id": "153140",
+      "lang": "vi",
+      "content_html": "<p>Đá ở dưới núi là dung nham hoá thạch</p>",
+      "content_text": "Đá ở dưới núi là dung nham hoá thạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153141",
+      "lang": "vi",
+      "content_html": "<p>đá dưới núi là nham thạch</p>",
+      "content_text": "đá dưới núi là nham thạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153142",
+      "lang": "vi",
+      "content_html": "<p>Núi Đá hình thành từ NHAM thạch</p>",
+      "content_text": "Núi Đá hình thành từ NHAM thạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

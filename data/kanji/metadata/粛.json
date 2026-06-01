@@ -1,0 +1,91 @@
+{
+  "kanji": "粛",
+  "meta": {
+    "weight": 2032,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュク",
+      "スク"
+    ],
+    "kun": [
+      "つつし.む"
+    ],
+    "am_han": "TÚC"
+  },
+  "meaning": {
+    "vi": "trang trọng, lặng lẽ, nhẹ nhàng",
+    "en": "solemn, quietly, softly"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/粛.svg"
+  },
+  "frequency": 1549,
+  "examples": [
+    "自粛",
+    "粛清",
+    "厳粛",
+    "粛正",
+    "静粛"
+  ],
+  "explanation": {
+    "id": "3599",
+    "text": "粛 (đọc là \"shuku\") có nghĩa là \"kiềm chế\", \"trang nghiêm\" để chỉ việc giữ gìn trật tự, tôn trọng hoặc làm cho không khí trở nên nghiêm túc.\n\nVí dụ:\n- 粛清 (shukusei): Cuộc thanh trừng, loại bỏ"
+  },
+  "comments": [
+    {
+      "id": "155943",
+      "lang": "vi",
+      "content_html": "<p>Tay làm lúa bên sông phải cực kì nghiêm túc</p>",
+      "content_text": "Tay làm lúa bên sông phải cực kì nghiêm túc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155944",
+      "lang": "vi",
+      "content_html": "<p>Tượng hình: Bàn tay cầm trục cối xoay vòng tròn để giã gạo (xem phim trung quốc nhiều sẽ biết), việc làm này phải thật nghiêm túc mới ra gạo tốt được</p>",
+      "content_text": "Tượng hình: Bàn tay cầm trục cối xoay vòng tròn để giã gạo (xem phim trung quốc nhiều sẽ biết), việc làm này phải thật nghiêm túc mới ra gạo tốt được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155945",
+      "lang": "vi",
+      "content_html": "<p>Nghiêm TÚC gặt Lúa bên sông</p>",
+      "content_text": "Nghiêm TÚC gặt Lúa bên sông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

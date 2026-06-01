@@ -1,0 +1,56 @@
+{
+  "kanji": "粥",
+  "meta": {
+    "weight": 2034,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イク",
+      "シュク",
+      "ジュク"
+    ],
+    "kun": [
+      "かゆ",
+      "かい",
+      "ひさ.ぐ"
+    ],
+    "am_han": "CHÚC, DỤC"
+  },
+  "meaning": {
+    "vi": "gạo xay",
+    "en": "rice gruel"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/粥.svg"
+  },
+  "frequency": 2280,
+  "examples": [
+    "粥"
+  ],
+  "explanation": {
+    "id": "1044",
+    "text": "粥 (đọc là \"kayu\") có nghĩa là \"cháo\", chỉ món ăn được nấu từ gạo và nước, thường rất mềm và dễ tiêu hóa.  \nVí dụ:  \n- お粥 (okayu): Cháo (thường dùng trong bữa ăn hoặc khi ốm).  \n- 粥屋 (kayuya)"
+  },
+  "comments": [
+    {
+      "id": "155948",
+      "lang": "vi",
+      "content_html": "<p>ép gạo 米 ở giữa cho nó mềm nhuyễn(yếu) 弱い ra thành cháo(CHÚC)</p>",
+      "content_text": "ép gạo 米 ở giữa cho nó mềm nhuyễn(yếu) 弱い ra thành cháo(CHÚC)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

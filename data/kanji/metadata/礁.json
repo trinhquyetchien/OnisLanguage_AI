@@ -1,0 +1,87 @@
+{
+  "kanji": "礁",
+  "meta": {
+    "weight": 1894,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "TIỀU"
+  },
+  "meaning": {
+    "vi": "đá ngầm, đá chìm",
+    "en": "reef, sunken rock"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/礁.svg"
+  },
+  "frequency": 1977,
+  "examples": [
+    "珊瑚礁",
+    "座礁",
+    "サンゴ礁",
+    "暗礁"
+  ],
+  "explanation": {
+    "id": "3880",
+    "text": "礁 (đọc là \"shō\") có nghĩa là \"đá ngầm\" hoặc \"rặng san hô\", chỉ các cấu trúc đá dưới nước có thể gây nguy hiểm cho tàu thuyền.  \nVí dụ:  \n- 珊瑚礁 (sango-shō): Rặng san hô.  \n- 礁石 (shōseki): Đá "
+  },
+  "comments": [
+    {
+      "id": "155668",
+      "lang": "vi",
+      "content_html": "<p>Lấy đá ngầm đanh lửa nướng chim</p>",
+      "content_text": "Lấy đá ngầm đanh lửa nướng chim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155669",
+      "lang": "vi",
+      "content_html": "<p>Chim mọc lông đập vào đá trở nên tiều tuỵ</p>",
+      "content_text": "Chim mọc lông đập vào đá trở nên tiều tuỵ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155670",
+      "lang": "vi",
+      "content_html": "<p>TIÊU hoá BÃI ĐÁ hoá TIỀU</p>",
+      "content_text": "TIÊU hoá BÃI ĐÁ hoá TIỀU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

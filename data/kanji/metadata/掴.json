@@ -1,0 +1,86 @@
+{
+  "kanji": "掴",
+  "meta": {
+    "weight": 1127,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク"
+    ],
+    "kun": [
+      "つか.む",
+      "つか.まえる",
+      "つか.まる"
+    ],
+    "am_han": "QUẶC, QUẮC, QUÁCH, QUỐC"
+  },
+  "meaning": {
+    "vi": "bắt, nắm bắt, giữ, bắt giữ",
+    "en": "catch, seize, grasp, hold, arrest, capture"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/掴.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5470",
+    "text": "掴 (đọc là \"tsukamu\") có nghĩa là \"nắm bắt\", \"bắt lấy\" để chỉ hành động nắm hoặc giữ một vật gì đó.  \nVí dụ:  \n- 掴む (tsukamu): Nắm bắt, bắt lấy.  \n- 掴み取る (tsukamitoru): Nắm lấy và giữ chặt, c"
+  },
+  "comments": [
+    {
+      "id": "219633",
+      "lang": "vi",
+      "content_html": "<p>Bàn Tay kì QUẶC nắm giữ tổ Quốc</p>",
+      "content_text": "Bàn Tay kì QUẶC nắm giữ tổ Quốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219634",
+      "lang": "vi",
+      "content_html": "<p>Bắt lấy kẻ trộm ngọc của quốc gia</p>",
+      "content_text": "Bắt lấy kẻ trộm ngọc của quốc gia",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219635",
+      "lang": "vi",
+      "content_html": "<p>tuyển THỦ QUỐC gia mà lại hành động kì QUẶC vậy</p>",
+      "content_text": "tuyển THỦ QUỐC gia mà lại hành động kì QUẶC vậy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

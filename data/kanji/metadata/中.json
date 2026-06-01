@@ -1,0 +1,92 @@
+{
+  "kanji": "中",
+  "meta": {
+    "weight": 89,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "なか",
+      "うち",
+      "あた.る"
+    ],
+    "am_han": "TRUNG"
+  },
+  "meaning": {
+    "vi": "trung tâm, trung gian",
+    "en": "in, inside, middle, mean, center"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/中.svg"
+  },
+  "frequency": 11,
+  "examples": [
+    "中",
+    "中国",
+    "中心",
+    "途中",
+    "中央"
+  ],
+  "explanation": {
+    "id": "5268",
+    "text": "中 (đọc là \"naka\" hoặc \"chū\") có nghĩa là \"trong\", \"giữa\", thể hiện sự ở giữa hoặc trung tâm của một cái gì đó. \n\nVí dụ:\n- 中学校 (chūgakkō): Trường trung học cơ sở.\n- 中心 (chūshin): Trung tâm, đ"
+  },
+  "comments": [
+    {
+      "id": "511",
+      "lang": "vi",
+      "content_html": "<p>Chỗ này ở chính <strong>giữa </strong>vòng tròn</p>",
+      "content_text": "Chỗ này ở chính\ngiữa\nvòng tròn",
+      "image_url": "https://jpdictionary.com/upload/images/6297671a8b11d.jpg",
+      "image_path": "assets/images/中_1.jpg",
+      "audio": null,
+      "like": 12,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190862",
+      "lang": "vi",
+      "content_html": "<p><strong>trung tâm</strong></p>",
+      "content_text": "trung tâm",
+      "image_url": "https://jpdictionary.com/upload/images/648a5f3a50fc6.jpg",
+      "image_path": "assets/images/中_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158219",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5:</p><p>中 (なか): ở giữa</p><p>中学校 (ちゅうがっこう): trường cấp 2</p><p>中学生 (ちゅうがくせい): học sinh cấp 2</p>",
+      "content_text": "JLPT N5:\n中 (なか): ở giữa\n中学校 (ちゅうがっこう): trường cấp 2\n中学生 (ちゅうがくせい): học sinh cấp 2",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

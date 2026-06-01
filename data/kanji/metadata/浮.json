@@ -1,0 +1,110 @@
+{
+  "kanji": "浮",
+  "meta": {
+    "weight": 1543,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "う.く",
+      "う.かれる",
+      "う.かぶ",
+      "う.かべる"
+    ],
+    "am_han": "PHÙ"
+  },
+  "meaning": {
+    "vi": "nổi, phù du",
+    "en": "floating, float, rise to surface"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/浮.svg"
+  },
+  "frequency": 776,
+  "examples": [
+    "浮かぶ",
+    "浮気",
+    "浮上",
+    "浮き彫り",
+    "浮遊"
+  ],
+  "explanation": {
+    "id": "6824",
+    "text": "浮 (đọc là \"fu\") có nghĩa là \"nổi\", \"trôi nổi\", chỉ trạng thái không ổn định, hoặc nổi lên trên mặt nước.\nVí dụ:\n- 浮かぶ (ukabu): Nổi lên, trôi nổi.\n- 浮き輪 (ukiwa): Vòng phao.\n- 浮気 (uwaki): Ngoạ"
+  },
+  "comments": [
+    {
+      "id": "154908",
+      "lang": "vi",
+      "content_html": "<p>Túm tóc đứa TRẺ đang phập PHÙ NỔI trên mặt Nước</p>",
+      "content_text": "Túm tóc đứa TRẺ đang phập PHÙ NỔI trên mặt Nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190682",
+      "lang": "vi",
+      "content_html": "<p>Nước cuốn móng tay đứa trẻ nổi lù Phù</p>",
+      "content_text": "Nước cuốn móng tay đứa trẻ nổi lù Phù",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "154909",
+      "lang": "vi",
+      "content_html": "<p>ĐỨA TRẺ bị sưng PHÙ đầu vì gội NƯỚC bẩn</p>",
+      "content_text": "ĐỨA TRẺ bị sưng PHÙ đầu vì gội NƯỚC bẩn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154910",
+      "lang": "vi",
+      "content_html": "<p>phù thủy cào đứa trẻ</p>",
+      "content_text": "phù thủy cào đứa trẻ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

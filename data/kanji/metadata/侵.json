@@ -1,0 +1,90 @@
+{
+  "kanji": "侵",
+  "meta": {
+    "weight": 192,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "おか.す"
+    ],
+    "am_han": "XÂM"
+  },
+  "meaning": {
+    "vi": "xâm phạm, xâm nhập, đột kích, vi phạm",
+    "en": "encroach, invade, raid, trespass, violate"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/侵.svg"
+  },
+  "frequency": 1025,
+  "examples": [
+    "侵害",
+    "侵略",
+    "侵入",
+    "侵攻",
+    "侵食"
+  ],
+  "explanation": {
+    "id": "4054",
+    "text": "侵 (đọc là \"shin\") có nghĩa là \"xâm phạm\", \"xâm lấn\" để chỉ các hành động liên quan đến việc xâm nhập hoặc can thiệp vào lãnh thổ, quyền lợi của người khác.\n\nVí dụ:\n- 侵入 (shinnnyū): Sự xâm nh"
+  },
+  "comments": [
+    {
+      "id": "151671",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI mà k NGỦ (寝) trong nhà dễ bị XÂM hại.</p>",
+      "content_text": "NGƯỜI mà k NGỦ (寝) trong nhà dễ bị XÂM hại.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151672",
+      "lang": "vi",
+      "content_html": "<p>đang ngủ thả tóc buông tay dạng chân mà có ngừoi xâm nhập đứng 1 bên</p>",
+      "content_text": "đang ngủ thả tóc buông tay dạng chân mà có ngừoi xâm nhập đứng 1 bên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151673",
+      "lang": "vi",
+      "content_html": "<p>Bị xâm nhập mất cả nhà để ngủ</p>",
+      "content_text": "Bị xâm nhập mất cả nhà để ngủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

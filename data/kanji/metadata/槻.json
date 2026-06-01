@@ -1,0 +1,50 @@
+{
+  "kanji": "槻",
+  "meta": {
+    "weight": 1413,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "つき"
+    ],
+    "am_han": "QUI, QUY"
+  },
+  "meaning": {
+    "vi": "Cây Zelkova",
+    "en": "Zelkova tree"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/槻.svg"
+  },
+  "frequency": 2008,
+  "examples": [],
+  "explanation": {
+    "id": "5473",
+    "text": "槻 (đọc là \"ki\") có nghĩa là \"cây sồi\" hoặc \"gỗ sồi\", thường chỉ đến loại cây lớn, dùng làm gỗ xây dựng hoặc chế tác đồ nội thất.  \nVí dụ:  \n- 槻の木 (tsuki no ki): Cây sồi.  \n- 槻材 (tsukizai): G"
+  },
+  "comments": [
+    {
+      "id": "154600",
+      "lang": "vi",
+      "content_html": "<p>chữ quy : cây dùng đề làm cây cung</p>",
+      "content_text": "chữ quy : cây dùng đề làm cây cung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

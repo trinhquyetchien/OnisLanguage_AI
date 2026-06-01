@@ -1,0 +1,93 @@
+{
+  "kanji": "病",
+  "meta": {
+    "weight": 1804,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビョウ",
+      "ヘイ"
+    ],
+    "kun": [
+      "や.む",
+      "-や.み",
+      "やまい"
+    ],
+    "am_han": "BỆNH"
+  },
+  "meaning": {
+    "vi": "bệnh",
+    "en": "ill, sick"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/病.svg"
+  },
+  "frequency": 384,
+  "examples": [
+    "病院",
+    "病気",
+    "病",
+    "うつ病",
+    "疾病"
+  ],
+  "explanation": {
+    "id": "6729",
+    "text": "病 (đọc là \"byou\" hoặc \"yamai\") có nghĩa là \"bệnh\" để chỉ các tình trạng sức khỏe không bình thường hoặc bệnh tật.\n\nVí dụ:\n- 病院 (byouin): Bệnh viện.\n- 病気 (byouki): Bệnh, ốm.\n- 疾病 (shippou): B"
+  },
+  "comments": [
+    {
+      "id": "635",
+      "lang": "vi",
+      "content_html": "<p>Người <strong>bệnh </strong>đang ngủ ở bệnh viện.</p>",
+      "content_text": "Người\nbệnh\nđang ngủ ở bệnh viện.",
+      "image_url": "https://jpdictionary.com/upload/images/62978ae9575c1.jpg",
+      "image_path": "assets/images/病_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191127",
+      "lang": "vi",
+      "content_html": "<p><strong>bệnh</strong></p>",
+      "content_text": "bệnh",
+      "image_url": "https://jpdictionary.com/upload/images/648ac4c057ede.jpg",
+      "image_path": "assets/images/病_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158488",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>病気 (びょうき): bệnh</p><p>病院 (びょういん): bệnh viện</p>",
+      "content_text": "JLPT N4\n病気 (びょうき): bệnh\n病院 (びょういん): bệnh viện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

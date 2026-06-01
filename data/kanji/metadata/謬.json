@@ -1,0 +1,69 @@
+{
+  "kanji": "謬",
+  "meta": {
+    "weight": 2524,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビュウ",
+      "ビョウ",
+      "ミュウ"
+    ],
+    "kun": [
+      "あやま.る"
+    ],
+    "am_han": "MẬU"
+  },
+  "meaning": {
+    "vi": "sai lầm, điều sai, ngộ nhận",
+    "en": "mistake"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/謬.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6691",
+    "text": "謬 (đọc là \"byū\") có nghĩa là \"sai lầm\", \"nhầm lẫn\" để chỉ các tình huống hoặc ý kiến không chính xác.\n\nVí dụ:\n- 謬論 (byūron): Lập luận sai lầm, lý lẽ không chính xác.\n- 謬見 (byūken): Quan điểm"
+  },
+  "comments": [
+    {
+      "id": "220723",
+      "lang": "vi",
+      "content_html": "<p>Nói trên trời dưới biển...</p>",
+      "content_text": "Nói trên trời dưới biển...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220724",
+      "lang": "vi",
+      "content_html": "<p>NÓI 2 cánh chim dính nhau như SAM là nói Tầm Bậy</p>",
+      "content_text": "NÓI 2 cánh chim dính nhau như SAM là nói Tầm Bậy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

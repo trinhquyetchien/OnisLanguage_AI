@@ -1,0 +1,86 @@
+{
+  "kanji": "蝶",
+  "meta": {
+    "weight": 2394,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [],
+    "am_han": "ĐIỆP"
+  },
+  "meaning": {
+    "vi": "Con bướm",
+    "en": "butterfly"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/蝶.svg"
+  },
+  "frequency": 2011,
+  "examples": [
+    "蝶",
+    "蝶々",
+    "胡蝶"
+  ],
+  "explanation": {
+    "id": "5389",
+    "text": "蝶 (đọc là \"chō\") có nghĩa là \"bướm\", chỉ loài côn trùng bay màu sắc, thường gắn với vẻ đẹp và sự chuyển động nhẹ nhàng.  \nVí dụ:  \n- 蝶々 (chāchā): Bướm (dạng gọi thân mật).  \n- 蝶形 (chōkei): H"
+  },
+  "comments": [
+    {
+      "id": "156682",
+      "lang": "vi",
+      "content_html": "<p>sau vài thế hệ làm ấu trùng dưới cây, cuối cùng cũng hóa thành bướm</p>",
+      "content_text": "sau vài thế hệ làm ấu trùng dưới cây, cuối cùng cũng hóa thành bướm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156683",
+      "lang": "vi",
+      "content_html": "<p>Bướm là loài côn TRÙNG mà THẾ giới của nó là ở trên CÂY</p>",
+      "content_text": "Bướm là loài côn TRÙNG mà THẾ giới của nó là ở trên CÂY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156684",
+      "lang": "vi",
+      "content_html": "<p>Côn trùng trên thế giới sống trên cây là bướm hồ ĐIỆP</p>",
+      "content_text": "Côn trùng trên thế giới sống trên cây là bướm hồ ĐIỆP",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

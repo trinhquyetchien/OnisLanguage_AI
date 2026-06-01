@@ -1,0 +1,78 @@
+{
+  "kanji": "後",
+  "meta": {
+    "weight": 925,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴ",
+      "コウ"
+    ],
+    "kun": [
+      "のち",
+      "うし.ろ",
+      "うしろ",
+      "あと",
+      "おく.れる"
+    ],
+    "am_han": "HẬU"
+  },
+  "meaning": {
+    "vi": "phía sau, sau đó, hậu quả",
+    "en": "behind, back, later"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/後.svg"
+  },
+  "frequency": 26,
+  "examples": [
+    "後",
+    "最後",
+    "今後",
+    "その後",
+    "午後"
+  ],
+  "explanation": {
+    "id": "2331",
+    "text": "後 (đọc là \"ato\" hoặc \"go\") có nghĩa là \"sau\", \"khi\" để chỉ thời gian hoặc vị trí sau một sự kiện nào đó. \n\nVí dụ:\n- 後ろ (ushiro): Phía sau.\n- 後半 (kouhan): Hiệp 2, nửa sau.\n- 後で (ate de): Sau "
+  },
+  "comments": [
+    {
+      "id": "523",
+      "lang": "vi",
+      "content_html": "<p>Đi bộ trên đường hướng lưng về phía <strong>sau</strong></p>",
+      "content_text": "Đi bộ trên đường hướng lưng về phía\nsau",
+      "image_url": "https://jpdictionary.com/upload/images/629768a01f460.jpg",
+      "image_path": "assets/images/後_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158240",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>後 (あと): sau đó</p><p>後ろ (うしろ): phía sau</p><p>午後 (ごご): buổi chiều</p>",
+      "content_text": "JLPT N5\n後 (あと): sau đó\n後ろ (うしろ): phía sau\n午後 (ごご): buổi chiều",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

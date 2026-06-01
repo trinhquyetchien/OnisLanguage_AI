@@ -1,0 +1,35 @@
+{
+  "kanji": "蝦",
+  "meta": {
+    "weight": 2393,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "ゲ"
+    ],
+    "kun": [
+      "えび"
+    ],
+    "am_han": "HÀ"
+  },
+  "meaning": {
+    "vi": "tôm, tôm hùm",
+    "en": "shrimp, prawn, lobster"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/蝦.svg"
+  },
+  "frequency": 2501,
+  "examples": [
+    "蝦夷"
+  ],
+  "explanation": {
+    "id": "694",
+    "text": "蝦 (đọc là \"ebi\") có nghĩa là \"tôm\", chỉ đến loại hải sản thường được sử dụng trong ẩm thực Nhật Bản.\nVí dụ:\n- 蝦天 (ebiten): Tôm chiên tempura.\n- 蝦刺身 (ebi sashimi): Sashimi tôm sống.\n- 蝦巻き (eb"
+  },
+  "comments": []
+}

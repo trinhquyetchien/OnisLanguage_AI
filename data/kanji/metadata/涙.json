@@ -1,0 +1,90 @@
+{
+  "kanji": "涙",
+  "meta": {
+    "weight": 1549,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ルイ",
+      "レイ"
+    ],
+    "kun": [
+      "なみだ"
+    ],
+    "am_han": "LỆ"
+  },
+  "meaning": {
+    "vi": "nước mắt",
+    "en": "tears, sympathy"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/涙.svg"
+  },
+  "frequency": 1381,
+  "examples": [
+    "涙",
+    "感涙",
+    "涙腺",
+    "涙ぐましい"
+  ],
+  "explanation": {
+    "id": "8194",
+    "text": "涙 (đọc là \"namida\") có nghĩa là \"nước mắt\", chỉ sự biểu hiện cảm xúc qua việc rơi nước mắt.  \nVí dụ:  \n- 涙が出る (namida ga deru): Rơi nước mắt.  \n- 涙声 (namidagoe): Giọng nói nghẹn ngào, rưng r"
+  },
+  "comments": [
+    {
+      "id": "154923",
+      "lang": "vi",
+      "content_html": "<p>Xin HỘ chiếu ở ĐẠI sứ quán mà không được thì LỆ rơi</p>",
+      "content_text": "Xin HỘ chiếu ở ĐẠI sứ quán mà không được thì LỆ rơi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154924",
+      "lang": "vi",
+      "content_html": "<p>Chờ người quay lại trong nước mắt</p>",
+      "content_text": "Chờ người quay lại trong nước mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154925",
+      "lang": "vi",
+      "content_html": "<p>Cánh cửa mở to chờ người quay lại. Người không quay lại ta sầu lệ rơi</p>",
+      "content_text": "Cánh cửa mở to chờ người quay lại. Người không quay lại ta sầu lệ rơi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

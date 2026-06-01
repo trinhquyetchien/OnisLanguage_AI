@@ -1,0 +1,32 @@
+{
+  "kanji": "宋",
+  "meta": {
+    "weight": 708,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [],
+    "am_han": "TỐNG"
+  },
+  "meaning": {
+    "vi": "ngự, triều đại Sung",
+    "en": "dwell, Sung dynasty"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/宋.svg"
+  },
+  "frequency": 2058,
+  "examples": [
+    "宋"
+  ],
+  "explanation": {
+    "id": "4692",
+    "text": "宋 (đọc là \"sō\") có nghĩa là \"triều đại Song\", chỉ về một trong các triều đại lớn trong lịch sử Trung Quốc, và thường được dùng trong các ngữ cảnh lịch sử hoặc văn hóa.\n\nVí dụ:\n- 宋代 (Sōdai): "
+  },
+  "comments": []
+}

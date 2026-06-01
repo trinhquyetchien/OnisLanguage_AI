@@ -1,0 +1,109 @@
+{
+  "kanji": "届",
+  "meta": {
+    "weight": 776,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "とど.ける",
+      "-とど.け",
+      "とど.く"
+    ],
+    "am_han": "GIỚI"
+  },
+  "meaning": {
+    "vi": "tới, đến",
+    "en": "deliver, reach, arrive, report, notify, forward"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/届.svg"
+  },
+  "frequency": 939,
+  "examples": [
+    "届け",
+    "届く",
+    "届",
+    "届出",
+    "届け出"
+  ],
+  "explanation": {
+    "id": "5988",
+    "text": "届 (đọc là \"toki\" hoặc \"kuru\") có nghĩa là \"đến\", \"gửi đến\" để chỉ hành động gửi đi hoặc thông báo. \n\nVí dụ:\n- 届く (todoku): Được gửi đến, đến nơi.\n- 届出 (todoke): Thông báo, khai báo.\n- 届ける (t"
+  },
+  "comments": [
+    {
+      "id": "37103",
+      "lang": "vi",
+      "content_html": "<p>Gói hàng đã được <strong>đưa đến</strong> nhà tôi.</p>",
+      "content_text": "Gói hàng đã được\nđưa đến\nnhà tôi.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb3585344c.jpg",
+      "image_path": "assets/images/届_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153110",
+      "lang": "vi",
+      "content_html": "<p>Anh Thi đã chết Do chuyển GIỚI</p>",
+      "content_text": "Anh Thi đã chết Do chuyển GIỚI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190774",
+      "lang": "vi",
+      "content_html": "<p>thi cử không thể tự do được, phải có Giới luật</p>",
+      "content_text": "thi cử không thể tự do được, phải có Giới luật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "153111",
+      "lang": "vi",
+      "content_html": "<p>nguyên DO tử THI chết phải xuống âm GIỚI</p>",
+      "content_text": "nguyên DO tử THI chết phải xuống âm GIỚI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "kanji": "静",
+  "meta": {
+    "weight": 2880,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ジョウ"
+    ],
+    "kun": [
+      "しず-",
+      "しず.か",
+      "しず.まる",
+      "しず.める"
+    ],
+    "am_han": "TĨNH"
+  },
+  "meaning": {
+    "vi": "yên tĩnh",
+    "en": "quiet"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/静.svg"
+  },
+  "frequency": 764,
+  "examples": [
+    "静か",
+    "冷静",
+    "静岡",
+    "静",
+    "静止"
+  ],
+  "explanation": {
+    "id": "4368",
+    "text": "静 (đọc là \"seik\") có nghĩa là \"yên tĩnh\", \"tĩnh lặng\" để chỉ trạng thái không có tiếng ồn hoặc sự yên bình.\n\nVí dụ:\n- 静か (shizuka): Yên tĩnh, im lặng.\n- 静寂 (seijaku): Sự tĩnh lặng, im ắng.\n-"
+  },
+  "comments": [
+    {
+      "id": "37166",
+      "lang": "vi",
+      "content_html": "<p>Xung đột (争) kết thúc, bầu trời trong xanh (青) và trở nên <strong>tĩnh lặng</strong>.</p>",
+      "content_text": "Xung đột (争) kết thúc, bầu trời trong xanh (青) và trở nên\ntĩnh lặng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd0a88c17d.jpg",
+      "image_path": "assets/images/静_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191229",
+      "lang": "vi",
+      "content_html": "<p><strong>yên tĩnh</strong> - 静か (しずか)</p>",
+      "content_text": "yên tĩnh\n- 静か (しずか)",
+      "image_url": "https://jpdictionary.com/upload/images/648adebfd0f14.jpg",
+      "image_path": "assets/images/静_2.jpg",
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "157835",
+      "lang": "vi",
+      "content_html": "<p>Sau chiến tranh lại thanh bình yên tĩnh như xưa</p>",
+      "content_text": "Sau chiến tranh lại thanh bình yên tĩnh như xưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

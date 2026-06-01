@@ -1,0 +1,111 @@
+{
+  "kanji": "勝",
+  "meta": {
+    "weight": 361,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "か.つ",
+      "-が.ち",
+      "まさ.る",
+      "すぐ.れる",
+      "かつ"
+    ],
+    "am_han": "THẮNG"
+  },
+  "meaning": {
+    "vi": "chiến thắng",
+    "en": "victory, win, prevail, excel"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/勝.svg"
+  },
+  "frequency": 185,
+  "examples": [
+    "勝手",
+    "優勝",
+    "勝利",
+    "勝ち",
+    "勝負"
+  ],
+  "explanation": {
+    "id": "3749",
+    "text": "勝 (đọc là \"shō\" hoặc \"katsu\") có nghĩa là \"chiến thắng\", \"thắng lợi\" để chỉ các hành động liên quan đến việc thắng cuộc, vượt qua đối thủ hoặc đạt được thành công.\n\nVí dụ:\n- 勝利 (shōri): Chiế"
+  },
+  "comments": [
+    {
+      "id": "37251",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã<strong> thắng</strong> vào thứ hai (月) chứ không phải thứ ba (火).</p>",
+      "content_text": "Tôi đã\nthắng\nvào thứ hai (月) chứ không phải thứ ba (火).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfda14179bf.jpg",
+      "image_path": "assets/images/勝_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152109",
+      "lang": "vi",
+      "content_html": "<p>Đêm Trăng 2 Người nỗ Lực phải THẮNG chứng Khoán</p>",
+      "content_text": "Đêm Trăng 2 Người nỗ Lực phải THẮNG chứng Khoán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152110",
+      "lang": "vi",
+      "content_html": "<p>Nỗ lực đốt 2 ngọn lửa trong đêm trăng mừng chiến THẮNG</p>",
+      "content_text": "Nỗ lực đốt 2 ngọn lửa trong đêm trăng mừng chiến THẮNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152111",
+      "lang": "vi",
+      "content_html": "<p>thứ 2 (月) chứ không phải thứ 3(火),ngta dùng sức lực (力)để CHIẾN THẮNG</p>",
+      "content_text": "thứ 2 (月) chứ không phải thứ 3(火),ngta dùng sức lực (力)để CHIẾN THẮNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

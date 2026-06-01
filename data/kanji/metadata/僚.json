@@ -1,0 +1,87 @@
+{
+  "kanji": "僚",
+  "meta": {
+    "weight": 245,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [],
+    "am_han": "LIÊU"
+  },
+  "meaning": {
+    "vi": "đồng nghiệp, chính thức, đồng hành",
+    "en": "colleague, official, companion"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/僚.svg"
+  },
+  "frequency": 709,
+  "examples": [
+    "官僚",
+    "同僚",
+    "閣僚",
+    "幕僚"
+  ],
+  "explanation": {
+    "id": "8095",
+    "text": "僚 (đọc là \"ryō\") có nghĩa là \"bạn bè\" hoặc \"cộng sự\", thường dùng để chỉ những người đồng nghiệp trong một tổ chức.\n\nVí dụ:\n- 職僚 (shokuryō): Đồng nghiệp, bạn làm cùng.\n- 同僚 (dōryō): Bạn đồng"
+  },
+  "comments": [
+    {
+      "id": "151804",
+      "lang": "vi",
+      "content_html": "<p>Người mà  gắn với nhau cả ngày từ nhỏ đến lớn là bạn đồng liêu đồng nghiệp</p>",
+      "content_text": "Người mà  gắn với nhau cả ngày từ nhỏ đến lớn là bạn đồng liêu đồng nghiệp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158191",
+      "lang": "vi",
+      "content_html": "<p>Đồng nghiệp là người イ　sống chung ktx (寮）</p>",
+      "content_text": "Đồng nghiệp là người イ　sống chung ktx (寮）",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "173",
+        "name": "Vinh Trường Nguyễn",
+        "image_url": "https://jpdictionary.com/upload/images/62f9fc079ec88.png"
+      }
+    },
+    {
+      "id": "151805",
+      "lang": "vi",
+      "content_html": "<p>寮: Có mái nhà là kí túc xá<br><br>療: Bị bệnh thì phải điều trị<br><br>僚: Người quan liêu</p>",
+      "content_text": "寮: Có mái nhà là kí túc xá\n療: Bị bệnh thì phải điều trị\n僚: Người quan liêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

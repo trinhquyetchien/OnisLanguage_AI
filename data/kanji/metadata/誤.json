@@ -1,0 +1,91 @@
+{
+  "kanji": "誤",
+  "meta": {
+    "weight": 2494,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴ"
+    ],
+    "kun": [
+      "あやま.る",
+      "-あやま.る"
+    ],
+    "am_han": "NGỘ"
+  },
+  "meaning": {
+    "vi": "sai lầm, ngộ nhận",
+    "en": "mistake, err, do wrong, mislead"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/誤.svg"
+  },
+  "frequency": 1150,
+  "examples": [
+    "誤解",
+    "誤り",
+    "試行錯誤",
+    "誤",
+    "誤差"
+  ],
+  "explanation": {
+    "id": "2355",
+    "text": "誤 (đọc là \"go\") có nghĩa là \"sai\", \"nhầm lẫn\" để chỉ những điều không chính xác hoặc sai sót trong suy nghĩ, hành động.\n\nVí dụ:\n- 誤解 (gokai): Hiểu nhầm.\n- 誤って (ayamatte): Nhầm lẫn, vô tình.\n"
+  },
+  "comments": [
+    {
+      "id": "156934",
+      "lang": "vi",
+      "content_html": "<p>Miệng nói lời lượn lẹo từ đầu đến chân làm người khác ngộ nhận</p>",
+      "content_text": "Miệng nói lời lượn lẹo từ đầu đến chân làm người khác ngộ nhận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156935",
+      "lang": "vi",
+      "content_html": "<p>ăn nhiều ngô nên nói như bị ngộ</p>",
+      "content_text": "ăn nhiều ngô nên nói như bị ngộ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156936",
+      "lang": "vi",
+      "content_html": "<p>nói chuyện trên trời giác ngộ nhân sinh</p>",
+      "content_text": "nói chuyện trên trời giác ngộ nhân sinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

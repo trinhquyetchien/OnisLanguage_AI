@@ -1,0 +1,110 @@
+{
+  "kanji": "未",
+  "meta": {
+    "weight": 1278,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ミ",
+      "ビ"
+    ],
+    "kun": [
+      "いま.だ",
+      "ま.だ",
+      "ひつじ"
+    ],
+    "am_han": "VỊ"
+  },
+  "meaning": {
+    "vi": "chưa, vị thành niên",
+    "en": "un-, not yet, hitherto, still, even now, sign of the ram, 1-3PM, eighth sign of Chinese zodiac"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/未.svg"
+  },
+  "frequency": 650,
+  "examples": [
+    "未来",
+    "未",
+    "未満",
+    "未だに",
+    "未だ"
+  ],
+  "explanation": {
+    "id": "7472",
+    "text": "未 (đọc là \"mi\") có nghĩa là \"chưa\", \"chưa hoàn thành\" để chỉ trạng thái chưa xảy ra hoặc chưa đạt được điều gì đó.\n\nVí dụ:\n- 未婚 (mikon): Chưa kết hôn, độc thân.\n- 未知 (michi): Chưa biết, điều"
+  },
+  "comments": [
+    {
+      "id": "891",
+      "lang": "vi",
+      "content_html": "<p>Cái cây (木) này vẫn <strong>chưa </strong>lớn.</p>",
+      "content_text": "Cái cây (木) này vẫn\nchưa\nlớn.",
+      "image_url": "https://jpdictionary.com/upload/images/6298a15572de9.jpg",
+      "image_path": "assets/images/未_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154352",
+      "lang": "vi",
+      "content_html": "<p>1 cái cây quả của nó có VỊ gì</p>",
+      "content_text": "1 cái cây quả của nó có VỊ gì",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154354",
+      "lang": "vi",
+      "content_html": "<p>cô Vị(未) thích chồng (夫) kiu dài</p>",
+      "content_text": "cô Vị(未) thích chồng (夫) kiu dài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154353",
+      "lang": "vi",
+      "content_html": "<p>Cây mọc dưới đất có vị gì?</p>",
+      "content_text": "Cây mọc dưới đất có vị gì?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

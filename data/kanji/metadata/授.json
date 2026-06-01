@@ -1,0 +1,108 @@
+{
+  "kanji": "授",
+  "meta": {
+    "weight": 1112,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュ"
+    ],
+    "kun": [
+      "さず.ける",
+      "さず.かる"
+    ],
+    "am_han": "THỤ"
+  },
+  "meaning": {
+    "vi": "truyền đạt, hướng dẫn, cấp, trao",
+    "en": "impart, instruct, grant, confer"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/授.svg"
+  },
+  "frequency": 535,
+  "examples": [
+    "授業",
+    "教授",
+    "助教授",
+    "授与",
+    "伝授"
+  ],
+  "explanation": {
+    "id": "3453",
+    "text": "授 (đọc là \"ju\") có nghĩa là \"trao tặng\", \"cấp phát\" để chỉ hành động truyền đạt, giao phó kiến thức hoặc quyền lực.\n\nVí dụ:\n- 授業 (jugyō): Tiết học, giờ học.\n- 授与 (juyo): Cấp phát, trao tặng "
+  },
+  "comments": [
+    {
+      "id": "37070",
+      "lang": "vi",
+      "content_html": "<p>Được <strong>hướng dẫn </strong>việc nhận (受) cái gì đó từ người khác.</p>",
+      "content_text": "Được\nhướng dẫn\nviệc nhận (受) cái gì đó từ người khác.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb08cefc00.jpg",
+      "image_path": "assets/images/授_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153944",
+      "lang": "vi",
+      "content_html": "<p>dùng Tay truyền thụ những gì đã nhận được(Thụ)</p>",
+      "content_text": "dùng Tay truyền thụ những gì đã nhận được(Thụ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153945",
+      "lang": "vi",
+      "content_html": "<p>LẠI được TRUYỀN THỤ bí kiếp võ công long TRẢO THỦ.</p>",
+      "content_text": "LẠI được TRUYỀN THỤ bí kiếp võ công long TRẢO THỦ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153946",
+      "lang": "vi",
+      "content_html": "<p>Giáo viên trong Trường, dùng cả Chân và Tay để truyền thụ kiến thức</p>",
+      "content_text": "Giáo viên trong Trường, dùng cả Chân và Tay để truyền thụ kiến thức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

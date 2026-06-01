@@ -1,0 +1,93 @@
+{
+  "kanji": "臭",
+  "meta": {
+    "weight": 2224,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "くさ.い",
+      "-くさ.い",
+      "にお.う",
+      "にお.い"
+    ],
+    "am_han": "XÚ, KHỨU"
+  },
+  "meaning": {
+    "vi": "bốc mùi, khó ngửi, nghi ngờ, mùi, ngửi, hương thơm, thơm, phát sáng, tươi sáng",
+    "en": "stinking, ill-smelling, suspicious looking, odor, savor, fragrance, be fragrant, stink, glow, be bright"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/臭.svg"
+  },
+  "frequency": 1760,
+  "examples": [
+    "臭い",
+    "臭",
+    "体臭",
+    "悪臭",
+    "胡散臭い"
+  ],
+  "explanation": {
+    "id": "20340",
+    "text": "Chữ Hán 臭 (đọc là \"sō\") có nghĩa là \"trang sức\", \"vật trang trí\" để chỉ các đồ vật được dùng để làm đẹp, như đồ trang sức hoặc phụ kiện.  \nVí dụ:  \n- 装飾 (sōshoku): Trang trí, đồ trang sức.  "
+  },
+  "comments": [
+    {
+      "id": "156394",
+      "lang": "vi",
+      "content_html": "<p>TỰ cao tự ĐẠI thì thật XÚ uế, hôi thối</p>",
+      "content_text": "TỰ cao tự ĐẠI thì thật XÚ uế, hôi thối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156395",
+      "lang": "vi",
+      "content_html": "<p>nghĩ mình to tát nhưng thật ra thối hoắc</p>",
+      "content_text": "nghĩ mình to tát nhưng thật ra thối hoắc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156396",
+      "lang": "vi",
+      "content_html": "<p>Kẻ tự đại xú xớn nhìn bốc mùi</p>",
+      "content_text": "Kẻ tự đại xú xớn nhìn bốc mùi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "kanji": "汝",
+  "meta": {
+    "weight": 1491,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョ"
+    ],
+    "kun": [
+      "なんじ",
+      "なれ",
+      "い",
+      "うぬ",
+      "いまし",
+      "し",
+      "しゃ",
+      "な",
+      "なむち",
+      "まし",
+      "みまし"
+    ],
+    "am_han": "NHỮ"
+  },
+  "meaning": {
+    "vi": "bạn Thou",
+    "en": "you, thou"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/汝.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6085",
+    "text": "汝 (đọc là \"naka\" hoặc \"jou\") có nghĩa là \"ngươi\", chỉ người khác trong văn cảnh thân mật hoặc cổ xưa. \n\nVí dụ:\n- 汝の名は何か (Naka no na wa nanika): Ngươi tên gì?\n- 汝自身を知れ (Jou jishin o shire): H"
+  },
+  "comments": []
+}

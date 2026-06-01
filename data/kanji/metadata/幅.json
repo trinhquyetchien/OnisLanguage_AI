@@ -1,0 +1,90 @@
+{
+  "kanji": "幅",
+  "meta": {
+    "weight": 843,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フク"
+    ],
+    "kun": [
+      "はば"
+    ],
+    "am_han": "PHÚC"
+  },
+  "meaning": {
+    "vi": "chiều rộng",
+    "en": "hanging scroll, width"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/幅.svg"
+  },
+  "frequency": 641,
+  "examples": [
+    "大幅",
+    "幅",
+    "幅広い",
+    "増幅",
+    "振幅"
+  ],
+  "explanation": {
+    "id": "6906",
+    "text": "幅 (đọc là \"haba\") có nghĩa là \"chiều rộng\" hoặc \"bề ngang\", thường dùng để chỉ kích thước hoặc không gian. \n\nVí dụ:\n- 幅広い (habahiroi): Rộng rãi, đa dạng.\n- 幅員 (fukuan): Chiều rộng của đường."
+  },
+  "comments": [
+    {
+      "id": "153272",
+      "lang": "vi",
+      "content_html": "<p>lấy cái CÂN để đo chiều rộng của 10 mảnh ruộng</p>",
+      "content_text": "lấy cái CÂN để đo chiều rộng của 10 mảnh ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153273",
+      "lang": "vi",
+      "content_html": "<p>Khăn của thằng Phúc rộng nên gói được của cải.<br><br>(富 nhà có nhiều của cải thì là phú ông, giàu có )<br><br>(福 người xem được nhiều của cải thì có phúc)</p>",
+      "content_text": "Khăn của thằng Phúc rộng nên gói được của cải.\n(富 nhà có nhiều của cải thì là phú ông, giàu có )\n(福 người xem được nhiều của cải thì có phúc)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153274",
+      "lang": "vi",
+      "content_html": "<p>Có 10 mẫu Ruộng , lại có hàng ngàn Cân Vải rộng lớn thì hạnh PHÚC rồi</p>",
+      "content_text": "Có 10 mẫu Ruộng , lại có hàng ngàn Cân Vải rộng lớn thì hạnh PHÚC rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

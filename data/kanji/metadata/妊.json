@@ -1,0 +1,92 @@
+{
+  "kanji": "妊",
+  "meta": {
+    "weight": 648,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ニン",
+      "ジン"
+    ],
+    "kun": [
+      "はら.む",
+      "みごも.る"
+    ],
+    "am_han": "NHÂM"
+  },
+  "meaning": {
+    "vi": "thai kỳ",
+    "en": "pregnancy"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/妊.svg"
+  },
+  "frequency": 1413,
+  "examples": [
+    "妊娠",
+    "妊婦",
+    "不妊",
+    "避妊",
+    "妊産婦"
+  ],
+  "explanation": {
+    "id": "6130",
+    "text": "妊 (đọc là \"nin\") có nghĩa là \"mang thai\" hoặc \"mang bầu\", chỉ trạng thái phụ nữ mang thai.  \nVí dụ:  \n- 妊娠 (ninshin): Mang thai, thai kỳ.  \n- 妊婦 (ninpu): Phụ nữ mang thai.  \n- 妊活 (ninkatsu):"
+  },
+  "comments": [
+    {
+      "id": "152794",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ lúc mang thai đc coi như vua</p>",
+      "content_text": "Phụ nữ lúc mang thai đc coi như vua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152795",
+      "lang": "vi",
+      "content_html": "<p>Vua Nhâm nhi em nữ làm Mang Thai</p>",
+      "content_text": "Vua Nhâm nhi em nữ làm Mang Thai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152796",
+      "lang": "vi",
+      "content_html": "<p>phụ nữ ở gần vua rất dễ mang thai vì bị nhâm nhi</p>",
+      "content_text": "phụ nữ ở gần vua rất dễ mang thai vì bị nhâm nhi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

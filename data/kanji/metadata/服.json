@@ -1,0 +1,88 @@
+{
+  "kanji": "服",
+  "meta": {
+    "weight": 1270,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フク"
+    ],
+    "kun": [],
+    "am_han": "PHỤC"
+  },
+  "meaning": {
+    "vi": "quần áo, y phục",
+    "en": "clothing, admit, obey, discharge"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/服.svg"
+  },
+  "frequency": 873,
+  "examples": [
+    "服",
+    "克服",
+    "服装",
+    "洋服",
+    "制服"
+  ],
+  "explanation": {
+    "id": "6912",
+    "text": "服 (đọc là \"fuku\") có nghĩa là \"quần áo\", chỉ các loại trang phục hoặc đồ mặc trên người. \n\nVí dụ:\n- 服装 (fukusō): Trang phục, quần áo.\n- 洋服 (yōfuku): Quần áo phương Tây.\n- 制服 (seifuku): Đồng "
+  },
+  "comments": [
+    {
+      "id": "191059",
+      "lang": "vi",
+      "content_html": "<p><strong>trang phục</strong></p>",
+      "content_text": "trang phục",
+      "image_url": "https://jpdictionary.com/upload/images/648a931a0a739.jpg",
+      "image_path": "assets/images/服_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "925",
+      "lang": "vi",
+      "content_html": "<p>Treo <strong>quần áo</strong> dưới ánh trăng (月).</p>",
+      "content_text": "Treo\nquần áo\ndưới ánh trăng (月).",
+      "image_url": "https://jpdictionary.com/upload/images/6298b6476c36c.jpg",
+      "image_path": "assets/images/服_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154332",
+      "lang": "vi",
+      "content_html": "<p>PHẢN đối chị NGUYỆT mặc quần áo</p>",
+      "content_text": "PHẢN đối chị NGUYỆT mặc quần áo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

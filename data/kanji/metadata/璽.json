@@ -1,0 +1,82 @@
+{
+  "kanji": "璽",
+  "meta": {
+    "weight": 1759,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ"
+    ],
+    "kun": [],
+    "am_han": "TỈ"
+  },
+  "meaning": {
+    "vi": "con dấu của hoàng đế",
+    "en": "emperor's seal"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/璽.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3213",
+    "text": "璽 (đọc là \"ji\") có nghĩa là \"ngọc ấn\" hoặc \"chức ấn\", chỉ các dấu hiệu hay biểu tượng chính thức thường được sử dụng trong các tài liệu quan trọng và để thể hiện quyền lực.\n\nVí dụ:\n- 璽章 (jis"
+  },
+  "comments": [
+    {
+      "id": "220106",
+      "lang": "vi",
+      "content_html": "<p>trong tai của Tỉ có viên ngọc hiếm</p>",
+      "content_text": "trong tai của Tỉ có viên ngọc hiếm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220107",
+      "lang": "vi",
+      "content_html": "<p>Ngọc + Nhĩ ~ ngọc tỉ (ấn của vua)</p>",
+      "content_text": "Ngọc + Nhĩ ~ ngọc tỉ (ấn của vua)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220108",
+      "lang": "vi",
+      "content_html": "<p>Từ tượng hình á mọi người:<br>Nhìn trong giống cái Ấn của nhà Vua trong phim đó. Ấn bằng Ngọc.</p>",
+      "content_text": "Từ tượng hình á mọi người:\nNhìn trong giống cái Ấn của nhà Vua trong phim đó. Ấn bằng Ngọc.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

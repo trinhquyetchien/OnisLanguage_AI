@@ -1,0 +1,92 @@
+{
+  "kanji": "浸",
+  "meta": {
+    "weight": 1546,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "ひた.す",
+      "ひた.る",
+      "つ.かる"
+    ],
+    "am_han": "TẨM"
+  },
+  "meaning": {
+    "vi": "ngâm, nhúng, dốc, làm ẩm, ướt, dunk",
+    "en": "immersed, soak, dip, steep, moisten, wet, dunk"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/浸.svg"
+  },
+  "frequency": 1447,
+  "examples": [
+    "浸透",
+    "浸水",
+    "浸る",
+    "水浸し",
+    "浸食"
+  ],
+  "explanation": {
+    "id": "4089",
+    "text": "浸 (đọc là \"shin\") có nghĩa là \"ngâm\", \"nhúng\" để chỉ hành động ngâm hoặc làm ướt cái gì đó trong nước hoặc chất lỏng.\n\nVí dụ:\n- 浸透 (shintō): Thẩm thấu, lan tỏa.\n- 浸かる (tsukaru): Bị ngập, bị "
+  },
+  "comments": [
+    {
+      "id": "154917",
+      "lang": "vi",
+      "content_html": "<p>bị nước xâm 侵  nhập thì là bị thẩm thấu 浸</p>",
+      "content_text": "bị nước xâm 侵  nhập thì là bị thẩm thấu 浸",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154918",
+      "lang": "vi",
+      "content_html": "<p>Thả tóc chạng chân buông tay ngâm mình trong nước</p>",
+      "content_text": "Thả tóc chạng chân buông tay ngâm mình trong nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154919",
+      "lang": "vi",
+      "content_html": "<p>Xả nước 氵 vào bồn, thả tóc ヨ , buông tay 冖 , bắt chéo chân 又, NGÂM mình trong nước</p>",
+      "content_text": "Xả nước 氵 vào bồn, thả tóc ヨ , buông tay 冖 , bắt chéo chân 又, NGÂM mình trong nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

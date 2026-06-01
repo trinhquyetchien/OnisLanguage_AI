@@ -1,0 +1,88 @@
+{
+  "kanji": "液",
+  "meta": {
+    "weight": 1553,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エキ"
+    ],
+    "kun": [],
+    "am_han": "DỊCH"
+  },
+  "meaning": {
+    "vi": "chất lỏng, dung dịch",
+    "en": "fluid, liquid, juice, sap, secretion"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/液.svg"
+  },
+  "frequency": 1210,
+  "examples": [
+    "血液",
+    "液晶",
+    "液",
+    "液体",
+    "溶液"
+  ],
+  "explanation": {
+    "id": "407",
+    "text": "液 (đọc là \"eki\") có nghĩa là \"thể lỏng\", chỉ các chất lỏng trong tự nhiên hoặc trong công nghiệp.  \nVí dụ:  \n- 液体 (ekitai): Chất lỏng, thể lỏng.  \n- 液晶 (ekishin): Màn hình tinh thể lỏng.  \n-"
+  },
+  "comments": [
+    {
+      "id": "154929",
+      "lang": "vi",
+      "content_html": "<p>Đêm tiết ra dịch lỏng gọi là</p>",
+      "content_text": "Đêm tiết ra dịch lỏng gọi là",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154930",
+      "lang": "vi",
+      "content_html": "<p>dung DỊCH NƯỚC DẠ hương</p>",
+      "content_text": "dung DỊCH NƯỚC DẠ hương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154931",
+      "lang": "vi",
+      "content_html": "<p>Viết thương ban đêm 夜 tiết ra nước 水 gọi là nước dịch 液</p>",
+      "content_text": "Viết thương ban đêm 夜 tiết ra nước 水 gọi là nước dịch 液",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "罪",
+  "meta": {
+    "weight": 2124,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ザイ"
+    ],
+    "kun": [
+      "つみ"
+    ],
+    "am_han": "TỘI"
+  },
+  "meaning": {
+    "vi": "tội lỗi",
+    "en": "guilt, sin, crime, fault, blame, offense"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/罪.svg"
+  },
+  "frequency": 732,
+  "examples": [
+    "犯罪",
+    "罪",
+    "謝罪",
+    "無罪",
+    "有罪"
+  ],
+  "explanation": {
+    "id": "2851",
+    "text": "罪 (đọc là \"zai\") có nghĩa là \"tội lỗi\", \"sự vi phạm\" để chỉ các hành động sai trái hoặc vi phạm pháp luật.\n\nVí dụ:\n- 罪人 (zainin): Tội nhân, người phạm tội.\n- 罪悪 (zaiaku): Tội ác, điều xấu.\n-"
+  },
+  "comments": [
+    {
+      "id": "156169",
+      "lang": "vi",
+      "content_html": "<p>Mắc TỘI PHI nhân tính sẽ bị cho vào cái VÕNG rồi treo ngược lên</p>",
+      "content_text": "Mắc TỘI PHI nhân tính sẽ bị cho vào cái VÕNG rồi treo ngược lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156170",
+      "lang": "vi",
+      "content_html": "<p>có thiên la địa võng thì người phi thường cũng ko thoát tội</p>",
+      "content_text": "có thiên la địa võng thì người phi thường cũng ko thoát tội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156171",
+      "lang": "vi",
+      "content_html": "<p>Mắt phi thường của kẻ tội lỗi</p>",
+      "content_text": "Mắt phi thường của kẻ tội lỗi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

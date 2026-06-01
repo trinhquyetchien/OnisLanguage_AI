@@ -1,0 +1,93 @@
+{
+  "kanji": "作",
+  "meta": {
+    "weight": 177,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サク",
+      "サ"
+    ],
+    "kun": [
+      "つく.る",
+      "つく.り",
+      "-づく.り"
+    ],
+    "am_han": "TÁC"
+  },
+  "meaning": {
+    "vi": "tác nghiệp, tác phẩm",
+    "en": "make, production, prepare, build"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/作.svg"
+  },
+  "frequency": 103,
+  "examples": [
+    "作品",
+    "作業",
+    "作成",
+    "作る",
+    "作り"
+  ],
+  "explanation": {
+    "id": "2883",
+    "text": "作 (đọc là \"saku\" hoặc \"tsukuru\") có nghĩa là \"tạo ra\", \"sản xuất\", chỉ các hành động liên quan đến việc làm, chế tác hoặc sáng tạo.  \nVí dụ:  \n- 作品 (sakuhin): Tác phẩm, sản phẩm nghệ thuật. "
+  },
+  "comments": [
+    {
+      "id": "190885",
+      "lang": "vi",
+      "content_html": "<p>cầm cưa <strong>tác </strong>nghiệp</p>",
+      "content_text": "cầm cưa\ntác\nnghiệp",
+      "image_url": "https://jpdictionary.com/upload/images/648a63b949ed3.jpg",
+      "image_path": "assets/images/作_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "889",
+      "lang": "vi",
+      "content_html": "<p>Một người cầm cây cưa <strong>làm </strong>gì đó.</p>",
+      "content_text": "Một người cầm cây cưa\nlàm\ngì đó.",
+      "image_url": "https://jpdictionary.com/upload/images/6298a105147ec.jpg",
+      "image_path": "assets/images/作_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151637",
+      "lang": "vi",
+      "content_html": "<p>Người cầm cào làm việc</p>",
+      "content_text": "Người cầm cào làm việc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "kanji": "棉",
+  "meta": {
+    "weight": 1373,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "メン"
+    ],
+    "kun": [
+      "わた"
+    ],
+    "am_han": "MIÊN"
+  },
+  "meaning": {
+    "vi": "bông",
+    "en": "cotton"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/棉.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7576",
+    "text": "棉 (đọc là \"men\") có nghĩa là \"bông\" để chỉ sợi bông, thường được dùng trong ngành dệt may hoặc để nói về chất liệu từ bông.  \nVí dụ:  \n- 棉花 (menka): Bông hoa, cây bông.  \n- 棉布 (menpu): Vải b"
+  },
+  "comments": []
+}

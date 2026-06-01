@@ -1,0 +1,90 @@
+{
+  "kanji": "帽",
+  "meta": {
+    "weight": 842,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ",
+      "モウ"
+    ],
+    "kun": [
+      "ずきん",
+      "おお.う"
+    ],
+    "am_han": "MẠO"
+  },
+  "meaning": {
+    "vi": "mũ",
+    "en": "cap, headgear"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/帽.svg"
+  },
+  "frequency": 1742,
+  "examples": [
+    "帽子",
+    "帽",
+    "脱帽"
+  ],
+  "explanation": {
+    "id": "7259",
+    "text": "帽 (đọc là \"bō\") có nghĩa là \"mũ\" để chỉ các loại mũ, nón đội trên đầu.\n\nVí dụ:\n- 帽子 (bōzi): Mũ, nón.\n- 帽章 (bōshō): Huy hiệu đội mũ.\n- 防寒帽 (bōkanbō): Mũ chống lạnh."
+  },
+  "comments": [
+    {
+      "id": "153269",
+      "lang": "vi",
+      "content_html": "<p>Lấy khăn thay mũ che ánh nắng mặt trời khỏi chói mắt</p>",
+      "content_text": "Lấy khăn thay mũ che ánh nắng mặt trời khỏi chói mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153270",
+      "lang": "vi",
+      "content_html": "<p>Chỉnh cái nón( mão) cho Cân, khỏi MẶT TRỜI (日), chiếu vào MẮT( 目)。</p>",
+      "content_text": "Chỉnh cái nón( mão) cho Cân, khỏi MẶT TRỜI (日), chiếu vào MẮT( 目)。",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153271",
+      "lang": "vi",
+      "content_html": "<p>Mắt muốn Cân mặt trời thì cần có Mũ Vải</p>",
+      "content_text": "Mắt muốn Cân mặt trời thì cần có Mũ Vải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "kanji": "所",
+  "meta": {
+    "weight": 1042,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショ"
+    ],
+    "kun": [
+      "ところ",
+      "-ところ",
+      "どころ",
+      "とこ"
+    ],
+    "am_han": "SỞ"
+  },
+  "meaning": {
+    "vi": "trụ sở",
+    "en": "place, extent"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/所.svg"
+  },
+  "frequency": 221,
+  "examples": [
+    "所",
+    "場所",
+    "事務所",
+    "所得",
+    "研究所"
+  ],
+  "explanation": {
+    "id": "3685",
+    "text": "所 (đọc là \"sho\") có nghĩa là \"nơi\", \"chỗ\" để chỉ địa điểm hoặc vị trí cụ thể.  \nVí dụ:  \n- 所要 (shoyō): Cần thiết, yêu cầu.  \n- 所在 (suzai): Sự hiện diện, nơi ở.  \n- 所属 (shozoku): Thuộc về, th"
+  },
+  "comments": [
+    {
+      "id": "36962",
+      "lang": "vi",
+      "content_html": "<p>Để nhớ <strong>trụ sở</strong> tôi đã đánh dấu lên cánh (戸) cửa bằng rìu.</p>",
+      "content_text": "Để nhớ\ntrụ sở\ntôi đã đánh dấu lên cánh (戸) cửa bằng rìu.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4b15034af.jpg",
+      "image_path": "assets/images/所_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153772",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: lấy cái Búa (斤) phá cửa ( 戸)<br>==&#62; bị bắt lên Sở (所) cảnh sát。(thắng trộm).<br>..性..     p/s: comment cũ hơn 30 chục like mà ko hiểu sao bị mất ???</p>",
+      "content_text": "Góc Nhìn: lấy cái Búa (斤) phá cửa ( 戸)\n==> bị bắt lên Sở (所) cảnh sát。(thắng trộm).\n..性..     p/s: comment cũ hơn 30 chục like mà ko hiểu sao bị mất ???",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153773",
+      "lang": "vi",
+      "content_html": "<p>Sở hữu căn (Cân) hộ (Hộ)</p>",
+      "content_text": "Sở hữu căn (Cân) hộ (Hộ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158947",
+      "lang": "vi",
+      "content_html": "<p>名所(めいしょ): nơi nổi tiếng</p>",
+      "content_text": "名所(めいしょ): nơi nổi tiếng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

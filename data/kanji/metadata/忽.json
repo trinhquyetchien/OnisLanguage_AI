@@ -1,0 +1,85 @@
+{
+  "kanji": "忽",
+  "meta": {
+    "weight": 949,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コツ"
+    ],
+    "kun": [
+      "たちま.ち",
+      "ゆるが.せ"
+    ],
+    "am_han": "HỐT"
+  },
+  "meaning": {
+    "vi": "trong một khoảnh khắc, ngay lập tức, đột ngột, bỏ mặc, coi thường",
+    "en": "in a moment, instantly, all of a sudden, neglect, disregard"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/忽.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2660",
+    "text": "忽 (đọc là \"こつ\", \"こっ\") có nghĩa là \"bất ngờ\", \"chốc lát\", chỉ sự thay đổi nhanh chóng hoặc đột ngột. \n\nVí dụ:\n- 忽然 (こつぜん, kotsuzen): Đột nhiên, bất ngờ.\n- 忽ち (たちまち, tachimachi): Ngay lập tức,"
+  },
+  "comments": [
+    {
+      "id": "219482",
+      "lang": "vi",
+      "content_html": "<p>Có VẬT (勿) gì đó chạm TIM (心) bất thình lình HỐT (忽) hoảng.</p>",
+      "content_text": "Có VẬT (勿) gì đó chạm TIM (心) bất thình lình HỐT (忽) hoảng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219483",
+      "lang": "vi",
+      "content_html": "<p>Tâm HỐT được bí kiếp chế tạo Vật</p>",
+      "content_text": "Tâm HỐT được bí kiếp chế tạo Vật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219484",
+      "lang": "vi",
+      "content_html": "<p>Tâm bất giác nghĩ đến kiếp vật ( Trong luân hồi ) hốt hoảng lo âu</p>",
+      "content_text": "Tâm bất giác nghĩ đến kiếp vật ( Trong luân hồi ) hốt hoảng lo âu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

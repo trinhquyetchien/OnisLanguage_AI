@@ -1,0 +1,89 @@
+{
+  "kanji": "錯",
+  "meta": {
+    "weight": 2778,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サク",
+      "シャク"
+    ],
+    "kun": [],
+    "am_han": "THÁC"
+  },
+  "meaning": {
+    "vi": "bối rối, trộn lẫn, rối loạn",
+    "en": "confused, mix, be in disorder"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/錯.svg"
+  },
+  "frequency": 1740,
+  "examples": [
+    "錯覚",
+    "試行錯誤",
+    "交錯",
+    "錯誤",
+    "錯綜"
+  ],
+  "explanation": {
+    "id": "2913",
+    "text": "錯 (đọc là \"saku\" hoặc \"kakaru\") có nghĩa là \"nhầm lẫn\", \"sai lệch\" để chỉ các tình huống liên quan đến sự sai sót hoặc sai phạm.  \nVí dụ:  \n- 錯誤 (saku go): Sai sót, nhầm lẫn.  \n- 錯覚 (sakkaku"
+  },
+  "comments": [
+    {
+      "id": "157586",
+      "lang": "vi",
+      "content_html": "<p>tiền khi xưa chỉ để thác loạn</p>",
+      "content_text": "tiền khi xưa chỉ để thác loạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157587",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa kim loại sử dụng thác loạn ko có mục đích</p>",
+      "content_text": "Ngày xưa kim loại sử dụng thác loạn ko có mục đích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157588",
+      "lang": "vi",
+      "content_html": "<p>Tiền ngày xưa chỉ dùng để thác loạn</p>",
+      "content_text": "Tiền ngày xưa chỉ dùng để thác loạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

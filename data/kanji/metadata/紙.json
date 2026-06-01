@@ -1,0 +1,90 @@
+{
+  "kanji": "紙",
+  "meta": {
+    "weight": 2056,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "かみ"
+    ],
+    "am_han": "CHỈ"
+  },
+  "meaning": {
+    "vi": "giấy",
+    "en": "paper"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/紙.svg"
+  },
+  "frequency": 559,
+  "examples": [
+    "紙",
+    "手紙",
+    "表紙",
+    "用紙",
+    "紙面"
+  ],
+  "explanation": {
+    "id": "3125",
+    "text": "紙 (đọc là \"shi\" hoặc \"kami\") có nghĩa là \"giấy\", chỉ vật liệu mỏng, phẳng được làm từ sợi thực vật và thường dùng để viết, vẽ hoặc in ấn.  \nVí dụ:  \n- 紙幣 (shihei): Tiền giấy.  \n- 和紙 (washi):"
+  },
+  "comments": [
+    {
+      "id": "960",
+      "lang": "vi",
+      "content_html": "<p>Viết họ (氏) lên <strong>giấy</strong> (紙) và luồn sợi chỉ (糸) qua.</p>",
+      "content_text": "Viết họ (氏) lên\ngiấy\n(紙) và luồn sợi chỉ (糸) qua.",
+      "image_url": "https://jpdictionary.com/upload/images/6298cc41d735d.png",
+      "image_path": "assets/images/紙_1.png",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155991",
+      "lang": "vi",
+      "content_html": "<p>Viết họ tên lên tờ giấy mỏng như sợi chỉ</p>",
+      "content_text": "Viết họ tên lên tờ giấy mỏng như sợi chỉ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191153",
+      "lang": "vi",
+      "content_html": "<p><strong>giấy</strong></p>",
+      "content_text": "giấy",
+      "image_url": "https://jpdictionary.com/upload/images/648acd4f4c8f3.jpg",
+      "image_path": "assets/images/紙_3.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

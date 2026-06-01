@@ -1,0 +1,90 @@
+{
+  "kanji": "肉",
+  "meta": {
+    "weight": 2165,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ニク"
+    ],
+    "kun": [
+      "しし"
+    ],
+    "am_han": "NHỤC"
+  },
+  "meaning": {
+    "vi": "thịt",
+    "en": "meat"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/肉.svg"
+  },
+  "frequency": 986,
+  "examples": [
+    "肉",
+    "筋肉",
+    "肉体",
+    "牛肉",
+    "皮肉"
+  ],
+  "explanation": {
+    "id": "6102",
+    "text": "肉 (đọc là \"niku\") có nghĩa là \"thịt\" để chỉ các loại thịt động vật dùng trong ẩm thực.  \nVí dụ:  \n- 肉料理 (nikuryōri): Món ăn từ thịt.  \n- 牛肉 (gyūniku): Thịt bò.  \n- 鶏肉 (toriniku): Thịt gà."
+  },
+  "comments": [
+    {
+      "id": "877",
+      "lang": "vi",
+      "content_html": "<p>Hình của miếng <strong>thịt</strong>.</p>",
+      "content_text": "Hình của miếng\nthịt\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62989ea4bfa13.jpg",
+      "image_path": "assets/images/肉_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "218625",
+      "lang": "vi",
+      "content_html": "<p>Cơm thịt</p>",
+      "content_text": "Cơm thịt",
+      "image_url": "https://jpdictionary.com/upload/images/65388a9e8770a.jpg",
+      "image_path": "assets/images/肉_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191163",
+      "lang": "vi",
+      "content_html": "<p><strong>thịt</strong></p>",
+      "content_text": "thịt",
+      "image_url": "https://jpdictionary.com/upload/images/648ace59391a9.jpg",
+      "image_path": "assets/images/肉_3.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

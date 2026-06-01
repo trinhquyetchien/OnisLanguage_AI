@@ -1,0 +1,107 @@
+{
+  "kanji": "険",
+  "meta": {
+    "weight": 2835,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "けわ.しい"
+    ],
+    "am_han": "HIỂM"
+  },
+  "meaning": {
+    "vi": "nguy hiểm, mạo hiểm",
+    "en": "precipitous, inaccessible place, impregnable position, steep place, sharp eyes"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/険.svg"
+  },
+  "frequency": 707,
+  "examples": [
+    "保険",
+    "危険",
+    "冒険",
+    "社会保険庁",
+    "険しい"
+  ],
+  "explanation": {
+    "id": "2188",
+    "text": "険 (đọc là \"ken\" hoặc \"kewaしい\") có nghĩa là \"nguy hiểm\" hoặc \"khó khăn\", thường dùng để chỉ các tình huống hay địa hình hiểm trở, không an toàn.  \nVí dụ:  \n- 危険 (kiken): Nguy hiểm.  \n- 険しい (k"
+  },
+  "comments": [
+    {
+      "id": "37348",
+      "lang": "vi",
+      "content_html": "<p>Một người (人) bên trạm xe buýt chuẩn bị <strong>mạo hiểm </strong>đi leo núi.</p>",
+      "content_text": "Một người (人) bên trạm xe buýt chuẩn bị\nmạo hiểm\nđi leo núi.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe9964737c.jpg",
+      "image_path": "assets/images/険_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157714",
+      "lang": "vi",
+      "content_html": "<p>Ở bến xe Bus có người đội nón trông rất nguy hiểm</p>",
+      "content_text": "Ở bến xe Bus có người đội nón trông rất nguy hiểm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157715",
+      "lang": "vi",
+      "content_html": "<p>Hãy cầm lá CỜ phù HỢP với NGƯỜI thích tỏ ra nguy HIỂM</p>",
+      "content_text": "Hãy cầm lá CỜ phù HỢP với NGƯỜI thích tỏ ra nguy HIỂM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157716",
+      "lang": "vi",
+      "content_html": "<p>Hình như có 1 người đội nói đi vào bãi đất hãy la lên để a ta biết NGUY HIỂM (Hiểm)</p>",
+      "content_text": "Hình như có 1 người đội nói đi vào bãi đất hãy la lên để a ta biết NGUY HIỂM (Hiểm)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

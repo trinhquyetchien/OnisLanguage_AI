@@ -1,0 +1,70 @@
+{
+  "kanji": "肇",
+  "meta": {
+    "weight": 2164,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ",
+      "ジョウ",
+      "トウ"
+    ],
+    "kun": [
+      "はじ.める",
+      "はじめ"
+    ],
+    "am_han": "TRIỆU"
+  },
+  "meaning": {
+    "vi": "bắt đầu",
+    "en": "beginning"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/肇.svg"
+  },
+  "frequency": 1943,
+  "examples": [],
+  "explanation": {
+    "id": "6379",
+    "text": "肇 (đọc là \"chō\") có nghĩa là \"bắt đầu\", \"khởi đầu\" để chỉ việc khởi xướng hoặc mở đầu một sự kiện hay quá trình nào đó.  \nVí dụ:  \n- 肇国 (chōkoku): Khởi nguồn của quốc gia, sáng lập.  \n- 肇事 ("
+  },
+  "comments": [
+    {
+      "id": "156257",
+      "lang": "vi",
+      "content_html": "<p>Đầu năm cánh cửa đánh dấu nét bút viết</p>",
+      "content_text": "Đầu năm cánh cửa đánh dấu nét bút viết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156258",
+      "lang": "vi",
+      "content_html": "<p>đầu năm khai bút vẽ lên cửa đến triệu</p>",
+      "content_text": "đầu năm khai bút vẽ lên cửa đến triệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

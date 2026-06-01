@@ -1,0 +1,90 @@
+{
+  "kanji": "償",
+  "meta": {
+    "weight": 251,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "つぐな.う"
+    ],
+    "am_han": "THƯỜNG"
+  },
+  "meaning": {
+    "vi": "bồi thường, bù đắp, chuộc lại",
+    "en": "reparation, make up for, recompense, redeem"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/償.svg"
+  },
+  "frequency": 854,
+  "examples": [
+    "賠償",
+    "補償",
+    "無償",
+    "償還",
+    "償却"
+  ],
+  "explanation": {
+    "id": "3746",
+    "text": "償 (đọc là \"shō\") có nghĩa là \"đền bù\", \"bồi thường\" để chỉ hành động bù đắp cho những thiệt hại hoặc lỗi lầm.  \nVí dụ:  \n- 償い (shōnai): Sự đền bù, bồi thường.  \n- 償還 (shōkan): Hoàn trả, đền "
+  },
+  "comments": [
+    {
+      "id": "151819",
+      "lang": "vi",
+      "content_html": "<p>Người được thưởng cũng như đc bồi thường</p>",
+      "content_text": "Người được thưởng cũng như đc bồi thường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151820",
+      "lang": "vi",
+      "content_html": "<p>THƯỞNG cho NGƯỜI làm những việc phi THƯỜNG</p>",
+      "content_text": "THƯỞNG cho NGƯỜI làm những việc phi THƯỜNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151821",
+      "lang": "vi",
+      "content_html": "<p>không có người người mày thì được thưởng　賞　có người như mày lại bồi thườnｇ　償</p>",
+      "content_text": "không có người người mày thì được thưởng　賞　có người như mày lại bồi thườnｇ　償",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

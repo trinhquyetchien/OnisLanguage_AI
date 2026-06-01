@@ -1,0 +1,106 @@
+{
+  "kanji": "段",
+  "meta": {
+    "weight": 1466,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダン",
+      "タン"
+    ],
+    "kun": [],
+    "am_han": "ĐOẠN"
+  },
+  "meaning": {
+    "vi": "bậc, giai đoạn",
+    "en": "grade, steps, stairs"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/段.svg"
+  },
+  "frequency": 479,
+  "examples": [
+    "段階",
+    "手段",
+    "値段",
+    "普段",
+    "階段"
+  ],
+  "explanation": {
+    "id": "5184",
+    "text": "段 (đọc là \"đoạn\" trong tiếng Nhật) có nghĩa là \"bậc\", \"giai đoạn\", chỉ sự phân chia, mức độ hoặc cấp bậc trong một thứ gì đó. \n\nVí dụ: \n- 段階 (dankai): Giai đoạn, bước.\n- 段落 (danraku): Đoạn v"
+  },
+  "comments": [
+    {
+      "id": "37240",
+      "lang": "vi",
+      "content_html": "<p>Làm <strong>cầu thang </strong>bằng đá.</p>",
+      "content_text": "Làm\ncầu thang\nbằng đá.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd7ad69311.jpg",
+      "image_path": "assets/images/段_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154714",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: Bồ Cào đánh nhau với Binh Khí (殳 THÙ)<br>==&#62; bồ cào bị gãy thành nhiều ĐOẠN (段)<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Góc Nhìn: Bồ Cào đánh nhau với Binh Khí (殳 THÙ)\n==> bồ cào bị gãy thành nhiều ĐOẠN (段)\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154715",
+      "lang": "vi",
+      "content_html": "<p>Lấy cái Thù (búa) chặt khúc gỗ ra 4 ĐOẠN</p>",
+      "content_text": "Lấy cái Thù (búa) chặt khúc gỗ ra 4 ĐOẠN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154716",
+      "lang": "vi",
+      "content_html": "<p>lấy cái dao răng cưa chặt kẻ thù thành đoạn</p>",
+      "content_text": "lấy cái dao răng cưa chặt kẻ thù thành đoạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

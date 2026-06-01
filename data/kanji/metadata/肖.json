@@ -1,0 +1,87 @@
+{
+  "kanji": "肖",
+  "meta": {
+    "weight": 2168,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "あやか.る"
+    ],
+    "am_han": "TIẾU, TIÊU"
+  },
+  "meaning": {
+    "vi": "sự giống nhau",
+    "en": "resemblance"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/肖.svg"
+  },
+  "frequency": 1889,
+  "examples": [
+    "肖像",
+    "不肖"
+  ],
+  "explanation": {
+    "id": "3901",
+    "text": "肖 (đọc là \"shō\") có nghĩa là \"hình dáng\", \"mẫu hình\" thường được dùng để chỉ sự giống nhau hay biểu thị hình ảnh, mẫu mực của ai đó. \n\nVí dụ:\n- 肖像 (shōzō): Chân dung.\n- 肖似 (shōsi): Giống như"
+  },
+  "comments": [
+    {
+      "id": "156265",
+      "lang": "vi",
+      "content_html": "<p>CHÂN DUNG chị nguyệt cầm quả chuối tiêu trên đầu</p>",
+      "content_text": "CHÂN DUNG chị nguyệt cầm quả chuối tiêu trên đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156266",
+      "lang": "vi",
+      "content_html": "<p>CHÂN DUNG quả chuối TIÊU</p>",
+      "content_text": "CHÂN DUNG quả chuối TIÊU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156267",
+      "lang": "vi",
+      "content_html": "<p>Chị Nguyệt có quạt 3 tiêu</p>",
+      "content_text": "Chị Nguyệt có quạt 3 tiêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

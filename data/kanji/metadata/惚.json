@@ -1,0 +1,90 @@
+{
+  "kanji": "惚",
+  "meta": {
+    "weight": 987,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コツ"
+    ],
+    "kun": [
+      "ほけ.る",
+      "ぼ.ける",
+      "ほ.れる"
+    ],
+    "am_han": "HỐT"
+  },
+  "meaning": {
+    "vi": "yêu, ngưỡng mộ, trưởng thành",
+    "en": "fall in love with, admire, grow senile"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/惚.svg"
+  },
+  "frequency": 2486,
+  "examples": [
+    "恍惚",
+    "惚れ惚れ",
+    "惚れる"
+  ],
+  "explanation": {
+    "id": "2663",
+    "text": "惚 (đọc là \"koi\" hoặc \"horu\") có nghĩa là \"yêu\", \"mê đắm\" để chỉ trạng thái cảm xúc say mê hay yêu thương một ai đó.\n\nVí dụ:\n- 惚れ込む (horekomu): Say mê, mê đắm.\n- 惚れっぽい (horeppoi): Dễ fall in "
+  },
+  "comments": [
+    {
+      "id": "153628",
+      "lang": "vi",
+      "content_html": "<p>Tim (忄) Hoảng HỐT như có con cào cào (勿) nhảy tưng bừng ở trong đó (心)</p>",
+      "content_text": "Tim (忄) Hoảng HỐT như có con cào cào (勿) nhảy tưng bừng ở trong đó (心)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153629",
+      "lang": "vi",
+      "content_html": "<p>si mê</p>",
+      "content_text": "si mê",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153630",
+      "lang": "vi",
+      "content_html": "<p>Tâm(忄)có bí quyết(忽:コツ)là giả nai(惚ける:とぼける)</p>",
+      "content_text": "Tâm(忄)có bí quyết(忽:コツ)là giả nai(惚ける:とぼける)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "kanji": "難",
+  "meta": {
+    "weight": 2862,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ナン"
+    ],
+    "kun": [
+      "かた.い",
+      "-がた.い",
+      "むずか.しい",
+      "むづか.しい",
+      "むつか.しい",
+      "-にく.い"
+    ],
+    "am_han": "NAN, NẠN"
+  },
+  "meaning": {
+    "vi": "khó khăn, nan giải",
+    "en": "difficult, impossible, trouble, accident, defect"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/難.svg"
+  },
+  "frequency": 330,
+  "examples": [
+    "難しい",
+    "困難",
+    "非難",
+    "避難",
+    "難民"
+  ],
+  "explanation": {
+    "id": "20352",
+    "text": "難 (đọc là \"nan\") có nghĩa là \"khó khăn\", \"vấn đề\" để chỉ những tình huống hoặc vấn đề khó giải quyết.\nVí dụ:\n- 難題 (nandai): Vấn đề khó khăn, đề bài khó.\n- 難しい (muzukashii): Khó khăn, phức tạ"
+  },
+  "comments": [
+    {
+      "id": "157785",
+      "lang": "vi",
+      "content_html": "<p>Chim học hán tự thì quả là gian nan</p>",
+      "content_text": "Chim học hán tự thì quả là gian nan",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157786",
+      "lang": "vi",
+      "content_html": "<p>30 người đầu đội cỏ đi săn chim gian nan vất vả</p>",
+      "content_text": "30 người đầu đội cỏ đi săn chim gian nan vất vả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157787",
+      "lang": "vi",
+      "content_html": "<p>Vác chim sang nhà Hán mà ko mang nước thì rất gian NAN</p>",
+      "content_text": "Vác chim sang nhà Hán mà ko mang nước thì rất gian NAN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "丹",
+  "meta": {
+    "weight": 92,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "に"
+    ],
+    "am_han": "ĐAN"
+  },
+  "meaning": {
+    "vi": "màu gỉ sắt, đỏ, chì đỏ, thuốc, chân thành",
+    "en": "rust-colored, red, red lead, pills, sincerity"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/丹.svg"
+  },
+  "frequency": 1402,
+  "examples": [
+    "牡丹",
+    "丹念",
+    "丹波",
+    "丹",
+    "丹後"
+  ],
+  "explanation": {
+    "id": "5112",
+    "text": "丹 (đọc là \"dan\") có nghĩa là \"màu đỏ\" hoặc \"chất màu đỏ\", thường liên quan đến sắc thái hay phẩm chất của màu sắc. \n\nVí dụ:\n- 丹波 (Tamba): Tên một vùng nổi tiếng với sản xuất gạo và thực phẩm"
+  },
+  "comments": [
+    {
+      "id": "151433",
+      "lang": "vi",
+      "content_html": "<p>Viên thuốc nhìn như cái thuyền không mũi k người lái</p>",
+      "content_text": "Viên thuốc nhìn như cái thuyền không mũi k người lái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151435",
+      "lang": "vi",
+      "content_html": "<p>CHU bỏ CỔN thành ĐAN</p>",
+      "content_text": "CHU bỏ CỔN thành ĐAN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151434",
+      "lang": "vi",
+      "content_html": "<p>đan mạch</p>",
+      "content_text": "đan mạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

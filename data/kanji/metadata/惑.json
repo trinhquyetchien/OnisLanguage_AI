@@ -1,0 +1,90 @@
+{
+  "kanji": "惑",
+  "meta": {
+    "weight": 986,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ワク"
+    ],
+    "kun": [
+      "まど.う"
+    ],
+    "am_han": "HOẶC"
+  },
+  "meaning": {
+    "vi": "hoang mang, ảo tưởng, bối rối",
+    "en": "beguile, delusion, perplexity"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/惑.svg"
+  },
+  "frequency": 777,
+  "examples": [
+    "迷惑",
+    "疑惑",
+    "惑星",
+    "思惑",
+    "誘惑"
+  ],
+  "explanation": {
+    "id": "8402",
+    "text": "惑 (đọc là \"waku\" hoặc \"waku suru\") có nghĩa là \"bối rối\", \"nghi ngờ\", để chỉ trạng thái lúng túng hoặc không chắc chắn trong suy nghĩ.  \nVí dụ:  \n- 惑う (madowaru): Bối rối, lúng túng.  \n- 惑星 "
+  },
+  "comments": [
+    {
+      "id": "153625",
+      "lang": "vi",
+      "content_html": "<p>MỒM Nói QUA loa 1 vài câu mà TÂM như Mê HOẶC</p>",
+      "content_text": "MỒM Nói QUA loa 1 vài câu mà TÂM như Mê HOẶC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153626",
+      "lang": "vi",
+      "content_html": "<p>lời nói là vũ khí mê hoặc lòng người</p>",
+      "content_text": "lời nói là vũ khí mê hoặc lòng người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153627",
+      "lang": "vi",
+      "content_html": "<p>Con tim bạn 心  đã bị mê hoặc 或</p>",
+      "content_text": "Con tim bạn 心  đã bị mê hoặc 或",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "kanji": "燦",
+  "meta": {
+    "weight": 1678,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン"
+    ],
+    "kun": [
+      "さん.たる",
+      "あき.らか",
+      "きらめ.く",
+      "きら.めく"
+    ],
+    "am_han": "XÁN"
+  },
+  "meaning": {
+    "vi": "rực rỡ",
+    "en": "brilliant"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/燦.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3000",
+    "text": "燦 (đọc là \"san\") có nghĩa là \"rực rỡ\", \"lấp lánh\", thường chỉ sự sáng chói, tỏa sáng của ánh sáng hoặc màu sắc.\n\nVí dụ:\n- 燦然 (sanzan): Rực rỡ, lấp lánh.\n- 燦めく (sanmeku): Lấp lánh, chiếu sáng"
+  },
+  "comments": [
+    {
+      "id": "220039",
+      "lang": "vi",
+      "content_html": "<p>Đốt lửa nấu cơm lại thấy cuộc sống XÁN lạn trở lại</p>",
+      "content_text": "Đốt lửa nấu cơm lại thấy cuộc sống XÁN lạn trở lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

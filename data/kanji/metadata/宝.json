@@ -1,0 +1,90 @@
+{
+  "kanji": "宝",
+  "meta": {
+    "weight": 719,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "たから"
+    ],
+    "am_han": "BẢO"
+  },
+  "meaning": {
+    "vi": "bảo vật",
+    "en": "treasure, wealth, valuables"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/宝.svg"
+  },
+  "frequency": 1139,
+  "examples": [
+    "宝",
+    "宝石",
+    "宝くじ",
+    "重宝",
+    "宝物"
+  ],
+  "explanation": {
+    "id": "7157",
+    "text": "宝 (đọc là \"hō\") có nghĩa là \"báu vật\", \"tài sản quý giá\" để chỉ những thứ có giá trị cao, thường liên quan đến của cải hoặc di sản văn hóa.\n\nVí dụ:\n- 宝物 (takaramono): Báu vật, đồ quý giá.\n- "
+  },
+  "comments": [
+    {
+      "id": "152950",
+      "lang": "vi",
+      "content_html": "<p>Viên ngọc cất trong nhà là bảo bối</p>",
+      "content_text": "Viên ngọc cất trong nhà là bảo bối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152951",
+      "lang": "vi",
+      "content_html": "<p>宝くじ ( たからくじ) xổ số</p>",
+      "content_text": "宝くじ ( たからくじ) xổ số",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152952",
+      "lang": "vi",
+      "content_html": "<p>Dưới nhà ông vua giữ viên ngọc làm BẢO bối</p>",
+      "content_text": "Dưới nhà ông vua giữ viên ngọc làm BẢO bối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

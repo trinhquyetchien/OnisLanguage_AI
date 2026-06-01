@@ -1,0 +1,109 @@
+{
+  "kanji": "医",
+  "meta": {
+    "weight": 382,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "い.やす",
+      "い.する",
+      "くすし"
+    ],
+    "am_han": "Y"
+  },
+  "meaning": {
+    "vi": "y học, bác sĩ",
+    "en": "doctor, medicine"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/医.svg"
+  },
+  "frequency": 437,
+  "examples": [
+    "医療",
+    "医師",
+    "医学",
+    "医者",
+    "医"
+  ],
+  "explanation": {
+    "id": "191",
+    "text": "医 (đọc là \"i\") có nghĩa là \"y học\", \"bác sĩ\" để chỉ các hành động và lĩnh vực liên quan đến sức khỏe, chữa bệnh.\n\nVí dụ:\n- 医者 (isha): Bác sĩ.\n- 医院 (iiin): Phòng khám, bệnh viện.\n- 医療 (iryō):"
+  },
+  "comments": [
+    {
+      "id": "36857",
+      "lang": "vi",
+      "content_html": "<p><strong>Bác sĩ</strong> chữa trị cho bệnh nhân bị trúng tên (矢)</p>",
+      "content_text": "Bác sĩ\nchữa trị cho bệnh nhân bị trúng tên (矢)",
+      "image_url": "https://jpdictionary.com/upload/images/62adda2e89f63.jpg",
+      "image_path": "assets/images/医_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158550",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>医者 (いしゃ): bác sĩ</p><p>医学 (いがく): y học</p><p>歯医者 (はいしゃ): nha sĩ</p>",
+      "content_text": "JLPT N4\n医者 (いしゃ): bác sĩ\n医学 (いがく): y học\n歯医者 (はいしゃ): nha sĩ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "152152",
+      "lang": "vi",
+      "content_html": "<p>Y sĩ để mũi kim trong hộp .</p>",
+      "content_text": "Y sĩ để mũi kim trong hộp .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158646",
+      "lang": "vi",
+      "content_html": "<p>医学界 (いがくかい）：Ngành Y</p><p>歯科医院(しかいいん): Phòng khám Nha Khoa<br>&nbsp;</p>",
+      "content_text": "医学界 (いがくかい）：Ngành Y\n歯科医院(しかいいん): Phòng khám Nha Khoa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

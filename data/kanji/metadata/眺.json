@@ -1,0 +1,88 @@
+{
+  "kanji": "眺",
+  "meta": {
+    "weight": 1847,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "なが.める"
+    ],
+    "am_han": "THIẾU"
+  },
+  "meaning": {
+    "vi": "nhìn chằm chằm, xem, nhìn, xem xét kỹ lưỡng",
+    "en": "stare, watch, look at, see, scrutinize"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/眺.svg"
+  },
+  "frequency": 1726,
+  "examples": [
+    "眺め",
+    "眺める",
+    "眺望"
+  ],
+  "explanation": {
+    "id": "5377",
+    "text": "眺 (đọc là \"chō\") có nghĩa là \"nhìn xa\", \"ngắm nhìn\" để chỉ hành động quan sát hoặc chiêm ngưỡng một cách thoải mái, thường về cảnh vật.\n\nVí dụ:\n- 眺望 (chōbō): Tầm nhìn, cảnh đẹp nhìn từ xa.\n-"
+  },
+  "comments": [
+    {
+      "id": "155575",
+      "lang": "vi",
+      "content_html": "<p>Ông trời có TRIỆU (兆) con MẮT (目)  nên TẦM nhìn (眺) không THIẾU sót một nơi nào.</p>",
+      "content_text": "Ông trời có TRIỆU (兆) con MẮT (目)  nên TẦM nhìn (眺) không THIẾU sót một nơi nào.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155576",
+      "lang": "vi",
+      "content_html": "<p>Mắt đi qua 1 Triệu mà ko nhặt đúng là Thiếu tầm nhìn</p>",
+      "content_text": "Mắt đi qua 1 Triệu mà ko nhặt đúng là Thiếu tầm nhìn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155577",
+      "lang": "vi",
+      "content_html": "<p>Tuổi Thiếu niên hay Ngắm gái Chạy qua</p>",
+      "content_text": "Tuổi Thiếu niên hay Ngắm gái Chạy qua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

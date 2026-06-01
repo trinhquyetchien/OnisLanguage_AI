@@ -1,0 +1,89 @@
+{
+  "kanji": "缶",
+  "meta": {
+    "weight": 2123,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "かま"
+    ],
+    "am_han": "PHỮU"
+  },
+  "meaning": {
+    "vi": "đồ hộp",
+    "en": "tin can, container, jar radical (no. 121)"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/缶.svg"
+  },
+  "frequency": 1543,
+  "examples": [
+    "缶",
+    "缶詰",
+    "ドラム缶",
+    "空き缶"
+  ],
+  "explanation": {
+    "id": "1167",
+    "text": "缶 (đọc là \"kan\") có nghĩa là \"hộp\" hoặc \"chai\", thường chỉ đến các dụng cụ đựng, đặc biệt là bằng kim loại.  \nVí dụ:  \n- 缶詰 (kandume): Đồ hộp, thực phẩm đóng hộp.  \n- 缶ビール (kanbīru): Bia đón"
+  },
+  "comments": [
+    {
+      "id": "156166",
+      "lang": "vi",
+      "content_html": "<p>Giờ ngọ lên núi nhặt lon</p>",
+      "content_text": "Giờ ngọ lên núi nhặt lon",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156167",
+      "lang": "vi",
+      "content_html": "<p>Buổi Trưa lên Núi PHẪU thuật cái lon</p>",
+      "content_text": "Buổi Trưa lên Núi PHẪU thuật cái lon",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156168",
+      "lang": "vi",
+      "content_html": "<p>Giờ Ngọ 午 lên núi 山 phẫu thuật cái lon 缶.</p>",
+      "content_text": "Giờ Ngọ 午 lên núi 山 phẫu thuật cái lon 缶.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

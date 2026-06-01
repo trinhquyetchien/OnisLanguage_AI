@@ -1,0 +1,108 @@
+{
+  "kanji": "先",
+  "meta": {
+    "weight": 260,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "さき",
+      "ま.ず"
+    ],
+    "am_han": "TIÊN"
+  },
+  "meaning": {
+    "vi": "trước, tiên tiến",
+    "en": "before, ahead, previous, future, precedence"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/先.svg"
+  },
+  "frequency": 173,
+  "examples": [
+    "先生",
+    "先",
+    "先ほど",
+    "先日",
+    "優先"
+  ],
+  "explanation": {
+    "id": "4472",
+    "text": "先 (đọc là \"saki\" hoặc \"sen\") có nghĩa là \"trước\", \"tiên\", thường chỉ về thời gian hoặc vị trí trước một cái gì đó. \n\nVí dụ:\n- 先輩 (senpai): Người đi trước, đàn anh.\n- 先週 (senshū): Tuần trước."
+  },
+  "comments": [
+    {
+      "id": "554",
+      "lang": "vi",
+      "content_html": "<p>Người ấy đang chạy <strong>trước </strong>mọi người.</p>",
+      "content_text": "Người ấy đang chạy\ntrước\nmọi người.",
+      "image_url": "https://jpdictionary.com/upload/images/62977d98a0e9d.jpg",
+      "image_path": "assets/images/先_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158460",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>先 (さき): trước<br>先月 (せんげつ): tháng trước<br>先週 (せんしゅう): tuần trước<br>先生 (せんせい): giáo viên, bác sĩ</p>",
+      "content_text": "JLPT N5\n先 (さき): trước\n先月 (せんげつ): tháng trước\n先週 (せんしゅう): tuần trước\n先生 (せんせい): giáo viên, bác sĩ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "151845",
+      "lang": "vi",
+      "content_html": "<p>Người cầm khiên Tiên phong đi trước</p>",
+      "content_text": "Người cầm khiên Tiên phong đi trước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221805",
+      "lang": "vi",
+      "content_html": "<p><strong>Nhân </strong>(Đi) dưới <strong>Thổ </strong>=&gt; Người đã khuất &lt;=&gt; Người đi trước aka <strong>Tiền </strong>nhân</p>",
+      "content_text": "Nhân\n(Đi) dưới\nThổ\n=> Người đã khuất <=> Người đi trước aka\nTiền\nnhân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "館",
+  "meta": {
+    "weight": 2938,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "やかた",
+      "たて"
+    ],
+    "am_han": "QUÁN"
+  },
+  "meaning": {
+    "vi": "tòa nhà, hội quán",
+    "en": "building, mansion, large building, palace"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/館.svg"
+  },
+  "frequency": 613,
+  "examples": [
+    "館",
+    "図書館",
+    "博物館",
+    "美術館",
+    "会館"
+  ],
+  "explanation": {
+    "id": "1200",
+    "text": "館 (đọc là \"kan\") có nghĩa là \"hội quán\", \"nhà\" để chỉ các địa điểm hoặc tòa nhà dành cho hoạt động cụ thể, thường liên quan đến văn hóa, nghệ thuật hoặc dịch vụ công cộng.\n\nVí dụ:\n- 館内 (kan'"
+  },
+  "comments": [
+    {
+      "id": "191243",
+      "lang": "vi",
+      "content_html": "<p><strong>tòa nhà</strong></p>",
+      "content_text": "tòa nhà",
+      "image_url": "https://jpdictionary.com/upload/images/648adfc40a872.jpg",
+      "image_path": "assets/images/館_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36898",
+      "lang": "vi",
+      "content_html": "<p>Các quan chức (官) sẽ ăn (食) ở <strong>toà nhà</strong> (館) này.</p>",
+      "content_text": "Các quan chức (官) sẽ ăn (食) ở\ntoà nhà\n(館) này.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc27a2932f7.jpg",
+      "image_path": "assets/images/館_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157961",
+      "lang": "vi",
+      "content_html": "<p>QUAN to có mũ đội đầu, nay mở QUÁN THỰC lại càng giàu thêm</p>",
+      "content_text": "QUAN to có mũ đội đầu, nay mở QUÁN THỰC lại càng giàu thêm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

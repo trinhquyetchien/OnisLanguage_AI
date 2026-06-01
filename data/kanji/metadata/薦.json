@@ -1,0 +1,89 @@
+{
+  "kanji": "薦",
+  "meta": {
+    "weight": 2351,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "すす.める"
+    ],
+    "am_han": "TIẾN"
+  },
+  "meaning": {
+    "vi": "giới thiệu, chiếu, khuyên, khuyến khích, đề nghị",
+    "en": "recommend, mat, advise, encourage, offer"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/薦.svg"
+  },
+  "frequency": 1082,
+  "examples": [
+    "推薦",
+    "お薦め",
+    "薦め",
+    "薦める"
+  ],
+  "explanation": {
+    "id": "4553",
+    "text": "薦 (đọc là \"sen\") có nghĩa là \"tiến cử\", \"gợi ý\" để chỉ hành động giới thiệu hoặc khuyến nghị ai đó cho một vị trí hoặc công việc nào đó.\n\nVí dụ:\n- 薦辞 (senshi): Thư giới thiệu, lời tiến cử.\n-"
+  },
+  "comments": [
+    {
+      "id": "156611",
+      "lang": "vi",
+      "content_html": "<p>GIỚI THIỆU loại Gà Tây TIẾN hoá chỉ ăn Cỏ nuôi trong nhà</p>",
+      "content_text": "GIỚI THIỆU loại Gà Tây TIẾN hoá chỉ ăn Cỏ nuôi trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156612",
+      "lang": "vi",
+      "content_html": "<p>gà Tiến hoá  ở trong nhà và biết ăn cỏ</p>",
+      "content_text": "gà Tiến hoá  ở trong nhà và biết ăn cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156613",
+      "lang": "vi",
+      "content_html": "<p>Thảo giới thiệu loại gà tây nuôi trong nhà chỉ cho ăn cỏ</p>",
+      "content_text": "Thảo giới thiệu loại gà tây nuôi trong nhà chỉ cho ăn cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

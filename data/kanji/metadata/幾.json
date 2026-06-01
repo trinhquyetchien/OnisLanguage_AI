@@ -1,0 +1,92 @@
+{
+  "kanji": "幾",
+  "meta": {
+    "weight": 856,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "いく-",
+      "いく.つ",
+      "いく.ら"
+    ],
+    "am_han": "KỈ"
+  },
+  "meaning": {
+    "vi": "bao nhiêu",
+    "en": "how many, how much, how far, how long, some, several"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/幾.svg"
+  },
+  "frequency": 1725,
+  "examples": [
+    "幾つ",
+    "幾ら",
+    "幾何",
+    "幾",
+    "幾度"
+  ],
+  "explanation": {
+    "id": "1286",
+    "text": "幾 (đọc là \"ki\") có nghĩa là \"bao nhiêu\", \"mấy\" để chỉ số lượng hoặc mức độ. \nVí dụ:\n- 幾つ (ikutsu): Mấy cái, bao nhiêu tuổi.\n- 幾多 (ikita): Nhiều, vô số.\n- 幾分 (ikubun): Một phần nào đó, một ch"
+  },
+  "comments": [
+    {
+      "id": "153308",
+      "lang": "vi",
+      "content_html": "<p>Người qua 2 lần yêu biết BAO NHIÊU cho đủ</p>",
+      "content_text": "Người qua 2 lần yêu biết BAO NHIÊU cho đủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153309",
+      "lang": "vi",
+      "content_html": "<p>Động cơ gỗ được điều khiển = 2 con thú nhỏ</p>",
+      "content_text": "Động cơ gỗ được điều khiển = 2 con thú nhỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153310",
+      "lang": "vi",
+      "content_html": "<p>2 lần Yêu mà 1 Người trải Qua thì có bao nhiêu KÍ ức</p>",
+      "content_text": "2 lần Yêu mà 1 Người trải Qua thì có bao nhiêu KÍ ức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

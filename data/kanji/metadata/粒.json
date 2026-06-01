@@ -1,0 +1,107 @@
+{
+  "kanji": "粒",
+  "meta": {
+    "weight": 2028,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リュウ"
+    ],
+    "kun": [
+      "つぶ"
+    ],
+    "am_han": "LẠP"
+  },
+  "meaning": {
+    "vi": "hạt",
+    "en": "grains, drop, counter for tiny particles"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/粒.svg"
+  },
+  "frequency": 1635,
+  "examples": [
+    "粒",
+    "粒子",
+    "素粒子",
+    "大粒",
+    "小粒"
+  ],
+  "explanation": {
+    "id": "8065",
+    "text": "粒 (đọc là \"ryū\") có nghĩa là \"hạt\", \"viên\" để chỉ các vật thể nhỏ, thường là hạt hoặc phần tử của một thứ gì đó.  \nVí dụ:  \n- 粒子 (ryūshi): Hạt, phần tử (như trong vật lý).  \n- 一粒 (hitotsubu)"
+  },
+  "comments": [
+    {
+      "id": "155934",
+      "lang": "vi",
+      "content_html": "<p>Bác LẠP Đứng chờ sát từng HẠT Gạo</p>",
+      "content_text": "Bác LẠP Đứng chờ sát từng HẠT Gạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190762",
+      "lang": "vi",
+      "content_html": "<p>lúa đứng mới cho được hạt lạp</p><p>&nbsp;</p>",
+      "content_text": "lúa đứng mới cho được hạt lạp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "155935",
+      "lang": "vi",
+      "content_html": "<p>LẠP 粒 xưởng phải ĐỨNG 立 cắt hạt nhỏ như hat GẠO 米 nấu mới ngon nhé...</p>",
+      "content_text": "LẠP 粒 xưởng phải ĐỨNG 立 cắt hạt nhỏ như hat GẠO 米 nấu mới ngon nhé...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155936",
+      "lang": "vi",
+      "content_html": "<p>Đứng 立 nhặt các hạt 粉 gạo 米。Trích Jdict</p>",
+      "content_text": "Đứng 立 nhặt các hạt 粉 gạo 米。Trích Jdict",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

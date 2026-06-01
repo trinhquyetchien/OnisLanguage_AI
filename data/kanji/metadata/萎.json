@@ -1,0 +1,88 @@
+{
+  "kanji": "萎",
+  "meta": {
+    "weight": 2303,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "な",
+      "しお.れる",
+      "しな.びる",
+      "しぼ.む",
+      "な.える"
+    ],
+    "am_han": "NUY"
+  },
+  "meaning": {
+    "vi": "khô héo, rũ xuống, què quặt",
+    "en": "wither, droop, lame"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/萎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "176",
+    "text": "萎 (đọc là \"i\") có nghĩa là \"héo\", \"khô héo\" để chỉ trạng thái của cây cỏ hoặc sự suy giảm sức sống, tươi đẹp.\n\nVí dụ:\n- 萎縮 (ishuku): Sự suy giảm, co lại.\n- 萎れた (woredeta): Héo úa, không còn "
+  },
+  "comments": [
+    {
+      "id": "220553",
+      "lang": "vi",
+      "content_html": "<p>Cây cỏ và lúa do coi gái tên nuy trồng đã héo khô</p>",
+      "content_text": "Cây cỏ và lúa do coi gái tên nuy trồng đã héo khô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220554",
+      "lang": "vi",
+      "content_html": "<p>bà THẢO đã ỦY quyền việc trồng LÚA cho đứa CON GÁI tên NUY . do không có khinh nghiệm đã làm cây lúa HÉO KHÔ  ...</p>",
+      "content_text": "bà THẢO đã ỦY quyền việc trồng LÚA cho đứa CON GÁI tên NUY . do không có khinh nghiệm đã làm cây lúa HÉO KHÔ  ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220555",
+      "lang": "vi",
+      "content_html": "<p>(trời nóng) cô gái uỷ viên nhìn thấy cây cỏ héo khô nên cũng phải Nuy cho mát</p>",
+      "content_text": "(trời nóng) cô gái uỷ viên nhìn thấy cây cỏ héo khô nên cũng phải Nuy cho mát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

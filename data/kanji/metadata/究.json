@@ -1,0 +1,91 @@
+{
+  "kanji": "究",
+  "meta": {
+    "weight": 1957,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ",
+      "ク"
+    ],
+    "kun": [
+      "きわ.める"
+    ],
+    "am_han": "CỨU"
+  },
+  "meaning": {
+    "vi": "nghiên cứu",
+    "en": "research, study"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/究.svg"
+  },
+  "frequency": 368,
+  "examples": [
+    "研究",
+    "研究所",
+    "究極",
+    "究明",
+    "探究"
+  ],
+  "explanation": {
+    "id": "1545",
+    "text": "究 (đọc là \"kyū\") có nghĩa là \"nghiên cứu\", \"tìm hiểu\" để chỉ các hành động liên quan đến việc điều tra, khám phá, hoặc tìm kiếm sự thật.\n\nVí dụ:\n- 究明 (kyūmei): Làm sáng tỏ, điều tra rõ ràng."
+  },
+  "comments": [
+    {
+      "id": "36867",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã ở trong nhà <strong>nghiên cứu </strong>9 (九) năm.</p>",
+      "content_text": "Tôi đã ở trong nhà\nnghiên cứu\n9 (九) năm.",
+      "image_url": "https://jpdictionary.com/upload/images/62addc4cc3642.jpg",
+      "image_path": "assets/images/究_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158483",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>研究 (けんきゅう): nghiên cứu<br>研究室 (けんきゅうしつ): phòng nghiên cứu</p>",
+      "content_text": "JLPT N4\n研究 (けんきゅう): nghiên cứu\n研究室 (けんきゅうしつ): phòng nghiên cứu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "155808",
+      "lang": "vi",
+      "content_html": "<p>Tu luyện 9 năm trong hang</p>",
+      "content_text": "Tu luyện 9 năm trong hang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

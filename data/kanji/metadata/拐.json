@@ -1,0 +1,84 @@
+{
+  "kanji": "拐",
+  "meta": {
+    "weight": 1072,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [],
+    "am_han": "QUẢI"
+  },
+  "meaning": {
+    "vi": "bắt cóc, giả mạo",
+    "en": "kidnap, falsify"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/拐.svg"
+  },
+  "frequency": 1498,
+  "examples": [
+    "誘拐"
+  ],
+  "explanation": {
+    "id": "777",
+    "text": "拐 (đọc là \"kai\") có nghĩa là \"bẻ cong\", \"quẹo\", thường được sử dụng trong ngữ cảnh chỉ việc bẻ cong một vật gì đó hoặc hành động quẹo khi di chuyển. \n\nVí dụ:\n- 拐杖 (kaizai): Gậy chống.\n- 拐角 ("
+  },
+  "comments": [
+    {
+      "id": "153856",
+      "lang": "vi",
+      "content_html": "<p>Kẻ bắt cóc tay cầm dao bịt miệng con tin</p>",
+      "content_text": "Kẻ bắt cóc tay cầm dao bịt miệng con tin",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153857",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm Dao QUẢI vào Mồm thằng BẮT CÓC</p>",
+      "content_text": "Tay cầm Dao QUẢI vào Mồm thằng BẮT CÓC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153858",
+      "lang": "vi",
+      "content_html": "<p>Tưởng vẫy lại 招 cho kẹo ngượi lại bị bắt cóc 拐 luôn</p>",
+      "content_text": "Tưởng vẫy lại 招 cho kẹo ngượi lại bị bắt cóc 拐 luôn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

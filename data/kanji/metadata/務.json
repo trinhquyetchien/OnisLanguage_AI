@@ -1,0 +1,90 @@
+{
+  "kanji": "務",
+  "meta": {
+    "weight": 360,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ム"
+    ],
+    "kun": [
+      "つと.める"
+    ],
+    "am_han": "VỤ"
+  },
+  "meaning": {
+    "vi": "chức vụ, nhiệm vụ",
+    "en": "task, duties"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/務.svg"
+  },
+  "frequency": 111,
+  "examples": [
+    "事務",
+    "業務",
+    "事務所",
+    "義務",
+    "国務大臣"
+  ],
+  "explanation": {
+    "id": "7513",
+    "text": "務 (đọc là \"mu\") có nghĩa là \"nhiệm vụ\", \"công việc\" để chỉ các hành động liên quan đến trách nhiệm hoặc công việc cần thực hiện.\n\nVí dụ:\n- 使命 (shimei): Sứ mệnh, nhiệm vụ.\n- 業務 (gyōmu): Công "
+  },
+  "comments": [
+    {
+      "id": "152106",
+      "lang": "vi",
+      "content_html": "<p>Dùng LỰC cầm MÂU chiến đấu là nghĩa VỤ</p>",
+      "content_text": "Dùng LỰC cầm MÂU chiến đấu là nghĩa VỤ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152107",
+      "lang": "vi",
+      "content_html": "<p>Nghĩa VỤ cũng giống như là bạn phải cầm MÂU, CHIẾN ĐẤU với tất cả SỨC LỰC của mình.</p>",
+      "content_text": "Nghĩa VỤ cũng giống như là bạn phải cầm MÂU, CHIẾN ĐẤU với tất cả SỨC LỰC của mình.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152108",
+      "lang": "vi",
+      "content_html": "<p>Dùng LỰC (力) cầm Giáo (矛 MÂU) đi Đánh (攵 PHỘC) giặc là nghĩa Vụ</p>",
+      "content_text": "Dùng LỰC (力) cầm Giáo (矛 MÂU) đi Đánh (攵 PHỘC) giặc là nghĩa Vụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

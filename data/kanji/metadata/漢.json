@@ -1,0 +1,88 @@
+{
+  "kanji": "漢",
+  "meta": {
+    "weight": 1612,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [],
+    "am_han": "HÁN"
+  },
+  "meaning": {
+    "vi": "Trung Quốc",
+    "en": "Sino-, China"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/漢.svg"
+  },
+  "frequency": 1487,
+  "examples": [
+    "漢字",
+    "漢",
+    "痴漢",
+    "漢方",
+    "漢文"
+  ],
+  "explanation": {
+    "id": "20319",
+    "text": "漢 (đọc là \"kai\") có nghĩa là \"hợp nhất\", \"kết hợp\" để chỉ các hành động liên quan đến việc kết hợp hoặc tổ chức lại.\n\nVí dụ:\n- 統合 (tōgō): Hợp nhất, tích hợp.\n- 合併 (gappei): Sát nhập, hợp nhấ"
+  },
+  "comments": [
+    {
+      "id": "976",
+      "lang": "vi",
+      "content_html": "<p>Ông chồng (夫) người <strong>Trung Quốc</strong> (漢)<strong> </strong>chất cỏ lên đầu rồi băng qua sông.</p>",
+      "content_text": "Ông chồng (夫) người\nTrung Quốc\n(漢)\nchất cỏ lên đầu rồi băng qua sông.",
+      "image_url": "https://jpdictionary.com/upload/images/629ac61e6ad79.png",
+      "image_path": "assets/images/漢_1.png",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155076",
+      "lang": "vi",
+      "content_html": "<p>cho nước 氵 và cỏ 艹 vào miệng 口 chồng 夫 người hán 漢</p>",
+      "content_text": "cho nước 氵 và cỏ 艹 vào miệng 口 chồng 夫 người hán 漢",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158608",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>漢字 (かんじ): chữ Hán</p>",
+      "content_text": "JLPT N4\n漢字 (かんじ): chữ Hán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

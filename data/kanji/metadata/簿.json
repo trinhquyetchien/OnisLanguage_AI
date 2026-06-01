@@ -1,0 +1,86 @@
+{
+  "kanji": "簿",
+  "meta": {
+    "weight": 2019,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボ"
+    ],
+    "kun": [],
+    "am_han": "BỘ, BẠC"
+  },
+  "meaning": {
+    "vi": "đăng ký, ghi sổ",
+    "en": "register, record book"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/簿.svg"
+  },
+  "frequency": 1358,
+  "examples": [
+    "名簿",
+    "簿記",
+    "帳簿"
+  ],
+  "explanation": {
+    "id": "7132",
+    "text": "簿 (đọc là \"bo\") có nghĩa là \"sổ\", \"sách\", dùng để chỉ các loại sổ sách, ghi chép hoặc tài liệu.  \nVí dụ:  \n- 簿記 (boki): Kế toán, ghi chép tài chính.  \n- 名簿 (meibo): Danh bạ, danh sách tên.  "
+  },
+  "comments": [
+    {
+      "id": "155921",
+      "lang": "vi",
+      "content_html": "<p>Tre chuyên dùng để vảy mực vào đó làm sổ bộ ghi chép</p>",
+      "content_text": "Tre chuyên dùng để vảy mực vào đó làm sổ bộ ghi chép",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155922",
+      "lang": "vi",
+      "content_html": "<p>bút Tre(竹) mực Nước( 氵) CHUYÊN(専) để ghi chép BỘ(簿) sổ sách</p>",
+      "content_text": "bút Tre(竹) mực Nước( 氵) CHUYÊN(専) để ghi chép BỘ(簿) sổ sách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155923",
+      "lang": "vi",
+      "content_html": "<p>BỘ sổ sách bằng Trúc Chuyên dùng mực Nước để viết</p>",
+      "content_text": "BỘ sổ sách bằng Trúc Chuyên dùng mực Nước để viết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

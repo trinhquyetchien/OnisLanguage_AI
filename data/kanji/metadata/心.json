@@ -1,0 +1,91 @@
+{
+  "kanji": "心",
+  "meta": {
+    "weight": 938,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "こころ",
+      "-ごころ"
+    ],
+    "am_han": "TÂM"
+  },
+  "meaning": {
+    "vi": "trái tim, tâm lí",
+    "en": "heart, mind, spirit, heart radical (no. 61)"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/心.svg"
+  },
+  "frequency": 157,
+  "examples": [
+    "心",
+    "中心",
+    "心配",
+    "安心",
+    "関心"
+  ],
+  "explanation": {
+    "id": "4069",
+    "text": "心 (đọc là \"shin\" hoặc \"kokoro\") có nghĩa là \"trái tim\", \"tâm hồn\" để chỉ cảm xúc, tâm trạng và suy nghĩ của con người.\n\nVí dụ:\n- 心配 (shinpai): Lo lắng, quan tâm.\n- 心臓 (shinzou): Tim (cơ quan"
+  },
+  "comments": [
+    {
+      "id": "191012",
+      "lang": "vi",
+      "content_html": "<p>trái <strong>tim</strong></p>",
+      "content_text": "trái\ntim",
+      "image_url": "https://jpdictionary.com/upload/images/648a8d963d708.jpg",
+      "image_path": "assets/images/心_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "726",
+      "lang": "vi",
+      "content_html": "<p>Trái <strong>tim </strong>đang đập.</p>",
+      "content_text": "Trái\ntim\nđang đập.",
+      "image_url": "https://jpdictionary.com/upload/images/62984167017f5.jpg",
+      "image_path": "assets/images/心_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158310",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>心 (こころ): trái tim</p><p>安心 (あんしん): an tâm<br>心配 (しんぱい): lo lắng<br>熱心 (ねっしん): nhiệt tình</p>",
+      "content_text": "JLPT N5\n心 (こころ): trái tim\n安心 (あんしん): an tâm\n心配 (しんぱい): lo lắng\n熱心 (ねっしん): nhiệt tình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

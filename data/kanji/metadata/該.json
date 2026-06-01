@@ -1,0 +1,86 @@
+{
+  "kanji": "該",
+  "meta": {
+    "weight": 2483,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガイ"
+    ],
+    "kun": [],
+    "am_han": "CAI"
+  },
+  "meaning": {
+    "vi": "đã nêu ở trên, đã nói, cụ thể",
+    "en": "above-stated, the said, that specific"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/該.svg"
+  },
+  "frequency": 1648,
+  "examples": [
+    "当該",
+    "該当",
+    "該"
+  ],
+  "explanation": {
+    "id": "858",
+    "text": "該 (đọc là \"gai\") có nghĩa là \"tương ứng\", \"liên quan\" để chỉ sự phù hợp hoặc liên hệ với một cái gì đó.\n\nVí dụ:\n- 該当 (gaitō): Tương ứng, phù hợp.\n- 該社 (gaisya): Công ty đó, công ty liên quan"
+  },
+  "comments": [
+    {
+      "id": "156901",
+      "lang": "vi",
+      "content_html": "<p>nói Bao Quát lại 4ng đội mũ ở lào Cai</p>",
+      "content_text": "nói Bao Quát lại 4ng đội mũ ở lào Cai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156902",
+      "lang": "vi",
+      "content_html": "<p>nếu thấy lợn (亥) nói chuyện (言) thì nên đi CAI nghiện</p>",
+      "content_text": "nếu thấy lợn (亥) nói chuyện (言) thì nên đi CAI nghiện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156903",
+      "lang": "vi",
+      "content_html": "<p>4 người đội mũ nói lời cai nhau</p>",
+      "content_text": "4 người đội mũ nói lời cai nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

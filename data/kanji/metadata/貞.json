@@ -1,0 +1,92 @@
+{
+  "kanji": "貞",
+  "meta": {
+    "weight": 2543,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ",
+      "ジョウ"
+    ],
+    "kun": [
+      "ただし.い",
+      "さだ"
+    ],
+    "am_han": "TRINH"
+  },
+  "meaning": {
+    "vi": "ngay thẳng, khiết tịnh, kiên định, công bình",
+    "en": "upright, chastity, constancy, righteousness"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/貞.svg"
+  },
+  "frequency": 1389,
+  "examples": [
+    "貞",
+    "童貞",
+    "貞治",
+    "貞操",
+    "不貞"
+  ],
+  "explanation": {
+    "id": "5537",
+    "text": "貞 (đọc là \"tei\" hoặc \"sadame\") có nghĩa là \"trung thực\", \"chính trực\", thường dùng để chỉ sự kiên định và chính xác trong hành động hay phẩm hạnh.\n\nVí dụ:\n- 貞操 (teiso): Tiết hạnh, trong sạch"
+  },
+  "comments": [
+    {
+      "id": "157043",
+      "lang": "vi",
+      "content_html": "<p>thượng bối còn trinh</p>",
+      "content_text": "thượng bối còn trinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157044",
+      "lang": "vi",
+      "content_html": "<p>vượt lên trên cám dỗ đồng tiền mới giữ được trinh tiết</p>",
+      "content_text": "vượt lên trên cám dỗ đồng tiền mới giữ được trinh tiết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157045",
+      "lang": "vi",
+      "content_html": "<p>lấy tiền đi xem bói , thầy bói nói bồ e vẫn còn TRINH , vui vl</p>",
+      "content_text": "lấy tiền đi xem bói , thầy bói nói bồ e vẫn còn TRINH , vui vl",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

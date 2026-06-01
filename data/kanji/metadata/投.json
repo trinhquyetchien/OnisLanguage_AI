@@ -1,0 +1,108 @@
+{
+  "kanji": "投",
+  "meta": {
+    "weight": 1059,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "な.げる",
+      "-な.げ"
+    ],
+    "am_han": "ĐẦU"
+  },
+  "meaning": {
+    "vi": "ném, đầu tư",
+    "en": "throw, discard, abandon, launch into, join, invest in, hurl, give up, sell at a loss"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/投.svg"
+  },
+  "frequency": 236,
+  "examples": [
+    "投稿",
+    "投資",
+    "投票",
+    "投げ",
+    "投入"
+  ],
+  "explanation": {
+    "id": "5796",
+    "text": "投 (đọc là \"tou\") có nghĩa là \"ném\", \"đầu tư\" để chỉ các hành động liên quan đến việc ném hoặc đặt tiền vào một dự án, công trình nào đó.\n\nVí dụ:\n- 投票 (touhyou): Bỏ phiếu.\n- 投資 (toushi): Đầu "
+  },
+  "comments": [
+    {
+      "id": "37266",
+      "lang": "vi",
+      "content_html": "<p>Tôi <strong>ném </strong>đá bằng tay.</p>",
+      "content_text": "Tôi\nném\nđá bằng tay.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdb80949a8.jpg",
+      "image_path": "assets/images/投_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153817",
+      "lang": "vi",
+      "content_html": "<p>Lấy TAY chặt đầu kẻ THÙ rồi ném đi 投げ捨て</p>",
+      "content_text": "Lấy TAY chặt đầu kẻ THÙ rồi ném đi 投げ捨て",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153818",
+      "lang": "vi",
+      "content_html": "<p>Dùng Tay ném cái Ghế vào Đầu thằng Hựu</p>",
+      "content_text": "Dùng Tay ném cái Ghế vào Đầu thằng Hựu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153819",
+      "lang": "vi",
+      "content_html": "<p>Đưa tay ném kẻ thù đi</p>",
+      "content_text": "Đưa tay ném kẻ thù đi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

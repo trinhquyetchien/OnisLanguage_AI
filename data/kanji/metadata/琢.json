@@ -1,0 +1,70 @@
+{
+  "kanji": "琢",
+  "meta": {
+    "weight": 1747,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タク"
+    ],
+    "kun": [
+      "みが.く"
+    ],
+    "am_han": "TRÁC"
+  },
+  "meaning": {
+    "vi": "đánh bóng",
+    "en": "polish"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/琢.svg"
+  },
+  "frequency": 2022,
+  "examples": [
+    "琢磨",
+    "切磋琢磨"
+  ],
+  "explanation": {
+    "id": "20322",
+    "text": "琢 (đọc là \"shaku\") có nghĩa là \"bùn\", \"đất sét\", thường chỉ các loại đất ẩm ướt hoặc bùn lấp.\n\nVí dụ:\n- 琢土 (shakudo): Đất sét.\n- 琢のような (shaku no you na): Như bùn, như đất sét.\n- 琢色 (shakusho"
+  },
+  "comments": [
+    {
+      "id": "155347",
+      "lang": "vi",
+      "content_html": "<p>Vua ngu như lợn ăn chơi TRÁC táng</p>",
+      "content_text": "Vua ngu như lợn ăn chơi TRÁC táng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155348",
+      "lang": "vi",
+      "content_html": "<p>vua rất đần độn và trác táng</p>",
+      "content_text": "vua rất đần độn và trác táng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

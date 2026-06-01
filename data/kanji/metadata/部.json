@@ -1,0 +1,90 @@
+{
+  "kanji": "部",
+  "meta": {
+    "weight": 2704,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ブ"
+    ],
+    "kun": [
+      "-べ"
+    ],
+    "am_han": "BỘ"
+  },
+  "meaning": {
+    "vi": "bộ môn, bộ phận",
+    "en": "section, bureau, dept, class, copy, part, portion, counter for copies of a newspaper or magazine"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/部.svg"
+  },
+  "frequency": 36,
+  "examples": [
+    "部分",
+    "部",
+    "一部",
+    "部屋",
+    "全部"
+  ],
+  "explanation": {
+    "id": "6876",
+    "text": "部 (đọc là \"bu\") có nghĩa là \"phần\", \"bộ phận\" hoặc \"cục, bộ\" để chỉ các đơn vị, phần trong tổ chức hoặc hệ thống.\n\nVí dụ:\n- 部屋 (heya): Phòng.\n- 部門 (bumon): Bộ phận, lĩnh vực.\n- 部長 (buchou): "
+  },
+  "comments": [
+    {
+      "id": "37093",
+      "lang": "vi",
+      "content_html": "<p>Một người đang đứng (立) ở <strong>phần </strong>đợi xe buýt.</p>",
+      "content_text": "Một người đang đứng (立) ở\nphần\nđợi xe buýt.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb299cf7dd.jpg",
+      "image_path": "assets/images/部_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157448",
+      "lang": "vi",
+      "content_html": "<p>Mồm to ĐỨng Hô Bố Tao làm BỘ trưởng</p>",
+      "content_text": "Mồm to ĐỨng Hô Bố Tao làm BỘ trưởng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191213",
+      "lang": "vi",
+      "content_html": "<p><strong>bộ </strong>phận - 部分</p>",
+      "content_text": "bộ\nphận - 部分",
+      "image_url": "https://jpdictionary.com/upload/images/648adcb0cbbf8.jpg",
+      "image_path": "assets/images/部_3.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

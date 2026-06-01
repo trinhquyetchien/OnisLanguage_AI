@@ -1,0 +1,90 @@
+{
+  "kanji": "英",
+  "meta": {
+    "weight": 2271,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エイ"
+    ],
+    "kun": [
+      "はなぶさ"
+    ],
+    "am_han": "ANH"
+  },
+  "meaning": {
+    "vi": "tiếng Anh, anh hùng",
+    "en": "England, English, hero, outstanding, calyx"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/英.svg"
+  },
+  "frequency": 430,
+  "examples": [
+    "英語",
+    "英",
+    "英国",
+    "英会話",
+    "英文"
+  ],
+  "explanation": {
+    "id": "395",
+    "text": "英 (đọc là \"eiyuu\" hoặc \"ei\") có nghĩa là \"anh hùng\", \"thông minh\" để chỉ sự xuất sắc, tài năng hoặc liên quan đến nước Anh/tiếng Anh.  \nVí dụ:  \n- 英雄 (eiyuu): Anh hùng.  \n- 英語 (eigo): Tiếng "
+  },
+  "comments": [
+    {
+      "id": "1018",
+      "lang": "vi",
+      "content_html": "<p>Người ở chính giữa (央) là<strong> anh hùng </strong>cỏ.</p>",
+      "content_text": "Người ở chính giữa (央) là\nanh hùng\ncỏ.",
+      "image_url": "https://jpdictionary.com/upload/images/62a0a6e004611.jpg",
+      "image_path": "assets/images/英_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156497",
+      "lang": "vi",
+      "content_html": "<p>THẢO muốn làm việc trên trung ƯƠNG thì phải học TIẾNG ANH</p>",
+      "content_text": "THẢO muốn làm việc trên trung ƯƠNG thì phải học TIẾNG ANH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158549",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>英語 (えいご): tiếng Anh</p>",
+      "content_text": "JLPT N4\n英語 (えいご): tiếng Anh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

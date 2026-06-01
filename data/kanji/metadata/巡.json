@@ -1,0 +1,91 @@
+{
+  "kanji": "巡",
+  "meta": {
+    "weight": 815,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュン"
+    ],
+    "kun": [
+      "めぐ.る",
+      "めぐ.り"
+    ],
+    "am_han": "TUẦN"
+  },
+  "meaning": {
+    "vi": "tuần tra, đi xung quanh, chu vi",
+    "en": "patrol, go around, circumference"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/巡.svg"
+  },
+  "frequency": 1262,
+  "examples": [
+    "巡る",
+    "巡回",
+    "巡り",
+    "巡礼",
+    "巡査"
+  ],
+  "explanation": {
+    "id": "3666",
+    "text": "巡 (đọc là \"jun\") có nghĩa là \"tuần tra\", \"kiểm tra\" để chỉ các hành động liên quan đến việc kiểm soát, giám sát hoặc đi qua lại trong một khu vực.\n\nVí dụ:\n- 巡査 (junsa): Cảnh sát, viên chức t"
+  },
+  "comments": [
+    {
+      "id": "153195",
+      "lang": "vi",
+      "content_html": "<p>Đi lại dọc bờ sông tuần tra</p>",
+      "content_text": "Đi lại dọc bờ sông tuần tra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153196",
+      "lang": "vi",
+      "content_html": "<p>Huy hiệu của cảnh sát tuần tra có 3 dấu &#60;&#60;&#60; trên vai</p>",
+      "content_text": "Huy hiệu của cảnh sát tuần tra có 3 dấu <<< trên vai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153197",
+      "lang": "vi",
+      "content_html": "<p>cảnh sát đi Tuần tra theo dấu hiệu xung quanh (まわり) đường</p>",
+      "content_text": "cảnh sát đi Tuần tra theo dấu hiệu xung quanh (まわり) đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

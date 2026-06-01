@@ -1,0 +1,38 @@
+{
+  "kanji": "篠",
+  "meta": {
+    "weight": 2013,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゾウ",
+      "ショウ"
+    ],
+    "kun": [
+      "しの",
+      "ささ",
+      "すず"
+    ],
+    "am_han": "TIỂU"
+  },
+  "meaning": {
+    "vi": "cỏ tre",
+    "en": "bamboo grass"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/篠.svg"
+  },
+  "frequency": 1556,
+  "examples": [
+    "篠原",
+    "篠"
+  ],
+  "explanation": {
+    "id": "3300",
+    "text": "篠 (đọc là \"shou\") có nghĩa là \"cỏ mỏng\", thường chỉ những loại cỏ nhỏ, mảnh hoặc một số loại cây trồng. \n\nVí dụ:\n- 篠竹 (shoubamboo): Tre mảnh.\n- 篠原 (shouhara): Cánh đồng có cỏ mỏng.\n- 篠韻 (sho"
+  },
+  "comments": []
+}

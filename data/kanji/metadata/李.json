@@ -1,0 +1,86 @@
+{
+  "kanji": "李",
+  "meta": {
+    "weight": 1287,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リ"
+    ],
+    "kun": [
+      "すもも"
+    ],
+    "am_han": "LÝ"
+  },
+  "meaning": {
+    "vi": "mận",
+    "en": "plum"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/李.svg"
+  },
+  "frequency": 1147,
+  "examples": [
+    "李"
+  ],
+  "explanation": {
+    "id": "8006",
+    "text": "李 (đọc là \"ri\") có nghĩa là \"mận\", một loại trái cây. Ngoài ra, nó cũng thường được dùng làm họ trong tên người Nhật.\n\nVí dụ:\n- 李 (Ri): Họ Li, phổ biến trong các tên người.\n- 李子 (riko): Trái"
+  },
+  "comments": [
+    {
+      "id": "154379",
+      "lang": "vi",
+      "content_html": "<p>ngài LÝ tổng sai thằng BÉ trèo lên CÂY MẬN</p>",
+      "content_text": "ngài LÝ tổng sai thằng BÉ trèo lên CÂY MẬN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154380",
+      "lang": "vi",
+      "content_html": "<p>Cây trẻ con hay trèo là cây mận nhà cụ LÝ</p>",
+      "content_text": "Cây trẻ con hay trèo là cây mận nhà cụ LÝ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154381",
+      "lang": "vi",
+      "content_html": "<p>Đứa bé tinh nghịch trèo lên cây hái mận</p>",
+      "content_text": "Đứa bé tinh nghịch trèo lên cây hái mận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

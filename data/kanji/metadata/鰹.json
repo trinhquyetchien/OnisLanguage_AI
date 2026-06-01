@@ -1,0 +1,50 @@
+{
+  "kanji": "鰹",
+  "meta": {
+    "weight": 2989,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "かつお"
+    ],
+    "am_han": "KIÊN"
+  },
+  "meaning": {
+    "vi": "bonito",
+    "en": "bonito"
+  },
+  "stroke": {
+    "count": 23,
+    "svg": "assets/svg/鰹.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1003",
+    "text": "鰹 (đọc là \"katsuo\") có nghĩa là \"cá ngừ\", một loại cá biển thường được sử dụng trong ẩm thực Nhật Bản. \n\nVí dụ:\n- 鰹節 (katsuobushi): Cá ngừ khô, dùng để làm nước dùng.\n- 鰹丼 (katsudon): Cơm cá"
+  },
+  "comments": [
+    {
+      "id": "221111",
+      "lang": "vi",
+      "content_html": "<p>Con cá kiên cố là con cá ngừ vằn</p>",
+      "content_text": "Con cá kiên cố là con cá ngừ vằn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

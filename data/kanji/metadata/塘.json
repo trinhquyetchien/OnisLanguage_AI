@@ -1,0 +1,32 @@
+{
+  "kanji": "塘",
+  "meta": {
+    "weight": 588,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "つつみ"
+    ],
+    "am_han": "ĐƯỜNG"
+  },
+  "meaning": {
+    "vi": "đê, kè",
+    "en": "dike, embankment"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/塘.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5782",
+    "text": "塘 (đọc là \"tō\" trong tiếng Nhật) có nghĩa là \"bến tàu\", \"hồ chứa nước\" để chỉ các khu vực có nước hoặc dùng để chứa nước.\n\nVí dụ:\n- 塘主 (tōshu): Người quản lý bến tàu.\n- 池塘 (chidori-tō): Ao h"
+  },
+  "comments": []
+}

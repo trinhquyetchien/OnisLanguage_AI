@@ -1,0 +1,106 @@
+{
+  "kanji": "模",
+  "meta": {
+    "weight": 1419,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モ",
+      "ボ"
+    ],
+    "kun": [],
+    "am_han": "MÔ"
+  },
+  "meaning": {
+    "vi": "bắt chước, sao chép, mô phỏng",
+    "en": "imitation, copy, mock"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/模.svg"
+  },
+  "frequency": 668,
+  "examples": [
+    "規模",
+    "模様",
+    "小規模",
+    "模索",
+    "模型"
+  ],
+  "explanation": {
+    "id": "7590",
+    "text": "模 (đọc là \"mo\") có nghĩa là \"mô hình\", \"mẫu\" để chỉ các khái niệm liên quan đến việc làm mẫu hoặc mô phỏng.\n\nVí dụ:\n- 模型 (mokei): Mô hình, bản mẫu.\n- 模様 (moyou): Hoa văn, kiểu dáng.\n- 模倣 (mo"
+  },
+  "comments": [
+    {
+      "id": "154609",
+      "lang": "vi",
+      "content_html": "<p>Người xưa khi Mô tả lại lúc khai sơ trái đất chỉ có cỏ cây và mặt trời lớn.</p>",
+      "content_text": "Người xưa khi Mô tả lại lúc khai sơ trái đất chỉ có cỏ cây và mặt trời lớn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154610",
+      "lang": "vi",
+      "content_html": "<p>Mô hình cây cỏ to như mặt trời</p>",
+      "content_text": "Mô hình cây cỏ to như mặt trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "218470",
+      "lang": "vi",
+      "content_html": "<p>cây <strong>木 cỏ 艹 được mặt trời 日 lớn 大 đổ bóng Mô phỏng</strong></p>",
+      "content_text": "cây\n木 cỏ 艹 được mặt trời 日 lớn 大 đổ bóng Mô phỏng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "154611",
+      "lang": "vi",
+      "content_html": "<p>莫 : Lượng lớn莫 cỏ艹 trên mặt trời 日 to 大<br>募 : Chiêu mộ 募 lượng lớn 莫 lực sĩ 力 <br>漠 : Sa mạc漠 cần một lượng lớn莫 nước 氵 <br>幕 : Mạc phủ 幕 dùng một lượng lớn莫 khăn巾<br>墓 : Mộ墓 là nơi có nhiều莫 đất土<br>暮 : Cuộc sống暮 = lượng lớn莫 ngày日<br>模 : Mô hình模 cần lượng lớn莫 gỗ木</p>",
+      "content_text": "莫 : Lượng lớn莫 cỏ艹 trên mặt trời 日 to 大\n募 : Chiêu mộ 募 lượng lớn 莫 lực sĩ 力\n漠 : Sa mạc漠 cần một lượng lớn莫 nước 氵\n幕 : Mạc phủ 幕 dùng một lượng lớn莫 khăn巾\n墓 : Mộ墓 là nơi có nhiều莫 đất土\n暮 : Cuộc sống暮 = lượng lớn莫 ngày日\n模 : Mô hình模 cần lượng lớn莫 gỗ木",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

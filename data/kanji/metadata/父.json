@@ -1,0 +1,90 @@
+{
+  "kanji": "父",
+  "meta": {
+    "weight": 1683,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "ちち"
+    ],
+    "am_han": "PHỤ"
+  },
+  "meaning": {
+    "vi": "cha, phụ thân",
+    "en": "father"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/父.svg"
+  },
+  "frequency": 646,
+  "examples": [
+    "父",
+    "父親",
+    "お父さん",
+    "親父",
+    "祖父"
+  ],
+  "explanation": {
+    "id": "6827",
+    "text": "父 (đọc là \"chichi\" hoặc \"tou\") có nghĩa là \"cha\" để chỉ mối quan hệ gia đình và vai trò của người cha trong gia đình.  \nVí dụ:  \n- 父親 (chichioya): Bố, cha.  \n- 母父 (haha chichi): Cha mẹ (khi "
+  },
+  "comments": [
+    {
+      "id": "558",
+      "lang": "vi",
+      "content_html": "<p><strong>Cha </strong>tôi có râu.</p>",
+      "content_text": "Cha\ntôi có râu.",
+      "image_url": "https://jpdictionary.com/upload/images/62977de3463ad.jpg",
+      "image_path": "assets/images/父_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158468",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>父 (ちち): cha (tôi)</p><p>お父さん (おとうさん): cha</p><p>お祖父さん (おじいさん): ông<br>伯父さん (おじさん): chú</p>",
+      "content_text": "JLPT N5\n父 (ちち): cha (tôi)\nお父さん (おとうさん): cha\nお祖父さん (おじいさん): ông\n伯父さん (おじさん): chú",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "155218",
+      "lang": "vi",
+      "content_html": "<p>CHA là người có đến 8 TÀI NGHỆ</p>",
+      "content_text": "CHA là người có đến 8 TÀI NGHỆ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

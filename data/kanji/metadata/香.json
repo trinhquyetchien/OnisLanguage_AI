@@ -1,0 +1,110 @@
+{
+  "kanji": "香",
+  "meta": {
+    "weight": 2941,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "キョウ"
+    ],
+    "kun": [
+      "か",
+      "かお.り",
+      "かお.る"
+    ],
+    "am_han": "HƯƠNG"
+  },
+  "meaning": {
+    "vi": "mùi hương, hương thơm",
+    "en": "incense, smell, perfume"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/香.svg"
+  },
+  "frequency": 859,
+  "examples": [
+    "香り",
+    "香港",
+    "香",
+    "香川",
+    "香水"
+  ],
+  "explanation": {
+    "id": "2589",
+    "text": "香 (đọc là \"kō\" hoặc \"ka\") có nghĩa là \"hương\", \"mùi thơm\", thường được dùng để chỉ các loại hương liệu, mùi thơm dễ chịu. \n\nVí dụ:\n- 香水 (kōsui): Nước hoa.\n- 香り (kaori): Mùi thơm, hương thơm."
+  },
+  "comments": [
+    {
+      "id": "157968",
+      "lang": "vi",
+      "content_html": "<p>NGÀY mùa LÚA chín THƠM.</p>",
+      "content_text": "NGÀY mùa LÚA chín THƠM.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190736",
+      "lang": "vi",
+      "content_html": "<p>Lúa có ánh mặt trời sẽ tỏa Hương</p>",
+      "content_text": "Lúa có ánh mặt trời sẽ tỏa Hương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157969",
+      "lang": "vi",
+      "content_html": "<p>Hương thơm hoà nhật</p>",
+      "content_text": "Hương thơm hoà nhật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157970",
+      "lang": "vi",
+      "content_html": "<p>trong những NGÀY nắng ta có thể nghe rõ mùi HƯƠNG của LÚA(HÒA)</p>",
+      "content_text": "trong những NGÀY nắng ta có thể nghe rõ mùi HƯƠNG của LÚA(HÒA)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "kanji": "神",
+  "meta": {
+    "weight": 1906,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン",
+      "ジン"
+    ],
+    "kun": [
+      "かみ",
+      "かん-",
+      "こう-"
+    ],
+    "am_han": "THẦN"
+  },
+  "meaning": {
+    "vi": "thần thánh",
+    "en": "gods, mind, soul"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/神.svg"
+  },
+  "frequency": 347,
+  "examples": [
+    "神",
+    "精神",
+    "神様",
+    "神戸",
+    "神社"
+  ],
+  "explanation": {
+    "id": "4104",
+    "text": "神 (đọc là \"kami\") có nghĩa là \"thần\" hoặc \"thánh\", chỉ các thực thể thiêng liêng, biểu tượng cho sức mạnh siêu nhiên hoặc sự linh thiêng.\n\nVí dụ:\n- 神社 (jinja): Đền thờ thần.\n- 神様 (kami-sama)"
+  },
+  "comments": [
+    {
+      "id": "37316",
+      "lang": "vi",
+      "content_html": "<p>Cúng bái <strong>thần </strong>Sấm.</p>",
+      "content_text": "Cúng bái\nthần\nSấm.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe48cdb4ff.jpg",
+      "image_path": "assets/images/神_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191141",
+      "lang": "vi",
+      "content_html": "<p><strong>thần</strong></p>",
+      "content_text": "thần",
+      "image_url": "https://jpdictionary.com/upload/images/648ac7521e8d1.jpg",
+      "image_path": "assets/images/神_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "155697",
+      "lang": "vi",
+      "content_html": "<p>THẦN thánh đích THÂN đưa ra chỉ THỊ.</p>",
+      "content_text": "THẦN thánh đích THÂN đưa ra chỉ THỊ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

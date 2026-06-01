@@ -1,0 +1,90 @@
+{
+  "kanji": "冠",
+  "meta": {
+    "weight": 286,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "かんむり"
+    ],
+    "am_han": "QUAN, QUÁN"
+  },
+  "meaning": {
+    "vi": "vương miện, tốt nhất, vô song",
+    "en": "crown, best, peerless"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/冠.svg"
+  },
+  "frequency": 1503,
+  "examples": [
+    "冠",
+    "冠詞",
+    "定冠詞",
+    "王冠",
+    "冠婚葬祭"
+  ],
+  "explanation": {
+    "id": "1060",
+    "text": "冠 (đọc là \"kan\") có nghĩa là \"vương miện\", \"mũ\" hoặc chỉ sự đầu tiên, đứng đầu trong một lĩnh vực nào đó. \n\nVí dụ:\n- 冠婚葬祭 (kankonsousai): Các nghi lễ liên quan đến hôn nhân, tang lễ và các d"
+  },
+  "comments": [
+    {
+      "id": "151912",
+      "lang": "vi",
+      "content_html": "<p>Đội nguyên cái mũ vương miện cảm giác hơi thốn</p>",
+      "content_text": "Đội nguyên cái mũ vương miện cảm giác hơi thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151913",
+      "lang": "vi",
+      "content_html": "<p>Quan là trùm sò của nguyên cái thôn</p>",
+      "content_text": "Quan là trùm sò của nguyên cái thôn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151914",
+      "lang": "vi",
+      "content_html": "<p>vị Quan bao nguyên cả Quán thì cũng khá là thốn</p>",
+      "content_text": "vị Quan bao nguyên cả Quán thì cũng khá là thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

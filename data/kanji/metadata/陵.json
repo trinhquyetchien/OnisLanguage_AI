@@ -1,0 +1,87 @@
+{
+  "kanji": "陵",
+  "meta": {
+    "weight": 2832,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [
+      "みささぎ"
+    ],
+    "am_han": "LĂNG"
+  },
+  "meaning": {
+    "vi": "lăng, lăng mộ, gò, đồi",
+    "en": "mausoleum, imperial tomb, mound, hill"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/陵.svg"
+  },
+  "frequency": 1746,
+  "examples": [
+    "陵",
+    "丘陵"
+  ],
+  "explanation": {
+    "id": "8144",
+    "text": "陵 (đọc là \"ryō\") có nghĩa là \"mộ vua\" hoặc \"thế đất cao\" để chỉ các địa điểm liên quan đến mộ của các nhân vật quý tộc hoặc vua chúa.\n\nVí dụ:\n- 陵墓 (ryōbo): Mộ hoàng gia.\n- 天皇陵 (tennōryō): Mộ"
+  },
+  "comments": [
+    {
+      "id": "157705",
+      "lang": "vi",
+      "content_html": "<p>Những VÙNG ĐẤT để thần TIÊN TRỞ VỀ nghỉ ngơi là LĂNG Tẩm</p>",
+      "content_text": "Những VÙNG ĐẤT để thần TIÊN TRỞ VỀ nghỉ ngơi là LĂNG Tẩm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157706",
+      "lang": "vi",
+      "content_html": "<p>nơi mà những hậu bối đi sau quỳ lại trước tổ tiên là lăng tẩm</p>",
+      "content_text": "nơi mà những hậu bối đi sau quỳ lại trước tổ tiên là lăng tẩm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157707",
+      "lang": "vi",
+      "content_html": "<p>đứa bé đi dưới gò đất có lăng mộ</p>",
+      "content_text": "đứa bé đi dưới gò đất có lăng mộ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

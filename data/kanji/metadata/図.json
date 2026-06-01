@@ -1,0 +1,75 @@
+{
+  "kanji": "図",
+  "meta": {
+    "weight": 537,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ズ",
+      "ト"
+    ],
+    "kun": [
+      "え",
+      "はか.る"
+    ],
+    "am_han": "ĐỒ"
+  },
+  "meaning": {
+    "vi": "bản đồ",
+    "en": "map, drawing, plan, extraordinary, audacious"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/図.svg"
+  },
+  "frequency": 539,
+  "examples": [
+    "図",
+    "図書館",
+    "意図",
+    "地図",
+    "図る"
+  ],
+  "explanation": {
+    "id": "4194",
+    "text": "図 (đọc là \"zu\" hoặc \"to\") có nghĩa là \"bản đồ\", \"hình vẽ\" hoặc \"sơ đồ\", chỉ các hình thức trình bày thông tin bằng hình ảnh hoặc biểu đồ.  \nVí dụ:  \n- 図書館 (toshokan): Thư viện.  \n- 図形 (zukei"
+  },
+  "comments": [
+    {
+      "id": "36894",
+      "lang": "vi",
+      "content_html": "<p>Đây là <strong>bản đồ</strong> (図) ai đó đã vẽ. Trông như là chữ 「ツメ」 vậy.</p>",
+      "content_text": "Đây là\nbản đồ\n(図) ai đó đã vẽ. Trông như là chữ 「ツメ」 vậy.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc273124a1c.jpg",
+      "image_path": "assets/images/図_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158566",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>地図 (ちず): bản đồ</p><p>図書館 (としょかん): thư viện</p><p>合図 (あいず): dấu hiệu, sự ra hiệu</p>",
+      "content_text": "JLPT N4\n地図 (ちず): bản đồ\n図書館 (としょかん): thư viện\n合図 (あいず): dấu hiệu, sự ra hiệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

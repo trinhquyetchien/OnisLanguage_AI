@@ -1,0 +1,89 @@
+{
+  "kanji": "匿",
+  "meta": {
+    "weight": 383,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トク"
+    ],
+    "kun": [
+      "かくま.う"
+    ],
+    "am_han": "NẶC"
+  },
+  "meaning": {
+    "vi": "trốn, trú ẩn, che chắn",
+    "en": "hide, shelter, shield"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/匿.svg"
+  },
+  "frequency": 2024,
+  "examples": [
+    "匿名",
+    "秘匿",
+    "隠匿",
+    "匿"
+  ],
+  "explanation": {
+    "id": "5943",
+    "text": "匿 (đọc là \"nuku\") có nghĩa là \"trốn\", \"ẩn náu\", chỉ hành động che giấu hoặc lẩn trốn.\n\nVí dụ:\n- 匿う (nukau): Ẩn náu, trốn tránh.\n- 匿された (nukasa reta): Bị ẩn náu, bị trốn.\n- 隠匿 (intoku): Giấu "
+  },
+  "comments": [
+    {
+      "id": "152153",
+      "lang": "vi",
+      "content_html": "<p>Người trê phải trốn trong vách tường  bao quanh do tin nặc danh</p>",
+      "content_text": "Người trê phải trốn trong vách tường  bao quanh do tin nặc danh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152154",
+      "lang": "vi",
+      "content_html": "<p>Người trẻ 若いnằng nặc đòi chơi chò chốn tìm (chốn vào tủ)</p>",
+      "content_text": "Người trẻ 若いnằng nặc đòi chơi chò chốn tìm (chốn vào tủ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152155",
+      "lang": "vi",
+      "content_html": "<p>Người trẻ tuổi phải trốn trong tủ vì đã tung tin đồn nặc danh</p>",
+      "content_text": "Người trẻ tuổi phải trốn trong tủ vì đã tung tin đồn nặc danh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

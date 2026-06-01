@@ -1,0 +1,108 @@
+{
+  "kanji": "酒",
+  "meta": {
+    "weight": 2715,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ"
+    ],
+    "kun": [
+      "さけ",
+      "さか-"
+    ],
+    "am_han": "TỬU"
+  },
+  "meaning": {
+    "vi": "rượu",
+    "en": "sake, alcohol"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/酒.svg"
+  },
+  "frequency": 1006,
+  "examples": [
+    "酒",
+    "居酒屋",
+    "日本酒",
+    "飲酒",
+    "酒造"
+  ],
+  "explanation": {
+    "id": "3435",
+    "text": "酒 (đọc là \"sake\" hoặc \"shu\") có nghĩa là \"rượu\", chỉ các loại đồ uống có cồn, đặc biệt là rượu gạo trong văn hóa Nhật Bản.  \nVí dụ:  \n- 日本酒 (nihonshu): Rượu gạo Nhật Bản.  \n- 酒屋 (sakaya): Cử"
+  },
+  "comments": [
+    {
+      "id": "37006",
+      "lang": "vi",
+      "content_html": "<p><strong>Rượu </strong>ngon được làm từ nguồn nước sạch.</p>",
+      "content_text": "Rượu\nngon được làm từ nguồn nước sạch.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4f24dee55.jpg",
+      "image_path": "assets/images/酒_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157473",
+      "lang": "vi",
+      "content_html": "<p>Có mồi ngon như thịt Gà (酉) ta uống Rượu (酒) nhiều như Nước lã (氵).<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Có mồi ngon như thịt Gà (酉) ta uống Rượu (酒) nhiều như Nước lã (氵).\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157474",
+      "lang": "vi",
+      "content_html": "<p>Dùng Nước luộc Gà để ta nhắm Rượu là chuẩn hehe</p>",
+      "content_text": "Dùng Nước luộc Gà để ta nhắm Rượu là chuẩn hehe",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157475",
+      "lang": "vi",
+      "content_html": "<p>Cách nhớ cách viết :  Dùng Nước luộc Gà để ta nhắm Rượu.  Hoặc : Vẩy Thủy lên Dậu , bạn nhậu nâng ly ( Rượu )</p>",
+      "content_text": "Cách nhớ cách viết :  Dùng Nước luộc Gà để ta nhắm Rượu.  Hoặc : Vẩy Thủy lên Dậu , bạn nhậu nâng ly ( Rượu )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

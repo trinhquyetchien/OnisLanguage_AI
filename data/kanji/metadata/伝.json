@@ -1,0 +1,113 @@
+{
+  "kanji": "伝",
+  "meta": {
+    "weight": 159,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "デン",
+      "テン"
+    ],
+    "kun": [
+      "つた.わる",
+      "つた.える",
+      "つた.う",
+      "つだ.う",
+      "-づた.い",
+      "つて"
+    ],
+    "am_han": "TRUYỀN"
+  },
+  "meaning": {
+    "vi": "truyền tải",
+    "en": "transmit, go along, walk along, follow, report, communicate, legend, tradition"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/伝.svg"
+  },
+  "frequency": 416,
+  "examples": [
+    "伝え",
+    "伝統",
+    "宣伝",
+    "伝える",
+    "伝説"
+  ],
+  "explanation": {
+    "id": "5684",
+    "text": "伝 (đọc là \"den\") có nghĩa là \"truyền đạt\", \"truyền tải\" để chỉ các hành động liên quan đến việc truyền thông tin, ý kiến hoặc văn hóa.\n\nVí dụ:\n- 伝説 (densetsu): Huyền thoại, truyền thuyết.\n- "
+  },
+  "comments": [
+    {
+      "id": "37372",
+      "lang": "vi",
+      "content_html": "<p>Hai (二) <strong>người truyền</strong> tải thông điệp.</p>",
+      "content_text": "Hai (二)\nngười truyền\ntải thông điệp.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfebf700a62.jpg",
+      "image_path": "assets/images/伝_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151591",
+      "lang": "vi",
+      "content_html": "<p>Người đứng Truyền lời theo mây gió</p>",
+      "content_text": "Người đứng Truyền lời theo mây gió",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151592",
+      "lang": "vi",
+      "content_html": "<p>Người làm 24h truyền tin</p>",
+      "content_text": "Người làm 24h truyền tin",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151593",
+      "lang": "vi",
+      "content_html": "<p>Tôi truyền tin cho 2 người</p>",
+      "content_text": "Tôi truyền tin cho 2 người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

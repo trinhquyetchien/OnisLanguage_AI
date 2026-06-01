@@ -1,0 +1,90 @@
+{
+  "kanji": "腹",
+  "meta": {
+    "weight": 2208,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フク"
+    ],
+    "kun": [
+      "はら"
+    ],
+    "am_han": "PHỤC"
+  },
+  "meaning": {
+    "vi": "bụng",
+    "en": "abdomen, belly, stomach"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/腹.svg"
+  },
+  "frequency": 1286,
+  "examples": [
+    "腹",
+    "お腹",
+    "空腹",
+    "腹筋",
+    "満腹"
+  ],
+  "explanation": {
+    "id": "6916",
+    "text": "腹 (đọc là \"fuku\" hoặc \"hara\") có nghĩa là \"bụng\", \"dạ dày\" để chỉ các bộ phận liên quan đến cơ thể hoặc cảm xúc.\n\nVí dụ:\n- 腹痛 (fukutsuu): Đau bụng.\n- 空腹 (kuuhaku): Cảm giác đói, bụng rỗng.\n-"
+  },
+  "comments": [
+    {
+      "id": "156365",
+      "lang": "vi",
+      "content_html": "<p>Đau bụng thì phải 1 tháng 月 mới hồi PHỤC 复được.</p>",
+      "content_text": "Đau bụng thì phải 1 tháng 月 mới hồi PHỤC 复được.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156366",
+      "lang": "vi",
+      "content_html": "<p>PHÚC nằm từ ngày này qua tháng nọ nên sau đó BỤNG bự chà bá</p>",
+      "content_text": "PHÚC nằm từ ngày này qua tháng nọ nên sau đó BỤNG bự chà bá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156367",
+      "lang": "vi",
+      "content_html": "<p>Người con gái hàng tháng đến ngày bị đau bụng</p>",
+      "content_text": "Người con gái hàng tháng đến ngày bị đau bụng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

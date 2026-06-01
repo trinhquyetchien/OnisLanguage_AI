@@ -1,0 +1,84 @@
+{
+  "kanji": "黍",
+  "meta": {
+    "weight": 3026,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショ"
+    ],
+    "kun": [
+      "きび"
+    ],
+    "am_han": "THỬ"
+  },
+  "meaning": {
+    "vi": "cây kê",
+    "en": "millet"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/黍.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1479",
+    "text": "黍 (đọc là \"shio\") có nghĩa là \"nếp\" hay \"thóc\". Nó thường chỉ loại ngũ cốc, đặc biệt là nếp dùng trong các món ăn truyền thống.\n\nVí dụ:\n- 黍米 (shikomi): Gạo nếp.\n- 黍団子 (shiodango): Bánh nếp.\n"
+  },
+  "comments": [
+    {
+      "id": "221142",
+      "lang": "vi",
+      "content_html": "<p>cây LÚA 禾mùa được mưa nhiều NƯỚC水 nên NGƯỜI 人ăn sẽ thấy rất thơm ngon</p>",
+      "content_text": "cây LÚA 禾mùa được mưa nhiều NƯỚC水 nên NGƯỜI 人ăn sẽ thấy rất thơm ngon",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221143",
+      "lang": "vi",
+      "content_html": "<p>Ở trên có bộ hoà = Cây lúa. Dưới có 2 cái lá ngô, dưới cùng là hình bắp ngô và 2 bên là râu ngô. Lộn ngược  chữ này lại chihs là hình cây Ngô</p>",
+      "content_text": "Ở trên có bộ hoà = Cây lúa. Dưới có 2 cái lá ngô, dưới cùng là hình bắp ngô và 2 bên là râu ngô. Lộn ngược  chữ này lại chihs là hình cây Ngô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221144",
+      "lang": "vi",
+      "content_html": "<p>lúa 禾 mà đâm sâu rễ xuống để hút nước 水 thì gọi là kê 黍, nên cây kê thích hợp trồng ở vùng thiếu nước. còn hạt kê mà nhìn như ngọc bọc trong bao thì là ngô 玉蜀黍 とうもろこし</p>",
+      "content_text": "lúa 禾 mà đâm sâu rễ xuống để hút nước 水 thì gọi là kê 黍, nên cây kê thích hợp trồng ở vùng thiếu nước. còn hạt kê mà nhìn như ngọc bọc trong bao thì là ngô 玉蜀黍 とうもろこし",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "kanji": "曜",
+  "meta": {
+    "weight": 1256,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [],
+    "am_han": "DIỆU"
+  },
+  "meaning": {
+    "vi": "thứ trong tuần",
+    "en": "weekday"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/曜.svg"
+  },
+  "frequency": 940,
+  "examples": [
+    "日曜日",
+    "土曜日",
+    "金曜日",
+    "月曜日",
+    "日曜"
+  ],
+  "explanation": {
+    "id": "7863",
+    "text": "曜 (đọc là \"yō\") có nghĩa là \"ngày\" trong bối cảnh chỉ định các ngày trong tuần, thường được sử dụng để nói về thứ trong tiếng Nhật. \n\nVí dụ:\n- 日曜日 (nichiyōbi): Chủ nhật.\n- 月曜日 (getsuyōbi): T"
+  },
+  "comments": [
+    {
+      "id": "489",
+      "lang": "vi",
+      "content_html": "<p>Đầu tuần chim sẽ hót: ”Piyo piyo”</p>",
+      "content_text": "Đầu tuần chim sẽ hót: ”Piyo piyo”",
+      "image_url": "https://jpdictionary.com/upload/images/62976421e4122.jpg",
+      "image_path": "assets/images/曜_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154296",
+      "lang": "vi",
+      "content_html": "<p>Chim kêu ヨヨ cả ngày 日 thật vi DIỆU</p>",
+      "content_text": "Chim kêu ヨヨ cả ngày 日 thật vi DIỆU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158659",
+      "lang": "vi",
+      "content_html": "<p>Thứ trong tuần</p><p>月曜日 (げつようび): Thứ hai</p><p>火曜日 (かようび): Thứ ba</p><p>水曜日 (すいようび): Thứ tư</p><p>木曜日 (もくようび): Thứ năm</p><p>金曜日 (きんようび): Thứ sáu</p><p>土曜日 (どようび): Thứ bảy</p><p>日曜日 (にちようび): Chủ nhật</p>",
+      "content_text": "Thứ trong tuần\n月曜日 (げつようび): Thứ hai\n火曜日 (かようび): Thứ ba\n水曜日 (すいようび): Thứ tư\n木曜日 (もくようび): Thứ năm\n金曜日 (きんようび): Thứ sáu\n土曜日 (どようび): Thứ bảy\n日曜日 (にちようび): Chủ nhật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "158691",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4 - よう viết bằng Kanji</p><p>月曜日 (げつようび): Thứ hai</p>",
+      "content_text": "JLPT N4 - よう viết bằng Kanji\n月曜日 (げつようび): Thứ hai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

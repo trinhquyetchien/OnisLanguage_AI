@@ -1,0 +1,92 @@
+{
+  "kanji": "巧",
+  "meta": {
+    "weight": 819,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "たく.み",
+      "たく.む",
+      "うま.い"
+    ],
+    "am_han": "XẢO"
+  },
+  "meaning": {
+    "vi": "khéo léo, lành nghề",
+    "en": "adroit, skilled, ingenuity"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/巧.svg"
+  },
+  "frequency": 1537,
+  "examples": [
+    "巧み",
+    "巧",
+    "巧妙",
+    "技巧",
+    "精巧"
+  ],
+  "explanation": {
+    "id": "2426",
+    "text": "巧 (đọc là \"kō\") có nghĩa là \"khéo léo\", \"tinh xảo\" để chỉ sự khéo tay, sự tinh vi trong làm việc hoặc nghệ thuật.\n\nVí dụ:\n- 巧妙 (kōmyō): Tinh vi, khéo léo.\n- 巧み (takumi): Khéo léo, tinh xảo.\n"
+  },
+  "comments": [
+    {
+      "id": "153207",
+      "lang": "vi",
+      "content_html": "<p>Công việc làm 5 lần sẽ thành kĩ xảo</p>",
+      "content_text": "Công việc làm 5 lần sẽ thành kĩ xảo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153209",
+      "lang": "vi",
+      "content_html": "<p>Nuốt chữ công -&#62; công vc sẽ trở nên tinh xảo</p>",
+      "content_text": "Nuốt chữ công -> công vc sẽ trở nên tinh xảo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153208",
+      "lang": "vi",
+      "content_html": "<p>Gia công 5 lần cho thật tinh xảo</p>",
+      "content_text": "Gia công 5 lần cho thật tinh xảo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "歓",
+  "meta": {
+    "weight": 1449,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "よろこ.ぶ"
+    ],
+    "am_han": "HOAN"
+  },
+  "meaning": {
+    "vi": "niềm vui",
+    "en": "delight, joy"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/歓.svg"
+  },
+  "frequency": 1065,
+  "examples": [
+    "歓迎",
+    "歓声",
+    "歓喜",
+    "歓談",
+    "歓"
+  ],
+  "explanation": {
+    "id": "1130",
+    "text": "歓 (đọc là \"kan\") có nghĩa là \"vui mừng\", \"hoan hỉ\" để chỉ trạng thái cảm xúc tích cực, niềm vui.  \nVí dụ:  \n- 歓迎 (kangei): Chào đón, hoan nghênh.  \n- 歓楽 (kanraku): Niềm vui, sự vui vẻ.  \n- 満"
+  },
+  "comments": [
+    {
+      "id": "154666",
+      "lang": "vi",
+      "content_html": "<p>Người nằm ngang thiếu chim để hoan hỉ</p>",
+      "content_text": "Người nằm ngang thiếu chim để hoan hỉ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154667",
+      "lang": "vi",
+      "content_html": "<p>Bữa tiệc mà THIẾU CHIM là k đc HOAN nghênh</p>",
+      "content_text": "Bữa tiệc mà THIẾU CHIM là k đc HOAN nghênh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154668",
+      "lang": "vi",
+      "content_html": "<p>Con người 人 luôn hoan nghênh 歓迎 con chim 鳥 bị khuyết 欠 tật nhưng vẫn cố gắng tập bay</p>",
+      "content_text": "Con người 人 luôn hoan nghênh 歓迎 con chim 鳥 bị khuyết 欠 tật nhưng vẫn cố gắng tập bay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

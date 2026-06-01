@@ -1,0 +1,94 @@
+{
+  "kanji": "六",
+  "meta": {
+    "weight": 272,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロク",
+      "リク"
+    ],
+    "kun": [
+      "む",
+      "む.つ",
+      "むっ.つ",
+      "むい"
+    ],
+    "am_han": "LỤC"
+  },
+  "meaning": {
+    "vi": "sáu",
+    "en": "six"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/六.svg"
+  },
+  "frequency": 93,
+  "examples": [
+    "六",
+    "六月",
+    "六つ",
+    "四六判",
+    "四六時中"
+  ],
+  "explanation": {
+    "id": "8363",
+    "text": "六 (đọc là \"roku\") có nghĩa là \"sáu\" để chỉ số lượng hoặc thứ tự trong các hệ thống đếm.  \nVí dụ:  \n- 六月 (rokugatsu): Tháng sáu.  \n- 六角形 (rokkakukei): Hình lục giác.  \n- 六人 (rokunin): Sáu ngư"
+  },
+  "comments": [
+    {
+      "id": "456",
+      "lang": "vi",
+      "content_html": "<p>Người Trung Quốc biểu thị số 6 bằng cách như này.</p>",
+      "content_text": "Người Trung Quốc biểu thị số 6 bằng cách như này.",
+      "image_url": "https://jpdictionary.com/upload/images/62975fd46beb5.jpg",
+      "image_path": "assets/images/六_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222294",
+      "lang": "vi",
+      "content_html": "<p>Bát<strong>八</strong> Mũ<strong>亠</strong> là Lục六</p>",
+      "content_text": "Bát\n八\nMũ\n亠\nlà Lục六",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5155",
+        "name": "Doan The Anh (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/66e4a5e9678a0.png"
+      }
+    },
+    {
+      "id": "158352",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>六 (ろく): 6</p><p>六つ (むっつ): 6 cái</p>",
+      "content_text": "JLPT N5\n六 (ろく): 6\n六つ (むっつ): 6 cái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "道",
+  "meta": {
+    "weight": 2677,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドウ",
+      "トウ"
+    ],
+    "kun": [
+      "みち",
+      "いう"
+    ],
+    "am_han": "ĐẠO"
+  },
+  "meaning": {
+    "vi": "con đường, đạo lộ",
+    "en": "road-way, street, district, journey, course, moral, teachings"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/道.svg"
+  },
+  "frequency": 207,
+  "examples": [
+    "道",
+    "報道",
+    "道路",
+    "北海道",
+    "鉄道"
+  ],
+  "explanation": {
+    "id": "5932",
+    "text": "道 (đọc là \"dō\") có nghĩa là \"con đường\", \"phương pháp\" hoặc \"nguyên tắc\". Chữ này thường chỉ ra hướng đi, con đường trong cuộc sống hoặc trong học tập.\n\nVí dụ:\n- 道路 (dōro): Đường phố, con đư"
+  },
+  "comments": [
+    {
+      "id": "737",
+      "lang": "vi",
+      "content_html": "<p>Đang dài cổ (首) đợi ai đó trên <strong>đường</strong>.</p>",
+      "content_text": "Đang dài cổ (首) đợi ai đó trên\nđường\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629842c160083.jpg",
+      "image_path": "assets/images/道_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191209",
+      "lang": "vi",
+      "content_html": "<p><strong>đường</strong></p>",
+      "content_text": "đường",
+      "image_url": "https://jpdictionary.com/upload/images/648adc4d1d26c.jpg",
+      "image_path": "assets/images/道_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158323",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>道 (みち): đường phố<br>柔道 (じゅうどう): võ judo<br>水道 (すいどう): nước máy<br>道具 (どうぐ): đạo cụ<br>茶道 (さどう): trà đạo</p>",
+      "content_text": "JLPT N4\n道 (みち): đường phố\n柔道 (じゅうどう): võ judo\n水道 (すいどう): nước máy\n道具 (どうぐ): đạo cụ\n茶道 (さどう): trà đạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

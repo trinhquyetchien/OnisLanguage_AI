@@ -1,0 +1,107 @@
+{
+  "kanji": "防",
+  "meta": {
+    "weight": 2817,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [
+      "ふせ.ぐ"
+    ],
+    "am_han": "PHÒNG"
+  },
+  "meaning": {
+    "vi": "phòng thủ, đề phòng",
+    "en": "ward off, defend, protect, resist"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/防.svg"
+  },
+  "frequency": 331,
+  "examples": [
+    "防止",
+    "防衛",
+    "予防",
+    "防ぐ",
+    "防衛庁"
+  ],
+  "explanation": {
+    "id": "7304",
+    "text": "防 (đọc là \"bō\") có nghĩa là \"phòng ngừa\", \"ngăn chặn\" để chỉ các hành động liên quan đến việc bảo vệ, phòng chống hoặc ngăn cản điều gì đó xảy ra.\n\nVí dụ:\n- 防犯 (bōhan): Phòng chống tội phạm."
+  },
+  "comments": [
+    {
+      "id": "157663",
+      "lang": "vi",
+      "content_html": "<p>Chị PHƯƠNG phải dựa mình vào tường để PHÒNG thủ</p>",
+      "content_text": "Chị PHƯƠNG phải dựa mình vào tường để PHÒNG thủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190690",
+      "lang": "vi",
+      "content_html": "<p>Từ ngọn Đồi nhìn đối Phương để phòng thủ</p>",
+      "content_text": "Từ ngọn Đồi nhìn đối Phương để phòng thủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157664",
+      "lang": "vi",
+      "content_html": "<p>13 Phương pháp phòng ngừa</p>",
+      "content_text": "13 Phương pháp phòng ngừa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157665",
+      "lang": "vi",
+      "content_html": "<p>đề phòng phương phụ</p>",
+      "content_text": "đề phòng phương phụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

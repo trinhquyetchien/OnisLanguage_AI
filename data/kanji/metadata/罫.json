@@ -1,0 +1,32 @@
+{
+  "kanji": "罫",
+  "meta": {
+    "weight": 2125,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ",
+      "カイ",
+      "ケ"
+    ],
+    "kun": [],
+    "am_han": "QUẢI"
+  },
+  "meaning": {
+    "vi": "dòng cai trị",
+    "en": "ruled line"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/罫.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2012",
+    "text": "罫 (đọc là \"kai\") có nghĩa là \"đường kẻ\", thường dùng để chỉ các đường viền hoặc đường phân chia trong văn bản và nghệ thuật. \n\nVí dụ:\n- 罫線 (kaisen): Đường kẻ, đường phân cách.\n- 罫紙 (kaishi):"
+  },
+  "comments": []
+}

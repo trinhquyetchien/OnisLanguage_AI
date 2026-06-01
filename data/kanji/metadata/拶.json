@@ -1,0 +1,84 @@
+{
+  "kanji": "拶",
+  "meta": {
+    "weight": 1084,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サツ"
+    ],
+    "kun": [
+      "せま.る"
+    ],
+    "am_han": "TẠT"
+  },
+  "meaning": {
+    "vi": "sắp xảy ra, đến gần",
+    "en": "be imminent, draw close"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/拶.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2937",
+    "text": "拶 (đọc là \"satsu\") có nghĩa là \"mang đến\", \"giao\" để chỉ hành động chuyển giao hoặc đưa cái gì đó đến người khác. \n\nVí dụ:\n- 拶送 (sassou): Gửi đi, chuyển phát.\n- 拶着 (satchaku): Gắn bó, bám ch"
+  },
+  "comments": [
+    {
+      "id": "219594",
+      "lang": "vi",
+      "content_html": "<p>Ai tạt qua bắt tay ta chào 3 tiếng</p>",
+      "content_text": "Ai tạt qua bắt tay ta chào 3 tiếng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219595",
+      "lang": "vi",
+      "content_html": "<p>Xuyên TẠT qua bắt Tay CHÀO Ta</p>",
+      "content_text": "Xuyên TẠT qua bắt Tay CHÀO Ta",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219596",
+      "lang": "vi",
+      "content_html": "<p>đêm tối cầm tay người yêu ra bờ sông , rất có thể bị Tạt axit</p>",
+      "content_text": "đêm tối cầm tay người yêu ra bờ sông , rất có thể bị Tạt axit",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "kanji": "鍬",
+  "meta": {
+    "weight": 2784,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ",
+      "シュウ"
+    ],
+    "kun": [
+      "くわ",
+      "すき"
+    ],
+    "am_han": "THÂU, THIÊU, THU"
+  },
+  "meaning": {
+    "vi": "cuốc có lưỡi dài ở góc nhọn",
+    "en": "hoe with long blade at acute angle"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/鍬.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1899",
+    "text": "鍬 (đọc là \"kuma\") có nghĩa là \"cái cuốc\", chỉ dụng cụ nông nghiệp dùng để xới đất hoặc làm vườn.  \nVí dụ:  \n- 鍬で耕す (kuma de tagayasu): Xới đất bằng cuốc.  \n- 鍬形虫 (kumagatamushi): Bọ cánh cứn"
+  },
+  "comments": [
+    {
+      "id": "220926",
+      "lang": "vi",
+      "content_html": "<p>thằng Hòa đốt Lửa Thiêu cái Quốc Vàng để thử</p>",
+      "content_text": "thằng Hòa đốt Lửa Thiêu cái Quốc Vàng để thử",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

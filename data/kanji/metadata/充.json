@@ -1,0 +1,91 @@
+{
+  "kanji": "充",
+  "meta": {
+    "weight": 257,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュウ"
+    ],
+    "kun": [
+      "あ.てる",
+      "み.たす"
+    ],
+    "am_han": "SUNG"
+  },
+  "meaning": {
+    "vi": "phân bổ, điền vào",
+    "en": "allot, fill"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/充.svg"
+  },
+  "frequency": 949,
+  "examples": [
+    "充実",
+    "充分",
+    "拡充",
+    "充電",
+    "補充"
+  ],
+  "explanation": {
+    "id": "3550",
+    "text": "充 (đọc là \"jū\" hoặc \"mitsu\") có nghĩa là \"bổ sung\", \"làm đầy\" để chỉ các hành động liên quan đến việc lấp đầy, cung cấp hoặc bổ sung gì đó.  \nVí dụ:  \n- 充電 (jūden): Sạc điện, nạp pin.  \n- 充足"
+  },
+  "comments": [
+    {
+      "id": "151837",
+      "lang": "vi",
+      "content_html": "<p>Người có mũ đội là ăn sung mặc sướng</p>",
+      "content_text": "Người có mũ đội là ăn sung mặc sướng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151838",
+      "lang": "vi",
+      "content_html": "<p>充= (亠)  ＋ (允) : bộ Đầu với bộ Duẫn ( thật thà) <br>Đầu có thật thà thì cả nhà mới sung túc</p>",
+      "content_text": "充= (亠)  ＋ (允) : bộ Đầu với bộ Duẫn ( thật thà)\nĐầu có thật thà thì cả nhà mới sung túc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151839",
+      "lang": "vi",
+      "content_html": "<p>@Nguyễn Đức Mình xin thêm vào câu của bạn một xíu nha =&#62; ăn SUNG vác nón chạy tứ tung</p>",
+      "content_text": "@Nguyễn Đức Mình xin thêm vào câu của bạn một xíu nha => ăn SUNG vác nón chạy tứ tung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

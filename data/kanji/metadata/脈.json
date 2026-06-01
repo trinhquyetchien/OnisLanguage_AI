@@ -1,0 +1,90 @@
+{
+  "kanji": "脈",
+  "meta": {
+    "weight": 2195,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ミャク"
+    ],
+    "kun": [
+      "すじ"
+    ],
+    "am_han": "MẠCH"
+  },
+  "meaning": {
+    "vi": "mạch, hy vọng",
+    "en": "vein, pulse, hope"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/脈.svg"
+  },
+  "frequency": 1477,
+  "examples": [
+    "文脈",
+    "人脈",
+    "動脈",
+    "山脈",
+    "静脈"
+  ],
+  "explanation": {
+    "id": "7498",
+    "text": "脈 (đọc là \"myaku\") có nghĩa là \"mạch\", \"dòng\" để chỉ các khía cạnh liên quan đến mạch máu, mạch nước hoặc dòng chảy.\n\nVí dụ:\n- 脈拍 (myakuhaku): Nhịp đập của mạch.\n- 脈絡 (myakuraku): Mạch lạc, "
+  },
+  "comments": [
+    {
+      "id": "156332",
+      "lang": "vi",
+      "content_html": "<p>Con Nguyệt tới tháng ra ba Mạch máu</p>",
+      "content_text": "Con Nguyệt tới tháng ra ba Mạch máu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156333",
+      "lang": "vi",
+      "content_html": "<p>dưới ánh trăng 月 tàn, người sói đang biến đổi, mạch máu 脈 nổi lên, móng vuốt 爪 dài ra, bắt đầu quá trình biển đổi thành người sói</p>",
+      "content_text": "dưới ánh trăng 月 tàn, người sói đang biến đổi, mạch máu 脈 nổi lên, móng vuốt 爪 dài ra, bắt đầu quá trình biển đổi thành người sói",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156334",
+      "lang": "vi",
+      "content_html": "<p>Phần thịt ba đường xuyên  gấp khúc như con sông là mạch máu</p>",
+      "content_text": "Phần thịt ba đường xuyên  gấp khúc như con sông là mạch máu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

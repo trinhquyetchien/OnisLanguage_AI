@@ -1,0 +1,108 @@
+{
+  "kanji": "際",
+  "meta": {
+    "weight": 2845,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "きわ",
+      "-ぎわ"
+    ],
+    "am_han": "TẾ"
+  },
+  "meaning": {
+    "vi": "dịp, quốc tế, thực tế",
+    "en": "occasion, side, edge, verge, dangerous, adventurous, indecent, time, when"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/際.svg"
+  },
+  "frequency": 183,
+  "examples": [
+    "実際",
+    "国際",
+    "際",
+    "に際して",
+    "交際"
+  ],
+  "explanation": {
+    "id": "2839",
+    "text": "際 (đọc là \"sai\") có nghĩa là \"ranh giới\", \"thời điểm\" để chỉ các khía cạnh liên quan đến sự phân định, biên giới hoặc thời điểm đặc biệt.  \nVí dụ:  \n- 際限 (saigen): Giới hạn, ranh giới (nghĩa"
+  },
+  "comments": [
+    {
+      "id": "37143",
+      "lang": "vi",
+      "content_html": "<p>Lễ hội (祭) là <strong>dịp </strong>đặc biệt.</p>",
+      "content_text": "Lễ hội (祭) là\ndịp\nđặc biệt.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdbaa1e2640.jpg",
+      "image_path": "assets/images/際_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157739",
+      "lang": "vi",
+      "content_html": "<p>Tế lễ trên đồi gọi là quốc tế</p>",
+      "content_text": "Tế lễ trên đồi gọi là quốc tế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157740",
+      "lang": "vi",
+      "content_html": "<p>bố đi lễ ở quốc Tế</p>",
+      "content_text": "bố đi lễ ở quốc Tế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157741",
+      "lang": "vi",
+      "content_html": "<p>Trong thành 阝 cứ một tháng 月 thì lại có một bàn 示 Tế lễ</p>",
+      "content_text": "Trong thành 阝 cứ một tháng 月 thì lại có một bàn 示 Tế lễ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

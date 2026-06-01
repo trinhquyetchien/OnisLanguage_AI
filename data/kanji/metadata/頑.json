@@ -1,0 +1,90 @@
+{
+  "kanji": "頑",
+  "meta": {
+    "weight": 2903,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガン"
+    ],
+    "kun": [
+      "かたく.な"
+    ],
+    "am_han": "NGOAN"
+  },
+  "meaning": {
+    "vi": "bướng bỉnh, khờ khạo, vững vàng",
+    "en": "stubborn, foolish, firmly"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/頑.svg"
+  },
+  "frequency": 1247,
+  "examples": [
+    "頑張り",
+    "頑張れ",
+    "頑張る",
+    "頑固",
+    "頑丈"
+  ],
+  "explanation": {
+    "id": "1232",
+    "text": "頑 (đọc là \"gan\") có nghĩa là \"cứng đầu\", \"bướng bỉnh\" để chỉ tính cách hoặc hành động kiên định, khó thay đổi ý kiến.  \nVí dụ:  \n- 頑固 (ganko): Cứng đầu, bướng bỉnh.  \n- 頑張る (ganbaru): Cố gắn"
+  },
+  "comments": [
+    {
+      "id": "157880",
+      "lang": "vi",
+      "content_html": "<p>Cái đầu nguyên sơ thể hiện sự ngoan cường mạnh mẽ</p>",
+      "content_text": "Cái đầu nguyên sơ thể hiện sự ngoan cường mạnh mẽ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157881",
+      "lang": "vi",
+      "content_html": "<p>NGOAN cố giữ nguyên cái đầu.</p>",
+      "content_text": "NGOAN cố giữ nguyên cái đầu.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157882",
+      "lang": "vi",
+      "content_html": "<p>Cái đầu là khởi nguyên của sự cứng đầu</p>",
+      "content_text": "Cái đầu là khởi nguyên của sự cứng đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "kanji": "升",
+  "meta": {
+    "weight": 386,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "ます"
+    ],
+    "am_han": "THĂNG"
+  },
+  "meaning": {
+    "vi": "hộp đo lường, 1,8 lít",
+    "en": "measuring box, 1.8 liter"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/升.svg"
+  },
+  "frequency": 2077,
+  "examples": [
+    "升",
+    "一升瓶"
+  ],
+  "explanation": {
+    "id": "3755",
+    "text": "升 (đọc là \"shō\") có nghĩa là \"tăng lên\", \"nâng cao\" để chỉ sự gia tăng hoặc nâng cao một cái gì đó. \n\nVí dụ:\n- 上昇 (jōshō): Sự tăng lên, nâng cao (thường dùng cho giá cả, nhiệt độ).\n- 昇進 (shō"
+  },
+  "comments": [
+    {
+      "id": "152159",
+      "lang": "vi",
+      "content_html": "<p>Chi 10(十) nghìn (千) yên sẽ được thăng chức</p>",
+      "content_text": "Chi 10(十) nghìn (千) yên sẽ được thăng chức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152161",
+      "lang": "vi",
+      "content_html": "<p>Chắp tay lạy chủ đe đuoc thăng chức</p>",
+      "content_text": "Chắp tay lạy chủ đe đuoc thăng chức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152160",
+      "lang": "vi",
+      "content_html": "<p>giống nốt thăng trong âm nhạc</p>",
+      "content_text": "giống nốt thăng trong âm nhạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

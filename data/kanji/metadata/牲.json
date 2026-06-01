@@ -1,0 +1,84 @@
+{
+  "kanji": "牲",
+  "meta": {
+    "weight": 1699,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ"
+    ],
+    "kun": [],
+    "am_han": "SINH"
+  },
+  "meaning": {
+    "vi": "hiến tế động vật, cúng dường",
+    "en": "animal sacrifice, offering"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/牲.svg"
+  },
+  "frequency": 1274,
+  "examples": [
+    "犠牲"
+  ],
+  "explanation": {
+    "id": "4325",
+    "text": "牲 (đọc là \"sei\") có nghĩa là \"sinh vật\" hoặc \"động vật\", thường chỉ tới gia súc hoặc những con vật được nuôi để lấy thịt. \n\nVí dụ:\n- 牲畜 (seichiku): Gia súc, động vật nuôi.\n- 牲血 (seiketsu): M"
+  },
+  "comments": [
+    {
+      "id": "155245",
+      "lang": "vi",
+      "content_html": "<p>con TRÂU được SINH ra là để HY SINH làm thức ăn</p>",
+      "content_text": "con TRÂU được SINH ra là để HY SINH làm thức ăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155246",
+      "lang": "vi",
+      "content_html": "<p>Sinh ra kiếp trâu bò để hi sinh</p>",
+      "content_text": "Sinh ra kiếp trâu bò để hi sinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155247",
+      "lang": "vi",
+      "content_html": "<p>Sinh ra mà làm kiếp Trâu bò thì thà Hi Sinh.</p>",
+      "content_text": "Sinh ra mà làm kiếp Trâu bò thì thà Hi Sinh.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

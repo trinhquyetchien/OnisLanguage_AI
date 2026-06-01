@@ -1,0 +1,84 @@
+{
+  "kanji": "劾",
+  "meta": {
+    "weight": 353,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガイ"
+    ],
+    "kun": [],
+    "am_han": "HẶC"
+  },
+  "meaning": {
+    "vi": "kiểm duyệt, điều tra tội phạm",
+    "en": "censure, criminal investigation"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/劾.svg"
+  },
+  "frequency": 2085,
+  "examples": [
+    "弾劾"
+  ],
+  "explanation": {
+    "id": "825",
+    "text": "劾 (đọc là \"gaku\" hoặc \"katsu\") có nghĩa là \"buộc tội\", \"truy tố\", thường liên quan đến việc chỉ trích hoặc cáo buộc một người nào đó vì hành vi sai trái trong công vụ. \n\nVí dụ:\n- 劾議 (gakugi)"
+  },
+  "comments": [
+    {
+      "id": "152088",
+      "lang": "vi",
+      "content_html": "<p>Hợi hằng Hặc đòi HẠI Lực</p>",
+      "content_text": "Hợi hằng Hặc đòi HẠI Lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152089",
+      "lang": "vi",
+      "content_html": "<p>Dùng lực để hạch tội con lợn.</p>",
+      "content_text": "Dùng lực để hạch tội con lợn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152090",
+      "lang": "vi",
+      "content_html": "<p>4 người đang đội mũ ( công an ) đang ra sức Lực hặc tội người khác</p>",
+      "content_text": "4 người đang đội mũ ( công an ) đang ra sức Lực hặc tội người khác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

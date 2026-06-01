@@ -1,0 +1,86 @@
+{
+  "kanji": "購",
+  "meta": {
+    "weight": 2577,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [],
+    "am_han": "CẤU"
+  },
+  "meaning": {
+    "vi": "đăng ký, mua",
+    "en": "subscription, buy"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/購.svg"
+  },
+  "frequency": 945,
+  "examples": [
+    "購入",
+    "購読",
+    "購買"
+  ],
+  "explanation": {
+    "id": "2562",
+    "text": "購 (đọc là \"kou\") có nghĩa là \"mua\", \"sắm sửa\" để chỉ các hành động liên quan đến việc mua sắm hoặc thu thập hàng hóa.\n\nVí dụ:\n- 購入 (kounyuu): Mua, sự mua hàng.\n- 購読 (koudoku): Đăng ký đọc, t"
+  },
+  "comments": [
+    {
+      "id": "157132",
+      "lang": "vi",
+      "content_html": "<p>Dùng tiền mua đi bán lại 2 đống đất đai</p>",
+      "content_text": "Dùng tiền mua đi bán lại 2 đống đất đai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157133",
+      "lang": "vi",
+      "content_html": "<p>CẤU là phòng kín, BỐI là tiền. Vậy mua bán thì phải vào trong phòng kín giao dịch cho an toàn</p>",
+      "content_text": "CẤU là phòng kín, BỐI là tiền. Vậy mua bán thì phải vào trong phòng kín giao dịch cho an toàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157134",
+      "lang": "vi",
+      "content_html": "<p>Tiền cất trong phòng kín dùng để Mua</p>",
+      "content_text": "Tiền cất trong phòng kín dùng để Mua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

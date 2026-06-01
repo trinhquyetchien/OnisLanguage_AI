@@ -1,0 +1,88 @@
+{
+  "kanji": "卓",
+  "meta": {
+    "weight": 391,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タク"
+    ],
+    "kun": [],
+    "am_han": "TRÁC"
+  },
+  "meaning": {
+    "vi": "nổi bật, bàn, cao",
+    "en": "eminent, table, desk, high"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/卓.svg"
+  },
+  "frequency": 1348,
+  "examples": [
+    "食卓",
+    "卓",
+    "卓球",
+    "卓越",
+    "電卓"
+  ],
+  "explanation": {
+    "id": "5020",
+    "text": "卓 (đọc là \"taku\") có nghĩa là \"xuất sắc\", \"nổi bật\" để chỉ sự vượt trội hoặc khác biệt so với người khác.\n\nVí dụ:\n- 卓越 (takuwaku): Xuất sắc, nổi bật.\n- 卓球 (takkyū): Bóng bàn (một môn thể tha"
+  },
+  "comments": [
+    {
+      "id": "152174",
+      "lang": "vi",
+      "content_html": "<p>Dậy sớm kê Bàn xem bói</p>",
+      "content_text": "Dậy sớm kê Bàn xem bói",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152175",
+      "lang": "vi",
+      "content_html": "<p>về sớm lấy 10 cái bàn</p>",
+      "content_text": "về sớm lấy 10 cái bàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152176",
+      "lang": "vi",
+      "content_html": "<p>dậy sớm(tảo) chưa đủ, sớm sớm hơn nữa (thượng tảo) để học bài, lâu ngày sẽ có kiến thức trác tuyệt  <br>卓絕</p>",
+      "content_text": "dậy sớm(tảo) chưa đủ, sớm sớm hơn nữa (thượng tảo) để học bài, lâu ngày sẽ có kiến thức trác tuyệt\n卓絕",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

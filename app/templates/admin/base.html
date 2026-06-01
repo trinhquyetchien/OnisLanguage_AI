@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ admin_title }}{% if page_title %} | {{ page_title }}{% endif %}</title>
+    <link rel="stylesheet" href="{{ request.url_for('admin-static', path='admin.css') }}">
+</head>
+<body>
+    <div class="admin-shell">
+        <aside class="sidebar">
+            <a href="/admin" class="brand">
+                <span class="brand-kicker">OnisLanguage</span>
+                <strong>{{ admin_title }}</strong>
+            </a>
+            <nav class="nav">
+                <a class="{% if current_path == '/admin' or current_path == '/admin/' %}active{% endif %}" href="/admin">Tong quan</a>
+                {% for nav_table in tables %}
+                <a class="{% if '/admin/table/' ~ nav_table.key in current_path %}active{% endif %}" href="/admin/table/{{ nav_table.key }}">{{ nav_table.label }}</a>
+                {% endfor %}
+            </nav>
+            {% if current_admin_user %}
+            <div class="sidebar-footer">
+                <div>
+                    <div class="meta-label">Dang nhap boi</div>
+                    <strong>{{ current_admin_user.display_name }}</strong>
+                    <div class="meta-subtle">{{ current_admin_user.email }}</div>
+                </div>
+                <form method="post" action="/admin/logout">
+                    <button type="submit" class="ghost-button">Dang xuat</button>
+                </form>
+            </div>
+            {% endif %}
+        </aside>
+        <main class="content">
+            {% block content %}{% endblock %}
+        </main>
+    </div>
+</body>
+</html>

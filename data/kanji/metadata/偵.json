@@ -1,0 +1,85 @@
+{
+  "kanji": "偵",
+  "meta": {
+    "weight": 228,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [],
+    "am_han": "TRINH"
+  },
+  "meaning": {
+    "vi": "gián điệp",
+    "en": "spy"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/偵.svg"
+  },
+  "frequency": 1857,
+  "examples": [
+    "探偵",
+    "偵察"
+  ],
+  "explanation": {
+    "id": "5531",
+    "text": "偵 (đọc là \"tei\") có nghĩa là \"thám tra\", \"theo dõi\" để chỉ các hành động liên quan đến việc điều tra, theo dõi hoặc phát hiện thông tin.\n\nVí dụ:\n- 偵察 (teisatsu): Thám sát.\n- 偵報 (teihō): Tình"
+  },
+  "comments": [
+    {
+      "id": "151759",
+      "lang": "vi",
+      "content_html": "<p>Người TRINH thám phải còn Trinh tiết</p>",
+      "content_text": "Người TRINH thám phải còn Trinh tiết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151760",
+      "lang": "vi",
+      "content_html": "<p>người có tiền, mà nằm bên trên.. thì chắc là ai đó sẽ bị mất Trinh</p>",
+      "content_text": "người có tiền, mà nằm bên trên.. thì chắc là ai đó sẽ bị mất Trinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151761",
+      "lang": "vi",
+      "content_html": "<p>trinh thám đang dò xét về trinh tiết</p>",
+      "content_text": "trinh thám đang dò xét về trinh tiết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "引",
+  "meta": {
+    "weight": 895,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イン"
+    ],
+    "kun": [
+      "ひ.く",
+      "ひ.ける"
+    ],
+    "am_han": "DẪN"
+  },
+  "meaning": {
+    "vi": "kéo",
+    "en": "pull, tug, jerk, admit, install, quote, refer to"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/引.svg"
+  },
+  "frequency": 218,
+  "examples": [
+    "取引",
+    "引用",
+    "引き",
+    "引き続き",
+    "引退"
+  ],
+  "explanation": {
+    "id": "256",
+    "text": "引 (đọc là \"in\") có nghĩa là \"kéo\", \"dẫn\" để chỉ các hành động liên quan đến việc kéo, dẫn dắt hoặc thu hút.\n\nVí dụ:\n- 引力 (inryoku): Lực hấp dẫn.\n- 引き受ける (hikiukeru): Nhận (công việc, trách n"
+  },
+  "comments": [
+    {
+      "id": "36845",
+      "lang": "vi",
+      "content_html": "<p>Cây cung (弓) và sợi dây. Phần để <strong>kéo </strong>chính là sợi dây.</p>",
+      "content_text": "Cây cung (弓) và sợi dây. Phần để\nkéo\nchính là sợi dây.",
+      "image_url": "https://jpdictionary.com/upload/images/62ac7e1aec134.jpg",
+      "image_path": "assets/images/引_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153389",
+      "lang": "vi",
+      "content_html": "<p>Có CUNG với GẬY có thể DẪN dắt đần e đi đánh nhau</p>",
+      "content_text": "Có CUNG với GẬY có thể DẪN dắt đần e đi đánh nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153390",
+      "lang": "vi",
+      "content_html": "<p>Cung thủ là người dẫn đầu team đi đánh nhau</p>",
+      "content_text": "Cung thủ là người dẫn đầu team đi đánh nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153391",
+      "lang": "vi",
+      "content_html": "<p>CUNG mà có cây GẬY  --  thì có thể KÉO DUỖI ra dễ dàng và DẪN DỤ, HẤP DẪN người khác</p>",
+      "content_text": "CUNG mà có cây GẬY  --  thì có thể KÉO DUỖI ra dễ dàng và DẪN DỤ, HẤP DẪN người khác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

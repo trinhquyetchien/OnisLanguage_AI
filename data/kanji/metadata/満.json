@@ -1,0 +1,110 @@
+{
+  "kanji": "満",
+  "meta": {
+    "weight": 1589,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マン",
+      "バン"
+    ],
+    "kun": [
+      "み.ちる",
+      "み.つ",
+      "み.たす"
+    ],
+    "am_han": "MÃN"
+  },
+  "meaning": {
+    "vi": "đủ, thỏa mãn, mãn nguyện",
+    "en": "full, fullness, enough, satisfy"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/満.svg"
+  },
+  "frequency": 515,
+  "examples": [
+    "満足",
+    "不満",
+    "満載",
+    "未満",
+    "満たす"
+  ],
+  "explanation": {
+    "id": "7457",
+    "text": "満 (đọc là \"man\") có nghĩa là \"đầy\", \"thoả mãn\" để chỉ trạng thái tràn đầy hoặc sự thỏa mãn.\n\nVí dụ:\n- 満足 (manzoku): Sự hài lòng, thoả mãn.\n- 満員 (man'in): Đầy người, chật cứng.\n- 満杯 (manpai):"
+  },
+  "comments": [
+    {
+      "id": "191099",
+      "lang": "vi",
+      "content_html": "<p><strong>đầy</strong></p><p>満点 - điểm tuyệt đối</p>",
+      "content_text": "đầy\n満点 - điểm tuyệt đối",
+      "image_url": "https://jpdictionary.com/upload/images/648abff3c72d5.jpg",
+      "image_path": "assets/images/満_1.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "155013",
+      "lang": "vi",
+      "content_html": "<p>cây CỎ được tưới NƯỚC kỹ LƯỠNG nên rất MÃN nguyện</p>",
+      "content_text": "cây CỎ được tưới NƯỚC kỹ LƯỠNG nên rất MÃN nguyện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190665",
+      "lang": "vi",
+      "content_html": "<p>Nước tưới Cỏ phải chảy Lưỡng dòng mới thỏa Mãn</p>",
+      "content_text": "Nước tưới Cỏ phải chảy Lưỡng dòng mới thỏa Mãn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "155014",
+      "lang": "vi",
+      "content_html": "<p>Thỏa MÃN là khi anh LƯỠNG \"đội\" chị THẢO chảy NƯỚC</p>",
+      "content_text": "Thỏa MÃN là khi anh LƯỠNG \"đội\" chị THẢO chảy NƯỚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

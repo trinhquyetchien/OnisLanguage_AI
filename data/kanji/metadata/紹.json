@@ -1,0 +1,102 @@
+{
+  "kanji": "紹",
+  "meta": {
+    "weight": 2067,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "THIỆU"
+  },
+  "meaning": {
+    "vi": "giới thiệu",
+    "en": "introduce, inherit, help"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/紹.svg"
+  },
+  "frequency": 963,
+  "examples": [
+    "紹介",
+    "紹興酒"
+  ],
+  "explanation": {
+    "id": "3898",
+    "text": "紹 (đọc là \"shou\") có nghĩa là \"giới thiệu\", \"liên kết\" để chỉ các hành động liên quan đến việc giới thiệu hoặc kết nối giữa người với người.  \nVí dụ:  \n- 紹介 (shoukai): Giới thiệu.  \n- 紹介状 (s"
+  },
+  "comments": [
+    {
+      "id": "156021",
+      "lang": "vi",
+      "content_html": "<p>TRIỆU (召) tập nhau lại, rồi mỗi người cầm một sợi DÂY giới thiệu về mình</p>",
+      "content_text": "TRIỆU (召) tập nhau lại, rồi mỗi người cầm một sợi DÂY giới thiệu về mình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190744",
+      "lang": "vi",
+      "content_html": "<p>Dùng dây buộc dao vào miệng rồi giới thiệu</p>",
+      "content_text": "Dùng dây buộc dao vào miệng rồi giới thiệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "191155",
+      "lang": "vi",
+      "content_html": "<p>giới <strong>thiệu </strong>- 紹介</p>",
+      "content_text": "giới\nthiệu\n- 紹介",
+      "image_url": "https://jpdictionary.com/upload/images/648acd790b2b8.jpg",
+      "image_path": "assets/images/紹_3.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "156022",
+      "lang": "vi",
+      "content_html": "<p>Triệu tập mọi người để giới thiệu về sợi dây</p>",
+      "content_text": "Triệu tập mọi người để giới thiệu về sợi dây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

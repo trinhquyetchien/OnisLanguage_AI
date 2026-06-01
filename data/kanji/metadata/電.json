@@ -1,0 +1,88 @@
+{
+  "kanji": "電",
+  "meta": {
+    "weight": 2870,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "デン"
+    ],
+    "kun": [],
+    "am_han": "ĐIỆN"
+  },
+  "meaning": {
+    "vi": "điện",
+    "en": "electricity"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/電.svg"
+  },
+  "frequency": 268,
+  "examples": [
+    "電話",
+    "電子",
+    "電車",
+    "電気",
+    "発電"
+  ],
+  "explanation": {
+    "id": "5694",
+    "text": "電 (đọc là \"den\") có nghĩa là \"điện\", chỉ các khía cạnh liên quan đến điện năng, ánh sáng và thông tin.  \nVí dụ:  \n- 電話 (denwa): Điện thoại.  \n- 電気 (denki): Điện, điện năng.  \n- 電車 (densha): "
+  },
+  "comments": [
+    {
+      "id": "621",
+      "lang": "vi",
+      "content_html": "<p>Trong cơn mưa (雨) những tia <strong>điện </strong>loé sáng trên cánh đồng (田).</p>",
+      "content_text": "Trong cơn mưa (雨) những tia\nđiện\nloé sáng trên cánh đồng (田).",
+      "image_url": "https://jpdictionary.com/upload/images/629788fe8bc8c.jpg",
+      "image_path": "assets/images/電_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191227",
+      "lang": "vi",
+      "content_html": "<p>tia <strong>điện</strong></p>",
+      "content_text": "tia\nđiện",
+      "image_url": "https://jpdictionary.com/upload/images/648ade9320737.jpg",
+      "image_path": "assets/images/電_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "157808",
+      "lang": "vi",
+      "content_html": "<p>Mưa (雨) trên Đồng (田) tạo ra Dòng (乚) ĐIỆN (電)</p>",
+      "content_text": "Mưa (雨) trên Đồng (田) tạo ra Dòng (乚) ĐIỆN (電)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

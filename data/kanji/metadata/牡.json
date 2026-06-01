@@ -1,0 +1,75 @@
+{
+  "kanji": "牡",
+  "meta": {
+    "weight": 1695,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボ",
+      "ボウ"
+    ],
+    "kun": [
+      "おす",
+      "お-",
+      "おん-"
+    ],
+    "am_han": "MẪU"
+  },
+  "meaning": {
+    "vi": "Nam giới",
+    "en": "male"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/牡.svg"
+  },
+  "frequency": 2155,
+  "examples": [
+    "牡蠣",
+    "牡丹",
+    "牡",
+    "牡馬"
+  ],
+  "explanation": {
+    "id": "576",
+    "text": "牡 (đọc là \"bo\") có nghĩa là \"con đực\", thường dùng để chỉ giới tính của động vật, đặc biệt là trong các thuật ngữ liên quan đến sinh sản hoặc phân loại. \n\nVí dụ:\n- 牡牛 (boshū): Bò đực.\n- 牡丹 ("
+  },
+  "comments": [
+    {
+      "id": "155235",
+      "lang": "vi",
+      "content_html": "<p>1 con Trâu đổi được 1 MẪU Đất là con trâu đực</p>",
+      "content_text": "1 con Trâu đổi được 1 MẪU Đất là con trâu đực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155236",
+      "lang": "vi",
+      "content_html": "<p>Con trâu ở khu đất kia là con đực</p>",
+      "content_text": "Con trâu ở khu đất kia là con đực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

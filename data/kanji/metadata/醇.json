@@ -1,0 +1,53 @@
+{
+  "kanji": "醇",
+  "meta": {
+    "weight": 2723,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュン",
+      "シュン"
+    ],
+    "kun": [
+      "もっぱら",
+      "こい",
+      "あつい"
+    ],
+    "am_han": "THUẦN"
+  },
+  "meaning": {
+    "vi": "rượu sake tinh khiết, tinh khiết, tình cảm",
+    "en": "pure sake, purity, affection"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/醇.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3672",
+    "text": "醇 (đọc là \"jun\") có nghĩa là \"tinh khiết\", \"rượu vang\" hoặc \"đồ uống có cồn\" thường chỉ các loại đồ uống ngon, tinh khiết và chất lượng cao. \n\nVí dụ:\n- 醇酒 (junjū): Rượu vang tinh khiết.\n- 醇厚"
+  },
+  "comments": [
+    {
+      "id": "220878",
+      "lang": "vi",
+      "content_html": "<p>Mang rượu ngon cho gà hưởng</p>",
+      "content_text": "Mang rượu ngon cho gà hưởng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

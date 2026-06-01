@@ -1,0 +1,92 @@
+{
+  "kanji": "厭",
+  "meta": {
+    "weight": 413,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン",
+      "オン",
+      "アン",
+      "オウ",
+      "ユウ",
+      "ヨウ"
+    ],
+    "kun": [
+      "いや",
+      "あ.きる",
+      "いと.う",
+      "おさ.える"
+    ],
+    "am_han": "YẾM, ÁP, YÊM, ẤP"
+  },
+  "meaning": {
+    "vi": "cảm thấy mệt mỏi, hài lòng, buồn chán, không thích, không đồng ý, không được chào đón",
+    "en": "get tired of, satiate, bore, dislike, disagreeable, unwelcome"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/厭.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "432",
+    "text": "厭 (đọc là \"en\" hoặc \"iya\") có nghĩa là \"không thích\", \"ghét\" để chỉ cảm giác chán ghét hoặc không ưa.  \nVí dụ:  \n- 厭世 (ensai): Chán ghét cuộc sống, bi quan.  \n- 厭う (iyau): Ghét bỏ, không thí"
+  },
+  "comments": [
+    {
+      "id": "219052",
+      "lang": "vi",
+      "content_html": "<p>Dưới sườn núi con chó khó chịu khi phải đeo YẾM từ lúc mặt trời mọc đến lúc trăng lên</p>",
+      "content_text": "Dưới sườn núi con chó khó chịu khi phải đeo YẾM từ lúc mặt trời mọc đến lúc trăng lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219053",
+      "lang": "vi",
+      "content_html": "<p>Trong xưởng ngày đêm nuôi một con chó đáng ghét</p>",
+      "content_text": "Trong xưởng ngày đêm nuôi một con chó đáng ghét",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219054",
+      "lang": "vi",
+      "content_html": "<p>THÁNG NGÀY âu YẾM con CHÓ dưới SƯỜN NÚI</p>",
+      "content_text": "THÁNG NGÀY âu YẾM con CHÓ dưới SƯỜN NÚI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "冊",
+  "meta": {
+    "weight": 281,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サツ",
+      "サク"
+    ],
+    "kun": [
+      "ふみ"
+    ],
+    "am_han": "SÁCH"
+  },
+  "meaning": {
+    "vi": "quyển",
+    "en": "tome, counter for books, volume"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/冊.svg"
+  },
+  "frequency": 1313,
+  "examples": [
+    "冊",
+    "冊子",
+    "小冊子",
+    "別冊",
+    "短冊"
+  ],
+  "explanation": {
+    "id": "2928",
+    "text": "冊 (đọc là \"saku\") có nghĩa là \"quyển\", \"cuốn\" để chỉ các đơn vị đo lường sách vở hoặc tài liệu.  \nVí dụ:  \n- 冊子 (zasshi): Tạp chí, sách nhỏ.  \n- 一冊 (issatsu): Một cuốn (sách).  \n- 書籍 (shosek"
+  },
+  "comments": [
+    {
+      "id": "37232",
+      "lang": "vi",
+      "content_html": "<p>Bó các tờ giấy làm thành một <strong>quyển </strong>sách.</p>",
+      "content_text": "Bó các tờ giấy làm thành một\nquyển\nsách.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd70e20674.jpg",
+      "image_path": "assets/images/冊_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151897",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa sách làm bằng thanh gỗ 4 thanh xếp thành hàng gắn với nhau bởi sợi dây ở giữa</p>",
+      "content_text": "Thời xưa sách làm bằng thanh gỗ 4 thanh xếp thành hàng gắn với nhau bởi sợi dây ở giữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151898",
+      "lang": "vi",
+      "content_html": "<p>Buộc 4 thanh lại thành sách</p>",
+      "content_text": "Buộc 4 thanh lại thành sách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151899",
+      "lang": "vi",
+      "content_html": "<p>buộc 4 thanh tre thành Sách</p>",
+      "content_text": "buộc 4 thanh tre thành Sách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

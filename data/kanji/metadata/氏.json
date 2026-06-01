@@ -1,0 +1,108 @@
+{
+  "kanji": "氏",
+  "meta": {
+    "weight": 1477,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "うじ",
+      "-うじ"
+    ],
+    "am_han": "THỊ, CHI"
+  },
+  "meaning": {
+    "vi": "họ, tộc",
+    "en": "family name, surname, clan"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/氏.svg"
+  },
+  "frequency": 84,
+  "examples": [
+    "氏",
+    "彼氏",
+    "氏名",
+    "同氏",
+    "源氏"
+  ],
+  "explanation": {
+    "id": "3110",
+    "text": "氏 (đọc là \"shi\") có nghĩa là \"họ\", chỉ danh tính hoặc dòng tộc của một người. \n\nVí dụ:\n- 氏名 (shimei): Họ tên.\n- 氏族 (shizoku): Tộc họ, dòng dõi.\n- 氏 (ushi): Họ (dùng để chỉ họ trong văn bản t"
+  },
+  "comments": [
+    {
+      "id": "957",
+      "lang": "vi",
+      "content_html": "<p><strong>Tên họ</strong> được ghi trên bảng.</p>",
+      "content_text": "Tên họ\nđược ghi trên bảng.",
+      "image_url": "https://jpdictionary.com/upload/images/6298cc630d932.png",
+      "image_path": "assets/images/氏_1.png",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154743",
+      "lang": "vi",
+      "content_html": "<p>Em (E) là (L) người có họ tên (氏)</p>",
+      "content_text": "Em (E) là (L) người có họ tên (氏)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "159001",
+      "lang": "vi",
+      "content_html": "<p>Chữ 氏 được sử dụng để định danh một gia tộc hoặc một nhóm người có cùng một nguồn gốc xã hội. Ví dụ, nếu một người tên là Tanaka Akira được gọi là Tanaka-shi, điều này có nghĩa là người đó là một thành viên của gia tộc Tanaka.&nbsp;</p>",
+      "content_text": "Chữ 氏 được sử dụng để định danh một gia tộc hoặc một nhóm người có cùng một nguồn gốc xã hội. Ví dụ, nếu một người tên là Tanaka Akira được gọi là Tanaka-shi, điều này có nghĩa là người đó là một thành viên của gia tộc Tanaka.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "2",
+        "name": "ピカチュウ",
+        "image_url": "https://jpdictionary.com/upload/images/63918f2e8dcf1.png"
+      }
+    },
+    {
+      "id": "221623",
+      "lang": "vi",
+      "content_html": "<p>Chữ Hán 氏 (đọc là \"shi\") có nghĩa là \"họ\" hoặc \"dòng họ.\" Nó được sử dụng để chỉ tên họ của một người và có thể ám chỉ dòng dõi hoặc gia tộc của một người.</p><ul><li>田中氏 (Tanaka-shi): Ông/Bà Tanaka</li><li>氏名 (shimei): Tên và họ</li></ul>",
+      "content_text": "Chữ Hán 氏 (đọc là \"shi\") có nghĩa là \"họ\" hoặc \"dòng họ.\" Nó được sử dụng để chỉ tên họ của một người và có thể ám chỉ dòng dõi hoặc gia tộc của một người.\n田中氏 (Tanaka-shi): Ông/Bà Tanaka\n氏名 (shimei): Tên và họ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

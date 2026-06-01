@@ -1,0 +1,91 @@
+{
+  "kanji": "便",
+  "meta": {
+    "weight": 194,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ベン",
+      "ビン"
+    ],
+    "kun": [
+      "たよ.り"
+    ],
+    "am_han": "TIỆN"
+  },
+  "meaning": {
+    "vi": "tiện lợi",
+    "en": "convenience, facility, excrement, feces, letter, chance"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/便.svg"
+  },
+  "frequency": 729,
+  "examples": [
+    "便利",
+    "郵便",
+    "便",
+    "不便",
+    "利便"
+  ],
+  "explanation": {
+    "id": "7070",
+    "text": "便 (đọc là \"ben\" hoặc \"bin\") có nghĩa là \"tiện lợi\", \"thuận tiện\", thường chỉ sự thuận lợi trong các tình huống hoặc dịch vụ. \n\nVí dụ:\n- 便利 (benri): Tiện lợi.\n- 便所 (benjo): Nhà vệ sinh.\n- 便り "
+  },
+  "comments": [
+    {
+      "id": "190887",
+      "lang": "vi",
+      "content_html": "<p>máy tính thì <strong>tiện lợi</strong></p>",
+      "content_text": "máy tính thì\ntiện lợi",
+      "image_url": "https://jpdictionary.com/upload/images/648a64643b0d5.jpg",
+      "image_path": "assets/images/便_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36954",
+      "lang": "vi",
+      "content_html": "<p>Nếu thư đến trong vòng 1 ngày (一日) thì <strong>tiện lợi</strong>.</p>",
+      "content_text": "Nếu thư đến trong vòng 1 ngày (一日) thì\ntiện lợi\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc46c666209.jpg",
+      "image_path": "assets/images/便_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151674",
+      "lang": "vi",
+      "content_html": "<p>nếu con NGƯỜI có đôi CÁNH thì TIỆN lợi quá...</p>",
+      "content_text": "nếu con NGƯỜI có đôi CÁNH thì TIỆN lợi quá...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

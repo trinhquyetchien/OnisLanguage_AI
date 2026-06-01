@@ -1,0 +1,89 @@
+{
+  "kanji": "朱",
+  "meta": {
+    "weight": 1282,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ"
+    ],
+    "kun": [
+      "あけ"
+    ],
+    "am_han": "CHU"
+  },
+  "meaning": {
+    "vi": "đỏ son, chu sa, đỏ tươi, đỏ, đẫm máu",
+    "en": "vermilion, cinnabar, scarlet, red, bloody"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/朱.svg"
+  },
+  "frequency": 1788,
+  "examples": [
+    "朱",
+    "朱雀",
+    "朱色",
+    "朱鷺"
+  ],
+  "explanation": {
+    "id": "3415",
+    "text": "朱 (đọc là \"shu\" hoặc \"aka\") có nghĩa là \"màu đỏ\" để chỉ các sắc thái màu sắc, đặc biệt là màu đỏ tươi. \n\nVí dụ:\n- 朱色 (shuiro): Màu đỏ tươi.\n- 朱印 (shuin): Dấu ấn đỏ, thường dùng trong văn hóa"
+  },
+  "comments": [
+    {
+      "id": "154364",
+      "lang": "vi",
+      "content_html": "<p>CHU sa có MÙI VỊ tanh như máu ĐỎ tươi.</p>",
+      "content_text": "CHU sa có MÙI VỊ tanh như máu ĐỎ tươi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154365",
+      "lang": "vi",
+      "content_html": "<p>Trẻ VỊ thành niên hay CHU môi ĐỎ tự sướng.</p>",
+      "content_text": "Trẻ VỊ thành niên hay CHU môi ĐỎ tự sướng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154366",
+      "lang": "vi",
+      "content_html": "<p>Nằm lên cây CHU cái môi đỏ lên chụp ảnh</p>",
+      "content_text": "Nằm lên cây CHU cái môi đỏ lên chụp ảnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

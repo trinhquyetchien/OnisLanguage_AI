@@ -1,0 +1,35 @@
+{
+  "kanji": "磐",
+  "meta": {
+    "weight": 1891,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バン",
+      "ハン"
+    ],
+    "kun": [
+      "いわ"
+    ],
+    "am_han": "BÀN"
+  },
+  "meaning": {
+    "vi": "đá, cheo leo, vách đá, tường (trong mỏ)",
+    "en": "rock, crag, cliff, wall (in a mine)"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/磐.svg"
+  },
+  "frequency": 1701,
+  "examples": [
+    "磐"
+  ],
+  "explanation": {
+    "id": "6521",
+    "text": "磐 (đọc là \"ban\") có nghĩa là \"phiến đá lớn\", thường chỉ những tảng đá vững chắc và bền bỉ. \n\nVí dụ:\n- 磐石 (banseki): Đá vững chắc, biểu thị sự kiên cố.\n- 磐根 (bangen): Nền đá, tầng đá bên dưới"
+  },
+  "comments": []
+}

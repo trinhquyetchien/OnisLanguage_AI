@@ -1,0 +1,82 @@
+{
+  "kanji": "朕",
+  "meta": {
+    "weight": 1272,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チン"
+    ],
+    "kun": [],
+    "am_han": "TRẪM"
+  },
+  "meaning": {
+    "vi": "số nhiều hùng vĩ, đế quốc chúng tôi",
+    "en": "majestic plural, imperial we"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/朕.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5423",
+    "text": "朕 (đọc là \"chin\") có nghĩa là \"ta\", thường được dùng để chỉ bản thân của hoàng đế trong các văn bản hoặc ngữ cảnh trang trọng. \n\nVí dụ:\n- 朕の命令 (chin no meirei): Lệnh của ta (hoàng đế).\n- 朕は国"
+  },
+  "comments": [
+    {
+      "id": "219777",
+      "lang": "vi",
+      "content_html": "<p>ngẩng mặt lên trời 天 ngắm ánh 丷 trăng 月 tự xưng (TRẪM) 朕</p>",
+      "content_text": "ngẩng mặt lên trời 天 ngắm ánh 丷 trăng 月 tự xưng (TRẪM) 朕",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219778",
+      "lang": "vi",
+      "content_html": "<p>NGUYỆT là bầu trời của TRẪM</p>",
+      "content_text": "NGUYỆT là bầu trời của TRẪM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219779",
+      "lang": "vi",
+      "content_html": "<p>con cừu mọc thêm chân bị tống lên mặt trăng vì dám tự xưng Trẫm</p>",
+      "content_text": "con cừu mọc thêm chân bị tống lên mặt trăng vì dám tự xưng Trẫm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

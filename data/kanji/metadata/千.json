@@ -1,0 +1,73 @@
+{
+  "kanji": "千",
+  "meta": {
+    "weight": 385,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "ち"
+    ],
+    "am_han": "THIÊN"
+  },
+  "meaning": {
+    "vi": "nghìn",
+    "en": "thousand"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/千.svg"
+  },
+  "frequency": 195,
+  "examples": [
+    "千",
+    "千葉",
+    "千代",
+    "千尋",
+    "千里"
+  ],
+  "explanation": {
+    "id": "4475",
+    "text": "千 (đọc là \"sen\") có nghĩa là \"nghìn\", chỉ số lượng lớn hoặc hàng nghìn.  \nVí dụ:  \n- 千円 (sen'en): Một nghìn yên.  \n- 千人 (sennin): Một nghìn người.  \n- 千万 (senman): Mười triệu."
+  },
+  "comments": [
+    {
+      "id": "463",
+      "lang": "vi",
+      "content_html": "<p>Cộng nét 「ノ」vào số 10「十」 ta sẽ có một số lớn hơn rất nhiều, số 1000</p>",
+      "content_text": "Cộng nét 「ノ」vào số 10「十」 ta sẽ có một số lớn hơn rất nhiều, số 1000",
+      "image_url": "https://jpdictionary.com/upload/images/6297614d8bb3f.jpg",
+      "image_path": "assets/images/千_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158434",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>千 (せん): nghìn</p>",
+      "content_text": "JLPT N5\n千 (せん): nghìn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

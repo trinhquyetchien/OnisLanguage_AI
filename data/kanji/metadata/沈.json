@@ -1,0 +1,92 @@
+{
+  "kanji": "沈",
+  "meta": {
+    "weight": 1499,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チン",
+      "ジン"
+    ],
+    "kun": [
+      "しず.む",
+      "しず.める"
+    ],
+    "am_han": "TRẦM"
+  },
+  "meaning": {
+    "vi": "chìm, trầm tư",
+    "en": "sink, be submerged, subside, be depressed, aloes"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/沈.svg"
+  },
+  "frequency": 1271,
+  "examples": [
+    "沈黙",
+    "沈む",
+    "沈没",
+    "沈下",
+    "撃沈"
+  ],
+  "explanation": {
+    "id": "5426",
+    "text": "沈 (đọc là \"chin\" hoặc \"shizumu\") có nghĩa là \"nhấn chìm\", \"lặn\", thường chỉ trạng thái bị chìm xuống hoặc cảm giác buồn bã, trầm lắng.\n\nVí dụ:\n- 沈黙 (chinmoku): Im lặng.\n- 沈む (shizumu): Chìm,"
+  },
+  "comments": [
+    {
+      "id": "154790",
+      "lang": "vi",
+      "content_html": "<p>người yếu đuối (Uông) cầm khăn (MỊCH) lau nước mắt (THUỶ) trông rất Trầm ngâm u buồn</p>",
+      "content_text": "người yếu đuối (Uông) cầm khăn (MỊCH) lau nước mắt (THUỶ) trông rất Trầm ngâm u buồn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154791",
+      "lang": "vi",
+      "content_html": "<p>Người quàng khăn trầm ngâm dìm mình xuống nước</p>",
+      "content_text": "Người quàng khăn trầm ngâm dìm mình xuống nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154792",
+      "lang": "vi",
+      "content_html": "<p>Em TRẦM buông tay khuỵ gối chìm mình sau nước</p>",
+      "content_text": "Em TRẦM buông tay khuỵ gối chìm mình sau nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

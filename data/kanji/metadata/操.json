@@ -1,0 +1,92 @@
+{
+  "kanji": "操",
+  "meta": {
+    "weight": 1161,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "サン"
+    ],
+    "kun": [
+      "みさお",
+      "あやつ.る"
+    ],
+    "am_han": "THAO, THÁO"
+  },
+  "meaning": {
+    "vi": "điều động, thao túng, vận hành, chỉ đạo, trinh tiết, chung thủy",
+    "en": "maneuver, manipulate, operate, steer, chastity, virginity, fidelity"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/操.svg"
+  },
+  "frequency": 1016,
+  "examples": [
+    "操作",
+    "体操",
+    "操縦",
+    "操業",
+    "操る"
+  ],
+  "explanation": {
+    "id": "4715",
+    "text": "操 (đọc là \"sō\") có nghĩa là \"vận hành\", \"thao tác\" để chỉ các hành động liên quan đến việc điều khiển hoặc thao tác một cái gì đó.\n\nVí dụ:\n- 操作 (sōsa): Thao tác, vận hành.\n- 操縦 (sōjū): Điều "
+  },
+  "comments": [
+    {
+      "id": "154056",
+      "lang": "vi",
+      "content_html": "<p>Tay thao tác.. đưa vật phẩm lên cây..</p>",
+      "content_text": "Tay thao tác.. đưa vật phẩm lên cây..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154057",
+      "lang": "vi",
+      "content_html": "<p>thao tác chuyển hàng lên cây bằng tay</p>",
+      "content_text": "thao tác chuyển hàng lên cây bằng tay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154058",
+      "lang": "vi",
+      "content_html": "<p>THAO tác tay dùng nguyên liệu gổ,tạo ra sãn phẫm.</p>",
+      "content_text": "THAO tác tay dùng nguyên liệu gổ,tạo ra sãn phẫm.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "脳",
+  "meta": {
+    "weight": 2199,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ノウ",
+      "ドウ"
+    ],
+    "kun": [
+      "のうずる"
+    ],
+    "am_han": "NÃO"
+  },
+  "meaning": {
+    "vi": "não",
+    "en": "brain, memory"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/脳.svg"
+  },
+  "frequency": 459,
+  "examples": [
+    "脳",
+    "首脳",
+    "頭脳",
+    "洗脳",
+    "電脳"
+  ],
+  "explanation": {
+    "id": "6203",
+    "text": "脳 (đọc là \"nō\") có nghĩa là \"não\" để chỉ bộ phận cơ thể chịu trách nhiệm cho các chức năng nhận thức, cảm xúc và điều khiển cơ thể.  \nVí dụ:  \n- 脳科学 (nōkagaku): Khoa học về não, thần kinh họ"
+  },
+  "comments": [
+    {
+      "id": "156345",
+      "lang": "vi",
+      "content_html": "<p>Do cùng cách viết nên mazii không phân biệt \"nhục\" và \"nguyệt\".<br>tất cả liên quan đến cơ thể đều dùng bộ \"nhục\" nhé. có thể một số bạn chưa rõ nên cmt.</p>",
+      "content_text": "Do cùng cách viết nên mazii không phân biệt \"nhục\" và \"nguyệt\".\ntất cả liên quan đến cơ thể đều dùng bộ \"nhục\" nhé. có thể một số bạn chưa rõ nên cmt.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156346",
+      "lang": "vi",
+      "content_html": "<p>NÃO người thì có bộ NHỤC (thịt) và bộ NÃO. Phiền NÃO thì có bộ TÂM + NÃO</p>",
+      "content_text": "NÃO người thì có bộ NHỤC (thịt) và bộ NÃO. Phiền NÃO thì có bộ TÂM + NÃO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156347",
+      "lang": "vi",
+      "content_html": "<p>Khi Trăng lên sẽ Hung ác gấp 3 lần vì Não ko ổn định</p>",
+      "content_text": "Khi Trăng lên sẽ Hung ác gấp 3 lần vì Não ko ổn định",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

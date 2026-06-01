@@ -1,0 +1,76 @@
+{
+  "kanji": "三",
+  "meta": {
+    "weight": 76,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン",
+      "ゾウ"
+    ],
+    "kun": [
+      "み",
+      "み.つ",
+      "みっ.つ"
+    ],
+    "am_han": "TAM"
+  },
+  "meaning": {
+    "vi": "ba",
+    "en": "three"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/三.svg"
+  },
+  "frequency": 14,
+  "examples": [
+    "三",
+    "三つ",
+    "第三者",
+    "三月",
+    "三郎"
+  ],
+  "explanation": {
+    "id": "2976",
+    "text": "三 (đọc là \"san\") có nghĩa là \"ba\" để chỉ số lượng hoặc thứ tự trong tiếng Nhật. \n\nVí dụ:\n- 三人 (sannin): Ba người.\n- 三角 (sankaku): Tam giác.\n- 三日 (mikka): Ngày thứ ba."
+  },
+  "comments": [
+    {
+      "id": "453",
+      "lang": "vi",
+      "content_html": "<p>Ba ngón tay biểu thị cho số 3.</p>",
+      "content_text": "Ba ngón tay biểu thị cho số 3.",
+      "image_url": "https://jpdictionary.com/upload/images/62975f7a973a0.jpg",
+      "image_path": "assets/images/三_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158234",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>三 (さん): 3</p><p>三つ (みっつ): ba cái</p>",
+      "content_text": "JLPT N5\n三 (さん): 3\n三つ (みっつ): ba cái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

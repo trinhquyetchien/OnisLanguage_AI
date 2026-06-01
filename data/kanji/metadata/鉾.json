@@ -1,0 +1,35 @@
+{
+  "kanji": "鉾",
+  "meta": {
+    "weight": 2754,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ",
+      "ム"
+    ],
+    "kun": [
+      "ほこ"
+    ],
+    "am_han": "MÂU"
+  },
+  "meaning": {
+    "vi": "dây, cánh tay, lễ hội phao",
+    "en": "halberd, arms, festival float"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/鉾.svg"
+  },
+  "frequency": 2453,
+  "examples": [
+    "鉾"
+  ],
+  "explanation": {
+    "id": "7303",
+    "text": "鉾 (đọc là \"hoko\") có nghĩa là \"cây giáo\", \"mũi giáo\", thường chỉ các loại vũ khí hoặc biểu tượng liên quan đến chiến tranh, lễ hội.  \nVí dụ:  \n- 鉾車 (hokokuruma): Xe rước trong lễ hội, thường"
+  },
+  "comments": []
+}

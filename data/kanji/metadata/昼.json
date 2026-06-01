@@ -1,0 +1,90 @@
+{
+  "kanji": "昼",
+  "meta": {
+    "weight": 1232,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "ひる"
+    ],
+    "am_han": "TRÚ"
+  },
+  "meaning": {
+    "vi": "buổi trưa",
+    "en": "daytime, noon"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/昼.svg"
+  },
+  "frequency": 1115,
+  "examples": [
+    "昼",
+    "昼食",
+    "お昼",
+    "昼間",
+    "昼寝"
+  ],
+  "explanation": {
+    "id": "5283",
+    "text": "昼 (đọc là \"hiru\") có nghĩa là \"buổi trưa\" hoặc \"ban ngày\", chỉ thời gian trong ngày khi ánh sáng mặt trời chiếu sáng.  \nVí dụ:  \n- 昼食 (chuushoku): Bữa trưa.  \n- 昼間 (hiruma): Ban ngày, thời g"
+  },
+  "comments": [
+    {
+      "id": "715",
+      "lang": "vi",
+      "content_html": "<p>Khi mặt trời (日) lên cao vào buổi <strong>trưa </strong>chúng ta sẽ treo những tấm bạt che nắng.</p>",
+      "content_text": "Khi mặt trời (日) lên cao vào buổi\ntrưa\nchúng ta sẽ treo những tấm bạt che nắng.",
+      "image_url": "https://jpdictionary.com/upload/images/6298400e5a1ea.jpg",
+      "image_path": "assets/images/昼_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154235",
+      "lang": "vi",
+      "content_html": "<p>Ngày (日) mùng 1 (一) bị Xích (尺) đến tận Trưa (昼)</p>",
+      "content_text": "Ngày (日) mùng 1 (一) bị Xích (尺) đến tận Trưa (昼)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158599",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>昼 (ひる): buổi trưa</p><p>昼御飯 (ひるごはん): bữa trưa</p><p>昼休み (ひるやすみ): nghỉ trưa</p><p>昼間 (ひるま): ban ngày</p>",
+      "content_text": "JLPT N4\n昼 (ひる): buổi trưa\n昼御飯 (ひるごはん): bữa trưa\n昼休み (ひるやすみ): nghỉ trưa\n昼間 (ひるま): ban ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

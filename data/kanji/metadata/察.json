@@ -1,0 +1,105 @@
+{
+  "kanji": "察",
+  "meta": {
+    "weight": 742,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サツ"
+    ],
+    "kun": [],
+    "am_han": "SÁT"
+  },
+  "meaning": {
+    "vi": "quan sát, cảnh sát",
+    "en": "guess, presume, surmise, judge, understand"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/察.svg"
+  },
+  "frequency": 477,
+  "examples": [
+    "警察",
+    "観察",
+    "考察",
+    "検察",
+    "警察官"
+  ],
+  "explanation": {
+    "id": "2934",
+    "text": "察 (đọc là \"satsu\") có nghĩa là \"quan sát\", \"nhận biết\" để chỉ các hành động liên quan đến việc nhìn nhận, hiểu biết hoặc phát hiện ra điều gì đó.\n\nVí dụ:\n- 察知 (satchi): Nhận biết, phát hiện."
+  },
+  "comments": [
+    {
+      "id": "153013",
+      "lang": "vi",
+      "content_html": "<p>Cảnh sát kiểm tra lễ tế trong nhà</p>",
+      "content_text": "Cảnh sát kiểm tra lễ tế trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190803",
+      "lang": "vi",
+      "content_html": "<p>trong nhà có lễ hội phải báo cảnh sát</p><p>&nbsp;</p>",
+      "content_text": "trong nhà có lễ hội phải báo cảnh sát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "153014",
+      "lang": "vi",
+      "content_html": "<p>2 chú TIỂU 小  bắt TRĂNG 月 về nhà 亠 , chưa về tới đã bị cảnh sát bắt</p>",
+      "content_text": "2 chú TIỂU 小  bắt TRĂNG 月 về nhà 亠 , chưa về tới đã bị cảnh sát bắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153015",
+      "lang": "vi",
+      "content_html": "<p>Nhà 宀 đó cứ 1 tháng 月 lại 又 bị Cảnh Sát chỉ thị 示 lên đồn gặp 1 lần</p>",
+      "content_text": "Nhà 宀 đó cứ 1 tháng 月 lại 又 bị Cảnh Sát chỉ thị 示 lên đồn gặp 1 lần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

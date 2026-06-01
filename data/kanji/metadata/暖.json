@@ -1,0 +1,111 @@
+{
+  "kanji": "暖",
+  "meta": {
+    "weight": 1247,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダン",
+      "ノン"
+    ],
+    "kun": [
+      "あたた.か",
+      "あたた.かい",
+      "あたた.まる",
+      "あたた.める"
+    ],
+    "am_han": "NOÃN"
+  },
+  "meaning": {
+    "vi": "sự ấm áp",
+    "en": "warmth"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/暖.svg"
+  },
+  "frequency": 1371,
+  "examples": [
+    "温暖",
+    "暖かい",
+    "暖房",
+    "暖か",
+    "暖"
+  ],
+  "explanation": {
+    "id": "5178",
+    "text": "暖 (đọc là \"dan\" hoặc \"atataka\") có nghĩa là \"ấm\", chỉ tình trạng có nhiệt độ cao hơn bình thường, mang lại cảm giác dễ chịu. \n\nVí dụ:\n- 暖かい (atatakai): Ấm áp.\n- 暖房 (danbō): Hệ thống sưởi, má"
+  },
+  "comments": [
+    {
+      "id": "37162",
+      "lang": "vi",
+      "content_html": "<p>Nắm tay cùng bạn bè (友) ta sẽ thấy <strong>ấm áp</strong>.</p>",
+      "content_text": "Nắm tay cùng bạn bè (友) ta sẽ thấy\nấm áp\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd04c7d9e1.jpg",
+      "image_path": "assets/images/暖_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154271",
+      "lang": "vi",
+      "content_html": "<p>Mỗi ngày 日 thức dậy, tôi vs bạn thân 友 (親友) cùng nhau luyện long trảo 爪 thủ làm nóng 暖 người lên</p>",
+      "content_text": "Mỗi ngày 日 thức dậy, tôi vs bạn thân 友 (親友) cùng nhau luyện long trảo 爪 thủ làm nóng 暖 người lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154272",
+      "lang": "vi",
+      "content_html": "<p>Lấy ánh nắng ấm từ mặt trời ban cho người bạn hữu</p>",
+      "content_text": "Lấy ánh nắng ấm từ mặt trời ban cho người bạn hữu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154273",
+      "lang": "vi",
+      "content_html": "<p>Hai thằng bạn 友 cào cấu 爪 nhau cả ngày 日 nóng hết cả người. (Sửa của bạn congnguyen37 xíu nha)</p>",
+      "content_text": "Hai thằng bạn 友 cào cấu 爪 nhau cả ngày 日 nóng hết cả người. (Sửa của bạn congnguyen37 xíu nha)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

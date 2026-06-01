@@ -1,0 +1,91 @@
+{
+  "kanji": "徴",
+  "meta": {
+    "weight": 935,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ",
+      "チ"
+    ],
+    "kun": [
+      "しるし"
+    ],
+    "am_han": "TRƯNG, TRỪNG, CHƯNG, CHỦY, CHUỶ"
+  },
+  "meaning": {
+    "vi": "chỉ định, dấu hiệu, điềm báo, triệu chứng, thu thập, tìm kiếm, tham khảo, câu hỏi",
+    "en": "indications, sign, omen, symptom, collect, seek, refer to, question"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/徴.svg"
+  },
+  "frequency": 850,
+  "examples": [
+    "特徴",
+    "象徴",
+    "徴収",
+    "徴兵",
+    "徴候"
+  ],
+  "explanation": {
+    "id": "5355",
+    "text": "徴 (đọc là \"chō\" hoặc \"shuu\") có nghĩa là \"dấu hiệu\", \"bằng chứng\" để chỉ các hành động liên quan đến việc thu thập thông tin hoặc chỉ ra điều gì đó.  \nVí dụ:  \n- 徴収 (chōshū): Thu phí, thu th"
+  },
+  "comments": [
+    {
+      "id": "153499",
+      "lang": "vi",
+      "content_html": "<p>Đặc TRƯNG của vua là đội vương miệng giống quả NÚI, hai bên quan võ cầm XÍCH, quan văn cầm PHỘC</p>",
+      "content_text": "Đặc TRƯNG của vua là đội vương miệng giống quả NÚI, hai bên quan võ cầm XÍCH, quan văn cầm PHỘC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153500",
+      "lang": "vi",
+      "content_html": "<p>Bà Trưng đội vương niệm, cầm roi quất voi đi ra trận</p>",
+      "content_text": "Bà Trưng đội vương niệm, cầm roi quất voi đi ra trận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153501",
+      "lang": "vi",
+      "content_html": "<p>Vua Đi lên Núi Đánh chiếm để Trưng thu</p>",
+      "content_text": "Vua Đi lên Núi Đánh chiếm để Trưng thu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

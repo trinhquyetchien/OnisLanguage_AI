@@ -1,0 +1,65 @@
+{
+  "kanji": "銑",
+  "meta": {
+    "weight": 2758,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [],
+    "am_han": "TIỂN"
+  },
+  "meaning": {
+    "vi": "gang",
+    "en": "pig iron"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/銑.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4574",
+    "text": "銑 (đọc là \"sen\") có nghĩa là \"sắt\" hoặc \"kim loại được tinh chế\", thường chỉ các loại kim loại hoặc vật liệu thô được xử lý để sử dụng trong sản xuất.\n\nVí dụ:\n- 銑鉄 (sentetsu): Sắt thô.\n- 銑鋼 "
+  },
+  "comments": [
+    {
+      "id": "220899",
+      "lang": "vi",
+      "content_html": "<p>Đồng tiền đi trước là đồng tiền để mua gang</p>",
+      "content_text": "Đồng tiền đi trước là đồng tiền để mua gang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220900",
+      "lang": "vi",
+      "content_html": "<p>Kim loại đầu tiên là gang, TIỂN thiết</p>",
+      "content_text": "Kim loại đầu tiên là gang, TIỂN thiết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

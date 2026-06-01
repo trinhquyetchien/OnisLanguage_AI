@@ -1,0 +1,84 @@
+{
+  "kanji": "冶",
+  "meta": {
+    "weight": 291,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヤ"
+    ],
+    "kun": [
+      "い.る"
+    ],
+    "am_han": "DÃ"
+  },
+  "meaning": {
+    "vi": "nấu chảy",
+    "en": "melting, smelting"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/冶.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7667",
+    "text": "冶 (đọc là \"ya\") có nghĩa là \"luyện kim\", \"chế tác\" để chỉ các hành động liên quan đến việc luyện kim hoặc xử lý kim loại.  \nVí dụ:  \n- 冶金 (yakin): Luyện kim, ngành công nghiệp kim loại.  \n- "
+  },
+  "comments": [
+    {
+      "id": "218952",
+      "lang": "vi",
+      "content_html": "<p>NẤU CHẢY để DÃ Đông cái Đài cổ</p>",
+      "content_text": "NẤU CHẢY để DÃ Đông cái Đài cổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218953",
+      "lang": "vi",
+      "content_html": "<p>DÃ đông cái ĐÀI bị đóng BĂNG</p>",
+      "content_text": "DÃ đông cái ĐÀI bị đóng BĂNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218954",
+      "lang": "vi",
+      "content_html": "<p>cứ lên bục đài là đứng đóng băng , cần lắm 1 bí kíp DÃ đông</p>",
+      "content_text": "cứ lên bục đài là đứng đóng băng , cần lắm 1 bí kíp DÃ đông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

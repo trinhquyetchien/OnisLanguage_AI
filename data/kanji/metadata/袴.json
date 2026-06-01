@@ -1,0 +1,54 @@
+{
+  "kanji": "袴",
+  "meta": {
+    "weight": 2417,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ",
+      "ク"
+    ],
+    "kun": [
+      "はかま",
+      "ずぼん"
+    ],
+    "am_han": "KHỐ"
+  },
+  "meaning": {
+    "vi": "váy phân chia chính thức của nam giới",
+    "en": "men's formal divided skirt"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/袴.svg"
+  },
+  "frequency": 2175,
+  "examples": [
+    "袴"
+  ],
+  "explanation": {
+    "id": "2293",
+    "text": "袴 (đọc là \"hakama\") có nghĩa là \"quần truyền thống\" để chỉ loại quần được mặc trong các dịp đặc biệt, thường kết hợp với kimono. \n\nVí dụ:\n- 袴姿 (hakama-zukuri): Dáng vẻ mặc hakama.\n- 女袴 (onna"
+  },
+  "comments": [
+    {
+      "id": "156738",
+      "lang": "vi",
+      "content_html": "<p>chỉ còn có cái QUẦN đùi để mặc mà cũng KHOE khoan.</p>",
+      "content_text": "chỉ còn có cái QUẦN đùi để mặc mà cũng KHOE khoan.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

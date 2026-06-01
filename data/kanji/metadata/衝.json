@@ -1,0 +1,90 @@
+{
+  "kanji": "衝",
+  "meta": {
+    "weight": 2406,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "つ.く"
+    ],
+    "am_han": "XUNG"
+  },
+  "meaning": {
+    "vi": "va chạm, bầm dập, xa lộ, đối lập (thiên văn học), lực đẩy, đâm xuyên, đâm",
+    "en": "collide, brunt, highway, opposition (astronomy), thrust, pierce, stab, prick"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/衝.svg"
+  },
+  "frequency": 972,
+  "examples": [
+    "衝撃",
+    "衝突",
+    "衝動",
+    "折衝",
+    "緩衝"
+  ],
+  "explanation": {
+    "id": "3910",
+    "text": "衝 (đọc là \"shō\") có nghĩa là \"va chạm\", \"xung đột\" để chỉ các hành động liên quan đến việc va đập hoặc xung khắc.  \nVí dụ:  \n- 衝突 (shōtotsu): Va chạm, xung đột.  \n- 衝動 (shōdō): Xung động, sự"
+  },
+  "comments": [
+    {
+      "id": "156709",
+      "lang": "vi",
+      "content_html": "<p>HÀNH行 động NẶNG重 sẽ tạo ra sự XUNG đột</p>",
+      "content_text": "HÀNH行 động NẶNG重 sẽ tạo ra sự XUNG đột",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156710",
+      "lang": "vi",
+      "content_html": "<p>Đi lại nặng nề dẫn đến xung đột</p>",
+      "content_text": "Đi lại nặng nề dẫn đến xung đột",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156711",
+      "lang": "vi",
+      "content_html": "<p>HÀNH động thận TRỌNG để ko dẫn đến XUNG đột</p>",
+      "content_text": "HÀNH động thận TRỌNG để ko dẫn đến XUNG đột",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

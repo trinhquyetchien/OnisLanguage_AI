@@ -1,0 +1,91 @@
+{
+  "kanji": "因",
+  "meta": {
+    "weight": 533,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イン"
+    ],
+    "kun": [
+      "よ.る",
+      "ちな.む"
+    ],
+    "am_han": "NHÂN"
+  },
+  "meaning": {
+    "vi": "nguyên nhân",
+    "en": "cause, factor, be associated with, depend on, be limited to"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/因.svg"
+  },
+  "frequency": 636,
+  "examples": [
+    "原因",
+    "要因",
+    "因果",
+    "起因",
+    "因みに"
+  ],
+  "explanation": {
+    "id": "248",
+    "text": "因 (đọc là \"in\") có nghĩa là \"nguyên nhân\" hoặc \"do\". Chữ này thường được sử dụng để chỉ lý do hay nguyên nhân của một việc gì đó.\n\nVí dụ:\n- 原因 (gen'in): Nguyên nhân.\n- 依因 (iin): Dựa vào, the"
+  },
+  "comments": [
+    {
+      "id": "152518",
+      "lang": "vi",
+      "content_html": "<p>Bao Đại NHÂN</p>",
+      "content_text": "Bao Đại NHÂN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152519",
+      "lang": "vi",
+      "content_html": "<p>Cách nhớ khác: Nguyên nhân (因) bị đánh là do to (大) mồm (口)</p>",
+      "content_text": "Cách nhớ khác: Nguyên nhân (因) bị đánh là do to (大) mồm (口)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152520",
+      "lang": "vi",
+      "content_html": "<p>Vi Tiểu Bảo Đại Nhân</p>",
+      "content_text": "Vi Tiểu Bảo Đại Nhân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

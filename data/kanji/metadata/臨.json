@@ -1,0 +1,90 @@
+{
+  "kanji": "臨",
+  "meta": {
+    "weight": 2222,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リン"
+    ],
+    "kun": [
+      "のぞ.む"
+    ],
+    "am_han": "LÂM, LẤM"
+  },
+  "meaning": {
+    "vi": "nhìn đến, đối mặt, gặp gỡ, đối đầu, tham dự, kêu gọi",
+    "en": "look to, face, meet, confront, attend, call on"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/臨.svg"
+  },
+  "frequency": 722,
+  "examples": [
+    "臨時",
+    "臨床",
+    "臨む",
+    "君臨",
+    "臨界"
+  ],
+  "explanation": {
+    "id": "8174",
+    "text": "臨 (đọc là \"rin\") có nghĩa là \"tiếp cận\", \"đến gần\", thường dùng để chỉ hành động gần gũi, tiếp xúc với một tình huống hoặc sự kiện nào đó.\n\nVí dụ:\n- 臨時 (rinji): Tạm thời, khẩn cấp.\n- 臨場 (rin"
+  },
+  "comments": [
+    {
+      "id": "156388",
+      "lang": "vi",
+      "content_html": "<p>LÂM thời các đại thần tạo ra sản phẩm trong tư thế nằm!</p>",
+      "content_text": "LÂM thời các đại thần tạo ra sản phẩm trong tư thế nằm!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156389",
+      "lang": "vi",
+      "content_html": "<p>NHÂN PHẨM như THẦN chỉ là LÂM thời</p>",
+      "content_text": "NHÂN PHẨM như THẦN chỉ là LÂM thời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156390",
+      "lang": "vi",
+      "content_html": "<p>Mang sản phẩm tới gần một đại thần đang nằm</p>",
+      "content_text": "Mang sản phẩm tới gần một đại thần đang nằm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

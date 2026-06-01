@@ -1,0 +1,90 @@
+{
+  "kanji": "筋",
+  "meta": {
+    "weight": 1993,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キン"
+    ],
+    "kun": [
+      "すじ"
+    ],
+    "am_han": "CÂN"
+  },
+  "meaning": {
+    "vi": "cơ, gân, sợi, âm mưu, kế hoạch, gốc",
+    "en": "muscle, sinew, tendon, fiber, plot, plan, descent"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/筋.svg"
+  },
+  "frequency": 744,
+  "examples": [
+    "筋",
+    "筋肉",
+    "背筋",
+    "道筋",
+    "腹筋"
+  ],
+  "explanation": {
+    "id": "1774",
+    "text": "筋 (đọc là \"suji\" hoặc \"kin\") có nghĩa là \"gân\", \"dây\", để chỉ cấu trúc, hình dạng hoặc nguyên tắc bên trong của một vật thể hoặc tình huống. \n\nVí dụ:\n- 筋肉 (kinniku): Cơ bắp.\n- 筋道 (suji-michi"
+  },
+  "comments": [
+    {
+      "id": "155876",
+      "lang": "vi",
+      "content_html": "<p>Dùng Sức để vác Hai Cây Trúc dưới ánh Trăng, thật là mỏi Cơ Bắp</p>",
+      "content_text": "Dùng Sức để vác Hai Cây Trúc dưới ánh Trăng, thật là mỏi Cơ Bắp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155877",
+      "lang": "vi",
+      "content_html": "<p>Nguyệt Dùng Lực CÂN bó Trúc này</p>",
+      "content_text": "Nguyệt Dùng Lực CÂN bó Trúc này",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155878",
+      "lang": "vi",
+      "content_html": "<p>Dẫn em Nguyệt 月 vào rừng Trúc 竹 lại dùng Lực カ nhiều đúng là mỏi cơ bắp quá đi mà</p>",
+      "content_text": "Dẫn em Nguyệt 月 vào rừng Trúc 竹 lại dùng Lực カ nhiều đúng là mỏi cơ bắp quá đi mà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

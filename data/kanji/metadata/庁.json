@@ -1,0 +1,91 @@
+{
+  "kanji": "庁",
+  "meta": {
+    "weight": 857,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ",
+      "テイ"
+    ],
+    "kun": [
+      "やくしょ"
+    ],
+    "am_han": "SẢNH"
+  },
+  "meaning": {
+    "vi": "văn phòng Chính phủ, đại sảnh",
+    "en": "government office"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/庁.svg"
+  },
+  "frequency": 793,
+  "examples": [
+    "庁",
+    "省庁",
+    "防衛庁",
+    "官庁",
+    "警視庁"
+  ],
+  "explanation": {
+    "id": "5343",
+    "text": "庁 (đọc là \"chō\") có nghĩa là \"cơ quan\", \"văn phòng\" để chỉ các cơ quan chính phủ hoặc tổ chức hành chính.  \nVí dụ:  \n- 政府庁 (seifuchō): Cơ quan chính phủ.  \n- 警察庁 (keisatsuchō): Cục cảnh sát."
+  },
+  "comments": [
+    {
+      "id": "153311",
+      "lang": "vi",
+      "content_html": "<p>Cái sảnh ở trong nhà hình chữ T</p>",
+      "content_text": "Cái sảnh ở trong nhà hình chữ T",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153312",
+      "lang": "vi",
+      "content_html": "<p>Dưới mái nhà ở đại Sảnh rải đầy Đinh</p>",
+      "content_text": "Dưới mái nhà ở đại Sảnh rải đầy Đinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153313",
+      "lang": "vi",
+      "content_html": "<p>Rắc ĐINH (丁) từ ngoài HIÊN (广) là SẢNH (庁) của CỤC hành là chính.</p>",
+      "content_text": "Rắc ĐINH (丁) từ ngoài HIÊN (广) là SẢNH (庁) của CỤC hành là chính.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

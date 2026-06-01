@@ -1,0 +1,88 @@
+{
+  "kanji": "状",
+  "meta": {
+    "weight": 1706,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [],
+    "am_han": "TRẠNG"
+  },
+  "meaning": {
+    "vi": "trạng thái",
+    "en": "status quo, conditions, circumstances, form, appearance"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/状.svg"
+  },
+  "frequency": 298,
+  "examples": [
+    "状況",
+    "状態",
+    "現状",
+    "状",
+    "症状"
+  ],
+  "explanation": {
+    "id": "3981",
+    "text": "状 (đọc là \"jō\") có nghĩa là \"trạng thái\", \"hình dạng\", dùng để chỉ các tình huống, hình thức hay trạng thái của một sự vật nào đó.  \nVí dụ:  \n- 状態 (jōtai): Trạng thái, tình trạng.  \n- 状況 (jō"
+  },
+  "comments": [
+    {
+      "id": "155261",
+      "lang": "vi",
+      "content_html": "<p>Trạng thaia: chó đái bờ tường</p>",
+      "content_text": "Trạng thaia: chó đái bờ tường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155262",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa giắt theo chó đi thông báo cáo trạng</p>",
+      "content_text": "Thời xưa giắt theo chó đi thông báo cáo trạng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155263",
+      "lang": "vi",
+      "content_html": "<p>Chó dựa vào Tường là chó Trạng nguyên</p>",
+      "content_text": "Chó dựa vào Tường là chó Trạng nguyên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

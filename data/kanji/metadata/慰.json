@@ -1,0 +1,91 @@
+{
+  "kanji": "慰",
+  "meta": {
+    "weight": 1012,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "なぐさ.める",
+      "なぐさ.む"
+    ],
+    "am_han": "ÚY"
+  },
+  "meaning": {
+    "vi": "an ủi, giải trí, dụ dỗ, cổ vũ, làm cho thể thao, thoải mái, bảng điều khiển",
+    "en": "consolation, amusement, seduce, cheer, make sport of, comfort, console"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/慰.svg"
+  },
+  "frequency": 1158,
+  "examples": [
+    "慰安",
+    "慰め",
+    "慰謝",
+    "慰霊",
+    "慰める"
+  ],
+  "explanation": {
+    "id": "146",
+    "text": "慰 (đọc là \"i\") có nghĩa là \"an ủi\", \"động viên\" để chỉ các hành động liên quan đến việc làm cho người khác cảm thấy dễ chịu hơn trong những lúc khó khăn.\n\nVí dụ:\n- 慰め (nagusame): Sự an ủi, s"
+  },
+  "comments": [
+    {
+      "id": "153700",
+      "lang": "vi",
+      "content_html": "<p>Ông trung úy an ủi người dân bằng cả trái tim.</p>",
+      "content_text": "Ông trung úy an ủi người dân bằng cả trái tim.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153701",
+      "lang": "vi",
+      "content_html": "<p>Thây ma hiển thị lên thì rất thốn nơi con tim</p>",
+      "content_text": "Thây ma hiển thị lên thì rất thốn nơi con tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153702",
+      "lang": "vi",
+      "content_html": "<p>Hộ thị thốn tâm- họ thì thầm vào trái tim để an ủi nhau</p>",
+      "content_text": "Hộ thị thốn tâm- họ thì thầm vào trái tim để an ủi nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

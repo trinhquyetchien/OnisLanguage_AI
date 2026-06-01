@@ -1,0 +1,92 @@
+{
+  "kanji": "選",
+  "meta": {
+    "weight": 2690,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "えら.ぶ",
+      "え.る",
+      "よ.る"
+    ],
+    "am_han": "TUYỂN"
+  },
+  "meaning": {
+    "vi": "tuyển chọn",
+    "en": "elect, select, choose, prefer"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/選.svg"
+  },
+  "frequency": 57,
+  "examples": [
+    "選手",
+    "選択",
+    "選挙",
+    "選ぶ",
+    "選び"
+  ],
+  "explanation": {
+    "id": "4566",
+    "text": "選 (đọc là \"sen\") có nghĩa là \"lựa chọn\", \"chọn lọc\", chỉ các hành động liên quan đến việc lựa chọn hoặc quyết định giữa nhiều phương án.  \nVí dụ:  \n- 選挙 (senkyo): Cuộc bầu cử.  \n- 選択 (sentak"
+  },
+  "comments": [
+    {
+      "id": "37268",
+      "lang": "vi",
+      "content_html": "<p>Tất cả mọi người cùng (共) tham gia <strong>tuyển chọn</strong>.</p>",
+      "content_text": "Tất cả mọi người cùng (共) tham gia\ntuyển chọn\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdbbe79f50.jpg",
+      "image_path": "assets/images/選_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157408",
+      "lang": "vi",
+      "content_html": "<p>cần TUYỂN 22 tk CỘNG tác viên</p>",
+      "content_text": "cần TUYỂN 22 tk CỘNG tác viên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191211",
+      "lang": "vi",
+      "content_html": "<p><strong>tuyển</strong> thủ - 選手</p>",
+      "content_text": "tuyển\nthủ - 選手",
+      "image_url": "https://jpdictionary.com/upload/images/648adc7c4a1ac.jpg",
+      "image_path": "assets/images/選_3.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

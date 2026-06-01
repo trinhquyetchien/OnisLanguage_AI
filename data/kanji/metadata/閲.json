@@ -1,0 +1,88 @@
+{
+  "kanji": "閲",
+  "meta": {
+    "weight": 2812,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エツ"
+    ],
+    "kun": [
+      "けみ.する"
+    ],
+    "am_han": "DUYỆT, DUỢT, DƯỢT, HUỊCH, HUỴCH"
+  },
+  "meaning": {
+    "vi": "xem xét, kiểm tra, sửa đổi",
+    "en": "review, inspection, revision"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/閲.svg"
+  },
+  "frequency": 1855,
+  "examples": [
+    "閲覧",
+    "検閲",
+    "校閲"
+  ],
+  "explanation": {
+    "id": "428",
+    "text": "閱 (đọc là \"etsu\" hoặc \"yaku\") có nghĩa là \"đọc\", \"xem\", thường liên quan đến việc kiểm tra hoặc xem xét tài liệu.  \nVí dụ:  \n- 閲覧 (etsuran): Xem, duyệt tài liệu.  \n- 閲兵 (etuhyō): Kiểm tra qu"
+  },
+  "comments": [
+    {
+      "id": "157647",
+      "lang": "vi",
+      "content_html": "<p>Giao cho huynh đứng trước cổng để kiểm duyệt</p>",
+      "content_text": "Giao cho huynh đứng trước cổng để kiểm duyệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157648",
+      "lang": "vi",
+      "content_html": "<p>Anh tôi đứng trước cổng kiểm duyệt hàng hoá</p>",
+      "content_text": "Anh tôi đứng trước cổng kiểm duyệt hàng hoá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157649",
+      "lang": "vi",
+      "content_html": "<p>Có DUYỆT ông anh đang đứng trước cổng kia không?</p>",
+      "content_text": "Có DUYỆT ông anh đang đứng trước cổng kia không?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

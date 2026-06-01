@@ -1,0 +1,91 @@
+{
+  "kanji": "屈",
+  "meta": {
+    "weight": 775,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "クツ"
+    ],
+    "kun": [
+      "かが.む",
+      "かが.める"
+    ],
+    "am_han": "KHUẤT, QUẬT"
+  },
+  "meaning": {
+    "vi": "nhượng bộ, uốn cong, nao núng, phục tùng",
+    "en": "yield, bend, flinch, submit"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/屈.svg"
+  },
+  "frequency": 1434,
+  "examples": [
+    "理屈",
+    "退屈",
+    "屈辱",
+    "窮屈",
+    "屈折"
+  ],
+  "explanation": {
+    "id": "1866",
+    "text": "屈 (đọc là \"kutsu\") có nghĩa là \"uốn cong\", \"khuất phục\", chỉ các hành động liên quan đến sự khuất phục hoặc uốn dẻo.  \nVí dụ:  \n- 屈服 (kukuhuku): Khuất phục, đầu hàng.  \n- 屈折 (kutsusetsu): Kh"
+  },
+  "comments": [
+    {
+      "id": "153107",
+      "lang": "vi",
+      "content_html": "<p>Thấy chết mà vẫn xông lên quả thật là bất khuất</p>",
+      "content_text": "Thấy chết mà vẫn xông lên quả thật là bất khuất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153108",
+      "lang": "vi",
+      "content_html": "<p>Đi ra khỏi (XUẤT) cửa (HỘ) KHUẤT tầm nhìn</p>",
+      "content_text": "Đi ra khỏi (XUẤT) cửa (HỘ) KHUẤT tầm nhìn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153109",
+      "lang": "vi",
+      "content_html": "<p>người chết (thi) thể (khuất) đầy núi!</p>",
+      "content_text": "người chết (thi) thể (khuất) đầy núi!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

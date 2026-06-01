@@ -1,0 +1,91 @@
+{
+  "kanji": "土",
+  "meta": {
+    "weight": 543,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ド",
+      "ト"
+    ],
+    "kun": [
+      "つち"
+    ],
+    "am_han": "THỔ"
+  },
+  "meaning": {
+    "vi": "đất",
+    "en": "soil, earth, ground, Turkey"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/土.svg"
+  },
+  "frequency": 307,
+  "examples": [
+    "土",
+    "土地",
+    "土曜日",
+    "国土",
+    "土産"
+  ],
+  "explanation": {
+    "id": "5751",
+    "text": "土 (đọc là \"tsuchi\" hoặc \"do\") có nghĩa là \"đất\", \"bùn\" để chỉ các khía cạnh liên quan đến đất đai, nền tảng hoặc những gì thuộc về tự nhiên.\n\nVí dụ:\n- 土地 (tochi): Đất đai, vùng đất.\n- 土曜日 (d"
+  },
+  "comments": [
+    {
+      "id": "487",
+      "lang": "vi",
+      "content_html": "<p>Hạt mầm đâm chồi từ mặt <strong>đất</strong></p>",
+      "content_text": "Hạt mầm đâm chồi từ mặt\nđất",
+      "image_url": "https://jpdictionary.com/upload/images/629763e56b471.jpg",
+      "image_path": "assets/images/土_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152545",
+      "lang": "vi",
+      "content_html": "<p>Đất 土 là nơi cắm cây thập giá 十</p>",
+      "content_text": "Đất 土 là nơi cắm cây thập giá 十",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158440",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>土よう日 (どようび): Thứ Bảy</p>",
+      "content_text": "JLPT N5\n土よう日 (どようび): Thứ Bảy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

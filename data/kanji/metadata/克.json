@@ -1,0 +1,89 @@
+{
+  "kanji": "克",
+  "meta": {
+    "weight": 262,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コク"
+    ],
+    "kun": [
+      "か.つ"
+    ],
+    "am_han": "KHẮC"
+  },
+  "meaning": {
+    "vi": "vượt qua, tử tế, khéo léo",
+    "en": "overcome, kindly, skillfully"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/克.svg"
+  },
+  "frequency": 1333,
+  "examples": [
+    "克服",
+    "克明",
+    "克己",
+    "相克"
+  ],
+  "explanation": {
+    "id": "2628",
+    "text": "克 (đọc là \"kaku\") có nghĩa là \"chiến thắng\", \"khắc phục\" để chỉ việc vượt qua khó khăn hoặc chiến thắng một điều gì đó.  \nVí dụ:  \n- 克服 (kokufuku): Khắc phục, vượt qua (khó khăn).  \n- 成功を克つ "
+  },
+  "comments": [
+    {
+      "id": "151849",
+      "lang": "vi",
+      "content_html": "<p>10 sư Huynh cùng nhau khắc phục</p>",
+      "content_text": "10 sư Huynh cùng nhau khắc phục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151850",
+      "lang": "vi",
+      "content_html": "<p>Huynh phải khắc phục 10 lần mới xứng</p>",
+      "content_text": "Huynh phải khắc phục 10 lần mới xứng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151851",
+      "lang": "vi",
+      "content_html": "<p>Anh trai Khắc chữ Thập(+) trên đầu</p>",
+      "content_text": "Anh trai Khắc chữ Thập(+) trên đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

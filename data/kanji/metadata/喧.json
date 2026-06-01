@@ -1,0 +1,107 @@
+{
+  "kanji": "喧",
+  "meta": {
+    "weight": 508,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "やかま.しい",
+      "かまびす.しい"
+    ],
+    "am_han": "HUYÊN"
+  },
+  "meaning": {
+    "vi": "ồn ào, náo nhiệt",
+    "en": "noisy, boisterous"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/喧.svg"
+  },
+  "frequency": 2249,
+  "examples": [
+    "喧嘩",
+    "喧騒",
+    "喧伝",
+    "喧噪"
+  ],
+  "explanation": {
+    "id": "2113",
+    "text": "喧 (đọc là \"ken\" hoặc \"yakeru\") có nghĩa là \"ồn ào\", \"náo nhiệt\", thường chỉ tình trạng ồn ào hay sự huyên náo. \n\nVí dụ:\n- 喧嘩 (kenka): Cãi nhau, xô xát.\n- 喧騒 (kensō): Tiếng ồn ào, huyên náo.\n"
+  },
+  "comments": [
+    {
+      "id": "152459",
+      "lang": "vi",
+      "content_html": "<p>Mồm tuyên truyền huyên náo</p>",
+      "content_text": "Mồm tuyên truyền huyên náo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152460",
+      "lang": "vi",
+      "content_html": "<p>Một cái mồm đứng dưới mái nhà nói nguyên 1 ngày thì rất chi là HUYÊN náo</p>",
+      "content_text": "Một cái mồm đứng dưới mái nhà nói nguyên 1 ngày thì rất chi là HUYÊN náo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152461",
+      "lang": "vi",
+      "content_html": "<p>Dưới mái nhà mồm nói 1001 câu làm huyên náo .</p>",
+      "content_text": "Dưới mái nhà mồm nói 1001 câu làm huyên náo .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221746",
+      "lang": "vi",
+      "content_html": "<p>Cái MIỆNG bên trái TUYÊN BỐ thật HUYÊN NÁO</p>",
+      "content_text": "Cái MIỆNG bên trái TUYÊN BỐ thật HUYÊN NÁO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4610",
+        "name": "Châu Tiểu Kì",
+        "image_url": "https://jpdictionary.com/upload/images/6683b949b8137.png"
+      }
+    }
+  ]
+}

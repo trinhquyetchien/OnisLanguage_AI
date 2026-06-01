@@ -1,0 +1,92 @@
+{
+  "kanji": "銭",
+  "meta": {
+    "weight": 2761,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン",
+      "ゼン"
+    ],
+    "kun": [
+      "ぜに",
+      "すき"
+    ],
+    "am_han": "TIỀN"
+  },
+  "meaning": {
+    "vi": "đồng xu, 0,01 yên, tiền",
+    "en": "coin, .01 yen, money"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/銭.svg"
+  },
+  "frequency": 1008,
+  "examples": [
+    "金銭",
+    "銭",
+    "小銭",
+    "銭湯",
+    "賽銭"
+  ],
+  "explanation": {
+    "id": "4571",
+    "text": "銭 (đọc là \"sen\" hoặc \"zenny\") có nghĩa là \"tiền\", \"tiền bạc\" để chỉ các đơn vị tiền tệ hoặc giá trị tài chính.\n\nVí dụ:\n- 銭湯 (sentō): Nhà tắm công cộng, nơi tắm rửa.\n- 小銭 (kozeni): Tiền lẻ, đ"
+  },
+  "comments": [
+    {
+      "id": "157564",
+      "lang": "vi",
+      "content_html": "<p>Vì kim tiền mà tàn sát nhau</p>",
+      "content_text": "Vì kim tiền mà tàn sát nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157565",
+      "lang": "vi",
+      "content_html": "<p>Qua 2 lần sử dụng thì tiền vẫn cứ là tiền</p>",
+      "content_text": "Qua 2 lần sử dụng thì tiền vẫn cứ là tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157566",
+      "lang": "vi",
+      "content_html": "<p>Tiền mà còn sót lại chỉ đáng 1/100 yên</p>",
+      "content_text": "Tiền mà còn sót lại chỉ đáng 1/100 yên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

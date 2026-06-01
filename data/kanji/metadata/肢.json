@@ -1,0 +1,88 @@
+{
+  "kanji": "肢",
+  "meta": {
+    "weight": 2172,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [],
+    "am_han": "CHI"
+  },
+  "meaning": {
+    "vi": "chi, tay và chân",
+    "en": "limb, arms & legs"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/肢.svg"
+  },
+  "frequency": 2289,
+  "examples": [
+    "選択肢",
+    "四肢",
+    "肢体",
+    "肢",
+    "下肢"
+  ],
+  "explanation": {
+    "id": "3131",
+    "text": "肢 (đọc là \"shi\") có nghĩa là \"chi\", thường chỉ các phần của cơ thể, đặc biệt là chi thể như tay và chân.  \nVí dụ:  \n- 肢体 (shitai): Cơ thể.  \n- 肢節 (shisetu): Chi tiết, bộ phận của cơ thể.  \n-"
+  },
+  "comments": [
+    {
+      "id": "156274",
+      "lang": "vi",
+      "content_html": "<p>NGUYỆT mở CHI nhánh làm móng CHÂN móng TAY...</p>",
+      "content_text": "NGUYỆT mở CHI nhánh làm móng CHÂN móng TAY...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156275",
+      "lang": "vi",
+      "content_html": "<p>Chi thêm thịt là chi tay chân</p>",
+      "content_text": "Chi thêm thịt là chi tay chân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156276",
+      "lang": "vi",
+      "content_html": "<p>Con người có 4 chi , chị nguyệt có hẳn 10 chi</p>",
+      "content_text": "Con người có 4 chi , chị nguyệt có hẳn 10 chi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

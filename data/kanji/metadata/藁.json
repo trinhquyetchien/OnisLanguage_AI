@@ -1,0 +1,86 @@
+{
+  "kanji": "藁",
+  "meta": {
+    "weight": 2358,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "わら"
+    ],
+    "am_han": "CẢO"
+  },
+  "meaning": {
+    "vi": "Rơm rạ",
+    "en": "straw"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/藁.svg"
+  },
+  "frequency": 2488,
+  "examples": [
+    "藁"
+  ],
+  "explanation": {
+    "id": "8423",
+    "text": "藁 (đọc là \"wara\") có nghĩa là \"rơm\", chỉ nguyên liệu thực vật khô thường được sử dụng trong nông nghiệp hoặc làm thức ăn cho gia súc.  \nVí dụ:  \n- 藁葺き屋根 (warabuki-yane): Mái nhà lợp rơm.  \n-"
+  },
+  "comments": [
+    {
+      "id": "156624",
+      "lang": "vi",
+      "content_html": "<p>Trên một cái “ cây ” “cao” có một cọng “ rơm ”</p>",
+      "content_text": "Trên một cái “ cây ” “cao” có một cọng “ rơm ”",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156625",
+      "lang": "vi",
+      "content_html": "<p>Để hoa cao hơn cây thì chỉ làm Rơm , CẢO đi thôi ( cào đi thôi )</p>",
+      "content_text": "Để hoa cao hơn cây thì chỉ làm Rơm , CẢO đi thôi ( cào đi thôi )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156626",
+      "lang": "vi",
+      "content_html": "<p>Đem cỏ chất thành một cây cao thì đó là cây rơm rạ</p>",
+      "content_text": "Đem cỏ chất thành một cây cao thì đó là cây rơm rạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

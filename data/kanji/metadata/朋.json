@@ -1,0 +1,86 @@
+{
+  "kanji": "朋",
+  "meta": {
+    "weight": 1269,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "とも"
+    ],
+    "am_han": "BẰNG"
+  },
+  "meaning": {
+    "vi": "đồng hành, bạn bè",
+    "en": "companion, friend"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/朋.svg"
+  },
+  "frequency": 2039,
+  "examples": [
+    "朋"
+  ],
+  "explanation": {
+    "id": "7183",
+    "text": "朋 (đọc là \"hō\") có nghĩa là \"bạn bè\", chỉ những người bạn, đồng chí. \n\nVí dụ:\n- 友朋 (yūhō): Bạn bè.\n- 朋党 (hōtō): Đảng phái, nhóm bạn bè cùng chí hướng.\n- 朋輩 (hōhai): Bạn bè đồng trang lứa."
+  },
+  "comments": [
+    {
+      "id": "154329",
+      "lang": "vi",
+      "content_html": "<p>2 tháng là trở thành BẰNG hữu của nhau</p>",
+      "content_text": "2 tháng là trở thành BẰNG hữu của nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154330",
+      "lang": "vi",
+      "content_html": "<p>Trong thi ca thì trăng còn là biểu tượng một mảnh hồn cô đơn. Chữ Bằng này ghép bởi hai chữ Nguyệt, ý là hai mảnh hồn cô đơn gặp gỡ đã trở thành đôi bạn.</p>",
+      "content_text": "Trong thi ca thì trăng còn là biểu tượng một mảnh hồn cô đơn. Chữ Bằng này ghép bởi hai chữ Nguyệt, ý là hai mảnh hồn cô đơn gặp gỡ đã trở thành đôi bạn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154331",
+      "lang": "vi",
+      "content_html": "<p>朋友: ほうゆう： Bạn</p>",
+      "content_text": "朋友: ほうゆう： Bạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

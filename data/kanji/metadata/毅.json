@@ -1,0 +1,85 @@
+{
+  "kanji": "毅",
+  "meta": {
+    "weight": 1470,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ",
+      "ギ"
+    ],
+    "kun": [
+      "つよ.い"
+    ],
+    "am_han": "NGHỊ"
+  },
+  "meaning": {
+    "vi": "mạnh",
+    "en": "strong"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/毅.svg"
+  },
+  "frequency": 1770,
+  "examples": [],
+  "explanation": {
+    "id": "1329",
+    "text": "毅 (đọc là \"gi\") có nghĩa là \"kiên quyết\", \"cứng rắn\" để chỉ tính cách mạnh mẽ, kiên định và không dễ bị lung lay.  \nVí dụ:  \n- 毅然 (gizen): Kiên quyết, vững vàng trong quyết định.  \n- 毅力 (gir"
+  },
+  "comments": [
+    {
+      "id": "154726",
+      "lang": "vi",
+      "content_html": "<p>Nghị lực cưỡi lợn đuổi quân thù.</p>",
+      "content_text": "Nghị lực cưỡi lợn đuổi quân thù.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154727",
+      "lang": "vi",
+      "content_html": "<p>tay cầm búa đứng trên con lợn là người cứng cỏi</p>",
+      "content_text": "tay cầm búa đứng trên con lợn là người cứng cỏi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154728",
+      "lang": "vi",
+      "content_html": "<p>con lợn dám đứng lên để báo thù , thật là nghị lực</p>",
+      "content_text": "con lợn dám đứng lên để báo thù , thật là nghị lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

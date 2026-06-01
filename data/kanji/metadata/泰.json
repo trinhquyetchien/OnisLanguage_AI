@@ -1,0 +1,85 @@
+{
+  "kanji": "泰",
+  "meta": {
+    "weight": 1523,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ"
+    ],
+    "kun": [],
+    "am_han": "THÁI"
+  },
+  "meaning": {
+    "vi": "hòa bình, bình tĩnh, dễ dàng, thái lan, cực đoan, quá mức, tuyệt vời",
+    "en": "peaceful, calm, peace, easy, Thailand, extreme, excessive, great"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/泰.svg"
+  },
+  "frequency": 1281,
+  "examples": [
+    "泰",
+    "安泰"
+  ],
+  "explanation": {
+    "id": "4959",
+    "text": "泰 (đọc là \"tai\") có nghĩa là \"yên bình\", \"thái bình\", thường chỉ trạng thái hòa bình, an lạc trong xã hội hoặc tâm hồn.\nVí dụ:\n- 泰平 (taihei): Thái bình, yên ổn.\n- 安泰 (antai): An toàn, bình y"
+  },
+  "comments": [
+    {
+      "id": "154853",
+      "lang": "vi",
+      "content_html": "<p>3 người thư THÁI như NƯỚC</p>",
+      "content_text": "3 người thư THÁI như NƯỚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154854",
+      "lang": "vi",
+      "content_html": "<p>hình ảnh 3 người ngâm mình dưới nước thật là thư thái</p>",
+      "content_text": "hình ảnh 3 người ngâm mình dưới nước thật là thư thái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154855",
+      "lang": "vi",
+      "content_html": "<p>mùa xuân có nước thì đất nước thái bình</p>",
+      "content_text": "mùa xuân có nước thì đất nước thái bình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

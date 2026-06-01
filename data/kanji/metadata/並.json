@@ -1,0 +1,95 @@
+{
+  "kanji": "並",
+  "meta": {
+    "weight": 88,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘイ",
+      "ホウ"
+    ],
+    "kun": [
+      "な.み",
+      "なみ",
+      "なら.べる",
+      "なら.ぶ",
+      "なら.びに"
+    ],
+    "am_han": "TỊNH"
+  },
+  "meaning": {
+    "vi": "hàng",
+    "en": "row, and, besides, as well as, line up, rank with, rival, equal"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/並.svg"
+  },
+  "frequency": 599,
+  "examples": [
+    "並びに",
+    "並ぶ",
+    "並み",
+    "並び",
+    "並"
+  ],
+  "explanation": {
+    "id": "7008",
+    "text": "並 (đọc là \"bôi\" hoặc \"nara-bu\") có nghĩa là \"xếp hàng\", \"sắp xếp\" để chỉ các hành động liên quan đến việc sắp đặt hoặc đồng đều.\n\nVí dụ:\n- 並ぶ (narabu): Xếp hàng, đứng cạnh nhau.\n- 並べる (narab"
+  },
+  "comments": [
+    {
+      "id": "151421",
+      "lang": "vi",
+      "content_html": "<p>Đứng xếp thành 2 hàng dọc hai hàng ngag và 1 hàng chữ v</p>",
+      "content_text": "Đứng xếp thành 2 hàng dọc hai hàng ngag và 1 hàng chữ v",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151422",
+      "lang": "vi",
+      "content_html": "<p>Yên Tịnh xếp thành hai hàng dọc và hai hàng ngang</p>",
+      "content_text": "Yên Tịnh xếp thành hai hàng dọc và hai hàng ngang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151423",
+      "lang": "vi",
+      "content_html": "<p>Đứng Xếp Hàng ở Nhật là BÌNH thường</p>",
+      "content_text": "Đứng Xếp Hàng ở Nhật là BÌNH thường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "忍",
+  "meta": {
+    "weight": 941,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ニン"
+    ],
+    "kun": [
+      "しの.ぶ",
+      "しの.ばせる"
+    ],
+    "am_han": "NHẪN"
+  },
+  "meaning": {
+    "vi": "chịu đựng, đưa lên với, che giấu, tiết ra, do thám, lén lút",
+    "en": "endure, bear, put up with, conceal, secrete, spy, sneak"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/忍.svg"
+  },
+  "frequency": 1700,
+  "examples": [
+    "忍耐",
+    "忍",
+    "忍者",
+    "忍び",
+    "残忍"
+  ],
+  "explanation": {
+    "id": "6133",
+    "text": "忍 (đọc là \"nin\" hoặc \"shin\") có nghĩa là \"nhẫn\", \"chịu đựng\" để chỉ các hành động liên quan đến việc kiên nhẫn, chịu đựng hoặc lén lút.  \nVí dụ:  \n- 忍者 (ninja): Nhẫn giả, người thực hiện các"
+  },
+  "comments": [
+    {
+      "id": "153514",
+      "lang": "vi",
+      "content_html": "<p>Con tin nhẫn nhịn trước binh đao</p>",
+      "content_text": "Con tin nhẫn nhịn trước binh đao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153515",
+      "lang": "vi",
+      "content_html": "<p>mũi “dao” đâm xuống chữ “tâm”, hàm ý rằng chỉ khi NHẪN nhịn được những điều người khác không thể nhẫn nhịn, chúng ta mới có thể đạt được điều người khác không thể đạt được (trích Đừng lựa chọn an nhàn khi còn trẻ)</p>",
+      "content_text": "mũi “dao” đâm xuống chữ “tâm”, hàm ý rằng chỉ khi NHẪN nhịn được những điều người khác không thể nhẫn nhịn, chúng ta mới có thể đạt được điều người khác không thể đạt được (trích Đừng lựa chọn an nhàn khi còn trẻ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153516",
+      "lang": "vi",
+      "content_html": "<p>phải nhẫn nhịn vì có con dao kế áp vào tim</p>",
+      "content_text": "phải nhẫn nhịn vì có con dao kế áp vào tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

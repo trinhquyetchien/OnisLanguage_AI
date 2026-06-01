@@ -1,0 +1,90 @@
+{
+  "kanji": "国",
+  "meta": {
+    "weight": 539,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コク"
+    ],
+    "kun": [
+      "くに"
+    ],
+    "am_han": "QUỐC"
+  },
+  "meaning": {
+    "vi": "quốc gia",
+    "en": "country"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/国.svg"
+  },
+  "frequency": 3,
+  "examples": [
+    "国",
+    "中国",
+    "国民",
+    "国際",
+    "韓国"
+  ],
+  "explanation": {
+    "id": "2639",
+    "text": "国 (đọc là \"kuni\" hoặc \"koku\") có nghĩa là \"quốc gia\", \"đất nước\", chỉ địa phận và cộng đồng chính trị.  \nVí dụ:  \n- 国民 (kokumin): Công dân, nhân dân.  \n- 国家 (kokka): Quốc gia, nhà nước.  \n- "
+  },
+  "comments": [
+    {
+      "id": "570",
+      "lang": "vi",
+      "content_html": "<p>Nhà vua (王) nắm giữ ngọc (玉) trị vì <strong>đất nước (国)</strong></p>",
+      "content_text": "Nhà vua (王) nắm giữ ngọc (玉) trị vì\nđất nước (国)",
+      "image_url": "https://jpdictionary.com/upload/images/62977f0649d18.jpg",
+      "image_path": "assets/images/国_1.jpg",
+      "audio": null,
+      "like": 17,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190945",
+      "lang": "vi",
+      "content_html": "<p><strong>quốc gia</strong></p>",
+      "content_text": "quốc gia",
+      "image_url": "https://jpdictionary.com/upload/images/648a7501cfa3e.jpg",
+      "image_path": "assets/images/国_2.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158208",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>国 (くに): quốc gia</p><p>外国 (がいこく): nước ngoài</p><p>外国人 (がいこくじん): người nước ngoài</p>",
+      "content_text": "JLPT N5\n国 (くに): quốc gia\n外国 (がいこく): nước ngoài\n外国人 (がいこくじん): người nước ngoài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

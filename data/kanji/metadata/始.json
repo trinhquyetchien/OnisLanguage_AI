@@ -1,0 +1,92 @@
+{
+  "kanji": "始",
+  "meta": {
+    "weight": 659,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "はじ.める",
+      "-はじ.める",
+      "はじ.まる"
+    ],
+    "am_han": "THỦY"
+  },
+  "meaning": {
+    "vi": "ban đầu, nguyên thủy",
+    "en": "commence, begin"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/始.svg"
+  },
+  "frequency": 244,
+  "examples": [
+    "始め",
+    "開始",
+    "始める",
+    "始まり",
+    "始まる"
+  ],
+  "explanation": {
+    "id": "3067",
+    "text": "始 (đọc là \"shi\") có nghĩa là \"bắt đầu\", \"khởi đầu\" để chỉ các hành động khởi sự hoặc mở đầu một điều gì đó.\n\nVí dụ:\n- 始まり (hajimari): Sự bắt đầu, khởi đầu.\n- 始める (hajimeru): Bắt đầu, khởi xư"
+  },
+  "comments": [
+    {
+      "id": "190970",
+      "lang": "vi",
+      "content_html": "<p><strong>bắt đầu </strong>học</p>",
+      "content_text": "bắt đầu\nhọc",
+      "image_url": "https://jpdictionary.com/upload/images/648a7d984af9c.jpg",
+      "image_path": "assets/images/始_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36859",
+      "lang": "vi",
+      "content_html": "<p>Khi tôi <strong>bắt đầu</strong> bài diễn thuyết trên bục (台), người phụ nữ (女) đã đi về.</p>",
+      "content_text": "Khi tôi\nbắt đầu\nbài diễn thuyết trên bục (台), người phụ nữ (女) đã đi về.",
+      "image_url": "https://jpdictionary.com/upload/images/62adda8660575.jpg",
+      "image_path": "assets/images/始_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158383",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>始まる (はじまる): bắt đầu<br>始める (はじめる): bắt đầu</p>",
+      "content_text": "JLPT N4\n始まる (はじまる): bắt đầu\n始める (はじめる): bắt đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

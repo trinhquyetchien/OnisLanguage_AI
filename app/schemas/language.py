@@ -36,12 +36,38 @@ class TextAnalysis(BaseModel):
     normalized_text: str
 
 
+class FuriganaToken(BaseModel):
+    surface: str
+    reading: str | None = None
+    has_kanji: bool = False
+    part_of_speech: str | None = None
+
+
+class JapaneseTextDisplay(BaseModel):
+    text: str
+    translation_vi: str | None = None
+    furigana_text: str | None = None
+    tokens: List[FuriganaToken] = Field(default_factory=list)
+
+
+class KanjiItem(BaseModel):
+    kanji: str
+    reading: str | None = None
+    meaning_vi: str | None = None
+
+
+class AnalyzedSentence(BaseModel):
+    sentence_id: int
+    text_display: JapaneseTextDisplay
+
+
 class TranslationResponse(BaseModel):
     source_text: str
     translated_text: str
     source_language: LanguageCode
     target_language: LanguageCode
     analysis: TextAnalysis
+    text_display: JapaneseTextDisplay | None = None
 
 
 class AnalyzeTextRequest(BaseModel):
@@ -52,4 +78,7 @@ class AnalyzeTextRequest(BaseModel):
 class AnalyzeTextResponse(BaseModel):
     text: str
     language: LanguageCode
+    normalized_text: str
+    sentences: List[AnalyzedSentence] = Field(default_factory=list)
     analysis: TextAnalysis
+    kanji: List[KanjiItem] = Field(default_factory=list)

@@ -1,0 +1,90 @@
+{
+  "kanji": "肌",
+  "meta": {
+    "weight": 2167,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "はだ"
+    ],
+    "am_han": "CƠ"
+  },
+  "meaning": {
+    "vi": "da",
+    "en": "texture, skin, body, grain"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/肌.svg"
+  },
+  "frequency": 1559,
+  "examples": [
+    "肌",
+    "鳥肌",
+    "美肌",
+    "肌寒い",
+    "肌触り"
+  ],
+  "explanation": {
+    "id": "6387",
+    "text": "肌 (đọc là \"hada\") có nghĩa là \"da\", chỉ lớp bọc bên ngoài cơ thể con người hoặc động vật. \n\nVí dụ:\n- 肌触り (hadazawari): Cảm giác sờ vào da, độ mịn màng.\n- 肌ケア (hadakea): Chăm sóc da.\n- 肌色 (ha"
+  },
+  "comments": [
+    {
+      "id": "156262",
+      "lang": "vi",
+      "content_html": "<p>Ngồi trên ghế ngắm trăng da có CƠ hội trắng sáng</p>",
+      "content_text": "Ngồi trên ghế ngắm trăng da có CƠ hội trắng sáng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156263",
+      "lang": "vi",
+      "content_html": "<p>Nguyệt nằm trên bàn khoe CƠ</p>",
+      "content_text": "Nguyệt nằm trên bàn khoe CƠ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156264",
+      "lang": "vi",
+      "content_html": "<p>Nguyệt ngồi ghế khoe da</p>",
+      "content_text": "Nguyệt ngồi ghế khoe da",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

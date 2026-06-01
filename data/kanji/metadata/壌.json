@@ -1,0 +1,87 @@
+{
+  "kanji": "壌",
+  "meta": {
+    "weight": 606,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [
+      "つち"
+    ],
+    "am_han": "NHƯỠNG"
+  },
+  "meaning": {
+    "vi": "lô, đất",
+    "en": "lot, earth, soil"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/壌.svg"
+  },
+  "frequency": 1407,
+  "examples": [
+    "土壌",
+    "平壌"
+  ],
+  "explanation": {
+    "id": "3958",
+    "text": "壌 (đọc là \"jou\") có nghĩa là \"đất\", \"bùn\" để chỉ các loại đất đai, thường liên quan đến nông nghiệp hoặc môi trường.\n\nVí dụ:\n- 壌土 (jouto): Đất canh tác, đất trồng.\n- 壌場 (jouba): Nơi đất, khu"
+  },
+  "comments": [
+    {
+      "id": "152687",
+      "lang": "vi",
+      "content_html": "<p>cô Nương (嬢) đó bỏ nghề làm gái (女) về quê làm Thổ (土) Nhưỡng</p>",
+      "content_text": "cô Nương (嬢) đó bỏ nghề làm gái (女) về quê làm Thổ (土) Nhưỡng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152688",
+      "lang": "vi",
+      "content_html": "<p>Vùng đất này Tương lai có thổ Nhưỡng tốt.</p>",
+      "content_text": "Vùng đất này Tương lai có thổ Nhưỡng tốt.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152689",
+      "lang": "vi",
+      "content_html": "<p>6 Bức TƯỢNG mang Y phục Khác nhau được khai quật trên ĐẤT RUỘNG</p>",
+      "content_text": "6 Bức TƯỢNG mang Y phục Khác nhau được khai quật trên ĐẤT RUỘNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

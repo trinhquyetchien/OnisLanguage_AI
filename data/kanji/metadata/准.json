@@ -1,0 +1,85 @@
+{
+  "kanji": "准",
+  "meta": {
+    "weight": 294,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュン"
+    ],
+    "kun": [],
+    "am_han": "CHUẨN"
+  },
+  "meaning": {
+    "vi": "gần như, bán, liên kết",
+    "en": "quasi-, semi-, associate"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/准.svg"
+  },
+  "frequency": 1441,
+  "examples": [
+    "批准",
+    "准"
+  ],
+  "explanation": {
+    "id": "3638",
+    "text": "準 (đọc là \"jun\") có nghĩa là \"chuẩn bị\", \"tiêu chuẩn\" để chỉ các hành động liên quan đến sự chuẩn mực hoặc quy định.\n\nVí dụ:\n- 準備 (junbi): Chuẩn bị.\n- 標準 (hyōjun): Tiêu chuẩn, chuẩn mực.\n- 準"
+  },
+  "comments": [
+    {
+      "id": "151931",
+      "lang": "vi",
+      "content_html": "<p>Chim cứng như Băng mới là hàng CHUẨN</p>",
+      "content_text": "Chim cứng như Băng mới là hàng CHUẨN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151933",
+      "lang": "vi",
+      "content_html": "<p>Con chim của anh mười chuẩn bị ra nước rồi</p>",
+      "content_text": "Con chim của anh mười chuẩn bị ra nước rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151932",
+      "lang": "vi",
+      "content_html": "<p>Chọn chim phê chuẩn đc thì cho 2 gạch</p>",
+      "content_text": "Chọn chim phê chuẩn đc thì cho 2 gạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

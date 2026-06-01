@@ -1,0 +1,88 @@
+{
+  "kanji": "崖",
+  "meta": {
+    "weight": 805,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガイ",
+      "ゲ",
+      "ギ"
+    ],
+    "kun": [
+      "がけ",
+      "きし",
+      "はて"
+    ],
+    "am_han": "NHAI"
+  },
+  "meaning": {
+    "vi": "vách đá, vô tội vạ",
+    "en": "cliff, bluff, precipice"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/崖.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "837",
+    "text": "崖 (đọc là \"gai\") có nghĩa là \"vách đá\", chỉ những khu vực cao, dốc đứng bên bờ biển hoặc trong các hẻm núi.  \nVí dụ:  \n- 崖崩れ (gai kuzure): Sụt lở vách đá.  \n- 崖下 (gai shita): Dưới vách đá.  "
+  },
+  "comments": [
+    {
+      "id": "219380",
+      "lang": "vi",
+      "content_html": "<p>Hai lớp đất(土) chồng lên nhau ở sườn (厂) của núi (山) chính là vệ núi cao</p>",
+      "content_text": "Hai lớp đất(土) chồng lên nhau ở sườn (厂) của núi (山) chính là vệ núi cao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219381",
+      "lang": "vi",
+      "content_html": "<p>trên là núi dưới là đất là vách núi( nhai)</p>",
+      "content_text": "trên là núi dưới là đất là vách núi( nhai)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219382",
+      "lang": "vi",
+      "content_html": "<p>đứng ở sườn núi ,bên trên là núi cao, dưới là vực, thì chỉ có thể là \"Hắc Mộc Nhai\"-tiếu ngạo giang hồ.</p>",
+      "content_text": "đứng ở sườn núi ,bên trên là núi cao, dưới là vực, thì chỉ có thể là \"Hắc Mộc Nhai\"-tiếu ngạo giang hồ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "洗",
+  "meta": {
+    "weight": 1526,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "あら.う"
+    ],
+    "am_han": "TIỂN"
+  },
+  "meaning": {
+    "vi": "rửa",
+    "en": "wash, inquire into, probe"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/洗.svg"
+  },
+  "frequency": 1168,
+  "examples": [
+    "洗濯",
+    "洗練",
+    "洗礼",
+    "洗う",
+    "洗浄"
+  ],
+  "explanation": {
+    "id": "4512",
+    "text": "洗 (đọc là \"sen\") có nghĩa là \"rửa\" hoặc \"giặt\", chỉ các hoạt động liên quan đến việc làm sạch đồ vật hoặc cơ thể.  \nVí dụ:  \n- 洗濯 (sentaku): Giặt giũ.  \n- 洗う (arau): Rửa, gột rửa.  \n- 洗面所 (s"
+  },
+  "comments": [
+    {
+      "id": "191093",
+      "lang": "vi",
+      "content_html": "<p><strong>giặt</strong></p><p>洗濯 - giặt giũ</p>",
+      "content_text": "giặt\n洗濯 - giặt giũ",
+      "image_url": "https://jpdictionary.com/upload/images/648abf004d1d6.jpg",
+      "image_path": "assets/images/洗_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36835",
+      "lang": "vi",
+      "content_html": "<p>Thầy giáo (先生) đi <strong>rửa </strong>tay.</p>",
+      "content_text": "Thầy giáo (先生) đi\nrửa\ntay.",
+      "image_url": "https://jpdictionary.com/upload/images/62ac7c73407fd.jpg",
+      "image_path": "assets/images/洗_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154863",
+      "lang": "vi",
+      "content_html": "<p>Muốn TẨY vết bẩn TRƯỚC tiên phải nhúng vào NƯỚC</p>",
+      "content_text": "Muốn TẨY vết bẩn TRƯỚC tiên phải nhúng vào NƯỚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

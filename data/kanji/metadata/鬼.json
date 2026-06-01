@@ -1,0 +1,91 @@
+{
+  "kanji": "鬼",
+  "meta": {
+    "weight": 2967,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "おに",
+      "おに-"
+    ],
+    "am_han": "QUỶ"
+  },
+  "meaning": {
+    "vi": "ma quỷ",
+    "en": "ghost, devil"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/鬼.svg"
+  },
+  "frequency": 1557,
+  "examples": [
+    "鬼",
+    "吸血鬼",
+    "疑心暗鬼",
+    "鬼畜",
+    "鬼門"
+  ],
+  "explanation": {
+    "id": "1396",
+    "text": "鬼 (đọc là \"ki\" hoặc \"oni\") có nghĩa là \"quỷ\", chỉ các sinh vật siêu nhiên thường mang tính chất xấu xa hoặc đáng sợ trong văn hóa Nhật Bản. \n\nVí dụ:\n- 鬼 (oni): Quỷ, yêu quái.\n- 鬼ごっこ (onigokk"
+  },
+  "comments": [
+    {
+      "id": "158020",
+      "lang": "vi",
+      "content_html": "<p>Trên cánh đồng ,quỷ 2 chân mang theo 1 ma bé</p>",
+      "content_text": "Trên cánh đồng ,quỷ 2 chân mang theo 1 ma bé",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158021",
+      "lang": "vi",
+      "content_html": "<p>Thấy con mụ ( chữ ム)  ma đang bước đi trên đồng ruộng</p>",
+      "content_text": "Thấy con mụ ( chữ ム)  ma đang bước đi trên đồng ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158022",
+      "lang": "vi",
+      "content_html": "<p>QUY di  (NHAN DUNG) 1 (CHU) minh (TU) tren dong ruong (DIEN).</p>",
+      "content_text": "QUY di  (NHAN DUNG) 1 (CHU) minh (TU) tren dong ruong (DIEN).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

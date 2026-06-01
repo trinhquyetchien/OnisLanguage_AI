@@ -1,0 +1,48 @@
+{
+  "kanji": "鰯",
+  "meta": {
+    "weight": 2988,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "いわし"
+    ],
+    "am_han": "NHƯỢC"
+  },
+  "meaning": {
+    "vi": "cá mòi, (kokuji)",
+    "en": "sardine, (kokuji)"
+  },
+  "stroke": {
+    "count": 21,
+    "svg": "assets/svg/鰯.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "233",
+    "text": "鰯 (đọc là \"iwashi\") có nghĩa là \"cá mòi\", một loại cá thường được sử dụng trong ẩm thực Nhật Bản. \n\nVí dụ:\n- 鰯料理 (iwashi ryōri): Món ăn từ cá mòi.\n- 鰯の干物 (iwashi no himono): Cá mòi khô.\n- 鰯の"
+  },
+  "comments": [
+    {
+      "id": "221110",
+      "lang": "vi",
+      "content_html": "<p>con CÁ 魚 mà YẾU ỚT 弱  là con cá MÒI  いわし</p>",
+      "content_text": "con CÁ 魚 mà YẾU ỚT 弱  là con cá MÒI  いわし",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

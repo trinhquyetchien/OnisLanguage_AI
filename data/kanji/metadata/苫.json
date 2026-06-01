@@ -1,0 +1,52 @@
+{
+  "kanji": "苫",
+  "meta": {
+    "weight": 2270,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "とま"
+    ],
+    "am_han": "THIÊM"
+  },
+  "meaning": {
+    "vi": "thảm cói",
+    "en": "rush matting"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/苫.svg"
+  },
+  "frequency": 2028,
+  "examples": [
+    "苫"
+  ],
+  "explanation": {
+    "id": "5994",
+    "text": "苫 (đọc là \"tou\") có nghĩa là \"tấm phủ\", thường chỉ đến vật liệu dùng để che đậy hoặc bảo vệ, như tấm bạt. \n\nVí dụ:\n- 苫をかける (tou o kakeru): Che đậy bằng tấm phủ.\n- 苫屋 (touya): Nhà có mái che,"
+  },
+  "comments": [
+    {
+      "id": "156496",
+      "lang": "vi",
+      "content_html": "<p>ngày xưa chiếu dệt bằng cỏ chiếm thành phần lớn</p>",
+      "content_text": "ngày xưa chiếu dệt bằng cỏ chiếm thành phần lớn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

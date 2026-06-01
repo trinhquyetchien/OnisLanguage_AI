@@ -1,0 +1,93 @@
+{
+  "kanji": "嫁",
+  "meta": {
+    "weight": 685,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "よめ",
+      "とつ.ぐ",
+      "い.く",
+      "ゆ.く"
+    ],
+    "am_han": "GIÁ"
+  },
+  "meaning": {
+    "vi": "kết hôn, cô dâu",
+    "en": "marry into, bride"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/嫁.svg"
+  },
+  "frequency": 1581,
+  "examples": [
+    "嫁",
+    "花嫁",
+    "嫁さん",
+    "転嫁",
+    "嫁入り"
+  ],
+  "explanation": {
+    "id": "633",
+    "text": "嫁 (đọc là \"ka\") có nghĩa là \"cưới\" hoặc \"vợ\", chỉ việc kết hôn hoặc người phụ nữ đã lập gia đình.  \nVí dụ:  \n- 嫁 (yome): Vợ, con dâu.  \n- 嫁入り (yoiri): Lễ cưới, về nhà chồng.  \n- 嫁がせる (yomega"
+  },
+  "comments": [
+    {
+      "id": "152873",
+      "lang": "vi",
+      "content_html": "<p>Sau khi xuất giá (嫁) thì con gái (女) chỉ ở nhà (家) nội trợ.</p>",
+      "content_text": "Sau khi xuất giá (嫁) thì con gái (女) chỉ ở nhà (家) nội trợ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152874",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ xuất gia lấy chồng</p>",
+      "content_text": "Phụ nữ xuất gia lấy chồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152875",
+      "lang": "vi",
+      "content_html": "<p>Sau khi suất giá thì người phụ nữ nhật chỉ ở nhà thôi</p>",
+      "content_text": "Sau khi suất giá thì người phụ nữ nhật chỉ ở nhà thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

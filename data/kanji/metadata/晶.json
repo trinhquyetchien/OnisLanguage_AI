@@ -1,0 +1,87 @@
+{
+  "kanji": "晶",
+  "meta": {
+    "weight": 1242,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "TINH"
+  },
+  "meaning": {
+    "vi": "lấp lánh, rõ ràng, pha lê",
+    "en": "sparkle, clear, crystal"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/晶.svg"
+  },
+  "frequency": 1613,
+  "examples": [
+    "液晶",
+    "結晶",
+    "水晶",
+    "晶子"
+  ],
+  "explanation": {
+    "id": "3835",
+    "text": "晶 (đọc là \"shou\") có nghĩa là \"sáng\", \"phát sáng\" để chỉ sự trong suốt, rõ ràng hoặc ánh sáng lấp lánh.  \nVí dụ:  \n- 晶子 (shouko): Tên riêng, thường mang ý nghĩa \"người sáng suốt\".  \n- 晶体 (sh"
+  },
+  "comments": [
+    {
+      "id": "154255",
+      "lang": "vi",
+      "content_html": "<p>Sự kết tinh của 3 mặt trời</p>",
+      "content_text": "Sự kết tinh của 3 mặt trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154256",
+      "lang": "vi",
+      "content_html": "<p>3 mặt trời kết tinh lại thì ság trong như kính</p>",
+      "content_text": "3 mặt trời kết tinh lại thì ság trong như kính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154257",
+      "lang": "vi",
+      "content_html": "<p>3 mặt trời kết TINH thành thuỷ TINH trong suốt</p>",
+      "content_text": "3 mặt trời kết TINH thành thuỷ TINH trong suốt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

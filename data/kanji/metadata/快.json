@@ -1,0 +1,90 @@
+{
+  "kanji": "快",
+  "meta": {
+    "weight": 947,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "こころよ.い"
+    ],
+    "am_han": "KHOÁI"
+  },
+  "meaning": {
+    "vi": "sảng khoái, dễ chịu",
+    "en": "cheerful, pleasant, agreeable, comfortable"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/快.svg"
+  },
+  "frequency": 1074,
+  "examples": [
+    "快適",
+    "不快",
+    "快感",
+    "快楽",
+    "愉快"
+  ],
+  "explanation": {
+    "id": "761",
+    "text": "快 (đọc là \"kai\") có nghĩa là \"vui vẻ\", \"thoải mái\" để chỉ trạng thái tâm trạng tích cực hoặc cảm giác thoải mái.  \nVí dụ:  \n- 快適 (kaiteki): Thoải mái, dễ chịu.  \n- 快感 (kaikan): Cảm giác hưng"
+  },
+  "comments": [
+    {
+      "id": "153532",
+      "lang": "vi",
+      "content_html": "<p>Thế QUÁI nào KHOÁI ai đấy lại do con TIM</p>",
+      "content_text": "Thế QUÁI nào KHOÁI ai đấy lại do con TIM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153533",
+      "lang": "vi",
+      "content_html": "<p>Tâm(心) trạng sảng khoái(快) khi giết được yêu quái</p>",
+      "content_text": "Tâm(心) trạng sảng khoái(快) khi giết được yêu quái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153534",
+      "lang": "vi",
+      "content_html": "<p>Con tim dựng lên vì khoái chí nhảy ra khỏi người</p>",
+      "content_text": "Con tim dựng lên vì khoái chí nhảy ra khỏi người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

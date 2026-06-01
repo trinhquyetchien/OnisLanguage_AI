@@ -1,0 +1,68 @@
+{
+  "kanji": "辿",
+  "meta": {
+    "weight": 2634,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テン"
+    ],
+    "kun": [
+      "たど.る",
+      "たどり"
+    ],
+    "am_han": "SIÊM"
+  },
+  "meaning": {
+    "vi": "theo (đường), theo đuổi",
+    "en": "follow (road), pursue"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/辿.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5093",
+    "text": "辿 (đọc là \"tadoru\") có nghĩa là \"theo đuổi\", \"truy tìm\" để chỉ các hành động liên quan đến việc đi theo một con đường hoặc tìm kiếm một cái gì đó.\n\nVí dụ:\n- 辿り着く (tadoritsuku): Đến nơi, tìm "
+  },
+  "comments": [
+    {
+      "id": "220834",
+      "lang": "vi",
+      "content_html": "<p>Hán Tự chắc là Triền nên mới có âm On là テン、trong tiếng Việt cũng có từ Triền núi (men theo sườn núi)</p>",
+      "content_text": "Hán Tự chắc là Triền nên mới có âm On là テン、trong tiếng Việt cũng có từ Triền núi (men theo sườn núi)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220835",
+      "lang": "vi",
+      "content_html": "<p>Hán việt: Siêm ( dùng làm tên đất )</p>",
+      "content_text": "Hán việt: Siêm ( dùng làm tên đất )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "kanji": "槙",
+  "meta": {
+    "weight": 1412,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テン",
+      "シン"
+    ],
+    "kun": [
+      "まき",
+      "こずえ"
+    ],
+    "am_han": "ĐIÊN, CHẨN"
+  },
+  "meaning": {
+    "vi": "cành cây, cây cảnh thường xanh",
+    "en": "twig, ornamental evergreen"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/槙.svg"
+  },
+  "frequency": 1983,
+  "examples": [],
+  "explanation": {
+    "id": "7401",
+    "text": "槙 (đọc là \"maki\") có nghĩa là \"cây tùng\", thường chỉ các loại cây thuộc họ tùng, được sử dụng trong phong cảnh và kiến trúc truyền thống Nhật Bản. \n\nVí dụ:\n- 槙の木 (maki no ki): Cây tùng.\n- 槇材"
+  },
+  "comments": [
+    {
+      "id": "154599",
+      "lang": "vi",
+      "content_html": "<p>Cây có 10 mắt 8 chân làm ĐIÊN đảo</p>",
+      "content_text": "Cây có 10 mắt 8 chân làm ĐIÊN đảo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

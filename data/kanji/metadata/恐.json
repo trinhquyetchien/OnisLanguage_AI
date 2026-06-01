@@ -1,0 +1,111 @@
+{
+  "kanji": "恐",
+  "meta": {
+    "weight": 961,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "おそ.れる",
+      "おそ.る",
+      "おそ.ろしい",
+      "こわ.い",
+      "こわ.がる"
+    ],
+    "am_han": "KHỦNG"
+  },
+  "meaning": {
+    "vi": "sợ hãi, khủng hoảng",
+    "en": "fear, dread, awe"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/恐.svg"
+  },
+  "frequency": 878,
+  "examples": [
+    "恐れ",
+    "恐怖",
+    "恐らく",
+    "恐ろしい",
+    "恐縮"
+  ],
+  "explanation": {
+    "id": "1664",
+    "text": "恐 (đọc là \"kyō\") có nghĩa là \"sợ hãi\", \"đáng sợ\" để chỉ cảm giác lo lắng hoặc sự đáng sợ trong một tình huống nào đó.  \nVí dụ:  \n- 恐怖 (kyōfu): Nỗi sợ hãi, kinh hoàng.  \n- 恐れる (osoreru): Sợ h"
+  },
+  "comments": [
+    {
+      "id": "153566",
+      "lang": "vi",
+      "content_html": "<p>CÔNG TÂM RỒI mà vẫn sợ kinh KHỦNG</p>",
+      "content_text": "CÔNG TÂM RỒI mà vẫn sợ kinh KHỦNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190686",
+      "lang": "vi",
+      "content_html": "<p>Tiền Công làm bàn bằng cái Tâm thì rất Khủng</p>",
+      "content_text": "Tiền Công làm bàn bằng cái Tâm thì rất Khủng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "153567",
+      "lang": "vi",
+      "content_html": "<p>công tâm tròn trịay, khung hoảng sẽ qua</p>",
+      "content_text": "công tâm tròn trịay, khung hoảng sẽ qua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153568",
+      "lang": "vi",
+      "content_html": "<p>bộ ba Hoàn + Công + Tâm mà kết hợp lại thì quá KHỦNG ( hoảng )</p>",
+      "content_text": "bộ ba Hoàn + Công + Tâm mà kết hợp lại thì quá KHỦNG ( hoảng )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

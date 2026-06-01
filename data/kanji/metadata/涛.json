@@ -1,0 +1,32 @@
+{
+  "kanji": "涛",
+  "meta": {
+    "weight": 1550,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "なみ"
+    ],
+    "am_han": "ĐÀO"
+  },
+  "meaning": {
+    "vi": "sóng, cuồn cuộn",
+    "en": "waves, billows"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/涛.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5823",
+    "text": "涛 (đọc là \"tou\") có nghĩa là \"gợn sóng\", \"sóng lớn\" để chỉ các hiện tượng liên quan đến nước như sóng, thủy triều.  \nVí dụ:  \n- 波涛 (hatou): Sóng to, gợn sóng mạnh.  \n- 滔滔 (toutou): Chảy tràn"
+  },
+  "comments": []
+}

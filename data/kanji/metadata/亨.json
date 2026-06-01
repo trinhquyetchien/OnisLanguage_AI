@@ -1,0 +1,52 @@
+{
+  "kanji": "亨",
+  "meta": {
+    "weight": 126,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "キョウ",
+      "ホウ"
+    ],
+    "kun": [
+      "とお.る"
+    ],
+    "am_han": "HANH, HƯỞNG, PHANH"
+  },
+  "meaning": {
+    "vi": "đi qua, đi suôn sẻ",
+    "en": "pass through, go smoothly"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/亨.svg"
+  },
+  "frequency": 1952,
+  "examples": [],
+  "explanation": {
+    "id": "1606",
+    "text": "亨 (đọc là \"hō\") có nghĩa là \"thông suốt\", \"thuận lợi\", chỉ sự thành công hay thông qua một quá trình nào đó. \n\nVí dụ:\n- 亨通 (hōtō): Suôn sẻ, thuận lợi.\n- 亨利 (hōri): Sự thịnh vượng, phát đạt.\n"
+  },
+  "comments": [
+    {
+      "id": "151506",
+      "lang": "vi",
+      "content_html": "<p>Hưởng bỏ vạch đi là thành hanh thông</p>",
+      "content_text": "Hưởng bỏ vạch đi là thành hanh thông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

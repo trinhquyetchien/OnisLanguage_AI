@@ -1,0 +1,108 @@
+{
+  "kanji": "捜",
+  "meta": {
+    "weight": 1103,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "シュ",
+      "シュウ"
+    ],
+    "kun": [
+      "さが.す"
+    ],
+    "am_han": "SƯU"
+  },
+  "meaning": {
+    "vi": "tìm kiếm, sưu tầm",
+    "en": "search, look for, locate"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/捜.svg"
+  },
+  "frequency": 592,
+  "examples": [
+    "捜査",
+    "捜索",
+    "特捜",
+    "捜す"
+  ],
+  "explanation": {
+    "id": "4703",
+    "text": "捜 (đọc là \"sō\") có nghĩa là \"tìm kiếm\", \"lục soát\" để chỉ các hành động liên quan đến việc tìm kiếm, điều tra hoặc khám phá cái gì đó đã mất.\n\nVí dụ:\n- 捜査 (sōsa): Điều tra, truy tìm.\n- 捜し物 ("
+  },
+  "comments": [
+    {
+      "id": "153931",
+      "lang": "vi",
+      "content_html": "<p>Tay chân tự do đi lại tìm kiếm</p>",
+      "content_text": "Tay chân tự do đi lại tìm kiếm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153932",
+      "lang": "vi",
+      "content_html": "<p>tay Sưu tầm lại (Hựu) những thứ Thân thuộc với mình</p>",
+      "content_text": "tay Sưu tầm lại (Hựu) những thứ Thân thuộc với mình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190707",
+      "lang": "vi",
+      "content_html": "<p>1 tay đích thân vắt chân đi Sưu tầm</p>",
+      "content_text": "1 tay đích thân vắt chân đi Sưu tầm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "153933",
+      "lang": "vi",
+      "content_html": "<p>Muốn SƯU tầm gì đó thì phải dùng TAY gom lại, hơn nữa phải được TỰ DO chân đi khắp nơi điều tra (捜査) thì với có bộ sưu tập lớn.</p>",
+      "content_text": "Muốn SƯU tầm gì đó thì phải dùng TAY gom lại, hơn nữa phải được TỰ DO chân đi khắp nơi điều tra (捜査) thì với có bộ sưu tập lớn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

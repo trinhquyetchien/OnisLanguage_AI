@@ -1,0 +1,87 @@
+{
+  "kanji": "跨",
+  "meta": {
+    "weight": 2593,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ",
+      "カ"
+    ],
+    "kun": [
+      "また.がる",
+      "またが.る",
+      "また.ぐ"
+    ],
+    "am_han": "KHÓA"
+  },
+  "meaning": {
+    "vi": "ngồi hoặc đứng, vươn ra, đứng lên",
+    "en": "be, sit or stand astride, extend over, straddle"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/跨.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2306",
+    "text": "跨 (đọc là \"ka\") có nghĩa là \"băng qua\", \"vượt qua\", chỉ hành động vượt qua một rào cản hoặc không gian nào đó.  \nVí dụ:  \n- 跨る (kataru): Ngồi lên, cưỡi (xe, ngựa).  \n- 跨線橋 (kassenkyō): Cầu v"
+  },
+  "comments": [
+    {
+      "id": "220780",
+      "lang": "vi",
+      "content_html": "<p>Băng qua ĐẠI LỘ NĂM lần</p>",
+      "content_text": "Băng qua ĐẠI LỘ NĂM lần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220781",
+      "lang": "vi",
+      "content_html": "<p>KHOÁ chân 足　Khoa lại, không cho cưỡi ngựa 「mà ta đã ngã dụi」 (またがる)</p>",
+      "content_text": "KHOÁ chân 足　Khoa lại, không cho cưỡi ngựa 「mà ta đã ngã dụi」 (またがる)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220782",
+      "lang": "vi",
+      "content_html": "<p>chân nhảy qua những điều viển vông</p>",
+      "content_text": "chân nhảy qua những điều viển vông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

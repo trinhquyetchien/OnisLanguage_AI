@@ -1,0 +1,57 @@
+{
+  "kanji": "葦",
+  "meta": {
+    "weight": 2313,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "あし",
+      "よし",
+      "しお.れる",
+      "しな.びる",
+      "しぼ.む",
+      "な.える"
+    ],
+    "am_han": "VI"
+  },
+  "meaning": {
+    "vi": "cây sậy, bullrush",
+    "en": "reed, bullrush"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/葦.svg"
+  },
+  "frequency": 2343,
+  "examples": [
+    "葦"
+  ],
+  "explanation": {
+    "id": "45",
+    "text": "葦 (đọc là \"i\") có nghĩa là \"cây lau\", chỉ loại cây thân thảo thường mọc ở vùng đất ngập nước. \n\nVí dụ:\n- 葦原 (ihara): Đồng lau, cánh đồng có nhiều cây lau.\n- 葦舟 (ibune): Thuyền làm bằng cây l"
+  },
+  "comments": [
+    {
+      "id": "156569",
+      "lang": "vi",
+      "content_html": "<p>nhìn e Thảo Vi như cây sậy (Mặc Văn Khoa buồn không em :D )</p>",
+      "content_text": "nhìn e Thảo Vi như cây sậy (Mặc Văn Khoa buồn không em :D )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

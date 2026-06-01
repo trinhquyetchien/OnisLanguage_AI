@@ -1,0 +1,86 @@
+{
+  "kanji": "飴",
+  "meta": {
+    "weight": 2929,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ",
+      "シ"
+    ],
+    "kun": [
+      "あめ",
+      "やしな.う"
+    ],
+    "am_han": "DI, TỰ"
+  },
+  "meaning": {
+    "vi": "thạch gạo, kẹo",
+    "en": "rice jelly, candy"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/飴.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "69",
+    "text": "飴 (đọc là \"ame\") có nghĩa là \"kẹo\" hoặc \"đồ ngọt\". \nVí dụ:\n- 飴玉 (amedama): Viên kẹo.\n- 飴細工 (amedaiiku): Nghệ thuật tạo hình từ kẹo.\n- 糖飴 (touame): Kẹo đường."
+  },
+  "comments": [
+    {
+      "id": "221031",
+      "lang": "vi",
+      "content_html": "<p>Kẹo あめ phải được ăn ở trên đài cao 飴</p>",
+      "content_text": "Kẹo あめ phải được ăn ở trên đài cao 飴",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221032",
+      "lang": "vi",
+      "content_html": "<p>Ăn KẸO thì sao mà lại có Thai được</p>",
+      "content_text": "Ăn KẸO thì sao mà lại có Thai được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221033",
+      "lang": "vi",
+      "content_html": "<p>Ăn 1 con SÒ TRUNG quốc có thể mắc bệnh DI chuyền</p>",
+      "content_text": "Ăn 1 con SÒ TRUNG quốc có thể mắc bệnh DI chuyền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

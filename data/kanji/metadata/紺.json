@@ -1,0 +1,86 @@
+{
+  "kanji": "紺",
+  "meta": {
+    "weight": 2068,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン"
+    ],
+    "kun": [],
+    "am_han": "CÁM"
+  },
+  "meaning": {
+    "vi": "xanh đậm, xanh nước biển",
+    "en": "dark blue, navy"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/紺.svg"
+  },
+  "frequency": 1825,
+  "examples": [
+    "紺",
+    "紺色",
+    "濃紺"
+  ],
+  "explanation": {
+    "id": "2715",
+    "text": "紺 (đọc là \"kon\") có nghĩa là \"màu xanh đậm\" thường được dùng để chỉ màu sắc tương tự như hải quân hoặc xanh thẫm. \n\nVí dụ:\n- 紺色 (kon'iro): Màu xanh đậm, màu hải quân.\n- 紺のジャケット (kon no jaket"
+  },
+  "comments": [
+    {
+      "id": "156024",
+      "lang": "vi",
+      "content_html": "<p>Cho Chỉ vào cốc nước Cam sẽ biến thành màu Xanh biếc</p>",
+      "content_text": "Cho Chỉ vào cốc nước Cam sẽ biến thành màu Xanh biếc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156025",
+      "lang": "vi",
+      "content_html": "<p>rất dễ nhầm với chữ tổ</p>",
+      "content_text": "rất dễ nhầm với chữ tổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156026",
+      "lang": "vi",
+      "content_html": "<p>Chỉ có Ngọt ngào mới CÁM dỗ được anh</p>",
+      "content_text": "Chỉ có Ngọt ngào mới CÁM dỗ được anh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

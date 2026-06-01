@@ -1,0 +1,86 @@
+{
+  "kanji": "斥",
+  "meta": {
+    "weight": 1195,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ"
+    ],
+    "kun": [
+      "しりぞ.ける"
+    ],
+    "am_han": "XÍCH"
+  },
+  "meaning": {
+    "vi": "từ chối, rút lui, đẩy lùi",
+    "en": "reject, retreat, recede, withdraw, repel, repulse"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/斥.svg"
+  },
+  "frequency": 2231,
+  "examples": [
+    "排斥"
+  ],
+  "explanation": {
+    "id": "4394",
+    "text": "斥 (đọc là \"sekki\" hoặc \"chaku\") có nghĩa là \"khước từ\", \"từ chối\", chỉ hành động bác bỏ hoặc không chấp nhận điều gì đó.\n\nVí dụ:\n- 斥候 (sekikō): Đơn vị trinh sát, người đi do thám.\n- 斥責 (seki"
+  },
+  "comments": [
+    {
+      "id": "154143",
+      "lang": "vi",
+      "content_html": "<p>Bài trừ người cầm đao bằng cách gạch ngang</p>",
+      "content_text": "Bài trừ người cầm đao bằng cách gạch ngang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154144",
+      "lang": "vi",
+      "content_html": "<p>ai cầm búa(CÂN) XÍCH CHÂN(CHỦ) lại ĐUỔI ra ngoài</p>",
+      "content_text": "ai cầm búa(CÂN) XÍCH CHÂN(CHỦ) lại ĐUỔI ra ngoài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154145",
+      "lang": "vi",
+      "content_html": "<p>Cái rìu bị chặt mất chuôi nên bị XÍCH đuổi đi</p>",
+      "content_text": "Cái rìu bị chặt mất chuôi nên bị XÍCH đuổi đi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

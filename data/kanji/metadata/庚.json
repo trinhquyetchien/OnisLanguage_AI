@@ -1,0 +1,50 @@
+{
+  "kanji": "庚",
+  "meta": {
+    "weight": 866,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "かのえ"
+    ],
+    "am_han": "CANH"
+  },
+  "meaning": {
+    "vi": "Lịch thứ 7, thứ 7",
+    "en": "7th, 7th calendar sign"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/庚.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2438",
+    "text": "庚 (đọc là \"kō\" hoặc \"kan\") có nghĩa là \"sắt\", đồng thời cũng được sử dụng để chỉ một trong mười thiên can trong âm lịch, tương ứng với nguyên tố kim loại. \n\nVí dụ:\n- 庚申 (kōshin): Thiên can G"
+  },
+  "comments": [
+    {
+      "id": "219419",
+      "lang": "vi",
+      "content_html": "<p>người cầm đinh 3 canh ở hiên nhà</p>",
+      "content_text": "người cầm đinh 3 canh ở hiên nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

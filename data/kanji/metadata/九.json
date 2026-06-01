@@ -1,0 +1,75 @@
+{
+  "kanji": "九",
+  "meta": {
+    "weight": 102,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ",
+      "ク"
+    ],
+    "kun": [
+      "ここの",
+      "ここの.つ"
+    ],
+    "am_han": "CỬU"
+  },
+  "meaning": {
+    "vi": "chín",
+    "en": "nine"
+  },
+  "stroke": {
+    "count": 2,
+    "svg": "assets/svg/九.svg"
+  },
+  "frequency": 55,
+  "examples": [
+    "九",
+    "九州",
+    "九月",
+    "北九州",
+    "九つ"
+  ],
+  "explanation": {
+    "id": "1807",
+    "text": "九 (đọc là \"kyuu\" hoặc \"ku\") có nghĩa là \"chín\" để chỉ số lượng hoặc thứ tự trong các hệ thống đếm.\nVí dụ:\n- 九つ (kokonotsu): Chín cái, chín món.\n- 九月 (ku-gatsu): Tháng Chín.\n- 九人 (kyuu-nin): "
+  },
+  "comments": [
+    {
+      "id": "459",
+      "lang": "vi",
+      "content_html": "<p>Bạn có thể hít đất 10 lần không?<br>7, 8, <strong>9</strong>...Không được.</p>",
+      "content_text": "Bạn có thể hít đất 10 lần không?\n7, 8,\n9\n...Không được.",
+      "image_url": "https://jpdictionary.com/upload/images/629760359c8ca.jpg",
+      "image_path": "assets/images/九_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158344",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>九 (きゅう): chín</p>",
+      "content_text": "JLPT N5\n九 (きゅう): chín",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

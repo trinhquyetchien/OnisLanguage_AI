@@ -1,0 +1,91 @@
+{
+  "kanji": "厚",
+  "meta": {
+    "weight": 409,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "あつ.い",
+      "あか"
+    ],
+    "am_han": "HẬU"
+  },
+  "meaning": {
+    "vi": "dày, nồng hậu",
+    "en": "thick, heavy, rich, kind, cordial, brazen, shameless"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/厚.svg"
+  },
+  "frequency": 768,
+  "examples": [
+    "厚生",
+    "厚",
+    "厚生省",
+    "濃厚",
+    "厚い"
+  ],
+  "explanation": {
+    "id": "2393",
+    "text": "厚 (đọc là \"kou\" hoặc \"atsu\") có nghĩa là \"dày\" hoặc \"dày dạn\", thường chỉ các thuộc tính liên quan đến độ dày hoặc sự phong phú, đầy đặn.\n\nVí dụ:\n- 厚い (atsui): Dày, nặng.\n- 厚さ (atsusa): Độ d"
+  },
+  "comments": [
+    {
+      "id": "152219",
+      "lang": "vi",
+      "content_html": "<p>Cậu BÉ sinh ra ở SƯỜN ĐỒI có MẶT TRỜI soi rọi lớn lên chắc chắn nhân HẬU</p>",
+      "content_text": "Cậu BÉ sinh ra ở SƯỜN ĐỒI có MẶT TRỜI soi rọi lớn lên chắc chắn nhân HẬU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152220",
+      "lang": "vi",
+      "content_html": "<p>đứa Bé sinh dưới Sườn núi là HẬU duệ của Mặt trời ^^</p>",
+      "content_text": "đứa Bé sinh dưới Sườn núi là HẬU duệ của Mặt trời ^^",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152221",
+      "lang": "vi",
+      "content_html": "<p>hán+nhật+tử=&#62; mặt trời chiếu vào tận sâu vách núi nơi cậu bé nhân hậu đang đứng!</p>",
+      "content_text": "hán+nhật+tử=> mặt trời chiếu vào tận sâu vách núi nơi cậu bé nhân hậu đang đứng!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "kanji": "菅",
+  "meta": {
+    "weight": 2290,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン",
+      "ケン"
+    ],
+    "kun": [
+      "すげ"
+    ],
+    "am_han": "GIAN"
+  },
+  "meaning": {
+    "vi": "cói",
+    "en": "sedge"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/菅.svg"
+  },
+  "frequency": 1562,
+  "examples": [
+    "菅"
+  ],
+  "explanation": {
+    "id": "4266",
+    "text": "菅 (đọc là \"kan\") có nghĩa là \"nhà cỏ\" hoặc chỉ một loại cây cỏ dùng làm vật liệu xây dựng. \n\nVí dụ:\n- 菅原 (Suwabura): Tên riêng, thường liên quan đến địa danh.\n- 菅笠 (kagasa): Mũ làm từ cỏ tươ"
+  },
+  "comments": [
+    {
+      "id": "156532",
+      "lang": "vi",
+      "content_html": "<p>cô giáo Thảo Gian díu với quan</p>",
+      "content_text": "cô giáo Thảo Gian díu với quan",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156533",
+      "lang": "vi",
+      "content_html": "<p>Quan chức chơi cỏ nên bị tóm vào đồn công an</p>",
+      "content_text": "Quan chức chơi cỏ nên bị tóm vào đồn công an",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

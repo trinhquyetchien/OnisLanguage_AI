@@ -1,0 +1,93 @@
+{
+  "kanji": "慎",
+  "meta": {
+    "weight": 1005,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "つつし.む",
+      "つつ.ましい",
+      "つつし",
+      "つつし.み"
+    ],
+    "am_han": "THẬN"
+  },
+  "meaning": {
+    "vi": "khiêm tốn, cẩn thận, kín đáo, thận trọng",
+    "en": "humility, be careful, discreet, prudent"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/慎.svg"
+  },
+  "frequency": 999,
+  "examples": [
+    "慎重",
+    "不謹慎",
+    "慎む",
+    "慎み",
+    "謹慎"
+  ],
+  "explanation": {
+    "id": "4072",
+    "text": "慎 (đọc là \"shin\") có nghĩa là \"cẩn thận\", \"thận trọng\", chỉ sự chú ý và sự dè dặt trong hành động hoặc lời nói.  \nVí dụ:  \n- 慎重 (shinchou): Cẩn thận, thận trọng.  \n- 慎む (tsutsushimu): Cẩn tr"
+  },
+  "comments": [
+    {
+      "id": "153679",
+      "lang": "vi",
+      "content_html": "<p>Con tim chân thật thì rất cẩn thận</p>",
+      "content_text": "Con tim chân thật thì rất cẩn thận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153680",
+      "lang": "vi",
+      "content_html": "<p>người có trái tim chân thật cần thận trọng để không bị người khác lừa</p>",
+      "content_text": "người có trái tim chân thật cần thận trọng để không bị người khác lừa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153681",
+      "lang": "vi",
+      "content_html": "<p>tâm( 忄) đối phương chân thận (真) nhưng củng phải Thận trọng</p>",
+      "content_text": "tâm( 忄) đối phương chân thận (真) nhưng củng phải Thận trọng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "整",
+  "meta": {
+    "weight": 1181,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ"
+    ],
+    "kun": [
+      "ととの.える",
+      "ととの.う"
+    ],
+    "am_han": "CHỈNH"
+  },
+  "meaning": {
+    "vi": "tổ chức, sắp xếp, điều chỉnh, giai điệu, đồng hồ đo, phím (âm nhạc)",
+    "en": "organize, arranging, tune, tone, meter, key (music)"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/整.svg"
+  },
+  "frequency": 478,
+  "examples": [
+    "整備",
+    "調整",
+    "整理",
+    "整え",
+    "整合"
+  ],
+  "explanation": {
+    "id": "4308",
+    "text": "整 (đọc là \"sei\" hoặc \"tokoru\") có nghĩa là \"sắp xếp\", \"điều chỉnh\" để chỉ các hành động liên quan đến việc làm cho mọi thứ trở nên gọn gàng, trật tự hoặc phù hợp.\n\nVí dụ:\n- 整理 (seiri): Sắp x"
+  },
+  "comments": [
+    {
+      "id": "154110",
+      "lang": "vi",
+      "content_html": "<p>Vừa thúc vừa đánh khẽ chính xác để chỉnh</p>",
+      "content_text": "Vừa thúc vừa đánh khẽ chính xác để chỉnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154111",
+      "lang": "vi",
+      "content_html": "<p>SẮC (敕) lệnh vua ban thì CHÍNH (正) xác không cần CHỈNH (整)</p>",
+      "content_text": "SẮC (敕) lệnh vua ban thì CHÍNH (正) xác không cần CHỈNH (整)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154112",
+      "lang": "vi",
+      "content_html": "<p>Vua đã Chỉnh lại Sắc lệnh của mình cho Chính xác.</p>",
+      "content_text": "Vua đã Chỉnh lại Sắc lệnh của mình cho Chính xác.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222079",
+      "lang": "vi",
+      "content_html": "<p><strong>dùng hành động (攵)</strong> để <strong>chỉnh sửa (朿)</strong> những thứ <strong>lộn xộn</strong> và <strong>đưa về trạng thái đúng đắn (正)</strong></p>",
+      "content_text": "dùng hành động (攵)\nđể\nchỉnh sửa (朿)\nnhững thứ\nlộn xộn\nvà\nđưa về trạng thái đúng đắn (正)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "7613",
+        "name": "truongg",
+        "image_url": "https://jpdictionary.com/upload/images/683b215a55293.png"
+      }
+    }
+  ]
+}

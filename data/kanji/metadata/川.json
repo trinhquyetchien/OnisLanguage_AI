@@ -1,0 +1,90 @@
+{
+  "kanji": "川",
+  "meta": {
+    "weight": 813,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "かわ"
+    ],
+    "am_han": "XUYÊN"
+  },
+  "meaning": {
+    "vi": "con sông",
+    "en": "stream, river, river or three-stroke river radical (no. 47)"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/川.svg"
+  },
+  "frequency": 181,
+  "examples": [
+    "川",
+    "神奈川",
+    "川崎",
+    "石川",
+    "小川"
+  ],
+  "explanation": {
+    "id": "4490",
+    "text": "川 (đọc là \"kawa\") có nghĩa là \"sông\", chỉ dòng chảy của nước, thường dùng để chỉ các hình thể nước trong tự nhiên.\n\nVí dụ:\n- 川 (kawa): Sông.\n- 河川 (kasen): Hệ thống sông ngòi.\n- 小川 (ogawa): S"
+  },
+  "comments": [
+    {
+      "id": "741",
+      "lang": "vi",
+      "content_html": "<p>Dòng <strong>sông </strong>đang chảy.</p>",
+      "content_text": "Dòng\nsông\nđang chảy.",
+      "image_url": "https://jpdictionary.com/upload/images/629849f5dc153.jpg",
+      "image_path": "assets/images/川_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158428",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>川 (かわ): con sông</p>",
+      "content_text": "JLPT N5\n川 (かわ): con sông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "153191",
+      "lang": "vi",
+      "content_html": "<p>2 dòng nước lớn ノ｜, 1 dòng nước nhỏ ｜ tạo thành dòng Sông 川</p>",
+      "content_text": "2 dòng nước lớn ノ｜, 1 dòng nước nhỏ ｜ tạo thành dòng Sông 川",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

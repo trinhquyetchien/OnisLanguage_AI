@@ -1,0 +1,88 @@
+{
+  "kanji": "妨",
+  "meta": {
+    "weight": 653,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [
+      "さまた.げる"
+    ],
+    "am_han": "PHƯƠNG, PHƯỚNG"
+  },
+  "meaning": {
+    "vi": "làm phiền, ngăn cản, cản trở",
+    "en": "disturb, prevent, hamper, obstruct"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/妨.svg"
+  },
+  "frequency": 1482,
+  "examples": [
+    "妨害",
+    "妨げ",
+    "妨げる"
+  ],
+  "explanation": {
+    "id": "7256",
+    "text": "妨 (đọc là \"bō\" hoặc \"sō\") có nghĩa là \"cản trở\", \"gây trở ngại\". Chữ này thường được dùng để chỉ hành động làm gián đoạn hoặc gây khó khăn cho một quá trình nào đó.\n\nVí dụ:\n- 妨害 (bōgai): Cản"
+  },
+  "comments": [
+    {
+      "id": "152806",
+      "lang": "vi",
+      "content_html": "<p>Phụ Nữ đơn PHƯƠNG CẢN TRỞ các mối quan hệ của chồng</p>",
+      "content_text": "Phụ Nữ đơn PHƯƠNG CẢN TRỞ các mối quan hệ của chồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152807",
+      "lang": "vi",
+      "content_html": "<p>妨(CẢN TRỞ)=　女(PHỤ NỮ)　+　方(PHƯƠNG HƯỚNG, Ý KIẾN, CÁCH LÀM)<br><br>TÀO THÁO: Phàm những chuyện đại sự trong thiên hạ( 方：Phướng hướng) nên về nhà hỏi vợ (vợ là con gái 女), vợ bảo sao cứ làm ngược lại ắt thành công (CẢN TRỞ).</p>",
+      "content_text": "妨(CẢN TRỞ)=　女(PHỤ NỮ)　+　方(PHƯƠNG HƯỚNG, Ý KIẾN, CÁCH LÀM)\nTÀO THÁO: Phàm những chuyện đại sự trong thiên hạ( 方：Phướng hướng) nên về nhà hỏi vợ (vợ là con gái 女), vợ bảo sao cứ làm ngược lại ắt thành công (CẢN TRỞ).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152808",
+      "lang": "vi",
+      "content_html": "<p>Chị em phụ NỮ thường lạc PHƯƠNG hướng nên đi lại khá trở NGẠI và khó khăn.</p>",
+      "content_text": "Chị em phụ NỮ thường lạc PHƯƠNG hướng nên đi lại khá trở NGẠI và khó khăn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "kanji": "饗",
+  "meta": {
+    "weight": 2939,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "う.ける",
+      "もてな.す"
+    ],
+    "am_han": "HƯỞNG"
+  },
+  "meaning": {
+    "vi": "yến tiệc",
+    "en": "banquet"
+  },
+  "stroke": {
+    "count": 22,
+    "svg": "assets/svg/饗.svg"
+  },
+  "frequency": 2347,
+  "examples": [
+    "饗宴",
+    "饗"
+  ],
+  "explanation": {
+    "id": "1706",
+    "text": "饗 (đọc là \"kyou\") có nghĩa là \"đãi\" hoặc \"mời ăn\", thường liên quan đến việc tiếp đãi thức ăn hoặc tiệc tùng.  \nVí dụ:  \n- 饗宴 (kyouen): Tiệc tùng, bữa tiệc.  \n- 饗応 (kyouou): Sự tiếp đãi, chă"
+  },
+  "comments": [
+    {
+      "id": "157964",
+      "lang": "vi",
+      "content_html": "<p>quê hương là nơi để hưởng thụ thức ăn</p>",
+      "content_text": "quê hương là nơi để hưởng thụ thức ăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

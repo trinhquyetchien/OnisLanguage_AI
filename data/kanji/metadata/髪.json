@@ -1,0 +1,107 @@
+{
+  "kanji": "髪",
+  "meta": {
+    "weight": 2965,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハツ"
+    ],
+    "kun": [
+      "かみ"
+    ],
+    "am_han": "PHÁT"
+  },
+  "meaning": {
+    "vi": "tóc",
+    "en": "hair of the head"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/髪.svg"
+  },
+  "frequency": 1474,
+  "examples": [
+    "髪",
+    "髪の毛",
+    "髪型",
+    "金髪",
+    "白髪"
+  ],
+  "explanation": {
+    "id": "6407",
+    "text": "髪 (đọc là \"kami\") có nghĩa là \"tóc\", để chỉ phần tóc trên đầu người hoặc động vật.  \nVí dụ:  \n- 髪型 (kamigata): Kiểu tóc.  \n- 髪色 (kamiiro): Màu tóc.  \n- 髪を切る (kami wo kiru): Cắt tóc."
+  },
+  "comments": [
+    {
+      "id": "37364",
+      "lang": "vi",
+      "content_html": "<p>Bạn tôi (友) có mái <strong>tóc </strong>dài (長).</p>",
+      "content_text": "Bạn tôi (友) có mái\ntóc\ndài (長).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfeb0ab6241.jpg",
+      "image_path": "assets/images/髪_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158017",
+      "lang": "vi",
+      "content_html": "<p>PHÁT hiện thằng Bạn có 4 đứa Em Tóc dài</p>",
+      "content_text": "PHÁT hiện thằng Bạn có 4 đứa Em Tóc dài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158018",
+      "lang": "vi",
+      "content_html": "<p>tôi có 3 đứa bạn tóc dài</p>",
+      "content_text": "tôi có 3 đứa bạn tóc dài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158019",
+      "lang": "vi",
+      "content_html": "<p>金髪　きんぱつ   Tóc vàng</p>",
+      "content_text": "金髪　きんぱつ   Tóc vàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

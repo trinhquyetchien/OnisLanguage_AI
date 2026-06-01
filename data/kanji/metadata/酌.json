@@ -1,0 +1,88 @@
+{
+  "kanji": "酌",
+  "meta": {
+    "weight": 2712,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャク"
+    ],
+    "kun": [
+      "く.む"
+    ],
+    "am_han": "CHƯỚC"
+  },
+  "meaning": {
+    "vi": "người phục vụ quán bar, phục vụ rượu sake, người dẫn chương trình, rút (nước), gáo, xúc, bơm",
+    "en": "bar-tending, serving sake, the host, draw (water), ladle, scoop, pump"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/酌.svg"
+  },
+  "frequency": 2271,
+  "examples": [
+    "晩酌",
+    "酌量",
+    "斟酌"
+  ],
+  "explanation": {
+    "id": "3382",
+    "text": "酌 (đọc là \"daku\" hoặc \"waku\") có nghĩa là \"rót\" hoặc \"uống\", thường chỉ việc rót đồ uống, đặc biệt là rượu. \n\nVí dụ:\n- 酌み交わす (umikawasu): Uống cùng nhau, cụng ly.\n- 酌量 (jakuryou): Sự cân nhắ"
+  },
+  "comments": [
+    {
+      "id": "157467",
+      "lang": "vi",
+      "content_html": "<p>CHÂM CHƯỚC cho việc đi uống rượu mà cầm theo bao</p>",
+      "content_text": "CHÂM CHƯỚC cho việc đi uống rượu mà cầm theo bao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157468",
+      "lang": "vi",
+      "content_html": "<p>Châm chước cho việc múc rượu bằng muỗng đấy</p>",
+      "content_text": "Châm chước cho việc múc rượu bằng muỗng đấy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157469",
+      "lang": "vi",
+      "content_html": "<p>Đi uống RƯỢU mà đem BAO đi thì phải được CHỦ nhà CHÂM CHƯỚC.</p>",
+      "content_text": "Đi uống RƯỢU mà đem BAO đi thì phải được CHỦ nhà CHÂM CHƯỚC.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

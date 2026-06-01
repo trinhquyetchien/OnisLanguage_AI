@@ -1,0 +1,51 @@
+{
+  "kanji": "奄",
+  "meta": {
+    "weight": 630,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "おお.う",
+      "たちまち"
+    ],
+    "am_han": "YỂM, YÊM"
+  },
+  "meaning": {
+    "vi": "che đậy, làm nghẹt thở, cản trở",
+    "en": "cover, suffocate, obstruct"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/奄.svg"
+  },
+  "frequency": 2047,
+  "examples": [],
+  "explanation": {
+    "id": "442",
+    "text": "奄 (đọc là \"en\") có nghĩa là \"che phủ\", \"bao trùm\" để chỉ việc bao bọc hoặc che đậy một cái gì đó.\n\nVí dụ:\n- 奄奄 (en'en): Sắp chết, trong tình trạng nguy cấp.\n- 奄然 (enran): Đột ngột, bất ngờ b"
+  },
+  "comments": [
+    {
+      "id": "152747",
+      "lang": "vi",
+      "content_html": "<p>cái Yếm Lớn bọc cái Thân</p>",
+      "content_text": "cái Yếm Lớn bọc cái Thân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "衰",
+  "meta": {
+    "weight": 2410,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "おとろ.える"
+    ],
+    "am_han": "SUY, SÚY, THÔI"
+  },
+  "meaning": {
+    "vi": "suy giảm, suy yếu",
+    "en": "decline, wane, weaken"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/衰.svg"
+  },
+  "frequency": 1432,
+  "examples": [
+    "衰退",
+    "衰え",
+    "衰弱",
+    "減衰",
+    "衰える"
+  ],
+  "explanation": {
+    "id": "4230",
+    "text": "衰 (đọc là \"sui\") có nghĩa là \"suy yếu\", \"tiêu điều\" để chỉ trạng thái suy giảm sức mạnh, sức khỏe hoặc sự sống còn.  \nVí dụ:  \n- 衰退 (suitai): Sự suy thoái, giảm sút.  \n- 衰える (otoeru): Suy yế"
+  },
+  "comments": [
+    {
+      "id": "156721",
+      "lang": "vi",
+      "content_html": "<p>mắc covid nên Suy yếu phải đội mũ đeo khẩu trang và mặc quần áo kín mít</p>",
+      "content_text": "mắc covid nên Suy yếu phải đội mũ đeo khẩu trang và mặc quần áo kín mít",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156722",
+      "lang": "vi",
+      "content_html": "<p>Trông đã bi Ai còn ăn 1 gậy vào mồm thì suy nhược luôn chứ còn gì</p>",
+      "content_text": "Trông đã bi Ai còn ăn 1 gậy vào mồm thì suy nhược luôn chứ còn gì",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156723",
+      "lang": "vi",
+      "content_html": "<p>vì cơ thể bị SUY NHƯỢC ĐẦU đội nón MIỆNG đeo khẩu trang là đc không cần mặc Y phục...</p>",
+      "content_text": "vì cơ thể bị SUY NHƯỢC ĐẦU đội nón MIỆNG đeo khẩu trang là đc không cần mặc Y phục...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

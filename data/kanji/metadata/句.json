@@ -1,0 +1,88 @@
+{
+  "kanji": "句",
+  "meta": {
+    "weight": 433,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ク"
+    ],
+    "kun": [],
+    "am_han": "CÚ, CÂU, CẤU"
+  },
+  "meaning": {
+    "vi": "cụm từ, mệnh đề, câu, đoạn văn, đoạn đối chiếu cho haiku",
+    "en": "phrase, clause, sentence, passage, paragraph, counter for haiku"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/句.svg"
+  },
+  "frequency": 1244,
+  "examples": [
+    "文句",
+    "句",
+    "俳句",
+    "挙句",
+    "語句"
+  ],
+  "explanation": {
+    "id": "1811",
+    "text": "句 (đọc là \"ku\") có nghĩa là \"câu\", \"đoạn văn\" để chỉ các phần trong văn bản hoặc thơ ca.\nVí dụ:\n- 句読点 (kutōten): Dấu câu, dấu chấm phẩy.\n- 和歌 (waka): Thơ Nhật, thường gồm hai dòng 5 âm và ba"
+  },
+  "comments": [
+    {
+      "id": "152268",
+      "lang": "vi",
+      "content_html": "<p>MIỆNG nói ra BAO lời cay CÚ</p>",
+      "content_text": "MIỆNG nói ra BAO lời cay CÚ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152270",
+      "lang": "vi",
+      "content_html": "<p>Bao cái miệng nên bị cay cú</p>",
+      "content_text": "Bao cái miệng nên bị cay cú",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152269",
+      "lang": "vi",
+      "content_html": "<p>MIỆNG nói BAO CÂU cay CÚ</p>",
+      "content_text": "MIỆNG nói BAO CÂU cay CÚ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

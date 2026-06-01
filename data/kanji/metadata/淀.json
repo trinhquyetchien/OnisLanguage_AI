@@ -1,0 +1,33 @@
+{
+  "kanji": "淀",
+  "meta": {
+    "weight": 1555,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テン",
+      "デン"
+    ],
+    "kun": [
+      "よど.む"
+    ],
+    "am_han": "ĐIẾN"
+  },
+  "meaning": {
+    "vi": "hồ bơi, xoáy",
+    "en": "pool, eddy"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/淀.svg"
+  },
+  "frequency": 1987,
+  "examples": [],
+  "explanation": {
+    "id": "7936",
+    "text": "淀 (đọc là \"yo\") có nghĩa là \"vũng nước\", \"đầm lầy\" để chỉ các vùng nước tĩnh lặng, thường là khu vực có nước đọng. \n\nVí dụ:\n- 淀み (yodomi): Nước đọng, vũng nước.\n- 淀川 (Yodogawa): Sông Yodo, m"
+  },
+  "comments": []
+}

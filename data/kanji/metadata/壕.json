@@ -1,0 +1,55 @@
+{
+  "kanji": "壕",
+  "meta": {
+    "weight": 607,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ゴウ"
+    ],
+    "kun": [
+      "ほり"
+    ],
+    "am_han": "HÀO"
+  },
+  "meaning": {
+    "vi": "hầm, đào, hầm trú ẩn của cuộc không kích",
+    "en": "trench, dugout, air raid shelter"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/壕.svg"
+  },
+  "frequency": 2273,
+  "examples": [
+    "壕",
+    "防空壕",
+    "塹壕"
+  ],
+  "explanation": {
+    "id": "2610",
+    "text": "壕 (đọc là \"gō\") có nghĩa là \"hào\" hoặc \"hầm\", thường chỉ các công trình quân sự như hào sâu hay hầm trú ẩn. \n\nVí dụ:\n- 壕溝 (gōkō): Hào sâu, rãnh.\n- 防空壕 (bōkūgō): Hầm trú ẩn chống không kích.\n"
+  },
+  "comments": [
+    {
+      "id": "152690",
+      "lang": "vi",
+      "content_html": "<p>người đội mũ nói lời hào nhoáng ở trong nhà</p>",
+      "content_text": "người đội mũ nói lời hào nhoáng ở trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

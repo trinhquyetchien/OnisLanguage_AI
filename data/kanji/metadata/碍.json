@@ -1,0 +1,51 @@
+{
+  "kanji": "碍",
+  "meta": {
+    "weight": 1882,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガイ",
+      "ゲ"
+    ],
+    "kun": [
+      "さまた.げる"
+    ],
+    "am_han": "NGẠI"
+  },
+  "meaning": {
+    "vi": "trở ngại",
+    "en": "obstacle"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/碍.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "849",
+    "text": "碍 (đọc là \"gai\") có nghĩa là \"cản trở\", \"ngăn chặn\" để chỉ các tình huống hoặc hành động gây trở ngại cho sự tiến triển hoặc hoạt động của cái gì đó.  \nVí dụ:  \n- 障碍 (shougai): Trở ngại, cản"
+  },
+  "comments": [
+    {
+      "id": "220217",
+      "lang": "vi",
+      "content_html": "<p>Phần tử cách điện, chất cách điện( sứ,...)</p>",
+      "content_text": "Phần tử cách điện, chất cách điện( sứ,...)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

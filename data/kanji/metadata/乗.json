@@ -1,0 +1,110 @@
+{
+  "kanji": "乗",
+  "meta": {
+    "weight": 100,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ",
+      "ショウ"
+    ],
+    "kun": [
+      "の.る",
+      "-の.り",
+      "の.せる"
+    ],
+    "am_han": "THỪA"
+  },
+  "meaning": {
+    "vi": "lên, cưỡi",
+    "en": "ride, power, multiplication, record, counter for vehicles, board, mount, join"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/乗.svg"
+  },
+  "frequency": 377,
+  "examples": [
+    "乗り",
+    "乗る",
+    "乗客",
+    "乗り換え",
+    "乗車"
+  ],
+  "explanation": {
+    "id": "3946",
+    "text": "乗 (đọc là \"jō\" hoặc \"noru\") có nghĩa là \"lên\", \"cưỡi\", \"vận chuyển\" để chỉ hành động leo lên, sử dụng phương tiện hoặc mang theo cái gì đó.\nVí dụ:\n- 乗車 (jōsha): Lên xe.\n- 乗る (noru): Cưỡi, lê"
+  },
+  "comments": [
+    {
+      "id": "906",
+      "lang": "vi",
+      "content_html": "<p>Một người <strong>leo lên </strong>và đang đứng trên cây (木).</p>",
+      "content_text": "Một người\nleo lên\nvà đang đứng trên cây (木).",
+      "image_url": "https://jpdictionary.com/upload/images/6298b2b43f6ba.jpg",
+      "image_path": "assets/images/乗_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151452",
+      "lang": "vi",
+      "content_html": "<p>Cưỡi lên 1000 cái CÂY thật là THỪA hơi</p>",
+      "content_text": "Cưỡi lên 1000 cái CÂY thật là THỪA hơi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151453",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: lúc thu hoạch, Lúa (禾) được người dân bó lại (*tượng hình như 1 bó lúa) <br>==&#62; rồi chất Lên (乗) xe. <br>..性..</p>",
+      "content_text": "Góc Nhìn: lúc thu hoạch, Lúa (禾) được người dân bó lại (*tượng hình như 1 bó lúa)\n==> rồi chất Lên (乗) xe.\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151454",
+      "lang": "vi",
+      "content_html": "<p>leo lên từ phía đông東 , thấy mất ngọn, cành thừa dài ra</p>",
+      "content_text": "leo lên từ phía đông東 , thấy mất ngọn, cành thừa dài ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

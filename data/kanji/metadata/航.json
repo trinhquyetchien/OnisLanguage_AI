@@ -1,0 +1,88 @@
+{
+  "kanji": "航",
+  "meta": {
+    "weight": 2237,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [],
+    "am_han": "HÀNG"
+  },
+  "meaning": {
+    "vi": "điều hướng, hàng hải",
+    "en": "navigate, sail, cruise, fly"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/航.svg"
+  },
+  "frequency": 665,
+  "examples": [
+    "航空",
+    "航空機",
+    "航海",
+    "渡航",
+    "運航"
+  ],
+  "explanation": {
+    "id": "2543",
+    "text": "航 (đọc là \"kō\") có nghĩa là \"hàng hải\", \"hàng không\", chỉ các hành động liên quan đến việc di chuyển qua lại trên biển hoặc trên không.\n\nVí dụ:\n- 航空 (kōkū): Hàng không, ngành hàng không.\n- 航"
+  },
+  "comments": [
+    {
+      "id": "156429",
+      "lang": "vi",
+      "content_html": "<p>Người đội mũ đi thuyền hàng</p>",
+      "content_text": "Người đội mũ đi thuyền hàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156430",
+      "lang": "vi",
+      "content_html": "<p>cái ghế (KỶ) để ở đầu (BỘ ĐẦU) thuyền (CHU) là biểu tượng của ngành HÀNG hải</p>",
+      "content_text": "cái ghế (KỶ) để ở đầu (BỘ ĐẦU) thuyền (CHU) là biểu tượng của ngành HÀNG hải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156431",
+      "lang": "vi",
+      "content_html": "<p>Lên thuyền ngồi hàng ghế đầu</p>",
+      "content_text": "Lên thuyền ngồi hàng ghế đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

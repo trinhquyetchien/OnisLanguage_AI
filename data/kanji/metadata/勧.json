@@ -1,0 +1,91 @@
+{
+  "kanji": "勧",
+  "meta": {
+    "weight": 365,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン",
+      "ケン"
+    ],
+    "kun": [
+      "すす.める"
+    ],
+    "am_han": "KHUYẾN"
+  },
+  "meaning": {
+    "vi": "thuyết phục, giới thiệu, khuyên nhủ, khuyến khích, đề nghị",
+    "en": "persuade, recommend, advise, encourage, offer"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/勧.svg"
+  },
+  "frequency": 1068,
+  "examples": [
+    "勧め",
+    "勧告",
+    "勧誘",
+    "勧める",
+    "勧奨"
+  ],
+  "explanation": {
+    "id": "1072",
+    "text": "勧 (đọc là \"kan\") có nghĩa là \"khuyến khích\" hoặc \"tán thành\", thường được sử dụng để chỉ hành động khuyên nhủ hoặc thúc giục ai đó làm gì.\n\nVí dụ:\n- 勧誘 (kanyū): Khuyến khích, mời gọi.\n- 勧める "
+  },
+  "comments": [
+    {
+      "id": "152121",
+      "lang": "vi",
+      "content_html": "<p>Khuyến khích người nằm ngang dùng lực chơi chim</p>",
+      "content_text": "Khuyến khích người nằm ngang dùng lực chơi chim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152122",
+      "lang": "vi",
+      "content_html": "<p>KHUYẾN khích con trai tập gym cho CHIM nhiều SỨC...</p>",
+      "content_text": "KHUYẾN khích con trai tập gym cho CHIM nhiều SỨC...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152123",
+      "lang": "vi",
+      "content_html": "<p>Khuyên rằng: để bắn tên 矢 vào trúng chim trời 隹 cần nhiều sức lực 力</p>",
+      "content_text": "Khuyên rằng: để bắn tên 矢 vào trúng chim trời 隹 cần nhiều sức lực 力",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

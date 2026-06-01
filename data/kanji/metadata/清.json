@@ -1,0 +1,94 @@
+{
+  "kanji": "清",
+  "meta": {
+    "weight": 1566,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ショウ",
+      "シン"
+    ],
+    "kun": [
+      "きよ.い",
+      "きよ.まる",
+      "きよ.める"
+    ],
+    "am_han": "THANH"
+  },
+  "meaning": {
+    "vi": "tinh khiết, thanh lọc",
+    "en": "pure, purify, cleanse, exorcise, Manchu dynasty"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/清.svg"
+  },
+  "frequency": 705,
+  "examples": [
+    "清",
+    "清水",
+    "清掃",
+    "清潔",
+    "清算"
+  ],
+  "explanation": {
+    "id": "4322",
+    "text": "清 (đọc là \"sei\" hoặc \"shō\") có nghĩa là \"trong sạch\", \"rõ ràng\" để chỉ sự thanh khiết, sạch sẽ hoặc sự rõ ràng.  \nVí dụ:  \n- 清水 (shiomizu): Nước trong sạch.  \n- 清掃 (seisō): Vệ sinh, dọn dẹp."
+  },
+  "comments": [
+    {
+      "id": "154953",
+      "lang": "vi",
+      "content_html": "<p>Nước xanh biêc thể hiện sự thanh khiết sạch sẽ</p>",
+      "content_text": "Nước xanh biêc thể hiện sự thanh khiết sạch sẽ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154954",
+      "lang": "vi",
+      "content_html": "<p>NƯỚC XANH thì THANH khiết</p>",
+      "content_text": "NƯỚC XANH thì THANH khiết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154955",
+      "lang": "vi",
+      "content_html": "<p>Thanh xuân của tôi toàn là nước mắt</p>",
+      "content_text": "Thanh xuân của tôi toàn là nước mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

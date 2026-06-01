@@ -1,0 +1,69 @@
+{
+  "kanji": "狐",
+  "meta": {
+    "weight": 1708,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "きつね"
+    ],
+    "am_han": "HỒ"
+  },
+  "meaning": {
+    "vi": "cáo",
+    "en": "fox"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/狐.svg"
+  },
+  "frequency": 2185,
+  "examples": [
+    "狐"
+  ],
+  "explanation": {
+    "id": "2287",
+    "text": "狐 (đọc là \"kitsune\") có nghĩa là \"cáo\", chỉ loài động vật cáo, thường liên quan đến các yếu tố thần thoại và văn hóa trong Nhật Bản.\n\nVí dụ:\n- 狐 (kitsune): Cáo.\n- 狐火 (kitsunebi): Lửa cáo, hi"
+  },
+  "comments": [
+    {
+      "id": "155267",
+      "lang": "vi",
+      "content_html": "<p>con VẬT có tính đa NGHI là con cáo (HỒ LY)</p>",
+      "content_text": "con VẬT có tính đa NGHI là con cáo (HỒ LY)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155268",
+      "lang": "vi",
+      "content_html": "<p>chó ăn dưa sẽ biến thành cáo ( hồ li)</p>",
+      "content_text": "chó ăn dưa sẽ biến thành cáo ( hồ li)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

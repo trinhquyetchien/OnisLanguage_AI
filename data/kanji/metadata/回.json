@@ -1,0 +1,116 @@
+{
+  "kanji": "回",
+  "meta": {
+    "weight": 532,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ",
+      "エ"
+    ],
+    "kun": [
+      "まわ.る",
+      "-まわ.る",
+      "-まわ.り",
+      "まわ.す",
+      "-まわ.す",
+      "まわ.し-",
+      "-まわ.し",
+      "もとお.る",
+      "か.える"
+    ],
+    "am_han": "HỒI"
+  },
+  "meaning": {
+    "vi": "số lần, lặp lại",
+    "en": "-times, round, game, revolve, counter for occurrences"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/回.svg"
+  },
+  "frequency": 50,
+  "examples": [
+    "回",
+    "今回",
+    "回答",
+    "前回",
+    "回復"
+  ],
+  "explanation": {
+    "id": "751",
+    "text": "回 (đọc là \"kai\" hoặc \"mawaru\") có nghĩa là \"quay lại\", \"vòng\", \"lần\" để chỉ sự lặp lại hoặc chuyển động vòng quanh.\n\nVí dụ:\n- 回る (mawaru): Quay, xoay.\n- 一回 (ikkai): Một lần.\n- 回数 (kaisuu): S"
+  },
+  "comments": [
+    {
+      "id": "36916",
+      "lang": "vi",
+      "content_html": "<p>Xoay <strong>vòng </strong>quanh.</p>",
+      "content_text": "Xoay\nvòng\nquanh.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4132baea2.jpg",
+      "image_path": "assets/images/回_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152515",
+      "lang": "vi",
+      "content_html": "<p>Khẩu (口) với Vi (囗) nhìn một Hồi (回) mà vẫn chưa phân biệt được.<br>..性..</p>",
+      "content_text": "Khẩu (口) với Vi (囗) nhìn một Hồi (回) mà vẫn chưa phân biệt được.\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152516",
+      "lang": "vi",
+      "content_html": "<p>đi 1 hồi hết cả ô trong rồi đi trở về về ô ngoài</p>",
+      "content_text": "đi 1 hồi hết cả ô trong rồi đi trở về về ô ngoài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152517",
+      "lang": "vi",
+      "content_html": "<p>2 vòng tròn luân Hồi</p>",
+      "content_text": "2 vòng tròn luân Hồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

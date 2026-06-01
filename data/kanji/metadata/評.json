@@ -1,0 +1,88 @@
+{
+  "kanji": "評",
+  "meta": {
+    "weight": 2473,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒョウ"
+    ],
+    "kun": [],
+    "am_han": "BÌNH"
+  },
+  "meaning": {
+    "vi": "đánh giá, phê bình, bình luận",
+    "en": "evaluate, criticism, comment"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/評.svg"
+  },
+  "frequency": 454,
+  "examples": [
+    "評価",
+    "評判",
+    "評論",
+    "批評",
+    "好評"
+  ],
+  "explanation": {
+    "id": "6716",
+    "text": "評 (đọc là \"hyou\") có nghĩa là \"đánh giá\", \"phê bình\" để chỉ các hành động liên quan đến việc đánh giá, nhận xét hoặc phê bình một điều gì đó.\n\nVí dụ:\n- 評価 (hyouka): Đánh giá, giá trị.\n- 評判 ("
+  },
+  "comments": [
+    {
+      "id": "156877",
+      "lang": "vi",
+      "content_html": "<p>Bình luận về ngôn từ bình đẳng</p>",
+      "content_text": "Bình luận về ngôn từ bình đẳng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156878",
+      "lang": "vi",
+      "content_html": "<p>dùng lời nói để bình luận</p>",
+      "content_text": "dùng lời nói để bình luận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156879",
+      "lang": "vi",
+      "content_html": "<p>phát NGÔN(言) VN luôn quan ngại sâu sắc, ủng hộ hòa BÌNH(平) khi BÌNH(評) luận về thế giới</p>",
+      "content_text": "phát NGÔN(言) VN luôn quan ngại sâu sắc, ủng hộ hòa BÌNH(平) khi BÌNH(評) luận về thế giới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

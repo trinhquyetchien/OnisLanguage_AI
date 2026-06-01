@@ -1,0 +1,109 @@
+{
+  "kanji": "石",
+  "meta": {
+    "weight": 1864,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ",
+      "シャク",
+      "コク"
+    ],
+    "kun": [
+      "いし"
+    ],
+    "am_han": "THẠCH"
+  },
+  "meaning": {
+    "vi": "đá, bảo thạch",
+    "en": "stone"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/石.svg"
+  },
+  "frequency": 342,
+  "examples": [
+    "石",
+    "石油",
+    "石川",
+    "石炭",
+    "宝石"
+  ],
+  "explanation": {
+    "id": "4401",
+    "text": "石 (đọc là \"seki\" hoặc \"ishi\") có nghĩa là \"đá\" để chỉ vật thể cứng, thường liên quan đến các nguyên liệu tự nhiên và đối tượng trong xây dựng hoặc nghệ thuật.\n\nVí dụ:\n- 石碑 (sekihi): Bia đá.\n"
+  },
+  "comments": [
+    {
+      "id": "36864",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của một vách đá dốc đứng và một <strong>hòn đá</strong>.</p>",
+      "content_text": "Hình dạng của một vách đá dốc đứng và một\nhòn đá\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62addbb879d28.jpg",
+      "image_path": "assets/images/石_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155620",
+      "lang": "vi",
+      "content_html": "<p>Dưới sườn núi 厂 có nhiều viên đá nhỏ như miệng 口</p>",
+      "content_text": "Dưới sườn núi 厂 có nhiều viên đá nhỏ như miệng 口",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221791",
+      "lang": "vi",
+      "content_html": "<p>石 còn chỉ vật không sử dụng được, ví dụ từ \"Thạch nữ\" 石女 xuất hiện trong một số tác phẩm hoặc dân gian chỉ \"Phụ nữ không có khả năng sinh sản\" (Bộ phận sinh dục bị dị dạng).&nbsp;</p>",
+      "content_text": "石 còn chỉ vật không sử dụng được, ví dụ từ \"Thạch nữ\" 石女 xuất hiện trong một số tác phẩm hoặc dân gian chỉ \"Phụ nữ không có khả năng sinh sản\" (Bộ phận sinh dục bị dị dạng).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    },
+    {
+      "id": "155621",
+      "lang": "vi",
+      "content_html": "<p>đá bên phải không có sừng</p>",
+      "content_text": "đá bên phải không có sừng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

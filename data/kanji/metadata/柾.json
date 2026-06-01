@@ -1,0 +1,50 @@
+{
+  "kanji": "柾",
+  "meta": {
+    "weight": 1331,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "まさ",
+      "まさめ",
+      "まさき"
+    ],
+    "am_han": "CỮU, CHANH"
+  },
+  "meaning": {
+    "vi": "hạt thẳng, cây trục, (kokuji)",
+    "en": "straight grain, spindle tree, (kokuji)"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/柾.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7416",
+    "text": "Chữ Hán 柾 (đọc là \"shō\") có nghĩa là \"gỗ thẳng\" hoặc \"gỗ không cong\", dùng để chỉ các loại gỗ có chất lượng tốt, thường được sử dụng trong chế tác đồ gỗ.\n\nVí dụ:\n- 柾目 (masame): Vân gỗ thẳng."
+  },
+  "comments": [
+    {
+      "id": "219800",
+      "lang": "vi",
+      "content_html": "<p>cữu : linh cữu</p>",
+      "content_text": "cữu : linh cữu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

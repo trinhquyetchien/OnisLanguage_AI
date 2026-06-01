@@ -1,0 +1,88 @@
+{
+  "kanji": "拓",
+  "meta": {
+    "weight": 1074,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タク"
+    ],
+    "kun": [
+      "ひら.く"
+    ],
+    "am_han": "THÁC, THÁP"
+  },
+  "meaning": {
+    "vi": "rõ ràng (vùng đất), mở ra, chia tay (vùng đất)",
+    "en": "clear (the land), open, break up (land)"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/拓.svg"
+  },
+  "frequency": 1526,
+  "examples": [
+    "開拓",
+    "干拓",
+    "拓く"
+  ],
+  "explanation": {
+    "id": "5035",
+    "text": "拓 (đọc là \"taku\") có nghĩa là \"mở rộng\", \"khai thác\" để chỉ các hành động liên quan đến việc phát triển, mở mang, hoặc khai thác tài nguyên.\n\nVí dụ:\n- 拓本 (takuhon): Bản sao, bản khắc.\n- 拓き ("
+  },
+  "comments": [
+    {
+      "id": "153862",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay khai thác đá</p>",
+      "content_text": "Dùng tay khai thác đá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153863",
+      "lang": "vi",
+      "content_html": "<p>Khai THÁC ĐÁ thì phải dùng TAY</p>",
+      "content_text": "Khai THÁC ĐÁ thì phải dùng TAY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153864",
+      "lang": "vi",
+      "content_html": "<p>Thác loạn ma tuý Đá, Thủ phạm Khai thác gần hết rồi.</p>",
+      "content_text": "Thác loạn ma tuý Đá, Thủ phạm Khai thác gần hết rồi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

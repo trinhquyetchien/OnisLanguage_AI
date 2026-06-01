@@ -1,0 +1,106 @@
+{
+  "kanji": "役",
+  "meta": {
+    "weight": 918,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヤク",
+      "エキ"
+    ],
+    "kun": [],
+    "am_han": "DỊCH"
+  },
+  "meaning": {
+    "vi": "nhiệm vụ, nô dịch",
+    "en": "duty, war, campaign, drafted labor, office, service, role"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/役.svg"
+  },
+  "frequency": 315,
+  "examples": [
+    "役割",
+    "役",
+    "役員",
+    "取締役",
+    "役立つ"
+  ],
+  "explanation": {
+    "id": "7691",
+    "text": "役 (đọc là \"yaku\") có nghĩa là \"vai trò\", \"nghĩa vụ\" để chỉ các chức năng, nhiệm vụ hoặc vai trò trong một tổ chức hay xã hội.  \nVí dụ:  \n- 役割 (yakuwari): Vai trò, nhiệm vụ.  \n- 役人 (yakunin):"
+  },
+  "comments": [
+    {
+      "id": "37084",
+      "lang": "vi",
+      "content_html": "<p><strong>Nhiệm vụ </strong>của tôi là mang hòn đá.</p>",
+      "content_text": "Nhiệm vụ\ncủa tôi là mang hòn đá.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb04e7a373.jpg",
+      "image_path": "assets/images/役_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153447",
+      "lang": "vi",
+      "content_html": "<p>Chiến dịch lên đường đánh kẻ thù</p>",
+      "content_text": "Chiến dịch lên đường đánh kẻ thù",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153448",
+      "lang": "vi",
+      "content_html": "<p>Xích chân kẻ Thù lại cho đi lao Dịch</p>",
+      "content_text": "Xích chân kẻ Thù lại cho đi lao Dịch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153449",
+      "lang": "vi",
+      "content_html": "<p>CHiến DỊCH ( điện biên phủ ) ĐI tiêu diệt quân THÙ</p>",
+      "content_text": "CHiến DỊCH ( điện biên phủ ) ĐI tiêu diệt quân THÙ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

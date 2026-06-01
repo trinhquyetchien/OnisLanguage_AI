@@ -1,0 +1,88 @@
+{
+  "kanji": "柳",
+  "meta": {
+    "weight": 1327,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リュウ"
+    ],
+    "kun": [
+      "やなぎ"
+    ],
+    "am_han": "LIỄU"
+  },
+  "meaning": {
+    "vi": "cây liễu",
+    "en": "willow"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/柳.svg"
+  },
+  "frequency": 1169,
+  "examples": [
+    "柳",
+    "川柳",
+    "青柳"
+  ],
+  "explanation": {
+    "id": "7709",
+    "text": "柳 (đọc là \"ryū\") có nghĩa là \"cây liễu\", thường dùng để chỉ loại cây mềm mại với tán lá rủ xuống. \n\nVí dụ:\n- 柳の木 (yanagi no ki): Cây liễu.\n- 柳川 (Yanagawa): Tên một thành phố nổi tiếng với cá"
+  },
+  "comments": [
+    {
+      "id": "154464",
+      "lang": "vi",
+      "content_html": "<p>Trên Cây LIỄU có quả Trứng lòng trắng</p>",
+      "content_text": "Trên Cây LIỄU có quả Trứng lòng trắng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154465",
+      "lang": "vi",
+      "content_html": "<p>quả TRỨNG trên CÂY LIỄU</p>",
+      "content_text": "quả TRỨNG trên CÂY LIỄU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154466",
+      "lang": "vi",
+      "content_html": "<p>cây mà có lá rủ xuống như lòng trắng trứng ..</p>",
+      "content_text": "cây mà có lá rủ xuống như lòng trắng trứng ..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

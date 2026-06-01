@@ -1,0 +1,88 @@
+{
+  "kanji": "刑",
+  "meta": {
+    "weight": 315,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [],
+    "am_han": "HÌNH"
+  },
+  "meaning": {
+    "vi": "trừng phạt, hình phạt, bản án, sự trừng phạt",
+    "en": "punish, penalty, sentence, punishment"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/刑.svg"
+  },
+  "frequency": 864,
+  "examples": [
+    "刑事",
+    "死刑",
+    "刑務所",
+    "刑",
+    "刑法"
+  ],
+  "explanation": {
+    "id": "1937",
+    "text": "刑 (đọc là \"keiyaku\" hoặc \"gyō\") có nghĩa là \"hình phạt\", \"trừng phạt\" để chỉ các khía cạnh liên quan đến luật pháp và hình sự.  \nVí dụ:  \n- 刑罰 (keibatsu): Hình phạt, án phạt.  \n- 刑事 (keiji):"
+  },
+  "comments": [
+    {
+      "id": "151983",
+      "lang": "vi",
+      "content_html": "<p>hình dáng(形) mà dùng đao cắt tóc đi là Hình phạt</p>",
+      "content_text": "hình dáng(形) mà dùng đao cắt tóc đi là Hình phạt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151984",
+      "lang": "vi",
+      "content_html": "<p>Hình dáng thì thấy tóc 形. Hình sự thì thấy đao 刑</p>",
+      "content_text": "Hình dáng thì thấy tóc 形. Hình sự thì thấy đao 刑",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151985",
+      "lang": "vi",
+      "content_html": "<p>Phạt cầm đao đứng cạnh cái thang</p>",
+      "content_text": "Phạt cầm đao đứng cạnh cái thang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "kanji": "舷",
+  "meta": {
+    "weight": 2241,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲン"
+    ],
+    "kun": [
+      "ふなばた",
+      "ふなべり"
+    ],
+    "am_han": "HUYỀN"
+  },
+  "meaning": {
+    "vi": "gunwale",
+    "en": "gunwale"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/舷.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2230",
+    "text": "舷 (đọc là \"gen\") có nghĩa là \"bờ tàu\" hoặc \"mạn tàu\", thường liên quan đến các bộ phận của tàu thuyền. \n\nVí dụ:\n- 舷側 (gensoku): Mạn tàu, bên hông tàu.\n- 舷梯 (gentai): Thang tàu, thang lên xuố"
+  },
+  "comments": [
+    {
+      "id": "220499",
+      "lang": "vi",
+      "content_html": "<p>những điều huyền 玄 bí của thời chu 舟 đã được khắc lên mạng thuyền 舷</p>",
+      "content_text": "những điều huyền 玄 bí của thời chu 舟 đã được khắc lên mạng thuyền 舷",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220500",
+      "lang": "vi",
+      "content_html": "<p>Cho Huyền lên đứng ở Mạn thuyền</p>",
+      "content_text": "Cho Huyền lên đứng ở Mạn thuyền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220501",
+      "lang": "vi",
+      "content_html": "<p>Thuyền sơn màu Đen bên mạn thuyền rất HUYỀN bí</p>",
+      "content_text": "Thuyền sơn màu Đen bên mạn thuyền rất HUYỀN bí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

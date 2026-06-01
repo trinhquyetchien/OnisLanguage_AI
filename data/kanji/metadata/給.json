@@ -1,0 +1,109 @@
+{
+  "kanji": "給",
+  "meta": {
+    "weight": 2077,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "たま.う",
+      "たも.う",
+      "-たま.え"
+    ],
+    "am_han": "CẤP"
+  },
+  "meaning": {
+    "vi": "cung cấp, tiền lương",
+    "en": "salary, wage, gift, allow, grant, bestow on"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/給.svg"
+  },
+  "frequency": 615,
+  "examples": [
+    "供給",
+    "給与",
+    "給料",
+    "給付",
+    "支給"
+  ],
+  "explanation": {
+    "id": "1558",
+    "text": "給 (đọc là \"kyuu\") có nghĩa là \"cung cấp\", \"đưa cho\" để chỉ hành động cung cấp hoặc trao tặng cái gì đó cho người khác.\n\nVí dụ:\n- 給料 (kyuuryou): Lương, tiền lương.\n- 給水 (kyuusui): Cung cấp nư"
+  },
+  "comments": [
+    {
+      "id": "156050",
+      "lang": "vi",
+      "content_html": "<p>Tập hợp các Sợi Tơ lại để Cung Cấp cho xí nghiệp dệt vải</p>",
+      "content_text": "Tập hợp các Sợi Tơ lại để Cung Cấp cho xí nghiệp dệt vải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190676",
+      "lang": "vi",
+      "content_html": "<p>Tìm sợi dây phù Hợp để buộc tiền Cấp</p>",
+      "content_text": "Tìm sợi dây phù Hợp để buộc tiền Cấp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156051",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa cấp lương tiền có dây buộc sao cho hợp lý cấp bậc</p>",
+      "content_text": "Thời xưa cấp lương tiền có dây buộc sao cho hợp lý cấp bậc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156052",
+      "lang": "vi",
+      "content_html": "<p>những người cùng giai cấp tập hợp kết nối với nhau</p>",
+      "content_text": "những người cùng giai cấp tập hợp kết nối với nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

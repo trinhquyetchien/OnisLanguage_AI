@@ -1,0 +1,89 @@
+{
+  "kanji": "弔",
+  "meta": {
+    "weight": 894,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "とむら.う",
+      "とぶら.う"
+    ],
+    "am_han": "ĐIẾU, ĐÍCH"
+  },
+  "meaning": {
+    "vi": "chia buồn, thương tiếc, tang lễ",
+    "en": "condolences, mourning, funeral"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/弔.svg"
+  },
+  "frequency": 1840,
+  "examples": [
+    "弔い",
+    "弔問",
+    "弔辞"
+  ],
+  "explanation": {
+    "id": "5346",
+    "text": "弔 (đọc là \"chō\") có nghĩa là \"tang lễ\", \"phúng điếu\" để chỉ các hành động liên quan đến việc tưởng niệm, tôn vinh người đã khuất.\nVí dụ:\n- 弔辞 (chōji): Lời điếu văn, diễn văn trong tang lễ.\n-"
+  },
+  "comments": [
+    {
+      "id": "153386",
+      "lang": "vi",
+      "content_html": "<p>bắn một mũi tên tiễn đưa hương hồn</p>",
+      "content_text": "bắn một mũi tên tiễn đưa hương hồn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153387",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa nếu có tin buồn thì cờ rủ xuống quấn quanh cột</p>",
+      "content_text": "Thời xưa nếu có tin buồn thì cờ rủ xuống quấn quanh cột",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153388",
+      "lang": "vi",
+      "content_html": "<p>Khi đọc Điếu văn viếng thi thì đứng thẳng người và cung kính</p>",
+      "content_text": "Khi đọc Điếu văn viếng thi thì đứng thẳng người và cung kính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

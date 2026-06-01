@@ -1,0 +1,91 @@
+{
+  "kanji": "縄",
+  "meta": {
+    "weight": 2106,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [
+      "なわ",
+      "ただ.す"
+    ],
+    "am_han": "THẰNG, MẪN"
+  },
+  "meaning": {
+    "vi": "dây rơm, dây",
+    "en": "straw rope, cord"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/縄.svg"
+  },
+  "frequency": 1075,
+  "examples": [
+    "沖縄",
+    "縄文",
+    "縄",
+    "縄張り",
+    "一筋縄"
+  ],
+  "explanation": {
+    "id": "6067",
+    "text": "縄 (đọc là \"nawa\") có nghĩa là \"dây\" hoặc \"sợi dây\", thường dùng để chỉ các loại dây, đặc biệt là dây thừng. \n\nVí dụ:\n- 縄跳び (nawatobi): Nhảy dây.\n- 縄文 (Jōmon): Văn hóa Jomon, một thời kỳ tron"
+  },
+  "comments": [
+    {
+      "id": "156128",
+      "lang": "vi",
+      "content_html": "<p>THẰNG bờm lấy Chỉ đo 2 mẫu Ruộng</p>",
+      "content_text": "THẰNG bờm lấy Chỉ đo 2 mẫu Ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156129",
+      "lang": "vi",
+      "content_html": "<p>Dây thừng đo dài hai cái ruộng</p>",
+      "content_text": "Dây thừng đo dài hai cái ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156130",
+      "lang": "vi",
+      "content_html": "<p>Sợi chỉ mà dài hơn 2 thửa ruộng thì nó là dây thừng</p>",
+      "content_text": "Sợi chỉ mà dài hơn 2 thửa ruộng thì nó là dây thừng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "kanji": "弘",
+  "meta": {
+    "weight": 897,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "グ"
+    ],
+    "kun": [
+      "ひろ.い"
+    ],
+    "am_han": "HOẰNG"
+  },
+  "meaning": {
+    "vi": "rộng lớn",
+    "en": "vast, broad, wide"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/弘.svg"
+  },
+  "frequency": 1059,
+  "examples": [
+    "弘前"
+  ],
+  "explanation": {
+    "id": "2444",
+    "text": "弘 (đọc là \"kou\" hoặc \"hiro\") có nghĩa là \"mở rộng\", \"phổ biến\", chỉ sự lan tỏa hoặc gia tăng quy mô.  \nVí dụ:  \n- 弘大 (koudai): Mở rộng, phóng đại.  \n- 弘報 (kouhou): Thông báo rộng rãi.  \n- 弘益"
+  },
+  "comments": [
+    {
+      "id": "153392",
+      "lang": "vi",
+      "content_html": "<p>Anh Tư mang Cung đi HOẰNG dương Phật Pháp</p>",
+      "content_text": "Anh Tư mang Cung đi HOẰNG dương Phật Pháp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153393",
+      "lang": "vi",
+      "content_html": "<p>Hoằng tháo Khư khư đứng cầm Cung kéo rộng ra</p>",
+      "content_text": "Hoằng tháo Khư khư đứng cầm Cung kéo rộng ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153394",
+      "lang": "vi",
+      "content_html": "<p>Cây cung của ông mũi to ở HOẰNG hoá thanh hoá</p>",
+      "content_text": "Cây cung của ông mũi to ở HOẰNG hoá thanh hoá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

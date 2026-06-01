@@ -1,0 +1,53 @@
+{
+  "kanji": "椿",
+  "meta": {
+    "weight": 1390,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チン",
+      "チュン"
+    ],
+    "kun": [
+      "つばき"
+    ],
+    "am_han": "XUÂN, THUNG"
+  },
+  "meaning": {
+    "vi": "hoa trà",
+    "en": "camellia"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/椿.svg"
+  },
+  "frequency": 1829,
+  "examples": [
+    "椿"
+  ],
+  "explanation": {
+    "id": "5495",
+    "text": "椿 (đọc là \"tsubaki\") có nghĩa là \"hoa trà\" (Camellia) để chỉ loại cây và hoa thường nở vào mùa đông và đầu xuân. \n\nVí dụ:\n- 椿油 (tsubaki-abura): Dầu hoa trà, được chiết xuất từ hạt của cây ts"
+  },
+  "comments": [
+    {
+      "id": "154572",
+      "lang": "vi",
+      "content_html": "<p>Cây hoa trà chuyên nở vào mùa xuân. Mộc + xuân</p>",
+      "content_text": "Cây hoa trà chuyên nở vào mùa xuân. Mộc + xuân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

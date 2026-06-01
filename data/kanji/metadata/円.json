@@ -1,0 +1,77 @@
+{
+  "kanji": "円",
+  "meta": {
+    "weight": 280,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "まる.い",
+      "まる",
+      "まど",
+      "まど.か",
+      "まろ.やか"
+    ],
+    "am_han": "VIÊN"
+  },
+  "meaning": {
+    "vi": "vòng tròn, yên, viên mãn",
+    "en": "circle, yen, round"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/円.svg"
+  },
+  "frequency": 69,
+  "examples": [
+    "円",
+    "円滑",
+    "円形",
+    "日本円",
+    "円盤"
+  ],
+  "explanation": {
+    "id": "435",
+    "text": "円 (đọc là \"en\") có nghĩa là \"đồng yen\", đơn vị tiền tệ của Nhật Bản, và cũng chỉ hình tròn hoặc mặt phẳng tròn. \n\nVí dụ:\n- 円 (en): Yên, đồng tiền Nhật.\n- 円高 (endaka): Tỷ giá yên cao.\n- 円形 (e"
+  },
+  "comments": [
+    {
+      "id": "467",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của hình <strong>tròn</strong></p>",
+      "content_text": "Hình dạng của hình\ntròn",
+      "image_url": "https://jpdictionary.com/upload/images/629761d22a048.jpg",
+      "image_path": "assets/images/円_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158348",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5<br>円 (えん): Yên Nhật</p>",
+      "content_text": "JLPT N5\n円 (えん): Yên Nhật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

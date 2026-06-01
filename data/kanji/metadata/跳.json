@@ -1,0 +1,92 @@
+{
+  "kanji": "跳",
+  "meta": {
+    "weight": 2595,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "は.ねる",
+      "と.ぶ",
+      "-と.び"
+    ],
+    "am_han": "KHIÊU"
+  },
+  "meaning": {
+    "vi": "nhảy lên, mùa xuân, giật, prance, buck, giật gân, sputter, snap",
+    "en": "hop, leap up, spring, jerk, prance, buck, splash, sputter, snap"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/跳.svg"
+  },
+  "frequency": 1716,
+  "examples": [
+    "跳ね",
+    "跳び",
+    "跳躍",
+    "縄跳び",
+    "跳ねる"
+  ],
+  "explanation": {
+    "id": "5401",
+    "text": "跳 (đọc là \"chō\" hoặc \"tobu\") có nghĩa là \"nhảy\", chỉ các hành động liên quan đến việc nhảy lên hoặc di chuyển bằng cách bật khỏi mặt đất.\n\nVí dụ:\n- 跳ぶ (tobu): Nhảy, bật.\n- 跳躍 (chōyaku): Sự n"
+  },
+  "comments": [
+    {
+      "id": "157180",
+      "lang": "vi",
+      "content_html": "<p>Thuê chân dài 足 KHIÊU vũ hết cả triệu 兆 bạc</p>",
+      "content_text": "Thuê chân dài 足 KHIÊU vũ hết cả triệu 兆 bạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157181",
+      "lang": "vi",
+      "content_html": "<p>Hàng TRIỆU NGƯỜI từ khắp BỐN PHƯƠNG đều nhấc CHÂN KHIÊU vũ trong lễ hội</p>",
+      "content_text": "Hàng TRIỆU NGƯỜI từ khắp BỐN PHƯƠNG đều nhấc CHÂN KHIÊU vũ trong lễ hội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157182",
+      "lang": "vi",
+      "content_html": "<p>Những bước chân được triệu tập về KHIÊU vũ nhảy múa</p>",
+      "content_text": "Những bước chân được triệu tập về KHIÊU vũ nhảy múa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

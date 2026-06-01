@@ -1,0 +1,91 @@
+{
+  "kanji": "韓",
+  "meta": {
+    "weight": 2891,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "から",
+      "いげた"
+    ],
+    "am_han": "HÀN"
+  },
+  "meaning": {
+    "vi": "Hàn Quốc",
+    "en": "Korea"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/韓.svg"
+  },
+  "frequency": 445,
+  "examples": [
+    "韓国",
+    "韓",
+    "大韓民国",
+    "北韓",
+    "訪韓"
+  ],
+  "explanation": {
+    "id": "1198",
+    "text": "韓 (đọc là \"kan\") có nghĩa là \"Hàn Quốc\" hoặc \"người Hàn Quốc\". Từ này thường liên quan đến văn hóa, con người và sản phẩm của Hàn Quốc.\n\nVí dụ:\n- 韓国 (kankoku): Hàn Quốc.\n- 韓流 (kanryū): Làn s"
+  },
+  "comments": [
+    {
+      "id": "157850",
+      "lang": "vi",
+      "content_html": "<p>20 ngày (十日十) VI(韋)hành của vua HÀN quốc</p>",
+      "content_text": "20 ngày (十日十) VI(韋)hành của vua HÀN quốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157851",
+      "lang": "vi",
+      "content_html": "<p>Người hàn quốc thường vi hành bằng xe</p>",
+      "content_text": "Người hàn quốc thường vi hành bằng xe",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157852",
+      "lang": "vi",
+      "content_html": "<p>chỉ có người HÀN  --  mới 10H SỚM dã bứt tóc thằng NGŨ rồi MỒM la làng từ GIỮA NĂM</p>",
+      "content_text": "chỉ có người HÀN  --  mới 10H SỚM dã bứt tóc thằng NGŨ rồi MỒM la làng từ GIỮA NĂM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

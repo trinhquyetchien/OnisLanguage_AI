@@ -1,0 +1,109 @@
+{
+  "kanji": "就",
+  "meta": {
+    "weight": 766,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ",
+      "ジュ"
+    ],
+    "kun": [
+      "つ.く",
+      "つ.ける"
+    ],
+    "am_han": "TỰU"
+  },
+  "meaning": {
+    "vi": "liên quan, giải quyết, đảm nhận vị trí, khởi hành, nghiên cứu, mỗi",
+    "en": "concerning, settle, take position, depart, study, per"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/就.svg"
+  },
+  "frequency": 624,
+  "examples": [
+    "就職",
+    "就任",
+    "就業",
+    "就労",
+    "就寝"
+  ],
+  "explanation": {
+    "id": "3475",
+    "text": "就 (đọc là \"shū\" hoặc \"jou\") có nghĩa là \"thực hiện\", \"đạt được\", \"đến\". Chữ này thường chỉ hành động hoàn thành một điều gì đó hoặc đạt đến một trạng thái nào đó.\n\nVí dụ:\n- 就職 (shūshoku): Nh"
+  },
+  "comments": [
+    {
+      "id": "153077",
+      "lang": "vi",
+      "content_html": "<p>Cả dòng họ VƯU (尤) đỗ qua to trên KINH đô thật là thành TỰU đáng ngạc nhiên</p>",
+      "content_text": "Cả dòng họ VƯU (尤) đỗ qua to trên KINH đô thật là thành TỰU đáng ngạc nhiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153078",
+      "lang": "vi",
+      "content_html": "<p>Ở kinh đô ko có thành TỰU bị coi như con chó què chân</p>",
+      "content_text": "Ở kinh đô ko có thành TỰU bị coi như con chó què chân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153079",
+      "lang": "vi",
+      "content_html": "<p>就職TỰU CHỨC: Việc làm</p>",
+      "content_text": "就職TỰU CHỨC: Việc làm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221489",
+      "lang": "vi",
+      "content_html": "<p>kinh đô của nhà Uông là 1 thành tựu</p>",
+      "content_text": "kinh đô của nhà Uông là 1 thành tựu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    }
+  ]
+}

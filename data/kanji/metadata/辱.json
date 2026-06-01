@@ -1,0 +1,89 @@
+{
+  "kanji": "辱",
+  "meta": {
+    "weight": 2629,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョク"
+    ],
+    "kun": [
+      "はずかし.める"
+    ],
+    "am_han": "NHỤC"
+  },
+  "meaning": {
+    "vi": "xấu hổ, sỉ nhục",
+    "en": "embarrass, humiliate, shame"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/辱.svg"
+  },
+  "frequency": 1769,
+  "examples": [
+    "侮辱",
+    "屈辱",
+    "恥辱",
+    "雪辱"
+  ],
+  "explanation": {
+    "id": "4042",
+    "text": "辱 (đọc là \"nuku\") có nghĩa là \"nhục nhã\", \"xúc phạm\" để chỉ các hành động gây tổn thương về danh dự hoặc phẩm giá của ai đó.\n\nVí dụ:\n- 侮辱 (bujoku): Sự xúc phạm, nhục mạ.\n- 恥辱 (chijoku): Sự n"
+  },
+  "comments": [
+    {
+      "id": "157262",
+      "lang": "vi",
+      "content_html": "<p>Thần mà bị thốn thì đúng là Nhục</p>",
+      "content_text": "Thần mà bị thốn thì đúng là Nhục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157263",
+      "lang": "vi",
+      "content_html": "<p>Thần mà bị chê thốn thì hơi NHỤC</p>",
+      "content_text": "Thần mà bị chê thốn thì hơi NHỤC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157264",
+      "lang": "vi",
+      "content_html": "<p>Bụng mang cốt nhục thì thốn lắm</p>",
+      "content_text": "Bụng mang cốt nhục thì thốn lắm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

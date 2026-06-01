@@ -1,0 +1,88 @@
+{
+  "kanji": "憲",
+  "meta": {
+    "weight": 1021,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [],
+    "am_han": "HIẾN"
+  },
+  "meaning": {
+    "vi": "hiến pháp, luật pháp",
+    "en": "constitution, law"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/憲.svg"
+  },
+  "frequency": 551,
+  "examples": [
+    "憲法",
+    "違憲",
+    "改憲",
+    "憲章",
+    "立憲"
+  ],
+  "explanation": {
+    "id": "2128",
+    "text": "憲 (đọc là \"ken\") có nghĩa là \"hiến pháp\", \"nguyên tắc\" để chỉ các quy định, nguyên tắc pháp lý cơ bản của một quốc gia.  \nVí dụ:  \n- 憲法 (kenpō): Hiến pháp.  \n- 憲政 (kensei): Chính quyền hiến "
+  },
+  "comments": [
+    {
+      "id": "153721",
+      "lang": "vi",
+      "content_html": "<p>Hiến pháp là quy tắc trong nhà cảm nhận bằng con tim và phát sinh từ con mắt</p>",
+      "content_text": "Hiến pháp là quy tắc trong nhà cảm nhận bằng con tim và phát sinh từ con mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153722",
+      "lang": "vi",
+      "content_html": "<p>dưới mái nhà ông chủ nằm võng đọc Hiến Pháp bằng cả con tim</p>",
+      "content_text": "dưới mái nhà ông chủ nằm võng đọc Hiến Pháp bằng cả con tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153723",
+      "lang": "vi",
+      "content_html": "<p>hiến máu 3 lần là liệt nằm võng luôn</p>",
+      "content_text": "hiến máu 3 lần là liệt nằm võng luôn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

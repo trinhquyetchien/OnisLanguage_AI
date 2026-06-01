@@ -1,0 +1,110 @@
+{
+  "kanji": "我",
+  "meta": {
+    "weight": 1031,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガ"
+    ],
+    "kun": [
+      "われ",
+      "わ",
+      "わ.が-",
+      "わが-"
+    ],
+    "am_han": "NGÃ"
+  },
+  "meaning": {
+    "vi": "bản ngã, tôi, ích kỷ, của chúng ta, bản thân",
+    "en": "ego, I, selfish, our, oneself"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/我.svg"
+  },
+  "frequency": 829,
+  "examples": [
+    "我々",
+    "我が国",
+    "我が家",
+    "我が",
+    "我慢"
+  ],
+  "explanation": {
+    "id": "720",
+    "text": "我 (đọc là \"ga\") có nghĩa là \"tôi\" hoặc \"mình\", dùng để chỉ người nói trong giao tiếp. \n\nVí dụ:\n- 我々 (wareware): Chúng tôi.\n- 我が家 (wagaya): Nhà của chúng tôi.\n- 我思う故に我あり (Ware omou yue ni war"
+  },
+  "comments": [
+    {
+      "id": "153745",
+      "lang": "vi",
+      "content_html": "<p>QUA TAY là NGÃ</p>",
+      "content_text": "QUA TAY là NGÃ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153746",
+      "lang": "vi",
+      "content_html": "<p>Hội ý: 我 gồm 2 bộ: Thủ: tay (手) và Qua: vũ khí (戈).<br>Khi binh lính ra trận, trên Tay (手) họ cầm Vũ khí (戈), trước thời khắc sinh tử<br>==&#62; Lúc đó bản Ngã (我) trong họ sẽ xuất hiện. Ai Dũng cảm sẽ Xông lên trước, sợ hãi sẽ quay đầu bỏ chạy<br>..性..</p>",
+      "content_text": "Hội ý: 我 gồm 2 bộ: Thủ: tay (手) và Qua: vũ khí (戈).\nKhi binh lính ra trận, trên Tay (手) họ cầm Vũ khí (戈), trước thời khắc sinh tử\n==> Lúc đó bản Ngã (我) trong họ sẽ xuất hiện. Ai Dũng cảm sẽ Xông lên trước, sợ hãi sẽ quay đầu bỏ chạy\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153747",
+      "lang": "vi",
+      "content_html": "<p>xa NGÃ QUA vòng TAY người khác.....( chuẩn luôn haha)</p>",
+      "content_text": "xa NGÃ QUA vòng TAY người khác.....( chuẩn luôn haha)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222084",
+      "lang": "vi",
+      "content_html": "<p><strong>cái tôi là người dùng tay và vũ khí để tự tồn tại</strong>, <strong>bảo vệ chính mình</strong>,</p>",
+      "content_text": "cái tôi là người dùng tay và vũ khí để tự tồn tại\n,\nbảo vệ chính mình\n,",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "7613",
+        "name": "truongg",
+        "image_url": "https://jpdictionary.com/upload/images/683b215a55293.png"
+      }
+    }
+  ]
+}

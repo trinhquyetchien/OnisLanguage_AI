@@ -1,0 +1,111 @@
+{
+  "kanji": "表",
+  "meta": {
+    "weight": 2409,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒョウ"
+    ],
+    "kun": [
+      "おもて",
+      "-おもて",
+      "あらわ.す",
+      "あらわ.れる",
+      "あら.わす"
+    ],
+    "am_han": "BIỂU"
+  },
+  "meaning": {
+    "vi": "bề mặt, biểu hiện",
+    "en": "surface, table, chart, diagram"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/表.svg"
+  },
+  "frequency": 77,
+  "examples": [
+    "代表",
+    "発表",
+    "表現",
+    "表示",
+    "表"
+  ],
+  "explanation": {
+    "id": "6713",
+    "text": "表 (đọc là \"hyō\" hoặc \"omote\") có nghĩa là \"bề mặt\", \"biểu hiện\" hoặc \"bảng\". Chữ này thường được sử dụng để chỉ các khía cạnh liên quan đến sự thể hiện hoặc hiển thị.\n\nVí dụ:\n- 表現 (hyōgen): "
+  },
+  "comments": [
+    {
+      "id": "37078",
+      "lang": "vi",
+      "content_html": "<p>Cô ấy <strong>biểu hiện</strong> niềm vui vì cái cây phát triển tốt.</p>",
+      "content_text": "Cô ấy\nbiểu hiện\nniềm vui vì cái cây phát triển tốt.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb06518e11.jpg",
+      "image_path": "assets/images/表_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156718",
+      "lang": "vi",
+      "content_html": "<p>Người nhân sĩ 士 thể hiện 表す qua y phục 衣</p>",
+      "content_text": "Người nhân sĩ 士 thể hiện 表す qua y phục 衣",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156719",
+      "lang": "vi",
+      "content_html": "<p>Y phục biểu hiện ai là chủ</p>",
+      "content_text": "Y phục biểu hiện ai là chủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156720",
+      "lang": "vi",
+      "content_html": "<p>Bộ Y phục (衣 ) này có BIỂU hiện Khác thường</p>",
+      "content_text": "Bộ Y phục (衣 ) này có BIỂU hiện Khác thường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

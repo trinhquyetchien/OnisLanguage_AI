@@ -1,0 +1,87 @@
+{
+  "kanji": "塞",
+  "meta": {
+    "weight": 591,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソク",
+      "サイ"
+    ],
+    "kun": [
+      "ふさ.ぐ",
+      "とりで",
+      "み.ちる"
+    ],
+    "am_han": "TẮC, TÁI"
+  },
+  "meaning": {
+    "vi": "đóng, che, chặn, cản trở",
+    "en": "close, shut, cover, block, obstruct"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/塞.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2786",
+    "text": "塞 (đọc là \"sai\" hoặc \"saku\") có nghĩa là \"bít lại\", \"chặn\", thường dùng để chỉ việc làm cho một cái gì đó không còn thông suốt hoặc ngăn cản. \n\nVí dụ:\n- 塞翁が馬 (Saiō ga uma): Câu chuyện về sự "
+  },
+  "comments": [
+    {
+      "id": "219223",
+      "lang": "vi",
+      "content_html": "<p>寒 - HÀN <br>塞 mùa đông Đất đầy băng , gây TẮC nghẽn giao thông</p>",
+      "content_text": "寒 - HÀN\n塞 mùa đông Đất đầy băng , gây TẮC nghẽn giao thông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219224",
+      "lang": "vi",
+      "content_html": "<p>cơ sở mái nhà quá yếu ko xây lên được nên rất BẾ TẮC</p>",
+      "content_text": "cơ sở mái nhà quá yếu ko xây lên được nên rất BẾ TẮC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219225",
+      "lang": "vi",
+      "content_html": "<p>mất hẳn ngôi nhà cộng （共）một （一）miếng đất （土）nên bị bế TẮC</p>",
+      "content_text": "mất hẳn ngôi nhà cộng （共）một （一）miếng đất （土）nên bị bế TẮC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

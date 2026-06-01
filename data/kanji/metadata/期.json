@@ -1,0 +1,89 @@
+{
+  "kanji": "期",
+  "meta": {
+    "weight": 1276,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ",
+      "ゴ"
+    ],
+    "kun": [],
+    "am_han": "KÌ"
+  },
+  "meaning": {
+    "vi": "thời kì, kì hạn",
+    "en": "period, time, date, term"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/期.svg"
+  },
+  "frequency": 117,
+  "examples": [
+    "期待",
+    "時期",
+    "期間",
+    "期",
+    "長期"
+  ],
+  "explanation": {
+    "id": "1310",
+    "text": "期 (đọc là \"ki\") có nghĩa là \"thời kỳ\", \"kỳ hạn\", chỉ một khoảng thời gian hoặc thời điểm nào đó trong tương lai.  \nVí dụ:  \n- 期限 (kigen): Thời hạn, hạn chót.  \n- 定期 (teiki): Định kỳ, theo ch"
+  },
+  "comments": [
+    {
+      "id": "154346",
+      "lang": "vi",
+      "content_html": "<p>Đến thời kì kinh nguyệt</p>",
+      "content_text": "Đến thời kì kinh nguyệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154347",
+      "lang": "vi",
+      "content_html": "<p>Cam ngọt đến thời Kì thu hoạch</p>",
+      "content_text": "Cam ngọt đến thời Kì thu hoạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154348",
+      "lang": "vi",
+      "content_html": "<p>mặt trăng lên là thời kì cam ngọt chín</p>",
+      "content_text": "mặt trăng lên là thời kì cam ngọt chín",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

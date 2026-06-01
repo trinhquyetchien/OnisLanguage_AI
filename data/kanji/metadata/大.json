@@ -1,0 +1,93 @@
+{
+  "kanji": "大",
+  "meta": {
+    "weight": 623,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダイ",
+      "タイ"
+    ],
+    "kun": [
+      "おお-",
+      "おお.きい",
+      "-おお.いに"
+    ],
+    "am_han": "ĐẠI"
+  },
+  "meaning": {
+    "vi": "to lớn",
+    "en": "large, big"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/大.svg"
+  },
+  "frequency": 7,
+  "examples": [
+    "大",
+    "大きな",
+    "大学",
+    "大変",
+    "大きく"
+  ],
+  "explanation": {
+    "id": "5001",
+    "text": "大 (đọc là \"dai\" hoặc \"oo\") có nghĩa là \"lớn\", \"to,\" dùng để chỉ kích thước, mức độ hoặc tầm quan trọng của sự vật.  \nVí dụ:  \n- 大学 (daigaku): Trường đại học.  \n- 大きい (ookii): Lớn, to.  \n- 大事"
+  },
+  "comments": [
+    {
+      "id": "572",
+      "lang": "vi",
+      "content_html": "<p>Khi bạn dang rộng chân tay trông bạn rất <strong>lớn</strong>.</p>",
+      "content_text": "Khi bạn dang rộng chân tay trông bạn rất\nlớn\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62978056cd882.jpg",
+      "image_path": "assets/images/大_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190957",
+      "lang": "vi",
+      "content_html": "<p><strong>to lớn</strong></p>",
+      "content_text": "to lớn",
+      "image_url": "https://jpdictionary.com/upload/images/648a76b0c0f49.jpg",
+      "image_path": "assets/images/大_2.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158213",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>大きい (おおきい): to lớn</p><p>大人 (おとな): người lớn</p><p>大学 (だいがく): đại học</p><p>大丈夫 (だいじょうぶ): ổn</p><p>大好き (だいすき): rất thích</p><p>大切 (たいせつ): quan trọng</p>",
+      "content_text": "JLPT N5\n大きい (おおきい): to lớn\n大人 (おとな): người lớn\n大学 (だいがく): đại học\n大丈夫 (だいじょうぶ): ổn\n大好き (だいすき): rất thích\n大切 (たいせつ): quan trọng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "kanji": "狸",
+  "meta": {
+    "weight": 1715,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リ",
+      "ライ"
+    ],
+    "kun": [
+      "たぬき"
+    ],
+    "am_han": "LI"
+  },
+  "meaning": {
+    "vi": "tanuki, gấu trúc",
+    "en": "tanuki, raccoon"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/狸.svg"
+  },
+  "frequency": 2498,
+  "examples": [
+    "狸"
+  ],
+  "explanation": {
+    "id": "5102",
+    "text": "狸 (đọc là \"rō\") có nghĩa là \"gấu trúc\", thường chỉ loài thú có hình dáng giống như chó, thuộc họ chồn. \n\nVí dụ:\n- 狸猫 (tanuki-neko): Mèo tanuki, một loại mèo đặc biệt.\n- 狸寝入り (tanuki-neiri): "
+  },
+  "comments": [
+    {
+      "id": "155278",
+      "lang": "vi",
+      "content_html": "<p>hồ li</p>",
+      "content_text": "hồ li",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

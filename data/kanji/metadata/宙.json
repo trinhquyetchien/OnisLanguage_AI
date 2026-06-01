@@ -1,0 +1,87 @@
+{
+  "kanji": "宙",
+  "meta": {
+    "weight": 715,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [],
+    "am_han": "TRỤ"
+  },
+  "meaning": {
+    "vi": "giữa không trung, không trung, không gian, bầu trời, ghi nhớ, khoảng thời gian",
+    "en": "mid-air, air, space, sky, memorization, interval of time"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/宙.svg"
+  },
+  "frequency": 1005,
+  "examples": [
+    "宇宙",
+    "宇宙船",
+    "宙",
+    "小宇宙"
+  ],
+  "explanation": {
+    "id": "5274",
+    "text": "宙 (đọc là \"chuu\") có nghĩa là \"không gian\" hoặc \"trong không trung\", thường chỉ về khoảng trống hoặc không khí giữa các vật. \n\nVí dụ:\n- 宇宙 (uchuu): Vũ trụ.\n- 宙に浮く (chuu ni uku): Nổi trong kh"
+  },
+  "comments": [
+    {
+      "id": "152941",
+      "lang": "vi",
+      "content_html": "<p>vũ trụ là mái nhà tự do</p>",
+      "content_text": "vũ trụ là mái nhà tự do",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152942",
+      "lang": "vi",
+      "content_html": "<p>NHÀ đứng vững là DO cái TRỤ</p>",
+      "content_text": "NHÀ đứng vững là DO cái TRỤ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152943",
+      "lang": "vi",
+      "content_html": "<p>Ngôi nhà vũ trụ chứa đồng ruộng là vòm trời</p>",
+      "content_text": "Ngôi nhà vũ trụ chứa đồng ruộng là vòm trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

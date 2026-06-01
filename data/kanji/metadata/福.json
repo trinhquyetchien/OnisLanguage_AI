@@ -1,0 +1,88 @@
+{
+  "kanji": "福",
+  "meta": {
+    "weight": 1917,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フク"
+    ],
+    "kun": [],
+    "am_han": "PHÚC"
+  },
+  "meaning": {
+    "vi": "phúc, hạnh phúc",
+    "en": "blessing, fortune, luck, wealth"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/福.svg"
+  },
+  "frequency": 467,
+  "examples": [
+    "福祉",
+    "福岡",
+    "幸福",
+    "福井",
+    "福島"
+  ],
+  "explanation": {
+    "id": "6913",
+    "text": "福 (đọc là \"fuku\") có nghĩa là \"hạnh phúc\", \"phúc lợi\", diễn tả sự may mắn và tốt đẹp trong cuộc sống.  \nVí dụ:  \n- 幸福 (kōfuku): Hạnh phúc, niềm vui.  \n- 福祉 (fukushi): Phúc lợi, chăm sóc xã h"
+  },
+  "comments": [
+    {
+      "id": "155723",
+      "lang": "vi",
+      "content_html": "<p>Có 10 mẫu Ruộng ở Thị xã là hạnh PHÚC rồi</p>",
+      "content_text": "Có 10 mẫu Ruộng ở Thị xã là hạnh PHÚC rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155724",
+      "lang": "vi",
+      "content_html": "<p>Thần phú cho giàu có là phúc</p>",
+      "content_text": "Thần phú cho giàu có là phúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155725",
+      "lang": "vi",
+      "content_html": "<p>Được mặc áo trên núi phú sĩ là hạnh phúc rồi</p>",
+      "content_text": "Được mặc áo trên núi phú sĩ là hạnh phúc rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

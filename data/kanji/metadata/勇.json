@@ -1,0 +1,107 @@
+{
+  "kanji": "勇",
+  "meta": {
+    "weight": 356,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ"
+    ],
+    "kun": [
+      "いさ.む"
+    ],
+    "am_han": "DŨNG"
+  },
+  "meaning": {
+    "vi": "can đảm, dũng cảm",
+    "en": "courage, cheer up, be in high spirits, bravery, heroism"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/勇.svg"
+  },
+  "frequency": 1319,
+  "examples": [
+    "勇気",
+    "勇",
+    "勇敢",
+    "勇者",
+    "勇気づけ"
+  ],
+  "explanation": {
+    "id": "7743",
+    "text": "勇 (đọc là \"yū\") có nghĩa là \"dũng cảm\", \"can đảm\", chỉ các hành động liên quan đến sự kiên cường và lòng dũng cảm.  \nVí dụ:  \n- 勇気 (yūki): Lòng dũng cảm, can đảm.  \n- 勇敢 (yūkan): Dũng cảm, g"
+  },
+  "comments": [
+    {
+      "id": "152094",
+      "lang": "vi",
+      "content_html": "<p>Đàn Ông DŨNG cảm không sợ Ma</p>",
+      "content_text": "Đàn Ông DŨNG cảm không sợ Ma",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190755",
+      "lang": "vi",
+      "content_html": "<p>Nam nhi có khí tiết thì luôn dũng cảm</p>",
+      "content_text": "Nam nhi có khí tiết thì luôn dũng cảm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "152095",
+      "lang": "vi",
+      "content_html": "<p>Đàn ông (男) không sợ Ma (マ) thật là Dũng cảm (勇）</p>",
+      "content_text": "Đàn ông (男) không sợ Ma (マ) thật là Dũng cảm (勇）",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152096",
+      "lang": "vi",
+      "content_html": "<p>NAM giới k sợ マ mới là DŨNG cảm</p>",
+      "content_text": "NAM giới k sợ マ mới là DŨNG cảm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "kanji": "迦",
+  "meta": {
+    "weight": 2641,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "ケ"
+    ],
+    "kun": [],
+    "am_han": "GIÀ, CA"
+  },
+  "meaning": {
+    "vi": "(được sử dụng theo phiên âm)",
+    "en": "(used phonetically)"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/迦.svg"
+  },
+  "frequency": 2160,
+  "examples": [
+    "釈迦",
+    "お釈迦様",
+    "お釈迦さま",
+    "莫迦"
+  ],
+  "explanation": {
+    "id": "704",
+    "text": "迦 (đọc là \"ka\") có nghĩa là \"hạnh phúc\", \"tốt đẹp\", thường được dùng trong ngữ cảnh liên quan đến sự tốt lành hoặc các khái niệm tôn giáo. \n\nVí dụ:\n- 迦陵頻伽 (Karyōbinga): Một loại chim thần th"
+  },
+  "comments": [
+    {
+      "id": "157287",
+      "lang": "vi",
+      "content_html": "<p>Gia Huyền Già, Thích Già !</p>",
+      "content_text": "Gia Huyền Già, Thích Già !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "kanji": "媛",
+  "meta": {
+    "weight": 684,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "ひめ"
+    ],
+    "am_han": "VIỆN, VIÊN"
+  },
+  "meaning": {
+    "vi": "người phụ nữ xinh đẹp, công chúa",
+    "en": "beautiful woman, princess"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/媛.svg"
+  },
+  "frequency": 1735,
+  "examples": [
+    "愛媛",
+    "媛"
+  ],
+  "explanation": {
+    "id": "6682",
+    "text": "媛 (đọc là \"en\" hoặc \"hime\") có nghĩa là \"công chúa\" hoặc \"người phụ nữ xinh đẹp\". \n\nVí dụ:\n- 媛 (hime): Công chúa.\n- 姫君 (himegimi): Quý cô, tiểu thư.\n- 美媛 (biyume): Người phụ nữ xinh đẹp."
+  },
+  "comments": [
+    {
+      "id": "152870",
+      "lang": "vi",
+      "content_html": "<p>Người phụ nữ đc bạn hữu làm móng vuốt cho như bà hoàng</p>",
+      "content_text": "Người phụ nữ đc bạn hữu làm móng vuốt cho như bà hoàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152871",
+      "lang": "vi",
+      "content_html": "<p>Trong Viện có Bà hoàng được người bạn làm móng cho.</p>",
+      "content_text": "Trong Viện có Bà hoàng được người bạn làm móng cho.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152872",
+      "lang": "vi",
+      "content_html": "<p>cần gì đi thẩm mĩ Viện khi Có con bạn Hữu xinh đẹp làm Móng tay.</p>",
+      "content_text": "cần gì đi thẩm mĩ Viện khi Có con bạn Hữu xinh đẹp làm Móng tay.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

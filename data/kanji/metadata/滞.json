@@ -1,0 +1,91 @@
+{
+  "kanji": "滞",
+  "meta": {
+    "weight": 1602,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ",
+      "テイ"
+    ],
+    "kun": [
+      "とどこお.る"
+    ],
+    "am_han": "TRỆ"
+  },
+  "meaning": {
+    "vi": "trì trệ, chậm trễ, quá hạn, nợ",
+    "en": "stagnate, be delayed, overdue, arrears"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/滞.svg"
+  },
+  "frequency": 1107,
+  "examples": [
+    "滞在",
+    "渋滞",
+    "停滞",
+    "滞納",
+    "滞り"
+  ],
+  "explanation": {
+    "id": "4962",
+    "text": "滞 (đọc là \"tai\") có nghĩa là \"ngừng trệ\", \"tụ tập\" để chỉ tình trạng không di chuyển hoặc bị đình trệ.  \nVí dụ:  \n- 滞在 (taizai): Sự lưu lại, tạm trú.  \n- 滞る (tadokoru): Bị trì hoãn, ngưng tr"
+  },
+  "comments": [
+    {
+      "id": "155049",
+      "lang": "vi",
+      "content_html": "<p>Vành đai ngập trìm trong nước, khiến cuộc sống bị đình Trệ</p>",
+      "content_text": "Vành đai ngập trìm trong nước, khiến cuộc sống bị đình Trệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155050",
+      "lang": "vi",
+      "content_html": "<p>Nước ngập ngang núi tràn xuống cả thành thị khiến tất cả bị ngưng TRỆ</p>",
+      "content_text": "Nước ngập ngang núi tràn xuống cả thành thị khiến tất cả bị ngưng TRỆ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155051",
+      "lang": "vi",
+      "content_html": "<p>động đất sóng thần làm đình trệ cung cấp nước cho người dân</p>",
+      "content_text": "động đất sóng thần làm đình trệ cung cấp nước cho người dân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

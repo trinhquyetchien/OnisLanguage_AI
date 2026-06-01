@@ -1,0 +1,73 @@
+{
+  "kanji": "篭",
+  "meta": {
+    "weight": 2015,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロウ",
+      "ル"
+    ],
+    "kun": [
+      "かご",
+      "こ.める",
+      "こも.る",
+      "こ.む"
+    ],
+    "am_han": "LỒNG, LUNG, LÙNG, LUÔNG, LUỒNG, TRÔNG"
+  },
+  "meaning": {
+    "vi": "ẩn mình, lồng, chuồng, ngụ ý",
+    "en": "seclude oneself, cage, coop, implied"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/篭.svg"
+  },
+  "frequency": 2237,
+  "examples": [
+    "篭"
+  ],
+  "explanation": {
+    "id": "8348",
+    "text": "篭 (đọc là \"kago\" hoặc \"rou\") có nghĩa là \"cái lồng\" hoặc \"hộp\", chỉ các vật dụng dùng để chứa đựng hoặc bảo vệ.  \nVí dụ:  \n- 篭城 (rogou): Thủ thành, phòng thủ trong một lâu đài hay khu vực đư"
+  },
+  "comments": [
+    {
+      "id": "155916",
+      "lang": "vi",
+      "content_html": "<p>chữ LỒNG hay LỘNG cho giống nghĩa cái giỏ</p>",
+      "content_text": "chữ LỒNG hay LỘNG cho giống nghĩa cái giỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155917",
+      "lang": "vi",
+      "content_html": "<p>chữ LỒNG cho giống nghĩa cái giỏ</p>",
+      "content_text": "chữ LỒNG cho giống nghĩa cái giỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "kanji": "竺",
+  "meta": {
+    "weight": 1980,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジク",
+      "チク",
+      "トク"
+    ],
+    "kun": [],
+    "am_han": "TRÚC, ĐỐC"
+  },
+  "meaning": {
+    "vi": "cây tre",
+    "en": "bamboo"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/竺.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3250",
+    "text": "竺 (đọc là \"shuku\") có nghĩa là \"bông\" hoặc \"vải bông\", thường liên quan đến các loại vải hoặc cây cỏ. \n\nVí dụ:\n- 竺紫 (shikushii): Một loại cây làm thuốc.\n- 竺仙 (shukusen): Một thuật ngữ chỉ sự"
+  },
+  "comments": [
+    {
+      "id": "220280",
+      "lang": "vi",
+      "content_html": "<p>夭竺少女: thiếu nữ thiên trúc- tên bài hát trong tây du ký</p>",
+      "content_text": "夭竺少女: thiếu nữ thiên trúc- tên bài hát trong tây du ký",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220281",
+      "lang": "vi",
+      "content_html": "<p>2 cây trúc ở nước thiên TRÚC</p>",
+      "content_text": "2 cây trúc ở nước thiên TRÚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

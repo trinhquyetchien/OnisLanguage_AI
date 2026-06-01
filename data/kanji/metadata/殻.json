@@ -1,0 +1,93 @@
+{
+  "kanji": "殻",
+  "meta": {
+    "weight": 1468,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク",
+      "コク",
+      "バイ"
+    ],
+    "kun": [
+      "から",
+      "がら"
+    ],
+    "am_han": "XÁC"
+  },
+  "meaning": {
+    "vi": "trấu, vỏ hạt",
+    "en": "husk, nut shell"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/殻.svg"
+  },
+  "frequency": 1892,
+  "examples": [
+    "殻",
+    "地殻",
+    "貝殻",
+    "抜け殻",
+    "吸殻"
+  ],
+  "explanation": {
+    "id": "905",
+    "text": "殻 (đọc là \"kara\") có nghĩa là \"vỏ\", chỉ lớp bảo vệ bên ngoài của một vật thể. \n\nVí dụ:\n- 殻付き (karatsuki): Có vỏ, như trứng hoặc hải sản.\n- 殻 (kara): Vỏ, lớp bọc bên ngoài.\n- 殻を破る (kara o yab"
+  },
+  "comments": [
+    {
+      "id": "154720",
+      "lang": "vi",
+      "content_html": "<p>Vũ Khí và XÁC binh Sĩ nằm ngổn ngang như VỎ chuối</p>",
+      "content_text": "Vũ Khí và XÁC binh Sĩ nằm ngổn ngang như VỎ chuối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154721",
+      "lang": "vi",
+      "content_html": "<p>Kẻ sỉ dùng binh khí đào được cái xác dưới đất</p>",
+      "content_text": "Kẻ sỉ dùng binh khí đào được cái xác dưới đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154722",
+      "lang": "vi",
+      "content_html": "<p>Loài giáp XÁC là loài vật có VỎ che chắn cơ thể khỏi các xâm hại bên ngoài như binh KHÍ (cây TÙ)</p>",
+      "content_text": "Loài giáp XÁC là loài vật có VỎ che chắn cơ thể khỏi các xâm hại bên ngoài như binh KHÍ (cây TÙ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

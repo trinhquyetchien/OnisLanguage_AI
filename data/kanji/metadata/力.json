@@ -1,0 +1,92 @@
+{
+  "kanji": "力",
+  "meta": {
+    "weight": 343,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョク",
+      "リキ",
+      "リイ"
+    ],
+    "kun": [
+      "ちから"
+    ],
+    "am_han": "LỰC"
+  },
+  "meaning": {
+    "vi": "sức mạnh, quyền lực",
+    "en": "power, strength, strong, strain, bear up, exert"
+  },
+  "stroke": {
+    "count": 2,
+    "svg": "assets/svg/力.svg"
+  },
+  "frequency": 62,
+  "examples": [
+    "力",
+    "能力",
+    "努力",
+    "協力",
+    "魅力"
+  ],
+  "explanation": {
+    "id": "8150",
+    "text": "力 (đọc là \"ryoku\" hoặc \"chikara\") có nghĩa là \"sức mạnh\", \"năng lực\" để chỉ khả năng, sức lực hoặc năng lượng của con người hoặc đối tượng nào đó.  \nVí dụ:  \n- 力士 (rikishi): Đô vật Sumo.  \n-"
+  },
+  "comments": [
+    {
+      "id": "542",
+      "lang": "vi",
+      "content_html": "<p>Người đàng ông cơ bắp có <strong>sức mạnh</strong></p>",
+      "content_text": "Người đàng ông cơ bắp có\nsức mạnh",
+      "image_url": "https://jpdictionary.com/upload/images/62977c82e9213.jpg",
+      "image_path": "assets/images/力_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152061",
+      "lang": "vi",
+      "content_html": "<p>Đại Ka カ (ka trong bảng katakana) phải có Lực 力</p>",
+      "content_text": "Đại Ka カ (ka trong bảng katakana) phải có Lực 力",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158278",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>力 (ちから): sức mạnh<br>能力 (のうりょく): năng lực</p>",
+      "content_text": "JLPT N4\n力 (ちから): sức mạnh\n能力 (のうりょく): năng lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

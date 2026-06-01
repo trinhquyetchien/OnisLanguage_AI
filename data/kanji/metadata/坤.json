@@ -1,0 +1,33 @@
+{
+  "kanji": "坤",
+  "meta": {
+    "weight": 553,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン"
+    ],
+    "kun": [
+      "つち",
+      "ひつじさる"
+    ],
+    "am_han": "KHÔN"
+  },
+  "meaning": {
+    "vi": "dấu hiệu bói toán, đất đai, trái đất",
+    "en": "divination sign, land, earth"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/坤.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2685",
+    "text": "坤 (đọc là \"kon\") có nghĩa là \"đất\", \"mặt đất\", thường được liên kết với yếu tố âm trong triết lý ngũ hành. \n\nVí dụ:\n- 坤道 (kondō): Con đường của đất, thường chỉ đường lối sự sống.\n- 坤卦 (kunka"
+  },
+  "comments": []
+}

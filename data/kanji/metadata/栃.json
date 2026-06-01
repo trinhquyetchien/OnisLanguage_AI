@@ -1,0 +1,85 @@
+{
+  "kanji": "栃",
+  "meta": {
+    "weight": 1334,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "とち"
+    ],
+    "am_han": "LỊCH"
+  },
+  "meaning": {
+    "vi": "hạt dẻ ngựa, (kokuji)",
+    "en": "horse chestnut, (kokuji)"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/栃.svg"
+  },
+  "frequency": 1427,
+  "examples": [
+    "栃木",
+    "栃"
+  ],
+  "explanation": {
+    "id": "5977",
+    "text": "栃 (đọc là \"tochi\") có nghĩa là \"cây bạch dương\" hoặc chỉ các loại cây khác trong họ bạch dương. Chữ này thường liên quan đến gỗ hoặc các sản phẩm từ cây.\n\nVí dụ:\n- 栃木県 (Tochigi-ken): Tỉnh To"
+  },
+  "comments": [
+    {
+      "id": "154474",
+      "lang": "vi",
+      "content_html": "<p>hàng cạn cây dẻ được trồng ở vách núi</p>",
+      "content_text": "hàng cạn cây dẻ được trồng ở vách núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154475",
+      "lang": "vi",
+      "content_html": "<p>DẺ là một loại CÂY mọc ở SƯỜN NÚI và có giá bán 10 ngàn 1 kg.</p>",
+      "content_text": "DẺ là một loại CÂY mọc ở SƯỜN NÚI và có giá bán 10 ngàn 1 kg.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154476",
+      "lang": "vi",
+      "content_html": "<p>lại chân núi chỗ cây trồng, có bán HẠT DẺ 10 nghìn 1 cân</p>",
+      "content_text": "lại chân núi chỗ cây trồng, có bán HẠT DẺ 10 nghìn 1 cân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

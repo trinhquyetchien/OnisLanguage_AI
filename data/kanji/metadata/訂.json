@@ -1,0 +1,87 @@
+{
+  "kanji": "訂",
+  "meta": {
+    "weight": 2453,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "ただ.す"
+    ],
+    "am_han": "ĐÍNH"
+  },
+  "meaning": {
+    "vi": "sửa đổi, sửa chữa, quyết định",
+    "en": "revise, correct, decide"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/訂.svg"
+  },
+  "frequency": 1690,
+  "examples": [
+    "訂正",
+    "改訂"
+  ],
+  "explanation": {
+    "id": "5591",
+    "text": "訂 (đọc là \"tei\") có nghĩa là \"sửa đổi\", \"đặt lại\" để chỉ các hành động liên quan đến việc chỉnh sửa hoặc xác nhận thông tin, tài liệu.  \nVí dụ:  \n- 訂正 (teisei): Sửa chữa, điều chỉnh.  \n- 訂立 "
+  },
+  "comments": [
+    {
+      "id": "156828",
+      "lang": "vi",
+      "content_html": "<p>tôi ĐÍNH chính lại những lời tôi vừa phát NGÔN chắc như ĐINH đóng cột...</p>",
+      "content_text": "tôi ĐÍNH chính lại những lời tôi vừa phát NGÔN chắc như ĐINH đóng cột...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156829",
+      "lang": "vi",
+      "content_html": "<p>Dùng ĐINH (丁) để ĐÍNH (訂) chính lại lời NÓI (言)</p>",
+      "content_text": "Dùng ĐINH (丁) để ĐÍNH (訂) chính lại lời NÓI (言)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156830",
+      "lang": "vi",
+      "content_html": "<p>Nhất quyết đính chính lại lời nói</p>",
+      "content_text": "Nhất quyết đính chính lại lời nói",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

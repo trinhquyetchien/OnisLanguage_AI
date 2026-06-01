@@ -1,0 +1,94 @@
+{
+  "kanji": "軽",
+  "meta": {
+    "weight": 2612,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ",
+      "キョウ",
+      "キン"
+    ],
+    "kun": [
+      "かる.い",
+      "かろ.やか",
+      "かろ.んじる"
+    ],
+    "am_han": "KHINH"
+  },
+  "meaning": {
+    "vi": "nhẹ, khinh suất",
+    "en": "lightly, trifling, unimportant"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/軽.svg"
+  },
+  "frequency": 790,
+  "examples": [
+    "気軽",
+    "軽い",
+    "軽減",
+    "軽",
+    "手軽"
+  ],
+  "explanation": {
+    "id": "2031",
+    "text": "軽 (đọc là \"kei\" hoặc \"karui\") có nghĩa là \"nhẹ\", chỉ sự nhẹ nhàng về trọng lượng hoặc mức độ. \n\nVí dụ:\n- 軽い (karui): Nhẹ.\n- 軽快 (keikai): Nhịp điệu vui tươi, nhẹ nhàng.\n- 軽蔑 (keibetsu): Sự kh"
+  },
+  "comments": [
+    {
+      "id": "1039",
+      "lang": "vi",
+      "content_html": "<p>Chiếc xe hơi (車) <strong>nhẹ </strong>sẽ chạy nếu ta đẩy bằng tay.</p>",
+      "content_text": "Chiếc xe hơi (車)\nnhẹ\nsẽ chạy nếu ta đẩy bằng tay.",
+      "image_url": "https://jpdictionary.com/upload/images/62a1e1db70523.jpg",
+      "image_path": "assets/images/軽_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157224",
+      "lang": "vi",
+      "content_html": "<p>Vừa có Xe Vừa có Đât nên người ta không dám Khinh.</p>",
+      "content_text": "Vừa có Xe Vừa có Đât nên người ta không dám Khinh.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191201",
+      "lang": "vi",
+      "content_html": "<p><strong>nhẹ</strong></p>",
+      "content_text": "nhẹ",
+      "image_url": "https://jpdictionary.com/upload/images/648ad98657d26.jpg",
+      "image_path": "assets/images/軽_3.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

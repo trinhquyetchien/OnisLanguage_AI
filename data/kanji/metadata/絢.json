@@ -1,0 +1,84 @@
+{
+  "kanji": "絢",
+  "meta": {
+    "weight": 2076,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [],
+    "am_han": "HUYẾN"
+  },
+  "meaning": {
+    "vi": "thiết kế vải rực rỡ",
+    "en": "brilliant fabric design"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/絢.svg"
+  },
+  "frequency": 2315,
+  "examples": [
+    "絢爛"
+  ],
+  "explanation": {
+    "id": "72",
+    "text": "絢 (đọc là \"ken\") có nghĩa là \"rực rỡ\", \"sặc sỡ\" để chỉ sự lấp lánh, đẹp đẽ của màu sắc hoặc ánh sáng.  \nVí dụ:  \n- 絢爛 (kenran): Lộng lẫy, huy hoàng.  \n- 絢めく (ayameku): Rực rỡ, chói lọi.  \n- "
+  },
+  "comments": [
+    {
+      "id": "156047",
+      "lang": "vi",
+      "content_html": "<p>nội trong vòng 1 ngày phải làm xong sợi dây trang sức</p>",
+      "content_text": "nội trong vòng 1 ngày phải làm xong sợi dây trang sức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156048",
+      "lang": "vi",
+      "content_html": "<p>sợi trang sức rực rỡ đeo mấy tuần không chán</p>",
+      "content_text": "sợi trang sức rực rỡ đeo mấy tuần không chán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156049",
+      "lang": "vi",
+      "content_html": "<p>Sợi tơ trong ngày rực rỡ HUYẾN loạn</p>",
+      "content_text": "Sợi tơ trong ngày rực rỡ HUYẾN loạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

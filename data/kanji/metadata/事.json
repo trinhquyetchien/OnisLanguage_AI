@@ -1,0 +1,93 @@
+{
+  "kanji": "事",
+  "meta": {
+    "weight": 112,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ",
+      "ズ"
+    ],
+    "kun": [
+      "こと",
+      "つか.う",
+      "つか.える"
+    ],
+    "am_han": "SỰ"
+  },
+  "meaning": {
+    "vi": "sự vật, sự việc",
+    "en": "matter, thing, fact, business, reason, possibly"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/事.svg"
+  },
+  "frequency": 18,
+  "examples": [
+    "事",
+    "仕事",
+    "記事",
+    "事業",
+    "事件"
+  ],
+  "explanation": {
+    "id": "3174",
+    "text": "事 (đọc là \"ji\" hoặc \"koto\") có nghĩa là \"việc\", \"sự việc\", chỉ các hành động hoặc sự kiện trong cuộc sống hàng ngày.\nVí dụ:\n- 仕事 (shigoto): Công việc, nghề nghiệp.\n- 事務 (jimu): Văn phòng, cô"
+  },
+  "comments": [
+    {
+      "id": "36887",
+      "lang": "vi",
+      "content_html": "<p>Tôi viết những <strong>việc </strong>sẽ làm.</p>",
+      "content_text": "Tôi viết những\nviệc\nsẽ làm.",
+      "image_url": "https://jpdictionary.com/upload/images/62ade043e0860.jpg",
+      "image_path": "assets/images/事_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190866",
+      "lang": "vi",
+      "content_html": "<p><strong>công việc</strong></p>",
+      "content_text": "công việc",
+      "image_url": "https://jpdictionary.com/upload/images/648a5fd8cc435.jpg",
+      "image_path": "assets/images/事_2.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158264",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>仕事 (しごと): công việc<br>火事 (かじ): hỏa hoạn<br>事故 (じこ): tai nạn, sự cố<br>事務所 (じむしょ): văn phòng<br>食事 (しょくじ): bữa ăn<br>大事 (だいじ): quan trọng<br>返事 (へんじ): trả lời<br>用事 (ようじ): việc bận<br>家事 (かじ): việc nhà</p>",
+      "content_text": "JLPT N4\n仕事 (しごと): công việc\n火事 (かじ): hỏa hoạn\n事故 (じこ): tai nạn, sự cố\n事務所 (じむしょ): văn phòng\n食事 (しょくじ): bữa ăn\n大事 (だいじ): quan trọng\n返事 (へんじ): trả lời\n用事 (ようじ): việc bận\n家事 (かじ): việc nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

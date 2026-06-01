@@ -1,0 +1,88 @@
+{
+  "kanji": "凸",
+  "meta": {
+    "weight": 305,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トツ"
+    ],
+    "kun": [
+      "でこ"
+    ],
+    "am_han": "ĐỘT"
+  },
+  "meaning": {
+    "vi": "lồi, bọ hung, không đồng đều",
+    "en": "convex, beetle brow, uneven"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/凸.svg"
+  },
+  "frequency": 2143,
+  "examples": [
+    "凸",
+    "凹凸",
+    "凸凹"
+  ],
+  "explanation": {
+    "id": "5981",
+    "text": "凸 (đọc là \"totsu\") có nghĩa là \"lồi\" hoặc \"nhô lên\", thường chỉ hình dạng hoặc đặc điểm có phần nhô ra. \n\nVí dụ:\n- 凸レンズ (totsu renzu): Thấu kính lồi.\n- 凸凹 (dekoboko): Lồi lõm, không bằng phẳ"
+  },
+  "comments": [
+    {
+      "id": "151955",
+      "lang": "vi",
+      "content_html": "<p>con cu Đột ngột Lồi lên</p>",
+      "content_text": "con cu Đột ngột Lồi lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151956",
+      "lang": "vi",
+      "content_html": "<p>凸凹 でこぼこ Lồi lõm</p>",
+      "content_text": "凸凹 でこぼこ Lồi lõm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151957",
+      "lang": "vi",
+      "content_html": "<p>Hình chữ nhật nhưng lại Đột ngột có phần lồi ra.</p>",
+      "content_text": "Hình chữ nhật nhưng lại Đột ngột có phần lồi ra.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

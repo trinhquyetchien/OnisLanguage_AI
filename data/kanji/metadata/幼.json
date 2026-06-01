@@ -1,0 +1,90 @@
+{
+  "kanji": "幼",
+  "meta": {
+    "weight": 854,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "おさな.い"
+    ],
+    "am_han": "ẤU"
+  },
+  "meaning": {
+    "vi": "thời thơ ấu",
+    "en": "infancy, childhood"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/幼.svg"
+  },
+  "frequency": 1227,
+  "examples": [
+    "幼稚園",
+    "幼児",
+    "幼い",
+    "幼少",
+    "乳幼児"
+  ],
+  "explanation": {
+    "id": "7842",
+    "text": "幼 (đọc là \"yō\") có nghĩa là \"trẻ em\", \"non nớt\" để chỉ sự trẻ trung, chưa trưởng thành.  \nVí dụ:  \n- 幼稚園 (yōchien): Nhà trẻ, mẫu giáo.  \n- 幼い (osanai): Trẻ con, còn nhỏ.  \n- 幼少期 (yōshōki): T"
+  },
+  "comments": [
+    {
+      "id": "153302",
+      "lang": "vi",
+      "content_html": "<p>Lực(力) mà nhỏ (幺) thì là bọn trẻ con (幼 )- ấu</p>",
+      "content_text": "Lực(力) mà nhỏ (幺) thì là bọn trẻ con (幼 )- ấu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153303",
+      "lang": "vi",
+      "content_html": "<p>YÊU LỰC thời thơ ẤU</p>",
+      "content_text": "YÊU LỰC thời thơ ẤU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153304",
+      "lang": "vi",
+      "content_html": "<p>thời ẤU THƠ NON NỚT  --  vừa NHỎ vừa muốn có LỰC</p>",
+      "content_text": "thời ẤU THƠ NON NỚT  --  vừa NHỎ vừa muốn có LỰC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

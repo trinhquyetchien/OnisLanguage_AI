@@ -1,0 +1,91 @@
+{
+  "kanji": "収",
+  "meta": {
+    "weight": 423,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "おさ.める",
+      "おさ.まる"
+    ],
+    "am_han": "THU"
+  },
+  "meaning": {
+    "vi": "thu nhập, thu hoạch",
+    "en": "income, obtain, reap, pay, supply, store"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/収.svg"
+  },
+  "frequency": 337,
+  "examples": [
+    "収入",
+    "収集",
+    "収録",
+    "収益",
+    "回収"
+  ],
+  "explanation": {
+    "id": "3466",
+    "text": "収 (đọc là \"shuu\") có nghĩa là \"thu nhận\", \"thu hoạch\" để chỉ các hành động liên quan đến việc thu thập, tiếp nhận hoặc tích lũy.\n\nVí dụ:\n- 収入 (shuunyuu): Thu nhập.\n- 収集 (shuushuu): Sưu tầm, "
+  },
+  "comments": [
+    {
+      "id": "152250",
+      "lang": "vi",
+      "content_html": "<p>Nghề Tay thu lượm 4 mùa</p>",
+      "content_text": "Nghề Tay thu lượm 4 mùa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152251",
+      "lang": "vi",
+      "content_html": "<p>làm lại 4 lần nữa mới được Thu nhập.</p>",
+      "content_text": "làm lại 4 lần nữa mới được Thu nhập.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152252",
+      "lang": "vi",
+      "content_html": "<p>Lại Thu nhập được 4 xu</p>",
+      "content_text": "Lại Thu nhập được 4 xu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

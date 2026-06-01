@@ -1,0 +1,94 @@
+{
+  "kanji": "遣",
+  "meta": {
+    "weight": 2683,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "つか.う",
+      "-つか.い",
+      "-づか.い",
+      "つか.わす",
+      "や.る"
+    ],
+    "am_han": "KHIỂN, KHÁN"
+  },
+  "meaning": {
+    "vi": "gửi, cho, tặng, làm, đảm nhận",
+    "en": "dispatch, despatch, send, give, donate, do, undertake"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/遣.svg"
+  },
+  "frequency": 664,
+  "examples": [
+    "派遣",
+    "小遣い",
+    "無駄遣い",
+    "気遣い",
+    "言葉遣い"
+  ],
+  "explanation": {
+    "id": "2182",
+    "text": "遣 (đọc là \"ken\" hoặc \"tsuka\") có nghĩa là \"gửi\", \"phái\" để chỉ hành động cử người hoặc gửi đồ vật đi đâu đó.\n\nVí dụ:\n- 遣い (tsukai): Sự gửi đi, phái cử.\n- 遣る (yaru): Gửi, thực hiện (thường dù"
+  },
+  "comments": [
+    {
+      "id": "157390",
+      "lang": "vi",
+      "content_html": "<p>Ông quan được cử đi khảo sát bên trong 中 của mộtー con đường</p>",
+      "content_text": "Ông quan được cử đi khảo sát bên trong 中 của mộtー con đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157391",
+      "lang": "vi",
+      "content_html": "<p>Cử 1 ông quan đi sang TQ</p>",
+      "content_text": "Cử 1 ông quan đi sang TQ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157392",
+      "lang": "vi",
+      "content_html": "<p>Quan Trung quốc LÀM công việc điều KHIỂN giao thông</p>",
+      "content_text": "Quan Trung quốc LÀM công việc điều KHIỂN giao thông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

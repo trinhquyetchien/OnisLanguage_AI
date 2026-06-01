@@ -1,0 +1,84 @@
+{
+  "kanji": "陪",
+  "meta": {
+    "weight": 2829,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バイ"
+    ],
+    "kun": [],
+    "am_han": "BỒI"
+  },
+  "meaning": {
+    "vi": "vâng lời, theo dõi, đồng hành, tham dự vào",
+    "en": "obeisance, follow, accompany, attend on"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/陪.svg"
+  },
+  "frequency": 1917,
+  "examples": [
+    "陪審"
+  ],
+  "explanation": {
+    "id": "6303",
+    "text": "陪 (đọc là \"bai\") có nghĩa là \"accompany\" hoặc \"hỗ trợ\", chỉ hành động đi kèm hoặc hỗ trợ ai đó.  \nVí dụ:  \n- 同陪 (dōbai): Đi cùng, đồng hành.  \n- 陪審 (baishin): Bồi thẩm, người tham gia vào vi"
+  },
+  "comments": [
+    {
+      "id": "157696",
+      "lang": "vi",
+      "content_html": "<p>Bộ (部) với Bồi (陪) giống nhau vãi nồi</p>",
+      "content_text": "Bộ (部) với Bồi (陪) giống nhau vãi nồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157697",
+      "lang": "vi",
+      "content_html": "<p>Bộ (部) trưởng mà đổi 阝lên trước là Bồi thẩm đoàn</p>",
+      "content_text": "Bộ (部) trưởng mà đổi 阝lên trước là Bồi thẩm đoàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157698",
+      "lang": "vi",
+      "content_html": "<p>Bộ Trưởng dịch  阝mông lên trên là chức Bồi thẩm đoàn.</p>",
+      "content_text": "Bộ Trưởng dịch  阝mông lên trên là chức Bồi thẩm đoàn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

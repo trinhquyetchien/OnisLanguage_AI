@@ -1,0 +1,91 @@
+{
+  "kanji": "騰",
+  "meta": {
+    "weight": 2959,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "あが.る",
+      "のぼ.る"
+    ],
+    "am_han": "ĐẰNG"
+  },
+  "meaning": {
+    "vi": "nhảy lên, tăng lên, tiến lên, đi",
+    "en": "leaping up, jumping up, rising, advancing, going"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/騰.svg"
+  },
+  "frequency": 1420,
+  "examples": [
+    "高騰",
+    "沸騰",
+    "急騰",
+    "暴騰",
+    "騰落"
+  ],
+  "explanation": {
+    "id": "5892",
+    "text": "騰 (đọc là \"tō\") có nghĩa là \"bay lên\", \"tăng vọt\" để chỉ sự gia tăng hoặc di chuyển lên cao một cách nhanh chóng.  \nVí dụ:  \n- 騰落 (tōraku): Sự tăng giảm, biến động (thị trường chứng khoán). "
+  },
+  "comments": [
+    {
+      "id": "158002",
+      "lang": "vi",
+      "content_html": "<p>TRẪM nhảy lên NGỰA tiến về ĐẰNG xa</p>",
+      "content_text": "TRẪM nhảy lên NGỰA tiến về ĐẰNG xa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158003",
+      "lang": "vi",
+      "content_html": "<p>THÁNG nọ, con NGỰA đột nhiên phi lại ĐẰNG 2 đám cháy lớn (火</p>",
+      "content_text": "THÁNG nọ, con NGỰA đột nhiên phi lại ĐẰNG 2 đám cháy lớn (火",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158004",
+      "lang": "vi",
+      "content_html": "<p>2 người cưỡi chim bay lên cung trăng</p>",
+      "content_text": "2 người cưỡi chim bay lên cung trăng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

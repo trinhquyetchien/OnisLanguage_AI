@@ -1,0 +1,92 @@
+{
+  "kanji": "釣",
+  "meta": {
+    "weight": 2742,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "つ.る",
+      "つ.り",
+      "つ.り-"
+    ],
+    "am_han": "ĐIẾU"
+  },
+  "meaning": {
+    "vi": "câu cá, bắt, quyến rũ",
+    "en": "angling, fish, catch, allure, ensnare"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/釣.svg"
+  },
+  "frequency": 1542,
+  "examples": [
+    "釣り",
+    "釣",
+    "お釣り",
+    "釣果",
+    "釣る"
+  ],
+  "explanation": {
+    "id": "5514",
+    "text": "釣 (đọc là \"chō\", \"tsuri\") có nghĩa là \"câu cá\", chỉ các hành động liên quan đến việc câu cá hoặc bẫy mồi.  \nVí dụ:  \n- 釣り (tsuri): Câu cá.  \n- 釣竿 (tsurizao): Đồ câu cá, cần câu.  \n- 釣果 (chōk"
+  },
+  "comments": [
+    {
+      "id": "157531",
+      "lang": "vi",
+      "content_html": "<p>Cần câu làm bằng sắt có bao móc câu mồi ở giữa</p>",
+      "content_text": "Cần câu làm bằng sắt có bao móc câu mồi ở giữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157532",
+      "lang": "vi",
+      "content_html": "<p>nhờ thu ĐIẾU mà nguyễn khuyến kiếm được BAO TIỀN</p>",
+      "content_text": "nhờ thu ĐIẾU mà nguyễn khuyến kiếm được BAO TIỀN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157533",
+      "lang": "vi",
+      "content_html": "<p>cầm cần móc kim loại và cái bao để đi câu cá</p>",
+      "content_text": "cầm cần móc kim loại và cái bao để đi câu cá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

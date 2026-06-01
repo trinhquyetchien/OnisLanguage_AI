@@ -1,0 +1,86 @@
+{
+  "kanji": "猿",
+  "meta": {
+    "weight": 1725,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "さる"
+    ],
+    "am_han": "VIÊN"
+  },
+  "meaning": {
+    "vi": "con khỉ",
+    "en": "monkey"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/猿.svg"
+  },
+  "frequency": 1772,
+  "examples": [
+    "猿"
+  ],
+  "explanation": {
+    "id": "475",
+    "text": "猿 (đọc là \"en\" hoặc \"saru\") có nghĩa là \"khỉ\", chỉ loài động vật thuộc họ linh trưởng.  \nVí dụ:  \n- 猿 (saru): Khỉ.  \n- 猿人 (enjin): Người khỉ, chỉ tổ tiên cổ đại.  \n- 猿回し (sarumawashi): Nghệ "
+  },
+  "comments": [
+    {
+      "id": "155299",
+      "lang": "vi",
+      "content_html": "<p>công viên có nuôi con khỉ lợn</p>",
+      "content_text": "công viên có nuôi con khỉ lợn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155300",
+      "lang": "vi",
+      "content_html": "<p>Công viên (袁) có nuôi con khỉ (vượn) (猿) đầu chó (犭)</p>",
+      "content_text": "Công viên (袁) có nuôi con khỉ (vượn) (猿) đầu chó (犭)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155301",
+      "lang": "vi",
+      "content_html": "<p>Khỉ đầu chó mặc y phục của người nhưng miệng đầy đất cát</p>",
+      "content_text": "Khỉ đầu chó mặc y phục của người nhưng miệng đầy đất cát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

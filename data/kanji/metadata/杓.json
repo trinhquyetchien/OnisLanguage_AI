@@ -1,0 +1,70 @@
+{
+  "kanji": "杓",
+  "meta": {
+    "weight": 1291,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャク",
+      "チョウ",
+      "テキ",
+      "ヒョウ"
+    ],
+    "kun": [
+      "ひしゃく"
+    ],
+    "am_han": "TIÊU, THƯỢC"
+  },
+  "meaning": {
+    "vi": "muôi, muỗng",
+    "en": "ladle, scoop"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/杓.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3375",
+    "text": "杓 (đọc là \"shaku\") có nghĩa là \"cái muỗng\" hoặc \"cái xô\", thường dùng để chỉ các dụng cụ để múc hoặc đong.  \nVí dụ:  \n- 杓子 (shakushi): Muỗng múc cơm.  \n- 杓 (shaku): Cái xô, dụng cụ để múc nư"
+  },
+  "comments": [
+    {
+      "id": "219788",
+      "lang": "vi",
+      "content_html": "<p>Cây mà làm ra muôi thìa là cây hạt TIÊU</p>",
+      "content_text": "Cây mà làm ra muôi thìa là cây hạt TIÊU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219789",
+      "lang": "vi",
+      "content_html": "<p>Lấy Cây xuyên qua cái Bao chỗ đánh dấu Chủ làm cái Môi (cái gáo) (múc nước)</p>",
+      "content_text": "Lấy Cây xuyên qua cái Bao chỗ đánh dấu Chủ làm cái Môi (cái gáo) (múc nước)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

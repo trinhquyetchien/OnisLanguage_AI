@@ -1,0 +1,69 @@
+{
+  "kanji": "荻",
+  "meta": {
+    "weight": 2286,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テキ"
+    ],
+    "kun": [
+      "おぎ"
+    ],
+    "am_han": "ĐỊCH"
+  },
+  "meaning": {
+    "vi": "cây sậy, vội vàng",
+    "en": "reed, rush"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/荻.svg"
+  },
+  "frequency": 1630,
+  "examples": [
+    "荻"
+  ],
+  "explanation": {
+    "id": "558",
+    "text": "荻 (đọc là \"ogi\") có nghĩa là \"cỏ lau\", một loại cỏ thường mọc ở ven sông hoặc vùng đất ẩm ướt. \n\nVí dụ:\n- 荻原 (Ogiwara): Tên riêng, có thể chỉ đến nơi có nhiều cỏ lau.\n- 荻の葉 (ogi no ha): Lá c"
+  },
+  "comments": [
+    {
+      "id": "156530",
+      "lang": "vi",
+      "content_html": "<p>địch thủ của thảo là con mèo hệ lửa</p>",
+      "content_text": "địch thủ của thảo là con mèo hệ lửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156531",
+      "lang": "vi",
+      "content_html": "<p>cỏ lau là loại cỏ (艹)có màu giống màu con chó ( 犭) bị lửa (火)thiêu cháy sém</p>",
+      "content_text": "cỏ lau là loại cỏ (艹)có màu giống màu con chó ( 犭) bị lửa (火)thiêu cháy sém",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

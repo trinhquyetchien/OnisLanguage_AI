@@ -1,0 +1,105 @@
+{
+  "kanji": "層",
+  "meta": {
+    "weight": 784,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [],
+    "am_han": "TẦNG"
+  },
+  "meaning": {
+    "vi": "tầng, tầng lớp",
+    "en": "stratum, social class, layer, story, floor"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/層.svg"
+  },
+  "frequency": 801,
+  "examples": [
+    "層",
+    "一層",
+    "階層",
+    "高層",
+    "上層"
+  ],
+  "explanation": {
+    "id": "20307",
+    "text": "層 (đọc là \"satsu\") có nghĩa là \"giết\", thường chỉ các hành động liên quan đến việc giết chóc hoặc tiêu diệt.  \nVí dụ:  \n- 殺人 (satsujin): Giết người.  \n- 殺す (korosu): Giết.  \n- 自殺 (jisatsu): "
+  },
+  "comments": [
+    {
+      "id": "153124",
+      "lang": "vi",
+      "content_html": "<p>曽：Tằng(そう、そ、ぞう)<br><br>層: Tằng ở nhà nhiều tầng<br>憎：Tằng giận tim dựng đứng lên<br>贈：Tằng được tặng bảo bối<br>増：Tằng mua thêm đất</p>",
+      "content_text": "曽：Tằng(そう、そ、ぞう)\n層: Tằng ở nhà nhiều tầng\n憎：Tằng giận tim dựng đứng lên\n贈：Tằng được tặng bảo bối\n増：Tằng mua thêm đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190722",
+      "lang": "vi",
+      "content_html": "<p>thi thể trên mảnh ruộng ngày qua ngày xếp thành Tầng</p>",
+      "content_text": "thi thể trên mảnh ruộng ngày qua ngày xếp thành Tầng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "153125",
+      "lang": "vi",
+      "content_html": "<p>Leo lên nhà nhiều TẰNG có ngày đứt hơi chết thành tử THI</p>",
+      "content_text": "Leo lên nhà nhiều TẰNG có ngày đứt hơi chết thành tử THI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153126",
+      "lang": "vi",
+      "content_html": "<p>Thi thể được xếp tầng lớp lên 8 cái ruộng ngày chủ nhật</p>",
+      "content_text": "Thi thể được xếp tầng lớp lên 8 cái ruộng ngày chủ nhật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

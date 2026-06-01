@@ -1,0 +1,87 @@
+{
+  "kanji": "戚",
+  "meta": {
+    "weight": 1034,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソク",
+      "セキ"
+    ],
+    "kun": [
+      "いた.む",
+      "うれ.える",
+      "みうち"
+    ],
+    "am_han": "THÍCH"
+  },
+  "meaning": {
+    "vi": "đau buồn, bà con",
+    "en": "grieve, relatives"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/戚.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4391",
+    "text": "戚 (đọc là \"shitsu\") có nghĩa là \"họ hàng\", thường dùng để chỉ mối quan hệ huyết thống hoặc thân thuộc. \n\nVí dụ:\n- 戚戚 (shicchaku): Mối quan hệ thân thiết, gần gũi.\n- 叔戚 (shukushitsu): Chú, bá"
+  },
+  "comments": [
+    {
+      "id": "219564",
+      "lang": "vi",
+      "content_html": "<p>THÍCH Tiểu hoà Thượng, Qua Núi thăm người thân</p>",
+      "content_text": "THÍCH Tiểu hoà Thượng, Qua Núi thăm người thân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219565",
+      "lang": "vi",
+      "content_html": "<p>小 TIỂU 戈 QUA 上 THƯỢNG thích tu hành ở 厂sườn núi</p>",
+      "content_text": "小 TIỂU 戈 QUA 上 THƯỢNG thích tu hành ở 厂sườn núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219566",
+      "lang": "vi",
+      "content_html": "<p>Trong cuộc chiến trẻ con đc coi là họ hàng thân thích với bề trên</p>",
+      "content_text": "Trong cuộc chiến trẻ con đc coi là họ hàng thân thích với bề trên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

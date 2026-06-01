@@ -1,0 +1,107 @@
+{
+  "kanji": "器",
+  "meta": {
+    "weight": 524,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "うつわ"
+    ],
+    "am_han": "KHÍ"
+  },
+  "meaning": {
+    "vi": "Dụng cụ, tàu, Hộp đựng, thực hiện, khả năng, thùng đựng hàng, dụng cụ, bộ",
+    "en": "utensil, vessel, receptacle, implement, instrument, ability, container, tool, set"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/器.svg"
+  },
+  "frequency": 525,
+  "examples": [
+    "器",
+    "機器",
+    "楽器",
+    "武器",
+    "兵器"
+  ],
+  "explanation": {
+    "id": "20304",
+    "text": "器 (đọc là \"ki\" hoặc \"utsuwa\") có nghĩa là \"dụng cụ\", \"bình chứa\", chỉ các vật dụng, thiết bị hay đồ đạc dùng để phục vụ một mục đích nào đó.\n\nVí dụ:\n- 器具 (kigu): Dụng cụ, thiết bị.\n- 食器 (sho"
+  },
+  "comments": [
+    {
+      "id": "152500",
+      "lang": "vi",
+      "content_html": "<p>KHÍ cụ này To bằng 4 cái Miệng</p>",
+      "content_text": "KHÍ cụ này To bằng 4 cái Miệng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152501",
+      "lang": "vi",
+      "content_html": "<p>mấy cái Miệng(口) Lớn (大) là vũ Khí (器) lợi hại của mấy bà hàng xóm</p>",
+      "content_text": "mấy cái Miệng(口) Lớn (大) là vũ Khí (器) lợi hại của mấy bà hàng xóm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222005",
+      "lang": "vi",
+      "content_html": "<p>Gồm <strong>4 chữ 口 (khẩu)</strong>: đại diện cho <strong>miệng</strong>, tượng trưng cho các <strong>vật chứa, đồ dùng có miệng</strong> (như ly, bình, nồi…).</p><p>Thêm chữ <strong>犬 (khuyển – con chó)</strong>: hình ảnh <strong>con chó trông giữ vật dụng</strong>, bảo vệ tài sản.</p><p>→ &nbsp;Tạo nên hình tượng: <strong>đồ vật có miệng, cần được canh giữ</strong> → nghĩa gốc là <strong>dụng cụ, đồ chứa</strong>.<br><br>Ảnh: baike.baidu.com</p>",
+      "content_text": "Gồm\n4 chữ 口 (khẩu)\n: đại diện cho\nmiệng\n, tượng trưng cho các\nvật chứa, đồ dùng có miệng\n(như ly, bình, nồi…).\nThêm chữ\n犬 (khuyển – con chó)\n: hình ảnh\ncon chó trông giữ vật dụng\n, bảo vệ tài sản.\n→  Tạo nên hình tượng:\nđồ vật có miệng, cần được canh giữ\n→ nghĩa gốc là\ndụng cụ, đồ chứa\n.\nẢnh: baike.baidu.com",
+      "image_url": "https://jpdictionary.com/upload/images/685d6f1a7c6c1.png",
+      "image_path": "assets/images/器_3.png",
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    },
+    {
+      "id": "152502",
+      "lang": "vi",
+      "content_html": "<p>Một cái CHẬU đựng đủ thức ăn cho 4 người (口) lớn (大</p>",
+      "content_text": "Một cái CHẬU đựng đủ thức ăn cho 4 người (口) lớn (大",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

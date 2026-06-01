@@ -1,0 +1,90 @@
+{
+  "kanji": "吹",
+  "meta": {
+    "weight": 464,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "ふ.く"
+    ],
+    "am_han": "XÚY"
+  },
+  "meaning": {
+    "vi": "thổi",
+    "en": "blow, breathe, puff, emit, smoke"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/吹.svg"
+  },
+  "frequency": 1133,
+  "examples": [
+    "吹き",
+    "吹く",
+    "吹奏楽",
+    "吹き替え",
+    "吹雪"
+  ],
+  "explanation": {
+    "id": "4202",
+    "text": "吹 (đọc là \"sui\" hoặc \"fuki\") có nghĩa là \"thổi\", chỉ các hành động liên quan đến việc thổi khí hoặc âm thanh.  \nVí dụ:  \n- 吹く (fuku): Thổi, phát ra âm thanh.  \n- 吹雪 (fubuki): Bão tuyết, tuyế"
+  },
+  "comments": [
+    {
+      "id": "152349",
+      "lang": "vi",
+      "content_html": "<p>THIẾU MỒM để THỔI</p>",
+      "content_text": "THIẾU MỒM để THỔI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152350",
+      "lang": "vi",
+      "content_html": "<p>thiếu 欠 miệng 口 thì sao thổi sáo</p>",
+      "content_text": "thiếu 欠 miệng 口 thì sao thổi sáo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152351",
+      "lang": "vi",
+      "content_html": "<p>Miệng bị khiếm khuyết XUY ra vẫn có thể thổi sáo</p>",
+      "content_text": "Miệng bị khiếm khuyết XUY ra vẫn có thể thổi sáo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

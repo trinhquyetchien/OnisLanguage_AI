@@ -1,0 +1,52 @@
+{
+  "kanji": "鐙",
+  "meta": {
+    "weight": 2796,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "あぶみ",
+      "たかつき",
+      "ひともし"
+    ],
+    "am_han": "ĐĂNG, ĐẶNG"
+  },
+  "meaning": {
+    "vi": "xương bàn đạp",
+    "en": "stirrup"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/鐙.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5883",
+    "text": "鐙 (đọc là \"abura\") có nghĩa là \"cái đèn\" hoặc \"đèn lồng\", thường chỉ đến những loại đèn dùng trong các phương tiện giao thông như xe ngựa. \n\nVí dụ:\n- 鐙灯 (aburato): Đèn lồng, đèn chiếu sáng.\n"
+  },
+  "comments": [
+    {
+      "id": "220930",
+      "lang": "vi",
+      "content_html": "<p>Kim đăng kí đi cúng</p>",
+      "content_text": "Kim đăng kí đi cúng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

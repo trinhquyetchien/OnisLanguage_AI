@@ -1,0 +1,90 @@
+{
+  "kanji": "壮",
+  "meta": {
+    "weight": 610,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "さかん"
+    ],
+    "am_han": "TRÁNG, TRANG"
+  },
+  "meaning": {
+    "vi": "mạnh mẽ, lưu manh, thịnh vượng",
+    "en": "robust, manhood, prosperity"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/壮.svg"
+  },
+  "frequency": 1657,
+  "examples": [
+    "壮大",
+    "壮絶",
+    "悲壮",
+    "壮観",
+    "壮"
+  ],
+  "explanation": {
+    "id": "4683",
+    "text": "壮 (đọc là \"sō\") có nghĩa là \"hùng mạnh\", \"vạm vỡ\" để chỉ sức khỏe, thể lực hoặc sự cường tráng.\n\nVí dụ:\n- 壮年 (sōnen): Độ tuổi trưởng thành, đang ở độ tuổi sung sức.\n- 壮大 (sōdai): Hùng vĩ, vĩ"
+  },
+  "comments": [
+    {
+      "id": "152696",
+      "lang": "vi",
+      "content_html": "<p>tráng sĩ đứng dựa tường</p>",
+      "content_text": "tráng sĩ đứng dựa tường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152697",
+      "lang": "vi",
+      "content_html": "<p>tượng hình: Kẻ sĩ cường tráng cầm cây giáo</p>",
+      "content_text": "tượng hình: Kẻ sĩ cường tráng cầm cây giáo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152698",
+      "lang": "vi",
+      "content_html": "<p>Kẻ sĩ cường tráng cầm bản cáo trạng</p>",
+      "content_text": "Kẻ sĩ cường tráng cầm bản cáo trạng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

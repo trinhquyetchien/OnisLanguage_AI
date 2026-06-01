@@ -1,0 +1,90 @@
+{
+  "kanji": "楼",
+  "meta": {
+    "weight": 1401,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロウ"
+    ],
+    "kun": [
+      "たかどの"
+    ],
+    "am_han": "LÂU, LẦU"
+  },
+  "meaning": {
+    "vi": "tháp canh, đài quan sát, tòa nhà cao",
+    "en": "watchtower, lookout, high building"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/楼.svg"
+  },
+  "frequency": 2173,
+  "examples": [
+    "楼",
+    "蜃気楼",
+    "楼閣",
+    "摩天楼",
+    "鐘楼"
+  ],
+  "explanation": {
+    "id": "8331",
+    "text": "楼 (đọc là \"rou\" hoặc \"tou\") có nghĩa là \"nhà cao tầng\" hoặc \"tòa nhà\". Nó thường được sử dụng để chỉ các công trình kiến trúc cao.\n\nVí dụ:\n- 高楼 (kōrō): Tòa nhà cao.\n- 楼上 (rōjō): Tầng trên, l"
+  },
+  "comments": [
+    {
+      "id": "154583",
+      "lang": "vi",
+      "content_html": "<p>CÂY 木 GẠO 米 mà người CON GÁI 女 đã trồng. đc cất giữ ở LÂU 楼 đài...</p>",
+      "content_text": "CÂY 木 GẠO 米 mà người CON GÁI 女 đã trồng. đc cất giữ ở LÂU 楼 đài...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154584",
+      "lang": "vi",
+      "content_html": "<p>LÂU đài có GẠO và GÁI</p>",
+      "content_text": "LÂU đài có GẠO và GÁI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154585",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa lâu đài xây dựng bằng gỗ trong đó là chốn ăn chơi( gạo với đàn bà)</p>",
+      "content_text": "Thời xưa lâu đài xây dựng bằng gỗ trong đó là chốn ăn chơi( gạo với đàn bà)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

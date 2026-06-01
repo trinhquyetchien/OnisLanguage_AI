@@ -1,0 +1,34 @@
+{
+  "kanji": "壷",
+  "meta": {
+    "weight": 614,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "つぼ"
+    ],
+    "am_han": "HỒ"
+  },
+  "meaning": {
+    "vi": "cái lọ, cái nồi, bản lề knuckle, mục đích của một người",
+    "en": "jar, pot, hinge knuckle, one's aim"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/壷.svg"
+  },
+  "frequency": 2197,
+  "examples": [
+    "壷"
+  ],
+  "explanation": {
+    "id": "5503",
+    "text": "壷 (đọc là \"tsubo\") có nghĩa là \"bình\", \"chậu\" để chỉ các loại dụng cụ chứa đựng, thường là bằng gốm sứ hoặc thủy tinh.  \nVí dụ:  \n- 壷 (tsubo): Bình, chậu.  \n- 壷屋 (tsuboya): Cửa hàng bán bình"
+  },
+  "comments": []
+}

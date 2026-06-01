@@ -1,0 +1,91 @@
+{
+  "kanji": "霊",
+  "meta": {
+    "weight": 2873,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ",
+      "リョウ"
+    ],
+    "kun": [
+      "たま"
+    ],
+    "am_han": "LINH"
+  },
+  "meaning": {
+    "vi": "linh hồn",
+    "en": "spirits, soul"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/霊.svg"
+  },
+  "frequency": 1458,
+  "examples": [
+    "霊",
+    "幽霊",
+    "精霊",
+    "霊的",
+    "聖霊"
+  ],
+  "explanation": {
+    "id": "8241",
+    "text": "霊 (đọc là \"rei\" hoặc \"ryō\") có nghĩa là \"linh hồn\", \"tâm linh\" để chỉ các khía cạnh liên quan đến thế giới siêu nhiên, linh hồn của con người hoặc vật thể.\n\nVí dụ:\n- 霊魂 (reikon): Linh hồn.\n-"
+  },
+  "comments": [
+    {
+      "id": "157816",
+      "lang": "vi",
+      "content_html": "<p>Linh hồn xếp hàng lưu lạc giữa trời mưa</p>",
+      "content_text": "Linh hồn xếp hàng lưu lạc giữa trời mưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157817",
+      "lang": "vi",
+      "content_html": "<p>Đứng Xếp Hàng Trời Mưa chỉ có LINH hồn</p>",
+      "content_text": "Đứng Xếp Hàng Trời Mưa chỉ có LINH hồn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157818",
+      "lang": "vi",
+      "content_html": "<p>Mưa xuống là có 1 hàng linh hồn xuất hiện</p>",
+      "content_text": "Mưa xuống là có 1 hàng linh hồn xuất hiện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

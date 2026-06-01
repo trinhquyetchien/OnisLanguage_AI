@@ -1,0 +1,83 @@
+{
+  "kanji": "凪",
+  "meta": {
+    "weight": 302,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "なぎ",
+      "な.ぐ"
+    ],
+    "am_han": "DĨ"
+  },
+  "meaning": {
+    "vi": "ru ngủ, bình tĩnh, (kokuji)",
+    "en": "lull, calm, (kokuji)"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/凪.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6047",
+    "text": "凪 (đọc là \"nagi\") có nghĩa là \"tĩnh lặng\", thường chỉ tình trạng yên ả của mặt nước, không gió. \n\nVí dụ:\n- 凪いだ海 (nagaida umi): Biển tĩnh lặng.\n- 凪の時 (nagi no toki): Thời điểm yên ả.\n- 凪る (na"
+  },
+  "comments": [
+    {
+      "id": "218966",
+      "lang": "vi",
+      "content_html": "<p>Khi gió 風 ngừng thổi 止 mọi thứ trở nên yên lặng</p>",
+      "content_text": "Khi gió 風 ngừng thổi 止 mọi thứ trở nên yên lặng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218967",
+      "lang": "vi",
+      "content_html": "<p>Đây là chữ nhật nhật” không có on” nên k có âm hán .giải thích vậy bạn có dễ hiểu k?</p>",
+      "content_text": "Đây là chữ nhật nhật” không có on” nên k có âm hán .giải thích vậy bạn có dễ hiểu k?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218968",
+      "lang": "vi",
+      "content_html": "<p>Chữ này k có nghĩa hán việt sao</p>",
+      "content_text": "Chữ này k có nghĩa hán việt sao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

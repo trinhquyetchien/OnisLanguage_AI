@@ -1,0 +1,88 @@
+{
+  "kanji": "軸",
+  "meta": {
+    "weight": 2611,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジク"
+    ],
+    "kun": [],
+    "am_han": "TRỤC"
+  },
+  "meaning": {
+    "vi": "trục, thân, cuống, đếm cuộn sách",
+    "en": "axis, pivot, stem, stalk, counter for book scrolls"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/軸.svg"
+  },
+  "frequency": 1261,
+  "examples": [
+    "軸",
+    "基軸",
+    "主軸",
+    "枢軸",
+    "機軸"
+  ],
+  "explanation": {
+    "id": "3253",
+    "text": "軸 (đọc là \"jiku\") có nghĩa là \"trục\" hoặc \"trục xoay\", thường chỉ một trục vật lý hoặc một điểm quan trọng trong một hệ thống. \n\nVí dụ:\n- 軸足 (jikuzuki): Chân trụ, chân chính.\n- 軸線 (jikusen):"
+  },
+  "comments": [
+    {
+      "id": "157221",
+      "lang": "vi",
+      "content_html": "<p>Cái TRỤC bánh xe quay tự DO khi xe chạy</p>",
+      "content_text": "Cái TRỤC bánh xe quay tự DO khi xe chạy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157222",
+      "lang": "vi",
+      "content_html": "<p>xe chạy tự do quanh trục</p>",
+      "content_text": "xe chạy tự do quanh trục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157223",
+      "lang": "vi",
+      "content_html": "<p>XE chuyển bánh được  là DO cái TRỤC.</p>",
+      "content_text": "XE chuyển bánh được  là DO cái TRỤC.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

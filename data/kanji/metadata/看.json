@@ -1,0 +1,90 @@
+{
+  "kanji": "看",
+  "meta": {
+    "weight": 1843,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "み.る"
+    ],
+    "am_han": "KHÁN"
+  },
+  "meaning": {
+    "vi": "xem qua, xem",
+    "en": "watch over, see"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/看.svg"
+  },
+  "frequency": 1060,
+  "examples": [
+    "看板",
+    "看護",
+    "看護婦",
+    "看病",
+    "看過"
+  ],
+  "explanation": {
+    "id": "1152",
+    "text": "看 (đọc là \"kan\" hoặc \"miru\") có nghĩa là \"nhìn\", \"xem\" để chỉ hành động quan sát hoặc kiểm tra.  \nVí dụ:  \n- 見る (miru): Nhìn, xem.  \n- 視覚 (shikaku): Thị giác.  \n- 看護 (kango): Chăm sóc, y tá."
+  },
+  "comments": [
+    {
+      "id": "155562",
+      "lang": "vi",
+      "content_html": "<p>Khán giả mắt vừa xem tay giơ lên vỗ tay hưởng ứng</p>",
+      "content_text": "Khán giả mắt vừa xem tay giơ lên vỗ tay hưởng ứng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155563",
+      "lang": "vi",
+      "content_html": "<p>KHÁN giả vừa xem vừa vỗ tay</p>",
+      "content_text": "KHÁN giả vừa xem vừa vỗ tay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155564",
+      "lang": "vi",
+      "content_html": "<p>Khán giả vừa xem phim vừa lấy tay che mắt</p>",
+      "content_text": "Khán giả vừa xem phim vừa lấy tay che mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

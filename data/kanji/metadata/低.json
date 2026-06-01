@@ -1,0 +1,92 @@
+{
+  "kanji": "低",
+  "meta": {
+    "weight": 170,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "ひく.い",
+      "ひく.める",
+      "ひく.まる"
+    ],
+    "am_han": "ĐÊ"
+  },
+  "meaning": {
+    "vi": "thấp, đê hèn",
+    "en": "lower, short, humble"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/低.svg"
+  },
+  "frequency": 435,
+  "examples": [
+    "低い",
+    "低",
+    "低下",
+    "最低",
+    "最低限"
+  ],
+  "explanation": {
+    "id": "5523",
+    "text": "低 (đọc là \"tei\") có nghĩa là \"thấp\", chỉ độ cao hoặc mức độ của một cái gì đó.  \nVí dụ:  \n- 低い (hikui): Thấp.  \n- 低音 (teion): Âm trầm.  \n- 低下 (teika): Sự giảm sút, hạ thấp."
+  },
+  "comments": [
+    {
+      "id": "1040",
+      "lang": "vi",
+      "content_html": "<p>\"Vì sao cô gạch dưới tên (氏) của em vậy?\"<br>\"Vì điểm của em bị <strong>thấp</strong>.\"</p>",
+      "content_text": "\"Vì sao cô gạch dưới tên (氏) của em vậy?\"\n\"Vì điểm của em bị\nthấp\n.\"",
+      "image_url": "https://jpdictionary.com/upload/images/62a1f8a2d0237.jpg",
+      "image_path": "assets/images/低_1.jpg",
+      "audio": null,
+      "like": 11,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190881",
+      "lang": "vi",
+      "content_html": "<p>bàn <strong>thấp</strong></p>",
+      "content_text": "bàn\nthấp",
+      "image_url": "https://jpdictionary.com/upload/images/648a62e709edf.jpg",
+      "image_path": "assets/images/低_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "151617",
+      "lang": "vi",
+      "content_html": "<p>tên họ 氏 của 1 一 người 人 luôn được ký tên dưới cùng thấp 低い nhất của văn bản</p>",
+      "content_text": "tên họ 氏 của 1 一 người 人 luôn được ký tên dưới cùng thấp 低い nhất của văn bản",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

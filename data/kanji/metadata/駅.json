@@ -1,0 +1,105 @@
+{
+  "kanji": "駅",
+  "meta": {
+    "weight": 2948,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エキ"
+    ],
+    "kun": [],
+    "am_han": "DỊCH"
+  },
+  "meaning": {
+    "vi": "nhà ga",
+    "en": "station"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/駅.svg"
+  },
+  "frequency": 724,
+  "examples": [
+    "駅",
+    "駅前",
+    "駅伝",
+    "駅員",
+    "駅舎"
+  ],
+  "explanation": {
+    "id": "416",
+    "text": "駅 (đọc là \"eki\") có nghĩa là \"ga\" hoặc \"nhà ga\", chỉ các trạm dừng của phương tiện giao thông, đặc biệt là tàu hỏa.\nVí dụ:\n- 駅員 (ekiin): Nhân viên nhà ga.\n- 駅舎 (ekisha): Nhà ga.\n- 地下鉄駅 (chik"
+  },
+  "comments": [
+    {
+      "id": "624",
+      "lang": "vi",
+      "content_html": "<p>Ở nhà <strong>ga </strong>có ngựa (馬) và người mang hành lý.</p>",
+      "content_text": "Ở nhà\nga\ncó ngựa (馬) và người mang hành lý.",
+      "image_url": "https://jpdictionary.com/upload/images/629789519aebd.jpg",
+      "image_path": "assets/images/駅_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157980",
+      "lang": "vi",
+      "content_html": "<p>Con ngựa馬bị xích trước cửa ga</p>",
+      "content_text": "Con ngựa馬bị xích trước cửa ga",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158584",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>駅 (えき): nhà ga</p><p>駅前 (えきまえ): trước nhà ga</p>",
+      "content_text": "JLPT N4\n駅 (えき): nhà ga\n駅前 (えきまえ): trước nhà ga",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "157982",
+      "lang": "vi",
+      "content_html": "<p>NHÀ GA ( ) là nơi có con NGỰA sắt ( ) dài cả THƯỚC ( )</p>",
+      "content_text": "NHÀ GA ( ) là nơi có con NGỰA sắt ( ) dài cả THƯỚC ( )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

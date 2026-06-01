@@ -1,0 +1,33 @@
+{
+  "kanji": "鈎",
+  "meta": {
+    "weight": 2746,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ク"
+    ],
+    "kun": [
+      "かぎ"
+    ],
+    "am_han": "CÂU"
+  },
+  "meaning": {
+    "vi": "hook, barb, gaff, ngoặc",
+    "en": "hook, barb, gaff, brackets"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/鈎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "883",
+    "text": "鈎 (đọc là \"kō\" hoặc \"gō\") có nghĩa là \"móc\", \"cái móc\", chỉ những vật dụng hoặc hành động liên quan đến việc treo, móc nối.  \nVí dụ:  \n- 鈎針 (kōshin): Kim móc, thường dùng trong may vá.  \n- 鈎"
+  },
+  "comments": []
+}

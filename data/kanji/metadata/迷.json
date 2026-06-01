@@ -1,0 +1,90 @@
+{
+  "kanji": "迷",
+  "meta": {
+    "weight": 2646,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "メイ"
+    ],
+    "kun": [
+      "まよ.う"
+    ],
+    "am_han": "MÊ"
+  },
+  "meaning": {
+    "vi": "mê hoặc, phiền hà",
+    "en": "astray, be perplexed, in doubt, lost, err, illusion"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/迷.svg"
+  },
+  "frequency": 942,
+  "examples": [
+    "迷惑",
+    "迷い",
+    "低迷",
+    "迷う",
+    "迷路"
+  ],
+  "explanation": {
+    "id": "7556",
+    "text": "迷 (đọc là \"mai\" hoặc \"meiru\") có nghĩa là \"bối rối\", \"lạc lối\" để chỉ trạng thái không rõ ràng, mất phương hướng hoặc bị ảnh hưởng bởi sự mê hoặc.\n\nVí dụ:\n- 迷惑 (meiwaku): Sự quấy rầy, phiền "
+  },
+  "comments": [
+    {
+      "id": "157297",
+      "lang": "vi",
+      "content_html": "<p>đi thấy GẠO là MÊ</p>",
+      "content_text": "đi thấy GẠO là MÊ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157298",
+      "lang": "vi",
+      "content_html": "<p>Tấm phải phân biệt GẠO với thóc lâu quá nên MÊ man đi k vững</p>",
+      "content_text": "Tấm phải phân biệt GẠO với thóc lâu quá nên MÊ man đi k vững",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157299",
+      "lang": "vi",
+      "content_html": "<p>Người thời xưa thường rải gạo trên đường đi để lúc quay về không bị lạc đường.</p>",
+      "content_text": "Người thời xưa thường rải gạo trên đường đi để lúc quay về không bị lạc đường.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

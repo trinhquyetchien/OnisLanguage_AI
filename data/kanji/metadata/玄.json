@@ -1,0 +1,106 @@
+{
+  "kanji": "玄",
+  "meta": {
+    "weight": 1730,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲン"
+    ],
+    "kun": [
+      "くろ",
+      "くろ.い"
+    ],
+    "am_han": "HUYỀN"
+  },
+  "meaning": {
+    "vi": "bí ẩn, huyền bí, đen, sâu",
+    "en": "mysterious, occultness, black, deep, profound"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/玄.svg"
+  },
+  "frequency": 1409,
+  "examples": [
+    "玄関",
+    "玄米",
+    "玄人"
+  ],
+  "explanation": {
+    "id": "2221",
+    "text": "玄 (đọc là \"gen\" hoặc \"kuroi\") có nghĩa là \"huyền bí\", \"thâm sâu\" để chỉ những điều khó hiểu, bí ẩn hoặc tri thức cao siêu.  \nVí dụ:  \n- 玄関 (genkan): Cửa ra vào, sảnh.  \n- 玄米 (genmai): Gạo lứ"
+  },
+  "comments": [
+    {
+      "id": "155312",
+      "lang": "vi",
+      "content_html": "<p>CÁI ĐẦU của YÊU Tinh thì rất là HUYỀN Bí</p>",
+      "content_text": "CÁI ĐẦU của YÊU Tinh thì rất là HUYỀN Bí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155313",
+      "lang": "vi",
+      "content_html": "<p>Yêu tinh đội mũ rất HUYỀN bí</p>",
+      "content_text": "Yêu tinh đội mũ rất HUYỀN bí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155314",
+      "lang": "vi",
+      "content_html": "<p>HUYỀN ơi, ngay từ ĐẦU đã YÊU e mất rồi.</p>",
+      "content_text": "HUYỀN ơi, ngay từ ĐẦU đã YÊU e mất rồi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222418",
+      "lang": "vi",
+      "content_html": "<p>Cái Đầu của Yêu tinh màu đen rất HUYỀN bí</p>",
+      "content_text": "Cái Đầu của Yêu tinh màu đen rất HUYỀN bí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "10124",
+        "name": "Twuon",
+        "image_url": "https://jpdictionary.com/upload/images/6963404c5dcb6.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "kanji": "痩",
+  "meta": {
+    "weight": 1811,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "チュウ",
+      "シュウ",
+      "シュ"
+    ],
+    "kun": [
+      "や.せる"
+    ],
+    "am_han": "SẤU"
+  },
+  "meaning": {
+    "vi": "gầy đi",
+    "en": "get thin"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/痩.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4734",
+    "text": "痩 (đọc là \"sō\") có nghĩa là \"gầy\", \"ốm yếu\" để chỉ tình trạng cơ thể thiếu mỡ hoặc sức khỏe kém.\n\nVí dụ:\n- 痩せる (yaseru): Gầy đi, giảm cân.\n- 痩身 (sōshin): Giảm cân, thon gọn.\n- 痩せた (yaseta): "
+  },
+  "comments": [
+    {
+      "id": "220148",
+      "lang": "vi",
+      "content_html": "<p>Đã Ốm rồi còn phải lê hai chân ra RUỘNG cầy thì bảo sao không GẦY và xấu gái như con cá SẤU</p>",
+      "content_text": "Đã Ốm rồi còn phải lê hai chân ra RUỘNG cầy thì bảo sao không GẦY và xấu gái như con cá SẤU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220149",
+      "lang": "vi",
+      "content_html": "<p>thân thể lại 1 lần nữa mắc bệnh nên gầy đi xấu như con cá sấu</p>",
+      "content_text": "thân thể lại 1 lần nữa mắc bệnh nên gầy đi xấu như con cá sấu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220150",
+      "lang": "vi",
+      "content_html": "<p>Gầy gò là căn bệnh tự do đi lại</p>",
+      "content_text": "Gầy gò là căn bệnh tự do đi lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

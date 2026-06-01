@@ -1,0 +1,107 @@
+{
+  "kanji": "首",
+  "meta": {
+    "weight": 2940,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ"
+    ],
+    "kun": [
+      "くび"
+    ],
+    "am_han": "THỦ"
+  },
+  "meaning": {
+    "vi": "cái cổ",
+    "en": "neck, counter for songs and poems"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/首.svg"
+  },
+  "frequency": 98,
+  "examples": [
+    "首相",
+    "首",
+    "首都",
+    "首脳",
+    "党首"
+  ],
+  "explanation": {
+    "id": "3438",
+    "text": "首 (đọc là \"shu\" hoặc \"kubi\") có nghĩa là \"cái đầu\", \"ngọn\" hoặc chỉ vị trí đứng đầu, lãnh đạo. \n\nVí dụ:\n- 首相 (shushō): Thủ tướng.\n- 首都 (shuto): Thủ đô.\n- 首位 (shui): Vị trí đứng đầu, hạng nhấ"
+  },
+  "comments": [
+    {
+      "id": "734",
+      "lang": "vi",
+      "content_html": "<p>Hình dáng của người <strong>cổ </strong>dài.</p>",
+      "content_text": "Hình dáng của người\ncổ\ndài.",
+      "image_url": "https://jpdictionary.com/upload/images/6298423071d68.jpg",
+      "image_path": "assets/images/首_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157965",
+      "lang": "vi",
+      "content_html": "<p>Thủ  首 đoạn trồng cỏ  䒑 của tôi không có gì đặc biệt, thì tự  自 mình trồng thôi.</p>",
+      "content_text": "Thủ  首 đoạn trồng cỏ  䒑 của tôi không có gì đặc biệt, thì tự  自 mình trồng thôi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157966",
+      "lang": "vi",
+      "content_html": "<p>thủ lĩnh tự trồng cỏ</p>",
+      "content_text": "thủ lĩnh tự trồng cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157967",
+      "lang": "vi",
+      "content_html": "<p>tự mua cái nón có 2 gạch đội lên đầu</p>",
+      "content_text": "tự mua cái nón có 2 gạch đội lên đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

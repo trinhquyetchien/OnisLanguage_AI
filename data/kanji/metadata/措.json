@@ -1,0 +1,87 @@
+{
+  "kanji": "措",
+  "meta": {
+    "weight": 1124,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ"
+    ],
+    "kun": [
+      "お.く"
+    ],
+    "am_han": "THỐ, TRÁCH"
+  },
+  "meaning": {
+    "vi": "đặt sang một bên, từ bỏ, đình chỉ, ngừng tiếp tục, ngoại trừ",
+    "en": "set aside, give up, suspend, discontinue, lay aside, except"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/措.svg"
+  },
+  "frequency": 818,
+  "examples": [
+    "措置",
+    "特措法"
+  ],
+  "explanation": {
+    "id": "4615",
+    "text": "措 (đọc là \"so\") có nghĩa là \"biện pháp\", \"hành động\" để chỉ các hành động liên quan đến việc thực hiện hoặc áp dụng biện pháp nào đó.\n\nVí dụ:\n- 措置 (sochi): Biện pháp, biện pháp khắc phục.\n- "
+  },
+  "comments": [
+    {
+      "id": "153974",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay vứt những thứ cũ ngày xưa</p>",
+      "content_text": "Dùng tay vứt những thứ cũ ngày xưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153975",
+      "lang": "vi",
+      "content_html": "<p>Ngày Xưa không có Tay thì thi Thố cái giề.</p>",
+      "content_text": "Ngày Xưa không có Tay thì thi Thố cái giề.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153976",
+      "lang": "vi",
+      "content_html": "<p>＝対策</p>",
+      "content_text": "＝対策",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

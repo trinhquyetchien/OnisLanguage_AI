@@ -1,0 +1,90 @@
+{
+  "kanji": "召",
+  "meta": {
+    "weight": 437,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "め.す"
+    ],
+    "am_han": "TRIỆU"
+  },
+  "meaning": {
+    "vi": "triệu tập",
+    "en": "seduce, call, send for, wear, put on, ride in, buy, eat, drink, catch (cold)"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/召.svg"
+  },
+  "frequency": 1540,
+  "examples": [
+    "召集",
+    "召喚",
+    "召し",
+    "召使",
+    "召還"
+  ],
+  "explanation": {
+    "id": "3759",
+    "text": "召 (đọc là \"shō\") có nghĩa là \"triệu\" để chỉ hành động gọi, triệu tập hoặc mời ai đó đến.  \nVí dụ:  \n- 召喚 (shōkan): Triệu hồi, gọi đến.  \n- 召し上がる (meshiagaru): Dùng bữa, ăn uống (kính ngữ).  "
+  },
+  "comments": [
+    {
+      "id": "152280",
+      "lang": "vi",
+      "content_html": "<p>Triệu tập không chỉ dùng mồm mà dùng cả đao kiếm</p>",
+      "content_text": "Triệu tập không chỉ dùng mồm mà dùng cả đao kiếm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152281",
+      "lang": "vi",
+      "content_html": "<p>đại ĐAO dũng mãnh , KHẨU khí anh hùng có thể TRIỆU tập cả thiên hạ</p>",
+      "content_text": "đại ĐAO dũng mãnh , KHẨU khí anh hùng có thể TRIỆU tập cả thiên hạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152282",
+      "lang": "vi",
+      "content_html": "<p>Mồm gọi Triệu tập người đang cầm đao.</p>",
+      "content_text": "Mồm gọi Triệu tập người đang cầm đao.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "牛",
+  "meta": {
+    "weight": 1692,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギュウ"
+    ],
+    "kun": [
+      "うし"
+    ],
+    "am_han": "NGƯU"
+  },
+  "meaning": {
+    "vi": "con bò",
+    "en": "cow"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/牛.svg"
+  },
+  "frequency": 1202,
+  "examples": [
+    "牛",
+    "牛乳",
+    "牛肉",
+    "狂牛病",
+    "闘牛"
+  ],
+  "explanation": {
+    "id": "1564",
+    "text": "牛 (đọc là \"gyū\" hoặc \"ushi\") có nghĩa là \"bò\" hoặc \"trâu\", thường dùng để chỉ các loại gia súc hoặc biểu tượng của sức mạnh và bền bỉ.\n\nVí dụ:\n- 牛肉 (gyūniku): Thịt bò.\n- 牛乳 (gyūnyū): Sữa bò."
+  },
+  "comments": [
+    {
+      "id": "871",
+      "lang": "vi",
+      "content_html": "<p>Hình ảnh của <strong>con bò </strong>chỉ có một sừng.</p>",
+      "content_text": "Hình ảnh của\ncon bò\nchỉ có một sừng.",
+      "image_url": "https://jpdictionary.com/upload/images/62989d888420b.jpg",
+      "image_path": "assets/images/牛_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191109",
+      "lang": "vi",
+      "content_html": "<p><strong>bò</strong></p>",
+      "content_text": "bò",
+      "image_url": "https://jpdictionary.com/upload/images/648ac1bd02d0f.jpg",
+      "image_path": "assets/images/牛_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158602",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>牛 (ぎゅう): con bò</p><p>牛肉 (ぎゅうにく): thịt bò</p><p>牛乳 (ぎゅうにゅう): sữa bò</p>",
+      "content_text": "JLPT N4\n牛 (ぎゅう): con bò\n牛肉 (ぎゅうにく): thịt bò\n牛乳 (ぎゅうにゅう): sữa bò",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

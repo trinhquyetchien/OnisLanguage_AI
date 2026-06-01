@@ -1,0 +1,69 @@
+{
+  "kanji": "畿",
+  "meta": {
+    "weight": 1795,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "みやこ"
+    ],
+    "am_han": "KÌ"
+  },
+  "meaning": {
+    "vi": "thủ đô, ngoại ô thủ đô",
+    "en": "capital, suburbs of capital"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/畿.svg"
+  },
+  "frequency": 1683,
+  "examples": [
+    "近畿"
+  ],
+  "explanation": {
+    "id": "1341",
+    "text": "畿 (đọc là \"ki\") có nghĩa là \"vùng đất\", thường chỉ khu vực xung quanh, đặc biệt là vùng trung tâm hoặc thủ đô của một quốc gia. \n\nVí dụ:\n- 畿内 (kinai): Vùng đất xung quanh thủ đô, thường chỉ "
+  },
+  "comments": [
+    {
+      "id": "155444",
+      "lang": "vi",
+      "content_html": "<p>Chốn kinh kỳ, làm ruộng đồng hoàn toàn bằng cơ khí, máy móc!</p>",
+      "content_text": "Chốn kinh kỳ, làm ruộng đồng hoàn toàn bằng cơ khí, máy móc!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155445",
+      "lang": "vi",
+      "content_html": "<p>Anh điền cải tiến máy cơ khí mang lên kinh kì dự thi</p>",
+      "content_text": "Anh điền cải tiến máy cơ khí mang lên kinh kì dự thi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

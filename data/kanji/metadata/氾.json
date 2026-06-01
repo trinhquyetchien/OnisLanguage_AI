@@ -1,0 +1,84 @@
+{
+  "kanji": "氾",
+  "meta": {
+    "weight": 1483,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン"
+    ],
+    "kun": [
+      "ひろ.がる"
+    ],
+    "am_han": "PHIẾM"
+  },
+  "meaning": {
+    "vi": "trải rộng",
+    "en": "spread out, wide"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/氾.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6463",
+    "text": "氾 (đọc là \"han\") có nghĩa là \"tràn\" hoặc \"rộng\", thường chỉ sự lan rộng, tràn ra ngoài.  \nVí dụ:  \n- 氾濫 (hanran): Lũ lụt, tràn ngập.  \n- 氾然 (hanzen): Tràn đầy, dồi dào.  \n- 氾化 (hanka): Sự tr"
+  },
+  "comments": [
+    {
+      "id": "219905",
+      "lang": "vi",
+      "content_html": "<p>Thuỷ tiết ra nước một cách tràn lan</p>",
+      "content_text": "Thuỷ tiết ra nước một cách tràn lan",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219906",
+      "lang": "vi",
+      "content_html": "<p>những đốt tre nổi lênh đênh trên dòng nước lũ.</p>",
+      "content_text": "những đốt tre nổi lênh đênh trên dòng nước lũ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219907",
+      "lang": "vi",
+      "content_html": "<p>tiết nói chuyện phiếm nước bọt tràn lan</p>",
+      "content_text": "tiết nói chuyện phiếm nước bọt tràn lan",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

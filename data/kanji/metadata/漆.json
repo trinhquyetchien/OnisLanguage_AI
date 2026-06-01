@@ -1,0 +1,89 @@
+{
+  "kanji": "漆",
+  "meta": {
+    "weight": 1606,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シツ"
+    ],
+    "kun": [
+      "うるし"
+    ],
+    "am_han": "TẤT, THẾ"
+  },
+  "meaning": {
+    "vi": "sơn mài, véc ni, bảy",
+    "en": "lacquer, varnish, seven"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/漆.svg"
+  },
+  "frequency": 1971,
+  "examples": [
+    "漆",
+    "漆黒",
+    "漆喰",
+    "漆器"
+  ],
+  "explanation": {
+    "id": "3284",
+    "text": "漆 (đọc là \"shitsu\" hoặc \"urushi\") có nghĩa là \"sơn\" hoặc \"nhựa cây\", chỉ các loại sơn được chiết xuất từ nhựa cây để làm lớp phủ và trang trí.  \nVí dụ:  \n- 漆器 (shikki): Đồ sơn mài.  \n- 漆塗り ("
+  },
+  "comments": [
+    {
+      "id": "155061",
+      "lang": "vi",
+      "content_html": "<p>Thuỷ đội Mũ đi TẤT cầm cây SƠN Nước</p>",
+      "content_text": "Thuỷ đội Mũ đi TẤT cầm cây SƠN Nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155062",
+      "lang": "vi",
+      "content_html": "<p>sơn tất cả các bộ phận của cây kể cả rễ</p>",
+      "content_text": "sơn tất cả các bộ phận của cây kể cả rễ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155063",
+      "lang": "vi",
+      "content_html": "<p>Thủy là Người cầm Cây sơn Nước quét TẤT</p>",
+      "content_text": "Thủy là Người cầm Cây sơn Nước quét TẤT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

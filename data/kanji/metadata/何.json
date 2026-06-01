@@ -1,0 +1,76 @@
+{
+  "kanji": "何",
+  "meta": {
+    "weight": 175,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "なに",
+      "なん",
+      "なに-",
+      "なん-"
+    ],
+    "am_han": "HÀ"
+  },
+  "meaning": {
+    "vi": "cái gì, hà cớ",
+    "en": "what"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/何.svg"
+  },
+  "frequency": 340,
+  "examples": [
+    "何",
+    "何とか",
+    "何故",
+    "何人",
+    "何処"
+  ],
+  "explanation": {
+    "id": "609",
+    "text": "何 (đọc là \"nani\" hoặc \"nan\") có nghĩa là \"gì\" để chỉ các câu hỏi về sự vật, hiện tượng hoặc thông tin không rõ ràng.  \nVí dụ:  \n- 何ですか (nan desu ka): Cái gì vậy?  \n- 何時 (nanji): Mấy giờ?  \n-"
+  },
+  "comments": [
+    {
+      "id": "556",
+      "lang": "vi",
+      "content_html": "<p>Một người đang khiêng <strong>cái gì </strong>đó.</p>",
+      "content_text": "Một người đang khiêng\ncái gì\nđó.",
+      "image_url": "https://jpdictionary.com/upload/images/62977dbeec5c5.jpg",
+      "image_path": "assets/images/何_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158445",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>何 (なん/なに): cái gì<br>何月 (なんがつ): Tháng mấy<br>何よう日 (なんようび): Thứ mấy<br>何かい (なんかい): Mấy lần<br>何ばん (なんばん): Số mấy<br>何こ (なんこ): Mấy cái (cục, trái, chiếc..)<br>何だい (なんだい): Mấy cái (đếm máy móc, xe cộ…)<br>何時 (なんじ): Mấy giờ?<br>何分 (なんぷん): Mấy phút?<br>何時間 (なんじかん): Mấy tiếng (đồng hồ)<br>何か (なんか): Cái gì đó<br>何かいも (なんかいもの): Nhiều lần<br>何さい (なんさい): Mấy tuổi<br>何日 (なんにち): Ngày mấy<br>何ばんせん (なんばんせん): Tuyến số mấy<br>何メートル (なんメートル): Mấy mét<br>何かい/がい (なんかい/がい): Tầng mấy</p>",
+      "content_text": "JLPT N5\n何 (なん/なに): cái gì\n何月 (なんがつ): Tháng mấy\n何よう日 (なんようび): Thứ mấy\n何かい (なんかい): Mấy lần\n何ばん (なんばん): Số mấy\n何こ (なんこ): Mấy cái (cục, trái, chiếc..)\n何だい (なんだい): Mấy cái (đếm máy móc, xe cộ…)\n何時 (なんじ): Mấy giờ?\n何分 (なんぷん): Mấy phút?\n何時間 (なんじかん): Mấy tiếng (đồng hồ)\n何か (なんか): Cái gì đó\n何かいも (なんかいもの): Nhiều lần\n何さい (なんさい): Mấy tuổi\n何日 (なんにち): Ngày mấy\n何ばんせん (なんばんせん): Tuyến số mấy\n何メートル (なんメートル): Mấy mét\n何かい/がい (なんかい/がい): Tầng mấy",
+      "image_url": "https://jpdictionary.com/upload/images/633f6b831d83b.jpg",
+      "image_path": "assets/images/何_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

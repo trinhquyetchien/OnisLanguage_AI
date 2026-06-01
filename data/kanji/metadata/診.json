@@ -1,0 +1,90 @@
+{
+  "kanji": "診",
+  "meta": {
+    "weight": 2467,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "み.る"
+    ],
+    "am_han": "CHẨN"
+  },
+  "meaning": {
+    "vi": "kiểm tra, xem, chẩn đoán",
+    "en": "checkup, seeing, diagnose, examine"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/診.svg"
+  },
+  "frequency": 1019,
+  "examples": [
+    "診断",
+    "診療",
+    "診察",
+    "検診",
+    "受診"
+  ],
+  "explanation": {
+    "id": "4125",
+    "text": "診 (đọc là \"shin\") có nghĩa là \"chẩn đoán\" để chỉ các hành động liên quan đến việc kiểm tra, đánh giá tình trạng sức khỏe hoặc tình hình cụ thể.  \nVí dụ:  \n- 診断 (shindan): Chẩn đoán.  \n- 診察 ("
+  },
+  "comments": [
+    {
+      "id": "156865",
+      "lang": "vi",
+      "content_html": "<p>CHẨN đoán bệnh qua Lời Khai và Mái Tóc</p>",
+      "content_text": "CHẨN đoán bệnh qua Lời Khai và Mái Tóc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156866",
+      "lang": "vi",
+      "content_html": "<p>Khám chẩn đoán bệnh nói 3 lời</p>",
+      "content_text": "Khám chẩn đoán bệnh nói 3 lời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156867",
+      "lang": "vi",
+      "content_html": "<p>Khám bệnh: bắt mạch qua 3 sợi tơ( Tây Du Ký)</p>",
+      "content_text": "Khám bệnh: bắt mạch qua 3 sợi tơ( Tây Du Ký)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

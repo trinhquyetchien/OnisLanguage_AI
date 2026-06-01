@@ -1,0 +1,107 @@
+{
+  "kanji": "跡",
+  "meta": {
+    "weight": 2592,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ"
+    ],
+    "kun": [
+      "あと"
+    ],
+    "am_han": "TÍCH"
+  },
+  "meaning": {
+    "vi": "dấu tích, vết tích",
+    "en": "tracks, mark, print, impression"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/跡.svg"
+  },
+  "frequency": 953,
+  "examples": [
+    "奇跡",
+    "跡",
+    "遺跡",
+    "追跡",
+    "足跡"
+  ],
+  "explanation": {
+    "id": "4421",
+    "text": "跡 (đọc là \"ato\" hoặc \"seki\") có nghĩa là \"dấu tích\", \"dấu vết\", chỉ các dấu hiệu còn lại từ một sự kiện, nơi chốn hay hoạt động nào đó.\n\nVí dụ:\n- 痕跡 (kONSEKI): Dấu vết, dấu tích.\n- 足跡 (ashia"
+  },
+  "comments": [
+    {
+      "id": "157174",
+      "lang": "vi",
+      "content_html": "<p>bước chân có dấu vết màu đỏ</p>",
+      "content_text": "bước chân có dấu vết màu đỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190743",
+      "lang": "vi",
+      "content_html": "<p>Miệng chỉ nói màu đỏ là chỉ vết tích</p>",
+      "content_text": "Miệng chỉ nói màu đỏ là chỉ vết tích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157175",
+      "lang": "vi",
+      "content_html": "<p>bước Chân con Diệc để lại dấu Tích</p>",
+      "content_text": "bước Chân con Diệc để lại dấu Tích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157176",
+      "lang": "vi",
+      "content_html": "<p>CHÂN dậm lên ĐẦU 4NGỌN LỬA  --» nên để lại VẾT TÍCH</p>",
+      "content_text": "CHÂN dậm lên ĐẦU 4NGỌN LỬA  --» nên để lại VẾT TÍCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

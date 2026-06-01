@@ -1,0 +1,51 @@
+{
+  "kanji": "鰭",
+  "meta": {
+    "weight": 2987,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ",
+      "ギ"
+    ],
+    "kun": [
+      "ひれ"
+    ],
+    "am_han": "KÌ"
+  },
+  "meaning": {
+    "vi": "vây",
+    "en": "fin"
+  },
+  "stroke": {
+    "count": 21,
+    "svg": "assets/svg/鰭.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6747",
+    "text": "鰭 (đọc là \"hi\") có nghĩa là \"vây\" để chỉ các bộ phận trên cơ thể cá hoặc sinh vật dưới nước.  \nVí dụ:  \n- 鰭脚 (ききゃく, kikyaku): Vây chân (của một số loài động vật).  \n- 鰭魚 (ひぎょ, higyo): Cá vây"
+  },
+  "comments": [
+    {
+      "id": "221109",
+      "lang": "vi",
+      "content_html": "<p>Con Cá vào một Ngày Già cỗi thì nó sẽ mọc Vây</p>",
+      "content_text": "Con Cá vào một Ngày Già cỗi thì nó sẽ mọc Vây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

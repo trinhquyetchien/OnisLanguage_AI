@@ -1,0 +1,52 @@
+{
+  "kanji": "鵬",
+  "meta": {
+    "weight": 3009,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "おおとり"
+    ],
+    "am_han": "BẰNG"
+  },
+  "meaning": {
+    "vi": "Phượng Hoàng",
+    "en": "phoenix"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/鵬.svg"
+  },
+  "frequency": 1707,
+  "examples": [
+    "鵬"
+  ],
+  "explanation": {
+    "id": "7238",
+    "text": "鵬 (đọc là \"hō\") có nghĩa là \"chim phượng hoàng\" hoặc \"một loài chim lớn\", thường biểu thị sức mạnh và sự vĩ đại. \n\nVí dụ:\n- 鵬翼 (hōyoku): Cánh phượng hoàng, chỉ sự rộng lớn, vẻ đẹp của cánh.\n"
+  },
+  "comments": [
+    {
+      "id": "158070",
+      "lang": "vi",
+      "content_html": "<p>mất 2 tháng để con chim to sấp sỉ bằng nắm tay</p>",
+      "content_text": "mất 2 tháng để con chim to sấp sỉ bằng nắm tay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

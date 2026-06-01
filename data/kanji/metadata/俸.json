@@ -1,0 +1,85 @@
+{
+  "kanji": "俸",
+  "meta": {
+    "weight": 206,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [],
+    "am_han": "BỔNG"
+  },
+  "meaning": {
+    "vi": "tiền lương",
+    "en": "stipend, salary"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/俸.svg"
+  },
+  "frequency": 1834,
+  "examples": [
+    "年俸",
+    "俸給"
+  ],
+  "explanation": {
+    "id": "7142",
+    "text": "俸 (đọc là \"hō\") có nghĩa là \"tiền lương\", \"thù lao\" để chỉ những khoản tiền trả cho công việc hoặc dịch vụ.  \nVí dụ:  \n- 俸給 (hōkyū): Lương, thù lao.  \n- 俸禄 (hōroku): Tiền lương, bổng lộc.  \n"
+  },
+  "comments": [
+    {
+      "id": "151705",
+      "lang": "vi",
+      "content_html": "<p>người hay phụng sự người khác sẽ được nhận lương bổng</p>",
+      "content_text": "người hay phụng sự người khác sẽ được nhận lương bổng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151706",
+      "lang": "vi",
+      "content_html": "<p>奉 - PHỤNG ( phục sự , cung phụng ) <br>( sự KHÁC biệt của ĐẠI nhân là luôn có 2 người đi theo PHỤNG sự)  <br><br>người PHỤNG sự đủ nhiều thì sẽ nhận được BỔNG lộc</p>",
+      "content_text": "奉 - PHỤNG ( phục sự , cung phụng )\n( sự KHÁC biệt của ĐẠI nhân là luôn có 2 người đi theo PHỤNG sự)\nngười PHỤNG sự đủ nhiều thì sẽ nhận được BỔNG lộc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151707",
+      "lang": "vi",
+      "content_html": "<p>người sếp trao BỔNG lộc bằng 1 con bò cho 3 nam 8 nữ</p>",
+      "content_text": "người sếp trao BỔNG lộc bằng 1 con bò cho 3 nam 8 nữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

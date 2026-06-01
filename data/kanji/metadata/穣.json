@@ -1,0 +1,54 @@
+{
+  "kanji": "穣",
+  "meta": {
+    "weight": 1954,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [
+      "わら",
+      "ゆたか"
+    ],
+    "am_han": "NHƯƠNG"
+  },
+  "meaning": {
+    "vi": "mùa màng tươi tốt, thịnh vượng, 10 ** 28",
+    "en": "good crops, prosperity, 10**28"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/穣.svg"
+  },
+  "frequency": 2464,
+  "examples": [
+    "豊穣",
+    "穣"
+  ],
+  "explanation": {
+    "id": "3988",
+    "text": "穣 (đọc là \"jou\") có nghĩa là \"mùa màng bội thu\", chỉ sự phong phú, sản lượng nông nghiệp dồi dào.  \nVí dụ:  \n- 穣豊か (jouyutaka): Mùa màng bội thu, trĩu quả.  \n- 穣年 (jounen): Năm bội thu, năm "
+  },
+  "comments": [
+    {
+      "id": "155799",
+      "lang": "vi",
+      "content_html": "<p>lúa được cô nương chăm sóc thì chỉ có dc mùa</p>",
+      "content_text": "lúa được cô nương chăm sóc thì chỉ có dc mùa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "責",
+  "meta": {
+    "weight": 2551,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ"
+    ],
+    "kun": [
+      "せ.める"
+    ],
+    "am_han": "TRÁCH"
+  },
+  "meaning": {
+    "vi": "khiển trách, trách nhiệm",
+    "en": "blame, condemn, censure"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/責.svg"
+  },
+  "frequency": 598,
+  "examples": [
+    "責任",
+    "無責任",
+    "責め",
+    "責務",
+    "免責"
+  ],
+  "explanation": {
+    "id": "4415",
+    "text": "責 (đọc là \"seki\" hoặc \"saku\") có nghĩa là \"trách nhiệm\", \"trách mắng\" để chỉ các hành động liên quan đến việc gánh vác trách nhiệm hoặc chỉ trích ai đó.\n\nVí dụ:\n- 責任 (sekinin): Trách nhiệm.\n"
+  },
+  "comments": [
+    {
+      "id": "157067",
+      "lang": "vi",
+      "content_html": "<p>Làm Chủ phải có TRÁCH nhiệm với đồng Tiền</p>",
+      "content_text": "Làm Chủ phải có TRÁCH nhiệm với đồng Tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157068",
+      "lang": "vi",
+      "content_html": "<p>Sinh ra phải có trách nhiệm vs đồng tiền</p>",
+      "content_text": "Sinh ra phải có trách nhiệm vs đồng tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157069",
+      "lang": "vi",
+      "content_html": "<p>Vì tiền vì đất trách nhiệm phát sinh</p>",
+      "content_text": "Vì tiền vì đất trách nhiệm phát sinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

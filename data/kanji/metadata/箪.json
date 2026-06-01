@@ -1,0 +1,50 @@
+{
+  "kanji": "箪",
+  "meta": {
+    "weight": 2005,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "はこ"
+    ],
+    "am_han": "ĐAN"
+  },
+  "meaning": {
+    "vi": "thúng gạo tre",
+    "en": "bamboo rice basket"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/箪.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5147",
+    "text": "箪 (đọc là \"tan\") có nghĩa là \"một loại đồ chứa, thường dùng để đựng thức ăn hoặc đồ vật\". \n\nVí dụ:\n- 箪笥 (tansu): Tủ, tủ chứa.\n- 箪の飯 (tan no meshi): Cơm trong bát. \n- 箪を持つ (tan o motsu): Mang"
+  },
+  "comments": [
+    {
+      "id": "220304",
+      "lang": "vi",
+      "content_html": "<p>Tủ quần áo ngày xưa làm đơn giản bằng trúc</p>",
+      "content_text": "Tủ quần áo ngày xưa làm đơn giản bằng trúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

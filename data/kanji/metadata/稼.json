@@ -1,0 +1,107 @@
+{
+  "kanji": "稼",
+  "meta": {
+    "weight": 1944,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "かせ.ぐ"
+    ],
+    "am_han": "GIÁ"
+  },
+  "meaning": {
+    "vi": "thu nhập, làm việc, kiếm tiền",
+    "en": "earnings, work, earn money"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/稼.svg"
+  },
+  "frequency": 1264,
+  "examples": [
+    "稼ぐ",
+    "稼ぎ",
+    "稼働",
+    "稼動",
+    "稼げる"
+  ],
+  "explanation": {
+    "id": "670",
+    "text": "稼 (đọc là \"ka\") có nghĩa là \"kiếm tiền\", \"trồng trọt\" để chỉ các hành động liên quan đến việc kiếm sống hoặc sản xuất nông nghiệp.  \nVí dụ:  \n- 稼働 (kadou): Hoạt động, làm việc (của máy móc)."
+  },
+  "comments": [
+    {
+      "id": "155778",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa cây Lúa (HÒA) có GIÁ nên cả GIA đình dựa vào đó để KIẾM TIỀN</p>",
+      "content_text": "Ngày xưa cây Lúa (HÒA) có GIÁ nên cả GIA đình dựa vào đó để KIẾM TIỀN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155779",
+      "lang": "vi",
+      "content_html": "<p>Hoà đại gia ra giá kiếm tiền</p>",
+      "content_text": "Hoà đại gia ra giá kiếm tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155780",
+      "lang": "vi",
+      "content_html": "<p>Trong gia đình kiếm tiền bằng giá lúa</p>",
+      "content_text": "Trong gia đình kiếm tiền bằng giá lúa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "218476",
+      "lang": "vi",
+      "content_html": "<p><strong>lúa 禾 của nhà 家 trồng luôn có giá</strong></p>",
+      "content_text": "lúa 禾 của nhà 家 trồng luôn có giá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    }
+  ]
+}

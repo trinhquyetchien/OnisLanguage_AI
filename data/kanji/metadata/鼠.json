@@ -1,0 +1,86 @@
+{
+  "kanji": "鼠",
+  "meta": {
+    "weight": 3032,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ",
+      "ショ"
+    ],
+    "kun": [
+      "ねずみ",
+      "ねず"
+    ],
+    "am_han": "THỬ"
+  },
+  "meaning": {
+    "vi": "chuột, xám đen",
+    "en": "rat, mouse, dark gray"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/鼠.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4664",
+    "text": "鼠 (đọc là \"nezumi\") có nghĩa là \"chuột\", chỉ loài gặm nhấm nhỏ, thường được liên kết với sự nhanh nhẹn và thông minh. \n\nVí dụ:\n- 鼠年 (nezumi-doshi): Năm chuột (theo lịch truyền thống).\n- 鼠捕り "
+  },
+  "comments": [
+    {
+      "id": "221156",
+      "lang": "vi",
+      "content_html": "<p>Nhìn chữ viết tay giống đinh ba, cào ruộng lúa kiếm chuột đồng.</p>",
+      "content_text": "Nhìn chữ viết tay giống đinh ba, cào ruộng lúa kiếm chuột đồng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221157",
+      "lang": "vi",
+      "content_html": "<p>Phía trên 臼 CỮU　cái cối ngày xưa để giã gạo.<br>Dưới: 4 hại gạo rơi xuống và 3 cái đuôi chuột.</p>",
+      "content_text": "Phía trên 臼 CỮU　cái cối ngày xưa để giã gạo.\nDưới: 4 hại gạo rơi xuống và 3 cái đuôi chuột.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221158",
+      "lang": "vi",
+      "content_html": "<p>Êyo renirenishi<br>Eヨ<br>レニレニし</p>",
+      "content_text": "Êyo renirenishi\nEヨ\nレニレニし",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

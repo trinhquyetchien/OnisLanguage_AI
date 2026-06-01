@@ -1,0 +1,71 @@
+{
+  "kanji": "侮",
+  "meta": {
+    "weight": 190,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ブ"
+    ],
+    "kun": [
+      "あなど.る",
+      "あなず.る"
+    ],
+    "am_han": "VŨ"
+  },
+  "meaning": {
+    "vi": "khinh bỉ, coi thường, khinh thường",
+    "en": "scorn, despise, make light of, contempt"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/侮.svg"
+  },
+  "frequency": 2004,
+  "examples": [
+    "侮辱",
+    "侮蔑"
+  ],
+  "explanation": {
+    "id": "20296",
+    "text": "侮 (đọc là \"taku\") có nghĩa là \"thịt\" hoặc \"thực phẩm\". Đây là chữ Hán thường dùng trong bối cảnh ẩm thực, đặc biệt liên quan đến thực phẩm từ động vật.\n\nVí dụ:\n- 肉類 (nikurui): Thịt các loại."
+  },
+  "comments": [
+    {
+      "id": "151666",
+      "lang": "vi",
+      "content_html": "<p>Người sử dụng Vũ lực Mỗi ngày, sẽ bị mọi người Khinh Thường.</p>",
+      "content_text": "Người sử dụng Vũ lực Mỗi ngày, sẽ bị mọi người Khinh Thường.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151667",
+      "lang": "vi",
+      "content_html": "<p>Người đứng làm mỗi ngày ở VŨ trường đều bị khinh thường</p>",
+      "content_text": "Người đứng làm mỗi ngày ở VŨ trường đều bị khinh thường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

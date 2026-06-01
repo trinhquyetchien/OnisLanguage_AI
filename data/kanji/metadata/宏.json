@@ -1,0 +1,50 @@
+{
+  "kanji": "宏",
+  "meta": {
+    "weight": 711,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "ひろ.い"
+    ],
+    "am_han": "HOÀNH"
+  },
+  "meaning": {
+    "vi": "rộng, lớn",
+    "en": "wide, large"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/宏.svg"
+  },
+  "frequency": 1277,
+  "examples": [],
+  "explanation": {
+    "id": "2420",
+    "text": "宏 (đọc là \"ko\" hoặc \"hiro\") có nghĩa là \"vĩ đại\", \"rộng lớn\", thường dùng để chỉ sự bao quát, rộng rãi.  \nVí dụ:  \n- 宏大 (kōdai): Vĩ đại, hoành tráng.  \n- 宏観 (kōkan): Quan sát tổng thể, nhìn "
+  },
+  "comments": [
+    {
+      "id": "152934",
+      "lang": "vi",
+      "content_html": "<p>nhà (宀)của Nam( ナ厶) thì HOÀNH tráng</p>",
+      "content_text": "nhà (宀)của Nam( ナ厶) thì HOÀNH tráng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

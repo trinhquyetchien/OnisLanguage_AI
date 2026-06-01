@@ -1,0 +1,105 @@
+{
+  "kanji": "倍",
+  "meta": {
+    "weight": 210,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バイ"
+    ],
+    "kun": [],
+    "am_han": "BỘI"
+  },
+  "meaning": {
+    "vi": "gấp đôi, bội thu",
+    "en": "double, twice, times, fold"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/倍.svg"
+  },
+  "frequency": 714,
+  "examples": [
+    "倍",
+    "倍増",
+    "倍率",
+    "人一倍",
+    "倍速"
+  ],
+  "explanation": {
+    "id": "6283",
+    "text": "倍 (đọc là \"bai\") có nghĩa là \"gấp đôi\", chỉ sự tăng lên hoặc nhân đôi một giá trị nào đó. \n\nVí dụ:\n- 倍率 (bairitsu): Tỉ lệ nhân đôi, độ phóng đại.\n- 二倍 (nibai): Gấp đôi, hai lần.\n- 倍増 (baizō)"
+  },
+  "comments": [
+    {
+      "id": "37244",
+      "lang": "vi",
+      "content_html": "<p>Chiều cao của người bên trái <strong>gấp đôi</strong> chiều cao của người đứng trên hộp bên phải.</p>",
+      "content_text": "Chiều cao của người bên trái\ngấp đôi\nchiều cao của người đứng trên hộp bên phải.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd818c5f7b.jpg",
+      "image_path": "assets/images/倍_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151717",
+      "lang": "vi",
+      "content_html": "<p>Nhân đứng lên miệng nói ta cao gấp bội</p>",
+      "content_text": "Nhân đứng lên miệng nói ta cao gấp bội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151718",
+      "lang": "vi",
+      "content_html": "<p>Người khi đứng nói to gấp bội</p>",
+      "content_text": "Người khi đứng nói to gấp bội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151719",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI mà bán ĐỨNG người khác bằng MỒM thì là đồ BỘI nghĩa</p>",
+      "content_text": "NGƯỜI mà bán ĐỨNG người khác bằng MỒM thì là đồ BỘI nghĩa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "kanji": "貢",
+  "meta": {
+    "weight": 2546,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ク"
+    ],
+    "kun": [
+      "みつ.ぐ"
+    ],
+    "am_han": "CỐNG"
+  },
+  "meaning": {
+    "vi": "cống hiến, hỗ trợ, tài chính",
+    "en": "tribute, support, finance"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/貢.svg"
+  },
+  "frequency": 956,
+  "examples": [
+    "貢献",
+    "貢",
+    "年貢"
+  ],
+  "explanation": {
+    "id": "2560",
+    "text": "貢 (đọc là \"kō\") có nghĩa là \"cống nạp\", chỉ hành động dâng hiến hoặc cung cấp vật phẩm cho ai đó, thường là để biểu thị lòng trung thành hoặc tôn kính.\n\nVí dụ:\n- 貢献 (kōken): Đóng góp, cống h"
+  },
+  "comments": [
+    {
+      "id": "157052",
+      "lang": "vi",
+      "content_html": "<p>Tiền công để cống nạp</p>",
+      "content_text": "Tiền công để cống nạp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157053",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa các nước chư hầu phải bỏ Công 工 bỏ tiền 貝 (Thời mông muội vỏ sò từng là một loại tiền tệ) Cống nạp cho nước lớn</p>",
+      "content_text": "Ngày xưa các nước chư hầu phải bỏ Công 工 bỏ tiền 貝 (Thời mông muội vỏ sò từng là một loại tiền tệ) Cống nạp cho nước lớn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157054",
+      "lang": "vi",
+      "content_html": "<p>Tiền công sẽ phải cống nạp</p>",
+      "content_text": "Tiền công sẽ phải cống nạp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "爺",
+  "meta": {
+    "weight": 1684,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヤ"
+    ],
+    "kun": [
+      "じい",
+      "じじい",
+      "おやじ",
+      "じじ",
+      "ちち"
+    ],
+    "am_han": "GIA"
+  },
+  "meaning": {
+    "vi": "ông già, grampa",
+    "en": "old man, grampa"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/爺.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7673",
+    "text": "爺 (đọc là \"ya\") có nghĩa là \"ông\", thường chỉ về ông già hoặc cụ ông, thể hiện sự kính trọng với người lớn tuổi. \n\nVí dụ:\n- お爺さん (ojiisan): Ông, ông nội.\n- 爺婆 (yababa): Ông bà, người lớn tuổ"
+  },
+  "comments": [
+    {
+      "id": "220052",
+      "lang": "vi",
+      "content_html": "<p>Nghe đâu bố của bố là ông già.</p>",
+      "content_text": "Nghe đâu bố của bố là ông già.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220053",
+      "lang": "vi",
+      "content_html": "<p>Dùng đôi TAI của con Bồ để xem BỐ ở nơi đâu</p>",
+      "content_text": "Dùng đôi TAI của con Bồ để xem BỐ ở nơi đâu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220054",
+      "lang": "vi",
+      "content_html": "<p>BỐ của bố mình, TAI hơi nghễnh ngãng, phải chống gậy trên nền ĐẤT để đi là ÔNG</p>",
+      "content_text": "BỐ của bố mình, TAI hơi nghễnh ngãng, phải chống gậy trên nền ĐẤT để đi là ÔNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

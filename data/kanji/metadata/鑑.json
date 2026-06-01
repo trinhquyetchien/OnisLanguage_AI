@@ -1,0 +1,91 @@
+{
+  "kanji": "鑑",
+  "meta": {
+    "weight": 2798,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "かんが.みる",
+      "かがみ"
+    ],
+    "am_han": "GIÁM"
+  },
+  "meaning": {
+    "vi": "mẫu vật, nhận cảnh báo, rút kinh nghiệm",
+    "en": "specimen, take warning from, learn from"
+  },
+  "stroke": {
+    "count": 23,
+    "svg": "assets/svg/鑑.svg"
+  },
+  "frequency": 1391,
+  "examples": [
+    "鑑賞",
+    "鑑定",
+    "図鑑",
+    "印鑑",
+    "鑑別"
+  ],
+  "explanation": {
+    "id": "1188",
+    "text": "鑑 (đọc là \"kan\") có nghĩa là \"gương\" hoặc \"sự đánh giá, nhận định\", thường được dùng trong bối cảnh liên quan đến việc xem xét, phân tích hoặc phản chiếu.\n\nVí dụ:\n- 鑑賞 (kanshō): Sự thưởng th"
+  },
+  "comments": [
+    {
+      "id": "157619",
+      "lang": "vi",
+      "content_html": "<p>Giám sát cục vàng thì phải giám định</p>",
+      "content_text": "Giám sát cục vàng thì phải giám định",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157620",
+      "lang": "vi",
+      "content_html": "<p>Muốn giám định vàng thì từng người một mở ngang con mắt ở cự li gần</p>",
+      "content_text": "Muốn giám định vàng thì từng người một mở ngang con mắt ở cự li gần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157621",
+      "lang": "vi",
+      "content_html": "<p>1 (ー）Vị  Thần （臣）đang Nằm GIÁM （鑑）sát Đĩa（皿） Vàng　（金）</p>",
+      "content_text": "1 (ー）Vị  Thần （臣）đang Nằm GIÁM （鑑）sát Đĩa（皿） Vàng　（金）",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

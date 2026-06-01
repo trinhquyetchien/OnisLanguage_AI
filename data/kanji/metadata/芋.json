@@ -1,0 +1,89 @@
+{
+  "kanji": "芋",
+  "meta": {
+    "weight": 2249,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ウ"
+    ],
+    "kun": [
+      "いも"
+    ],
+    "am_han": "DỤ, HU"
+  },
+  "meaning": {
+    "vi": "khoai tây",
+    "en": "potato"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/芋.svg"
+  },
+  "frequency": 2418,
+  "examples": [
+    "芋",
+    "山芋",
+    "里芋",
+    "焼き芋"
+  ],
+  "explanation": {
+    "id": "230",
+    "text": "芋 (đọc là \"imo\") có nghĩa là \"khoai\" để chỉ các loại củ, đặc biệt là khoai lang hoặc khoai tây.\n\nVí dụ:\n- 芋煮 (imon) : Món khoai nấu.\n- さつま芋 (satsuma imo): Khoai lang Nhật Bản.\n- 芋ケンピ (imo ke"
+  },
+  "comments": [
+    {
+      "id": "156457",
+      "lang": "vi",
+      "content_html": "<p>Chưa dụ được cô giáo Thảo nên củ khoai của thằng Can vẫn đang còn khô :))</p>",
+      "content_text": "Chưa dụ được cô giáo Thảo nên củ khoai của thằng Can vẫn đang còn khô :))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156458",
+      "lang": "vi",
+      "content_html": "<p>Trên hoa dưới bốn rễ phụ một rễ cọc là củ khoai</p>",
+      "content_text": "Trên hoa dưới bốn rễ phụ một rễ cọc là củ khoai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156459",
+      "lang": "vi",
+      "content_html": "<p>KHOAI to ấm  no VŨ trụ</p>",
+      "content_text": "KHOAI to ấm  no VŨ trụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

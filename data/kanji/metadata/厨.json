@@ -1,0 +1,56 @@
+{
+  "kanji": "厨",
+  "meta": {
+    "weight": 411,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ",
+      "ズ",
+      "チュ",
+      "チュウ"
+    ],
+    "kun": [
+      "くりや"
+    ],
+    "am_han": "TRÙ, CHÙ, CHÙA, SÙ"
+  },
+  "meaning": {
+    "vi": "phòng bếp",
+    "en": "kitchen"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/厨.svg"
+  },
+  "frequency": 2425,
+  "examples": [
+    "厨房",
+    "厨"
+  ],
+  "explanation": {
+    "id": "4197",
+    "text": "厨 (đọc là \"chu\") có nghĩa là \"nhà bếp\" hoặc \"người đầu bếp\", chỉ không gian và hoạt động liên quan đến việc nấu ăn.  \nVí dụ:  \n- 厨房 (chūbō): Nhà bếp.  \n- 厨師 (chūshi): Đầu bếp, người nấu ăn. "
+  },
+  "comments": [
+    {
+      "id": "152225",
+      "lang": "vi",
+      "content_html": "<p>trù phòng (ngự thiện phòng) là nơi 1 tấc đậu hũ cũng phải làm thành món ngon</p>",
+      "content_text": "trù phòng (ngự thiện phòng) là nơi 1 tấc đậu hũ cũng phải làm thành món ngon",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

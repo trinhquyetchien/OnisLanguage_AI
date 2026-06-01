@@ -1,0 +1,91 @@
+{
+  "kanji": "癖",
+  "meta": {
+    "weight": 1816,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘキ"
+    ],
+    "kun": [
+      "くせ",
+      "くせ.に"
+    ],
+    "am_han": "PHÍCH, TÍCH"
+  },
+  "meaning": {
+    "vi": "cách cư xử, thói quen, phản ứng, đặc điểm, lỗi, gấp khúc",
+    "en": "mannerism, habit, vice, trait, fault, kink"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/癖.svg"
+  },
+  "frequency": 1973,
+  "examples": [
+    "癖",
+    "口癖",
+    "性癖",
+    "潔癖",
+    "難癖"
+  ],
+  "explanation": {
+    "id": "7032",
+    "text": "癖 (đọc là \"kuse\") có nghĩa là \"thói quen\" hoặc \"tật xấu\", để chỉ những hành động, thói quen mà người ta thường làm một cách vô thức hoặc khó bỏ.  \nVí dụ:  \n- 癖 (kuse): Thói quen, tật xấu.  \n"
+  },
+  "comments": [
+    {
+      "id": "155488",
+      "lang": "vi",
+      "content_html": "<p>Trong giường bệnh mở mồm trước cửa nói lời cay đắng đó là thói xấu tật hư</p>",
+      "content_text": "Trong giường bệnh mở mồm trước cửa nói lời cay đắng đó là thói xấu tật hư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155489",
+      "lang": "vi",
+      "content_html": "<p>Cửa Miệng hay nói lời Cay đắng sẽ TÍCH tụ thành THÓI HƯ TẬT XẤU</p>",
+      "content_text": "Cửa Miệng hay nói lời Cay đắng sẽ TÍCH tụ thành THÓI HƯ TẬT XẤU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155490",
+      "lang": "vi",
+      "content_html": "<p>Khi bị bệnh cái miệng hay TÍCH những điều cay đắng tạo lên thói hư tật xấu</p>",
+      "content_text": "Khi bị bệnh cái miệng hay TÍCH những điều cay đắng tạo lên thói hư tật xấu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

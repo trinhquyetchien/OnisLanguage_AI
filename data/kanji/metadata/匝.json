@@ -1,0 +1,33 @@
+{
+  "kanji": "匝",
+  "meta": {
+    "weight": 376,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ",
+      "ソウ"
+    ],
+    "kun": [
+      "めぐ.る"
+    ],
+    "am_han": "TẠP"
+  },
+  "meaning": {
+    "vi": "đi vòng quanh",
+    "en": "go around"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/匝.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4696",
+    "text": "匝 (đọc là \"saku\") có nghĩa là \"quấn quanh\" hoặc \"vòng\". Chữ này thường liên quan đến việc xoắn hoặc xoay tròn.\n\nVí dụ:\n- 匝道 (sazō): Đường vòng, ngã rẽ.\n- 匝する (sazusuru): Quanh, cuốn quanh.\n-"
+  },
+  "comments": []
+}

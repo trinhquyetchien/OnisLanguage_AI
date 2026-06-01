@@ -1,0 +1,88 @@
+{
+  "kanji": "埼",
+  "meta": {
+    "weight": 569,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "さき",
+      "さい",
+      "みさき"
+    ],
+    "am_han": "KÌ, KỲ"
+  },
+  "meaning": {
+    "vi": "mũi đất, mỏm đất",
+    "en": "cape, spit, promontory"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/埼.svg"
+  },
+  "frequency": 971,
+  "examples": [
+    "埼玉"
+  ],
+  "explanation": {
+    "id": "2877",
+    "text": "埼 (đọc là \"saki\") có nghĩa là \"mũi đất\" hoặc \"điểm nhô ra\", thường chỉ các khu vực ven biển. \n\nVí dụ:\n- 埼玉県 (Saitama-ken): Tỉnh Saitama, nơi có nhiều mũi đất.\n- 岬 (misaki): Mũi đất, điểm nhô"
+  },
+  "comments": [
+    {
+      "id": "152605",
+      "lang": "vi",
+      "content_html": "<p>Mũi đất này thật là kỳ diệu</p>",
+      "content_text": "Mũi đất này thật là kỳ diệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152606",
+      "lang": "vi",
+      "content_html": "<p>có khả năng lớn sẽ mua đước miếng đất kỳ dị này</p>",
+      "content_text": "có khả năng lớn sẽ mua đước miếng đất kỳ dị này",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152607",
+      "lang": "vi",
+      "content_html": "<p>kì mua mảnh đất bị cong</p>",
+      "content_text": "kì mua mảnh đất bị cong",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "kanji": "建",
+  "meta": {
+    "weight": 884,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン",
+      "コン"
+    ],
+    "kun": [
+      "た.てる",
+      "た.て",
+      "-だ.て",
+      "た.つ"
+    ],
+    "am_han": "KIẾN"
+  },
+  "meaning": {
+    "vi": "xây dựng, kiến thiết",
+    "en": "build"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/建.svg"
+  },
+  "frequency": 300,
+  "examples": [
+    "建築",
+    "建設",
+    "建物",
+    "建て",
+    "再建"
+  ],
+  "explanation": {
+    "id": "2125",
+    "text": "建 (đọc là \"ken\" hoặc \"tate\") có nghĩa là \"xây dựng\", \"thiết lập\" để chỉ các hành động liên quan đến việc xây dựng, tạo ra hoặc thiết lập một cái gì đó.\n\nVí dụ:\n- 建物 (tatemono): Tòa nhà, công"
+  },
+  "comments": [
+    {
+      "id": "36978",
+      "lang": "vi",
+      "content_html": "<p>Việc viết (書) và<strong> thiết kế </strong>trước khi xây dựng thì rất quan trọng.</p>",
+      "content_text": "Việc viết (書) và\nthiết kế\ntrước khi xây dựng thì rất quan trọng.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4c9691754.jpg",
+      "image_path": "assets/images/建_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158474",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>建物 (たてもの): tòa nhà<br>建てる (たてる): xây dựng<br>建つ (たつ): được xây dựng</p>",
+      "content_text": "JLPT N4\n建物 (たてもの): tòa nhà\n建てる (たてる): xây dựng\n建つ (たつ): được xây dựng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "153374",
+      "lang": "vi",
+      "content_html": "<p>Kiến 建 trúc sư đi 廴 vẽ nhà bằng cây bút 聿</p>",
+      "content_text": "Kiến 建 trúc sư đi 廴 vẽ nhà bằng cây bút 聿",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158907",
+      "lang": "vi",
+      "content_html": "<p>建築家(けんちくか): kiến trúc sư</p>",
+      "content_text": "建築家(けんちくか): kiến trúc sư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

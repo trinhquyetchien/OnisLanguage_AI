@@ -1,0 +1,89 @@
+{
+  "kanji": "唯",
+  "meta": {
+    "weight": 495,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユイ",
+      "イ"
+    ],
+    "kun": [
+      "ただ"
+    ],
+    "am_han": "DUY, DỤY"
+  },
+  "meaning": {
+    "vi": "duy nhất, đơn thuần, đơn giản",
+    "en": "solely, only, merely, simply"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/唯.svg"
+  },
+  "frequency": 1292,
+  "examples": [
+    "唯一",
+    "唯",
+    "唯物"
+  ],
+  "explanation": {
+    "id": "7734",
+    "text": "唯 (đọc là \"yui\" hoặc \"i\") có nghĩa là \"duy nhất\", \"chỉ có\" để chỉ sự độc nhất, không giống ai khác.\n\nVí dụ:\n- 唯一 (yuiitsu): Duy nhất, chỉ có một.\n- 唯物論 (yuibutsuron): Chủ nghĩa duy vật.\n- 唯心"
+  },
+  "comments": [
+    {
+      "id": "152424",
+      "lang": "vi",
+      "content_html": "<p>Mồm kêu chỉ chim của tao là duy nhất</p>",
+      "content_text": "Mồm kêu chỉ chim của tao là duy nhất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152425",
+      "lang": "vi",
+      "content_html": "<p>Con chim chỉ có DUY nhất một cái mồm.</p>",
+      "content_text": "Con chim chỉ có DUY nhất một cái mồm.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152426",
+      "lang": "vi",
+      "content_html": "<p>Con chim (隹) là khẩu (口) súng duy nhất của tui</p>",
+      "content_text": "Con chim (隹) là khẩu (口) súng duy nhất của tui",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

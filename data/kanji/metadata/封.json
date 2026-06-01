@@ -1,0 +1,89 @@
+{
+  "kanji": "封",
+  "meta": {
+    "weight": 752,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フウ",
+      "ホウ"
+    ],
+    "kun": [],
+    "am_han": "PHONG"
+  },
+  "meaning": {
+    "vi": "bao đóng, niêm phong",
+    "en": "seal, closing"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/封.svg"
+  },
+  "frequency": 1143,
+  "examples": [
+    "封筒",
+    "封印",
+    "封鎖",
+    "封建",
+    "開封"
+  ],
+  "explanation": {
+    "id": "6879",
+    "text": "封 (đọc là \"fū\") có nghĩa là \"niêm phong\", \"đóng kín\" để chỉ các hành động liên quan đến việc bảo vệ hoặc giữ kín thông tin, vật phẩm.\n\nVí dụ:\n- 封筒 (fūtō): Bao thư.\n- 封じる (fūjiru): Niêm phong"
+  },
+  "comments": [
+    {
+      "id": "153040",
+      "lang": "vi",
+      "content_html": "<p>Lâm vào cảnh Thiếu Thốn vì bị niêm PHONG hết Đất</p>",
+      "content_text": "Lâm vào cảnh Thiếu Thốn vì bị niêm PHONG hết Đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153041",
+      "lang": "vi",
+      "content_html": "<p>được phong cho 2 mảnh đất dài 1 thốn</p>",
+      "content_text": "được phong cho 2 mảnh đất dài 1 thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153042",
+      "lang": "vi",
+      "content_html": "<p>Thời Phong kiến có 2 miếng đất bằng một thốn.</p>",
+      "content_text": "Thời Phong kiến có 2 miếng đất bằng một thốn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

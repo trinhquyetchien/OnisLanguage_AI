@@ -1,0 +1,90 @@
+{
+  "kanji": "奮",
+  "meta": {
+    "weight": 641,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フン"
+    ],
+    "kun": [
+      "ふる.う"
+    ],
+    "am_han": "PHẤN"
+  },
+  "meaning": {
+    "vi": "khuấy động, được tiếp thêm sinh lực, phát triển mạnh mẽ",
+    "en": "stirred up, be invigorated, flourish"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/奮.svg"
+  },
+  "frequency": 1521,
+  "examples": [
+    "興奮",
+    "奮闘",
+    "奮起",
+    "奮発",
+    "奮戦"
+  ],
+  "explanation": {
+    "id": "6962",
+    "text": "奮 (đọc là \"fun\") có nghĩa là \"cố gắng\", \"hăng hái\" để chỉ các hành động thể hiện sự nỗ lực và quyết tâm.  \nVí dụ:  \n- 奮闘 (funtō): Nỗ lực, phấn đấu.  \n- 奮起 (funki): Khích lệ, hưng phấn.  \n- 奮"
+  },
+  "comments": [
+    {
+      "id": "152774",
+      "lang": "vi",
+      "content_html": "<p>Trên đồng (田) thấy chú chim (隹) to (大) <br>Đột nhiên phấn (奮) khởi âu lo chẳng còn</p>",
+      "content_text": "Trên đồng (田) thấy chú chim (隹) to (大)\nĐột nhiên phấn (奮) khởi âu lo chẳng còn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152775",
+      "lang": "vi",
+      "content_html": "<p>Cảm giác phấn khích khi thấy chim lớn ngoài đồng</p>",
+      "content_text": "Cảm giác phấn khích khi thấy chim lớn ngoài đồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152776",
+      "lang": "vi",
+      "content_html": "<p>anh Điền Chym ảnh rất To, chị nhà Phấn khởi co ro cả người</p>",
+      "content_text": "anh Điền Chym ảnh rất To, chị nhà Phấn khởi co ro cả người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

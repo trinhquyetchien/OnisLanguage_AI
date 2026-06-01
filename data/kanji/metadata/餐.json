@@ -1,0 +1,52 @@
+{
+  "kanji": "餐",
+  "meta": {
+    "weight": 2936,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン",
+      "ソン"
+    ],
+    "kun": [
+      "の.む",
+      "くら.う"
+    ],
+    "am_han": "XAN"
+  },
+  "meaning": {
+    "vi": "ăn, uống, nuốt",
+    "en": "eat, drink, swallow"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/餐.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3026",
+    "text": "餐 (đọc là \"san\") có nghĩa là \"bữa ăn\" hoặc \"thức ăn\", chỉ các hành động liên quan đến việc ăn uống.\nVí dụ:\n- 食餐 (shokusan): Bữa ăn.\n- 餐食 (canshoku): Thực phẩm, đồ ăn.\n- 朝餐 (chousan): Bữa sán"
+  },
+  "comments": [
+    {
+      "id": "221036",
+      "lang": "vi",
+      "content_html": "<p>野餐 ： dã ngoại , cơm dã ngoại<br>餐廳 ： nhà ăn</p>",
+      "content_text": "野餐 ： dã ngoại , cơm dã ngoại\n餐廳 ： nhà ăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

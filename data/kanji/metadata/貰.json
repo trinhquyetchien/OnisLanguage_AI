@@ -1,0 +1,89 @@
+{
+  "kanji": "貰",
+  "meta": {
+    "weight": 2553,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "シャ"
+    ],
+    "kun": [
+      "もら.う"
+    ],
+    "am_han": "THẾ"
+  },
+  "meaning": {
+    "vi": "có được, có",
+    "en": "get, have, obtain"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/貰.svg"
+  },
+  "frequency": 2441,
+  "examples": [
+    "貰い",
+    "貰う",
+    "貰える"
+  ],
+  "explanation": {
+    "id": "7648",
+    "text": "貰 (đọc là \"mora\") có nghĩa là \"nhận\" hoặc \"được cho\", thường chỉ hành động nhận một cái gì đó từ người khác.\n\nVí dụ:\n- 貰う (morau): Nhận, được cho.\n- お土産を貰う (omiyage o morau): Nhận quà lưu ni"
+  },
+  "comments": [
+    {
+      "id": "157073",
+      "lang": "vi",
+      "content_html": "<p>Nhận tiền từ thế giới</p>",
+      "content_text": "Nhận tiền từ thế giới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157074",
+      "lang": "vi",
+      "content_html": "<p>世 cả THẾ giới đều muốn tiền貝 BỐI<br>貰 THẾ là cứ Nhận thôi</p>",
+      "content_text": "世 cả THẾ giới đều muốn tiền貝 BỐI\n貰 THẾ là cứ Nhận thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157075",
+      "lang": "vi",
+      "content_html": "<p>trên (THẾ 世) giới đều NHẬN (VỎ SÒ 貝 ) làm trang sức...</p>",
+      "content_text": "trên (THẾ 世) giới đều NHẬN (VỎ SÒ 貝 ) làm trang sức...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

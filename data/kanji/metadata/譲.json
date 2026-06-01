@@ -1,0 +1,90 @@
+{
+  "kanji": "譲",
+  "meta": {
+    "weight": 2530,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [
+      "ゆず.る"
+    ],
+    "am_han": "NHƯỢNG, NHƯỜNG"
+  },
+  "meaning": {
+    "vi": "hoãn lại, luân chuyển, chuyển nhượng, chuyển tải",
+    "en": "defer, turnover, transfer, convey"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/譲.svg"
+  },
+  "frequency": 984,
+  "examples": [
+    "譲渡",
+    "移譲",
+    "分譲",
+    "譲歩",
+    "譲り"
+  ],
+  "explanation": {
+    "id": "3994",
+    "text": "譲 (đọc là \"jou\") có nghĩa là \"nhường\", \"chuyển nhượng\" để chỉ các hành động liên quan đến việc nhường lại hoặc chuyển giao quyền lợi cho người khác.\n\nVí dụ:\n- 譲歩 (jouho): Nhượng bộ, thỏa hiệ"
+  },
+  "comments": [
+    {
+      "id": "157015",
+      "lang": "vi",
+      "content_html": "<p>Nói 6 lời nhượng bộ gộp 2 biểu đất</p>",
+      "content_text": "Nói 6 lời nhượng bộ gộp 2 biểu đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157016",
+      "lang": "vi",
+      "content_html": "<p>miệng toác ra nói 6 lần nhượng bộ quần áo cho ng khác</p>",
+      "content_text": "miệng toác ra nói 6 lần nhượng bộ quần áo cho ng khác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157017",
+      "lang": "vi",
+      "content_html": "<p>nói 6 câu để đc nhượng hàng rào phơi quần áo</p>",
+      "content_text": "nói 6 câu để đc nhượng hàng rào phơi quần áo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

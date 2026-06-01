@@ -1,0 +1,94 @@
+{
+  "kanji": "手",
+  "meta": {
+    "weight": 1045,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ",
+      "ズ"
+    ],
+    "kun": [
+      "て",
+      "て-",
+      "-て",
+      "た-"
+    ],
+    "am_han": "THỦ"
+  },
+  "meaning": {
+    "vi": "tay",
+    "en": "hand"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/手.svg"
+  },
+  "frequency": 60,
+  "examples": [
+    "手",
+    "相手",
+    "選手",
+    "手段",
+    "勝手"
+  ],
+  "explanation": {
+    "id": "3412",
+    "text": "手 (đọc là \"te\") có nghĩa là \"tay\" để chỉ bộ phận cơ thể và các hành động liên quan đến việc sử dụng tay.\nVí dụ:\n- 手紙 (tegami): Thư tay.\n- 手伝う (tetsudau): Giúp đỡ, hỗ trợ.\n- 手術 (shujutsu): Ph"
+  },
+  "comments": [
+    {
+      "id": "191030",
+      "lang": "vi",
+      "content_html": "<p><strong>tay</strong></p>",
+      "content_text": "tay",
+      "image_url": "https://jpdictionary.com/upload/images/648a902be893f.jpg",
+      "image_path": "assets/images/手_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "728",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của bàn <strong>tay</strong>.</p>",
+      "content_text": "Hình dạng của bàn\ntay\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62984191c0f74.jpg",
+      "image_path": "assets/images/手_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158277",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>手 (て): tay<br>お手洗い (おてあらい): nhà vệ sinh<br>切手 (きって): con tem<br>上手 (じょうず): giỏi, khéo<br>手紙 (てがみ): bức thư<br>下手 (へた): kém, vụng về<br>運転手 (うんてんしゅ): người lái xe<br>手伝う (てつだう): giúp đỡ<br>手袋 (てぶくろ): găng tay<br>選手 (せんしゅ): vận động viên<br>手ぶくろ (てぶくろ): găng tay<br>相手 (あいて): đối phương, người kia</p>",
+      "content_text": "JLPT N4\n手 (て): tay\nお手洗い (おてあらい): nhà vệ sinh\n切手 (きって): con tem\n上手 (じょうず): giỏi, khéo\n手紙 (てがみ): bức thư\n下手 (へた): kém, vụng về\n運転手 (うんてんしゅ): người lái xe\n手伝う (てつだう): giúp đỡ\n手袋 (てぶくろ): găng tay\n選手 (せんしゅ): vận động viên\n手ぶくろ (てぶくろ): găng tay\n相手 (あいて): đối phương, người kia",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

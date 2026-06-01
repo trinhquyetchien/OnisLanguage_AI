@@ -1,0 +1,109 @@
+{
+  "kanji": "暗",
+  "meta": {
+    "weight": 1248,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アン"
+    ],
+    "kun": [
+      "くら.い",
+      "くら.む",
+      "くれ.る"
+    ],
+    "am_han": "ÁM"
+  },
+  "meaning": {
+    "vi": "bóng tối, ám sát",
+    "en": "darkness, disappear, shade, informal, grow dark, be blinded"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/暗.svg"
+  },
+  "frequency": 1040,
+  "examples": [
+    "暗い",
+    "暗号",
+    "暗殺",
+    "暗示",
+    "暗闇"
+  ],
+  "explanation": {
+    "id": "97",
+    "text": "暗 (đọc là \"an\") có nghĩa là \"tối\", \"mờ\", dùng để chỉ trạng thái thiếu ánh sáng hoặc cảm giác u ám, bí ẩn.  \nVí dụ:  \n- 暗い (kurai): Tối tăm, u ám.  \n- 暗号 (angou): Mật mã.  \n- 暗視 (anshi): Nhìn"
+  },
+  "comments": [
+    {
+      "id": "1046",
+      "lang": "vi",
+      "content_html": "<p>Vì bên trong <strong>tối </strong>nên chỉ có thể nghe thấy âm thanh (音).</p>",
+      "content_text": "Vì bên trong\ntối\nnên chỉ có thể nghe thấy âm thanh (音).",
+      "image_url": "https://jpdictionary.com/upload/images/62a1f9fd576d1.png",
+      "image_path": "assets/images/暗_1.png",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154274",
+      "lang": "vi",
+      "content_html": "<p>đứng (立)giữa hai ngày 日 là 1 Đêm tối ( ám 暗)</p>",
+      "content_text": "đứng (立)giữa hai ngày 日 là 1 Đêm tối ( ám 暗)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154275",
+      "lang": "vi",
+      "content_html": "<p>OChủ nhật. âm thanh rất là u ám</p>",
+      "content_text": "OChủ nhật. âm thanh rất là u ám",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154276",
+      "lang": "vi",
+      "content_html": "<p>học kanji mà quên ÂM NHẬT thì thành TỐI cổ</p>",
+      "content_text": "học kanji mà quên ÂM NHẬT thì thành TỐI cổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

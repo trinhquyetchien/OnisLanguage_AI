@@ -1,0 +1,89 @@
+{
+  "kanji": "隙",
+  "meta": {
+    "weight": 2844,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲキ",
+      "キャク",
+      "ケキ"
+    ],
+    "kun": [
+      "すき",
+      "す.く",
+      "す.かす",
+      "ひま"
+    ],
+    "am_han": "KHÍCH"
+  },
+  "meaning": {
+    "vi": "kẽ hở, khe nứt, bất hòa, cơ hội, giải trí",
+    "en": "crevice, fissure, discord, opportunity, leisure"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/隙.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2060",
+    "text": "隙 (đọc là \"suki\") có nghĩa là \"khoảng trống\", \"khe hở\", thể hiện sự thiếu hụt hoặc khoảng cách giữa các vật. \n\nVí dụ:\n- 隙間 (sukima): Khe hở, khoảng trống.\n- 隙をつく (suki o tsuku): Tận dụng kho"
+  },
+  "comments": [
+    {
+      "id": "220951",
+      "lang": "vi",
+      "content_html": "<p>Bức tường có 2 lỗ nhỏ nhìn rõ ánh mặt trời</p>",
+      "content_text": "Bức tường có 2 lỗ nhỏ nhìn rõ ánh mặt trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220952",
+      "lang": "vi",
+      "content_html": "<p>Khuyến Khích làm bức tường có 2 lỗ hổng nhỏ.</p>",
+      "content_text": "Khuyến Khích làm bức tường có 2 lỗ hổng nhỏ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220953",
+      "lang": "vi",
+      "content_html": "<p>làm bức tường có 2 lỗ hổng nhỏ nên được khuyến khích ^^</p>",
+      "content_text": "làm bức tường có 2 lỗ hổng nhỏ nên được khuyến khích ^^",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

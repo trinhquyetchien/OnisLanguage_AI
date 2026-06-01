@@ -1,0 +1,91 @@
+{
+  "kanji": "稀",
+  "meta": {
+    "weight": 1935,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ",
+      "ケ"
+    ],
+    "kun": [
+      "まれ",
+      "まばら"
+    ],
+    "am_han": "HI"
+  },
+  "meaning": {
+    "vi": "hiếm, hiện tượng, loãng (axit)",
+    "en": "rare, phenomenal, dilute (acid)"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/稀.svg"
+  },
+  "frequency": 2232,
+  "examples": [
+    "稀",
+    "稀有",
+    "稀少",
+    "稀代"
+  ],
+  "explanation": {
+    "id": "1353",
+    "text": "稀 (đọc là \"ki\" hoặc \"maku\") có nghĩa là \"hiếm\", \"ít khi xảy ra\". \n\nVí dụ:\n- 稀有 (kiyuu): Hiếm có, hiếm thấy.\n- 稀薄 (kihaku): Loãng, ít, không đặc.\n- 稀に (まれに, mare ni): Hiếm khi, thỉnh thoảng."
+  },
+  "comments": [
+    {
+      "id": "155757",
+      "lang": "vi",
+      "content_html": "<p>HI hữu mới có 1 cây Lúa chết thôi</p>",
+      "content_text": "HI hữu mới có 1 cây Lúa chết thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155758",
+      "lang": "vi",
+      "content_html": "<p>Hi hữu mới dùng kéo cắt vải để cắt lúa</p>",
+      "content_text": "Hi hữu mới dùng kéo cắt vải để cắt lúa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155759",
+      "lang": "vi",
+      "content_html": "<p>Hi vọng vào cây lúa là ít ỏi.</p>",
+      "content_text": "Hi vọng vào cây lúa là ít ỏi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

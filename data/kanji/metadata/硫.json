@@ -1,0 +1,87 @@
+{
+  "kanji": "硫",
+  "meta": {
+    "weight": 1876,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リュウ"
+    ],
+    "kun": [],
+    "am_han": "LƯU"
+  },
+  "meaning": {
+    "vi": "lưu huỳnh",
+    "en": "sulphur"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/硫.svg"
+  },
+  "frequency": 1867,
+  "examples": [
+    "硫黄",
+    "硫酸",
+    "硫化",
+    "硫安"
+  ],
+  "explanation": {
+    "id": "8062",
+    "text": "硫 (đọc là \"ryū\") có nghĩa là \"lưu huỳnh\", một nguyên tố hóa học quan trọng trong tự nhiên và công nghiệp. \n\nVí dụ:\n- 硫酸 (ryūsuan): Axit sulfuric.\n- 硫黄 (iō): Lưu huỳnh (tên gọi hằng ngày).\n- "
+  },
+  "comments": [
+    {
+      "id": "155642",
+      "lang": "vi",
+      "content_html": "<p>Đá LƯU huỳnh</p>",
+      "content_text": "Đá LƯU huỳnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155643",
+      "lang": "vi",
+      "content_html": "<p>Lưu thêm đá là lưu huỳnh</p>",
+      "content_text": "Lưu thêm đá là lưu huỳnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155644",
+      "lang": "vi",
+      "content_html": "<p>Đá ở đầu nguồn có thể làm thành LƯU huỳnh</p>",
+      "content_text": "Đá ở đầu nguồn có thể làm thành LƯU huỳnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

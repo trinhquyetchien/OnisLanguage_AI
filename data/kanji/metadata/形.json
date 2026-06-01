@@ -1,0 +1,111 @@
+{
+  "kanji": "形",
+  "meta": {
+    "weight": 910,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ",
+      "ギョウ"
+    ],
+    "kun": [
+      "かた",
+      "-がた",
+      "かたち",
+      "なり"
+    ],
+    "am_han": "HÌNH"
+  },
+  "meaning": {
+    "vi": "hình dạng",
+    "en": "shape, form, style"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/形.svg"
+  },
+  "frequency": 418,
+  "examples": [
+    "形",
+    "形式",
+    "形成",
+    "形態",
+    "人形"
+  ],
+  "explanation": {
+    "id": "1958",
+    "text": "形 (đọc là \"kei\" hoặc \"katachi\") có nghĩa là \"hình dáng\", \"hình thức\", để chỉ các hình dạng, cấu trúc hoặc mô hình của vật thể.  \nVí dụ:  \n- 形状 (keijō): Hình dạng, hình thức.  \n- 形式 (keishiki"
+  },
+  "comments": [
+    {
+      "id": "37186",
+      "lang": "vi",
+      "content_html": "<p>Tôi đang tạo <strong>hình</strong>.</p>",
+      "content_text": "Tôi đang tạo\nhình\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd2aba3e89.jpg",
+      "image_path": "assets/images/形_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153426",
+      "lang": "vi",
+      "content_html": "<p>Chắp tay tạo hình kiểu tóc</p>",
+      "content_text": "Chắp tay tạo hình kiểu tóc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190791",
+      "lang": "vi",
+      "content_html": "<p>外形(がいけい): bên ngoài, vẻ bề ngoài</p><p>形成(けいせい): hình thành</p>",
+      "content_text": "外形(がいけい): bên ngoài, vẻ bề ngoài\n形成(けいせい): hình thành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "153427",
+      "lang": "vi",
+      "content_html": "<p>Chắp tay vuốt tóc tạo Hình</p>",
+      "content_text": "Chắp tay vuốt tóc tạo Hình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

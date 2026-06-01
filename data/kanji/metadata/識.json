@@ -1,0 +1,108 @@
+{
+  "kanji": "識",
+  "meta": {
+    "weight": 2526,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シキ"
+    ],
+    "kun": [
+      "し.る",
+      "しる.す"
+    ],
+    "am_han": "THỨC"
+  },
+  "meaning": {
+    "vi": "nhận thức, kiến thức",
+    "en": "discriminating, know, write"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/識.svg"
+  },
+  "frequency": 496,
+  "examples": [
+    "意識",
+    "知識",
+    "認識",
+    "常識",
+    "無意識"
+  ],
+  "explanation": {
+    "id": "3246",
+    "text": "識 (đọc là \"shiki\") có nghĩa là \"nhận thức\", \"hiểu biết\" để chỉ khả năng hiểu và nhận biết thông tin, kiến thức.\n\nVí dụ:\n- 知識 (chishiki): Kiến thức, tri thức.\n- 認識 (ninshiki): Nhận thức, sự h"
+  },
+  "comments": [
+    {
+      "id": "157003",
+      "lang": "vi",
+      "content_html": "<p>識 : Nói tri thức<br>織 : Nối tổ chức<br>職 : Nghe công việc</p>",
+      "content_text": "識 : Nói tri thức\n織 : Nối tổ chức\n職 : Nghe công việc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190662",
+      "lang": "vi",
+      "content_html": "<p>Nói Âm sắc bén như Qua là người có kiến Thức</p>",
+      "content_text": "Nói Âm sắc bén như Qua là người có kiến Thức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157004",
+      "lang": "vi",
+      "content_html": "<p>Người có học THỨC là người chỉ cần Nghe NÓI QUA là hiểu</p>",
+      "content_text": "Người có học THỨC là người chỉ cần Nghe NÓI QUA là hiểu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157005",
+      "lang": "vi",
+      "content_html": "<p>Người có tri thức ngôn ngữ nói ra phải âm vang, sắc bén như cái mác (qua)</p>",
+      "content_text": "Người có tri thức ngôn ngữ nói ra phải âm vang, sắc bén như cái mác (qua)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

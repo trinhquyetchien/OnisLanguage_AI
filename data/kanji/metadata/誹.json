@@ -1,0 +1,68 @@
+{
+  "kanji": "誹",
+  "meta": {
+    "weight": 2499,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ",
+      "ハイ"
+    ],
+    "kun": [
+      "そし.る"
+    ],
+    "am_han": "PHỈ"
+  },
+  "meaning": {
+    "vi": "nhạo báng, vu khống",
+    "en": "ridicule, slander"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/誹.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6595",
+    "text": "誹 (đọc là \"hi\") có nghĩa là \"nói xấu\", \"vu khống\" để chỉ các hành động liên quan đến việc bôi nhọ danh dự hoặc làm tổn hại đến uy tín của người khác.\n\nVí dụ:\n- 誹謗 (hibō): Nói xấu, vu khống.\n"
+  },
+  "comments": [
+    {
+      "id": "220697",
+      "lang": "vi",
+      "content_html": "<p>Dùng ngôn 言　không đúng 非　để phỉ báng 誹謗 người khác là không được... 他人を誹謗する前に、自分の姿勢を正すべきだ. Hãy thay đổi bản thân trước đi phỉ báng người khác.</p>",
+      "content_text": "Dùng ngôn 言　không đúng 非　để phỉ báng 誹謗 người khác là không được... 他人を誹謗する前に、自分の姿勢を正すべきだ. Hãy thay đổi bản thân trước đi phỉ báng người khác.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220698",
+      "lang": "vi",
+      "content_html": "<p>Thấy người ta làm trái mà mình chê bai gọi là Phỉ</p>",
+      "content_text": "Thấy người ta làm trái mà mình chê bai gọi là Phỉ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

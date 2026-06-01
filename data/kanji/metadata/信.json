@@ -1,0 +1,105 @@
+{
+  "kanji": "信",
+  "meta": {
+    "weight": 201,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [],
+    "am_han": "TÍN"
+  },
+  "meaning": {
+    "vi": "uy tín",
+    "en": "faith, truth, fidelity, trust"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/信.svg"
+  },
+  "frequency": 208,
+  "examples": [
+    "通信",
+    "信頼",
+    "自信",
+    "信用",
+    "配信"
+  ],
+  "explanation": {
+    "id": "4051",
+    "text": "信 (đọc là \"shin\") có nghĩa là \"tin tưởng\", \"tín nhiệm\", chỉ sự tin cậy hoặc tín ngưỡng. \n\nVí dụ:\n- 信頼 (shinrai): Tin cậy, tín nhiệm.\n- 信念 (shinnen): Niềm tin, lý tưởng.\n- 信用 (shinyou): Tín d"
+  },
+  "comments": [
+    {
+      "id": "37320",
+      "lang": "vi",
+      "content_html": "<p>Lời nói (言) của tôi rất <strong>uy tín</strong>.</p>",
+      "content_text": "Lời nói (言) của tôi rất\nuy tín\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe5d8efefe.jpg",
+      "image_path": "assets/images/信_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151692",
+      "lang": "vi",
+      "content_html": "<p>Con Người Nói phải giữ chữ Tín.</p>",
+      "content_text": "Con Người Nói phải giữ chữ Tín.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151693",
+      "lang": "vi",
+      "content_html": "<p>LÀ CON NGƯỜI KHI NÓI PHẢI CÓ CHỮ TÍN</p>",
+      "content_text": "LÀ CON NGƯỜI KHI NÓI PHẢI CÓ CHỮ TÍN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151694",
+      "lang": "vi",
+      "content_html": "<p>Lời nói của con người là một tín hiệu</p>",
+      "content_text": "Lời nói của con người là một tín hiệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "kanji": "楠",
+  "meta": {
+    "weight": 1395,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ナン",
+      "ダン",
+      "ゼン",
+      "ネン"
+    ],
+    "kun": [
+      "くす",
+      "くすのき"
+    ],
+    "am_han": "NAM"
+  },
+  "meaning": {
+    "vi": "cây long não",
+    "en": "camphor tree"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/楠.svg"
+  },
+  "frequency": 1927,
+  "examples": [
+    "楠"
+  ],
+  "explanation": {
+    "id": "6076",
+    "text": "楠 (đọc là \"nan\") có nghĩa là \"cây hương sơn\", chỉ loại cây gỗ cứng, thường được sử dụng trong xây dựng và sản xuất đồ nội thất. \n\nVí dụ:\n- 楠木 (nanzuki): Gỗ hương sơn.\n- 楠樹 (nanzu): Cây hương"
+  },
+  "comments": [
+    {
+      "id": "154576",
+      "lang": "vi",
+      "content_html": "<p>Cây mọc phía NAM là cây long não</p>",
+      "content_text": "Cây mọc phía NAM là cây long não",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

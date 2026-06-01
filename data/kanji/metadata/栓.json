@@ -1,0 +1,85 @@
+{
+  "kanji": "栓",
+  "meta": {
+    "weight": 1336,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [],
+    "am_han": "XUYÊN"
+  },
+  "meaning": {
+    "vi": "phích cắm, bu lông, nút chai, bung, nút",
+    "en": "plug, bolt, cork, bung, stopper"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/栓.svg"
+  },
+  "frequency": 2199,
+  "examples": [
+    "栓",
+    "血栓"
+  ],
+  "explanation": {
+    "id": "4502",
+    "text": "栓 (đọc là \"sen\") có nghĩa là \"nắp\", \"chốt\" để chỉ các vật dụng dùng để đậy hoặc đóng kín.  \nVí dụ:  \n- 栓抜き (sennuki): Cái mở nắp chai.  \n- 栓 (sen): Nắp, chốt (như trong ngữ cảnh nước hoặc ch"
+  },
+  "comments": [
+    {
+      "id": "154480",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa nút làm hoàn toàn bằng gỗ</p>",
+      "content_text": "Thời xưa nút làm hoàn toàn bằng gỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154481",
+      "lang": "vi",
+      "content_html": "<p>điều THEN CHỐT là làm sao để bắn XUYÊN qua tất cả các cây</p>",
+      "content_text": "điều THEN CHỐT là làm sao để bắn XUYÊN qua tất cả các cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154482",
+      "lang": "vi",
+      "content_html": "<p>nếu nhậu thường xuyên thì sẽ biết toàn bộ nắp rượu được làm từ cây</p>",
+      "content_text": "nếu nhậu thường xuyên thì sẽ biết toàn bộ nắp rượu được làm từ cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

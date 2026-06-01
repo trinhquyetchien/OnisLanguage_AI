@@ -1,0 +1,88 @@
+{
+  "kanji": "砲",
+  "meta": {
+    "weight": 1871,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [],
+    "am_han": "PHÁO"
+  },
+  "meaning": {
+    "vi": "đại bác, súng",
+    "en": "cannon, gun"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/砲.svg"
+  },
+  "frequency": 1268,
+  "examples": [
+    "砲",
+    "発砲",
+    "鉄砲",
+    "大砲",
+    "砲弾"
+  ],
+  "explanation": {
+    "id": "7195",
+    "text": "砲 (đọc là \"hō\") có nghĩa là \"pháo\", chỉ các loại vũ khí bắn đạn, thường liên quan đến quân sự hoặc công nghệ bắn phá.  \nVí dụ:  \n- 砲撃 (hōgeki): Bắn phá, tấn công bằng pháo.  \n- 大砲 (taihō): Đ"
+  },
+  "comments": [
+    {
+      "id": "155633",
+      "lang": "vi",
+      "content_html": "<p>Pháo được bọc đá</p>",
+      "content_text": "Pháo được bọc đá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155634",
+      "lang": "vi",
+      "content_html": "<p>Bao bọc viên đá lại để làm đạn pháo</p>",
+      "content_text": "Bao bọc viên đá lại để làm đạn pháo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155635",
+      "lang": "vi",
+      "content_html": "<p>Pháo bắn đá bọc thép</p>",
+      "content_text": "Pháo bắn đá bọc thép",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

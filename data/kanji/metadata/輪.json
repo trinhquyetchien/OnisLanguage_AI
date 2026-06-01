@@ -1,0 +1,107 @@
+{
+  "kanji": "輪",
+  "meta": {
+    "weight": 2618,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リン"
+    ],
+    "kun": [
+      "わ"
+    ],
+    "am_han": "LUÂN"
+  },
+  "meaning": {
+    "vi": "nhẫn, bánh xe, luân hồi",
+    "en": "wheel, ring, circle, link, loop, counter for wheels and flowers"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/輪.svg"
+  },
+  "frequency": 693,
+  "examples": [
+    "輪",
+    "五輪",
+    "指輪",
+    "輪郭",
+    "車輪"
+  ],
+  "explanation": {
+    "id": "8177",
+    "text": "輪 (đọc là \"rin\" hoặc \"wa\") có nghĩa là \"bánh xe\" hoặc \"vòng tròn\", chỉ các vật hình tròn hoặc khái niệm về sự tuần hoàn, kết nối.\nVí dụ:\n- 輪車 (rinsha): Xe đạp, xe có bánh.\n- 輪廻 (rinne): Sự l"
+  },
+  "comments": [
+    {
+      "id": "157240",
+      "lang": "vi",
+      "content_html": "<p>Dùng bánh xe luân chuyển sách trong nhà</p>",
+      "content_text": "Dùng bánh xe luân chuyển sách trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190772",
+      "lang": "vi",
+      "content_html": "<p>Trong xe có người đọc 1 cuốn sách về kinh Luân</p>",
+      "content_text": "Trong xe có người đọc 1 cuốn sách về kinh Luân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157241",
+      "lang": "vi",
+      "content_html": "<p>Thằng Luân chạy Xe như cái Lôn</p>",
+      "content_text": "Thằng Luân chạy Xe như cái Lôn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157242",
+      "lang": "vi",
+      "content_html": "<p>thằng LUÂN chạy XE lên núi Côn LÔN (侖). Mà núi côn LÔN có cái HÀNG RÀO ngăn khokng cho vào NHÀ.</p>",
+      "content_text": "thằng LUÂN chạy XE lên núi Côn LÔN (侖). Mà núi côn LÔN có cái HÀNG RÀO ngăn khokng cho vào NHÀ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

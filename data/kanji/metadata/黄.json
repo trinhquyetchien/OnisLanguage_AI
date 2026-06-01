@@ -1,0 +1,109 @@
+{
+  "kanji": "黄",
+  "meta": {
+    "weight": 3025,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "オウ"
+    ],
+    "kun": [
+      "き",
+      "こ-"
+    ],
+    "am_han": "HOÀNG"
+  },
+  "meaning": {
+    "vi": "màu vàng, hoàng kim",
+    "en": "yellow"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/黄.svg"
+  },
+  "frequency": 1240,
+  "examples": [
+    "黄色",
+    "黄",
+    "黄金",
+    "黄色い",
+    "硫黄"
+  ],
+  "explanation": {
+    "id": "549",
+    "text": "黄 (đọc là \"ou\") có nghĩa là \"màu vàng\", thể hiện màu sắc hoặc các khía cạnh liên quan đến màu vàng trong tự nhiên và văn hóa.\n\nVí dụ:\n- 黄色 (kiiro): Màu vàng.\n- 黄昏 (tasogare): Hoàng hôn, thời"
+  },
+  "comments": [
+    {
+      "id": "158101",
+      "lang": "vi",
+      "content_html": "<p>Cỏ  mọc Tự Do 由 vào tháng 8 八 nên có màu Vàng 黄</p>",
+      "content_text": "Cỏ  mọc Tự Do 由 vào tháng 8 八 nên có màu Vàng 黄",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158102",
+      "lang": "vi",
+      "content_html": "<p>huy HOÀNG là 8 (ハ）thằng tự do (由)  bên 1 (一) thảm cỏ (艹)</p>",
+      "content_text": "huy HOÀNG là 8 (ハ）thằng tự do (由)  bên 1 (一) thảm cỏ (艹)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158103",
+      "lang": "vi",
+      "content_html": "<p>Hoàng hôn vàng trên cánh đồng cỏ</p>",
+      "content_text": "Hoàng hôn vàng trên cánh đồng cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221814",
+      "lang": "vi",
+      "content_html": "<p>Màu sắc trong Hán tự được thể hiện mang tính trừu tượng, dưới đây là vài suy đoán về nguồn gốc của <strong>Hoàng 黄</strong>:<br>+ Người ta tin rằng <strong>Đất </strong>có màu <strong>Vàng</strong>, nên trong <strong>Hoàng </strong>có chứa <strong>Điền</strong>, ký tự phụ ở trên tượng trưng hoa cỏ đang mọc.<br>+ Người bị ký sinh trùng, tổn thương nội tạng da có màu <strong>Vàng/Hoàng</strong>. Vì vậy chữ <strong>Hoàng </strong>có hình dạng giống như một người có cái<strong> bụng bị trương</strong> lên.<br>Vì màu sắc thường được thể hiện bằng những vật có màu đó nên nguồn gốc của chữ cũng vì thế mà không rõ ràng. (Not chatgpt)<br>&nbsp;</p>",
+      "content_text": "Màu sắc trong Hán tự được thể hiện mang tính trừu tượng, dưới đây là vài suy đoán về nguồn gốc của\nHoàng 黄\n:\n+ Người ta tin rằng\nĐất\ncó màu\nVàng\n, nên trong\nHoàng\ncó chứa\nĐiền\n, ký tự phụ ở trên tượng trưng hoa cỏ đang mọc.\n+ Người bị ký sinh trùng, tổn thương nội tạng da có màu\nVàng/Hoàng\n. Vì vậy chữ\nHoàng\ncó hình dạng giống như một người có cái\nbụng bị trương\nlên.\nVì màu sắc thường được thể hiện bằng những vật có màu đó nên nguồn gốc của chữ cũng vì thế mà không rõ ràng. (Not chatgpt)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

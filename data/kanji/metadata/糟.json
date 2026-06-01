@@ -1,0 +1,33 @@
+{
+  "kanji": "糟",
+  "meta": {
+    "weight": 2041,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ソウ"
+    ],
+    "kun": [
+      "ぬか"
+    ],
+    "am_han": "TAO"
+  },
+  "meaning": {
+    "vi": "cặn, trầm tích, đất",
+    "en": "dregs, sediment, grounds"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/糟.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4740",
+    "text": "糟 (đọc là \"sō\") có nghĩa là \"bã\", thường chỉ phần còn lại sau khi đã chế biến, ví dụ như bã rượu. \n\nVí dụ:\n- 糟糕 (sōkō): Khó khăn, tồi tệ.\n- 糟漬け (sōzuke): Dưa muối bằng bã.\n- 糟粕 (sōpaku): Phế"
+  },
+  "comments": []
+}

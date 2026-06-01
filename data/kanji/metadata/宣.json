@@ -1,0 +1,107 @@
+{
+  "kanji": "宣",
+  "meta": {
+    "weight": 722,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "のたま.う"
+    ],
+    "am_han": "TUYÊN"
+  },
+  "meaning": {
+    "vi": "tuyên bố, nói, thông báo",
+    "en": "proclaim, say, announce"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/宣.svg"
+  },
+  "frequency": 695,
+  "examples": [
+    "宣言",
+    "宣伝",
+    "宣告",
+    "宣",
+    "宣教師"
+  ],
+  "explanation": {
+    "id": "4481",
+    "text": "宣 (đọc là \"sen\") có nghĩa là \"tuyên bố\", \"công bố\" để chỉ các hành động liên quan đến việc thông báo hoặc công khai thông tin.\n\nVí dụ:\n- 宣言 (sengen): Tuyên ngôn, lời tuyên bố.\n- 宣伝 (sendan):"
+  },
+  "comments": [
+    {
+      "id": "152959",
+      "lang": "vi",
+      "content_html": "<p>Tuyên bố “ tao có 1001 ngôi nhà”</p>",
+      "content_text": "Tuyên bố “ tao có 1001 ngôi nhà”",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152960",
+      "lang": "vi",
+      "content_html": "<p>tuyên bố giữa thanh thiên bạch nhật. trên có trời cao soi sét, dưới có đất dày chứng giám, giữa có mặt trời soi xét. tuyên bố chia tay người yêu để học hán tự</p>",
+      "content_text": "tuyên bố giữa thanh thiên bạch nhật. trên có trời cao soi sét, dưới có đất dày chứng giám, giữa có mặt trời soi xét. tuyên bố chia tay người yêu để học hán tự",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152961",
+      "lang": "vi",
+      "content_html": "<p>Trong nhà tuyên truyền trên 1 dưới đều 1 ngày</p>",
+      "content_text": "Trong nhà tuyên truyền trên 1 dưới đều 1 ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221491",
+      "lang": "vi",
+      "content_html": "<p>chuyện trong nhà có trên có dưới nói 1 ngày mới có lý do để tuyên bố</p>",
+      "content_text": "chuyện trong nhà có trên có dưới nói 1 ngày mới có lý do để tuyên bố",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    }
+  ]
+}

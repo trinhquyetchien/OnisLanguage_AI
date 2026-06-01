@@ -1,0 +1,89 @@
+{
+  "kanji": "帆",
+  "meta": {
+    "weight": 831,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン"
+    ],
+    "kun": [
+      "ほ"
+    ],
+    "am_han": "PHÀM, PHÂM"
+  },
+  "meaning": {
+    "vi": "chèo",
+    "en": "sail"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/帆.svg"
+  },
+  "frequency": 1923,
+  "examples": [
+    "帆",
+    "帆船",
+    "帆布",
+    "帆足"
+  ],
+  "explanation": {
+    "id": "6450",
+    "text": "帆 (đọc là \"han\") có nghĩa là \"cánh buồm\" để chỉ các vật dụng dùng trong việc điều khiển thuyền bằng gió.\n\nVí dụ:\n- 帆船 (hansen): Thuyền buồm.\n- 帆を張る (han o haru): Giương buồm.\n- 漁帆 (gyohan): "
+  },
+  "comments": [
+    {
+      "id": "153238",
+      "lang": "vi",
+      "content_html": "<p>vải (巾)thường (凡) dùng làm CÁNH BUỒM</p>",
+      "content_text": "vải (巾)thường (凡) dùng làm CÁNH BUỒM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153239",
+      "lang": "vi",
+      "content_html": "<p>Vải căng ra gập lại như cánh buồn phi phàm</p>",
+      "content_text": "Vải căng ra gập lại như cánh buồn phi phàm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153240",
+      "lang": "vi",
+      "content_html": "<p>Người Phàm thường lấy Vải căng ra làm buồm cho chiếc thuyền thiếu mái chèo</p>",
+      "content_text": "Người Phàm thường lấy Vải căng ra làm buồm cho chiếc thuyền thiếu mái chèo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

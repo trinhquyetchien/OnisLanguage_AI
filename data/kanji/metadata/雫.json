@@ -1,0 +1,52 @@
+{
+  "kanji": "雫",
+  "meta": {
+    "weight": 2865,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダ"
+    ],
+    "kun": [
+      "しずく"
+    ],
+    "am_han": "ĐÀ"
+  },
+  "meaning": {
+    "vi": "rơi, nhỏ giọt, (kokuji)",
+    "en": "drop, trickle, dripping, (kokuji)"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/雫.svg"
+  },
+  "frequency": 2219,
+  "examples": [
+    "雫"
+  ],
+  "explanation": {
+    "id": "3257",
+    "text": "雫 (đọc là \"shizuku\") có nghĩa là \"giọt nước\" để chỉ các giọt lỏng, thường là nước hoặc chất lỏng khác.  \nVí dụ:  \n- 雫石 (shizukuishi): Đá giọt nước, đá có hình dạng như giọt nước.  \n- 雫が落ちる ("
+  },
+  "comments": [
+    {
+      "id": "157794",
+      "lang": "vi",
+      "content_html": "<p>mưa rơi xuống thành GIỌT</p>",
+      "content_text": "mưa rơi xuống thành GIỌT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

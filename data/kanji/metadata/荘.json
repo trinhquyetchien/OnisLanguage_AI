@@ -1,0 +1,93 @@
+{
+  "kanji": "荘",
+  "meta": {
+    "weight": 2284,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "ショウ",
+      "チャン"
+    ],
+    "kun": [
+      "ほうき",
+      "おごそ.か"
+    ],
+    "am_han": "TRANG"
+  },
+  "meaning": {
+    "vi": "biệt thự, nhà trọ, nhà tranh, trang viên phong kiến, trang nghiêm",
+    "en": "villa, inn, cottage, feudal manor, solemn, dignified"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/荘.svg"
+  },
+  "frequency": 1489,
+  "examples": [
+    "荘",
+    "別荘",
+    "荘厳",
+    "山荘",
+    "荘園"
+  ],
+  "explanation": {
+    "id": "4749",
+    "text": "荘 (đọc là \"sō\") có nghĩa là \"biệt thự\", \"nhà ở sang trọng\", thường chỉ những ngôi nhà lớn, đẹp hoặc khu nghỉ dưỡng. \n\nVí dụ:\n- 荘園 (sōen): Điền trang, khu đất rộng lớn.\n- 荘厳 (sōgon): Tráng lệ"
+  },
+  "comments": [
+    {
+      "id": "156524",
+      "lang": "vi",
+      "content_html": "<p>Cỏ mọc trong Trang trại của tráng sĩ</p>",
+      "content_text": "Cỏ mọc trong Trang trại của tráng sĩ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156525",
+      "lang": "vi",
+      "content_html": "<p>người cường TRÁNG thì làm TRANG trại cỏ</p>",
+      "content_text": "người cường TRÁNG thì làm TRANG trại cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156526",
+      "lang": "vi",
+      "content_html": "<p>Cỏ mọc trên tường trang trại của tráng sĩ trông rất TRANG trọng</p>",
+      "content_text": "Cỏ mọc trên tường trang trại của tráng sĩ trông rất TRANG trọng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

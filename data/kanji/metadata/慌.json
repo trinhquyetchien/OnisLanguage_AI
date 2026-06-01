@@ -1,0 +1,107 @@
+{
+  "kanji": "慌",
+  "meta": {
+    "weight": 1004,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "あわ.てる",
+      "あわ.ただしい"
+    ],
+    "am_han": "HOẢNG"
+  },
+  "meaning": {
+    "vi": "phân vân, bối rối, mất đầu",
+    "en": "disconcerted, be confused, lose one's head"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/慌.svg"
+  },
+  "frequency": 1826,
+  "examples": [
+    "恐慌",
+    "慌てる",
+    "慌しい",
+    "慌ただしい"
+  ],
+  "explanation": {
+    "id": "2450",
+    "text": "慌 (đọc là \"kou\" hoặc \"awaku\") có nghĩa là \"hoảng hốt\", \"hoang mang\" để chỉ trạng thái bất an, lo lắng hoặc không kịp xử lý tình huống.\n\nVí dụ:\n- 慌てる (awateru): Hoảng hốt, hoảng sợ.\n- 慌ただしい ("
+  },
+  "comments": [
+    {
+      "id": "153676",
+      "lang": "vi",
+      "content_html": "<p>con TIM HOẢNG hốt khi thấy cỏ(THẢO)  chết trên SÔNG</p>",
+      "content_text": "con TIM HOẢNG hốt khi thấy cỏ(THẢO)  chết trên SÔNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153677",
+      "lang": "vi",
+      "content_html": "<p>Con tim dựng ngược lên quên ngược quên xuôi ba chân  chạy đi mua hoa cho người yêu</p>",
+      "content_text": "Con tim dựng ngược lên quên ngược quên xuôi ba chân  chạy đi mua hoa cho người yêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153678",
+      "lang": "vi",
+      "content_html": "<p>Con tim hoảng hốt khi thấy 3 cây hoa bị chết</p>",
+      "content_text": "Con tim hoảng hốt khi thấy 3 cây hoa bị chết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222489",
+      "lang": "vi",
+      "content_html": "<p>vì VONG, <strong>con tym</strong> HOẢNG loạn trên <strong>dòng sông hoa</strong></p>",
+      "content_text": "vì VONG,\ncon tym\nHOẢNG loạn trên\ndòng sông hoa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5155",
+        "name": "Doan The Anh (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/66e4a5e9678a0.png"
+      }
+    }
+  ]
+}

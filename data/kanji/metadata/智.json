@@ -1,0 +1,88 @@
+{
+  "kanji": "智",
+  "meta": {
+    "weight": 1243,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チ"
+    ],
+    "kun": [],
+    "am_han": "TRÍ"
+  },
+  "meaning": {
+    "vi": "trí tuệ, lý trí",
+    "en": "wisdom, intellect, reason"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/智.svg"
+  },
+  "frequency": 1002,
+  "examples": [
+    "智",
+    "智恵",
+    "智慧",
+    "叡智",
+    "明智"
+  ],
+  "explanation": {
+    "id": "5208",
+    "text": "智 (đọc là \"chi\") có nghĩa là \"trí tuệ\", \"sự thông minh\" để chỉ khả năng hiểu biết, suy nghĩ và quyết định.  \nVí dụ:  \n- 知恵 (chie): Trí khôn, sự khôn ngoan.  \n- 智者 (chisha): Người trí thức, n"
+  },
+  "comments": [
+    {
+      "id": "154258",
+      "lang": "vi",
+      "content_html": "<p>trí tuệ là tri thức tích lũy hằng ngày</p>",
+      "content_text": "trí tuệ là tri thức tích lũy hằng ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154259",
+      "lang": "vi",
+      "content_html": "<p>muốn có TRÍ tuệ thì phải học hỏi mỗi NGÀY...</p>",
+      "content_text": "muốn có TRÍ tuệ thì phải học hỏi mỗi NGÀY...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154260",
+      "lang": "vi",
+      "content_html": "<p>さとし cũng là cách đọc</p>",
+      "content_text": "さとし cũng là cách đọc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

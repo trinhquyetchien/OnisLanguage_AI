@@ -1,0 +1,37 @@
+{
+  "kanji": "挺",
+  "meta": {
+    "weight": 1096,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ",
+      "テイ"
+    ],
+    "kun": [
+      "ぬ.く"
+    ],
+    "am_han": "ĐĨNH"
+  },
+  "meaning": {
+    "vi": "dũng cảm tình nguyện, truy tìm súng, bút mực, palanquins, xe kéo",
+    "en": "bravely volunteer, counter for guns, inksticks, palanquins, rickshaws"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/挺.svg"
+  },
+  "frequency": 2189,
+  "examples": [
+    "空挺",
+    "挺",
+    "挺身"
+  ],
+  "explanation": {
+    "id": "5569",
+    "text": "挺 (đọc là \"tō\") có nghĩa là \"cứng\", \"mạnh mẽ\" để chỉ sự kiên định hoặc vững chắc trong tư tưởng, hành động.\n\nVí dụ:\n- 挺身 (tōshin): Đứng thẳng, giữ vững.\n- 挺えた (toeoeta): Kiên cường, mạnh mẽ."
+  },
+  "comments": []
+}

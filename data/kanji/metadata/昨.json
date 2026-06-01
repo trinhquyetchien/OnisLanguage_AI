@@ -1,0 +1,88 @@
+{
+  "kanji": "昨",
+  "meta": {
+    "weight": 1229,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サク"
+    ],
+    "kun": [],
+    "am_han": "TẠC"
+  },
+  "meaning": {
+    "vi": "hôm qua",
+    "en": "yesterday, previous"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/昨.svg"
+  },
+  "frequency": 226,
+  "examples": [
+    "昨日",
+    "昨年",
+    "昨夜",
+    "昨今",
+    "一昨日"
+  ],
+  "explanation": {
+    "id": "2894",
+    "text": "昨日 ( đọc là \"sakujitsu\" hoặc \"kinō\") có nghĩa là \"hôm qua\", chỉ thời gian một ngày trước hiện tại.  \nVí dụ:  \n- 昨日 (kinō): Hôm qua.  \n- 昨日のニュース (kinō no nyūsu): Tin tức hôm qua.  \n- 昨日まで (ki"
+  },
+  "comments": [
+    {
+      "id": "154225",
+      "lang": "vi",
+      "content_html": "<p>TÁC(bộ tác) phẩm ngày(NHẬT) hôm qua là TẠC tượng</p>",
+      "content_text": "TÁC(bộ tác) phẩm ngày(NHẬT) hôm qua là TẠC tượng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154226",
+      "lang": "vi",
+      "content_html": "<p>hôm trước bị bực xạ mặt trời tạc vào</p>",
+      "content_text": "hôm trước bị bực xạ mặt trời tạc vào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154227",
+      "lang": "vi",
+      "content_html": "<p>mặt trời được tạo từ hôm qua</p>",
+      "content_text": "mặt trời được tạo từ hôm qua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

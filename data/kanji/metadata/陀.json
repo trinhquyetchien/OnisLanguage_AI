@@ -1,0 +1,37 @@
+{
+  "kanji": "陀",
+  "meta": {
+    "weight": 2820,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タ",
+      "ダ",
+      "イ",
+      "チ",
+      "ジ"
+    ],
+    "kun": [
+      "けわ.しい",
+      "ななめ"
+    ],
+    "am_han": "ĐÀ"
+  },
+  "meaning": {
+    "vi": "dốc đứng",
+    "en": "steep"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/陀.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4912",
+    "text": "陀 (đọc là \"da\") có nghĩa là \"rơi\", thường dùng để chỉ sự rơi hoặc lăn của một vật nào đó. \n\nVí dụ:\n- 陀羅尼 (darani): Mantra trong Phật giáo.\n- 陀仏 (dabutsu): Hình ảnh của Đức Phật, thường được "
+  },
+  "comments": []
+}

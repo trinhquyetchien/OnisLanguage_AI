@@ -1,0 +1,90 @@
+{
+  "kanji": "利",
+  "meta": {
+    "weight": 320,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リ"
+    ],
+    "kun": [
+      "き.く"
+    ],
+    "am_han": "LỢI"
+  },
+  "meaning": {
+    "vi": "lợi ích",
+    "en": "profit, advantage, benefit"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/利.svg"
+  },
+  "frequency": 203,
+  "examples": [
+    "利用",
+    "利益",
+    "権利",
+    "便利",
+    "金利"
+  ],
+  "explanation": {
+    "id": "7996",
+    "text": "利 (đọc là \"ri\") có nghĩa là \"lợi ích\", \"có lợi\" để chỉ những điều mang lại lợi ích hoặc thành công trong các tình huống khác nhau.  \nVí dụ:  \n- 利益 (rieki): Lợi nhuận, lợi ích.  \n- 有利 (yūri):"
+  },
+  "comments": [
+    {
+      "id": "190907",
+      "lang": "vi",
+      "content_html": "<p><strong>lợi ích</strong></p>",
+      "content_text": "lợi ích",
+      "image_url": "https://jpdictionary.com/upload/images/648a6d97b7a65.jpg",
+      "image_path": "assets/images/利_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "37105",
+      "lang": "vi",
+      "content_html": "<p>Gặt lúa thu được<strong> lợi ích</strong>.</p>",
+      "content_text": "Gặt lúa thu được\nlợi ích\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb3873830a.jpg",
+      "image_path": "assets/images/利_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151998",
+      "lang": "vi",
+      "content_html": "<p>Cắt lúa( hoà) bằng Đao thì rất tiện Lợi!</p>",
+      "content_text": "Cắt lúa( hoà) bằng Đao thì rất tiện Lợi!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

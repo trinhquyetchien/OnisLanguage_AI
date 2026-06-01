@@ -1,0 +1,50 @@
+{
+  "kanji": "挽",
+  "meta": {
+    "weight": 1097,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バン"
+    ],
+    "kun": [
+      "ひ.く"
+    ],
+    "am_han": "VÃN"
+  },
+  "meaning": {
+    "vi": "cưa, tiện (tiện), mài",
+    "en": "saw, turn (lathe), grind"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/挽.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6509",
+    "text": "挽 (đọc là \"ban\") có nghĩa là \"kéo\", \"lôi kéo\" hoặc chỉ hành động cứu vớt, hỗ trợ. \n\nVí dụ:\n- 挽歌 (banka): Bài thơ tang lễ.\n- 挽回 (hankai): Khôi phục, lấy lại.\n- 挽留 (banryū): Giữ lại, không cho"
+  },
+  "comments": [
+    {
+      "id": "219600",
+      "lang": "vi",
+      "content_html": "<p>Vào buổi tối vua thường khoát tay ra hiệu miễn lễ</p>",
+      "content_text": "Vào buổi tối vua thường khoát tay ra hiệu miễn lễ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

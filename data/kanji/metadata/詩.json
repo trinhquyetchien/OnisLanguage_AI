@@ -1,0 +1,90 @@
+{
+  "kanji": "詩",
+  "meta": {
+    "weight": 2478,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "うた"
+    ],
+    "am_han": "THI"
+  },
+  "meaning": {
+    "vi": "bài thơ",
+    "en": "poem, poetry"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/詩.svg"
+  },
+  "frequency": 1196,
+  "examples": [
+    "詩",
+    "詩人",
+    "詩集",
+    "詩篇",
+    "詩的"
+  ],
+  "explanation": {
+    "id": "3146",
+    "text": "詩 (đọc là \"shi\") có nghĩa là \"thơ\" để chỉ các tác phẩm văn học mang tính nghệ thuật, thường sử dụng ngôn từ giàu hình ảnh và cảm xúc.  \nVí dụ:  \n- 詩人 (shijin): Nhà thơ.  \n- 詩集 (shijū): Tập t"
+  },
+  "comments": [
+    {
+      "id": "156889",
+      "lang": "vi",
+      "content_html": "<p>Ngôn từ ở chùa là thi ca</p>",
+      "content_text": "Ngôn từ ở chùa là thi ca",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156890",
+      "lang": "vi",
+      "content_html": "<p>Lời Nói 言 trên Chùa 寺 tựa Thi Ca 詩</p>",
+      "content_text": "Lời Nói 言 trên Chùa 寺 tựa Thi Ca 詩",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156891",
+      "lang": "vi",
+      "content_html": "<p>Lên chùa ngâm thơ</p>",
+      "content_text": "Lên chùa ngâm thơ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

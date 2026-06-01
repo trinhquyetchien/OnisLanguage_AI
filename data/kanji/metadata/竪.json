@@ -1,0 +1,52 @@
+{
+  "kanji": "竪",
+  "meta": {
+    "weight": 1976,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュ"
+    ],
+    "kun": [
+      "たて",
+      "た.てる",
+      "こども"
+    ],
+    "am_han": "THỤ"
+  },
+  "meaning": {
+    "vi": "chiều dài, chiều cao, sợi dọc",
+    "en": "length, height, warp"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/竪.svg"
+  },
+  "frequency": 2370,
+  "examples": [],
+  "explanation": {
+    "id": "5090",
+    "text": "竪 (đọc là \"tate\" hoặc \"shuu\") có nghĩa là \"đứng thẳng\", \"dọc\" để chỉ vị trí, hướng đứng thẳng của một vật thể. \n\nVí dụ:\n- 竪立 (tatelu): Đứng thẳng, dựng lên.\n- 竪琴 (shukkin): Đàn hạc (nhạc cụ "
+  },
+  "comments": [
+    {
+      "id": "155843",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm khiên và đứng 1 cách ngay thẳng ( Thụ)</p>",
+      "content_text": "Tay cầm khiên và đứng 1 cách ngay thẳng ( Thụ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

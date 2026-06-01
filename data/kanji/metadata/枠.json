@@ -1,0 +1,88 @@
+{
+  "kanji": "枠",
+  "meta": {
+    "weight": 1312,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "わく"
+    ],
+    "am_han": "KHUNG"
+  },
+  "meaning": {
+    "vi": "khung, khuôn khổ, trục xoay, ống chỉ, hộp giới hạn, (kokuji)",
+    "en": "frame, framework, spindle, spool, bounding-box, (kokuji)"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/枠.svg"
+  },
+  "frequency": 922,
+  "examples": [
+    "枠",
+    "枠組み",
+    "枠内",
+    "枠組",
+    "大枠"
+  ],
+  "explanation": {
+    "id": "8404",
+    "text": "枠 (đọc là \"waku\") có nghĩa là \"khung\", \"viền\", chỉ các hình dạng hay khu vực được giới hạn bởi một khung nhất định. \n\nVí dụ:\n- 枠組み (wakugumi): Khung, cấu trúc.\n- 目標枠 (mokuhyō waku): Khung mụ"
+  },
+  "comments": [
+    {
+      "id": "154435",
+      "lang": "vi",
+      "content_html": "<p>Khung giá làm từ 9,10 cây gỗ</p>",
+      "content_text": "Khung giá làm từ 9,10 cây gỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154436",
+      "lang": "vi",
+      "content_html": "<p>Khung</p>",
+      "content_text": "Khung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154437",
+      "lang": "vi",
+      "content_html": "<p>KHUNG</p>",
+      "content_text": "KHUNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

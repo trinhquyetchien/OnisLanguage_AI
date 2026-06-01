@@ -1,0 +1,85 @@
+{
+  "kanji": "下",
+  "meta": {
+    "weight": 78,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "ゲ"
+    ],
+    "kun": [
+      "した",
+      "しも",
+      "もと",
+      "さ.げる",
+      "さ.がる",
+      "くだ.る",
+      "くだ.り",
+      "くだ.す",
+      "-くだ.す",
+      "くだ.さる",
+      "お.ろす",
+      "お.りる"
+    ],
+    "am_han": "HẠ"
+  },
+  "meaning": {
+    "vi": "bên dưới, hạ đẳng",
+    "en": "below, down, descend, give, low, inferior"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/下.svg"
+  },
+  "frequency": 97,
+  "examples": [
+    "下",
+    "下さい",
+    "以下",
+    "低下",
+    "下記"
+  ],
+  "explanation": {
+    "id": "600",
+    "text": "下 (đọc là \"ka\" hoặc \"shita\") có nghĩa là \"dưới\", \"thấp\", hoặc \"kém\". Chữ này thường chỉ vị trí, mức độ thấp hơn hoặc hành động hạ xuống.\n\nVí dụ:\n- 下手 (heta): Kém, không giỏi (về một kỹ năng "
+  },
+  "comments": [
+    {
+      "id": "509",
+      "lang": "vi",
+      "content_html": "<p>Chỗ này là phía <strong>dưới </strong>đường thẳng</p>",
+      "content_text": "Chỗ này là phía\ndưới\nđường thẳng",
+      "image_url": "https://jpdictionary.com/upload/images/629766efb2725.jpg",
+      "image_path": "assets/images/下_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158353",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>下 (した): phía dưới</p><p>下手 (へた): kém, vụng về</p><p>地下鉄 (ちかてつ): tàu điện ngầm</p><p>靴下 (くつした): tất<br>廊下 (ろうか): hành lang</p>",
+      "content_text": "JLPT N5\n下 (した): phía dưới\n下手 (へた): kém, vụng về\n地下鉄 (ちかてつ): tàu điện ngầm\n靴下 (くつした): tất\n廊下 (ろうか): hành lang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "kanji": "蒸",
+  "meta": {
+    "weight": 2324,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ",
+      "セイ"
+    ],
+    "kun": [
+      "む.す",
+      "む.れる",
+      "む.らす"
+    ],
+    "am_han": "CHƯNG"
+  },
+  "meaning": {
+    "vi": "chưng cất",
+    "en": "steam, heat, sultry, foment, get musty"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/蒸.svg"
+  },
+  "frequency": 1552,
+  "examples": [
+    "蒸気",
+    "蒸し",
+    "蒸留",
+    "蒸発",
+    "水蒸気"
+  ],
+  "explanation": {
+    "id": "3991",
+    "text": "蒸 (đọc là \"jō\") có nghĩa là \"hấp\" để chỉ các hành động liên quan đến việc nấu ăn bằng hơi nước hoặc nhiệt độ cao.  \nVí dụ:  \n- 蒸し料理 (mushi ryōri): Món ăn hấp.  \n- 蒸気 (jōki): Hơi nước.  \n- 蒸留"
+  },
+  "comments": [
+    {
+      "id": "156581",
+      "lang": "vi",
+      "content_html": "<p>Bọn nó đang HẤP bánh CHƯNG của con LIỄU trên bãi CỎ</p>",
+      "content_text": "Bọn nó đang HẤP bánh CHƯNG của con LIỄU trên bãi CỎ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156582",
+      "lang": "vi",
+      "content_html": "<p>Muốn Chưng em Liễu thì đậy nắp bằng cỏ rồi cho nước vào đốt.</p>",
+      "content_text": "Muốn Chưng em Liễu thì đậy nắp bằng cỏ rồi cho nước vào đốt.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156583",
+      "lang": "vi",
+      "content_html": "<p>Cô giáo Thảo dùng lửa 火 Chưng cất cây liễu 了 lấy nước 水 tinh dầu còn lại duy nhất 一</p>",
+      "content_text": "Cô giáo Thảo dùng lửa 火 Chưng cất cây liễu 了 lấy nước 水 tinh dầu còn lại duy nhất 一",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

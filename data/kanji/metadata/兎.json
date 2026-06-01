@@ -1,0 +1,51 @@
+{
+  "kanji": "兎",
+  "meta": {
+    "weight": 264,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ト",
+      "ツ"
+    ],
+    "kun": [
+      "うさぎ"
+    ],
+    "am_han": "THỎ"
+  },
+  "meaning": {
+    "vi": "thỏ, thỏ rừng",
+    "en": "rabbit, hare"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/兎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5697",
+    "text": "兎 (đọc là \"to\" hoặc \"usagi\") có nghĩa là \"thỏ\", chỉ loài động vật thỏ trong tự nhiên.  \nVí dụ:  \n- 兎 (usagi): Thỏ.  \n-兎肉 (uniku): Thịt thỏ.  \n- 兎の耳 (usagi no mimi): Tai thỏ."
+  },
+  "comments": [
+    {
+      "id": "218926",
+      "lang": "vi",
+      "content_html": "<p>雪兎 ゆきと tên của anh Yukito&#62;_&#60;</p>",
+      "content_text": "雪兎 ゆきと tên của anh Yukito>_<",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

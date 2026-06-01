@@ -1,0 +1,87 @@
+{
+  "kanji": "軌",
+  "meta": {
+    "weight": 2606,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [],
+    "am_han": "QUỸ"
+  },
+  "meaning": {
+    "vi": "đường, bánh xe, đường đua, mô hình, cách làm",
+    "en": "rut, wheel, track, model, way of doing"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/軌.svg"
+  },
+  "frequency": 1480,
+  "examples": [
+    "軌道",
+    "軌跡",
+    "軌",
+    "常軌"
+  ],
+  "explanation": {
+    "id": "1380",
+    "text": "軌 (đọc là \"ki\") có nghĩa là \"đường ray\", \"quỹ đạo\", chỉ các đường đi của phương tiện hoặc con đường phát triển của sự việc.  \nVí dụ:  \n- 軌道 (kidō): Quỹ đạo, đường đi của thiên thể.  \n- 軌跡 (k"
+  },
+  "comments": [
+    {
+      "id": "157206",
+      "lang": "vi",
+      "content_html": "<p>XE (車) chạy 9 (九) vòng QUỸ (軌) đạo</p>",
+      "content_text": "XE (車) chạy 9 (九) vòng QUỸ (軌) đạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157207",
+      "lang": "vi",
+      "content_html": "<p>Xe (車) số 9(九) đã chạy vào quỹ(軌) đạo</p>",
+      "content_text": "Xe (車) số 9(九) đã chạy vào quỹ(軌) đạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157208",
+      "lang": "vi",
+      "content_html": "<p>9 xe chạy tạo ra Quỹ đạo (trích tiền Quỹ ra mua xe đó)</p>",
+      "content_text": "9 xe chạy tạo ra Quỹ đạo (trích tiền Quỹ ra mua xe đó)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

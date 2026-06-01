@@ -1,0 +1,93 @@
+{
+  "kanji": "憂",
+  "meta": {
+    "weight": 1015,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ"
+    ],
+    "kun": [
+      "うれ.える",
+      "うれ.い",
+      "う.い",
+      "う.き"
+    ],
+    "am_han": "ƯU"
+  },
+  "meaning": {
+    "vi": "sầu muộn, đau buồn, than thở, lo lắng, buồn bã, không vui",
+    "en": "melancholy, grieve, lament, be anxious, sad, unhappy"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/憂.svg"
+  },
+  "frequency": 1625,
+  "examples": [
+    "憂鬱",
+    "憂慮",
+    "憂い",
+    "一喜一憂",
+    "杞憂"
+  ],
+  "explanation": {
+    "id": "7758",
+    "text": "憂 (đọc là \"yū\") có nghĩa là \"buồn phiền\", \"lo lắng\", thể hiện tâm trạng không vui hoặc cảm giác trăn trở.  \nVí dụ:  \n- 憂鬱 (yūutsu): Trầm cảm, u uất.  \n- 憂い (urei): Nỗi buồn, sự lo âu.  \n- 憂慮"
+  },
+  "comments": [
+    {
+      "id": "153706",
+      "lang": "vi",
+      "content_html": "<p>Trăm 百 ĐÊM  Ưu phiền Trái tim 心 này để lại PHÍA SAU</p>",
+      "content_text": "Trăm 百 ĐÊM  Ưu phiền Trái tim 心 này để lại PHÍA SAU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153707",
+      "lang": "vi",
+      "content_html": "<p>Ưu phiền trăm sự (百) phủ kín (冖) con tim (心) lê bước chân mệt nhoài (夂).</p>",
+      "content_text": "Ưu phiền trăm sự (百) phủ kín (冖) con tim (心) lê bước chân mệt nhoài (夂).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153708",
+      "lang": "vi",
+      "content_html": "<p>Đầu nặng trịu tay buông chân mệt nhoài con tim ưu buồn</p>",
+      "content_text": "Đầu nặng trịu tay buông chân mệt nhoài con tim ưu buồn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "kanji": "宛",
+  "meta": {
+    "weight": 717,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "あ.てる",
+      "-あて",
+      "-づつ",
+      "あたか.も"
+    ],
+    "am_han": "UYỂN, UYÊN"
+  },
+  "meaning": {
+    "vi": "địa chỉ, giống như, may mắn thay",
+    "en": "address, just like, fortunately"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/宛.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "64",
+    "text": "宛 (đọc là \"an\") có nghĩa là \"đích\" hoặc \"gửi đến\", thường chỉ địa điểm hoặc cách thức gửi thư từ. \n\nVí dụ:\n- 宛名 (atena): Địa chỉ người nhận, tên người nhận.\n- 宛先 (atesaki): Địa chỉ gửi đến, "
+  },
+  "comments": [
+    {
+      "id": "219336",
+      "lang": "vi",
+      "content_html": "<p>chơi Oản(腕) tù tì nhưng thiếu Nguyệt(月) nên phân công Uyên \"Uyển chuyển\" vào chơi thay</p>",
+      "content_text": "chơi Oản(腕) tù tì nhưng thiếu Nguyệt(月) nên phân công Uyên \"Uyển chuyển\" vào chơi thay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219337",
+      "lang": "vi",
+      "content_html": "<p>宛: uyển<br>碗: hòn đá uyển chuyển biến thành cái bát đựng Oản<br>腕: miếng thịt uyển chuyển biến thành cánh tay cầm Oản<br>:))</p>",
+      "content_text": "宛: uyển\n碗: hòn đá uyển chuyển biến thành cái bát đựng Oản\n腕: miếng thịt uyển chuyển biến thành cánh tay cầm Oản\n:))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219338",
+      "lang": "vi",
+      "content_html": "<p>Buổi chiều trong mái nhà có con chó co mình lại gọi là uyển</p>",
+      "content_text": "Buổi chiều trong mái nhà có con chó co mình lại gọi là uyển",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

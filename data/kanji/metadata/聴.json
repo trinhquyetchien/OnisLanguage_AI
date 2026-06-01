@@ -1,0 +1,92 @@
+{
+  "kanji": "聴",
+  "meta": {
+    "weight": 2161,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ",
+      "テイ"
+    ],
+    "kun": [
+      "き.く",
+      "ゆる.す"
+    ],
+    "am_han": "THÍNH"
+  },
+  "meaning": {
+    "vi": "lắng nghe, mạnh mẽ, nghịch ngợm, yêu cầu cẩn thận",
+    "en": "listen, headstrong, naughty, careful inquiry"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/聴.svg"
+  },
+  "frequency": 781,
+  "examples": [
+    "視聴",
+    "聴く",
+    "聴き",
+    "聴取",
+    "傍聴"
+  ],
+  "explanation": {
+    "id": "5380",
+    "text": "聴 (đọc là \"chou\") có nghĩa là \"nghe\" để chỉ hành động lắng nghe hoặc tiếp nhận âm thanh một cách chú ý.  \nVí dụ:  \n- 聴覚 (choukaku): Thính giác.  \n- 聴取 (choushu): Nghe lấy thông tin, phỏng vấ"
+  },
+  "comments": [
+    {
+      "id": "156251",
+      "lang": "vi",
+      "content_html": "<p>Tai muốn nghe thính phải tập trung bằng cả trái tim và 10 con mắt</p>",
+      "content_text": "Tai muốn nghe thính phải tập trung bằng cả trái tim và 10 con mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156252",
+      "lang": "vi",
+      "content_html": "<p>LẮNG NGHE<br>- dùng tai để nghe(耳）cho thật kỹ(十) <br>- dùng mắt(罒) để quan sát biểu hiện của đối phương<br>- dùng con tim(心) để thấu hiểu những gì mà đối phương truyền đạt</p>",
+      "content_text": "LẮNG NGHE\n- dùng tai để nghe(耳）cho thật kỹ(十)\n- dùng mắt(罒) để quan sát biểu hiện của đối phương\n- dùng con tim(心) để thấu hiểu những gì mà đối phương truyền đạt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156253",
+      "lang": "vi",
+      "content_html": "<p>THÍNH GIÁC là khi LẮNG NGHE  --  phải tập trung TAI, và 10 CON MẮT, TRÁI TIM</p>",
+      "content_text": "THÍNH GIÁC là khi LẮNG NGHE  --  phải tập trung TAI, và 10 CON MẮT, TRÁI TIM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

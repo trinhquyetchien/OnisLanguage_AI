@@ -1,0 +1,93 @@
+{
+  "kanji": "竜",
+  "meta": {
+    "weight": 1972,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リュウ",
+      "リョウ",
+      "ロウ"
+    ],
+    "kun": [
+      "たつ",
+      "いせ"
+    ],
+    "am_han": "LONG, LUNG, LUÔN"
+  },
+  "meaning": {
+    "vi": "rồng, hoàng gia",
+    "en": "dragon, imperial"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/竜.svg"
+  },
+  "frequency": 1195,
+  "examples": [
+    "竜",
+    "恐竜",
+    "竜馬",
+    "竜巻",
+    "竜王"
+  ],
+  "explanation": {
+    "id": "8071",
+    "text": "竜 (đọc là \"ryū\" hoặc \"tatsu\") có nghĩa là \"rồng\", biểu tượng cho sức mạnh, quyền lực và sự may mắn trong văn hóa Nhật Bản. \n\nVí dụ:\n- 竜巻 (tatsumaki): Lốc xoáy.\n- 竜神 (ryūjin): Thần rồng, thườ"
+  },
+  "comments": [
+    {
+      "id": "155834",
+      "lang": "vi",
+      "content_html": "<p>đứng trên mặt trời thò cái đuôi xuống là con rồng</p>",
+      "content_text": "đứng trên mặt trời thò cái đuôi xuống là con rồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155836",
+      "lang": "vi",
+      "content_html": "<p>Đứng trên ruộng 立  tạo ra sấm set là rồng 竜</p>",
+      "content_text": "Đứng trên ruộng 立  tạo ra sấm set là rồng 竜",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155835",
+      "lang": "vi",
+      "content_html": "<p>Vị trí bay ngang chẻ đôi mặt trời chỉ có là long rồng</p>",
+      "content_text": "Vị trí bay ngang chẻ đôi mặt trời chỉ có là long rồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "鶏",
+  "meta": {
+    "weight": 3010,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "にわとり",
+      "とり"
+    ],
+    "am_han": "KÊ"
+  },
+  "meaning": {
+    "vi": "Gà",
+    "en": "chicken"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/鶏.svg"
+  },
+  "frequency": 1901,
+  "examples": [
+    "鶏",
+    "鶏肉",
+    "養鶏",
+    "鶏卵"
+  ],
+  "explanation": {
+    "id": "2036",
+    "text": "鶏 (đọc là \"niwatori\" hoặc \"ke\") có nghĩa là \"gà\", chỉ loài gia cầm thường được nuôi lấy thịt và trứng.  \nVí dụ:  \n- 鶏肉 (toriniku): Thịt gà.  \n- 鶏卵 (keiran): Trứng gà.  \n- 鶏小屋 (niwatori koya)"
+  },
+  "comments": [
+    {
+      "id": "158071",
+      "lang": "vi",
+      "content_html": "<p>Phu (夫) quân chẳng cắt móng tay (爪) <br>Gà (鶏) bày ra cái vặt ngay cái đùi</p>",
+      "content_text": "Phu (夫) quân chẳng cắt móng tay (爪)\nGà (鶏) bày ra cái vặt ngay cái đùi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158072",
+      "lang": "vi",
+      "content_html": "<p>GÀ（鶏） là một loài CHIM（鳥） mà con trống（夫） có mồng lớn（爫） trên đầu.</p>",
+      "content_text": "GÀ（鶏） là một loài CHIM（鳥） mà con trống（夫） có mồng lớn（爫） trên đầu.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158073",
+      "lang": "vi",
+      "content_html": "<p>con gà cào cấu chim chồng</p>",
+      "content_text": "con gà cào cấu chim chồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

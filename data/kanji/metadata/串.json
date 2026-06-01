@@ -1,0 +1,92 @@
+{
+  "kanji": "串",
+  "meta": {
+    "weight": 90,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン",
+      "ケン",
+      "セン"
+    ],
+    "kun": [
+      "くし",
+      "つらぬ.く"
+    ],
+    "am_han": "XUYẾN"
+  },
+  "meaning": {
+    "vi": "nhổ, xiên",
+    "en": "spit, skewer"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/串.svg"
+  },
+  "frequency": 2139,
+  "examples": [
+    "串",
+    "串焼き",
+    "串カツ",
+    "串刺し"
+  ],
+  "explanation": {
+    "id": "1859",
+    "text": "串 (đọc là \"kushi\") có nghĩa là \"xiên\", \"mảnh dọc\" dùng để chỉ những thứ được xâu hoặc xiên lại với nhau, thường là thực phẩm.  \nVí dụ:  \n- 串焼き (kushiyaki): Thịt xiên nướng.  \n- 串刺し (kushisas"
+  },
+  "comments": [
+    {
+      "id": "151427",
+      "lang": "vi",
+      "content_html": "<p>Quán Xuyến xiên hai cái bánh</p>",
+      "content_text": "Quán Xuyến xiên hai cái bánh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151428",
+      "lang": "vi",
+      "content_html": "<p>2 thằng trung quốc đáng quán xuyến cái xiên</p>",
+      "content_text": "2 thằng trung quốc đáng quán xuyến cái xiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151429",
+      "lang": "vi",
+      "content_html": "<p>2 cái MỒM bị  --  XIÊN bằng CÂY XIÊN</p>",
+      "content_text": "2 cái MỒM bị  --  XIÊN bằng CÂY XIÊN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

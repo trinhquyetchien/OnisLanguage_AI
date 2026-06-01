@@ -1,0 +1,88 @@
+{
+  "kanji": "錠",
+  "meta": {
+    "weight": 2773,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [],
+    "am_han": "ĐĨNH"
+  },
+  "meaning": {
+    "vi": "khóa, gông cùm, cùm",
+    "en": "lock, fetters, shackles"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/錠.svg"
+  },
+  "frequency": 1934,
+  "examples": [
+    "錠",
+    "錠剤",
+    "手錠",
+    "施錠",
+    "錠前"
+  ],
+  "explanation": {
+    "id": "4000",
+    "text": "錠 (đọc là \"jou\") có nghĩa là \"khóa\" hoặc \"chốt\", thường liên quan đến các vật dụng dùng để khóa cửa hoặc bảo vệ.  \nVí dụ:  \n- 錠前 (joumae): Khóa cửa.  \n- 錠剤 (jouzai): Viên thuốc, thường chỉ d"
+  },
+  "comments": [
+    {
+      "id": "157576",
+      "lang": "vi",
+      "content_html": "<p>Muốn cất vàng ổn định thì phải dùng Đĩnh ( Khoá )</p>",
+      "content_text": "Muốn cất vàng ổn định thì phải dùng Đĩnh ( Khoá )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157577",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa đã định làm thuốc chữa bệnh bằng kim loại</p>",
+      "content_text": "Thời xưa đã định làm thuốc chữa bệnh bằng kim loại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157578",
+      "lang": "vi",
+      "content_html": "<p>dùng kim loại làm Khóa để cố định...</p>",
+      "content_text": "dùng kim loại làm Khóa để cố định...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "盆",
+  "meta": {
+    "weight": 1828,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボン"
+    ],
+    "kun": [],
+    "am_han": "BỒN"
+  },
+  "meaning": {
+    "vi": "lòng chảo, lễ hội đèn lồng, mâm cỗ",
+    "en": "basin, lantern festival, tray"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/盆.svg"
+  },
+  "frequency": 1654,
+  "examples": [
+    "お盆",
+    "盆",
+    "盆栽",
+    "盆踊り",
+    "盆地"
+  ],
+  "explanation": {
+    "id": "7368",
+    "text": "盆 (đọc là \"bon\") có nghĩa là \"cái khay\" hoặc \"bát\" dùng để đựng đồ vật, thường liên quan đến các hoạt động lễ nghi hoặc trong bữa ăn.\nVí dụ:\n- 盆栽 (bonsai): Cây cảnh trồng trong chậu nhỏ.\n- お"
+  },
+  "comments": [
+    {
+      "id": "155520",
+      "lang": "vi",
+      "content_html": "<p>(PHÂN 分) những cái (ĐĨA 皿) ra CAI KHAY rồi đem ra ( BỒN 盆 ) rửa ...</p>",
+      "content_text": "(PHÂN 分) những cái (ĐĨA 皿) ra CAI KHAY rồi đem ra ( BỒN 盆 ) rửa ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155521",
+      "lang": "vi",
+      "content_html": "<p>Phân loại đĩa cho vào Bồn rửa</p>",
+      "content_text": "Phân loại đĩa cho vào Bồn rửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155522",
+      "lang": "vi",
+      "content_html": "<p>Đĩa phân ra thành nhiều ngăn là cái khay</p>",
+      "content_text": "Đĩa phân ra thành nhiều ngăn là cái khay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

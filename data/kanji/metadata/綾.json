@@ -1,0 +1,87 @@
+{
+  "kanji": "綾",
+  "meta": {
+    "weight": 2091,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リン"
+    ],
+    "kun": [
+      "あや"
+    ],
+    "am_han": "LĂNG"
+  },
+  "meaning": {
+    "vi": "thiết kế, vải hình, vải chéo",
+    "en": "design, figured cloth, twill"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/綾.svg"
+  },
+  "frequency": 1759,
+  "examples": [
+    "綾",
+    "綾子"
+  ],
+  "explanation": {
+    "id": "75",
+    "text": "綾 (đọc là \"ryō\" hoặc \"aya\") có nghĩa là \"vải lụa có hoa văn\" hoặc \"họa tiết\". Từ này thường được sử dụng để chỉ các loại vải truyền thống và họa tiết trang trí.\n\nVí dụ:\n- 綾織り (ayaori): Vải d"
+  },
+  "comments": [
+    {
+      "id": "156085",
+      "lang": "vi",
+      "content_html": "<p>Chạy trước về lăng lấy tấm lụa mỏng.</p>",
+      "content_text": "Chạy trước về lăng lấy tấm lụa mỏng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156087",
+      "lang": "vi",
+      "content_html": "<p>Các tiên sinh trước kia bị vua truy đuổi giờ đã được xây lăng tẩm</p>",
+      "content_text": "Các tiên sinh trước kia bị vua truy đuổi giờ đã được xây lăng tẩm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156086",
+      "lang": "vi",
+      "content_html": "<p>@hongyentm87 ấy đọc tiên hiệp đi dùng nhiều lắm ^^(hồng lăng, xích lăng..) là nói mấy thuớc vải, khăn quàng.<br>Tơ đan thành lụa để sau  bán đuợc giá</p>",
+      "content_text": "@hongyentm87 ấy đọc tiên hiệp đi dùng nhiều lắm ^^(hồng lăng, xích lăng..) là nói mấy thuớc vải, khăn quàng.\nTơ đan thành lụa để sau  bán đuợc giá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

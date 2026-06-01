@@ -1,0 +1,88 @@
+{
+  "kanji": "挑",
+  "meta": {
+    "weight": 1090,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "いど.む"
+    ],
+    "am_han": "THIÊU, THIỂU, THAO"
+  },
+  "meaning": {
+    "vi": "thách thức, tranh giành, làm tình",
+    "en": "challenge, contend for, make love to"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/挑.svg"
+  },
+  "frequency": 989,
+  "examples": [
+    "挑戦",
+    "挑む",
+    "挑発"
+  ],
+  "explanation": {
+    "id": "5361",
+    "text": "挑 (đọc là \"chō\") có nghĩa là \"thách thức\", \"khiêu khích\" để chỉ các hành động liên quan đến việc chấp nhận hoặc đưa ra thách thức.\n\nVí dụ:\n- 挑戦 (chōsen): Thách thức, thử thách.\n- 挑む (idoru):"
+  },
+  "comments": [
+    {
+      "id": "153904",
+      "lang": "vi",
+      "content_html": "<p>tay cam 1 trieu di khieu chien</p>",
+      "content_text": "tay cam 1 trieu di khieu chien",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153905",
+      "lang": "vi",
+      "content_html": "<p>Kẻ có triệu chứng giơ tay đầy thách thức</p>",
+      "content_text": "Kẻ có triệu chứng giơ tay đầy thách thức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153906",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm 1 Triệu đi Khiêu chiến挑<br>Khiêu chiến rằng Chân nhảy thắng跳<br>chân nhay thua cầm 1 Triệu lên Đường Đào tẩu逃<br>mất 1 Triệu nên mắt Thiếu ngủ 眺</p>",
+      "content_text": "Tay cầm 1 Triệu đi Khiêu chiến挑\nKhiêu chiến rằng Chân nhảy thắng跳\nchân nhay thua cầm 1 Triệu lên Đường Đào tẩu逃\nmất 1 Triệu nên mắt Thiếu ngủ 眺",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

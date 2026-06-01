@@ -1,0 +1,90 @@
+{
+  "kanji": "銃",
+  "meta": {
+    "weight": 2756,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュウ"
+    ],
+    "kun": [
+      "つつ"
+    ],
+    "am_han": "SÚNG"
+  },
+  "meaning": {
+    "vi": "súng, tay",
+    "en": "gun, arms"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/銃.svg"
+  },
+  "frequency": 1013,
+  "examples": [
+    "銃",
+    "拳銃",
+    "銃撃",
+    "銃弾",
+    "銃殺"
+  ],
+  "explanation": {
+    "id": "3579",
+    "text": "銃 (đọc là \"jū\") có nghĩa là \"súng\", chỉ các loại vũ khí dùng để bắn đạn.  \nVí dụ:  \n- 銃器 (jūki): Vũ khí, súng ống.  \n- 銃撃 (jūgeki): Nổ súng, bắn.  \n- 拳銃 (kenjū): Súng ngắn, súng lục."
+  },
+  "comments": [
+    {
+      "id": "157555",
+      "lang": "vi",
+      "content_html": "<p>lệnh hồ sung được tặng khẩu SÚNG bằng vàng</p>",
+      "content_text": "lệnh hồ sung được tặng khẩu SÚNG bằng vàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157556",
+      "lang": "vi",
+      "content_html": "<p>anh sung (充) có cây SÚNG (銃) bằng vàng (金)</p>",
+      "content_text": "anh sung (充) có cây SÚNG (銃) bằng vàng (金)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157557",
+      "lang": "vi",
+      "content_html": "<p>nhà sung túc vàng bạc phải có khẩu súng trong nhà</p>",
+      "content_text": "nhà sung túc vàng bạc phải có khẩu súng trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

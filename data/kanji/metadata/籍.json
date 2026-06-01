@@ -1,0 +1,122 @@
+{
+  "kanji": "籍",
+  "meta": {
+    "weight": 2020,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ"
+    ],
+    "kun": [],
+    "am_han": "TỊCH"
+  },
+  "meaning": {
+    "vi": "ghi danh, quốc tịch",
+    "en": "enroll, domiciliary register, membership"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/籍.svg"
+  },
+  "frequency": 907,
+  "examples": [
+    "書籍",
+    "国籍",
+    "移籍",
+    "在籍",
+    "籍"
+  ],
+  "explanation": {
+    "id": "4406",
+    "text": "籍 (đọc là \"seki\") có nghĩa là \"hộ khẩu\", \"danh sách\", để chỉ việc đăng ký hoặc ghi chép thông tin cá nhân.  \nVí dụ:  \n- 籍簿 (sekibo): Sổ hộ khẩu, danh sách cư trú.  \n- 国籍 (kokuseki): Quốc tịc"
+  },
+  "comments": [
+    {
+      "id": "155924",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa quốc tịch đc ghi vào 3 cái cây tre</p>",
+      "content_text": "Ngày xưa quốc tịch đc ghi vào 3 cái cây tre",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190739",
+      "lang": "vi",
+      "content_html": "<p>Thẻ Trúc kiểu như cái này ngày Xưa dùng để ghi quốc &nbsp;Tịch</p>",
+      "content_text": "Thẻ Trúc kiểu như cái này ngày Xưa dùng để ghi quốc  Tịch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "218638",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa ghi danh vào 3 thẻ tre</p>",
+      "content_text": "Ngày xưa ghi danh vào 3 thẻ tre",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "1512",
+        "name": "Công Vũ Tài",
+        "image_url": "https://jpdictionary.com/upload/images/653fd66e912b7.png"
+      }
+    },
+    {
+      "id": "155925",
+      "lang": "vi",
+      "content_html": "<p>Trong 1 ngày (日) tôi ko thể nhớ được quốc tịch của 21 người ( 十十一)tức quá tôi chém 3 phát (三) lên cây trúc (木</p>",
+      "content_text": "Trong 1 ngày (日) tôi ko thể nhớ được quốc tịch của 21 người ( 十十一)tức quá tôi chém 3 phát (三) lên cây trúc (木",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155926",
+      "lang": "vi",
+      "content_html": "<p>ngày xưa quốc tịch được ghi lên thanh tre rồi treo lên cái cày</p>",
+      "content_text": "ngày xưa quốc tịch được ghi lên thanh tre rồi treo lên cái cày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

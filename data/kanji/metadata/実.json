@@ -1,0 +1,95 @@
+{
+  "kanji": "実",
+  "meta": {
+    "weight": 720,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジツ",
+      "シツ"
+    ],
+    "kun": [
+      "み",
+      "みの.る",
+      "まこと",
+      "みの",
+      "みち.る"
+    ],
+    "am_han": "THỰC"
+  },
+  "meaning": {
+    "vi": "thực tế, sự thật",
+    "en": "reality, truth, seed, fruit, nut"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/実.svg"
+  },
+  "frequency": 68,
+  "examples": [
+    "実際",
+    "実は",
+    "事実",
+    "現実",
+    "実現"
+  ],
+  "explanation": {
+    "id": "3295",
+    "text": "実 (đọc là \"jitsu\" hoặc \"shitsu\") có nghĩa là \"thực tế\", \"sự thật\", để chỉ cái gì đó có thực hoặc tồn tại. \n\nVí dụ:\n- 実際 (jissai): Thực tế, sự thật.\n- 実現 (jitsugen): Hiện thực hóa, thực hiện."
+  },
+  "comments": [
+    {
+      "id": "152953",
+      "lang": "vi",
+      "content_html": "<p>Thực sự dưới mái nhà có 3 người ( vợ , chồng và ông hàng xóm )</p>",
+      "content_text": "Thực sự dưới mái nhà có 3 người ( vợ , chồng và ông hàng xóm )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152954",
+      "lang": "vi",
+      "content_html": "<p>Điều gì mà 3 người cùng gặp nhau trong nhà, rồi nói thì đó mới chân thật.(3 mặt 1 lời)</p>",
+      "content_text": "Điều gì mà 3 người cùng gặp nhau trong nhà, rồi nói thì đó mới chân thật.(3 mặt 1 lời)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152955",
+      "lang": "vi",
+      "content_html": "<p>==&#62; Sự Thật là： có (一) MỘT ông (夫)CHỒNG ngồi dưới (⼧) MÁI NHÀ</p>",
+      "content_text": "==> Sự Thật là： có (一) MỘT ông (夫)CHỒNG ngồi dưới (⼧) MÁI NHÀ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

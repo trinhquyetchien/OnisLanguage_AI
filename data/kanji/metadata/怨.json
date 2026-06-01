@@ -1,0 +1,91 @@
+{
+  "kanji": "怨",
+  "meta": {
+    "weight": 957,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン",
+      "オン",
+      "ウン"
+    ],
+    "kun": [
+      "うら.む",
+      "うらみ",
+      "うら.めしい"
+    ],
+    "am_han": "OÁN"
+  },
+  "meaning": {
+    "vi": "thù hận, tỏ ra bực bội, ghen tị",
+    "en": "grudge, show resentment, be jealous"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/怨.svg"
+  },
+  "frequency": 2137,
+  "examples": [
+    "怨念",
+    "怨霊"
+  ],
+  "explanation": {
+    "id": "451",
+    "text": "怨 (đọc là \"en\") có nghĩa là \"oán hận\", \"thù hằn\" để chỉ cảm giác tức giận hoặc không hài lòng đối với ai đó hoặc cái gì đó.  \nVí dụ:  \n- 怨み (urami): Oán hận, thù oán.  \n- 怨念 (onnem): Oán niệ"
+  },
+  "comments": [
+    {
+      "id": "153557",
+      "lang": "vi",
+      "content_html": "<p>Uyên (宛) bị mất nhà (宀) nên Tâm rất Oán hận</p>",
+      "content_text": "Uyên (宛) bị mất nhà (宀) nên Tâm rất Oán hận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153558",
+      "lang": "vi",
+      "content_html": "<p>Em đau tim vì buổi tối thường mang oán hận</p>",
+      "content_text": "Em đau tim vì buổi tối thường mang oán hận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153559",
+      "lang": "vi",
+      "content_html": "<p>Oản 腕 có tâm OÁN hận</p>",
+      "content_text": "Oản 腕 có tâm OÁN hận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

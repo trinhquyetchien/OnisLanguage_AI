@@ -1,0 +1,90 @@
+{
+  "kanji": "畔",
+  "meta": {
+    "weight": 1783,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン"
+    ],
+    "kun": [
+      "あぜ",
+      "くろ",
+      "ほとり"
+    ],
+    "am_han": "BẠN"
+  },
+  "meaning": {
+    "vi": "rặng lúa, con đê",
+    "en": "paddy ridge, levee"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/畔.svg"
+  },
+  "frequency": 2049,
+  "examples": [
+    "湖畔",
+    "畔",
+    "河畔"
+  ],
+  "explanation": {
+    "id": "6478",
+    "text": "畔 (đọc là \"han\") có nghĩa là \"bờ\" hoặc \"bên bờ,\" thường chỉ vùng đất cạnh sông, hồ hoặc ruộng. \n\nVí dụ:\n- 畔道 (handō): Đường ven bờ.\n- 河畔 (kahan): Bờ sông.\n- 畔作り (hanzukuri): Công việc làm bờ"
+  },
+  "comments": [
+    {
+      "id": "155420",
+      "lang": "vi",
+      "content_html": "<p>Bán 1 Nửa BỜ Ruộng cho BẠN</p>",
+      "content_text": "Bán 1 Nửa BỜ Ruộng cho BẠN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155421",
+      "lang": "vi",
+      "content_html": "<p>Nửa thửa ruộng tạo thành Bờ ruộng</p>",
+      "content_text": "Nửa thửa ruộng tạo thành Bờ ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155422",
+      "lang": "vi",
+      "content_html": "<p>Bạn Bán Bờ ruộng làm đồn Điền.</p>",
+      "content_text": "Bạn Bán Bờ ruộng làm đồn Điền.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

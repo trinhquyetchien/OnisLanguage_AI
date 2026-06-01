@@ -1,0 +1,91 @@
+{
+  "kanji": "麻",
+  "meta": {
+    "weight": 3023,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マ",
+      "マア"
+    ],
+    "kun": [
+      "あさ"
+    ],
+    "am_han": "MA"
+  },
+  "meaning": {
+    "vi": "cây gai dầu, cây lanh, tê",
+    "en": "hemp, flax, numb"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/麻.svg"
+  },
+  "frequency": 1142,
+  "examples": [
+    "麻薬",
+    "麻",
+    "麻痺",
+    "麻酔",
+    "麻雀"
+  ],
+  "explanation": {
+    "id": "7380",
+    "text": "麻 (đọc là \"asa\") có nghĩa là \"vải lanh\" hoặc \"cây gai\", thường liên quan đến các loại cây dùng để dệt vải hoặc sản xuất sợi.  \nVí dụ:  \n- 麻布 (azabu): Vải lanh.  \n- 麻薬 (mayaku): Ma túy, thuốc"
+  },
+  "comments": [
+    {
+      "id": "158098",
+      "lang": "vi",
+      "content_html": "<p>Lấy cây trong rừng về nhà làm ma tuý</p>",
+      "content_text": "Lấy cây trong rừng về nhà làm ma tuý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158099",
+      "lang": "vi",
+      "content_html": "<p>4 chữ MA:<br>麻<br>Dưới Hiên Nhà có 2 Cây MA Lanh<br>(cây Lanh, vải lanh あさぬの)<br><br>摩<br>Ma có Tay 手 là Ma sát, xoa bóp. <br>まさつ、さする<br><br>磨<br>Ma có Đá 石 là Ma mài, đánh bóng, mài dũa.<br>Nghiên Ma, 歯磨き đánh răng<br><br>魔<br>Ma có Quỷ 鬼 đương nhiên là Ma Quỷ<br>悪魔 ác ma, 魔術 ma thuật</p>",
+      "content_text": "4 chữ MA:\n麻\nDưới Hiên Nhà có 2 Cây MA Lanh\n(cây Lanh, vải lanh あさぬの)\n摩\nMa có Tay 手 là Ma sát, xoa bóp.\nまさつ、さする\n磨\nMa có Đá 石 là Ma mài, đánh bóng, mài dũa.\nNghiên Ma, 歯磨き đánh răng\n魔\nMa có Quỷ 鬼 đương nhiên là Ma Quỷ\n悪魔 ác ma, 魔術 ma thuật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158100",
+      "lang": "vi",
+      "content_html": "<p>dưới mái nhà có 2 cây giống ma</p>",
+      "content_text": "dưới mái nhà có 2 cây giống ma",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

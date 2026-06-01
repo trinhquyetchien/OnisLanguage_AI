@@ -1,0 +1,91 @@
+{
+  "kanji": "貧",
+  "meta": {
+    "weight": 2547,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒン",
+      "ビン"
+    ],
+    "kun": [
+      "まず.しい"
+    ],
+    "am_han": "BẦN"
+  },
+  "meaning": {
+    "vi": "nghèo, bần cùng",
+    "en": "poverty, poor"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/貧.svg"
+  },
+  "frequency": 1211,
+  "examples": [
+    "貧困",
+    "貧しい",
+    "貧乏",
+    "貧弱",
+    "貧乏人"
+  ],
+  "explanation": {
+    "id": "6765",
+    "text": "貧 (đọc là \"hin\") có nghĩa là \"nghèo\" để chỉ tình trạng thiếu thốn về tài chính hoặc của cải.  \nVí dụ:  \n- 貧困 (hinkon): Nghèo đói, tình trạng thiếu thốn.  \n- 貧しい (mazushii): Nghèo nàn, kém ch"
+  },
+  "comments": [
+    {
+      "id": "157055",
+      "lang": "vi",
+      "content_html": "<p>Con sò nghèo quá đội đống phân lên đầu</p>",
+      "content_text": "Con sò nghèo quá đội đống phân lên đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157056",
+      "lang": "vi",
+      "content_html": "<p>Tiền phân tán đi hết=&#62; bần cùng</p>",
+      "content_text": "Tiền phân tán đi hết=> bần cùng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157057",
+      "lang": "vi",
+      "content_html": "<p>Con sò bần cùng đến nỗi phải bán thân</p>",
+      "content_text": "Con sò bần cùng đến nỗi phải bán thân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

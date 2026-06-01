@@ -1,0 +1,88 @@
+{
+  "kanji": "飢",
+  "meta": {
+    "weight": 2926,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "う.える"
+    ],
+    "am_han": "CƠ"
+  },
+  "meaning": {
+    "vi": "đói, chết đói",
+    "en": "hungry, starve"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/飢.svg"
+  },
+  "frequency": 1659,
+  "examples": [
+    "飢え",
+    "飢餓",
+    "飢饉"
+  ],
+  "explanation": {
+    "id": "1388",
+    "text": "飢 (đọc là \"ki\") có nghĩa là \"đói\" để chỉ trạng thái thiếu thức ăn hoặc cảm giác đói bụng.\n\nVí dụ:\n- 飢餓 (kiga): Nạn đói, tình trạng đói kém.\n- 飢える (ueru): Đói, bị đói.\n- 飢饉 (kikin): Năm đói, "
+  },
+  "comments": [
+    {
+      "id": "157931",
+      "lang": "vi",
+      "content_html": "<p>CƠ thể đói quá ăn luôn cả GHẾ</p>",
+      "content_text": "CƠ thể đói quá ăn luôn cả GHẾ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157932",
+      "lang": "vi",
+      "content_html": "<p>Đói quá chân chạy đến chỗ lương thực</p>",
+      "content_text": "Đói quá chân chạy đến chỗ lương thực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157933",
+      "lang": "vi",
+      "content_html": "<p>Trên Bàn mà không có Thức Ăn thì CƠ thể ĐÓI</p>",
+      "content_text": "Trên Bàn mà không có Thức Ăn thì CƠ thể ĐÓI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

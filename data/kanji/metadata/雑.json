@@ -1,0 +1,92 @@
+{
+  "kanji": "雑",
+  "meta": {
+    "weight": 2859,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ザツ",
+      "ゾウ"
+    ],
+    "kun": [
+      "まじ.える",
+      "まじ.る"
+    ],
+    "am_han": "TẠP"
+  },
+  "meaning": {
+    "vi": "hỗn tạp, tạp chí",
+    "en": "miscellaneous"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/雑.svg"
+  },
+  "frequency": 839,
+  "examples": [
+    "雑誌",
+    "複雑",
+    "雑感",
+    "雑貨",
+    "雑記"
+  ],
+  "explanation": {
+    "id": "2953",
+    "text": "雑 (đọc là \"zatsu\" hoặc \"sō\") có nghĩa là \"hỗn tạp\", \"không đồng nhất\" để chỉ sự pha trộn hoặc sự không rõ ràng giữa các thứ khác nhau.\n\nVí dụ:\n- 雑誌 (zasshi): Tạp chí.\n- 雑音 (zatsuon): Tiếng ồ"
+  },
+  "comments": [
+    {
+      "id": "157777",
+      "lang": "vi",
+      "content_html": "<p>9 con chim đậu trên cây nhìn rất là hỗn TẠP</p>",
+      "content_text": "9 con chim đậu trên cây nhìn rất là hỗn TẠP",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157778",
+      "lang": "vi",
+      "content_html": "<p>Con chim mà ăn 9 loại cây =&#62; chứng tỏ ăn Tạp</p>",
+      "content_text": "Con chim mà ăn 9 loại cây => chứng tỏ ăn Tạp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157779",
+      "lang": "vi",
+      "content_html": "<p>Góc nhìn: 9 (九) con Chim (隹) đậu trên Cây (木)<br>==&#62; nhìn rất hỗn Tạp (雑).<br>..性..</p>",
+      "content_text": "Góc nhìn: 9 (九) con Chim (隹) đậu trên Cây (木)\n==> nhìn rất hỗn Tạp (雑).\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

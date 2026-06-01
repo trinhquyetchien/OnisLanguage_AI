@@ -1,0 +1,91 @@
+{
+  "kanji": "序",
+  "meta": {
+    "weight": 862,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョ"
+    ],
+    "kun": [
+      "つい.で",
+      "ついで"
+    ],
+    "am_han": "TỰ"
+  },
+  "meaning": {
+    "vi": "lời nói đầu, bắt đầu, thứ tự, ưu tiên, dịp, cơ hội, tình cờ",
+    "en": "preface, beginning, order, precedence, occasion, chance, incidentally"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/序.svg"
+  },
+  "frequency": 1160,
+  "examples": [
+    "秩序",
+    "順序",
+    "序盤",
+    "序",
+    "序文"
+  ],
+  "explanation": {
+    "id": "3728",
+    "text": "序 (đọc là \"jo\" hoặc \"seki\") có nghĩa là \"trình tự\", \"sắp xếp\", thường chỉ vị trí, trình bày hoặc thứ tự của một cái gì đó. \n\nVí dụ:\n- 序文 (jobun): Lời mở đầu.\n- 序列 (joretsu): Trình tự, thứ tự"
+  },
+  "comments": [
+    {
+      "id": "153323",
+      "lang": "vi",
+      "content_html": "<p>Đã có thứ tự thì nghiễm nhiên chẳng bao giờ có dư</p>",
+      "content_text": "Đã có thứ tự thì nghiễm nhiên chẳng bao giờ có dư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153324",
+      "lang": "vi",
+      "content_html": "<p>Dưới mái nhà phải có tôn ti trật tự</p>",
+      "content_text": "Dưới mái nhà phải có tôn ti trật tự",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153325",
+      "lang": "vi",
+      "content_html": "<p>Anh Dự tự vào nhà</p>",
+      "content_text": "Anh Dự tự vào nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

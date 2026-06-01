@@ -1,0 +1,91 @@
+{
+  "kanji": "描",
+  "meta": {
+    "weight": 1130,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビョウ"
+    ],
+    "kun": [
+      "えが.く",
+      "か.く"
+    ],
+    "am_han": "MIÊU"
+  },
+  "meaning": {
+    "vi": "phác thảo, sáng tác, viết, vẽ",
+    "en": "sketch, compose, write, draw, paint"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/描.svg"
+  },
+  "frequency": 876,
+  "examples": [
+    "描く",
+    "描写",
+    "絵描き",
+    "描画",
+    "描き出す"
+  ],
+  "explanation": {
+    "id": "6726",
+    "text": "描 (đọc là \"byō\") có nghĩa là \"vẽ\" hoặc \"miêu tả\", chỉ các hành động liên quan đến việc tạo ra hình ảnh hoặc mô tả một điều gì đó.  \nVí dụ:  \n- 描写 (byōsha): Miêu tả, mô tả.  \n- 描く (kaku): Vẽ,"
+  },
+  "comments": [
+    {
+      "id": "153983",
+      "lang": "vi",
+      "content_html": "<p>Miêu tả ruộng hoa bằng nét vẽ tay</p>",
+      "content_text": "Miêu tả ruộng hoa bằng nét vẽ tay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153984",
+      "lang": "vi",
+      "content_html": "<p>dùng tay MIÊU tả con mèo</p>",
+      "content_text": "dùng tay MIÊU tả con mèo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153985",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay vẽ hoa trên ruộng</p>",
+      "content_text": "Dùng tay vẽ hoa trên ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

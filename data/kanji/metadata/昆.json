@@ -1,0 +1,85 @@
+{
+  "kanji": "昆",
+  "meta": {
+    "weight": 1218,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン"
+    ],
+    "kun": [],
+    "am_han": "CÔN"
+  },
+  "meaning": {
+    "vi": "con cháu, anh cả, côn trùng",
+    "en": "descendants, elder brother, insect"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/昆.svg"
+  },
+  "frequency": 1688,
+  "examples": [
+    "昆虫",
+    "昆布"
+  ],
+  "explanation": {
+    "id": "2701",
+    "text": "昆 (đọc là \"kon\") có nghĩa là \"côn trùng\" hoặc \"sinh vật nhỏ bé\", thường chỉ đến các loại động vật không xương sống hoặc những sinh vật nhỏ trong tự nhiên.\n\nVí dụ:\n- 昆虫 (konchuu): Côn trùng.\n"
+  },
+  "comments": [
+    {
+      "id": "154198",
+      "lang": "vi",
+      "content_html": "<p>2 con CÔN trùng so Bì cả Ngày vs nhau</p>",
+      "content_text": "2 con CÔN trùng so Bì cả Ngày vs nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154199",
+      "lang": "vi",
+      "content_html": "<p>dưới mặt trời 日 có hàng tỉ 比 con côn trùng 昆虫.</p>",
+      "content_text": "dưới mặt trời 日 có hàng tỉ 比 con côn trùng 昆虫.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154200",
+      "lang": "vi",
+      "content_html": "<p>Hình ảnh:<br>Mấy đứa mình ghét suốt Ngày cười HiHi. Nghe chói tai như có Côn trùng bò vào vậy.</p>",
+      "content_text": "Hình ảnh:\nMấy đứa mình ghét suốt Ngày cười HiHi. Nghe chói tai như có Côn trùng bò vào vậy.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

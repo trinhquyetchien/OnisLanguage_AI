@@ -1,0 +1,90 @@
+{
+  "kanji": "訴",
+  "meta": {
+    "weight": 2466,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ"
+    ],
+    "kun": [
+      "うった.える"
+    ],
+    "am_han": "TỐ"
+  },
+  "meaning": {
+    "vi": "buộc tội, kiện cáo, kêu ca đau đớn, kháng cáo",
+    "en": "accusation, sue, complain of pain, appeal to"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/訴.svg"
+  },
+  "frequency": 427,
+  "examples": [
+    "訴訟",
+    "訴え",
+    "控訴",
+    "訴える",
+    "起訴"
+  ],
+  "explanation": {
+    "id": "4655",
+    "text": "訴 (đọc là \"so\") có nghĩa là \"kiện cáo\", \"tố cáo\", để chỉ hành động đưa ra yêu cầu pháp lý hoặc thông báo về sự việc không đúng.  \nVí dụ:  \n- 訴訟 (soshō): Kiện tụng, vụ kiện.  \n- 訴える (uttaeru)"
+  },
+  "comments": [
+    {
+      "id": "156862",
+      "lang": "vi",
+      "content_html": "<p>Ngôn từ đao bua nhật định là tố tụng</p>",
+      "content_text": "Ngôn từ đao bua nhật định là tố tụng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156863",
+      "lang": "vi",
+      "content_html": "<p>tố cáo kẻ chặt cây cây</p>",
+      "content_text": "tố cáo kẻ chặt cây cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156864",
+      "lang": "vi",
+      "content_html": "<p>XÍCH lại mang đi TỐ CÁO với NGÔN luận</p>",
+      "content_text": "XÍCH lại mang đi TỐ CÁO với NGÔN luận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

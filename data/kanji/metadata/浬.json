@@ -1,0 +1,68 @@
+{
+  "kanji": "浬",
+  "meta": {
+    "weight": 1542,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リ"
+    ],
+    "kun": [
+      "かいり",
+      "のっと"
+    ],
+    "am_han": "LÍ"
+  },
+  "meaning": {
+    "vi": "hải lý",
+    "en": "knot, nautical mile"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/浬.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "867",
+    "text": "流 (đọc là \"ryū\" hoặc \"nagare\") có nghĩa là \"dòng chảy\", \"dòng nước\" để chỉ sự vận động của nước hoặc không khí. \n\nVí dụ:\n- 流れ (nagare): Dòng chảy, xu hướng.\n- 流行 (ryūkō): Thịnh hành, mốt.\n- "
+  },
+  "comments": [
+    {
+      "id": "219935",
+      "lang": "vi",
+      "content_html": "<p>cấp nước  cho ruộng đất lại hợp lý</p>",
+      "content_text": "cấp nước  cho ruộng đất lại hợp lý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219936",
+      "lang": "vi",
+      "content_html": "<p>Nước ngập ruộng đất 1 hải lí</p>",
+      "content_text": "Nước ngập ruộng đất 1 hải lí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "態",
+  "meta": {
+    "weight": 1003,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ"
+    ],
+    "kun": [
+      "わざ.と"
+    ],
+    "am_han": "THÁI"
+  },
+  "meaning": {
+    "vi": "thái độ, tình trạng, dáng vẻ, giọng nói (của động từ)",
+    "en": "attitude, condition, figure, appearance, voice (of verbs)"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/態.svg"
+  },
+  "frequency": 353,
+  "examples": [
+    "状態",
+    "事態",
+    "態度",
+    "実態",
+    "形態"
+  ],
+  "explanation": {
+    "id": "4950",
+    "text": "態 (đọc là \"tai\") có nghĩa là \"tình trạng\", \"hình thái\" để chỉ các trạng thái, cách thức hoặc tình hình của một sự vật hoặc hiện tượng.  \nVí dụ:  \n- 態度 (taido): Thái độ, cách cư xử.  \n- 状態 (j"
+  },
+  "comments": [
+    {
+      "id": "153673",
+      "lang": "vi",
+      "content_html": "<p>Kẻ tài năng thì phong thái từ con tim</p>",
+      "content_text": "Kẻ tài năng thì phong thái từ con tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153674",
+      "lang": "vi",
+      "content_html": "<p>4 ông TRĂNG cười HIHI trong TÂM thật thư THÁI</p>",
+      "content_text": "4 ông TRĂNG cười HIHI trong TÂM thật thư THÁI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153675",
+      "lang": "vi",
+      "content_html": "<p>TRÁI TIM có khả NĂNG nói lên trạng THÁI, tính cách của mỗi người</p>",
+      "content_text": "TRÁI TIM có khả NĂNG nói lên trạng THÁI, tính cách của mỗi người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

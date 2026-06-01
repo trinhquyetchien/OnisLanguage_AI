@@ -1,0 +1,90 @@
+{
+  "kanji": "硬",
+  "meta": {
+    "weight": 1877,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "かた.い"
+    ],
+    "am_han": "NGẠNH"
+  },
+  "meaning": {
+    "vi": "cứng, ngang ngạnh",
+    "en": "stiff, hard"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/硬.svg"
+  },
+  "frequency": 1101,
+  "examples": [
+    "硬い",
+    "強硬",
+    "硬直",
+    "硬化",
+    "硬"
+  ],
+  "explanation": {
+    "id": "2508",
+    "text": "硬 (đọc là \"kō\") có nghĩa là \"cứng\", \"rắn\" để chỉ đặc tính vật lý của một vật thể hoặc tình trạng không linh hoạt.  \nVí dụ:  \n- 硬貨 (kōka): Tiền kim loại, đồng xu.  \n- 硬い (katai): Cứng, rắn.  "
+  },
+  "comments": [
+    {
+      "id": "155645",
+      "lang": "vi",
+      "content_html": "<p>hòn đá đi nấu canh thì nó vẫn cứng</p>",
+      "content_text": "hòn đá đi nấu canh thì nó vẫn cứng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155646",
+      "lang": "vi",
+      "content_html": "<p>Sử dụng hòn đá ương ngạnh</p>",
+      "content_text": "Sử dụng hòn đá ương ngạnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155647",
+      "lang": "vi",
+      "content_html": "<p>Hòn đá có cánh là hòn đá ngạnh</p>",
+      "content_text": "Hòn đá có cánh là hòn đá ngạnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

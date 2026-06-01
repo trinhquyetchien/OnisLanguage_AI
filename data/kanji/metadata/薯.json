@@ -1,0 +1,50 @@
+{
+  "kanji": "薯",
+  "meta": {
+    "weight": 2357,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショ"
+    ],
+    "kun": [
+      "いも"
+    ],
+    "am_han": "THỰ"
+  },
+  "meaning": {
+    "vi": "khoai tây",
+    "en": "potato"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/薯.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3710",
+    "text": "薯 (đọc là \"sho\") có nghĩa là \"khoai\" để chỉ các loại củ như khoai lang, khoai tây.\nVí dụ:\n- 薯蕷 (shoyu): Khoai môn, một loại củ phổ biến trong ẩm thực Nhật Bản.\n- 薯 (imo): Khoai, thường được "
+  },
+  "comments": [
+    {
+      "id": "220587",
+      "lang": "vi",
+      "content_html": "<p>ty</p>",
+      "content_text": "ty",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

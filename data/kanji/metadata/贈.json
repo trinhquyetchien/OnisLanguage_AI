@@ -1,0 +1,108 @@
+{
+  "kanji": "贈",
+  "meta": {
+    "weight": 2578,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゾウ",
+      "ソウ"
+    ],
+    "kun": [
+      "おく.る"
+    ],
+    "am_han": "TẶNG"
+  },
+  "meaning": {
+    "vi": "gửi quà, hiến tặng",
+    "en": "presents, send, give to, award to, confer on, presenting something"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/贈.svg"
+  },
+  "frequency": 1001,
+  "examples": [
+    "贈り物",
+    "贈る",
+    "贈与",
+    "寄贈",
+    "贈呈"
+  ],
+  "explanation": {
+    "id": "20349",
+    "text": "Chữ Hán 贈 (đọc là \"sō\") có nghĩa là \"đo lường\", \"đánh giá\" để chỉ các hành động liên quan đến việc đo đạc, định lượng hoặc ước tính.\n\nVí dụ:\n- 測量 (sokuryō): Đo đạc, khảo sát.\n- 評測 (hyou soku"
+  },
+  "comments": [
+    {
+      "id": "157138",
+      "lang": "vi",
+      "content_html": "<p>曽：Tằng(そう、そ、ぞう)<br><br>層: Tằng ở nhà nhiều tầng<br>憎：Tằng giận tim dựng đứng lên<br>贈：Tằng được tặng bảo bối<br>増：Tằng mua thêm đất</p>",
+      "content_text": "曽：Tằng(そう、そ、ぞう)\n層: Tằng ở nhà nhiều tầng\n憎：Tằng giận tim dựng đứng lên\n贈：Tằng được tặng bảo bối\n増：Tằng mua thêm đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190742",
+      "lang": "vi",
+      "content_html": "<p>Vỏ sò ngoài ruộng là sản vât trời Tặng</p>",
+      "content_text": "Vỏ sò ngoài ruộng là sản vât trời Tặng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157139",
+      "lang": "vi",
+      "content_html": "<p>kínhTẶNG  bảo BỐI  cho thần ĐẤT  và thần MẶT TRỜI</p>",
+      "content_text": "kínhTẶNG  bảo BỐI  cho thần ĐẤT  và thần MẶT TRỜI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157140",
+      "lang": "vi",
+      "content_html": "<p>tặng sò gửi ra cánh đồng mất 2 ngày</p>",
+      "content_text": "tặng sò gửi ra cánh đồng mất 2 ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

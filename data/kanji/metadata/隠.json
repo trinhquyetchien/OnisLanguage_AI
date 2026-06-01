@@ -1,0 +1,94 @@
+{
+  "kanji": "隠",
+  "meta": {
+    "weight": 2847,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イン",
+      "オン"
+    ],
+    "kun": [
+      "かく.す",
+      "かく.し",
+      "かく.れる",
+      "よ.る"
+    ],
+    "am_han": "ẨN"
+  },
+  "meaning": {
+    "vi": "che giấu, che đậy",
+    "en": "conceal, hide, cover"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/隠.svg"
+  },
+  "frequency": 1089,
+  "examples": [
+    "隠し",
+    "隠れ",
+    "隠す",
+    "隠蔽",
+    "見え隠れ"
+  ],
+  "explanation": {
+    "id": "275",
+    "text": "隠 (đọc là \"in\") có nghĩa là \"ẩn\", \"giấu\" để chỉ các hành động liên quan đến việc giấu diếm hoặc không để lộ ra ngoài.  \nVí dụ:  \n- 隠れる (kakureru): Ẩn nấp, trốn.  \n- 隠す (kakusu): Giấu đi, che"
+  },
+  "comments": [
+    {
+      "id": "157745",
+      "lang": "vi",
+      "content_html": "<p>BỐ sống nội TÂM nên ĐƯƠNG nhiên sẽ hướng về Ở ẨN</p>",
+      "content_text": "BỐ sống nội TÂM nên ĐƯƠNG nhiên sẽ hướng về Ở ẨN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157746",
+      "lang": "vi",
+      "content_html": "<p>隠<br>Tay cào (爪) Tay duỗi (ヨ)<br>Giấu Bồ (阝) vào Tim (心)<br>Cuộc đời ở Ẩn (隠)<br><br>穏<br>Tay cào (爪) Tay duỗi (ヨ)<br>Cất Lúa (禾) vào Tim (心)<br>Cuộc đời yên Ổn (穏)</p>",
+      "content_text": "隠\nTay cào (爪) Tay duỗi (ヨ)\nGiấu Bồ (阝) vào Tim (心)\nCuộc đời ở Ẩn (隠)\n穏\nTay cào (爪) Tay duỗi (ヨ)\nCất Lúa (禾) vào Tim (心)\nCuộc đời yên Ổn (穏)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157747",
+      "lang": "vi",
+      "content_html": "<p>Hai quả đồi có thể che giấu được một 一 tình yêu 心 đích thực 当</p>",
+      "content_text": "Hai quả đồi có thể che giấu được một 一 tình yêu 心 đích thực 当",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

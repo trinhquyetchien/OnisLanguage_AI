@@ -1,0 +1,33 @@
+{
+  "kanji": "蚤",
+  "meta": {
+    "weight": 2376,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "のみ",
+      "はやい"
+    ],
+    "am_han": "TẢO"
+  },
+  "meaning": {
+    "vi": "bọ chét",
+    "en": "flea"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/蚤.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6215",
+    "text": "蚤 (đọc là \"sou\" hoặc \"mushi\") có nghĩa là \"bọ chét\", chỉ loài côn trùng nhỏ thường sống ký sinh.  \nVí dụ:  \n- 蚤 (sou): Bọ chét.  \n- 蚤に噛まれる (sou ni kamareru): Bị bọ chét cắn.  \n- 蚤取り (soutori"
+  },
+  "comments": []
+}

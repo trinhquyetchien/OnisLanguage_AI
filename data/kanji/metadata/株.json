@@ -1,0 +1,90 @@
+{
+  "kanji": "株",
+  "meta": {
+    "weight": 1341,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ"
+    ],
+    "kun": [
+      "かぶ"
+    ],
+    "am_han": "CHU, CHÂU"
+  },
+  "meaning": {
+    "vi": "cổ phiếu, gốc cây, quầy cho các nhà máy nhỏ",
+    "en": "stocks, stump, shares, stock, counter for small plants"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/株.svg"
+  },
+  "frequency": 432,
+  "examples": [
+    "株",
+    "株式会社",
+    "株式",
+    "株主",
+    "株価"
+  ],
+  "explanation": {
+    "id": "1017",
+    "text": "株 (đọc là \"kabu\") có nghĩa là \"cổ phiếu\", \"cành cây\" hoặc \"gốc cây\", thường liên quan đến các khía cạnh tài chính hoặc thực vật.  \nVí dụ:  \n- 株式 (kabushiki): Cổ phiếu, chứng khoán.  \n- 株価 (k"
+  },
+  "comments": [
+    {
+      "id": "154489",
+      "lang": "vi",
+      "content_html": "<p>bên cạnh gốc cây là con bò mặc váy</p>",
+      "content_text": "bên cạnh gốc cây là con bò mặc váy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154490",
+      "lang": "vi",
+      "content_html": "<p>tôi sẽ đầu tư CỔ PHẦN vào (CÂY 木 ) có ( SẮC ĐỎ朱 ). vì đó là CHÂU bấu của nước nhật...</p>",
+      "content_text": "tôi sẽ đầu tư CỔ PHẦN vào (CÂY 木 ) có ( SẮC ĐỎ朱 ). vì đó là CHÂU bấu của nước nhật...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154491",
+      "lang": "vi",
+      "content_html": "<p>Anh chu đưa gỗ lên sàn cổ phiếu</p>",
+      "content_text": "Anh chu đưa gỗ lên sàn cổ phiếu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

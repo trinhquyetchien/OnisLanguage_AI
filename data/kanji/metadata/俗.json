@@ -1,0 +1,88 @@
+{
+  "kanji": "俗",
+  "meta": {
+    "weight": 199,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゾク"
+    ],
+    "kun": [],
+    "am_han": "TỤC"
+  },
+  "meaning": {
+    "vi": "thô tục, phong tục, cách cư xử, thế tục, những thứ trần tục",
+    "en": "vulgar, customs, manners, worldliness, mundane things"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/俗.svg"
+  },
+  "frequency": 1610,
+  "examples": [
+    "風俗",
+    "民俗",
+    "俗",
+    "世俗",
+    "習俗"
+  ],
+  "explanation": {
+    "id": "4807",
+    "text": "俗 (đọc là \"soku\") có nghĩa là \"phổ quát\", \"thường dân\", chỉ những thứ liên quan đến đời sống hàng ngày hoặc văn hóa đại chúng, không thuộc về tầng lớp quý tộc hay cao cấp.\n\nVí dụ:\n- 俗語 (zoku"
+  },
+  "comments": [
+    {
+      "id": "151686",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI ở trên núi CỐC có phong TỤC kỳ lạ</p>",
+      "content_text": "NGƯỜI ở trên núi CỐC có phong TỤC kỳ lạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151687",
+      "lang": "vi",
+      "content_html": "<p>Người trong thung lũng có phong tục khác lạ</p>",
+      "content_text": "Người trong thung lũng có phong tục khác lạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151688",
+      "lang": "vi",
+      "content_html": "<p>Kẻ phàm TỤC khác nào NGƯỜI sống hoang dại dưới HANG sâu.</p>",
+      "content_text": "Kẻ phàm TỤC khác nào NGƯỜI sống hoang dại dưới HANG sâu.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

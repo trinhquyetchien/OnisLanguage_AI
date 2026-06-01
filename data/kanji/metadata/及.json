@@ -1,0 +1,93 @@
+{
+  "kanji": "及",
+  "meta": {
+    "weight": 419,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "およ.ぶ",
+      "およ.び",
+      "および",
+      "およ.ぼす"
+    ],
+    "am_han": "CẬP"
+  },
+  "meaning": {
+    "vi": "tiếp cận, nỗ lực, tập thể dục, gây ra",
+    "en": "reach out, exert, exercise, cause"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/及.svg"
+  },
+  "frequency": 544,
+  "examples": [
+    "及び",
+    "普及",
+    "言及",
+    "及ぶ",
+    "及ぼす"
+  ],
+  "explanation": {
+    "id": "1509",
+    "text": "及 (đọc là \"kyū\" hoặc \"o-kyu\") có nghĩa là \"đến\", \"và\", để chỉ sự mở rộng hoặc bao gồm một cái gì đó. \n\nVí dụ:\n- 及ぼす (oyobosu): Gây ra, ảnh hưởng đến.\n- 及び (oyobi): Và, cùng với.\n- 及第 (kyūdai"
+  },
+  "comments": [
+    {
+      "id": "152238",
+      "lang": "vi",
+      "content_html": "<p>Phổ cập cho 3 người</p>",
+      "content_text": "Phổ cập cho 3 người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152239",
+      "lang": "vi",
+      "content_html": "<p>Phổ cập để mọi người đừng hút thuốc吸</p>",
+      "content_text": "Phổ cập để mọi người đừng hút thuốc吸",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152240",
+      "lang": "vi",
+      "content_html": "<p>13 Vị giáo sỹ được cử đi phổ CẬP truyền giáo</p>",
+      "content_text": "13 Vị giáo sỹ được cử đi phổ CẬP truyền giáo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

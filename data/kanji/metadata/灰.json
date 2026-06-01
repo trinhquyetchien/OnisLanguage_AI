@@ -1,0 +1,107 @@
+{
+  "kanji": "灰",
+  "meta": {
+    "weight": 1642,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "はい"
+    ],
+    "am_han": "HÔI"
+  },
+  "meaning": {
+    "vi": "tro",
+    "en": "ashes, puckery juice, cremate"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/灰.svg"
+  },
+  "frequency": 1717,
+  "examples": [
+    "灰",
+    "灰色",
+    "灰皿",
+    "石灰",
+    "火山灰"
+  ],
+  "explanation": {
+    "id": "795",
+    "text": "灰 (đọc là \"hai\") có nghĩa là \"tro\", chỉ tàn dư sau khi vật chất bị đốt cháy. \n\nVí dụ:\n- 灰色 (haiiro): Màu xám, màu tro.\n- 灰燼 (kaijin): Tro bụi, tàn dư.\n- 灰皿 (haizara): Gạt tàn thuốc."
+  },
+  "comments": [
+    {
+      "id": "155135",
+      "lang": "vi",
+      "content_html": "<p>Lửa cháy dưới sườn núi thành tro hôi</p>",
+      "content_text": "Lửa cháy dưới sườn núi thành tro hôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190765",
+      "lang": "vi",
+      "content_html": "<p>lửa cháy vách đá thành tro bốc mùi rất Hôi</p>",
+      "content_text": "lửa cháy vách đá thành tro bốc mùi rất Hôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "155136",
+      "lang": "vi",
+      "content_html": "<p>HOẢ thiêu SƯỜN NÚI thành TRO HÔI</p>",
+      "content_text": "HOẢ thiêu SƯỜN NÚI thành TRO HÔI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155137",
+      "lang": "vi",
+      "content_html": "<p>Hôi Hán Hoả</p>",
+      "content_text": "Hôi Hán Hoả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

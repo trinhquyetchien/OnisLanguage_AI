@@ -1,0 +1,68 @@
+{
+  "kanji": "紬",
+  "meta": {
+    "weight": 2063,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "つむぎ",
+      "つむ.ぐ"
+    ],
+    "am_han": "TRỪU"
+  },
+  "meaning": {
+    "vi": "pongee (vải lụa thắt nút)",
+    "en": "pongee (a knotted silk cloth)"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/紬.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5505",
+    "text": "紬 (đọc là \"chuu\") có nghĩa là \"vải tơ\", thường chỉ đến loại vải lụa mỏng nhẹ, mềm mại được dệt từ sợi tơ. \n\nVí dụ:\n- 紬織り (chuuori): Dệt vải tơ.\n- 紬の着物 (chuu no kimono): Kimono làm bằng vải t"
+  },
+  "comments": [
+    {
+      "id": "220329",
+      "lang": "vi",
+      "content_html": "<p>Sợi chỉ dệt (mịch) quấn trên trục do (由) ít dùng khó nhớ.</p>",
+      "content_text": "Sợi chỉ dệt (mịch) quấn trên trục do (由) ít dùng khó nhớ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220330",
+      "lang": "vi",
+      "content_html": "<p>Sợi chỉ nếu tự do cũng sẽ TRỪU tượng hoá giống lụa</p>",
+      "content_text": "Sợi chỉ nếu tự do cũng sẽ TRỪU tượng hoá giống lụa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

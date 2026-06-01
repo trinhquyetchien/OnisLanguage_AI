@@ -1,0 +1,52 @@
+{
+  "kanji": "斌",
+  "meta": {
+    "weight": 1186,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒン",
+      "フン"
+    ],
+    "kun": [
+      "うるわ.しい",
+      "あき.らか"
+    ],
+    "am_han": "BÂN"
+  },
+  "meaning": {
+    "vi": "đẹp, hài hòa về ngoại hình",
+    "en": "beautiful, harmony of appearance"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/斌.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6756",
+    "text": "斌 (đọc là \"bin\") có nghĩa là \"khéo léo\", \"tinh tế\" để chỉ sự tài năng, khéo léo trong công việc hoặc nghệ thuật.\n\nVí dụ:\n- 斌達 (bindatsu): Người tài giỏi, khéo léo.\n- 斌才 (binsai): Tài năng, k"
+  },
+  "comments": [
+    {
+      "id": "219706",
+      "lang": "vi",
+      "content_html": "<p>không có văn võ đem bỏ sọt rác</p>",
+      "content_text": "không có văn võ đem bỏ sọt rác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

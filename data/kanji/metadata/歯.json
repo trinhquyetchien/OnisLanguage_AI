@@ -1,0 +1,110 @@
+{
+  "kanji": "歯",
+  "meta": {
+    "weight": 1456,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "よわい",
+      "は",
+      "よわ.い",
+      "よわい.する"
+    ],
+    "am_han": "XỈ"
+  },
+  "meaning": {
+    "vi": "răng",
+    "en": "tooth, cog"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/歯.svg"
+  },
+  "frequency": 1106,
+  "examples": [
+    "歯",
+    "歯科",
+    "歯医者",
+    "歯止め",
+    "虫歯"
+  ],
+  "explanation": {
+    "id": "3171",
+    "text": "歯 (đọc là \"ha\") có nghĩa là \"răng\", chỉ các bộ phận trong miệng dùng để nhai thức ăn.\nVí dụ:\n- 歯医者 (haisha): Nha sĩ, bác sĩ răng miệng.\n- 歯磨き (hamigaki): Đánh răng, làm sạch răng.\n- 虫歯 (mush"
+  },
+  "comments": [
+    {
+      "id": "37362",
+      "lang": "vi",
+      "content_html": "<p>Ngừng (止) nói chuyện và nhai kỹ cơm (米) bằng <strong>răng</strong>.</p>",
+      "content_text": "Ngừng (止) nói chuyện và nhai kỹ cơm (米) bằng\nrăng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfeaded486e.jpg",
+      "image_path": "assets/images/歯_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154687",
+      "lang": "vi",
+      "content_html": "<p>CHỈ ngồi HÁ MIỆNG chờ người dâng CƠM (gạo) là người không có XỈ diện</p>",
+      "content_text": "CHỈ ngồi HÁ MIỆNG chờ người dâng CƠM (gạo) là người không có XỈ diện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154688",
+      "lang": "vi",
+      "content_html": "<p>Cơm gạo ăn vào sẽ dừng và dắt lại ở răng xỉ</p>",
+      "content_text": "Cơm gạo ăn vào sẽ dừng và dắt lại ở răng xỉ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154689",
+      "lang": "vi",
+      "content_html": "<p>XỈ răng (bựa) trong MIỆNG (khảm) cần phải dùng CHỈ nha khoa mới sạch được</p>",
+      "content_text": "XỈ răng (bựa) trong MIỆNG (khảm) cần phải dùng CHỈ nha khoa mới sạch được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

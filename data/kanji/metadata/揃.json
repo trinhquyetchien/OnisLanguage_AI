@@ -1,0 +1,92 @@
+{
+  "kanji": "揃",
+  "meta": {
+    "weight": 1129,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "そろ.える",
+      "そろ.う",
+      "そろ.い",
+      "き.る"
+    ],
+    "am_han": "TIỄN, TIÊN"
+  },
+  "meaning": {
+    "vi": "được hoàn chỉnh, đồng nhất, tất cả đều có mặt",
+    "en": "be complete, uniform, all present"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/揃.svg"
+  },
+  "frequency": 2412,
+  "examples": [
+    "揃い",
+    "揃える",
+    "揃う",
+    "勢揃い"
+  ],
+  "explanation": {
+    "id": "4826",
+    "text": "揃 (đọc là \"soru\" hoặc \"seiro\") có nghĩa là \"đồng đều\", \"sắp xếp\" để chỉ việc làm cho một thứ gì đó trở nên cân đối, đồng nhất hoặc sắp xếp gọn gàng.\n\nVí dụ:\n- 揃える (soroeru): Sắp xếp, chuẩn b"
+  },
+  "comments": [
+    {
+      "id": "153980",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay xếp trước giống với sau</p>",
+      "content_text": "Dùng tay xếp trước giống với sau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153981",
+      "lang": "vi",
+      "content_html": "<p>Dùng TAY để chuẩn bị đầy đủ mọi thứ TRƯỚC khi TIỄN đưa bạn.</p>",
+      "content_text": "Dùng TAY để chuẩn bị đầy đủ mọi thứ TRƯỚC khi TIỄN đưa bạn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153982",
+      "lang": "vi",
+      "content_html": "<p>Bắt tay trước khi Tiễn bạn lên đường</p>",
+      "content_text": "Bắt tay trước khi Tiễn bạn lên đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

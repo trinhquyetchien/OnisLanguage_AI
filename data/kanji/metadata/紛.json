@@ -1,0 +1,94 @@
+{
+  "kanji": "紛",
+  "meta": {
+    "weight": 2058,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フン"
+    ],
+    "kun": [
+      "まぎ.れる",
+      "-まぎ.れ",
+      "まぎ.らす",
+      "まぎ.らわす",
+      "まぎ.らわしい"
+    ],
+    "am_han": "PHÂN"
+  },
+  "meaning": {
+    "vi": "đánh lạc hướng, bị nhầm lẫn, đi lạc đường, chuyển hướng",
+    "en": "distract, be mistaken for, go astray, divert"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/紛.svg"
+  },
+  "frequency": 994,
+  "examples": [
+    "紛争",
+    "紛れ",
+    "紛失",
+    "紛糾",
+    "紛らわしい"
+  ],
+  "explanation": {
+    "id": "6971",
+    "text": "紛 (đọc là \"fun\") có nghĩa là \"rối ren\", \"lộn xộn\" để chỉ tình trạng hỗn loạn hoặc sự phức tạp trong các tình huống.\n\nVí dụ:\n- 紛争 (funso): Xung đột, tranh chấp.\n- 紛失 (funshitsu): Mất mát, thấ"
+  },
+  "comments": [
+    {
+      "id": "155997",
+      "lang": "vi",
+      "content_html": "<p>Phân chia sợi dây thật bối rối</p>",
+      "content_text": "Phân chia sợi dây thật bối rối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155998",
+      "lang": "vi",
+      "content_html": "<p>Sợi chỉ PHÂN ra thật lẫn lộn rối rắm</p>",
+      "content_text": "Sợi chỉ PHÂN ra thật lẫn lộn rối rắm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155999",
+      "lang": "vi",
+      "content_html": "<p>phân vân</p>",
+      "content_text": "phân vân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

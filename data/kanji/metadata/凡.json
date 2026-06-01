@@ -1,0 +1,93 @@
+{
+  "kanji": "凡",
+  "meta": {
+    "weight": 299,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボン",
+      "ハン"
+    ],
+    "kun": [
+      "およ.そ",
+      "おうよ.そ",
+      "すべ.て"
+    ],
+    "am_han": "PHÀM"
+  },
+  "meaning": {
+    "vi": "bình thường, tầm thường",
+    "en": "commonplace, ordinary, mediocre"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/凡.svg"
+  },
+  "frequency": 1730,
+  "examples": [
+    "平凡",
+    "凡人",
+    "凡庸",
+    "凡",
+    "非凡"
+  ],
+  "explanation": {
+    "id": "7365",
+    "text": "凡 (đọc là \"bon\") có nghĩa là \"thường\", \"bình thường\" để chỉ những điều không đặc biệt hoặc thông thường trong cuộc sống.\n\nVí dụ:\n- 凡人 (bonjin): Người bình thường, người tầm thường.\n- 凡庸 (bon"
+  },
+  "comments": [
+    {
+      "id": "151942",
+      "lang": "vi",
+      "content_html": "<p>kẻ phàm phu tục tử thì chỉ được ngồi ghế đẩu thôi</p>",
+      "content_text": "kẻ phàm phu tục tử thì chỉ được ngồi ghế đẩu thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151943",
+      "lang": "vi",
+      "content_html": "<p>Người PHÀM tục chui xuống gầm Bàn.</p>",
+      "content_text": "Người PHÀM tục chui xuống gầm Bàn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151944",
+      "lang": "vi",
+      "content_html": "<p>Chủ thì được ngồi ghế trên những kẻ phàm phu hèn kém</p>",
+      "content_text": "Chủ thì được ngồi ghế trên những kẻ phàm phu hèn kém",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

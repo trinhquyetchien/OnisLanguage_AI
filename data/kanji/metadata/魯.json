@@ -1,0 +1,34 @@
+{
+  "kanji": "魯",
+  "meta": {
+    "weight": 2973,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロ"
+    ],
+    "kun": [
+      "おろか"
+    ],
+    "am_han": "LỖ"
+  },
+  "meaning": {
+    "vi": "ngu ngốc, nga",
+    "en": "foolish, Russia"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/魯.svg"
+  },
+  "frequency": 2153,
+  "examples": [
+    "魯"
+  ],
+  "explanation": {
+    "id": "8304",
+    "text": "魯 (đọc là \"ro\") có nghĩa là \"ngớ ngẩn\", \"khờ dại\", thường chỉ sự thiếu hiểu biết hoặc kém thông minh. \n\nVí dụ:\n- 魯鈍 (rodon): Đần độn, ngu ngốc.\n- 魯音 (roen): Giọng nói ngốc nghếch, không khéo"
+  },
+  "comments": []
+}

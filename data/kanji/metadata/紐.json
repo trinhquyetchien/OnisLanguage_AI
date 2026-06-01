@@ -1,0 +1,85 @@
+{
+  "kanji": "紐",
+  "meta": {
+    "weight": 2052,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ",
+      "ジュウ"
+    ],
+    "kun": [
+      "ひも"
+    ],
+    "am_han": "NỮU"
+  },
+  "meaning": {
+    "vi": "dây, bện, ren, băng, dây đeo, ruy băng",
+    "en": "string, cord, braid, lace, tape, strap, ribbon"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/紐.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6685",
+    "text": "紐 (đọc là \"nyū\") có nghĩa là \"dây\", \"sợi dây\" để chỉ các vật dụng liên quan đến việc buộc, kết nối hoặc thắt chặt.\n\nVí dụ:\n- 紐帯 (nyūtai): Dây liên kết, mối quan hệ chặt chẽ.\n- 紐 (himo): Sợi "
+  },
+  "comments": [
+    {
+      "id": "220325",
+      "lang": "vi",
+      "content_html": "<p>Trâu thì lúc nào cũng phải xỏ dây vào mũi ms dắt ms nựu dc</p>",
+      "content_text": "Trâu thì lúc nào cũng phải xỏ dây vào mũi ms dắt ms nựu dc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220326",
+      "lang": "vi",
+      "content_html": "<p>Sợi chỉ bện lại vuông thành dây để buộc trâu níu ( NỮU ) lại</p>",
+      "content_text": "Sợi chỉ bện lại vuông thành dây để buộc trâu níu ( NỮU ) lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220327",
+      "lang": "vi",
+      "content_html": "<p>NGOÀI RA cần DÂY để buộc CÁI QUẠT lại</p>",
+      "content_text": "NGOÀI RA cần DÂY để buộc CÁI QUẠT lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kanji": "反",
+  "meta": {
+    "weight": 422,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン",
+      "ホン",
+      "タン",
+      "ホ"
+    ],
+    "kun": [
+      "そ.る",
+      "そ.らす",
+      "かえ.す",
+      "かえ.る",
+      "-かえ.る"
+    ],
+    "am_han": "PHẢN"
+  },
+  "meaning": {
+    "vi": "chống lại, phản đối",
+    "en": "anti-"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/反.svg"
+  },
+  "frequency": 191,
+  "examples": [
+    "反対",
+    "反応",
+    "違反",
+    "反省",
+    "反映"
+  ],
+  "explanation": {
+    "id": "6444",
+    "text": "反 (đọc là \"han\" hoặc \"hantai\") có nghĩa là \"phản\", chỉ sự đối kháng, phản đối hoặc ngược lại. \n\nVí dụ:\n- 反対 (hantai): Phản đối, không đồng ý.\n- 反応 (hannou): Phản ứng.\n- 反省 (hansei): Tự kiểm "
+  },
+  "comments": [
+    {
+      "id": "867",
+      "lang": "vi",
+      "content_html": "<p>Tôi <strong>phản </strong>đối.</p>",
+      "content_text": "Tôi\nphản\nđối.",
+      "image_url": "https://jpdictionary.com/upload/images/62989cb60cdd4.jpg",
+      "image_path": "assets/images/反_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152247",
+      "lang": "vi",
+      "content_html": "<p>LẠI (又) bị PHẢN (反) dame nên vô VÁCH ĐÁ (厂) núp.</p>",
+      "content_text": "LẠI (又) bị PHẢN (反) dame nên vô VÁCH ĐÁ (厂) núp.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152248",
+      "lang": "vi",
+      "content_html": "<p>Bạn lại phản bội tôi bên sườn núi</p>",
+      "content_text": "Bạn lại phản bội tôi bên sườn núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152249",
+      "lang": "vi",
+      "content_html": "<p>Hán lại phản đối</p>",
+      "content_text": "Hán lại phản đối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "kanji": "鎗",
+  "meta": {
+    "weight": 2789,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "ショウ"
+    ],
+    "kun": [
+      "やり"
+    ],
+    "am_han": "SANH, THƯƠNG, SANG"
+  },
+  "meaning": {
+    "vi": "giáo, thương, lao",
+    "en": "spear, lance, javelin"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/鎗.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4765",
+    "text": "鎗 (đọc là \"sō\") có nghĩa là \"giáo\" hoặc \"một loại vũ khí dài, nhọn\". Nó thường được dùng để chỉ các loại vũ khí đâm hoặc chọc.\n\nVí dụ:\n- 鎗術 (sōjutsu): Nghệ thuật sử dụng giáo.\n- 鎗先 (sōsaki):"
+  },
+  "comments": []
+}

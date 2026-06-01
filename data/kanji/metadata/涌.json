@@ -1,0 +1,52 @@
+{
+  "kanji": "涌",
+  "meta": {
+    "weight": 1548,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ",
+      "ヨウ",
+      "ユ"
+    ],
+    "kun": [
+      "わ.く"
+    ],
+    "am_han": "DŨNG"
+  },
+  "meaning": {
+    "vi": "đun sôi, lên men, seethe, náo động, giống",
+    "en": "boil, ferment, seethe, uproar, breed"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/涌.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7771",
+    "text": "涌 (đọc là \"yū\") có nghĩa là \"trào lên\", \"dâng lên\" để chỉ sự tăng lên đột ngột của nước hoặc chất lỏng, thường được dùng trong các ngữ cảnh liên quan đến dòng chảy hoặc cảm xúc mạnh mẽ.\n\nVí "
+  },
+  "comments": [
+    {
+      "id": "219938",
+      "lang": "vi",
+      "content_html": "<p>Dòng Nước Dũng mãnh dâng lên cuồn cuộn.</p>",
+      "content_text": "Dòng Nước Dũng mãnh dâng lên cuồn cuộn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

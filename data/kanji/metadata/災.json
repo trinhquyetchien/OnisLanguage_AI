@@ -1,0 +1,90 @@
+{
+  "kanji": "災",
+  "meta": {
+    "weight": 1645,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "わざわ.い"
+    ],
+    "am_han": "TAI"
+  },
+  "meaning": {
+    "vi": "thảm họa, tai họa, khốn khổ, lời nguyền, sự dữ",
+    "en": "disaster, calamity, woe, curse, evil"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/災.svg"
+  },
+  "frequency": 976,
+  "examples": [
+    "災害",
+    "防災",
+    "被災",
+    "火災",
+    "震災"
+  ],
+  "explanation": {
+    "id": "2805",
+    "text": "災 (đọc là \"zai\") có nghĩa là \"tai họa\", \"thảm họa\" để chỉ những sự kiện gây ra thiệt hại hoặc tổn thất lớn.\n\nVí dụ:\n- 災害 (saigai): Thảm họa, thiên tai.\n- 災難 (zainan): Biến cố, rủi ro.\n- 災厄 ("
+  },
+  "comments": [
+    {
+      "id": "155138",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa lửa và sông nước đc xem là mối tai hoạ</p>",
+      "content_text": "Ngày xưa lửa và sông nước đc xem là mối tai hoạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155139",
+      "lang": "vi",
+      "content_html": "<p>nước và lửa thì gọi là tai họa</p>",
+      "content_text": "nước và lửa thì gọi là tai họa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155140",
+      "lang": "vi",
+      "content_html": "<p>gặp tai nạn cháy nhà thì chạy theo hướng mũi tên chỉ dẫn</p>",
+      "content_text": "gặp tai nạn cháy nhà thì chạy theo hướng mũi tên chỉ dẫn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

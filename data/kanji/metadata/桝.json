@@ -1,0 +1,30 @@
+{
+  "kanji": "桝",
+  "meta": {
+    "weight": 1356,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "ます"
+    ],
+    "am_han": "SUYỄN"
+  },
+  "meaning": {
+    "vi": "hộp đo lường, (kokuji)",
+    "en": "measuring box, (kokuji)"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/桝.svg"
+  },
+  "frequency": 2401,
+  "examples": [],
+  "explanation": {
+    "id": "7422",
+    "text": "桝 (đọc là \"masu\") có nghĩa là \"cái thùng\" hoặc \"cái đo\" để chỉ một đơn vị đo lường truyền thống trong Nhật Bản, thường dùng để đo gạo hoặc các nguyên liệu khác. \n\nVí dụ:\n- 桝目 (masume): Ô vuô"
+  },
+  "comments": []
+}

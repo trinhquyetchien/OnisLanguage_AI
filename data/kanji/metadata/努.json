@@ -1,0 +1,88 @@
+{
+  "kanji": "努",
+  "meta": {
+    "weight": 348,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ド"
+    ],
+    "kun": [
+      "つと.める"
+    ],
+    "am_han": "NỖ"
+  },
+  "meaning": {
+    "vi": "nỗ lực",
+    "en": "toil, diligent, as much as possible"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/努.svg"
+  },
+  "frequency": 749,
+  "examples": [
+    "努力",
+    "努める",
+    "努"
+  ],
+  "explanation": {
+    "id": "5745",
+    "text": "努 (đọc là \"do\") có nghĩa là \"nỗ lực\", \"cố gắng\" để chỉ những hành động lao động, làm việc chăm chỉ hoặc cố gắng đạt được điều gì đó.\n\nVí dụ:\n- 努力 (doryoku): Nỗ lực, cố gắng.\n- 努める (tsutomeru"
+  },
+  "comments": [
+    {
+      "id": "152076",
+      "lang": "vi",
+      "content_html": "<p>Tay muốn có được phũ nữ thì phải nỗ lực</p>",
+      "content_text": "Tay muốn có được phũ nữ thì phải nỗ lực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152077",
+      "lang": "vi",
+      "content_html": "<p>Người hầu hay còn gọi là NÔ (奴) thì làm gì cũng phải nỗ LỰC hết khả năng của mình</p>",
+      "content_text": "Người hầu hay còn gọi là NÔ (奴) thì làm gì cũng phải nỗ LỰC hết khả năng của mình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152078",
+      "lang": "vi",
+      "content_html": "<p>PHỤ NỮ muốn có SỨC MẠNH phải luôn NỖ LỰC.</p>",
+      "content_text": "PHỤ NỮ muốn có SỨC MẠNH phải luôn NỖ LỰC.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

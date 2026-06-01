@@ -1,0 +1,92 @@
+{
+  "kanji": "騒",
+  "meta": {
+    "weight": 2956,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "さわ.ぐ",
+      "うれい",
+      "さわ.がしい"
+    ],
+    "am_han": "TAO"
+  },
+  "meaning": {
+    "vi": "huyên náo, gây ồn ào, ồn ào, làm phiền, kích thích",
+    "en": "boisterous, make noise, clamor, disturb, excite"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/騒.svg"
+  },
+  "frequency": 1069,
+  "examples": [
+    "騒ぎ",
+    "騒動",
+    "騒音",
+    "大騒ぎ",
+    "騒ぐ"
+  ],
+  "explanation": {
+    "id": "4768",
+    "text": "騒 (đọc là \"sō\" hoặc \"sawaru\") có nghĩa là \"ồn ào\", \"rối rắm\", chỉ các tình huống ồn ào hoặc không yên tĩnh.  \nVí dụ:  \n- 騒音 (sōon): Tiếng ồn.  \n- 騒がしい (sawagashii): Ồn ào, huyên náo.  \n- 騒動 "
+  },
+  "comments": [
+    {
+      "id": "157996",
+      "lang": "vi",
+      "content_html": "<p>Con ngựa của TÀO Tháo Lại kêu INH ỎI khi bị Muỗi đốt</p>",
+      "content_text": "Con ngựa của TÀO Tháo Lại kêu INH ỎI khi bị Muỗi đốt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157997",
+      "lang": "vi",
+      "content_html": "<p>con CÔN TRÙNG này mày LẠI cắn NGỰA của TAO.</p>",
+      "content_text": "con CÔN TRÙNG này mày LẠI cắn NGỰA của TAO.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157998",
+      "lang": "vi",
+      "content_html": "<p>Nơi tập trung côn trung tay dắt theo ngựa thì ồn áo náo nhiệt</p>",
+      "content_text": "Nơi tập trung côn trung tay dắt theo ngựa thì ồn áo náo nhiệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

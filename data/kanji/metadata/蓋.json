@@ -1,0 +1,95 @@
+{
+  "kanji": "蓋",
+  "meta": {
+    "weight": 2328,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガイ",
+      "カイ",
+      "コウ"
+    ],
+    "kun": [
+      "ふた",
+      "けだ.し",
+      "おお.う",
+      "かさ",
+      "かこう"
+    ],
+    "am_han": "CÁI"
+  },
+  "meaning": {
+    "vi": "nắp",
+    "en": "cover, lid, flap"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/蓋.svg"
+  },
+  "frequency": 2388,
+  "examples": [
+    "蓋",
+    "頭蓋骨",
+    "蓋然性",
+    "頭蓋"
+  ],
+  "explanation": {
+    "id": "852",
+    "text": "蓋 (đọc là \"gai\" hoặc \"kei\") có nghĩa là \"nắp\", \"che phủ\" để chỉ các vật dụng dùng để đậy hoặc bảo vệ một cái gì đó.  \nVí dụ:  \n- 蓋 (gai): Nắp, đế.  \n- 蓋する (gai suru): Đậy lại, che phủ.  \n- 蓋"
+  },
+  "comments": [
+    {
+      "id": "156589",
+      "lang": "vi",
+      "content_html": "<p>Cái \"nắp\" dùng để đậy lên dĩa \"皿\" ngày xưa \"去\" được làm từ cỏ</p>",
+      "content_text": "Cái \"nắp\" dùng để đậy lên dĩa \"皿\" ngày xưa \"去\" được làm từ cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156590",
+      "lang": "vi",
+      "content_html": "<p>Cái vung thời xưa làm bằng cỏ trộn đất vẫn che trên đĩa thức ăn được</p>",
+      "content_text": "Cái vung thời xưa làm bằng cỏ trộn đất vẫn che trên đĩa thức ăn được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156591",
+      "lang": "vi",
+      "content_html": "<p>Cô giáo thảo toàn dùng cái đĩa ngày xưa</p>",
+      "content_text": "Cô giáo thảo toàn dùng cái đĩa ngày xưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

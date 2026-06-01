@@ -1,0 +1,51 @@
+{
+  "kanji": "釦",
+  "meta": {
+    "weight": 2743,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ク"
+    ],
+    "kun": [
+      "ぼたん"
+    ],
+    "am_han": "KHẨU"
+  },
+  "meaning": {
+    "vi": "khuy ao",
+    "en": "button"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/釦.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7338",
+    "text": "釦 (đọc là \"katsu\" hoặc \"botan\") có nghĩa là \"khuy\", \"nút\", thường được sử dụng để chỉ các loại nút áo, khuy cài.  \nVí dụ:  \n- 釦ホール (katsu hōru): Lỗ khuy.  \n- 釦を掛ける (katsu o kakeru): Cài khuy"
+  },
+  "comments": [
+    {
+      "id": "220894",
+      "lang": "vi",
+      "content_html": "<p>Bố tôi Ấn NÚT mở Cửa vào lấy Vàng</p>",
+      "content_text": "Bố tôi Ấn NÚT mở Cửa vào lấy Vàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

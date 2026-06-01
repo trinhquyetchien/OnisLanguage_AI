@@ -1,0 +1,91 @@
+{
+  "kanji": "距",
+  "meta": {
+    "weight": 2591,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョ"
+    ],
+    "kun": [
+      "へだ.たる",
+      "けづめ"
+    ],
+    "am_han": "CỰ"
+  },
+  "meaning": {
+    "vi": "đường dài, thúc đẩy, fetlock",
+    "en": "long-distance, spur, fetlock"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/距.svg"
+  },
+  "frequency": 1191,
+  "examples": [
+    "距離",
+    "長距離",
+    "遠距離",
+    "短距離",
+    "近距離"
+  ],
+  "explanation": {
+    "id": "1592",
+    "text": "距 (đọc là \"kyo\") có nghĩa là \"khoảng cách\", \"đo lường khoảng cách\" để chỉ các khái niệm liên quan đến khoảng cách giữa hai điểm hoặc vật thể.\n\nVí dụ:\n- 距離 (kyori): Khoảng cách.\n- 距てる (kyoete"
+  },
+  "comments": [
+    {
+      "id": "157171",
+      "lang": "vi",
+      "content_html": "<p>Chân to chạy được cự ly lớn</p>",
+      "content_text": "Chân to chạy được cự ly lớn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157172",
+      "lang": "vi",
+      "content_html": "<p>tưởng tượng:<br>巨: bức tường<br>足: bước chân<br>--&#62; Nhà anh với nhà em chỉ cách nhau một BƯỚC CHÂN nhưng bị ngăn cách bởi BỨC TƯỜNG nên vẫn thấy có KHOẢNG CÁCH.</p>",
+      "content_text": "tưởng tượng:\n巨: bức tường\n足: bước chân\n--> Nhà anh với nhà em chỉ cách nhau một BƯỚC CHÂN nhưng bị ngăn cách bởi BỨC TƯỜNG nên vẫn thấy có KHOẢNG CÁCH.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157173",
+      "lang": "vi",
+      "content_html": "<p>Dùng chân ( 距 ) tạo cự li tủ lớn với tủ bé , dùng tay ( 拒 ) dựng tủ lớn tủ bé là để kháng cự</p>",
+      "content_text": "Dùng chân ( 距 ) tạo cự li tủ lớn với tủ bé , dùng tay ( 拒 ) dựng tủ lớn tủ bé là để kháng cự",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

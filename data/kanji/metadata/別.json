@@ -1,0 +1,91 @@
+{
+  "kanji": "別",
+  "meta": {
+    "weight": 319,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ベツ"
+    ],
+    "kun": [
+      "わか.れる",
+      "わ.ける"
+    ],
+    "am_han": "BIỆT"
+  },
+  "meaning": {
+    "vi": "tách biệt, biệt li",
+    "en": "separate, branch off, diverge, fork, another, extra, specially"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/別.svg"
+  },
+  "frequency": 214,
+  "examples": [
+    "別",
+    "特別",
+    "別に",
+    "差別",
+    "個別"
+  ],
+  "explanation": {
+    "id": "7038",
+    "text": "別 (đọc là \"betsu\" hoặc \"waru\") có nghĩa là \"phân biệt\", \"khác nhau\", dùng để chỉ sự khác biệt hoặc phân chia giữa các sự vật hoặc khái niệm.\n\nVí dụ:\n- 別れる (wakareru): Chia tay, phân ly.\n- 別の"
+  },
+  "comments": [
+    {
+      "id": "36934",
+      "lang": "vi",
+      "content_html": "<p><strong>Chia </strong>thịt ra thành 10.000 (万) miếng bằng dao.</p>",
+      "content_text": "Chia\nthịt ra thành 10.000 (万) miếng bằng dao.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc44cc1c4db.jpg",
+      "image_path": "assets/images/別_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190905",
+      "lang": "vi",
+      "content_html": "<p><strong>biệt li</strong></p>",
+      "content_text": "biệt li",
+      "image_url": "https://jpdictionary.com/upload/images/648a66287dcfa.jpg",
+      "image_path": "assets/images/別_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "151995",
+      "lang": "vi",
+      "content_html": "<p>Dùng miệng để phân biệt vạn lưỡi dao</p>",
+      "content_text": "Dùng miệng để phân biệt vạn lưỡi dao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

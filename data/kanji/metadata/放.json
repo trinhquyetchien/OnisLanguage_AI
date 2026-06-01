@@ -1,0 +1,112 @@
+{
+  "kanji": "放",
+  "meta": {
+    "weight": 1169,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "はな.す",
+      "-っぱな.し",
+      "はな.つ",
+      "はな.れる",
+      "こ.く",
+      "ほう.る"
+    ],
+    "am_han": "PHÓNG"
+  },
+  "meaning": {
+    "vi": "giải phóng, phóng sinh",
+    "en": "set free, release, fire, shoot, emit, banish, liberate"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/放.svg"
+  },
+  "frequency": 288,
+  "examples": [
+    "放送",
+    "解放",
+    "開放",
+    "放置",
+    "放映"
+  ],
+  "explanation": {
+    "id": "7178",
+    "text": "放 (đọc là \"hō\") có nghĩa là \"thả\", \"phóng thích\" để chỉ các hành động liên quan đến việc giải phóng hoặc để lại một cái gì đó.  \nVí dụ:  \n- 放送 (hōsō): Phát sóng.  \n- 解放 (kaihō): Giải phóng. "
+  },
+  "comments": [
+    {
+      "id": "37358",
+      "lang": "vi",
+      "content_html": "<p><strong>Giải phóng </strong>dưới lá cờ.</p>",
+      "content_text": "Giải phóng\ndưới lá cờ.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfea9138f22.jpg",
+      "image_path": "assets/images/放_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154074",
+      "lang": "vi",
+      "content_html": "<p>Đánh khắp các Phương để giải Phóng dân tộc</p>",
+      "content_text": "Đánh khắp các Phương để giải Phóng dân tộc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154075",
+      "lang": "vi",
+      "content_html": "<p>PHÓNG chữ PHỘC đi bốn PHƯƠNG</p>",
+      "content_text": "PHÓNG chữ PHỘC đi bốn PHƯƠNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154076",
+      "lang": "vi",
+      "content_html": "<p>Các phương đánh nhau đòi giải PHÓNG dân tộc</p>",
+      "content_text": "Các phương đánh nhau đòi giải PHÓNG dân tộc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

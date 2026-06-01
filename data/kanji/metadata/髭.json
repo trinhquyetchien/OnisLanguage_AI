@@ -1,0 +1,68 @@
+{
+  "kanji": "髭",
+  "meta": {
+    "weight": 2966,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "ひげ",
+      "くちひげ"
+    ],
+    "am_han": "TÌ"
+  },
+  "meaning": {
+    "vi": "râu ria mép",
+    "en": "beard, mustache"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/髭.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6649",
+    "text": "髭 (đọc là \"hige\") có nghĩa là \"râu\" để chỉ những sợi lông mọc trên mặt, đặc biệt là của nam giới.  \nVí dụ:  \n- 髭剃り (higesori): Dao cạo râu.  \n- 髭面 (higezumen): Người có râu, đàn ông có râu. "
+  },
+  "comments": [
+    {
+      "id": "221069",
+      "lang": "vi",
+      "content_html": "<p>髭剃り：cạo râu</p>",
+      "content_text": "髭剃り：cạo râu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221070",
+      "lang": "vi",
+      "content_html": "<p>râu Dài như Tóc nên phải Dừng việc Ăn (bằng Thìa) để đi cạo Râu</p>",
+      "content_text": "râu Dài như Tóc nên phải Dừng việc Ăn (bằng Thìa) để đi cạo Râu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

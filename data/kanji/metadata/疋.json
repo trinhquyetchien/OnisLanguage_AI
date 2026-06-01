@@ -1,0 +1,104 @@
+{
+  "kanji": "疋",
+  "meta": {
+    "weight": 1796,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒキ",
+      "ショ",
+      "ソ",
+      "ヒツ"
+    ],
+    "kun": [
+      "あし"
+    ],
+    "am_han": "SƠ, NHÃ, THẤT"
+  },
+  "meaning": {
+    "vi": "đầu, quầy cho động vật",
+    "en": "head, counter for animals"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/疋.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6646",
+    "text": "疋 (đọc là \"hiki\" hoặc \"piki\") có nghĩa là \"đơn vị đo lường\" trong văn hóa Nhật Bản, thường dùng để chỉ số lượng vải hoặc động vật. \n\nVí dụ:\n- 疋数 (hikisu): Số lượng đơn vị.\n- 一疋 (ippiki): Một"
+  },
+  "comments": [
+    {
+      "id": "220123",
+      "lang": "vi",
+      "content_html": "<p>Hán Việt: NHÃ<br>\tBộ: 疋 - Sơ<br>\tSố nét: 5<br> \t\tmẫu mực; lịch sự (như 雅)。同 雅。</p>",
+      "content_text": "Hán Việt: NHÃ\nBộ: 疋 - Sơ\nSố nét: 5\nmẫu mực; lịch sự (như 雅)。同 雅。",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221846",
+      "lang": "vi",
+      "content_html": "<p>Chú ý <strong>疋 </strong>có 1 nghĩa là chân người, <strong>足 </strong>cũng có 1 nghĩa là chân người.<br>Dễ liên tưởng thì là hình chụp ngang bàn chân đang đi giày tây.</p>",
+      "content_text": "Chú ý\n疋\ncó 1 nghĩa là chân người,\n足\ncũng có 1 nghĩa là chân người.\nDễ liên tưởng thì là hình chụp ngang bàn chân đang đi giày tây.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    },
+    {
+      "id": "220124",
+      "lang": "vi",
+      "content_html": "<p>Hán Việt là Thất nữa, Thất trong Thất thểu.</p>",
+      "content_text": "Hán Việt là Thất nữa, Thất trong Thất thểu.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220125",
+      "lang": "vi",
+      "content_html": "<p>Sơ nữ là Người Chân thành Đầy đủ.</p>",
+      "content_text": "Sơ nữ là Người Chân thành Đầy đủ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

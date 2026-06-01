@@ -75,6 +75,10 @@ class FlashcardService:
     def add_card(self, deck_id: str, request: FlashcardCreateRequest) -> FlashcardResponse:
         db = SessionLocal()
         try:
+            deck = db.query(FlashcardDeck).filter(FlashcardDeck.deck_id == deck_id).first()
+            if not deck:
+                raise KeyError(f"Deck {deck_id} not found")
+
             new_card = Flashcard(
                 deck_id=deck_id,
                 front=request.front,
@@ -91,6 +95,41 @@ class FlashcardService:
                 back=new_card.back,
                 reading=new_card.reading,
                 example_sentence=new_card.example_sentence
+            )
+        finally:
+            db.close()
+
+    def update_card(self, deck_id: str, card_id: str, request: FlashcardUpdateRequest) -> FlashcardResponse:
+        db = SessionLocal()
+        try:
+            deck = db.query(FlashcardDeck).filter(FlashcardDeck.deck_id == deck_id).first()
+            if not deck:
+                raise KeyError(f"Deck {deck_id} not found")
+
+            card = (
+                db.query(Flashcard)
+                .filter(Flashcard.card_id == card_id, Flashcard.deck_id == deck_id)
+                .first()
+            )
+            if not card:
+                raise KeyError(f"Card {card_id} not found in deck {deck_id}")
+
+            if request.front is not None:
+                card.front = request.front
+            if request.back is not None:
+                card.back = request.back
+            if request.example_sentence is not None:
+                card.example_sentence = request.example_sentence
+
+            db.commit()
+            db.refresh(card)
+
+            return FlashcardResponse(
+                card_id=str(card.card_id),
+                front=card.front,
+                back=card.back,
+                reading=card.reading,
+                example_sentence=card.example_sentence,
             )
         finally:
             db.close()

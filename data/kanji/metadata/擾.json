@@ -1,0 +1,34 @@
+{
+  "kanji": "擾",
+  "meta": {
+    "weight": 1165,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [
+      "みだ.れる",
+      "みだ.す",
+      "わずら.わしい"
+    ],
+    "am_han": "NHIỄU"
+  },
+  "meaning": {
+    "vi": "làm phiền, bối rối",
+    "en": "disturb, throw into confusion"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/擾.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3970",
+    "text": "擾 (đọc là \"jō\") có nghĩa là \"quấy rối\", \"gây rối\" để chỉ các hành động làm phiền hoặc gây trở ngại cho người khác.  \nVí dụ:  \n- 擾乱 (jōran): Sự quấy rối, gây rối loạn.  \n- 擾わす (sawawasu): Gây"
+  },
+  "comments": []
+}

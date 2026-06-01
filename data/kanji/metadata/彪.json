@@ -1,0 +1,68 @@
+{
+  "kanji": "彪",
+  "meta": {
+    "weight": 913,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒョウ",
+      "ヒュウ"
+    ],
+    "kun": [
+      "あや"
+    ],
+    "am_han": "BƯU"
+  },
+  "meaning": {
+    "vi": "đốm, hoa văn, hổ nhỏ",
+    "en": "spotted, mottled, patterned, small tiger"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/彪.svg"
+  },
+  "frequency": 2397,
+  "examples": [],
+  "explanation": {
+    "id": "6697",
+    "text": "彪 (đọc là \"hyō\") có nghĩa là \"sói\", thường dùng để chỉ sự dũng mãnh, hùng mạnh hoặc một loại động vật hoang dã. \n\nVí dụ:\n- 彪悍 (hyōkan): Dũng mãnh, mạnh mẽ.\n- 彪形 (hyōkei): Hình dáng vạm vỡ, c"
+  },
+  "comments": [
+    {
+      "id": "153435",
+      "lang": "vi",
+      "content_html": "<p>Hổ nghiễm nhiên có đôi chân vằn vằn như tóc sam</p>",
+      "content_text": "Hổ nghiễm nhiên có đôi chân vằn vằn như tóc sam",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153436",
+      "lang": "vi",
+      "content_html": "<p>ở buu điện có con hổ vằn</p>",
+      "content_text": "ở buu điện có con hổ vằn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

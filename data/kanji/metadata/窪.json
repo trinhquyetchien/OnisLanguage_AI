@@ -1,0 +1,56 @@
+{
+  "kanji": "窪",
+  "meta": {
+    "weight": 1966,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ワ",
+      "ア"
+    ],
+    "kun": [
+      "くぼ.む",
+      "くぼ.み",
+      "くぼ.まる",
+      "くぼ"
+    ],
+    "am_han": "OA"
+  },
+  "meaning": {
+    "vi": "trầm cảm, hang động, chìm xuống, trở nên rỗng",
+    "en": "depression, cave in, sink, become hollow"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/窪.svg"
+  },
+  "frequency": 1853,
+  "examples": [
+    "窪"
+  ],
+  "explanation": {
+    "id": "1880",
+    "text": "窪 (đọc là \"kubo\") có nghĩa là \"chỗ trũng\", \"hố\" để chỉ những vùng đất thấp hoặc chỗ lõm xuống.\n\nVí dụ:\n- 窪地 (kubachi): Chỗ trũng, vùng đất thấp.\n- 窪む (kubumu): Lõm xuống, trở nên trũng.\n- 窪み"
+  },
+  "comments": [
+    {
+      "id": "155824",
+      "lang": "vi",
+      "content_html": "<p>Nước chảy xuống lỗ huyệt ở giữa 2 mảnh đất tạo thành hồ</p>",
+      "content_text": "Nước chảy xuống lỗ huyệt ở giữa 2 mảnh đất tạo thành hồ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "kanji": "淘",
+  "meta": {
+    "weight": 1558,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "よな.げる"
+    ],
+    "am_han": "ĐÀO"
+  },
+  "meaning": {
+    "vi": "lựa chọn",
+    "en": "select"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/淘.svg"
+  },
+  "frequency": 2410,
+  "examples": [
+    "淘汰"
+  ],
+  "explanation": {
+    "id": "5817",
+    "text": "淘 (đọc là \"とう\" - \"tō\") có nghĩa là \"lọc\", \"tách\" để chỉ các hành động liên quan đến việc lọc bỏ, làm sạch hoặc tìm kiếm cái tốt nhất từ những thứ hỗn độn.  \nVí dụ:  \n- 淘汰 (とうた - tōta): Lọc r"
+  },
+  "comments": [
+    {
+      "id": "154938",
+      "lang": "vi",
+      "content_html": "<p>Nước bao quanh cái lon bò húc bị ĐÀO thải</p>",
+      "content_text": "Nước bao quanh cái lon bò húc bị ĐÀO thải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

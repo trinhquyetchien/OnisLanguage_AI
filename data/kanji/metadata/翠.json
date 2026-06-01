@@ -1,0 +1,88 @@
+{
+  "kanji": "翠",
+  "meta": {
+    "weight": 2141,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "かわせみ",
+      "みどり"
+    ],
+    "am_han": "THÚY"
+  },
+  "meaning": {
+    "vi": "màu xanh lá cây, bói cá",
+    "en": "green, kingfisher"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/翠.svg"
+  },
+  "frequency": 2200,
+  "examples": [
+    "翠",
+    "翡翠"
+  ],
+  "explanation": {
+    "id": "4227",
+    "text": "翠 (đọc là \"sui\") có nghĩa là \"màu xanh lục\", thường dùng để chỉ màu sắc của ngọc bích hoặc những thứ liên quan đến thiên nhiên xanh tươi.  \nVí dụ:  \n- 翠色 (suiiro): Màu xanh lục.  \n- 翠玉 (suiy"
+  },
+  "comments": [
+    {
+      "id": "156216",
+      "lang": "vi",
+      "content_html": "<p>羽 bộ vũ ( lông chim ) <br>卒 bộ tốt ( cuối cùng , tận cùng , kẻ yếu nhất ) <br>tận cùng của cánh chim ( chim bay cao )  là bầu trời xanh biếc</p>",
+      "content_text": "羽 bộ vũ ( lông chim )\n卒 bộ tốt ( cuối cùng , tận cùng , kẻ yếu nhất )\ntận cùng của cánh chim ( chim bay cao )  là bầu trời xanh biếc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156217",
+      "lang": "vi",
+      "content_html": "<p>bộ lông vũ tốt chỉ có ở chim phỉ THUÝ ( chim bói cá )</p>",
+      "content_text": "bộ lông vũ tốt chỉ có ở chim phỉ THUÝ ( chim bói cá )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156218",
+      "lang": "vi",
+      "content_html": "<p>翠翹 thúy kiều</p>",
+      "content_text": "翠翹 thúy kiều",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

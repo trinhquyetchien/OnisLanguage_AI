@@ -1,0 +1,52 @@
+{
+  "kanji": "祷",
+  "meta": {
+    "weight": 1911,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "いの.る",
+      "いの.り",
+      "まつ.る"
+    ],
+    "am_han": "ĐẢO"
+  },
+  "meaning": {
+    "vi": "cầu nguyện",
+    "en": "pray"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/祷.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5834",
+    "text": "祷 (đọc là \"とう\" - \"tō\") có nghĩa là \"cầu nguyện\", chỉ các hành động liên quan đến việc cầu xin, thỉnh cầu điều gì đó từ thần linh hoặc vũ trụ.\n\nVí dụ:\n- 祷告 (とうこく - tōkoku): Cầu nguyện.\n- 祷念 ("
+  },
+  "comments": [
+    {
+      "id": "220226",
+      "lang": "vi",
+      "content_html": "<p>mọi người không được đài THỌ, nên đả Đảo tòa THỊ chính</p>",
+      "content_text": "mọi người không được đài THỌ, nên đả Đảo tòa THỊ chính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

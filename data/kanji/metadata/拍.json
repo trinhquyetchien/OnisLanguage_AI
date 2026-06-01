@@ -1,0 +1,89 @@
+{
+  "kanji": "拍",
+  "meta": {
+    "weight": 1071,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハク",
+      "ヒョウ"
+    ],
+    "kun": [],
+    "am_han": "PHÁCH"
+  },
+  "meaning": {
+    "vi": "vỗ tay, đánh bại (âm nhạc)",
+    "en": "clap, beat (music)"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/拍.svg"
+  },
+  "frequency": 1373,
+  "examples": [
+    "拍手",
+    "拍子",
+    "拍車",
+    "心拍",
+    "拍"
+  ],
+  "explanation": {
+    "id": "6324",
+    "text": "拍 (đọc là \"haku\") có nghĩa là \"vỗ\", \"đánh\" để chỉ các hành động liên quan đến việc đánh, vỗ hoặc ghi âm.  \nVí dụ:  \n- 拍手 (hakushuu): Vỗ tay.  \n- 拍子 (hyoushi): Nhịp điệu, nhạc phách.  \n- 拍録 ("
+  },
+  "comments": [
+    {
+      "id": "153853",
+      "lang": "vi",
+      "content_html": "<p>TAY vỗ BẠCH BẠCH cũng ra nhịp PHÁCH</p>",
+      "content_text": "TAY vỗ BẠCH BẠCH cũng ra nhịp PHÁCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153854",
+      "lang": "vi",
+      "content_html": "<p>tay (扌) màu trắng (白) vỗ PHÁCH PHÁCH</p>",
+      "content_text": "tay (扌) màu trắng (白) vỗ PHÁCH PHÁCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153855",
+      "lang": "vi",
+      "content_html": "<p>Vỗ tay Bạch cốt tinh là người có khi PHÁCH</p>",
+      "content_text": "Vỗ tay Bạch cốt tinh là người có khi PHÁCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

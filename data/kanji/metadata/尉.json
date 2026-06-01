@@ -1,0 +1,88 @@
+{
+  "kanji": "尉",
+  "meta": {
+    "weight": 756,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ",
+      "ジョウ"
+    ],
+    "kun": [],
+    "am_han": "ÚY, UẤT"
+  },
+  "meaning": {
+    "vi": "sĩ quan quân đội, cai ngục, ông già, cấp bậc",
+    "en": "military officer, jailer, old man, rank"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/尉.svg"
+  },
+  "frequency": 2007,
+  "examples": [
+    "大尉",
+    "中尉",
+    "尉",
+    "少尉"
+  ],
+  "explanation": {
+    "id": "137",
+    "text": "尉 (đọc là \"i\") có nghĩa là \"quan chức cấp thấp\" hoặc \"lính\". Chữ này thường liên quan đến các chức vụ trong quân đội hoặc hành chính.\n\nVí dụ:\n- 尉官 (ikan): Sĩ quan cấp dưới.\n- 補佐尉 (hosai i): "
+  },
+  "comments": [
+    {
+      "id": "153052",
+      "lang": "vi",
+      "content_html": "<p>Đại uý thốn khi ra chỉ thị bắt ma</p>",
+      "content_text": "Đại uý thốn khi ra chỉ thị bắt ma",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153053",
+      "lang": "vi",
+      "content_html": "<p>ko biết sợ cương THI 、ra những chỉ THỊ rất THỐN-&#62; đó là đại ÚY.</p>",
+      "content_text": "ko biết sợ cương THI 、ra những chỉ THỊ rất THỐN-> đó là đại ÚY.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153054",
+      "lang": "vi",
+      "content_html": "<p>Quan uỷ về nguyên dưới cổng nhìn thốn quá</p>",
+      "content_text": "Quan uỷ về nguyên dưới cổng nhìn thốn quá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

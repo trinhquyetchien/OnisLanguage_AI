@@ -1,0 +1,109 @@
+{
+  "kanji": "奥",
+  "meta": {
+    "weight": 638,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オウ"
+    ],
+    "kun": [
+      "おく",
+      "おく.まる",
+      "くま"
+    ],
+    "am_han": "ÁO"
+  },
+  "meaning": {
+    "vi": "trong cùng",
+    "en": "heart, interior"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/奥.svg"
+  },
+  "frequency": 1018,
+  "examples": [
+    "奥",
+    "奥さん",
+    "奥様",
+    "奥行き",
+    "奥山"
+  ],
+  "explanation": {
+    "id": "514",
+    "text": "奥 (đọc là \"oku\") có nghĩa là \"sâu\", \"kín\", thường chỉ nơi sâu thẳm hoặc bên trong. \n\nVí dụ:\n- 奥さん (okusan): Vợ, bà xã.\n- 奥義 (okugi): Bí kíp, nghệ thuật ẩn giấu.\n- 奥地 (okuchi): Khu vực sâu, m"
+  },
+  "comments": [
+    {
+      "id": "37208",
+      "lang": "vi",
+      "content_html": "<p>Tôi bỏ gạo (米) vào trong cái hộp lớn (大) rồi cất nó vào <strong>trong góc</strong>.</p>",
+      "content_text": "Tôi bỏ gạo (米) vào trong cái hộp lớn (大) rồi cất nó vào\ntrong góc\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd4c9dd315.jpg",
+      "image_path": "assets/images/奥_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152765",
+      "lang": "vi",
+      "content_html": "<p>BÊN TRONG cái ÁO là một hạt GẠO TO đc chụp lên bằng cái hộp có tay cầm</p>",
+      "content_text": "BÊN TRONG cái ÁO là một hạt GẠO TO đc chụp lên bằng cái hộp có tay cầm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152766",
+      "lang": "vi",
+      "content_html": "<p>BÊN TRONG(奥) CHIẾC LỒNG BÀN là một bát CƠM(米) rất TO(大).</p>",
+      "content_text": "BÊN TRONG(奥) CHIẾC LỒNG BÀN là một bát CƠM(米) rất TO(大).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152767",
+      "lang": "vi",
+      "content_html": "<p>phẹt đại quanh bên trong bao gạo (phiệt, quynh, mễ, đại)</p>",
+      "content_text": "phẹt đại quanh bên trong bao gạo (phiệt, quynh, mễ, đại)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

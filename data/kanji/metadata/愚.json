@@ -1,0 +1,90 @@
+{
+  "kanji": "愚",
+  "meta": {
+    "weight": 999,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "グ"
+    ],
+    "kun": [
+      "おろ.か"
+    ],
+    "am_han": "NGU"
+  },
+  "meaning": {
+    "vi": "ngu ngốc, điên rồ, vô lý",
+    "en": "foolish, folly, absurdity, stupid"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/愚.svg"
+  },
+  "frequency": 1551,
+  "examples": [
+    "愚か",
+    "愚痴",
+    "愚",
+    "愚か者",
+    "愚者"
+  ],
+  "explanation": {
+    "id": "1841",
+    "text": "愚 (đọc là \"gu\") có nghĩa là \"ngu dốt\" hoặc \"khờ khạo\", để chỉ sự thiếu hiểu biết hoặc thông minh.  \nVí dụ:  \n- 愚か (oroka): Ngốc nghếch, ngu ngốc.  \n- 愚痴 (guchi): Lời than phiền, càu nhàu.  \n"
+  },
+  "comments": [
+    {
+      "id": "153661",
+      "lang": "vi",
+      "content_html": "<p>để TÂM đến DẤU CHÂN thằng NGU nào in trên RUỘNG</p>",
+      "content_text": "để TÂM đến DẤU CHÂN thằng NGU nào in trên RUỘNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153662",
+      "lang": "vi",
+      "content_html": "<p>hai con sâu nằm trên một cái cốc úp ngược thì có trái tim ngu ngốc</p>",
+      "content_text": "hai con sâu nằm trên một cái cốc úp ngược thì có trái tim ngu ngốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153663",
+      "lang": "vi",
+      "content_html": "<p>Quuynh để tâm đến con sâu trên ruộng thì thật ngu ngốc</p>",
+      "content_text": "Quuynh để tâm đến con sâu trên ruộng thì thật ngu ngốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

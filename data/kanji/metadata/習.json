@@ -1,0 +1,109 @@
+{
+  "kanji": "習",
+  "meta": {
+    "weight": 2140,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ",
+      "ジュ"
+    ],
+    "kun": [
+      "なら.う",
+      "なら.い"
+    ],
+    "am_han": "TẬP"
+  },
+  "meaning": {
+    "vi": "học tập",
+    "en": "learn"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/習.svg"
+  },
+  "frequency": 706,
+  "examples": [
+    "練習",
+    "学習",
+    "習慣",
+    "講習",
+    "習得"
+  ],
+  "explanation": {
+    "id": "3505",
+    "text": "習 (đọc là \"shū\" hoặc \"nara(u)\") có nghĩa là \"học\", \"thực hành\" để chỉ các hành động liên quan đến việc học hỏi và rèn luyện kỹ năng.\n\nVí dụ:\n- 習う (narau): Học, tiếp thu kiến thức.\n- 習慣 (shūk"
+  },
+  "comments": [
+    {
+      "id": "974",
+      "lang": "vi",
+      "content_html": "<p>Trên toà nhà màu trắng (白), những con chim vỗ cánh (羽) <strong>học </strong>bay.</p>",
+      "content_text": "Trên toà nhà màu trắng (白), những con chim vỗ cánh (羽)\nhọc\nbay.",
+      "image_url": "https://jpdictionary.com/upload/images/629b0f9c6c3f0.png",
+      "image_path": "assets/images/習_1.png",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156211",
+      "lang": "vi",
+      "content_html": "<p>TẬP bay bằng đôi cánh trắng</p>",
+      "content_text": "TẬP bay bằng đôi cánh trắng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158950",
+      "lang": "vi",
+      "content_html": "<p>実習(じっしゅう): Thực tập</p>",
+      "content_text": "実習(じっしゅう): Thực tập",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "158583",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>習う (ならう): học</p><p>練習 (れんしゅう): luyện tập</p><p>復習 (ふくしゅう): ôn tập</p><p>予習 (よしゅう): chuẩn bị bài trước</p><p>習慣 (しゅうかん): tập quán</p>",
+      "content_text": "JLPT N4\n習う (ならう): học\n練習 (れんしゅう): luyện tập\n復習 (ふくしゅう): ôn tập\n予習 (よしゅう): chuẩn bị bài trước\n習慣 (しゅうかん): tập quán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

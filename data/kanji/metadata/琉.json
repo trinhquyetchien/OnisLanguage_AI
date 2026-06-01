@@ -1,0 +1,51 @@
+{
+  "kanji": "琉",
+  "meta": {
+    "weight": 1746,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リュウ",
+      "ル"
+    ],
+    "kun": [],
+    "am_han": "LƯU"
+  },
+  "meaning": {
+    "vi": "đá quý, lapis lazuli",
+    "en": "precious stone, gem, lapis lazuli"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/琉.svg"
+  },
+  "frequency": 2036,
+  "examples": [
+    "琉球"
+  ],
+  "explanation": {
+    "id": "8056",
+    "text": "琉 (đọc là \"ryū\") có nghĩa là \"ngọc\" hoặc \"thủy tinh,\" thường liên quan đến các vật thể quý giá hoặc trong suốt. \n\nVí dụ:\n- 琉球 (Ryūkyū): Vương quốc Ryukyu, tên gọi cổ của Okinawa.\n- 琉璃 (ryūri"
+  },
+  "comments": [
+    {
+      "id": "155346",
+      "lang": "vi",
+      "content_html": "<p>Vua đến đầu nguồn của dòng sông tìm ngọc LƯU li</p>",
+      "content_text": "Vua đến đầu nguồn của dòng sông tìm ngọc LƯU li",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

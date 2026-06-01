@@ -1,0 +1,91 @@
+{
+  "kanji": "堪",
+  "meta": {
+    "weight": 576,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン",
+      "タン"
+    ],
+    "kun": [
+      "た.える",
+      "たま.る",
+      "こら.える",
+      "こた.える"
+    ],
+    "am_han": "KHAM"
+  },
+  "meaning": {
+    "vi": "chịu đựng, hỗ trợ, chống lại",
+    "en": "withstand, endure, support, resist"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/堪.svg"
+  },
+  "frequency": 1953,
+  "examples": [
+    "堪能",
+    "堪える"
+  ],
+  "explanation": {
+    "id": "1081",
+    "text": "堪 (đọc là \"kan\") có nghĩa là \"chịu đựng\", \"khả năng\" để chỉ khả năng vượt qua khó khăn hoặc chịu đựng áp lực.\n\nVí dụ:\n- 堪能 (kanno): Khả năng, thành thạo.\n- 堪える (koraeru): Chịu đựng, kiên trì"
+  },
+  "comments": [
+    {
+      "id": "152626",
+      "lang": "vi",
+      "content_html": "<p>để có đc một mảnh đất phải cam chịu bốn thời kì khổ sở</p>",
+      "content_text": "để có đc một mảnh đất phải cam chịu bốn thời kì khổ sở",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152627",
+      "lang": "vi",
+      "content_html": "<p>Muốn nhận được quả ngọt thì đôi chân phải cam chịu làm đất  có khi đánh đổi cả mạng sống ( thời xưa chỉ dựa vào đất</p>",
+      "content_text": "Muốn nhận được quả ngọt thì đôi chân phải cam chịu làm đất  có khi đánh đổi cả mạng sống ( thời xưa chỉ dựa vào đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152628",
+      "lang": "vi",
+      "content_html": "<p>Để có mảnh đất thậm chí phải cam chịu sự KHAM khổ từ gần 4 phía</p>",
+      "content_text": "Để có mảnh đất thậm chí phải cam chịu sự KHAM khổ từ gần 4 phía",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

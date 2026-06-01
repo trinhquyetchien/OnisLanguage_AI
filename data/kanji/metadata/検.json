@@ -1,0 +1,107 @@
+{
+  "kanji": "検",
+  "meta": {
+    "weight": 1388,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "しら.べる"
+    ],
+    "am_han": "KIỂM"
+  },
+  "meaning": {
+    "vi": "kiểm tra, điều tra",
+    "en": "examination, investigate"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/検.svg"
+  },
+  "frequency": 290,
+  "examples": [
+    "検討",
+    "検索",
+    "検査",
+    "検証",
+    "検察"
+  ],
+  "explanation": {
+    "id": "2140",
+    "text": "検 (đọc là \"ken\") có nghĩa là \"kiểm tra\", \"xác minh\" để chỉ các hành động liên quan đến việc kiểm tra, điều tra hoặc xác nhận thông tin.  \nVí dụ:  \n- 検査 (kensa): Kiểm tra, xét nghiệm.  \n- 検討 "
+  },
+  "comments": [
+    {
+      "id": "154569",
+      "lang": "vi",
+      "content_html": "<p>KIỂM検 chứng rằng cây木 cối phù hợp合 với con người人</p>",
+      "content_text": "KIỂM検 chứng rằng cây木 cối phù hợp合 với con người人",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221632",
+      "lang": "vi",
+      "content_html": "<p>Chữ Hán 検 (đọc là \"ken\") có nghĩa là \"kiểm tra\" để chỉ các hoạt động kiểm tra, xét nghiệm hoặc đánh giá.</p><p>Ví dụ:</p><ol><li><strong>検査する (kensa suru)</strong>: Kiểm tra, kiểm định.</li><li><strong>検討する (kentou suru)</strong>: Xem xét, nghiên cứu.</li><li><strong>検出する (kenshutsu suru)</strong>: Phát hiện, nhận diện.</li><li><strong>検索する (kensaku suru)</strong>: Tìm kiếm, tra cứu.</li></ol>",
+      "content_text": "Chữ Hán 検 (đọc là \"ken\") có nghĩa là \"kiểm tra\" để chỉ các hoạt động kiểm tra, xét nghiệm hoặc đánh giá.\nVí dụ:\n検査する (kensa suru)\n: Kiểm tra, kiểm định.\n検討する (kentou suru)\n: Xem xét, nghiên cứu.\n検出する (kenshutsu suru)\n: Phát hiện, nhận diện.\n検索する (kensaku suru)\n: Tìm kiếm, tra cứu.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "154570",
+      "lang": "vi",
+      "content_html": "<p>Kiểm tra cây</p>",
+      "content_text": "Kiểm tra cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154571",
+      "lang": "vi",
+      "content_html": "<p>Người đội nón đang Kiểm tra Cây</p>",
+      "content_text": "Người đội nón đang Kiểm tra Cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

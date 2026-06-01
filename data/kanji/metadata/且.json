@@ -1,0 +1,86 @@
+{
+  "kanji": "且",
+  "meta": {
+    "weight": 82,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショ",
+      "ソ",
+      "ショウ"
+    ],
+    "kun": [
+      "か.つ"
+    ],
+    "am_han": "THẢ, THƯ"
+  },
+  "meaning": {
+    "vi": "hơn nữa",
+    "en": "moreover, also, furthermore"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/且.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1000",
+    "text": "且 (đọc là \"sha\" hoặc \"ka\") có nghĩa là \"hơn nữa\", \"và\", thường được dùng để nối các câu hoặc ý tưởng lại với nhau, thể hiện sự bổ sung thông tin.\n\nVí dụ:\n- 且つ (katsutsu): Hơn nữa, và.\n- 且つまた"
+  },
+  "comments": [
+    {
+      "id": "218780",
+      "lang": "vi",
+      "content_html": "<p>Được  thả ra ngoài một ngày có trăng</p>",
+      "content_text": "Được  thả ra ngoài một ngày có trăng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218781",
+      "lang": "vi",
+      "content_html": "<p>Được THẢ ra Ngoài nguyên 1 Tháng</p>",
+      "content_text": "Được THẢ ra Ngoài nguyên 1 Tháng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218782",
+      "lang": "vi",
+      "content_html": "<p>thả mặt trăng xuống sàn</p>",
+      "content_text": "thả mặt trăng xuống sàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

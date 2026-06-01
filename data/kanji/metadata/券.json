@@ -1,0 +1,122 @@
+{
+  "kanji": "券",
+  "meta": {
+    "weight": 324,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [],
+    "am_han": "KHOÁN"
+  },
+  "meaning": {
+    "vi": "vé, chứng khoán",
+    "en": "ticket"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/券.svg"
+  },
+  "frequency": 583,
+  "examples": [
+    "証券",
+    "券",
+    "債券",
+    "馬券",
+    "株券"
+  ],
+  "explanation": {
+    "id": "2107",
+    "text": "券 (đọc là \"ken\") có nghĩa là \"phiếu\", \"thẻ\" để chỉ các loại giấy tờ dùng để chứng nhận quyền lợi hoặc giao dịch.  \nVí dụ:  \n- 券売機 (kenbaiki): Máy bán vé.  \n- 食券 (shokuken): Phiếu ăn, thẻ ăn."
+  },
+  "comments": [
+    {
+      "id": "152010",
+      "lang": "vi",
+      "content_html": "<p>chứng KHOÁN lao ĐAO (刀) vì 2 (二) vụ HOẢ (火) hoạn lớn</p>",
+      "content_text": "chứng KHOÁN lao ĐAO (刀) vì 2 (二) vụ HOẢ (火) hoạn lớn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190709",
+      "lang": "vi",
+      "content_html": "<p>đốt Lửa bán 2 cây Đao để chơi chứng Khoán</p>",
+      "content_text": "đốt Lửa bán 2 cây Đao để chơi chứng Khoán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "152011",
+      "lang": "vi",
+      "content_html": "<p>dùng đao chém người 2 phát được 2 vé</p>",
+      "content_text": "dùng đao chém người 2 phát được 2 vé",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152012",
+      "lang": "vi",
+      "content_html": "<p>2 người đánh nhau vì chứng khoán</p>",
+      "content_text": "2 người đánh nhau vì chứng khoán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222105",
+      "lang": "vi",
+      "content_html": "<p><strong>券</strong> là chữ <strong>hình thanh</strong>: <strong>刀</strong> (đao – biểu ý liên quan đến việc cắt, chia tách) +<strong>劵</strong> (thanh).</p><p>Trong văn ngữ cổ, từ này dùng để chỉ văn bản <strong>có tính pháp lý, giao dịch</strong>. (Kiểu hợp đồng, chứng thư)</p>",
+      "content_text": "券\nlà chữ\nhình thanh\n:\n刀\n(đao – biểu ý liên quan đến việc cắt, chia tách) +\n劵\n(thanh).\nTrong văn ngữ cổ, từ này dùng để chỉ văn bản\ncó tính pháp lý, giao dịch\n. (Kiểu hợp đồng, chứng thư)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

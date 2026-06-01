@@ -1,0 +1,110 @@
+{
+  "kanji": "夢",
+  "meta": {
+    "weight": 622,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ム",
+      "ボウ"
+    ],
+    "kun": [
+      "ゆめ",
+      "ゆめ.みる",
+      "くら.い"
+    ],
+    "am_han": "MỘNG"
+  },
+  "meaning": {
+    "vi": "giấc mơ",
+    "en": "dream, vision, illusion"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/夢.svg"
+  },
+  "frequency": 943,
+  "examples": [
+    "夢",
+    "夢中",
+    "悪夢",
+    "夢見",
+    "夢見る"
+  ],
+  "explanation": {
+    "id": "7516",
+    "text": "夢 (đọc là \"mu\") có nghĩa là \"giấc mơ\" hoặc \"ước mơ\". Nó chỉ các trạng thái mộng tưởng hoặc khát vọng trong cuộc sống.\n\nVí dụ:\n- 夢見る (yumemiru): Mơ thấy, có giấc mơ.\n- 夢中 (muchuu): Say mê, đắ"
+  },
+  "comments": [
+    {
+      "id": "37278",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã thấy một <strong>giấc mơ</strong> (夕) về thảo nguyên vào buổi chiều tà.</p>",
+      "content_text": "Tôi đã thấy một\ngiấc mơ\n(夕) về thảo nguyên vào buổi chiều tà.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdc6abb993.jpg",
+      "image_path": "assets/images/夢_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152726",
+      "lang": "vi",
+      "content_html": "<p>thảo nằm trên võng ngủ đến tối</p>",
+      "content_text": "thảo nằm trên võng ngủ đến tối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152727",
+      "lang": "vi",
+      "content_html": "<p>thảo nằm trên võng mơ về một đêm tĩnh mịch.. ((</p>",
+      "content_text": "thảo nằm trên võng mơ về một đêm tĩnh mịch.. ((",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152728",
+      "lang": "vi",
+      "content_html": "<p>THẢO nằm trên VÕNG mơ về cái KHĂN đc tặng hồi CHIỀU</p>",
+      "content_text": "THẢO nằm trên VÕNG mơ về cái KHĂN đc tặng hồi CHIỀU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

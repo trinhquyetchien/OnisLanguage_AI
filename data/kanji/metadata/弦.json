@@ -1,0 +1,89 @@
+{
+  "kanji": "弦",
+  "meta": {
+    "weight": 901,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲン"
+    ],
+    "kun": [
+      "つる"
+    ],
+    "am_han": "HUYỀN"
+  },
+  "meaning": {
+    "vi": "dây cung, hợp âm, cạnh huyền",
+    "en": "bowstring, chord, hypotenuse"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/弦.svg"
+  },
+  "frequency": 1773,
+  "examples": [
+    "弦",
+    "管弦楽",
+    "弦楽",
+    "弦楽器"
+  ],
+  "explanation": {
+    "id": "2212",
+    "text": "弦 (đọc là \"gen\" hoặc \"tsuru\") có nghĩa là \"dây\" để chỉ các loại dây, đặc biệt là dây đàn hoặc dây cung.  \nVí dụ:  \n- 弦楽器 (gengakki): Nhạc cụ dây.  \n- 弦 (tsuru): Dây cung, dây đàn.  \n- 弦音 (ge"
+  },
+  "comments": [
+    {
+      "id": "153404",
+      "lang": "vi",
+      "content_html": "<p>dây cung màu đen huyền bí</p>",
+      "content_text": "dây cung màu đen huyền bí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153405",
+      "lang": "vi",
+      "content_html": "<p>HUYỀN làm DÂY CUNG</p>",
+      "content_text": "HUYỀN làm DÂY CUNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153406",
+      "lang": "vi",
+      "content_html": "<p>Huyền làm dây cung và cung đều là màu đen.</p>",
+      "content_text": "Huyền làm dây cung và cung đều là màu đen.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

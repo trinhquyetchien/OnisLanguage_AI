@@ -1,0 +1,34 @@
+{
+  "kanji": "鮒",
+  "meta": {
+    "weight": 2975,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホ",
+      "フ",
+      "ブ"
+    ],
+    "kun": [
+      "ふな"
+    ],
+    "am_han": "PHỤ"
+  },
+  "meaning": {
+    "vi": "cá chép",
+    "en": "carp"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/鮒.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6942",
+    "text": "鮒 (đọc là \"bu\") có nghĩa là \"cá chép\" hoặc \"cá nước ngọt\" để chỉ một loại cá thường gặp trong các ao, hồ ở Nhật Bản.\n\nVí dụ:\n- 鮒寿司 (buzushi): Sushi làm từ cá chép.\n- 鮒釣り (butsurī): Câu cá ch"
+  },
+  "comments": []
+}

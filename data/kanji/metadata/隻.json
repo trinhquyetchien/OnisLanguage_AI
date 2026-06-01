@@ -1,0 +1,84 @@
+{
+  "kanji": "隻",
+  "meta": {
+    "weight": 2850,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ"
+    ],
+    "kun": [],
+    "am_han": "CHIẾC"
+  },
+  "meaning": {
+    "vi": "số đếm thuyền",
+    "en": "vessels, counter for ships, fish, birds, arrows, one of a pair"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/隻.svg"
+  },
+  "frequency": 1546,
+  "examples": [
+    "隻"
+  ],
+  "explanation": {
+    "id": "4382",
+    "text": "隻 (đọc là \"seki\") có nghĩa là \"chiếc\", \"cái\" để chỉ số lượng của các đồ vật, đặc biệt là động vật và tàu thuyền.  \nVí dụ:  \n- 一隻 (isseki): Một chiếc (đối với động vật).  \n- 隻眼 (sekigan): Mắt"
+  },
+  "comments": [
+    {
+      "id": "157754",
+      "lang": "vi",
+      "content_html": "<p>1 chú chim chích đang đứng dạng chân</p>",
+      "content_text": "1 chú chim chích đang đứng dạng chân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157755",
+      "lang": "vi",
+      "content_html": "<p>LẠI là con CHIM CHÍCH</p>",
+      "content_text": "LẠI là con CHIM CHÍCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157756",
+      "lang": "vi",
+      "content_html": "<p>con CHIM (隹)LẠI (又)bị con ông CHÍCH...</p>",
+      "content_text": "con CHIM (隹)LẠI (又)bị con ông CHÍCH...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

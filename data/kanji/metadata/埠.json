@@ -1,0 +1,52 @@
+{
+  "kanji": "埠",
+  "meta": {
+    "weight": 564,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ",
+      "ホ"
+    ],
+    "kun": [
+      "つか",
+      "はとば"
+    ],
+    "am_han": "PHỤ"
+  },
+  "meaning": {
+    "vi": "cầu cảng",
+    "en": "wharf"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/埠.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6788",
+    "text": "埠 (đọc là \"bu\") có nghĩa là \"bến cảng\", \"nơi neo đậu\" để chỉ các địa điểm liên quan đến giao thông đường thủy hoặc nơi chất hàng hóa.  \nVí dụ:  \n- 埠頭 (butō): Bến cảng, bến tàu.  \n- 港埠 (kōbu)"
+  },
+  "comments": [
+    {
+      "id": "219211",
+      "lang": "vi",
+      "content_html": "<p>10 mảnh đất của quan phụ mẫu được xây làm bến đỗ</p>",
+      "content_text": "10 mảnh đất của quan phụ mẫu được xây làm bến đỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

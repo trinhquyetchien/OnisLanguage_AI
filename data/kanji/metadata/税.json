@@ -1,0 +1,105 @@
+{
+  "kanji": "税",
+  "meta": {
+    "weight": 1937,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゼイ"
+    ],
+    "kun": [],
+    "am_han": "THUẾ"
+  },
+  "meaning": {
+    "vi": "thuế",
+    "en": "tax, duty"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/税.svg"
+  },
+  "frequency": 289,
+  "examples": [
+    "税",
+    "税金",
+    "税込",
+    "課税",
+    "税制"
+  ],
+  "explanation": {
+    "id": "4376",
+    "text": "税 (đọc là \"zei\") có nghĩa là \"thuế\" để chỉ các khoản tiền mà chính phủ thu từ cá nhân hoặc doanh nghiệp để tài trợ cho các hoạt động công cộng.  \nVí dụ:  \n- 税金 (zeikin): Tiền thuế.  \n- 消費税 ("
+  },
+  "comments": [
+    {
+      "id": "155763",
+      "lang": "vi",
+      "content_html": "<p>Hoà huynh làm bên thuế má</p>",
+      "content_text": "Hoà huynh làm bên thuế má",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190688",
+      "lang": "vi",
+      "content_html": "<p>Lúa đổ vào Mồm người đang đứng là đóng thuế</p>",
+      "content_text": "Lúa đổ vào Mồm người đang đứng là đóng thuế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "155764",
+      "lang": "vi",
+      "content_html": "<p>Anh trai trả tiền thuế lúa</p>",
+      "content_text": "Anh trai trả tiền thuế lúa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155765",
+      "lang": "vi",
+      "content_html": "<p>anh trai đóng thuế bằng lúa</p>",
+      "content_text": "anh trai đóng thuế bằng lúa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

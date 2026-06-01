@@ -1,0 +1,91 @@
+{
+  "kanji": "都",
+  "meta": {
+    "weight": 2708,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ト",
+      "ツ"
+    ],
+    "kun": [
+      "みやこ"
+    ],
+    "am_han": "ĐÔ"
+  },
+  "meaning": {
+    "vi": "đô thị, thủ đô",
+    "en": "metropolis, capital, all, everything"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/都.svg"
+  },
+  "frequency": 123,
+  "examples": [
+    "都市",
+    "京都",
+    "都",
+    "都合",
+    "首都"
+  ],
+  "explanation": {
+    "id": "20295",
+    "text": "都 (đọc là \"to\" hoặc \"kō\") có nghĩa là \"thành phố\", \"thủ đô\", thường dùng để chỉ các khu vực đô thị lớn hoặc thành phố quan trọng trong một quốc gia.\n\nVí dụ:\n- 都市 (toshi): Thành phố, đô thị.\n"
+  },
+  "comments": [
+    {
+      "id": "36968",
+      "lang": "vi",
+      "content_html": "<p>Một người (者) đang đợi xe buýt lên <strong>thủ đô </strong>tại trạm xe buýt.</p>",
+      "content_text": "Một người (者) đang đợi xe buýt lên\nthủ đô\ntại trạm xe buýt.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4b8e35286.jpg",
+      "image_path": "assets/images/都_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157460",
+      "lang": "vi",
+      "content_html": "<p>Kinh ĐÔ là nơi tập chung nhiều HỌC GIẢ</p>",
+      "content_text": "Kinh ĐÔ là nơi tập chung nhiều HỌC GIẢ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191215",
+      "lang": "vi",
+      "content_html": "<p>thủ <strong>đô</strong> - 首都</p>",
+      "content_text": "thủ\nđô\n- 首都",
+      "image_url": "https://jpdictionary.com/upload/images/648adcea4a343.jpg",
+      "image_path": "assets/images/都_3.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

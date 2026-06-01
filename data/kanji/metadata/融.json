@@ -1,0 +1,91 @@
+{
+  "kanji": "融",
+  "meta": {
+    "weight": 2396,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ"
+    ],
+    "kun": [
+      "と.ける",
+      "と.かす"
+    ],
+    "am_han": "DUNG, DONG"
+  },
+  "meaning": {
+    "vi": "hòa tan, tan chảy",
+    "en": "dissolve, melt"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/融.svg"
+  },
+  "frequency": 481,
+  "examples": [
+    "金融",
+    "融資",
+    "融合",
+    "融通",
+    "投融資"
+  ],
+  "explanation": {
+    "id": "7804",
+    "text": "融 (đọc là \"yū\") có nghĩa là \"hòa tan\", \"kết hợp\" để chỉ các hành động liên quan đến việc làm cho một cái gì đó hòa quyện hoặc kết hợp lại với nhau.\n\nVí dụ:\n- 融資 (yūshi): Tài trợ, cấp vốn.\n- "
+  },
+  "comments": [
+    {
+      "id": "156685",
+      "lang": "vi",
+      "content_html": "<p>một cái mồm mà nói tận bốn cái tên, làm cho sâu bọ cũng tan chảy</p>",
+      "content_text": "một cái mồm mà nói tận bốn cái tên, làm cho sâu bọ cũng tan chảy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156686",
+      "lang": "vi",
+      "content_html": "<p>10 năm 4 Tháng Cách Trùng<br>Mà sao chàng vẫn ung Dung chẳng màng<br>Dung Tư vay vốn ngân hàng<br>Dung Thông đầu óc mở mang hơn người</p>",
+      "content_text": "10 năm 4 Tháng Cách Trùng\nMà sao chàng vẫn ung Dung chẳng màng\nDung Tư vay vốn ngân hàng\nDung Thông đầu óc mở mang hơn người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156687",
+      "lang": "vi",
+      "content_html": "<p>cách(鬲) để côn trùng(虫) không vào nhà là dùng DUNG dịch phụ nữ dạ hương</p>",
+      "content_text": "cách(鬲) để côn trùng(虫) không vào nhà là dùng DUNG dịch phụ nữ dạ hương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

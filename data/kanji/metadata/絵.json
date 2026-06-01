@@ -1,0 +1,106 @@
+{
+  "kanji": "絵",
+  "meta": {
+    "weight": 2079,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ",
+      "エ"
+    ],
+    "kun": [],
+    "am_han": "HỘI"
+  },
+  "meaning": {
+    "vi": "bức tranh, hội họa",
+    "en": "picture, drawing, painting, sketch"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/絵.svg"
+  },
+  "frequency": 895,
+  "examples": [
+    "絵",
+    "絵本",
+    "絵画",
+    "似顔絵",
+    "絵柄"
+  ],
+  "explanation": {
+    "id": "804",
+    "text": "絵 (đọc là \"e\") có nghĩa là \"tranh vẽ\" hoặc \"hình ảnh\". \n\nVí dụ:\n- 絵画 (kaiga): Hội họa, tranh vẽ.\n- 絵本 (ehon): Sách tranh, sách hình.\n- 絵師 (eshi): Họa sĩ, người vẽ tranh."
+  },
+  "comments": [
+    {
+      "id": "37366",
+      "lang": "vi",
+      "content_html": "<p>Họ gặp nhau (会) và thêu nên <strong>bức tranh </strong>này.</p>",
+      "content_text": "Họ gặp nhau (会) và thêu nên\nbức tranh\nnày.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfeb555388b.jpg",
+      "image_path": "assets/images/絵_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156056",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa tranh thêu từ sợi tơ =&#62; sợi tơ tụ hội tạo thành tranh</p>",
+      "content_text": "Ngày xưa tranh thêu từ sợi tơ => sợi tơ tụ hội tạo thành tranh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156057",
+      "lang": "vi",
+      "content_html": "<p>Kết TƠ duyên GẶP nhau từ HỘI hoạ</p>",
+      "content_text": "Kết TƠ duyên GẶP nhau từ HỘI hoạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156058",
+      "lang": "vi",
+      "content_html": "<p>Sợi Tơ tụ Hội thành Tranh</p>",
+      "content_text": "Sợi Tơ tụ Hội thành Tranh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

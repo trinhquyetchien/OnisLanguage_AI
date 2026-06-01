@@ -1,0 +1,92 @@
+{
+  "kanji": "妖",
+  "meta": {
+    "weight": 650,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "あや.しい",
+      "なま.めく",
+      "わざわ.い"
+    ],
+    "am_han": "YÊU"
+  },
+  "meaning": {
+    "vi": "hấp dẫn, mê hoặc, tai họa",
+    "en": "attractive, bewitching, calamity"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/妖.svg"
+  },
+  "frequency": 1964,
+  "examples": [
+    "妖精",
+    "妖怪",
+    "妖魔",
+    "妖艶",
+    "妖しい"
+  ],
+  "explanation": {
+    "id": "7845",
+    "text": "妖 (đọc là \"yō\") có nghĩa là \"ma quái\", \"yêu quái\", chỉ các sinh vật huyền bí hoặc kỳ dị thường xuất hiện trong truyền thuyết.  \nVí dụ:  \n- 妖怪 (yōkai): Quái vật, ma quái trong văn hóa Nhật Bả"
+  },
+  "comments": [
+    {
+      "id": "152797",
+      "lang": "vi",
+      "content_html": "<p>NỮ 女 giới mà YỂU 夭 điệu con trai mới YÊU 妖...</p>",
+      "content_text": "NỮ 女 giới mà YỂU 夭 điệu con trai mới YÊU 妖...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152799",
+      "lang": "vi",
+      "content_html": "<p>Người phụ nữ 女　chặt đầu ông chồng 夫 chính là YÊU quái 妖</p>",
+      "content_text": "Người phụ nữ 女　chặt đầu ông chồng 夫 chính là YÊU quái 妖",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152798",
+      "lang": "vi",
+      "content_html": "<p>Cô Gái Yểu điệu như YÊU quái</p>",
+      "content_text": "Cô Gái Yểu điệu như YÊU quái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

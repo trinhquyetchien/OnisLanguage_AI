@@ -1,0 +1,90 @@
+{
+  "kanji": "遮",
+  "meta": {
+    "weight": 2687,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "さえぎ.る"
+    ],
+    "am_han": "GIÀ"
+  },
+  "meaning": {
+    "vi": "đánh chặn, làm gián đoạn, cản trở",
+    "en": "intercept, interrupt, obstruct"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/遮.svg"
+  },
+  "frequency": 1865,
+  "examples": [
+    "遮断",
+    "遮蔽",
+    "遮音",
+    "遮る",
+    "遮光"
+  ],
+  "explanation": {
+    "id": "3357",
+    "text": "遮 (đọc là \"sha\") có nghĩa là \"che chắn\", \"cản trở\" để chỉ các hành động liên quan đến việc ngăn chặn hoặc che khuất ánh sáng, âm thanh, hoặc cái gì đó khác.\n\nVí dụ:\n- 遮光 (shakou): Che sáng, "
+  },
+  "comments": [
+    {
+      "id": "157402",
+      "lang": "vi",
+      "content_html": "<p>Người gia đốt đèn có chắn gió để đi đường</p>",
+      "content_text": "Người gia đốt đèn có chắn gió để đi đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157403",
+      "lang": "vi",
+      "content_html": "<p>Người GIÀ leo Núi phải cầm theo Đèn pin</p>",
+      "content_text": "Người GIÀ leo Núi phải cầm theo Đèn pin",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157404",
+      "lang": "vi",
+      "content_html": "<p>Ông GIÀ 遮 đi trên đường ( bộ SƯỚC) gặp nhiều THỨ 庶 vật cản chắn ngang.</p>",
+      "content_text": "Ông GIÀ 遮 đi trên đường ( bộ SƯỚC) gặp nhiều THỨ 庶 vật cản chắn ngang.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

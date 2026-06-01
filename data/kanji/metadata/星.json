@@ -1,0 +1,109 @@
+{
+  "kanji": "星",
+  "meta": {
+    "weight": 1225,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "ほし",
+      "-ぼし"
+    ],
+    "am_han": "TINH"
+  },
+  "meaning": {
+    "vi": "sao, hành tinh",
+    "en": "star, spot, dot, mark"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/星.svg"
+  },
+  "frequency": 844,
+  "examples": [
+    "星",
+    "衛星",
+    "惑星",
+    "火星",
+    "星座"
+  ],
+  "explanation": {
+    "id": "4310",
+    "text": "星 (đọc là \"sei\" hoặc \"hoshi\") có nghĩa là \"ngôi sao\", dùng để chỉ các thiên thể sáng trên bầu trời hoặc biểu tượng cho điều tốt đẹp, ước mơ.\n\nVí dụ:\n- 星座 (seiza): Chòm sao.\n- 星屑 (hoshikuzu):"
+  },
+  "comments": [
+    {
+      "id": "37338",
+      "lang": "vi",
+      "content_html": "<p>Bạn có nghĩ rằng <strong>ngôi sao</strong> được sinh<strong> </strong>(生) ra từ mặt trời (日) không?</p>",
+      "content_text": "Bạn có nghĩ rằng\nngôi sao\nđược sinh\n(生) ra từ mặt trời (日) không?",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe7b54a160.jpg",
+      "image_path": "assets/images/星_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154216",
+      "lang": "vi",
+      "content_html": "<p>Các ngôi sao được sinh ra từ mặt trời</p>",
+      "content_text": "Các ngôi sao được sinh ra từ mặt trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154217",
+      "lang": "vi",
+      "content_html": "<p>Nhật sinh Tinh( ngôi sao)</p>",
+      "content_text": "Nhật sinh Tinh( ngôi sao)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154218",
+      "lang": "vi",
+      "content_html": "<p>Mặt trời 日 Sinh ra 生 Ngôi sao</p>",
+      "content_text": "Mặt trời 日 Sinh ra 生 Ngôi sao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

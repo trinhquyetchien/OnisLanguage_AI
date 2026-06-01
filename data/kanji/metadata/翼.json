@@ -1,0 +1,90 @@
+{
+  "kanji": "翼",
+  "meta": {
+    "weight": 2145,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨク"
+    ],
+    "kun": [
+      "つばさ"
+    ],
+    "am_han": "DỰC"
+  },
+  "meaning": {
+    "vi": "cánh, máy bay, sườn",
+    "en": "wing, plane, flank"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/翼.svg"
+  },
+  "frequency": 1201,
+  "examples": [
+    "翼",
+    "左翼",
+    "右翼",
+    "一翼",
+    "翼賛"
+  ],
+  "explanation": {
+    "id": "7933",
+    "text": "翼 (đọc là \"yoku\") có nghĩa là \"cánh\" để chỉ bộ phận giúp cho việc bay, cũng như biểu thị ý tưởng về sự tự do hoặc phát triển.\n\nVí dụ:\n- 翼を広げる (tsubasa o hirogeru): Mở rộng cánh.\n- 翼竜 (yokury"
+  },
+  "comments": [
+    {
+      "id": "156222",
+      "lang": "vi",
+      "content_html": "<p>Sải đôi cánh lớn tung bay ngoài đồng ruộng 2 miếng đất</p>",
+      "content_text": "Sải đôi cánh lớn tung bay ngoài đồng ruộng 2 miếng đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156223",
+      "lang": "vi",
+      "content_html": "<p>lông VŨ DỊ thường DỰC dỡ... (rực rỡ)))</p>",
+      "content_text": "lông VŨ DỊ thường DỰC dỡ... (rực rỡ)))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156224",
+      "lang": "vi",
+      "content_html": "<p>Cánh khác( dị) lông</p>",
+      "content_text": "Cánh khác( dị) lông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

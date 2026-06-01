@@ -1,0 +1,89 @@
+{
+  "kanji": "坊",
+  "meta": {
+    "weight": 550,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ",
+      "ボッ"
+    ],
+    "kun": [],
+    "am_han": "PHƯỜNG"
+  },
+  "meaning": {
+    "vi": "cậu bé",
+    "en": "boy, priest's residence, priest"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/坊.svg"
+  },
+  "frequency": 1832,
+  "examples": [
+    "坊",
+    "赤ん坊",
+    "坊主",
+    "坊さん",
+    "寝坊"
+  ],
+  "explanation": {
+    "id": "7253",
+    "text": "坊 (đọc là \"bō\") có nghĩa là \"tiệm\" hoặc \"nhà\", chỉ những nơi sản xuất hoặc kinh doanh nhỏ, thường liên quan đến nghề thủ công hoặc buôn bán.  \nVí dụ:  \n- 坊主 (bōzu): Thầy tu, người xuất gia. "
+  },
+  "comments": [
+    {
+      "id": "152565",
+      "lang": "vi",
+      "content_html": "<p>Vùng đất địa phương Phương --&#62; Phường</p>",
+      "content_text": "Vùng đất địa phương Phương --> Phường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152566",
+      "lang": "vi",
+      "content_html": "<p>Muốn mua đất địa phương thì phải lên Phường</p>",
+      "content_text": "Muốn mua đất địa phương thì phải lên Phường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152567",
+      "lang": "vi",
+      "content_html": "<p>Nhà sư ngồi dưới đất ở PHƯỜNG vái tứ PHƯƠNG</p>",
+      "content_text": "Nhà sư ngồi dưới đất ở PHƯỜNG vái tứ PHƯƠNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

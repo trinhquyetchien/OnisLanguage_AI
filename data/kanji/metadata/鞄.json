@@ -1,0 +1,86 @@
+{
+  "kanji": "鞄",
+  "meta": {
+    "weight": 2886,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハク",
+      "ホウ",
+      "ビョウ"
+    ],
+    "kun": [
+      "かばん"
+    ],
+    "am_han": "BẠC, BÀO"
+  },
+  "meaning": {
+    "vi": "va li, túi, cặp",
+    "en": "suitcase, bag, briefcase"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/鞄.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1014",
+    "text": "鞄 (đọc là \"kaban\") có nghĩa là \"cái túi\" hoặc \"cái cặp\" để chỉ các vật dụng dùng để đựng đồ.  \nVí dụ:  \n- 鞄屋 (kabannya): Cửa hàng bán túi.  \n- 手提げ鞄 (tehage kaban): Túi xách tay.  \n- リュックサック "
+  },
+  "comments": [
+    {
+      "id": "220982",
+      "lang": "vi",
+      "content_html": "<p>Cách chế BAO thành cái CẶP</p>",
+      "content_text": "Cách chế BAO thành cái CẶP",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220983",
+      "lang": "vi",
+      "content_html": "<p>Cái cặp được làm từ bao (包) da (革)</p>",
+      "content_text": "Cái cặp được làm từ bao (包) da (革)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220984",
+      "lang": "vi",
+      "content_html": "<p>đồ DA được làm thành cái BỌC TỰ KỶ  --  là cái CẶP</p>",
+      "content_text": "đồ DA được làm thành cái BỌC TỰ KỶ  --  là cái CẶP",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

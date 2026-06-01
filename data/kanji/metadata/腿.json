@@ -1,0 +1,67 @@
+{
+  "kanji": "腿",
+  "meta": {
+    "weight": 2210,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ"
+    ],
+    "kun": [
+      "もも"
+    ],
+    "am_han": "THỐI"
+  },
+  "meaning": {
+    "vi": "đùi, xương đùi",
+    "en": "thigh, femur"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/腿.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4968",
+    "text": "腿 (đọc là \"tai\") có nghĩa là \"bắp chân\" hoặc \"chân\" để chỉ phần dưới của chân cơ thể. \nVí dụ:\n- 脚腿 (kyakutai): Chân, bắp chân.\n- 腿部 (taibu): Phần chân, khu vực bắp chân.\n- 腿の筋肉 (tai no kinni"
+  },
+  "comments": [
+    {
+      "id": "220463",
+      "lang": "vi",
+      "content_html": "<p>về già, các mô (もも) thịt (月) ở bắp ĐÙI rất dễ bị THOÁI (退) hoá.</p>",
+      "content_text": "về già, các mô (もも) thịt (月) ở bắp ĐÙI rất dễ bị THOÁI (退) hoá.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220464",
+      "lang": "vi",
+      "content_html": "<p>ai mà nhìn vào đùi là em Nguyệt Rút Lui ngay.</p>",
+      "content_text": "ai mà nhìn vào đùi là em Nguyệt Rút Lui ngay.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

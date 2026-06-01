@@ -1,0 +1,93 @@
+{
+  "kanji": "双",
+  "meta": {
+    "weight": 421,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "ふた",
+      "たぐい",
+      "ならぶ",
+      "ふたつ"
+    ],
+    "am_han": "SONG"
+  },
+  "meaning": {
+    "vi": "cặp, song sinh",
+    "en": "pair, set, comparison, counter for pairs"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/双.svg"
+  },
+  "frequency": 1029,
+  "examples": [
+    "双方",
+    "双子",
+    "双方向",
+    "双",
+    "双眼鏡"
+  ],
+  "explanation": {
+    "id": "4673",
+    "text": "双 (đọc là \"sō\") có nghĩa là \"hai\", thường chỉ sự kết hợp hoặc số lượng hai. \n\nVí dụ:\n- 双子 (futago): Sinh đôi.\n- 双方 (sōhō): Hai bên, đôi bên.\n- 双眼鏡 (sōgankyō): Kính viễn vọng, binocular."
+  },
+  "comments": [
+    {
+      "id": "152244",
+      "lang": "vi",
+      "content_html": "<p>Hai thằng HỰU đứng gần nhau gọi là SONG HỰU</p>",
+      "content_text": "Hai thằng HỰU đứng gần nhau gọi là SONG HỰU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152245",
+      "lang": "vi",
+      "content_html": "<p>Lại giống nhau thì là đôi ( song)</p>",
+      "content_text": "Lại giống nhau thì là đôi ( song)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152246",
+      "lang": "vi",
+      "content_html": "<p>hai người đang bước đi giống nhau</p>",
+      "content_text": "hai người đang bước đi giống nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

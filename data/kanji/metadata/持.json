@@ -1,0 +1,92 @@
+{
+  "kanji": "持",
+  "meta": {
+    "weight": 1087,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "も.つ",
+      "-も.ち",
+      "も.てる"
+    ],
+    "am_han": "TRÌ"
+  },
+  "meaning": {
+    "vi": "cầm, duy trì",
+    "en": "hold, have"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/持.svg"
+  },
+  "frequency": 119,
+  "examples": [
+    "気持ち",
+    "持つ",
+    "持ち",
+    "維持",
+    "支持"
+  ],
+  "explanation": {
+    "id": "3195",
+    "text": "持 (đọc là \"ji\" hoặc \"mochi\") có nghĩa là \"cầm\", \"nắm giữ\" để chỉ hành động nắm giữ hoặc duy trì một vật gì đó.  \nVí dụ:  \n- 持参 (jisan): Mang theo, đem theo.  \n- 持続 (jizoku): Duy trì, kéo dài"
+  },
+  "comments": [
+    {
+      "id": "668",
+      "lang": "vi",
+      "content_html": "<p><strong>Cầm </strong>tràng hạt đi đến chùa (寺).</p>",
+      "content_text": "Cầm\ntràng hạt đi đến chùa (寺).",
+      "image_url": "https://jpdictionary.com/upload/images/629830054d864.jpg",
+      "image_path": "assets/images/持_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153898",
+      "lang": "vi",
+      "content_html": "<p>1 tay trụ trì cầm cả ngôi chùa</p>",
+      "content_text": "1 tay trụ trì cầm cả ngôi chùa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158299",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>持つ (もつ): giữ, có, nắm<br>お金持ち (おかねもち): giàu, nhiều tiền<br>気持ち (きもち): cảm giác, cảm xúc</p>",
+      "content_text": "JLPT N4\n持つ (もつ): giữ, có, nắm\nお金持ち (おかねもち): giàu, nhiều tiền\n気持ち (きもち): cảm giác, cảm xúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

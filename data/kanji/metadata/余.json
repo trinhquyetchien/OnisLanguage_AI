@@ -1,0 +1,110 @@
+{
+  "kanji": "余",
+  "meta": {
+    "weight": 176,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨ"
+    ],
+    "kun": [
+      "あま.る",
+      "あま.り",
+      "あま.す",
+      "あんま.り"
+    ],
+    "am_han": "DƯ"
+  },
+  "meaning": {
+    "vi": "thừa, dư dả",
+    "en": "too much, myself, surplus, other, remainder"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/余.svg"
+  },
+  "frequency": 680,
+  "examples": [
+    "余裕",
+    "余り",
+    "余計",
+    "余地",
+    "余"
+  ],
+  "explanation": {
+    "id": "7817",
+    "text": "余 (đọc là \"yo\") có nghĩa là \"dư\", \"thừa\" để chỉ phần còn lại hoặc cái gì đó không cần thiết.  \nVí dụ:  \n- 余裕 (yoyuu): Dư thừa, thoải mái (về thời gian, không gian).  \n- 余計 (yokei): Thừa thãi"
+  },
+  "comments": [
+    {
+      "id": "151634",
+      "lang": "vi",
+      "content_html": "<p>1 cái nón 2 đứa bé đội thì bị dư 1 đứa</p>",
+      "content_text": "1 cái nón 2 đứa bé đội thì bị dư 1 đứa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151635",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI đội nón mà có 3 chân chắc chắn DƯ một chân....giữa</p>",
+      "content_text": "NGƯỜI đội nón mà có 3 chân chắc chắn DƯ một chân....giữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151636",
+      "lang": "vi",
+      "content_html": "<p>2 đứa nhỏ ở trong 1 nhà thì quá dư rộng rồi</p>",
+      "content_text": "2 đứa nhỏ ở trong 1 nhà thì quá dư rộng rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221811",
+      "lang": "vi",
+      "content_html": "<p>Là họ Du/Dư/Yu, tượng hình ở dưới, chưa tìm thấy nguồn gốc chính xác. Văn tự cổ nhìn giống mũi tên đang xé gió bay đi (Vượt lên - ví dụ dư lượng thuốc trừ sâu). Còn có nghĩa là Ta (Tôi), dành cho vua chúa cổ đại xưng hô.&nbsp;</p>",
+      "content_text": "Là họ Du/Dư/Yu, tượng hình ở dưới, chưa tìm thấy nguồn gốc chính xác. Văn tự cổ nhìn giống mũi tên đang xé gió bay đi (Vượt lên - ví dụ dư lượng thuốc trừ sâu). Còn có nghĩa là Ta (Tôi), dành cho vua chúa cổ đại xưng hô.",
+      "image_url": "https://jpdictionary.com/upload/images/676a924786bbe.jpg",
+      "image_path": "assets/images/余_4.html",
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

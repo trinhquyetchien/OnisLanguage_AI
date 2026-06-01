@@ -1,0 +1,107 @@
+{
+  "kanji": "園",
+  "meta": {
+    "weight": 542,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "その"
+    ],
+    "am_han": "VIÊN"
+  },
+  "meaning": {
+    "vi": "công viên",
+    "en": "park, garden, yard, farm"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/園.svg"
+  },
+  "frequency": 628,
+  "examples": [
+    "公園",
+    "園",
+    "幼稚園",
+    "学園",
+    "保育園"
+  ],
+  "explanation": {
+    "id": "438",
+    "text": "園 (đọc là \"en\") có nghĩa là \"khu vườn\" hoặc \"công viên\", chỉ những không gian xanh tươi, nơi cây cối được trồng và chăm sóc.\n\nVí dụ:\n- 公園 (kouen): Công viên.\n- 動物園 (doubutsuen): Sở thú.\n- 庭園"
+  },
+  "comments": [
+    {
+      "id": "37170",
+      "lang": "vi",
+      "content_html": "<p>Thứ bảy (土), tôi đi<strong> công viên</strong> nhảy múa.</p>",
+      "content_text": "Thứ bảy (土), tôi đi\ncông viên\nnhảy múa.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd11ad7a9d.jpg",
+      "image_path": "assets/images/園_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152542",
+      "lang": "vi",
+      "content_html": "<p>công viên là vùng đất mà mọi người mặc áo đẹp nói chuyện với nhau</p>",
+      "content_text": "công viên là vùng đất mà mọi người mặc áo đẹp nói chuyện với nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152543",
+      "lang": "vi",
+      "content_html": "<p>Viên đóng khung là côbg viên</p>",
+      "content_text": "Viên đóng khung là côbg viên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152544",
+      "lang": "vi",
+      "content_html": "<p>Thứ 7 mặc Áo đẹp dạo chơi ở cong Viên</p>",
+      "content_text": "Thứ 7 mặc Áo đẹp dạo chơi ở cong Viên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

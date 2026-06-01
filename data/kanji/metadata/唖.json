@@ -1,0 +1,51 @@
+{
+  "kanji": "唖",
+  "meta": {
+    "weight": 494,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ア",
+      "アク"
+    ],
+    "kun": [
+      "おし"
+    ],
+    "am_han": "Á, Ớ, Ứ"
+  },
+  "meaning": {
+    "vi": "câm",
+    "en": "mute, dumb"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/唖.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4",
+    "text": "唖 (đọc là \"a\") có nghĩa là \"câm\" để chỉ tình trạng không thể nói được, thường dùng để mô tả những người không thể phát âm hoặc nói năng.\n\nVí dụ:\n- 唖然 (azen): Ngạc nhiên, sửng sốt.\n- 唖者 (asha"
+  },
+  "comments": [
+    {
+      "id": "219122",
+      "lang": "vi",
+      "content_html": "<p>Đây là kanji 形声文字 từ âm thanh mô tả ý nghĩa. Cái miệng chỉ có thể phát ra âm á á không thể nói được. Ám chỉ là bị câm nhé.</p>",
+      "content_text": "Đây là kanji 形声文字 từ âm thanh mô tả ý nghĩa. Cái miệng chỉ có thể phát ra âm á á không thể nói được. Ám chỉ là bị câm nhé.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

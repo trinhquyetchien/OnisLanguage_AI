@@ -1,0 +1,92 @@
+{
+  "kanji": "煙",
+  "meta": {
+    "weight": 1663,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "けむ.る",
+      "けむり",
+      "けむ.い"
+    ],
+    "am_han": "YÊN"
+  },
+  "meaning": {
+    "vi": "khói",
+    "en": "smoke"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/煙.svg"
+  },
+  "frequency": 1290,
+  "examples": [
+    "喫煙",
+    "煙",
+    "禁煙",
+    "煙草",
+    "煙突"
+  ],
+  "explanation": {
+    "id": "470",
+    "text": "煙 (đọc là \"en\" hoặc \"kemuri\") có nghĩa là \"khói\", để chỉ các hiện tượng liên quan đến khói hoặc hơi nước.  \nVí dụ:  \n- 煙草 (tabako): Thuốc lá, thuốc lá cuốn.  \n- 煙霧 (enmitsu): Sương mù, khói "
+  },
+  "comments": [
+    {
+      "id": "155183",
+      "lang": "vi",
+      "content_html": "<p>Khói lửa bắt nguồn từ vùng đất phía tây</p>",
+      "content_text": "Khói lửa bắt nguồn từ vùng đất phía tây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155184",
+      "lang": "vi",
+      "content_html": "<p>Khói lửa từ đất làm cay khoé mắt</p>",
+      "content_text": "Khói lửa từ đất làm cay khoé mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155185",
+      "lang": "vi",
+      "content_html": "<p>bếp hoàng cầm( đốt lửa dưới đất ) không có khói nên Yên tâm ko sợ địch phát hiện</p>",
+      "content_text": "bếp hoàng cầm( đốt lửa dưới đất ) không có khói nên Yên tâm ko sợ địch phát hiện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

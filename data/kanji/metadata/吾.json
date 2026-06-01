@@ -1,0 +1,90 @@
+{
+  "kanji": "吾",
+  "meta": {
+    "weight": 466,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴ"
+    ],
+    "kun": [
+      "われ",
+      "わが-",
+      "あ-"
+    ],
+    "am_han": "NGÔ"
+  },
+  "meaning": {
+    "vi": "Tôi, của tôi, của chúng tôi, của riêng ai",
+    "en": "I, my, our, one's own"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/吾.svg"
+  },
+  "frequency": 1828,
+  "examples": [
+    "吾",
+    "吾妻",
+    "吾輩"
+  ],
+  "explanation": {
+    "id": "2326",
+    "text": "吾 (đọc là \"go\") có nghĩa là \"tôi\" hoặc \"mình\", thường được sử dụng trong văn phong cổ hoặc trang trọng để chỉ bản thân.\n\nVí dụ:\n- 吾輩 (wagahai): Tôi, mình (cách nói cũ, thường dùng trong văn "
+  },
+  "comments": [
+    {
+      "id": "152352",
+      "lang": "vi",
+      "content_html": "<p>Tôi có Năm (五)cái miệng (口)</p>",
+      "content_text": "Tôi có Năm (五)cái miệng (口)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152353",
+      "lang": "vi",
+      "content_html": "<p>Ngô rang Tôi có Năm Miệng túi.</p>",
+      "content_text": "Ngô rang Tôi có Năm Miệng túi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152354",
+      "lang": "vi",
+      "content_html": "<p>Tôi có 5 cái miệng nhai NGÔ</p>",
+      "content_text": "Tôi có 5 cái miệng nhai NGÔ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "kanji": "芸",
+  "meta": {
+    "weight": 2258,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲイ",
+      "ウン"
+    ],
+    "kun": [
+      "う.える",
+      "のり",
+      "わざ"
+    ],
+    "am_han": "NGHỆ"
+  },
+  "meaning": {
+    "vi": "nghệ thuật, nghệ nhân",
+    "en": "technique, art, craft, performance, acting, trick, stunt"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/芸.svg"
+  },
+  "frequency": 719,
+  "examples": [
+    "芸術",
+    "芸能",
+    "芸",
+    "芸術家",
+    "芸能人"
+  ],
+  "explanation": {
+    "id": "2039",
+    "text": "芸 (đọc là \"gei\" hoặc \"ugi\") có nghĩa là \"nghệ thuật\", thường chỉ các loại hình nghệ thuật biểu diễn hoặc kỹ năng. \n\nVí dụ:\n- 芸術 (geijutsu): Nghệ thuật.\n- 舞芸 (bugei): Nghệ thuật múa.\n- 演芸 (en"
+  },
+  "comments": [
+    {
+      "id": "156476",
+      "lang": "vi",
+      "content_html": "<p>Thảo vân làm trong ngành nghệ thuật</p>",
+      "content_text": "Thảo vân làm trong ngành nghệ thuật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156477",
+      "lang": "vi",
+      "content_html": "<p>Nghệ  thuật làm cô giáo thảo phê lên tận mây</p>",
+      "content_text": "Nghệ  thuật làm cô giáo thảo phê lên tận mây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156478",
+      "lang": "vi",
+      "content_html": "<p>Geisha (tiếng Nhật) 藝[芸]者 - Nghệ giả trần duy hưng 150k</p>",
+      "content_text": "Geisha (tiếng Nhật) 藝[芸]者 - Nghệ giả trần duy hưng 150k",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

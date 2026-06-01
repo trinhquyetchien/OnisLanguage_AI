@@ -1,0 +1,67 @@
+{
+  "kanji": "筑",
+  "meta": {
+    "weight": 1995,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チク"
+    ],
+    "kun": [],
+    "am_han": "TRÚC"
+  },
+  "meaning": {
+    "vi": "một nhạc cụ cổ",
+    "en": "an ancient musical instrument"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/筑.svg"
+  },
+  "frequency": 1530,
+  "examples": [
+    "筑紫"
+  ],
+  "explanation": {
+    "id": "5244",
+    "text": "筑 (đọc là \"chiku\") có nghĩa là \"xây dựng\", \"kiến thiết\" để chỉ các hành động liên quan đến việc xây dựng hoặc tạo ra công trình, cấu trúc.  \nVí dụ:  \n- 建築 (kenchiku): Kiến trúc, xây dựng.  \n"
+  },
+  "comments": [
+    {
+      "id": "155879",
+      "lang": "vi",
+      "content_html": "<p>Cây trúc có công dụng làm kỉ cho chủ nhân</p>",
+      "content_text": "Cây trúc có công dụng làm kỉ cho chủ nhân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155880",
+      "lang": "vi",
+      "content_html": "<p>Trúc anh đài có Công làm Chủ công cụ Cửu vạn từ Hai loại tre Trúc.</p>",
+      "content_text": "Trúc anh đài có Công làm Chủ công cụ Cửu vạn từ Hai loại tre Trúc.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

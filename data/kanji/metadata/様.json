@@ -1,0 +1,109 @@
+{
+  "kanji": "様",
+  "meta": {
+    "weight": 1411,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ",
+      "ショウ"
+    ],
+    "kun": [
+      "さま",
+      "さん"
+    ],
+    "am_han": "DẠNG"
+  },
+  "meaning": {
+    "vi": "ngài, hình dạng",
+    "en": "Esq., way, manner, situation, polite suffix"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/様.svg"
+  },
+  "frequency": 493,
+  "examples": [
+    "様",
+    "様々",
+    "同様",
+    "様子",
+    "お客様"
+  ],
+  "explanation": {
+    "id": "7869",
+    "text": "様 (đọc là \"yō\", \"sama\") có nghĩa là \"hình thức\", \"cách thức\" hoặc được sử dụng như một cách thể hiện sự tôn trọng, kính trọng. \n\nVí dụ:\n- 様子 (yōsu): Tình trạng, dáng vẻ.\n- お客様 (okyakusama): "
+  },
+  "comments": [
+    {
+      "id": "37318",
+      "lang": "vi",
+      "content_html": "<p>Cái cây (木), con cừu (羊), dòng nước (水) tạo ra<strong> hình dạng </strong>của phong cảnh.</p>",
+      "content_text": "Cái cây (木), con cừu (羊), dòng nước (水) tạo ra\nhình dạng\ncủa phong cảnh.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe54d9c9fd.jpg",
+      "image_path": "assets/images/様_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154596",
+      "lang": "vi",
+      "content_html": "<p>Hình DẠNG 1 con Dê đang uống nước bên gốc cây</p>",
+      "content_text": "Hình DẠNG 1 con Dê đang uống nước bên gốc cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190660",
+      "lang": "vi",
+      "content_html": "<p>chỉ khi con Dê uống nước cạnh gốc Cây mới nhìn rõ đươc hình Dạng</p>",
+      "content_text": "chỉ khi con Dê uống nước cạnh gốc Cây mới nhìn rõ đươc hình Dạng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "154597",
+      "lang": "vi",
+      "content_html": "<p>hình Dạng con Dê đứng đái bên cái Cây</p>",
+      "content_text": "hình Dạng con Dê đứng đái bên cái Cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

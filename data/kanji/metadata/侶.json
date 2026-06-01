@@ -1,0 +1,85 @@
+{
+  "kanji": "侶",
+  "meta": {
+    "weight": 193,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョ",
+      "ロ"
+    ],
+    "kun": [
+      "とも"
+    ],
+    "am_han": "LỮ"
+  },
+  "meaning": {
+    "vi": "đồng hành, người theo dõi",
+    "en": "companion, follower"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/侶.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8077",
+    "text": "侶 (đọc là \"ryo\") có nghĩa là \"bạn bè\", \"người đồng hành\" để chỉ mối quan hệ giữa những người thân thiết hoặc đi cùng nhau.  \nVí dụ:  \n- 伴侶 (hanryo): Bạn đời, bạn đồng hành.  \n- 同侶 (dōryo): B"
+  },
+  "comments": [
+    {
+      "id": "218868",
+      "lang": "vi",
+      "content_html": "<p>Đơn giản có 18 lữ khách . Nhìn giống số 18</p>",
+      "content_text": "Đơn giản có 18 lữ khách . Nhìn giống số 18",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218869",
+      "lang": "vi",
+      "content_html": "<p>100 năm làm Lữ khách vẫn có người bầu bạn</p>",
+      "content_text": "100 năm làm Lữ khách vẫn có người bầu bạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218870",
+      "lang": "vi",
+      "content_html": "<p>Người tăng Lữ đang 8 với Phật tử</p>",
+      "content_text": "Người tăng Lữ đang 8 với Phật tử",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

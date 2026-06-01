@@ -1,0 +1,90 @@
+{
+  "kanji": "倉",
+  "meta": {
+    "weight": 208,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "くら"
+    ],
+    "am_han": "THƯƠNG, THẢNG"
+  },
+  "meaning": {
+    "vi": "Godown, nhà kho, hầm, kho bạc",
+    "en": "godown, warehouse, storehouse, cellar, treasury"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/倉.svg"
+  },
+  "frequency": 1114,
+  "examples": [
+    "倉庫",
+    "鎌倉",
+    "倉",
+    "倉敷",
+    "米倉"
+  ],
+  "explanation": {
+    "id": "4677",
+    "text": "倉 (đọc là \"sō\" hoặc \"kurā\") có nghĩa là \"kho\", chỉ nơi lưu trữ hàng hóa hoặc vật liệu. \n\nVí dụ:\n- 倉庫 (sōko): Kho hàng, nhà kho.\n- 倉入れ (kuraiire): Nhập kho, đưa hàng vào kho.\n- 農倉 (nōsō): Kho"
+  },
+  "comments": [
+    {
+      "id": "151711",
+      "lang": "vi",
+      "content_html": "<p>người人 hay tới lui cửa戸 khẩu口 thường là thương倉 gia</p>",
+      "content_text": "người人 hay tới lui cửa戸 khẩu口 thường là thương倉 gia",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151712",
+      "lang": "vi",
+      "content_html": "<p>Dưới mái nhà kho có một miệng口 cắn đôi cánh cửa 戸</p>",
+      "content_text": "Dưới mái nhà kho có một miệng口 cắn đôi cánh cửa 戸",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151713",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI MỘT mình mang 2 XÁC CHẾT há MỒM vào kho 倉.</p>",
+      "content_text": "NGƯỜI MỘT mình mang 2 XÁC CHẾT há MỒM vào kho 倉.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

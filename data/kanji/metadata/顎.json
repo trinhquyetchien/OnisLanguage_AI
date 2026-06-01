@@ -1,0 +1,85 @@
+{
+  "kanji": "顎",
+  "meta": {
+    "weight": 2916,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガク"
+    ],
+    "kun": [
+      "あご",
+      "あぎと"
+    ],
+    "am_han": "NGẠC"
+  },
+  "meaning": {
+    "vi": "hàm, cằm, mang",
+    "en": "jaw, chin, gill"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/顎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "952",
+    "text": "顎 (đọc là \"ago\") có nghĩa là \"cằm\" để chỉ phần dưới của mặt, nơi liên kết với hàm.  \nVí dụ:  \n- 顎関節 (agokansetsu): Khớp cằm (khớp hàm).  \n- 顎が痛い (ago ga itai): Đau cằm.  \n- 顎を引く (ago o hiku)"
+  },
+  "comments": [
+    {
+      "id": "221015",
+      "lang": "vi",
+      "content_html": "<p>cái đầu có 2 con mắt và 5 cái cằm thì kinh ngạc !</p>",
+      "content_text": "cái đầu có 2 con mắt và 5 cái cằm thì kinh ngạc !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221016",
+      "lang": "vi",
+      "content_html": "<p>Ngạc nhiên chưa? Tôi lấy giấy dán vào cằm đây này.</p>",
+      "content_text": "Ngạc nhiên chưa? Tôi lấy giấy dán vào cằm đây này.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221017",
+      "lang": "vi",
+      "content_html": "<p>HAI KHẨU tranh nhau hô số 1 và 5 để khoe phần trên ĐẦU HIỆT  --  là khoe CẰM</p>",
+      "content_text": "HAI KHẨU tranh nhau hô số 1 và 5 để khoe phần trên ĐẦU HIỆT  --  là khoe CẰM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

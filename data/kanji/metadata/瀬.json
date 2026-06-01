@@ -1,0 +1,90 @@
+{
+  "kanji": "瀬",
+  "meta": {
+    "weight": 1638,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ライ"
+    ],
+    "kun": [
+      "せ"
+    ],
+    "am_han": "LẠI"
+  },
+  "meaning": {
+    "vi": "ghềnh, hiện tại, torrent, cạn, bãi cạn",
+    "en": "rapids, current, torrent, shallows, shoal"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/瀬.svg"
+  },
+  "frequency": 1152,
+  "examples": [
+    "瀬",
+    "瀬戸",
+    "瀬戸内海",
+    "瀬戸際",
+    "高瀬"
+  ],
+  "explanation": {
+    "id": "4281",
+    "text": "瀬 (đọc là \"se\") có nghĩa là \"dòng chảy\", \"thác nước\" để chỉ những nơi có nước chảy mạnh hoặc nông, thường dùng trong ngữ cảnh liên quan đến nước.\n\nVí dụ:\n- 瀬戸 (seto): Eo biển.\n- 瀬音 (seon): Â"
+  },
+  "comments": [
+    {
+      "id": "155126",
+      "lang": "vi",
+      "content_html": "<p>Chỗ mà bó củi trơ cả đầu lên là vùng nước nông</p>",
+      "content_text": "Chỗ mà bó củi trơ cả đầu lên là vùng nước nông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155127",
+      "lang": "vi",
+      "content_html": "<p>Đừng ỷ lại rằng nó là vùng nước nông</p>",
+      "content_text": "Đừng ỷ lại rằng nó là vùng nước nông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155128",
+      "lang": "vi",
+      "content_html": "<p>Nước Lại thúc vào đầu là nước nông</p>",
+      "content_text": "Nước Lại thúc vào đầu là nước nông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "kanji": "復",
+  "meta": {
+    "weight": 931,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フク"
+    ],
+    "kun": [
+      "また"
+    ],
+    "am_han": "PHỤC"
+  },
+  "meaning": {
+    "vi": "khôi phục, hồi phục",
+    "en": "restore, return to, revert, resume"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/復.svg"
+  },
+  "frequency": 438,
+  "examples": [
+    "回復",
+    "復活",
+    "復帰",
+    "復興",
+    "往復"
+  ],
+  "explanation": {
+    "id": "6902",
+    "text": "復 (đọc là \"fuku\") có nghĩa là \"phục hồi\", \"trở lại\" để chỉ các hành động liên quan đến việc khôi phục hoặc trở về trạng thái trước đó.  \nVí dụ:  \n- 復讐 (fukushū): Báo thù.  \n- 復帰 (fukki): Trở"
+  },
+  "comments": [
+    {
+      "id": "153487",
+      "lang": "vi",
+      "content_html": "<p>Con đường này có một người dùng nguyên một ngày để phục hồi lại</p>",
+      "content_text": "Con đường này có một người dùng nguyên một ngày để phục hồi lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190770",
+      "lang": "vi",
+      "content_html": "<p>Xích 1 ngày ko cho theo sau để hồi Phục</p>",
+      "content_text": "Xích 1 ngày ko cho theo sau để hồi Phục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "153488",
+      "lang": "vi",
+      "content_html": "<p>Thêm cái áo (複) vào thì PHỨC tạp quá, bỏ cái áo đi thêm cái XÍCH vào có vẻ hồi PHỤC lại</p>",
+      "content_text": "Thêm cái áo (複) vào thì PHỨC tạp quá, bỏ cái áo đi thêm cái XÍCH vào có vẻ hồi PHỤC lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153489",
+      "lang": "vi",
+      "content_html": "<p>Bước chân trái đi lại nhiều cần nằm một ngày mới lại sức. Phục hồi</p>",
+      "content_text": "Bước chân trái đi lại nhiều cần nằm một ngày mới lại sức. Phục hồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

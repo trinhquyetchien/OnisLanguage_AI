@@ -1,0 +1,91 @@
+{
+  "kanji": "瞬",
+  "meta": {
+    "weight": 1854,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュン"
+    ],
+    "kun": [
+      "またた.く",
+      "まじろ.ぐ"
+    ],
+    "am_han": "THUẤN"
+  },
+  "meaning": {
+    "vi": "nháy mắt, lấp lánh",
+    "en": "wink, blink, twinkle"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/瞬.svg"
+  },
+  "frequency": 1265,
+  "examples": [
+    "瞬間",
+    "一瞬",
+    "瞬時",
+    "瞬く",
+    "瞬き"
+  ],
+  "explanation": {
+    "id": "3626",
+    "text": "瞬 (đọc là \"shun\") có nghĩa là \"nháy mắt\", \"chốc lát\", chỉ thời gian rất ngắn hoặc những khoảnh khắc thoáng qua.  \nVí dụ:  \n- 瞬間 (shunkan): Khoảnh khắc, chốc lát.  \n- 瞬時 (shunji): Trong giây "
+  },
+  "comments": [
+    {
+      "id": "155596",
+      "lang": "vi",
+      "content_html": "<p>thời gian trôi nhanh nháy mắt 3 lần đã đến chiều tối cuối năm</p>",
+      "content_text": "thời gian trôi nhanh nháy mắt 3 lần đã đến chiều tối cuối năm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155597",
+      "lang": "vi",
+      "content_html": "<p>Nháy mắt trao tay cái đến ngay chiều tối cuối năm</p>",
+      "content_text": "Nháy mắt trao tay cái đến ngay chiều tối cuối năm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155598",
+      "lang": "vi",
+      "content_html": "<p>vua THUẤN NHÁY mắt liên tục 3 lần điềm báo xấu vào CHIỀU tối cuối NĂM</p>",
+      "content_text": "vua THUẤN NHÁY mắt liên tục 3 lần điềm báo xấu vào CHIỀU tối cuối NĂM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

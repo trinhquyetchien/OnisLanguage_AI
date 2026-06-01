@@ -1,0 +1,53 @@
+{
+  "kanji": "峯",
+  "meta": {
+    "weight": 799,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "みね",
+      "ね"
+    ],
+    "am_han": "PHONG"
+  },
+  "meaning": {
+    "vi": "đỉnh",
+    "en": "peak, summit"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/峯.svg"
+  },
+  "frequency": 2079,
+  "examples": [
+    "峯"
+  ],
+  "explanation": {
+    "id": "7163",
+    "text": "峯 (đọc là \"mine\") có nghĩa là \"đỉnh\", \"ngọn núi\" để chỉ các điểm cao nhất của một ngọn núi hoặc khu vực địa lý.  \nVí dụ:  \n- 峯 (mine): Ngọn núi, đỉnh núi.  \n- 峰道 (minemichi): Đường mòn trên "
+  },
+  "comments": [
+    {
+      "id": "153160",
+      "lang": "vi",
+      "content_html": "<p>峯➡峰</p>",
+      "content_text": "峯➡峰",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

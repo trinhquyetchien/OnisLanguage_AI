@@ -1,0 +1,52 @@
+{
+  "kanji": "砦",
+  "meta": {
+    "weight": 1869,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "とりで"
+    ],
+    "am_han": "TRẠI"
+  },
+  "meaning": {
+    "vi": "pháo đài, thành trì, cố thủ",
+    "en": "fort, stronghold, entrenchments"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/砦.svg"
+  },
+  "frequency": 2304,
+  "examples": [
+    "砦"
+  ],
+  "explanation": {
+    "id": "2817",
+    "text": "砦 (đọc là \"toride\") có nghĩa là \"căn cứ\", \"pháo đài\" để chỉ các công trình phòng thủ hoặc nơi trú ẩn trong bối cảnh quân sự.  \nVí dụ:  \n- 砦 (toride): Pháo đài, căn cứ.  \n- 砦を築く (toride o kiz"
+  },
+  "comments": [
+    {
+      "id": "155632",
+      "lang": "vi",
+      "content_html": "<p>PHÁO ĐÀI dưới là Đá trên là toà tháp Chỉ về phía Trang TRẠI</p>",
+      "content_text": "PHÁO ĐÀI dưới là Đá trên là toà tháp Chỉ về phía Trang TRẠI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

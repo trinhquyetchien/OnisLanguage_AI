@@ -1,0 +1,88 @@
+{
+  "kanji": "章",
+  "meta": {
+    "weight": 1973,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "CHƯƠNG"
+  },
+  "meaning": {
+    "vi": "văn chương, chương sách",
+    "en": "badge, chapter, composition, poem, design"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/章.svg"
+  },
+  "frequency": 990,
+  "examples": [
+    "章",
+    "文章",
+    "楽章",
+    "勲章",
+    "憲章"
+  ],
+  "explanation": {
+    "id": "3889",
+    "text": "章 (đọc là \"shō\") có nghĩa là \"chương\", \"đoạn\" để chỉ một phần trong văn bản hoặc tài liệu. \n\nVí dụ:\n- 章立て (shōdate): Sắp xếp chương mục.\n- 第一章 (daiichishō): Chương đầu tiên.\n- 章魚 (tako): Bạc"
+  },
+  "comments": [
+    {
+      "id": "155837",
+      "lang": "vi",
+      "content_html": "<p>Sáng Sớm Đứng nhận huân CHƯƠNG</p>",
+      "content_text": "Sáng Sớm Đứng nhận huân CHƯƠNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155838",
+      "lang": "vi",
+      "content_html": "<p>10 Âm là 1 chương</p>",
+      "content_text": "10 Âm là 1 chương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155839",
+      "lang": "vi",
+      "content_html": "<p>văn chương là âm thanh(音）dễ đi  vào lòng người nhanh nhất(早）</p>",
+      "content_text": "văn chương là âm thanh(音）dễ đi  vào lòng người nhanh nhất(早）",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

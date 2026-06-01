@@ -1,0 +1,91 @@
+{
+  "kanji": "互",
+  "meta": {
+    "weight": 115,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴ"
+    ],
+    "kun": [
+      "たが.い",
+      "かたみ.に"
+    ],
+    "am_han": "HỖ"
+  },
+  "meaning": {
+    "vi": "lẫn nhau, tương hỗ",
+    "en": "mutually, reciprocally, together"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/互.svg"
+  },
+  "frequency": 914,
+  "examples": [
+    "相互",
+    "お互い",
+    "互いに",
+    "お互いに",
+    "互換"
+  ],
+  "explanation": {
+    "id": "2318",
+    "text": "互 (đọc là \"go\" hoặc \"tagai\") có nghĩa là \"lẫn nhau\", \"hỗ trợ\" để chỉ các mối quan hệ tương tác giữa hai hay nhiều bên.\nVí dụ:\n- 互い (tagai): Cùng nhau, lẫn nhau.\n- 互助 (gojo): Hỗ trợ lẫn nhau,"
+  },
+  "comments": [
+    {
+      "id": "151487",
+      "lang": "vi",
+      "content_html": "<p>LÀM KIỂU 69 LÀ HỖ TRỢ NHAU SUNG SƯỚNG</p>",
+      "content_text": "LÀM KIỂU 69 LÀ HỖ TRỢ NHAU SUNG SƯỚNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151488",
+      "lang": "vi",
+      "content_html": "<p>Giống số 69</p>",
+      "content_text": "Giống số 69",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151489",
+      "lang": "vi",
+      "content_html": "<p>2 chữ ユ hỗ trợ trên dưới</p>",
+      "content_text": "2 chữ ユ hỗ trợ trên dưới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

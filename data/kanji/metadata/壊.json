@@ -1,0 +1,93 @@
+{
+  "kanji": "壊",
+  "meta": {
+    "weight": 605,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ",
+      "エ"
+    ],
+    "kun": [
+      "こわ.す",
+      "こわ.れる",
+      "やぶ.る"
+    ],
+    "am_han": "HOẠI"
+  },
+  "meaning": {
+    "vi": "phá hủy, phá vỡ",
+    "en": "demolition, break, destroy"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/壊.svg"
+  },
+  "frequency": 727,
+  "examples": [
+    "破壊",
+    "崩壊",
+    "壊す",
+    "壊滅",
+    "壊れる"
+  ],
+  "explanation": {
+    "id": "757",
+    "text": "壊 (đọc là \"kai\" hoặc \"kowasu\") có nghĩa là \"phá hỏng\", \"hủy hoại\" để chỉ các hành động liên quan đến việc làm hư hại, phá vỡ hoặc tiêu hủy một vật gì đó.\n\nVí dụ:\n- 壊れる (kowareru): Bị hỏng, b"
+  },
+  "comments": [
+    {
+      "id": "152684",
+      "lang": "vi",
+      "content_html": "<p>10 con mắt  dõi theo sự phá hoại y phục vứt xuống đất</p>",
+      "content_text": "10 con mắt  dõi theo sự phá hoại y phục vứt xuống đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152685",
+      "lang": "vi",
+      "content_html": "<p>PHÁ HOẠI 10 cái VÕNG chỉ để may một bộ Y PHỤC đúng là đầu ĐẤT</p>",
+      "content_text": "PHÁ HOẠI 10 cái VÕNG chỉ để may một bộ Y PHỤC đúng là đầu ĐẤT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152686",
+      "lang": "vi",
+      "content_html": "<p>phá 10 cái võng để may 1 cái áo</p>",
+      "content_text": "phá 10 cái võng để may 1 cái áo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

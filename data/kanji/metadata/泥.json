@@ -1,0 +1,111 @@
+{
+  "kanji": "泥",
+  "meta": {
+    "weight": 1521,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "デイ",
+      "ナイ",
+      "デ",
+      "ニ"
+    ],
+    "kun": [
+      "どろ",
+      "なず.む"
+    ],
+    "am_han": "NÊ"
+  },
+  "meaning": {
+    "vi": "bùn",
+    "en": "mud, mire, adhere to, be attached to"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/泥.svg"
+  },
+  "frequency": 1589,
+  "examples": [
+    "泥棒",
+    "泥",
+    "泥沼",
+    "泥酔",
+    "雲泥の差"
+  ],
+  "explanation": {
+    "id": "5612",
+    "text": "泥 (đọc là \"de\") có nghĩa là \"bùn\" hoặc \"bùn đất\", chỉ các chất lỏng hoặc mềm do sự kết hợp của đất và nước.  \nVí dụ:  \n- 泥棒 (dorobō): Kẻ trộm.  \n- 泥水 (dimizu): Nước bùn.  \n- 泥だんご (nidan go):"
+  },
+  "comments": [
+    {
+      "id": "154847",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: Lấy Thìa Nước (匕氵) hất vào con Cương thi. (đúng ra là nước tiểu đồng tử)<br>==&#62; nó sẽ hóa thành vũng Bùn (泥 Nê)<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Góc Nhìn: Lấy Thìa Nước (匕氵) hất vào con Cương thi. (đúng ra là nước tiểu đồng tử)\n==> nó sẽ hóa thành vũng Bùn (泥 Nê)\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190761",
+      "lang": "vi",
+      "content_html": "<p>nước thi 7 lần mới thành bùn</p>",
+      "content_text": "nước thi 7 lần mới thành bùn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "154848",
+      "lang": "vi",
+      "content_html": "<p>Nước làm ni cô bị ngã vào vũng bùn</p>",
+      "content_text": "Nước làm ni cô bị ngã vào vũng bùn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154849",
+      "lang": "vi",
+      "content_html": "<p>Xác chết lấy thìa uống nước no nê</p>",
+      "content_text": "Xác chết lấy thìa uống nước no nê",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

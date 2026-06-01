@@ -1,0 +1,88 @@
+{
+  "kanji": "嘱",
+  "meta": {
+    "weight": 520,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショク"
+    ],
+    "kun": [
+      "しょく.する",
+      "たの.む"
+    ],
+    "am_han": "CHÚC"
+  },
+  "meaning": {
+    "vi": "ủy thác, yêu cầu, gửi tin nhắn",
+    "en": "entrust, request, send a message"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/嘱.svg"
+  },
+  "frequency": 1903,
+  "examples": [
+    "委嘱",
+    "嘱託"
+  ],
+  "explanation": {
+    "id": "4003",
+    "text": "嘱 (đọc là \"shoku\") có nghĩa là \"giao phó\", \"ủy thác\" để chỉ việc giao cho ai đó thực hiện một nhiệm vụ hoặc trách nhiệm nào đó.\n\nVí dụ:\n- 嘱託 (shokutaku): Sự ủy thác, hợp đồng làm việc tạm th"
+  },
+  "comments": [
+    {
+      "id": "152491",
+      "lang": "vi",
+      "content_html": "<p>Côn Trùng chết đi để lại di CHÚC bằng mồm</p>",
+      "content_text": "Côn Trùng chết đi để lại di CHÚC bằng mồm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152492",
+      "lang": "vi",
+      "content_html": "<p>Giao Phó cho cái Mồm phải Thuộc lời CHÚC tết.</p>",
+      "content_text": "Giao Phó cho cái Mồm phải Thuộc lời CHÚC tết.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152493",
+      "lang": "vi",
+      "content_html": "<p>Chúc nhau bằng Mồm thì Chúc cho có Giao phó.</p>",
+      "content_text": "Chúc nhau bằng Mồm thì Chúc cho có Giao phó.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

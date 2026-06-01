@@ -1,0 +1,86 @@
+{
+  "kanji": "殉",
+  "meta": {
+    "weight": 1461,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュン"
+    ],
+    "kun": [],
+    "am_han": "TUẪN"
+  },
+  "meaning": {
+    "vi": "tử đạo, theo sau bằng cách từ chức",
+    "en": "martyrdom, follow by resigning"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/殉.svg"
+  },
+  "frequency": 2080,
+  "examples": [
+    "殉教",
+    "殉教者",
+    "殉職"
+  ],
+  "explanation": {
+    "id": "3648",
+    "text": "殉 (đọc là \"jun\") có nghĩa là \"hy sinh\" hoặc \"theo sát\" để chỉ hành động hy sinh vì một lý tưởng hoặc người nào đó. \nVí dụ:\n- 殉職 (junshoku): Hy sinh trong công việc, thường liên quan đến nghề"
+  },
+  "comments": [
+    {
+      "id": "154699",
+      "lang": "vi",
+      "content_html": "<p>Một ー đêm タ đi tuần 旬 bần thần tuẫn tiết</p>",
+      "content_text": "Một ー đêm タ đi tuần 旬 bần thần tuẫn tiết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154700",
+      "lang": "vi",
+      "content_html": "<p>Ngột ngạt cả tuần nên đã TUẪN tiết hi sinh</p>",
+      "content_text": "Ngột ngạt cả tuần nên đã TUẪN tiết hi sinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154701",
+      "lang": "vi",
+      "content_html": "<p>Phù thế thao thao tử tuẫn danh</p>",
+      "content_text": "Phù thế thao thao tử tuẫn danh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

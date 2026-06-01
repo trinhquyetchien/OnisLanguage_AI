@@ -1,0 +1,89 @@
+{
+  "kanji": "裾",
+  "meta": {
+    "weight": 2430,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョ",
+      "コ"
+    ],
+    "kun": [
+      "すそ"
+    ],
+    "am_han": "CƯ, CỨ"
+  },
+  "meaning": {
+    "vi": "còng, viền, chân núi",
+    "en": "cuff, hem, foot of mountain"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/裾.svg"
+  },
+  "frequency": 2334,
+  "examples": [
+    "裾",
+    "裾野",
+    "お裾分け"
+  ],
+  "explanation": {
+    "id": "4271",
+    "text": "裾 (đọc là \"suso\") có nghĩa là \"gấu áo\", chỉ phần dưới cùng của trang phục hoặc vật gì đó. \n\nVí dụ:\n- 裾野 (susono): Chân núi, vùng chân đồi.\n- 裾上げ (susoage): Việc điều chỉnh chiều dài gấu áo.\n"
+  },
+  "comments": [
+    {
+      "id": "156763",
+      "lang": "vi",
+      "content_html": "<p>Y+ Cư=&#62; いく いく=&#62; Cứ xé cả vạt áo^o^</p>",
+      "content_text": "Y+ Cư=> いく いく=> Cứ xé cả vạt áo^o^",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156764",
+      "lang": "vi",
+      "content_html": "<p>y phục của tử thi đã cũ nhưng có 1 chứng Cứ là vạt áo bị rách</p>",
+      "content_text": "y phục của tử thi đã cũ nhưng có 1 chứng Cứ là vạt áo bị rách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156765",
+      "lang": "vi",
+      "content_html": "<p>Con ma CƯ trú trên vạt áo</p>",
+      "content_text": "Con ma CƯ trú trên vạt áo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

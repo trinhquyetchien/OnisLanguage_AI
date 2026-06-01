@@ -1,0 +1,50 @@
+{
+  "kanji": "檎",
+  "meta": {
+    "weight": 1433,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キン",
+      "ゴン",
+      "ゴ"
+    ],
+    "kun": [],
+    "am_han": "CẦM"
+  },
+  "meaning": {
+    "vi": "quả táo",
+    "en": "apple"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/檎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2343",
+    "text": "檎 (đọc là \"rin\" trong từ điển, thường không dùng độc lập) có nghĩa là \"táo\" để chỉ loại trái cây. \n\nVí dụ:\n- 林檎 (ringo): Quả táo.\n- 檎の木 (ringo no ki): Cây táo.\n- 檎ジュース (ringu jūsu): Nước ép "
+  },
+  "comments": [
+    {
+      "id": "219862",
+      "lang": "vi",
+      "content_html": "<p>CẦM quả TÁO hái từ trên Cây xuống</p>",
+      "content_text": "CẦM quả TÁO hái từ trên Cây xuống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

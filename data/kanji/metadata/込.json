@@ -1,0 +1,109 @@
+{
+  "kanji": "込",
+  "meta": {
+    "weight": 2633,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "-こ.む",
+      "こ.む",
+      "こ.み",
+      "-こ.み",
+      "こ.める"
+    ],
+    "am_han": "NHẬP, VU"
+  },
+  "meaning": {
+    "vi": "đông đúc",
+    "en": "crowded, mixture, in bulk, included, (kokuji)"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/込.svg"
+  },
+  "frequency": 675,
+  "examples": [
+    "書き込み",
+    "税込",
+    "申し込み",
+    "申込",
+    "見込み"
+  ],
+  "explanation": {
+    "id": "2670",
+    "text": "込 (đọc là \"komu\") có nghĩa là \"bao gồm\", \"thâm nhập\" để chỉ việc đưa một cái gì đó vào trong hoặc tình trạng bị tràn ngập.\n\nVí dụ:\n- 込む (komu): Đông đúc, chật chội.\n- 申し込む (moushikomu): Đăng"
+  },
+  "comments": [
+    {
+      "id": "37172",
+      "lang": "vi",
+      "content_html": "<p>Nhiều người đang đi vào (入).</p><p>Chắc bên trong <strong>đông đúc </strong>lắm.</p>",
+      "content_text": "Nhiều người đang đi vào (入).\nChắc bên trong\nđông đúc\nlắm.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd14910f7b.jpg",
+      "image_path": "assets/images/込_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157272",
+      "lang": "vi",
+      "content_html": "<p>Nhập 入 vào đường đông</p>",
+      "content_text": "Nhập 入 vào đường đông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157273",
+      "lang": "vi",
+      "content_html": "<p>đọc là vu vì nó cùng một chữ 迂 mà ra</p>",
+      "content_text": "đọc là vu vì nó cùng một chữ 迂 mà ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157274",
+      "lang": "vi",
+      "content_html": "<p>nhập</p>",
+      "content_text": "nhập",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

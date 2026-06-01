@@ -1,0 +1,126 @@
+{
+  "kanji": "効",
+  "meta": {
+    "weight": 352,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "き.く",
+      "ききめ",
+      "なら.う"
+    ],
+    "am_han": "HIỆU"
+  },
+  "meaning": {
+    "vi": "hiệu quả",
+    "en": "merit, efficacy, efficiency, benefit"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/効.svg"
+  },
+  "frequency": 538,
+  "examples": [
+    "効果",
+    "有効",
+    "効率",
+    "無効",
+    "実効"
+  ],
+  "explanation": {
+    "id": "2389",
+    "text": "効 (đọc là \"kō\") có nghĩa là \"hiệu quả\", \"tác dụng\" để chỉ việc đạt được kết quả hoặc ảnh hưởng tích cực từ một hành động nào đó.\n\nVí dụ:\n- 効能 (kōnō): Tác dụng, hiệu quả (của thuốc).\n- 効率 (kō"
+  },
+  "comments": [
+    {
+      "id": "152085",
+      "lang": "vi",
+      "content_html": "<p>GIAO cấu mà dùng LỰC sẽ có HIỆU QUẢ...</p>",
+      "content_text": "GIAO cấu mà dùng LỰC sẽ có HIỆU QUẢ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152086",
+      "lang": "vi",
+      "content_html": "<p>Thay đổi 交 lực 力 đánh tầm quất cho có hiệu quả 効</p>",
+      "content_text": "Thay đổi 交 lực 力 đánh tầm quất cho có hiệu quả 効",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152087",
+      "lang": "vi",
+      "content_html": "<p>chung Sức xây dựng văn hoá Giao thông HIỆU quả</p>",
+      "content_text": "chung Sức xây dựng văn hoá Giao thông HIỆU quả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222017",
+      "lang": "vi",
+      "content_html": "<p>Chữ <strong>効 </strong>là <strong>chữ dị thể</strong> của chữ <strong>效</strong></p>",
+      "content_text": "Chữ\n効\nlà\nchữ dị thể\ncủa chữ\n效",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    },
+    {
+      "id": "222018",
+      "lang": "vi",
+      "content_html": "<p><strong>交</strong> (giao) → là <strong>phần thanh</strong>.</p><p><strong>力</strong> (lực) → là <strong>phần ý</strong> (liên quan đến sức lực, hành động, hiệu quả...).</p>",
+      "content_text": "交\n(giao) → là\nphần thanh\n.\n力\n(lực) → là\nphần ý\n(liên quan đến sức lực, hành động, hiệu quả...).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

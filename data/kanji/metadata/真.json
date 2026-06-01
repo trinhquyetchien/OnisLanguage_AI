@@ -1,0 +1,92 @@
+{
+  "kanji": "真",
+  "meta": {
+    "weight": 1845,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "ま",
+      "ま-",
+      "まこと"
+    ],
+    "am_han": "CHÂN"
+  },
+  "meaning": {
+    "vi": "sự thật, chân lý",
+    "en": "true, reality, Buddhist sect"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/真.svg"
+  },
+  "frequency": 279,
+  "examples": [
+    "写真",
+    "真",
+    "真実",
+    "真剣",
+    "真面目"
+  ],
+  "explanation": {
+    "id": "4101",
+    "text": "真 (đọc là \"shin\" hoặc \"ma\") có nghĩa là \"chân thật\", \"thật sự\", chỉ những điều xác thực hoặc chân chính.  \nVí dụ:  \n- 真実 (shinjitsu): Sự thật, chân lý.  \n- 真剣 (shinken): Nghiêm túc, quyết tâ"
+  },
+  "comments": [
+    {
+      "id": "914",
+      "lang": "vi",
+      "content_html": "<p>Tivi cho hình ảnh <strong>chân thực</strong>.</p>",
+      "content_text": "Tivi cho hình ảnh\nchân thực\n.",
+      "image_url": "https://jpdictionary.com/upload/images/6298b4188bb61.png",
+      "image_path": "assets/images/真_1.png",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155571",
+      "lang": "vi",
+      "content_html": "<p>Phải dùng đến mười dụng cụ (具) mới có thể thấy được <strong>chân </strong>(真) thực</p>",
+      "content_text": "Phải dùng đến mười dụng cụ (具) mới có thể thấy được\nchân\n(真) thực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158391",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>真す (なおす): sửa</p><p>写真 (しゃしん): bức ảnh<br>真面目 (まじめ): chăm chỉ<br>真ん中 (まんなか): chính giữa</p>",
+      "content_text": "JLPT N4\n真す (なおす): sửa\n写真 (しゃしん): bức ảnh\n真面目 (まじめ): chăm chỉ\n真ん中 (まんなか): chính giữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

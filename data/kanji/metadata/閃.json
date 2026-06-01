@@ -1,0 +1,52 @@
+{
+  "kanji": "閃",
+  "meta": {
+    "weight": 2802,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "ひらめ.く",
+      "ひらめ.き",
+      "うかが.う"
+    ],
+    "am_han": "THIỂM"
+  },
+  "meaning": {
+    "vi": "đèn flash, rượu mạnh",
+    "en": "flash, brandish"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/閃.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4577",
+    "text": "閃 (đọc là \"sen\") có nghĩa là \"lấp lánh\", \"nháy\" để chỉ các hiện tượng ánh sáng chớp tắt hoặc bất ngờ.  \nVí dụ:  \n- 閃光 (senkō): Ánh sáng chớp, tia sáng.  \n- 閃く (hinan): Nháy mắt, lóe lên.  \n-"
+  },
+  "comments": [
+    {
+      "id": "220936",
+      "lang": "vi",
+      "content_html": "<p>Người nhìn Thiển cận chỉ biết đến cánh cửa.</p>",
+      "content_text": "Người nhìn Thiển cận chỉ biết đến cánh cửa.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

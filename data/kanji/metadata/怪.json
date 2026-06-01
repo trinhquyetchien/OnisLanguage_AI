@@ -1,0 +1,92 @@
+{
+  "kanji": "怪",
+  "meta": {
+    "weight": 958,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ",
+      "ケ"
+    ],
+    "kun": [
+      "あや.しい",
+      "あや.しむ"
+    ],
+    "am_han": "QUÁI"
+  },
+  "meaning": {
+    "vi": "đáng ngờ, bí ẩn, hiện ra",
+    "en": "suspicious, mystery, apparition"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/怪.svg"
+  },
+  "frequency": 1634,
+  "examples": [
+    "怪我",
+    "怪しい",
+    "怪獣",
+    "妖怪",
+    "怪物"
+  ],
+  "explanation": {
+    "id": "763",
+    "text": "怪 (đọc là \"kai\" hoặc \"ke\") có nghĩa là \"quái dị\", \"lạ lùng\" để chỉ những điều kỳ quặc hoặc đáng ngờ.  \nVí dụ:  \n- 怪物 (kaibutsu): Quái vật.  \n- 怪しい (ayashii): Đáng nghi, lạ lùng.  \n- 怪談 (kaid"
+  },
+  "comments": [
+    {
+      "id": "153560",
+      "lang": "vi",
+      "content_html": "<p>Thấy ngườ kì quái đi chân đất con tim dựng lên vì run sợ</p>",
+      "content_text": "Thấy ngườ kì quái đi chân đất con tim dựng lên vì run sợ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153561",
+      "lang": "vi",
+      "content_html": "<p>Yêu Quái mà có TÂN như THÁNH thì thật QUÁI lạ!</p>",
+      "content_text": "Yêu Quái mà có TÂN như THÁNH thì thật QUÁI lạ!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153562",
+      "lang": "vi",
+      "content_html": "<p>chân vắt chéo ngồi trên đất có trái tim đáng ngờ</p>",
+      "content_text": "chân vắt chéo ngồi trên đất có trái tim đáng ngờ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "kanji": "桃",
+  "meta": {
+    "weight": 1349,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "もも"
+    ],
+    "am_han": "ĐÀO"
+  },
+  "meaning": {
+    "vi": "quả đào",
+    "en": "peach"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/桃.svg"
+  },
+  "frequency": 1784,
+  "examples": [
+    "桃",
+    "桃色"
+  ],
+  "explanation": {
+    "id": "5805",
+    "text": "桃 (đọc là \"momo\") có nghĩa là \"quả đào\", biểu trưng cho sự may mắn và trường thọ trong văn hóa Nhật Bản.  \nVí dụ:  \n- 桃の花 (momo no hana): Hoa đào.  \n- 桃色 (momoiro): Màu hồng đào.  \n- 桃源郷 (tō"
+  },
+  "comments": [
+    {
+      "id": "154506",
+      "lang": "vi",
+      "content_html": "<p>1 triệu 1 cây Đào</p>",
+      "content_text": "1 triệu 1 cây Đào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221786",
+      "lang": "vi",
+      "content_html": "<p>Theo tín ngưỡng xưa Quả Đào là vật của tiên, ăn vào sẽ trường thọ (đào tiên trong Dao Trì của Tây Vương Mẫu), hàng nghìn năm nở hoa, hàng nghìn năm kết quả. Vì vậy quả đào chứa chữ Triệu (<strong>兆</strong>) ý chỉ thời gian vô cùng dài.</p><p><br>&nbsp;</p>",
+      "content_text": "Theo tín ngưỡng xưa Quả Đào là vật của tiên, ăn vào sẽ trường thọ (đào tiên trong Dao Trì của Tây Vương Mẫu), hàng nghìn năm nở hoa, hàng nghìn năm kết quả. Vì vậy quả đào chứa chữ Triệu (\n兆\n) ý chỉ thời gian vô cùng dài.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    },
+    {
+      "id": "154507",
+      "lang": "vi",
+      "content_html": "<p>Cây có triệu chứng đặc biệt ở nhật chỉ có đào</p>",
+      "content_text": "Cây có triệu chứng đặc biệt ở nhật chỉ có đào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154508",
+      "lang": "vi",
+      "content_html": "<p>Một CÂY ĐÀO đẹp có cả TRIỆU Người đến xem nhiều khía cạnh (4 hướng)</p>",
+      "content_text": "Một CÂY ĐÀO đẹp có cả TRIỆU Người đến xem nhiều khía cạnh (4 hướng)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

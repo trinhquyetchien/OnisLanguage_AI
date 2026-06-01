@@ -1,0 +1,108 @@
+{
+  "kanji": "情",
+  "meta": {
+    "weight": 984,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ",
+      "セイ"
+    ],
+    "kun": [
+      "なさ.け"
+    ],
+    "am_han": "TÌNH"
+  },
+  "meaning": {
+    "vi": "tình cảm",
+    "en": "feelings, emotion, passion, sympathy, circumstances, facts"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/情.svg"
+  },
+  "frequency": 235,
+  "examples": [
+    "情報",
+    "事情",
+    "感情",
+    "表情",
+    "情勢"
+  ],
+  "explanation": {
+    "id": "3967",
+    "text": "情 (đọc là \"jou\" hoặc \"sei\") có nghĩa là \"tình cảm\", \"cảm xúc\", để chỉ các trạng thái tình cảm, cảm xúc của con người.\n\nVí dụ:\n- 情報 (jouhou): Thông tin.\n- 情熱 (jounetsu): Đam mê, nhiệt huyết.\n"
+  },
+  "comments": [
+    {
+      "id": "37052",
+      "lang": "vi",
+      "content_html": "<p>Tim tôi<strong> cảm thấy</strong> buồn (feel blue)(青).</p>",
+      "content_text": "Tim tôi\ncảm thấy\nbuồn (feel blue)(青).",
+      "image_url": "https://jpdictionary.com/upload/images/62bc53d253dc7.jpg",
+      "image_path": "assets/images/情_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153620",
+      "lang": "vi",
+      "content_html": "<p>Con tim bật đèn xanh là có tình cảm</p>",
+      "content_text": "Con tim bật đèn xanh là có tình cảm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153621",
+      "lang": "vi",
+      "content_html": "<p>Con Tâm có Tình cảm với Thạch \"Xanh\"</p>",
+      "content_text": "Con Tâm có Tình cảm với Thạch \"Xanh\"",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153622",
+      "lang": "vi",
+      "content_html": "<p>Chữ TÌNH: bộ TÂM + bộ THANH<br>--&#62; Tình yêu luôn xuất từ trái tim thanh khiết.</p>",
+      "content_text": "Chữ TÌNH: bộ TÂM + bộ THANH\n--> Tình yêu luôn xuất từ trái tim thanh khiết.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

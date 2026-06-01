@@ -1,0 +1,108 @@
+{
+  "kanji": "絡",
+  "meta": {
+    "weight": 2075,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ラク"
+    ],
+    "kun": [
+      "から.む",
+      "から.まる"
+    ],
+    "am_han": "LẠC"
+  },
+  "meaning": {
+    "vi": "liên lạc",
+    "en": "entwine, coil around, get caught in"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/絡.svg"
+  },
+  "frequency": 806,
+  "examples": [
+    "連絡",
+    "絡み",
+    "絡む",
+    "短絡",
+    "脈絡"
+  ],
+  "explanation": {
+    "id": "7962",
+    "text": "絡 (đọc là \"raku\" hoặc \"kakawaru\") có nghĩa là \"liên kết\", \"trói buộc\" để chỉ các mối quan hệ, sự kết nối hoặc sự dính líu giữa những thứ khác nhau.  \nVí dụ:  \n- 絡繰 (karakuri): Cơ khí, máy mó"
+  },
+  "comments": [
+    {
+      "id": "156044",
+      "lang": "vi",
+      "content_html": "<p>LẠC (絡): Ngày xưa liên LẠC(絡) chỉ qua SỢI CHỈ [いと(糸)] bằng cách cho MIỆNG [くち(口)] vào PHÍA SAU [しゅう(夂)] cái hộp</p>",
+      "content_text": "LẠC (絡): Ngày xưa liên LẠC(絡) chỉ qua SỢI CHỈ [いと(糸)] bằng cách cho MIỆNG [くち(口)] vào PHÍA SAU [しゅう(夂)] cái hộp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190728",
+      "lang": "vi",
+      "content_html": "<p>nắm sợi dây này các bạn có thể liên Lạc</p>",
+      "content_text": "nắm sợi dây này các bạn có thể liên Lạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156045",
+      "lang": "vi",
+      "content_html": "<p>Liên lạc các sợi chỉ</p>",
+      "content_text": "Liên lạc các sợi chỉ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156046",
+      "lang": "vi",
+      "content_html": "<p>CÁC sợi DÂY để liên LẠC</p>",
+      "content_text": "CÁC sợi DÂY để liên LẠC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

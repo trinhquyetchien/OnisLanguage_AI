@@ -1,0 +1,89 @@
+{
+  "kanji": "亀",
+  "meta": {
+    "weight": 108,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ",
+      "キュウ",
+      "キン"
+    ],
+    "kun": [
+      "かめ"
+    ],
+    "am_han": "QUY, QUI"
+  },
+  "meaning": {
+    "vi": "rùa",
+    "en": "tortoise, turtle"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/亀.svg"
+  },
+  "frequency": 1353,
+  "examples": [
+    "亀",
+    "亀裂"
+  ],
+  "explanation": {
+    "id": "1400",
+    "text": "亀 (đọc là \"kame\") có nghĩa là \"rùa\", chỉ loài động vật bò sát sống ở nước và trên cạn, biểu trưng cho sự trường thọ và khôn ngoan trong văn hóa Nhật Bản.  \nVí dụ:  \n- 亀甲 (kikkō): Mẫu hình gi"
+  },
+  "comments": [
+    {
+      "id": "151472",
+      "lang": "vi",
+      "content_html": "<p>Đầu nhọn có đuôi, giáp trên giáp dưới</p>",
+      "content_text": "Đầu nhọn có đuôi, giáp trên giáp dưới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151473",
+      "lang": "vi",
+      "content_html": "<p>Rùa nhật có  bò ngoài 2 cái ruộng</p>",
+      "content_text": "Rùa nhật có  bò ngoài 2 cái ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151474",
+      "lang": "vi",
+      "content_html": "<p>Con rùa đi ngang qua hai thửa ruộng cắn đứt mất sợi dây thừng 縄</p>",
+      "content_text": "Con rùa đi ngang qua hai thửa ruộng cắn đứt mất sợi dây thừng 縄",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

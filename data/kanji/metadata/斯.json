@@ -1,0 +1,37 @@
+{
+  "kanji": "斯",
+  "meta": {
+    "weight": 1199,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "か",
+      "こう",
+      "か.く",
+      "この",
+      "これ",
+      "ここに"
+    ],
+    "am_han": "TƯ"
+  },
+  "meaning": {
+    "vi": "điều này, do đó, chẳng hạn, tạm dừng bằng lời nói",
+    "en": "this, thus, such, verbal pause"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/斯.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3095",
+    "text": "斯 (đọc là \"shi\") có nghĩa là \"này\", \"đây\" để chỉ một đối tượng gần gũi hoặc giới thiệu một điều gì đó. \n\nVí dụ:\n- 斯様 (shiyou): Cách nói trang trọng để chỉ một người nào đó.\n- 斯人 (shijin): Ng"
+  },
+  "comments": []
+}

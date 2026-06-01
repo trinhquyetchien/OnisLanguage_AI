@@ -1,0 +1,107 @@
+{
+  "kanji": "商",
+  "meta": {
+    "weight": 499,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "あきな.う"
+    ],
+    "am_han": "THƯƠNG"
+  },
+  "meaning": {
+    "vi": "thương mại, bán",
+    "en": "make a deal, selling, dealing in, merchant"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/商.svg"
+  },
+  "frequency": 413,
+  "examples": [
+    "商品",
+    "商店",
+    "商売",
+    "商業",
+    "商"
+  ],
+  "explanation": {
+    "id": "3763",
+    "text": "商 (đọc là \"shō\") có nghĩa là \"thương mại\", \"buôn bán\" để chỉ các hoạt động liên quan đến kinh doanh và giao dịch.  \nVí dụ:  \n- 商業 (shōgyō): Thương mại, ngành thương mại.  \n- 商売 (shōbai): Kin"
+  },
+  "comments": [
+    {
+      "id": "190939",
+      "lang": "vi",
+      "content_html": "<p><strong>thương phẩm</strong></p>",
+      "content_text": "thương phẩm",
+      "image_url": "https://jpdictionary.com/upload/images/648a7450058da.jpg",
+      "image_path": "assets/images/商_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "152431",
+      "lang": "vi",
+      "content_html": "<p>THƯƠNG gia là người rất bận rộn vừa phải Đứng, Đi lại Xung Quanh vừa phải Nói.</p>",
+      "content_text": "THƯƠNG gia là người rất bận rộn vừa phải Đứng, Đi lại Xung Quanh vừa phải Nói.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152432",
+      "lang": "vi",
+      "content_html": "<p>Thương gia phải đứng ( bộ lập) và nói bằng 4 cái mồm ( chữ tứ và bộ khẩu)</p>",
+      "content_text": "Thương gia phải đứng ( bộ lập) và nói bằng 4 cái mồm ( chữ tứ và bộ khẩu)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152433",
+      "lang": "vi",
+      "content_html": "<p>Thương lái là người luôn phải đứng và nói nhiều gấp 4 lần người khác</p>",
+      "content_text": "Thương lái là người luôn phải đứng và nói nhiều gấp 4 lần người khác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

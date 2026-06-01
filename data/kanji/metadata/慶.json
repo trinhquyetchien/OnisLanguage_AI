@@ -1,0 +1,90 @@
+{
+  "kanji": "慶",
+  "meta": {
+    "weight": 1013,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "よろこ.び"
+    ],
+    "am_han": "KHÁNH, KHƯƠNG, KHANH"
+  },
+  "meaning": {
+    "vi": "hân hoan, chúc mừng, vui mừng, hạnh phúc",
+    "en": "jubilation, congratulate, rejoice, be happy"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/慶.svg"
+  },
+  "frequency": 1300,
+  "examples": [
+    "慶応",
+    "弁慶",
+    "重慶",
+    "早慶",
+    "慶長"
+  ],
+  "explanation": {
+    "id": "1967",
+    "text": "慶 (đọc là \"kei\" hoặc \"yorokobi\") có nghĩa là \"chúc mừng\", \"hạnh phúc\", diễn tả cảm xúc vui vẻ và sự kiện đáng mừng.  \nVí dụ:  \n- 慶事 (keiji): Sự kiện chúc mừng, lễ kỷ niệm.  \n- 慶福 (keifuku): "
+  },
+  "comments": [
+    {
+      "id": "153703",
+      "lang": "vi",
+      "content_html": "<p>国慶: こっけい quốc khánh</p>",
+      "content_text": "国慶: こっけい quốc khánh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153704",
+      "lang": "vi",
+      "content_html": "<p>Tâm béo Lại KHÁNH thành quán Rượu dưới Sườn Núi [ Hán+ Hựu+ tâm+ tửu ( giống bình rượu) ]</p>",
+      "content_text": "Tâm béo Lại KHÁNH thành quán Rượu dưới Sườn Núi [ Hán+ Hựu+ tâm+ tửu ( giống bình rượu) ]",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153705",
+      "lang": "vi",
+      "content_html": "<p>Bác Tâm Lại KHÁNH thành 4 cái Nhà mới</p>",
+      "content_text": "Bác Tâm Lại KHÁNH thành 4 cái Nhà mới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "kanji": "柴",
+  "meta": {
+    "weight": 1328,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ",
+      "シ"
+    ],
+    "kun": [
+      "しば"
+    ],
+    "am_han": "SÀI, TÍ"
+  },
+  "meaning": {
+    "vi": "bàn chải, củi",
+    "en": "brush, firewood"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/柴.svg"
+  },
+  "frequency": 1638,
+  "examples": [
+    "柴",
+    "柴犬"
+  ],
+  "explanation": {
+    "id": "3306",
+    "text": "柴 (đọc là \"shiba\") có nghĩa là \"cành cây\", \"gỗ nhỏ\" dùng để chỉ các loại gỗ hoặc cành cây thường được sử dụng làm nhiên liệu.  \nVí dụ:  \n- 柴犬 (Shiba Inu): Giống chó Shiba, một giống chó Nhật"
+  },
+  "comments": [
+    {
+      "id": "154467",
+      "lang": "vi",
+      "content_html": "<p>柴色 đọc là ふしいろ</p>",
+      "content_text": "柴色 đọc là ふしいろ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "kanji": "退",
+  "meta": {
+    "weight": 2648,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ"
+    ],
+    "kun": [
+      "しりぞ.く",
+      "しりぞ.ける",
+      "ひ.く",
+      "の.く",
+      "の.ける",
+      "ど.く"
+    ],
+    "am_han": "THOÁI"
+  },
+  "meaning": {
+    "vi": "rút lui, thoái lui",
+    "en": "retreat, withdraw, retire, resign, repel, expel, reject"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/退.svg"
+  },
+  "frequency": 424,
+  "examples": [
+    "退職",
+    "引退",
+    "撤退",
+    "退屈",
+    "後退"
+  ],
+  "explanation": {
+    "id": "4980",
+    "text": "退 (đọc là \"tai\" hoặc \"shuu\") có nghĩa là \"rút lui\", \"quay lại\" để chỉ hành động lùi lại hoặc rời khỏi một vị trí, tình huống nào đó.  \nVí dụ:  \n- 退職 (taishoku): Nghỉ hưu, từ chức.  \n- 退化 (ta"
+  },
+  "comments": [
+    {
+      "id": "157303",
+      "lang": "vi",
+      "content_html": "<p>Con đường này lấn Cấn lên thoái lui</p>",
+      "content_text": "Con đường này lấn Cấn lên thoái lui",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157304",
+      "lang": "vi",
+      "content_html": "<p>THOÁI lui, hay THOÁI chức, đôi khi là một bước đi TỐT</p>",
+      "content_text": "THOÁI lui, hay THOÁI chức, đôi khi là một bước đi TỐT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157305",
+      "lang": "vi",
+      "content_html": "<p>Cướp được lương thảo xong thì dẫn quân thoái lui</p>",
+      "content_text": "Cướp được lương thảo xong thì dẫn quân thoái lui",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

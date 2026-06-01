@@ -1,0 +1,110 @@
+{
+  "kanji": "速",
+  "meta": {
+    "weight": 2660,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソク"
+    ],
+    "kun": [
+      "はや.い",
+      "はや-",
+      "はや.める",
+      "すみ.やか"
+    ],
+    "am_han": "TỐC"
+  },
+  "meaning": {
+    "vi": "nhanh, tốc độ",
+    "en": "quick, fast"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/速.svg"
+  },
+  "frequency": 576,
+  "examples": [
+    "高速",
+    "速度",
+    "早速",
+    "速",
+    "急速"
+  ],
+  "explanation": {
+    "id": "4805",
+    "text": "速 (đọc là \"soku\") có nghĩa là \"nhanh\", \"mau lẹ\" để chỉ tốc độ hoặc sự nhanh chóng trong hành động.  \nVí dụ:  \n- 速度 (sokudo): Tốc độ, vận tốc.  \n- 速い (hayai): Nhanh, mau.  \n- 迅速 (jinsoku): Nh"
+  },
+  "comments": [
+    {
+      "id": "37290",
+      "lang": "vi",
+      "content_html": "<p>Tôi sẽ <strong>tăng tốc </strong>giao bó hoa đến.</p>",
+      "content_text": "Tôi sẽ\ntăng tốc\ngiao bó hoa đến.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdfe4e9e3b.jpg",
+      "image_path": "assets/images/速_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157333",
+      "lang": "vi",
+      "content_html": "<p>Cứ THÚC vào đít là tăng TỐC ngay</p>",
+      "content_text": "Cứ THÚC vào đít là tăng TỐC ngay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157334",
+      "lang": "vi",
+      "content_html": "<p>để sự THÚC 束 đẩy được NHANH CHÓNG 速 thì cần có CON ĐƯỜNG 辶 đúng đắn</p>",
+      "content_text": "để sự THÚC 束 đẩy được NHANH CHÓNG 速 thì cần có CON ĐƯỜNG 辶 đúng đắn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157335",
+      "lang": "vi",
+      "content_html": "<p>bó lại để đi trên đường thì sẽ nhanh hơn</p>",
+      "content_text": "bó lại để đi trên đường thì sẽ nhanh hơn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

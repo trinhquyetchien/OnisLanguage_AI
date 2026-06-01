@@ -1,0 +1,69 @@
+{
+  "kanji": "勾",
+  "meta": {
+    "weight": 368,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ク"
+    ],
+    "kun": [
+      "かぎ",
+      "ま.がる"
+    ],
+    "am_han": "CÂU"
+  },
+  "meaning": {
+    "vi": "được uốn cong, độ dốc, nắm bắt",
+    "en": "be bent, slope, capture"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/勾.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2391",
+    "text": "勾 (đọc là \"kō\") có nghĩa là \"góc\", \"khúc\", thường chỉ các hình dạng cong hoặc lệch. \n\nVí dụ:\n- 勾配 (kōhai): Độ dốc.\n- 勾留 (kōryū): Sự giam giữ, tạm giữ.\n- 勾玉 (magatama): Hình dạng ngọc bích, t"
+  },
+  "comments": [
+    {
+      "id": "219007",
+      "lang": "vi",
+      "content_html": "<p>1 mình cầm cái bao đi câu</p>",
+      "content_text": "1 mình cầm cái bao đi câu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219008",
+      "lang": "vi",
+      "content_html": "<p>móc câu mắc vào mũi.</p>",
+      "content_text": "móc câu mắc vào mũi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

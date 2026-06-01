@@ -1,0 +1,88 @@
+{
+  "kanji": "毒",
+  "meta": {
+    "weight": 1473,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドク"
+    ],
+    "kun": [],
+    "am_han": "ĐỘC"
+  },
+  "meaning": {
+    "vi": "chất độc",
+    "en": "poison, virus, venom, germ, harm, injury, spite"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/毒.svg"
+  },
+  "frequency": 1419,
+  "examples": [
+    "毒",
+    "中毒",
+    "気の毒",
+    "消毒",
+    "毒性"
+  ],
+  "explanation": {
+    "id": "5968",
+    "text": "毒 (đọc là \"doku\") có nghĩa là \"độc\", \"chất độc\" để chỉ các chất gây hại cho cơ thể hoặc tinh thần.  \nVí dụ:  \n- 毒薬 (dokuyaku): Chất độc, thuốc độc.  \n- 毒物 (dokubutsu): Chất độc, đồ vật độc h"
+  },
+  "comments": [
+    {
+      "id": "154734",
+      "lang": "vi",
+      "content_html": "<p>ông Chủ uống thuốc Độc Mỗi ngày</p>",
+      "content_text": "ông Chủ uống thuốc Độc Mỗi ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154735",
+      "lang": "vi",
+      "content_html": "<p>UỐNG THUỐC ĐỘC SẼ BỊ VÔ SINH(SINH THIẾU)</p>",
+      "content_text": "UỐNG THUỐC ĐỘC SẼ BỊ VÔ SINH(SINH THIẾU)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154736",
+      "lang": "vi",
+      "content_html": "<p>Ba bà Tám bày Mưu dụng Đôc</p>",
+      "content_text": "Ba bà Tám bày Mưu dụng Đôc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

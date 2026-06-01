@@ -1,0 +1,102 @@
+{
+  "kanji": "誕",
+  "meta": {
+    "weight": 2490,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [],
+    "am_han": "ĐẢN"
+  },
+  "meaning": {
+    "vi": "giáng sinh, được sinh ra, suy tàn, nói dối, tùy tiện",
+    "en": "nativity, be born, declension, lie, be arbitrary"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/誕.svg"
+  },
+  "frequency": 1024,
+  "examples": [
+    "誕生",
+    "生誕"
+  ],
+  "explanation": {
+    "id": "5160",
+    "text": "誕 (đọc là \"tan\") có nghĩa là \"sinh ra\", \"ra đời\", thường được sử dụng trong các ngữ cảnh liên quan đến ngày sinh hoặc sự ra đời của một cái gì đó mới.\n\nVí dụ:\n- 誕生日 (tanjoubi): Sinh nhật.\n- "
+  },
+  "comments": [
+    {
+      "id": "156922",
+      "lang": "vi",
+      "content_html": "<p>con người sinh ra nói năng được hay không nó còn tùy thuộc vào cái duyên</p>",
+      "content_text": "con người sinh ra nói năng được hay không nó còn tùy thuộc vào cái duyên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156923",
+      "lang": "vi",
+      "content_html": "<p>SINH ra trên đời, được NÓI là một cái DUYÊN lớn rồi. Hãy quý trọng và gìn giữ nhé Minasan.</p>",
+      "content_text": "SINH ra trên đời, được NÓI là một cái DUYÊN lớn rồi. Hãy quý trọng và gìn giữ nhé Minasan.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156924",
+      "lang": "vi",
+      "content_html": "<p>Thằng Đản từ lúc sinh ra nói đã có duyên.</p>",
+      "content_text": "Thằng Đản từ lúc sinh ra nói đã có duyên.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222092",
+      "lang": "vi",
+      "content_html": "<p>私は1986年に誕生しました。</p>",
+      "content_text": "私は1986年に誕生しました。",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5835",
+        "name": "阮泰山",
+        "image_url": "https://jpdictionary.com/upload/images/674f16bcead76.png"
+      }
+    }
+  ]
+}

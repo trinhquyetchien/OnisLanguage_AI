@@ -1,0 +1,86 @@
+{
+  "kanji": "鶴",
+  "meta": {
+    "weight": 3011,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク"
+    ],
+    "kun": [
+      "つる"
+    ],
+    "am_han": "HẠC"
+  },
+  "meaning": {
+    "vi": "cần trục, cò",
+    "en": "crane, stork"
+  },
+  "stroke": {
+    "count": 21,
+    "svg": "assets/svg/鶴.svg"
+  },
+  "frequency": 1369,
+  "examples": [
+    "鶴"
+  ],
+  "explanation": {
+    "id": "5517",
+    "text": "鶴 (đọc là \"tsuru\") có nghĩa là \"con hạc\", biểu tượng của sự trường thọ và may mắn trong văn hóa Nhật Bản. \n\nVí dụ:\n- 鶴亀 (tsurukame): Hạc và rùa, biểu tượng của sự trường thọ.\n- 鶴の恩返し (tsuru "
+  },
+  "comments": [
+    {
+      "id": "158074",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa người ta gọi chim điểu là con hạc</p>",
+      "content_text": "Ngày xưa người ta gọi chim điểu là con hạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158075",
+      "lang": "vi",
+      "content_html": "<p>Chim hợp nhất với điểu thì thành con hạc.(nâng cấp trong pokemon)</p>",
+      "content_text": "Chim hợp nhất với điểu thì thành con hạc.(nâng cấp trong pokemon)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158076",
+      "lang": "vi",
+      "content_html": "<p>Chính Xác (確) - con Chim đó chính là con Hạc</p>",
+      "content_text": "Chính Xác (確) - con Chim đó chính là con Hạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

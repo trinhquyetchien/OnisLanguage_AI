@@ -1,0 +1,90 @@
+{
+  "kanji": "亜",
+  "meta": {
+    "weight": 121,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ア"
+    ],
+    "kun": [
+      "つ.ぐ"
+    ],
+    "am_han": "Á, A"
+  },
+  "meaning": {
+    "vi": "Châu Á, xếp hạng tiếp theo, xếp sau, -ous",
+    "en": "Asia, rank next, come after, -ous"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/亜.svg"
+  },
+  "frequency": 1509,
+  "examples": [
+    "亜",
+    "東亜",
+    "亜鉛",
+    "亜熱帯",
+    "亜細亜"
+  ],
+  "explanation": {
+    "id": "1",
+    "text": "亜 (đọc là \"a\") có nghĩa là \"phụ\", \"thứ hai\", thường chỉ sự tương tự hoặc thứ bậc thấp hơn trong một nhóm. \n\nVí dụ:\n- 亜熱帯 (anettai): Vùng cận nhiệt đới.\n- 亜種 (ashu): Phân loài, giống phụ.\n- 亜"
+  },
+  "comments": [
+    {
+      "id": "151497",
+      "lang": "vi",
+      "content_html": "<p>\u001dHai nước Trung (中) quốc có diện tích bằng cả châu Á</p>",
+      "content_text": "Hai nước Trung (中) quốc có diện tích bằng cả châu Á",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151498",
+      "lang": "vi",
+      "content_html": "<p>Á. SỐ 2 BỊ CƯA ĐÔI</p>",
+      "content_text": "Á. SỐ 2 BỊ CƯA ĐÔI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151499",
+      "lang": "vi",
+      "content_html": "<p>Á...1 cái mồm mà mik nhìn thấy thành II(say rồi ☺️)</p>",
+      "content_text": "Á...1 cái mồm mà mik nhìn thấy thành II(say rồi ☺️)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

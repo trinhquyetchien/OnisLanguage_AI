@@ -1,0 +1,89 @@
+{
+  "kanji": "珠",
+  "meta": {
+    "weight": 1740,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ"
+    ],
+    "kun": [
+      "たま"
+    ],
+    "am_han": "CHÂU"
+  },
+  "meaning": {
+    "vi": "ngọc trai, đá quý, ngọc",
+    "en": "pearl, gem, jewel"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/珠.svg"
+  },
+  "frequency": 1711,
+  "examples": [
+    "真珠",
+    "珠",
+    "珠玉",
+    "数珠"
+  ],
+  "explanation": {
+    "id": "3422",
+    "text": "珠 (đọc là \"shu\") có nghĩa là \"ngọc trai\" hoặc \"hạt\", chỉ các vật thể nhỏ, quý giá thường được dùng trong trang sức.  \nVí dụ:  \n- 珠玉 (shugyoku): Ngọc quý, đá quý.  \n- 珠算 (shuzan): Tính toán b"
+  },
+  "comments": [
+    {
+      "id": "155331",
+      "lang": "vi",
+      "content_html": "<p>Ngọc của vua màu đỏ thẫm</p>",
+      "content_text": "Ngọc của vua màu đỏ thẫm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155332",
+      "lang": "vi",
+      "content_html": "<p>vua có nhiều châu báu đỏ</p>",
+      "content_text": "vua có nhiều châu báu đỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155333",
+      "lang": "vi",
+      "content_html": "<p>Vua xem con Bò mặc váy Đỏ như Châu báu</p>",
+      "content_text": "Vua xem con Bò mặc váy Đỏ như Châu báu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

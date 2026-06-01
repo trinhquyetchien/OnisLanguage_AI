@@ -53,6 +53,21 @@ class OtpVerifyRequest(BaseModel):
     email: str
     otp: str
 
+    @field_validator("email")
+    @classmethod
+    def validate_email(cls, value: str) -> str:
+        if "@" not in value or "." not in value.split("@")[-1]:
+            raise ValueError("Invalid email address")
+        return value.lower().strip()
+
+    @field_validator("otp")
+    @classmethod
+    def validate_otp(cls, value: str) -> str:
+        otp = value.strip()
+        if not (len(otp) == 6 and otp.isdigit()):
+            raise ValueError("OTP must be 6 digits")
+        return otp
+
 
 class OtpResponse(BaseModel):
     message: str
@@ -69,6 +84,21 @@ class EmailChangeVerifyRequest(BaseModel):
     new_email: str
     otp: str
 
+    @field_validator("new_email")
+    @classmethod
+    def validate_new_email(cls, value: str) -> str:
+        if "@" not in value or "." not in value.split("@")[-1]:
+            raise ValueError("Invalid email address")
+        return value.lower().strip()
+
+    @field_validator("otp")
+    @classmethod
+    def validate_email_otp(cls, value: str) -> str:
+        otp = value.strip()
+        if not (len(otp) == 6 and otp.isdigit()):
+            raise ValueError("OTP must be 6 digits")
+        return otp
+
 
 class PasswordChangeRequest(BaseModel):
     current_password: str = Field(min_length=1, max_length=128)
@@ -84,3 +114,11 @@ class PasswordChangeRequest(BaseModel):
 
 class PasswordChangeVerifyRequest(BaseModel):
     otp: str
+
+    @field_validator("otp")
+    @classmethod
+    def validate_password_otp(cls, value: str) -> str:
+        otp = value.strip()
+        if not (len(otp) == 6 and otp.isdigit()):
+            raise ValueError("OTP must be 6 digits")
+        return otp

@@ -1,0 +1,91 @@
+{
+  "kanji": "盗",
+  "meta": {
+    "weight": 1831,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "ぬす.む",
+      "ぬす.み"
+    ],
+    "am_han": "ĐẠO"
+  },
+  "meaning": {
+    "vi": "trộm, đạo chích",
+    "en": "steal, rob, pilfer"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/盗.svg"
+  },
+  "frequency": 1051,
+  "examples": [
+    "強盗",
+    "盗難",
+    "盗聴",
+    "窃盗",
+    "盗作"
+  ],
+  "explanation": {
+    "id": "5814",
+    "text": "盗 (đọc là \"tou\" hoặc \"nusumu\") có nghĩa là \"trộm\", \"cướp\" để chỉ các hành động liên quan đến việc lấy cắp hoặc chiếm đoạt tài sản của người khác.  \nVí dụ:  \n- 盗難 (tounan): Trộm cắp, vụ ăn tr"
+  },
+  "comments": [
+    {
+      "id": "155526",
+      "lang": "vi",
+      "content_html": "<p>Lấy TIẾP một cái ĐĨA để làm đạo tặc</p>",
+      "content_text": "Lấy TIẾP một cái ĐĨA để làm đạo tặc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155527",
+      "lang": "vi",
+      "content_html": "<p>cứ TIẾP (次) tục làm ĐẠO (盗) chích sẽ có ngày lên DĨA (皿) nằm thôi</p>",
+      "content_text": "cứ TIẾP (次) tục làm ĐẠO (盗) chích sẽ có ngày lên DĨA (皿) nằm thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155528",
+      "lang": "vi",
+      "content_html": "<p>cái THỨ (次) mà bị lên DĨA(皿) là phường ĐẠO (盗) tặc</p>",
+      "content_text": "cái THỨ (次) mà bị lên DĨA(皿) là phường ĐẠO (盗) tặc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

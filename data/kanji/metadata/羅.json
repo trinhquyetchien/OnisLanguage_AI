@@ -1,0 +1,90 @@
+{
+  "kanji": "羅",
+  "meta": {
+    "weight": 2131,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ラ"
+    ],
+    "kun": [
+      "うすもの"
+    ],
+    "am_han": "LA"
+  },
+  "meaning": {
+    "vi": "gạc, lụa mỏng, Rô-bin-xơn, sắp xếp, dàn trải",
+    "en": "gauze, thin silk, Rome, arrange, spread out"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/羅.svg"
+  },
+  "frequency": 1831,
+  "examples": [
+    "網羅",
+    "羅",
+    "羅列",
+    "修羅場",
+    "阿修羅"
+  ],
+  "explanation": {
+    "id": "7937",
+    "text": "羅 (đọc là \"ra\") có nghĩa là \"lưới\", \"mạng lưới\" để chỉ các cấu trúc hoặc hình thức liên kết, thường liên quan đến việc bao bọc hoặc chặn lại.\n\nVí dụ:\n- 網羅 (mōra): Bao quát, bao gồm tất cả.\n-"
+  },
+  "comments": [
+    {
+      "id": "156187",
+      "lang": "vi",
+      "content_html": "<p>Nhìn theo Chỉ dẫn của LA Bàn đi bắt Chim</p>",
+      "content_text": "Nhìn theo Chỉ dẫn của LA Bàn đi bắt Chim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156188",
+      "lang": "vi",
+      "content_html": "<p>Buộc ( Duy) lưới thành thiên la địa võng</p>",
+      "content_text": "Buộc ( Duy) lưới thành thiên la địa võng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156189",
+      "lang": "vi",
+      "content_html": "<p>Con Chim (đuôi ngắn) (Chuy) bị mắc vào Võng làm bằng Sợi chỉ rồi La lên</p>",
+      "content_text": "Con Chim (đuôi ngắn) (Chuy) bị mắc vào Võng làm bằng Sợi chỉ rồi La lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

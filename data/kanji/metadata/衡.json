@@ -1,0 +1,88 @@
+{
+  "kanji": "衡",
+  "meta": {
+    "weight": 2407,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [],
+    "am_han": "HÀNH, HOÀNH"
+  },
+  "meaning": {
+    "vi": "cân bằng, que đo, thang đo",
+    "en": "equilibrium, measuring rod, scale"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/衡.svg"
+  },
+  "frequency": 1847,
+  "examples": [
+    "均衡",
+    "平衡",
+    "不均衡",
+    "衡",
+    "度量衡"
+  ],
+  "explanation": {
+    "id": "2553",
+    "text": "衡 (đọc là \"kō\") có nghĩa là \"cân bằng\", \"đo đạc\" để chỉ các hành động liên quan đến việc đo lường hoặc giữ sự cân bằng.  \nVí dụ:  \n- 衡量 (kōryō): Đo lường, đánh giá.  \n- 衡器 (kōki): Cân, thiết"
+  },
+  "comments": [
+    {
+      "id": "156712",
+      "lang": "vi",
+      "content_html": "<p>Đi HÀNH quân bắt đc con CÁ TO về cân xem bao nhiêu lạng</p>",
+      "content_text": "Đi HÀNH quân bắt đc con CÁ TO về cân xem bao nhiêu lạng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156713",
+      "lang": "vi",
+      "content_html": "<p>Con cá to nằm giữa cái cân hai hành</p>",
+      "content_text": "Con cá to nằm giữa cái cân hai hành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156714",
+      "lang": "vi",
+      "content_html": "<p>con cá to nằm giữa chữ Hành行</p>",
+      "content_text": "con cá to nằm giữa chữ Hành行",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

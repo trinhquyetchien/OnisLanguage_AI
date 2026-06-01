@@ -1,0 +1,87 @@
+{
+  "kanji": "梱",
+  "meta": {
+    "weight": 1369,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン"
+    ],
+    "kun": [
+      "こう.る",
+      "こうり",
+      "こり",
+      "しきみ"
+    ],
+    "am_han": "KHỔN, KHỐN, NGÔN"
+  },
+  "meaning": {
+    "vi": "đóng gói, buộc lại, kiện hàng",
+    "en": "pack, tie up, bale"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/梱.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2706",
+    "text": "梱 (đọc là \"kon\") có nghĩa là \"đóng gói\", \"bao bì\" để chỉ các hành động liên quan đến việc đóng gói hoặc bảo quản hàng hóa.\n\nVí dụ:\n- 梱包 (konpou): Đóng gói, bao bì.\n- 梱木 (konboku): Gỗ dùng để"
+  },
+  "comments": [
+    {
+      "id": "219820",
+      "lang": "vi",
+      "content_html": "<p>梱包 こんぽう đóng gói<br>KHỔN: Đóng gói cái cây 木 thật là Khốn 困る nạn</p>",
+      "content_text": "梱包 こんぽう đóng gói\nKHỔN: Đóng gói cái cây 木 thật là Khốn 困る nạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219821",
+      "lang": "vi",
+      "content_html": "<p>KHỐN khổ khi phải vác cả 1 cái CÂY</p>",
+      "content_text": "KHỐN khổ khi phải vác cả 1 cái CÂY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219822",
+      "lang": "vi",
+      "content_html": "<p>KHỐN khổ khi phải vác cả 1 cái CÂY</p>",
+      "content_text": "KHỐN khổ khi phải vác cả 1 cái CÂY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

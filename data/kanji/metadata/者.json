@@ -1,0 +1,90 @@
+{
+  "kanji": "者",
+  "meta": {
+    "weight": 2149,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "もの"
+    ],
+    "am_han": "GIẢ"
+  },
+  "meaning": {
+    "vi": "người, học giả",
+    "en": "someone, person"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/者.svg"
+  },
+  "frequency": 38,
+  "examples": [
+    "者",
+    "記者",
+    "患者",
+    "業者",
+    "読者"
+  ],
+  "explanation": {
+    "id": "3348",
+    "text": "者 (đọc là \"sha\") có nghĩa là \"người\", chỉ người thực hiện hành động hoặc người thuộc về một nhóm nào đó.\n\nVí dụ:\n- 学者 (gakusha): Học giả, nhà nghiên cứu.\n- 参加者 (sankasha): Người tham gia.\n- "
+  },
+  "comments": [
+    {
+      "id": "1031",
+      "lang": "vi",
+      "content_html": "<p><strong>Người </strong>đó đứng trên mặt trời (日).</p>",
+      "content_text": "Người\nđó đứng trên mặt trời (日).",
+      "image_url": "https://jpdictionary.com/upload/images/62a1dfffb9bd8.png",
+      "image_path": "assets/images/者_1.png",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191161",
+      "lang": "vi",
+      "content_html": "<p><strong>người</strong></p>",
+      "content_text": "người",
+      "image_url": "https://jpdictionary.com/upload/images/648ace42efdf9.jpg",
+      "image_path": "assets/images/者_2.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "156233",
+      "lang": "vi",
+      "content_html": "<p>Giữa ĐẤT và TRỜI có người</p>",
+      "content_text": "Giữa ĐẤT và TRỜI có người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "料",
+  "meta": {
+    "weight": 1191,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [],
+    "am_han": "LIỆU"
+  },
+  "meaning": {
+    "vi": "nguyên liệu",
+    "en": "fee, materials"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/料.svg"
+  },
+  "frequency": 295,
+  "examples": [
+    "資料",
+    "料理",
+    "無料",
+    "料",
+    "料金"
+  ],
+  "explanation": {
+    "id": "8108",
+    "text": "料 (đọc là \"ryō\") có nghĩa là \"nguyên liệu\", \"chi phí\" hoặc \"thông tin\". Chữ này thường chỉ các thành phần, vật liệu cần thiết để chế biến hoặc tính toán chi phí.\n\nVí dụ:\n- 材料 (zairyō): Nguyê"
+  },
+  "comments": [
+    {
+      "id": "191036",
+      "lang": "vi",
+      "content_html": "<p><strong>phí </strong>- 料金</p>",
+      "content_text": "phí\n- 料金",
+      "image_url": "https://jpdictionary.com/upload/images/648a90d2f141d.jpg",
+      "image_path": "assets/images/料_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "863",
+      "lang": "vi",
+      "content_html": "<p>Cân gạo (米) và các <strong>nguyên liệu </strong>khác bằng cái cân.</p>",
+      "content_text": "Cân gạo (米) và các\nnguyên liệu\nkhác bằng cái cân.",
+      "image_url": "https://jpdictionary.com/upload/images/629879e6ba46c.jpg",
+      "image_path": "assets/images/料_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158472",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>料理 (りょうり): thức ăn<br>食料品 (しょくりょうひん): thực phẩm<br>材料 (ざいりょう): nguyên liệu</p><p>原料 (げんりょう): nguyên liệu<br>無料 (むりょう): miễn phí<br>有料 (ゆうりょう): tốn phí</p><p>給料 (きゅうりょう): lương</p>",
+      "content_text": "JLPT N4\n料理 (りょうり): thức ăn\n食料品 (しょくりょうひん): thực phẩm\n材料 (ざいりょう): nguyên liệu\n原料 (げんりょう): nguyên liệu\n無料 (むりょう): miễn phí\n有料 (ゆうりょう): tốn phí\n給料 (きゅうりょう): lương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

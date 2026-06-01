@@ -1,0 +1,105 @@
+{
+  "kanji": "域",
+  "meta": {
+    "weight": 563,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イキ"
+    ],
+    "kun": [],
+    "am_han": "VỰC"
+  },
+  "meaning": {
+    "vi": "khu vực, lĩnh vực",
+    "en": "range, region, limits, stage, level"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/域.svg"
+  },
+  "frequency": 396,
+  "examples": [
+    "地域",
+    "領域",
+    "区域",
+    "域",
+    "広域"
+  ],
+  "explanation": {
+    "id": "200",
+    "text": "域 (đọc là \"iki\") có nghĩa là \"khu vực\", \"lãnh thổ\" để chỉ một không gian địa lý hoặc một vùng nhất định.  \nVí dụ:  \n- 領域 (ryōiki): Lãnh vực, lĩnh vực.  \n- 区域 (kuiki): Khu vực, vùng.  \n- 県域 ("
+  },
+  "comments": [
+    {
+      "id": "152591",
+      "lang": "vi",
+      "content_html": "<p>HOẶC là đi qua đất  này,, hoặc là xuống VỰC</p>",
+      "content_text": "HOẶC là đi qua đất  này,, hoặc là xuống VỰC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190696",
+      "lang": "vi",
+      "content_html": "<p>nếu giành mảnh Đất này thì đừng nói Mồm cầm vũ khí lên hoặc chọn lại khu Vực</p>",
+      "content_text": "nếu giành mảnh Đất này thì đừng nói Mồm cầm vũ khí lên hoặc chọn lại khu Vực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "152592",
+      "lang": "vi",
+      "content_html": "<p>đắp 1 cục ĐẤT QUA lỗ MỒM để đánh dấu khu VỰC</p>",
+      "content_text": "đắp 1 cục ĐẤT QUA lỗ MỒM để đánh dấu khu VỰC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152593",
+      "lang": "vi",
+      "content_html": "<p>Đất đai là khu vực xảy ra chiến tranh giữa những cái mồm</p>",
+      "content_text": "Đất đai là khu vực xảy ra chiến tranh giữa những cái mồm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "朽",
+  "meta": {
+    "weight": 1285,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "く.ちる"
+    ],
+    "am_han": "HỦ"
+  },
+  "meaning": {
+    "vi": "thối rữa, sống ẩn dật",
+    "en": "decay, rot, remain in seclusion"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/朽.svg"
+  },
+  "frequency": 1891,
+  "examples": [
+    "老朽",
+    "朽木",
+    "不朽"
+  ],
+  "explanation": {
+    "id": "1527",
+    "text": "朽 (đọc là \"kyū\") có nghĩa là \"thối rữa\", \"hư hỏng\" để chỉ trạng thái của vật chất bị phân hủy hoặc mục nát.\n\nVí dụ:\n- 朽ちる (kichiru): Bị thối rữa, mục nát.\n- 朽木 (kyūboku): Gỗ mục, gỗ đã thối."
+  },
+  "comments": [
+    {
+      "id": "154373",
+      "lang": "vi",
+      "content_html": "<p>cây này đã sống 5 năm rồi nên giờ nó bị mục nát...</p>",
+      "content_text": "cây này đã sống 5 năm rồi nên giờ nó bị mục nát...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154374",
+      "lang": "vi",
+      "content_html": "<p>Cây gỗ 5 năm tưởng bất HỦ vậy mà đã mục nát rồi</p>",
+      "content_text": "Cây gỗ 5 năm tưởng bất HỦ vậy mà đã mục nát rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154375",
+      "lang": "vi",
+      "content_html": "<p>cây bẩn quá nên mục nát</p>",
+      "content_text": "cây bẩn quá nên mục nát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

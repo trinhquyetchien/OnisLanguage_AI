@@ -1,0 +1,88 @@
+{
+  "kanji": "滝",
+  "meta": {
+    "weight": 1601,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロウ",
+      "ソウ"
+    ],
+    "kun": [
+      "たき"
+    ],
+    "am_han": "LANG, LONG, LÙNG, RÔNG, RỒNG, SÔNG, SUÔNG"
+  },
+  "meaning": {
+    "vi": "thác, ghềnh",
+    "en": "waterfall, rapids, cascade"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/滝.svg"
+  },
+  "frequency": 1478,
+  "examples": [
+    "滝",
+    "滝川"
+  ],
+  "explanation": {
+    "id": "5014",
+    "text": "滝 (đọc là \"taki\") có nghĩa là \"thác nước\", chỉ các dòng nước chảy xuống từ độ cao tạo thành thác.  \nVí dụ:  \n- 滝壺 (takitsubo): Hồ dưới thác nước.  \n- 大滝 (ootaki): Thác lớn.  \n- 瀑布 (bakufu): "
+  },
+  "comments": [
+    {
+      "id": "155046",
+      "lang": "vi",
+      "content_html": "<p>Con RỒNG NƯỚC cứ LANG thang bơi trên THÁC NƯỚC</p>",
+      "content_text": "Con RỒNG NƯỚC cứ LANG thang bơi trên THÁC NƯỚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155047",
+      "lang": "vi",
+      "content_html": "<p>Đứng trên cao thấy nước từ thác nước chảy qua ruộng khoai LANG</p>",
+      "content_text": "Đứng trên cao thấy nước từ thác nước chảy qua ruộng khoai LANG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155048",
+      "lang": "vi",
+      "content_html": "<p>con rồng phun nước tưới cây cho vườn khoai lang nhà em</p>",
+      "content_text": "con rồng phun nước tưới cây cho vườn khoai lang nhà em",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

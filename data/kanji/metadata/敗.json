@@ -1,0 +1,107 @@
+{
+  "kanji": "敗",
+  "meta": {
+    "weight": 1174,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハイ"
+    ],
+    "kun": [
+      "やぶ.れる"
+    ],
+    "am_han": "BẠI"
+  },
+  "meaning": {
+    "vi": "thất bại",
+    "en": "failure, defeat, reversal"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/敗.svg"
+  },
+  "frequency": 516,
+  "examples": [
+    "失敗",
+    "敗戦",
+    "敗北",
+    "敗",
+    "敗訴"
+  ],
+  "explanation": {
+    "id": "6266",
+    "text": "敗 (đọc là \"hai\") có nghĩa là \"thua\", \"bại\" để chỉ sự thất bại trong một cuộc thi, trận đấu hoặc tình huống nào đó.\n\nVí dụ:\n- 敗北 (haiboku): Thất bại.\n- 敗れる (yabureru): Bị đánh bại, thua.\n- 敗戦"
+  },
+  "comments": [
+    {
+      "id": "154089",
+      "lang": "vi",
+      "content_html": "<p>BẠI trận mất tiền bị đánh</p>",
+      "content_text": "BẠI trận mất tiền bị đánh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190666",
+      "lang": "vi",
+      "content_html": "<p>đã dùng tới bảo Bối để Truy sát mà không cẩn thận là thất Bại</p>",
+      "content_text": "đã dùng tới bảo Bối để Truy sát mà không cẩn thận là thất Bại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "154090",
+      "lang": "vi",
+      "content_html": "<p>ĐÁNH rơi TIỀN là thất BẠI</p>",
+      "content_text": "ĐÁNH rơi TIỀN là thất BẠI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154091",
+      "lang": "vi",
+      "content_html": "<p>ĐÁNH KHẼ vào con SÒ thần này có thể làm tan gia BẠI sản</p>",
+      "content_text": "ĐÁNH KHẼ vào con SÒ thần này có thể làm tan gia BẠI sản",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

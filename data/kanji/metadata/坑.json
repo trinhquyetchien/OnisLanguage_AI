@@ -1,0 +1,87 @@
+{
+  "kanji": "坑",
+  "meta": {
+    "weight": 552,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [],
+    "am_han": "KHANH, KHÁNG, GANH"
+  },
+  "meaning": {
+    "vi": "Lỗ hố",
+    "en": "pit, hole"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/坑.svg"
+  },
+  "frequency": 2040,
+  "examples": [
+    "炭坑",
+    "坑",
+    "坑内",
+    "坑道"
+  ],
+  "explanation": {
+    "id": "2405",
+    "text": "坑 (đọc là \"kō\") có nghĩa là \"hầm\", \"mương\", chỉ các hình dạng hoặc vị trí địa lý như hố, hầm đào.  \nVí dụ:  \n- 坑道 (kōdō): Đường hầm.  \n- 坑内 (kōnai): Trong hầm, bên trong hố.  \n- 坑夫 (kōfu): N"
+  },
+  "comments": [
+    {
+      "id": "152571",
+      "lang": "vi",
+      "content_html": "<p>Kháng chỉ KHANH bị chôn xuống HỐ đất</p>",
+      "content_text": "Kháng chỉ KHANH bị chôn xuống HỐ đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152572",
+      "lang": "vi",
+      "content_html": "<p>Chân đất, đầu trần ngồi ghế cười KHANH khách</p>",
+      "content_text": "Chân đất, đầu trần ngồi ghế cười KHANH khách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152573",
+      "lang": "vi",
+      "content_html": "<p>ngồi trên ghế đầu đội mũ dính đầy đất vẫn cười khanh khách là thợ mỏ</p>",
+      "content_text": "ngồi trên ghế đầu đội mũ dính đầy đất vẫn cười khanh khách là thợ mỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

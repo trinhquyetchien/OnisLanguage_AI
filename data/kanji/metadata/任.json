@@ -1,0 +1,91 @@
+{
+  "kanji": "任",
+  "meta": {
+    "weight": 150,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ニン"
+    ],
+    "kun": [
+      "まか.せる",
+      "まか.す"
+    ],
+    "am_han": "NHIỆM"
+  },
+  "meaning": {
+    "vi": "trách nhiệm, nhiệm vụ",
+    "en": "responsibility, duty, term, entrust to, appoint"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/任.svg"
+  },
+  "frequency": 217,
+  "examples": [
+    "責任",
+    "任",
+    "就任",
+    "任せ",
+    "任務"
+  ],
+  "explanation": {
+    "id": "6127",
+    "text": "任 (đọc là \"nin\" hoặc \"shin\") có nghĩa là \"giao phó\", \"chịu trách nhiệm\" để chỉ việc đảm nhận một công việc hay trách nhiệm nào đó.\n\nVí dụ:\n- 任務 (ninmu): Nhiệm vụ, công việc được giao.\n- 任せる "
+  },
+  "comments": [
+    {
+      "id": "151568",
+      "lang": "vi",
+      "content_html": "<p>Người làm vua phải có trách nhiệm</p>",
+      "content_text": "Người làm vua phải có trách nhiệm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151569",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI họ NHÂM rất có trách NHIỆM</p>",
+      "content_text": "NGƯỜI họ NHÂM rất có trách NHIỆM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151570",
+      "lang": "vi",
+      "content_html": "<p>người binh sĩ đầu đội mũ lính là người phải có trách nhiệm bảo vệ giang sơn</p>",
+      "content_text": "người binh sĩ đầu đội mũ lính là người phải có trách nhiệm bảo vệ giang sơn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

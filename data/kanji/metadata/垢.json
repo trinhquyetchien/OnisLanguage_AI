@@ -1,0 +1,86 @@
+{
+  "kanji": "垢",
+  "meta": {
+    "weight": 558,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ク"
+    ],
+    "kun": [
+      "あか",
+      "はじ"
+    ],
+    "am_han": "CẤU"
+  },
+  "meaning": {
+    "vi": "bụi bẩn, cáu bẩn, ráy tai",
+    "en": "dirt, grime, earwax"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/垢.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2408",
+    "text": "垢 (đọc là \"aku\") có nghĩa là \"bẩn\", \"vết bẩn\" để chỉ những thứ không sạch sẽ, bụi bẩn hoặc ô uế.\n\nVí dụ:\n- 垢がつく (aku ga tsuku): Bị bám bẩn.\n- 垢抜ける (akunukeru): Trở nên thanh thoát, tinh tế h"
+  },
+  "comments": [
+    {
+      "id": "219204",
+      "lang": "vi",
+      "content_html": "<p>Hoàng hậu ở dơ</p>",
+      "content_text": "Hoàng hậu ở dơ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219205",
+      "lang": "vi",
+      "content_html": "<p>Đất dính lên Hoàng Hậu bị Cáu bẩn</p>",
+      "content_text": "Đất dính lên Hoàng Hậu bị Cáu bẩn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219206",
+      "lang": "vi",
+      "content_html": "<p>Ngay cả nữ hoàng cũng bị bẩn khi đi trên trái đất</p>",
+      "content_text": "Ngay cả nữ hoàng cũng bị bẩn khi đi trên trái đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

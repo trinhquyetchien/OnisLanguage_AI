@@ -1,0 +1,91 @@
+{
+  "kanji": "船",
+  "meta": {
+    "weight": 2242,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "ふね",
+      "ふな-"
+    ],
+    "am_han": "THUYỀN"
+  },
+  "meaning": {
+    "vi": "thuyền",
+    "en": "ship, boat"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/船.svg"
+  },
+  "frequency": 713,
+  "examples": [
+    "船",
+    "船舶",
+    "船長",
+    "宇宙船",
+    "風船"
+  ],
+  "explanation": {
+    "id": "4550",
+    "text": "船 (đọc là \"sen\") có nghĩa là \"thuyền\" hoặc \"tàu\" để chỉ các phương tiện giao thông trên nước.  \nVí dụ:  \n- 船舶 (seihaku): Tàu thuyền, phương tiện thủy.  \n- 乗船 (jōsen): Lên tàu, đi tàu.  \n- 漁船"
+  },
+  "comments": [
+    {
+      "id": "37298",
+      "lang": "vi",
+      "content_html": "<p>Nghe nói con <strong>thuyền </strong>này có thể chở 8 (八) người.</p>",
+      "content_text": "Nghe nói con\nthuyền\nnày có thể chở 8 (八) người.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe1a161014.jpg",
+      "image_path": "assets/images/船_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156439",
+      "lang": "vi",
+      "content_html": "<p>thuyền chu du qua 8 cửa khẩu))</p>",
+      "content_text": "thuyền chu du qua 8 cửa khẩu))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191169",
+      "lang": "vi",
+      "content_html": "<p><strong>thuyền</strong></p>",
+      "content_text": "thuyền",
+      "image_url": "https://jpdictionary.com/upload/images/648acef4b3676.jpg",
+      "image_path": "assets/images/船_3.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

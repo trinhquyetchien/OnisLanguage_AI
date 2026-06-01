@@ -1,0 +1,108 @@
+{
+  "kanji": "戻",
+  "meta": {
+    "weight": 1040,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ"
+    ],
+    "kun": [
+      "もど.す",
+      "もど.る"
+    ],
+    "am_han": "LỆ"
+  },
+  "meaning": {
+    "vi": "quay lại",
+    "en": "re-, return, revert, resume, restore, go backwards"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/戻.svg"
+  },
+  "frequency": 890,
+  "examples": [
+    "戻る",
+    "戻り",
+    "戻し",
+    "戻す",
+    "取り戻す"
+  ],
+  "explanation": {
+    "id": "7644",
+    "text": "戻 (đọc là \"modoru\") có nghĩa là \"quay lại\", \"trở về\" để chỉ hành động trở về vị trí, trạng thái đã có trước đó.\n\nVí dụ:\n- 戻る (modoru): Quay lại, trở về.\n- 戻り道 (modorimichi): Đường trở về.\n- "
+  },
+  "comments": [
+    {
+      "id": "37354",
+      "lang": "vi",
+      "content_html": "<p>Anh ấy lớn (大) lên và <strong>quay lại</strong> trước cửa (戸).</p>",
+      "content_text": "Anh ấy lớn (大) lên và\nquay lại\ntrước cửa (戸).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfea3fb15e9.jpg",
+      "image_path": "assets/images/戻_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153766",
+      "lang": "vi",
+      "content_html": "<p>Việc trọng đại mới quay lại cửa lấy đồ</p>",
+      "content_text": "Việc trọng đại mới quay lại cửa lấy đồ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153767",
+      "lang": "vi",
+      "content_html": "<p>Xin HỘ chiếu ở ĐẠI sứ quán thì theo luật Lệ phải QUAY LẠI Việt Nam xin</p>",
+      "content_text": "Xin HỘ chiếu ở ĐẠI sứ quán thì theo luật Lệ phải QUAY LẠI Việt Nam xin",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153768",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: cánh Cửa Lớn (戸 大) (ở trung tâm thương mại, hay khách sạn)<br>==&#62; sau khi chúng ta đẩy, mở nó ra để đi vào. Nó sẽ tự động Quay Lại (戻) vị trí ban đầu.<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Góc Nhìn: cánh Cửa Lớn (戸 大) (ở trung tâm thương mại, hay khách sạn)\n==> sau khi chúng ta đẩy, mở nó ra để đi vào. Nó sẽ tự động Quay Lại (戻) vị trí ban đầu.\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "kanji": "誓",
+  "meta": {
+    "weight": 2489,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ"
+    ],
+    "kun": [
+      "ちか.う"
+    ],
+    "am_han": "THỆ"
+  },
+  "meaning": {
+    "vi": "thề, cam kết",
+    "en": "vow, swear, pledge"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/誓.svg"
+  },
+  "frequency": 1567,
+  "examples": [
+    "誓い",
+    "誓う",
+    "誓約",
+    "宣誓"
+  ],
+  "explanation": {
+    "id": "4353",
+    "text": "誓 (đọc là \"sei\" hoặc \"chikai\") có nghĩa là \"thề\", \"hứa\" để chỉ hành động cam kết một cách nghiêm túc, thường liên quan đến các lời hứa trọng đại.  \nVí dụ:  \n- 誓い (chikai): Lời thề, lời hứa. "
+  },
+  "comments": [
+    {
+      "id": "156919",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm đao nói lời tuyên THỆ</p>",
+      "content_text": "Tay cầm đao nói lời tuyên THỆ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156920",
+      "lang": "vi",
+      "content_html": "<p>Bẻ gãy 折 Ngôn luận 言 bằng lời tuyên Thệ 誓</p>",
+      "content_text": "Bẻ gãy 折 Ngôn luận 言 bằng lời tuyên Thệ 誓",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156921",
+      "lang": "vi",
+      "content_html": "<p>Phát ngôn tay cầm theo đao là lời thề</p>",
+      "content_text": "Phát ngôn tay cầm theo đao là lời thề",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

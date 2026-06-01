@@ -1,0 +1,52 @@
+{
+  "kanji": "竃",
+  "meta": {
+    "weight": 1970,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "かまど",
+      "かま",
+      "へっつい"
+    ],
+    "am_han": "RĂN"
+  },
+  "meaning": {
+    "vi": "bếp bếp, lò nung, lò nướng, lò sưởi",
+    "en": "kitchen stove, furnace, oven, hearth"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/竃.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1021",
+    "text": "竃 (đọc là \"kamado\") có nghĩa là \"lò nấu\" hoặc \"bếp\", chỉ các thiết bị dùng để nấu ăn, thường là bếp truyền thống.  \nVí dụ:  \n- 竃 (kamado): Lò nấu truyền thống.  \n- 竃料理 (kamado ryouri): Món ă"
+  },
+  "comments": [
+    {
+      "id": "220273",
+      "lang": "vi",
+      "content_html": "<p>đây là chữ Táo trong Táo Quân</p>",
+      "content_text": "đây là chữ Táo trong Táo Quân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

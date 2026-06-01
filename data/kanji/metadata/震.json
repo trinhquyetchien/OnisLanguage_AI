@@ -1,0 +1,110 @@
+{
+  "kanji": "震",
+  "meta": {
+    "weight": 2872,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "ふる.う",
+      "ふる.える",
+      "ふる.わせる",
+      "ふる.わす"
+    ],
+    "am_han": "CHẤN"
+  },
+  "meaning": {
+    "vi": "chấn động, động đất",
+    "en": "quake, shake, tremble, quiver, shiver"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/震.svg"
+  },
+  "frequency": 893,
+  "examples": [
+    "地震",
+    "耐震",
+    "震災",
+    "大震災",
+    "震え"
+  ],
+  "explanation": {
+    "id": "4140",
+    "text": "震 (đọc là \"shin\") có nghĩa là \"chấn động\", \"rung chuyển\" để chỉ các hiện tượng liên quan đến sự rung lắc hoặc ảnh hưởng mạnh mẽ.\n\nVí dụ:\n- 震災 (shinsai): Thiên tai do động đất.\n- 震える (furueru"
+  },
+  "comments": [
+    {
+      "id": "157813",
+      "lang": "vi",
+      "content_html": "<p>Đang nắng mà có mưa (雨) rơi xuống làm thần linh (辰) CHẤN động.</p>",
+      "content_text": "Đang nắng mà có mưa (雨) rơi xuống làm thần linh (辰) CHẤN động.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190737",
+      "lang": "vi",
+      "content_html": "<p>Mưa trên điện thần gây ra địa chấn</p>",
+      "content_text": "Mưa trên điện thần gây ra địa chấn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157814",
+      "lang": "vi",
+      "content_html": "<p>Thần linh hô mưa gọi gió chấn động đất trời</p>",
+      "content_text": "Thần linh hô mưa gọi gió chấn động đất trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157815",
+      "lang": "vi",
+      "content_html": "<p>Thần  (辰) làm mưa  (雨) =&#62; (震) chấn động đất trời</p>",
+      "content_text": "Thần  (辰) làm mưa  (雨) => (震) chấn động đất trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "儀",
+  "meta": {
+    "weight": 248,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギ"
+    ],
+    "kun": [],
+    "am_han": "NGHI"
+  },
+  "meaning": {
+    "vi": "lễ, quy tắc, sự việc, trường hợp, một vấn đề",
+    "en": "ceremony, rule, affair, case, a matter"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/儀.svg"
+  },
+  "frequency": 739,
+  "examples": [
+    "儀式",
+    "葬儀",
+    "礼儀",
+    "余儀なく",
+    "儀礼"
+  ],
+  "explanation": {
+    "id": "1408",
+    "text": "儀 (đọc là \"gi\") có nghĩa là \"nghi thức\", \"hình thức\" để chỉ các hành động liên quan đến lễ nghi, nghi thức và sự trang trọng.  \nVí dụ:  \n- 儀式 (gishiki): Nghi thức, lễ nghi.  \n- 儀礼 (girei): N"
+  },
+  "comments": [
+    {
+      "id": "151810",
+      "lang": "vi",
+      "content_html": "<p>Người nhân nghĩa tuân thủ lễ nghi</p>",
+      "content_text": "Người nhân nghĩa tuân thủ lễ nghi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151812",
+      "lang": "vi",
+      "content_html": "<p>Người 人 nhân nghĩa 義 luôn tuân thủ lễ nghi 礼儀</p>",
+      "content_text": "Người 人 nhân nghĩa 義 luôn tuân thủ lễ nghi 礼儀",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151811",
+      "lang": "vi",
+      "content_html": "<p>Người tay trái(手) cầm mâu(戈) đầu đội lông cừu(羊) rất đáng Nghi</p>",
+      "content_text": "Người tay trái(手) cầm mâu(戈) đầu đội lông cừu(羊) rất đáng Nghi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "廷",
+  "meta": {
+    "weight": 883,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [],
+    "am_han": "ĐÌNH"
+  },
+  "meaning": {
+    "vi": "tòa án, tòa án triều đình, văn phòng chính phủ",
+    "en": "courts, imperial court, government office"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/廷.svg"
+  },
+  "frequency": 1439,
+  "examples": [
+    "法廷",
+    "宮廷",
+    "朝廷",
+    "開廷",
+    "出廷"
+  ],
+  "explanation": {
+    "id": "5558",
+    "text": "廷 (đọc là \"tei\") có nghĩa là \"triều đình\" hoặc \"khung cảnh công cộng,\" thường liên quan đến các hoạt động chính trị hoặc hành chính trong xã hội cổ điển.\n\nVí dụ:\n- 朝廷 (chōtei): Triều đình, c"
+  },
+  "comments": [
+    {
+      "id": "153370",
+      "lang": "vi",
+      "content_html": "<p>DẪN nhau ra ĐÌNH,NHÂM nhi câu chuyện..</p>",
+      "content_text": "DẪN nhau ra ĐÌNH,NHÂM nhi câu chuyện..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153371",
+      "lang": "vi",
+      "content_html": "<p>Triều đình là chỗ vua đi lại</p>",
+      "content_text": "Triều đình là chỗ vua đi lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153372",
+      "lang": "vi",
+      "content_html": "<p>nơi VUA đi những BƯỚC DÀI  --  là TRIỀU ĐÌNH</p>",
+      "content_text": "nơi VUA đi những BƯỚC DÀI  --  là TRIỀU ĐÌNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

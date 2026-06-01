@@ -1,0 +1,97 @@
+{
+  "kanji": "抜",
+  "meta": {
+    "weight": 1062,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バツ",
+      "ハツ",
+      "ハイ"
+    ],
+    "kun": [
+      "ぬ.く",
+      "-ぬ.く",
+      "ぬ.き",
+      "ぬ.ける",
+      "ぬ.かす",
+      "ぬ.かる"
+    ],
+    "am_han": "BẠT"
+  },
+  "meaning": {
+    "vi": "rút ra",
+    "en": "slip out, extract, pull out, pilfer, quote, remove, omit"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/抜.svg"
+  },
+  "frequency": 726,
+  "examples": [
+    "抜け",
+    "抜き",
+    "抜粋",
+    "抜本",
+    "抜群"
+  ],
+  "explanation": {
+    "id": "6416",
+    "text": "抜 (đọc là \"batsu\" hoặc \"nuku\") có nghĩa là \"rút ra\", \"lấy ra\" để chỉ hành động loại bỏ hoặc tách ra khỏi một cái gì đó.\n\nVí dụ:\n- 抜け出す (nukedasu): Trốn thoát, thoát ra.\n- 抜粋 (bassyuu): Lấy đ"
+  },
+  "comments": [
+    {
+      "id": "153826",
+      "lang": "vi",
+      "content_html": "<p>Dùng TAY BẠT tai bằng HỮU</p>",
+      "content_text": "Dùng TAY BẠT tai bằng HỮU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153827",
+      "lang": "vi",
+      "content_html": "<p>bạn HỮU của tôi là thằng hay phông BẠT nên thôi RÚT TAY nghỉ chơi</p>",
+      "content_text": "bạn HỮU của tôi là thằng hay phông BẠT nên thôi RÚT TAY nghỉ chơi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153828",
+      "lang": "vi",
+      "content_html": "<p>Tay tát thằng bạn hữu một bạt tai</p>",
+      "content_text": "Tay tát thằng bạn hữu một bạt tai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

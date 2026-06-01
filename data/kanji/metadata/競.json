@@ -1,0 +1,93 @@
+{
+  "kanji": "競",
+  "meta": {
+    "weight": 1978,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ",
+      "ケイ"
+    ],
+    "kun": [
+      "きそ.う",
+      "せ.る",
+      "くら.べる"
+    ],
+    "am_han": "CẠNH"
+  },
+  "meaning": {
+    "vi": "cạnh tranh",
+    "en": "emulate, compete with, bid, sell at auction, bout, contest, race"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/競.svg"
+  },
+  "frequency": 610,
+  "examples": [
+    "競争",
+    "競馬",
+    "競技",
+    "競合",
+    "競売"
+  ],
+  "explanation": {
+    "id": "1627",
+    "text": "競 (đọc là \"kyō\") có nghĩa là \"cạnh tranh\", \"thi đấu\" để chỉ các hoạt động liên quan đến việc so tài, ganh đua giữa các cá nhân hoặc nhóm.\n\nVí dụ:\n- 競技 (kyōgi): Môn thi đấu, cuộc thi.\n- 競争 (k"
+  },
+  "comments": [
+    {
+      "id": "155847",
+      "lang": "vi",
+      "content_html": "<p>Hai người Anh Trai, Đứng xem ai cao hơn</p>",
+      "content_text": "Hai người Anh Trai, Đứng xem ai cao hơn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155848",
+      "lang": "vi",
+      "content_html": "<p>Hai người anh đứng CẠNH xem ai cao</p>",
+      "content_text": "Hai người anh đứng CẠNH xem ai cao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155849",
+      "lang": "vi",
+      "content_html": "<p>2 a trai đứng CẠNH tranh xem ai cao hơn!</p>",
+      "content_text": "2 a trai đứng CẠNH tranh xem ai cao hơn!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

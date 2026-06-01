@@ -1,0 +1,90 @@
+{
+  "kanji": "呑",
+  "meta": {
+    "weight": 472,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トン",
+      "ドン"
+    ],
+    "kun": [
+      "の.む"
+    ],
+    "am_han": "THÔN"
+  },
+  "meaning": {
+    "vi": "uống",
+    "en": "drink"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/呑.svg"
+  },
+  "frequency": 2362,
+  "examples": [
+    "呑み",
+    "鵜呑み",
+    "呑む",
+    "呑気"
+  ],
+  "explanation": {
+    "id": "6026",
+    "text": "呑 (đọc là \"don\" hoặc \"nomu\") có nghĩa là \"nuốt\" hoặc \"uống\" để chỉ hành động nuốt thức ăn hoặc uống nước.  \nVí dụ:  \n- 呑み込む (nomikomu): Nuốt vào, hấp thụ.  \n- 呑気 (nonki): Vô tư, không lo lắn"
+  },
+  "comments": [
+    {
+      "id": "152370",
+      "lang": "vi",
+      "content_html": "<p>Ngắm nhìn khuôn miệng đáng yêu đang nuốt đồ ăn</p>",
+      "content_text": "Ngắm nhìn khuôn miệng đáng yêu đang nuốt đồ ăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152371",
+      "lang": "vi",
+      "content_html": "<p>miệng hướng lên trời (thiên )để nuốt trọn những sợi mì thơm ngon</p>",
+      "content_text": "miệng hướng lên trời (thiên )để nuốt trọn những sợi mì thơm ngon",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152372",
+      "lang": "vi",
+      "content_html": "<p>Yêu tinh dùng Mồm Nuốt cả THÔN (làng)</p>",
+      "content_text": "Yêu tinh dùng Mồm Nuốt cả THÔN (làng)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

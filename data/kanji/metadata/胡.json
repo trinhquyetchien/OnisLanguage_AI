@@ -1,0 +1,92 @@
+{
+  "kanji": "胡",
+  "meta": {
+    "weight": 2186,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ウ",
+      "コ",
+      "ゴ"
+    ],
+    "kun": [
+      "なんぞ"
+    ],
+    "am_han": "HỒ"
+  },
+  "meaning": {
+    "vi": "man rợ, nước ngoài",
+    "en": "barbarian, foreign"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/胡.svg"
+  },
+  "frequency": 1995,
+  "examples": [
+    "胡",
+    "胡椒",
+    "胡散臭い",
+    "胡麻",
+    "胡瓜"
+  ],
+  "explanation": {
+    "id": "2299",
+    "text": "胡 (đọc là \"go\", \"ko\") có nghĩa là \"mê tín\", \"hồ đồ\" hoặc chỉ các dân tộc không phải người Hán, như người Hồ. \n\nVí dụ:\n- 胡椒 (kochou): Tiêu (gia vị).\n- 胡乱 (goran): Lộn xộn, hỗn loạn.\n- 胡桃 (kur"
+  },
+  "comments": [
+    {
+      "id": "156311",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa Hồ Xuân Hương chơi chữ lấy tên họ (胡) đặt tên nhà là Cổ Nguyệt Đường - 古 CỔ + 月 NGUYỆT = HỒ (胡)</p>",
+      "content_text": "Ngày xưa Hồ Xuân Hương chơi chữ lấy tên họ (胡) đặt tên nhà là Cổ Nguyệt Đường - 古 CỔ + 月 NGUYỆT = HỒ (胡)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156312",
+      "lang": "vi",
+      "content_html": "<p>胡志明: Hồ Chí Minh</p>",
+      "content_text": "胡志明: Hồ Chí Minh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156313",
+      "lang": "vi",
+      "content_html": "<p>Đồ Cổ được giấu dưới Hồ vào đêmTrăng</p>",
+      "content_text": "Đồ Cổ được giấu dưới Hồ vào đêmTrăng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

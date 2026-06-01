@@ -1,0 +1,109 @@
+{
+  "kanji": "羽",
+  "meta": {
+    "weight": 2137,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ウ"
+    ],
+    "kun": [
+      "は",
+      "わ",
+      "はね"
+    ],
+    "am_han": "VŨ"
+  },
+  "meaning": {
+    "vi": "lông vũ",
+    "en": "feathers, counter for birds, rabbits"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/羽.svg"
+  },
+  "frequency": 748,
+  "examples": [
+    "羽",
+    "羽目",
+    "羽根",
+    "羽毛",
+    "手羽"
+  ],
+  "explanation": {
+    "id": "291",
+    "text": "羽 (đọc là \"u\" hoặc \"hane\") có nghĩa là \"cánh\" hoặc \"lông vũ\", thường chỉ đến bộ phận của chim hoặc các vật thể tương tự.  \nVí dụ:  \n- 羽毛 (umou): Lông vũ, lông chim.  \n- 羽根 (hane): Cánh (của "
+  },
+  "comments": [
+    {
+      "id": "972",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của đôi <strong>cánh</strong>.</p>",
+      "content_text": "Hình dạng của đôi\ncánh\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629ac4f14ff40.jpg",
+      "image_path": "assets/images/羽_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156202",
+      "lang": "vi",
+      "content_html": "<p>Hai cái cánh chim</p>",
+      "content_text": "Hai cái cánh chim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156204",
+      "lang": "vi",
+      "content_html": "<p>Sân bay Haneda :  羽田</p>",
+      "content_text": "Sân bay Haneda :  羽田",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156203",
+      "lang": "vi",
+      "content_html": "<p>Đôi cánh lông VŨ bị đóng băng</p>",
+      "content_text": "Đôi cánh lông VŨ bị đóng băng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

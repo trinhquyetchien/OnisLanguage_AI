@@ -1,0 +1,93 @@
+{
+  "kanji": "目",
+  "meta": {
+    "weight": 1836,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モク",
+      "ボク"
+    ],
+    "kun": [
+      "め",
+      "-め",
+      "ま-"
+    ],
+    "am_han": "MỤC"
+  },
+  "meaning": {
+    "vi": "mắt, hạng mục",
+    "en": "eye, class, look, insight, experience, care, favor"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/目.svg"
+  },
+  "frequency": 76,
+  "examples": [
+    "目",
+    "目的",
+    "目標",
+    "注目",
+    "項目"
+  ],
+  "explanation": {
+    "id": "7628",
+    "text": "目 (đọc là \"moku\" hoặc \"me\") có nghĩa là \"mắt\", chỉ bộ phận cơ thể dùng để nhìn. Nó cũng được sử dụng để chỉ sự chú ý hoặc điểm.\n\nVí dụ:\n- 目標 (mokuhyō): Mục tiêu.\n- 目覚まし時計 (mezamashidokei): Đ"
+  },
+  "comments": [
+    {
+      "id": "471",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của con <strong>mắt</strong></p>",
+      "content_text": "Hình dạng của con\nmắt",
+      "image_url": "https://jpdictionary.com/upload/images/62976237ee830.jpg",
+      "image_path": "assets/images/目_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191131",
+      "lang": "vi",
+      "content_html": "<p><strong>mắt</strong></p>",
+      "content_text": "mắt",
+      "image_url": "https://jpdictionary.com/upload/images/648ac4ff03cad.jpg",
+      "image_path": "assets/images/目_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "155541",
+      "lang": "vi",
+      "content_html": "<p>chớp mắt目 hết một一 ngày日</p>",
+      "content_text": "chớp mắt目 hết một一 ngày日",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "襲",
+  "meta": {
+    "weight": 2436,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "おそ.う",
+      "かさ.ね"
+    ],
+    "am_han": "TẬP"
+  },
+  "meaning": {
+    "vi": "tấn công, tiến lên, thành công đến, đống",
+    "en": "attack, advance on, succeed to, pile, heap"
+  },
+  "stroke": {
+    "count": 22,
+    "svg": "assets/svg/襲.svg"
+  },
+  "frequency": 1130,
+  "examples": [
+    "襲撃",
+    "空襲",
+    "襲う",
+    "踏襲",
+    "逆襲"
+  ],
+  "explanation": {
+    "id": "3518",
+    "text": "襲 (đọc là \"shuu\" hoặc \"osoi\") có nghĩa là \"tấn công\", \"tấn công bất ngờ\" để chỉ hành động tấn công hoặc chiếm lấy một cái gì đó từ kẻ khác.\n\nVí dụ:\n- 襲撃 (shuugeki): Cuộc tấn công, đột kích.\n"
+  },
+  "comments": [
+    {
+      "id": "156780",
+      "lang": "vi",
+      "content_html": "<p>Khủng Long mặc y phục để tập kích con người !</p>",
+      "content_text": "Khủng Long mặc y phục để tập kích con người !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156781",
+      "lang": "vi",
+      "content_html": "<p>ĐỨNG đợi cả THÁNG để tập kích con RỒNG mặc Y phục</p>",
+      "content_text": "ĐỨNG đợi cả THÁNG để tập kích con RỒNG mặc Y phục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156782",
+      "lang": "vi",
+      "content_html": "<p>Mặc Y phục Đứng giữa đêm Trăng TẬP bắn Cung</p>",
+      "content_text": "Mặc Y phục Đứng giữa đêm Trăng TẬP bắn Cung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

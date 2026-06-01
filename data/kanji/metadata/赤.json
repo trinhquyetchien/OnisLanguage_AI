@@ -1,0 +1,95 @@
+{
+  "kanji": "赤",
+  "meta": {
+    "weight": 2580,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ",
+      "シャク"
+    ],
+    "kun": [
+      "あか",
+      "あか-",
+      "あか.い",
+      "あか.らむ",
+      "あか.らめる"
+    ],
+    "am_han": "XÍCH"
+  },
+  "meaning": {
+    "vi": "màu đỏ",
+    "en": "red"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/赤.svg"
+  },
+  "frequency": 584,
+  "examples": [
+    "赤",
+    "赤字",
+    "赤い",
+    "赤ちゃん",
+    "真っ赤"
+  ],
+  "explanation": {
+    "id": "4418",
+    "text": "赤 (đọc là \"aka\") có nghĩa là \"màu đỏ\", thường chỉ đến màu sắc hoặc cảm xúc liên quan đến sự nhiệt huyết, tình yêu.  \nVí dụ:  \n- 赤ちゃん (akachan): Em bé, trẻ sơ sinh.  \n- 赤信号 (akashingō): Đèn t"
+  },
+  "comments": [
+    {
+      "id": "757",
+      "lang": "vi",
+      "content_html": "<p>Đặt đất (土) lên trên lửa và làm ra viên gạch màu <strong>đỏ </strong>(赤).</p>",
+      "content_text": "Đặt đất (土) lên trên lửa và làm ra viên gạch màu\nđỏ\n(赤).",
+      "image_url": "https://jpdictionary.com/upload/images/62984c829a525.jpg",
+      "image_path": "assets/images/赤_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157142",
+      "lang": "vi",
+      "content_html": "<p>Đặt đất 土 trên lửa 灬 làm gì?<br>Để nung gạch đỏ 赤 chứ chi hỡi nàng.</p>",
+      "content_text": "Đặt đất 土 trên lửa 灬 làm gì?\nĐể nung gạch đỏ 赤 chứ chi hỡi nàng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158575",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>赤い (あかい): màu đỏ</p><p>赤ちゃん (おかちゃん): em bé</p><p>赤ん坊 (あかんぼう): em bé</p>",
+      "content_text": "JLPT N4\n赤い (あかい): màu đỏ\n赤ちゃん (おかちゃん): em bé\n赤ん坊 (あかんぼう): em bé",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

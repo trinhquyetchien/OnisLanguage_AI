@@ -1,0 +1,91 @@
+{
+  "kanji": "詫",
+  "meta": {
+    "weight": 2479,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タ"
+    ],
+    "kun": [
+      "わび",
+      "わび.しい",
+      "かこつ",
+      "わ.びる",
+      "わび.る"
+    ],
+    "am_han": "SÁ"
+  },
+  "meaning": {
+    "vi": "xin lỗi",
+    "en": "apologize"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/詫.svg"
+  },
+  "frequency": 2481,
+  "examples": [
+    "お詫び",
+    "詫び"
+  ],
+  "explanation": {
+    "id": "8420",
+    "text": "詫 (đọc là \"taka\") có nghĩa là \"xin lỗi\", \"thú nhận\" để chỉ hành động xin lỗi hoặc bày tỏ sự hối tiếc.  \nVí dụ:  \n- 詫び (wabi): Lời xin lỗi, sự hối lỗi.  \n- 詫び状 (wabijō): Thư xin lỗi.  \n- 詫びる "
+  },
+  "comments": [
+    {
+      "id": "156892",
+      "lang": "vi",
+      "content_html": "<p>Đến tận nhà  nói lời xin lỗi để mong Sá (Xá) tội</p>",
+      "content_text": "Đến tận nhà  nói lời xin lỗi để mong Sá (Xá) tội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156894",
+      "lang": "vi",
+      "content_html": "<p>お詫びの手紙: thư xin lỗi</p>",
+      "content_text": "お詫びの手紙: thư xin lỗi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156893",
+      "lang": "vi",
+      "content_html": "<p>Nói lời xin lỗi với gia trạch sẽ được ân SÁ tha tội</p>",
+      "content_text": "Nói lời xin lỗi với gia trạch sẽ được ân SÁ tha tội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

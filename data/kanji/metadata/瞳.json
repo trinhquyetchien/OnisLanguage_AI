@@ -1,0 +1,88 @@
+{
+  "kanji": "瞳",
+  "meta": {
+    "weight": 1856,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドウ",
+      "トウ"
+    ],
+    "kun": [
+      "ひとみ"
+    ],
+    "am_han": "ĐỒNG"
+  },
+  "meaning": {
+    "vi": "đồng tử (của mắt)",
+    "en": "pupil (of eye)"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/瞳.svg"
+  },
+  "frequency": 2069,
+  "examples": [
+    "瞳",
+    "瞳孔"
+  ],
+  "explanation": {
+    "id": "5920",
+    "text": "瞳 (đọc là \"tō\") có nghĩa là \"con ngươi\" để chỉ phần trung tâm của mắt, nơi ánh sáng đi vào. \n\nVí dụ:\n- 瞳孔 (dōkō): Con ngươi.\n- 瞳を閉じる (hitomi o tojirú): Nhắm mắt lại.\n- 大きな瞳 (ōkina tō): Đôi m"
+  },
+  "comments": [
+    {
+      "id": "155599",
+      "lang": "vi",
+      "content_html": "<p>ngồi trên cánh đồng mắt nhìn thấu đất</p>",
+      "content_text": "ngồi trên cánh đồng mắt nhìn thấu đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155600",
+      "lang": "vi",
+      "content_html": "<p>đồng tử</p>",
+      "content_text": "đồng tử",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155601",
+      "lang": "vi",
+      "content_html": "<p>ĐỒNG tử về LÍ thuyết sẽ ĐỨNG ở giữa con MẮT</p>",
+      "content_text": "ĐỒNG tử về LÍ thuyết sẽ ĐỨNG ở giữa con MẮT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "kanji": "廿",
+  "meta": {
+    "weight": 887,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュウ",
+      "ニュウ"
+    ],
+    "kun": [
+      "にじゅう"
+    ],
+    "am_han": "NHẬP, CHẤP"
+  },
+  "meaning": {
+    "vi": "hai mươi",
+    "en": "twenty"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/廿.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6108",
+    "text": "廿 (đọc là \"ni\") có nghĩa là \"hai mươi\" trong tiếng Nhật. \n\nVí dụ:\n- 廿日 (hatsuka): Ngày hai mươi.\n- 廿世紀 (nijusseiki): Thế kỷ 20.\n- 廿五 (nijuugo): Hai mươi lăm."
+  },
+  "comments": [
+    {
+      "id": "219432",
+      "lang": "vi",
+      "content_html": "<p>NHị thẬP là NHẬP</p>",
+      "content_text": "NHị thẬP là NHẬP",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219433",
+      "lang": "vi",
+      "content_html": "<p>Số 20 theo hán tự cổ</p>",
+      "content_text": "Số 20 theo hán tự cổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219434",
+      "lang": "vi",
+      "content_html": "<p>2 chữ Thập nối nhau thành Nhị Thập</p>",
+      "content_text": "2 chữ Thập nối nhau thành Nhị Thập",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

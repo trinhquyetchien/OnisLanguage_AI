@@ -1,0 +1,89 @@
+{
+  "kanji": "咲",
+  "meta": {
+    "weight": 480,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "さ.く",
+      "-ざき"
+    ],
+    "am_han": "TIẾU"
+  },
+  "meaning": {
+    "vi": "nở hoa",
+    "en": "blossom, bloom"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/咲.svg"
+  },
+  "frequency": 1534,
+  "examples": [
+    "咲い",
+    "咲く",
+    "咲かせる"
+  ],
+  "explanation": {
+    "id": "2871",
+    "text": "咲 (đọc là \"saku\") có nghĩa là \"nở\", thường chỉ về việc hoa nở hoặc sự tươi vui, rạng rỡ.  \nVí dụ:  \n- 咲く (saku): Nở (hoa).  \n- 笑顔が咲く (egao ga saku): Nụ cười nở rộ.  \n- 桜が咲く (sakura ga saku):"
+  },
+  "comments": [
+    {
+      "id": "152391",
+      "lang": "vi",
+      "content_html": "<p>Hoa nở lm ô trời cười toác cả hai cái mồm</p>",
+      "content_text": "Hoa nở lm ô trời cười toác cả hai cái mồm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152392",
+      "lang": "vi",
+      "content_html": "<p>Miệng ô quan TIẾU táo như hoa nở , ghét !</p>",
+      "content_text": "Miệng ô quan TIẾU táo như hoa nở , ghét !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152393",
+      "lang": "vi",
+      "content_html": "<p>những người mà hay nói chuyện tiếu TIẾU là những người NÓI những lời lạc QUAN...</p>",
+      "content_text": "những người mà hay nói chuyện tiếu TIẾU là những người NÓI những lời lạc QUAN...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

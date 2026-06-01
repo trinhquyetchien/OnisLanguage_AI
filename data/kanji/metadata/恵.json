@@ -1,0 +1,92 @@
+{
+  "kanji": "恵",
+  "meta": {
+    "weight": 971,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ",
+      "エ"
+    ],
+    "kun": [
+      "めぐ.む",
+      "めぐ.み"
+    ],
+    "am_han": "HUỆ"
+  },
+  "meaning": {
+    "vi": "ưu ái, ban phước, ân sủng, lòng tốt",
+    "en": "favor, blessing, grace, kindness"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/恵.svg"
+  },
+  "frequency": 925,
+  "examples": [
+    "知恵",
+    "恩恵",
+    "恵み",
+    "恵",
+    "恵比寿"
+  ],
+  "explanation": {
+    "id": "1964",
+    "text": "恵 (đọc là \"kei\" hoặc \"e\") có nghĩa là \"hạnh phúc\", \"phước lành\", \"sự ban cho\", thường chỉ sự tốt đẹp, ơn huệ từ người khác.\n\nVí dụ:\n- 恵み (megumi): Ân huệ, ơn trời.\n- 恵まれる (megumareru): Được "
+  },
+  "comments": [
+    {
+      "id": "153590",
+      "lang": "vi",
+      "content_html": "<p>10 (THẬp) lần suy nghĩ (TƯ) về ân HUỆ đó</p>",
+      "content_text": "10 (THẬp) lần suy nghĩ (TƯ) về ân HUỆ đó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153591",
+      "lang": "vi",
+      "content_html": "<p>Được ban tặng 10 ruộng là 1 ân HUỆ luôn ghi nhớ trong tâm</p>",
+      "content_text": "Được ban tặng 10 ruộng là 1 ân HUỆ luôn ghi nhớ trong tâm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153592",
+      "lang": "vi",
+      "content_html": "<p>MƯỜI công RUỘNG mà cha cho con là một Ân HUỆ, con luôn ghi nhớ trong TIM.</p>",
+      "content_text": "MƯỜI công RUỘNG mà cha cho con là một Ân HUỆ, con luôn ghi nhớ trong TIM.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

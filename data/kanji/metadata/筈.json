@@ -1,0 +1,68 @@
+{
+  "kanji": "筈",
+  "meta": {
+    "weight": 1991,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カツ"
+    ],
+    "kun": [
+      "はず",
+      "やはず"
+    ],
+    "am_han": "QUÁT"
+  },
+  "meaning": {
+    "vi": "khía của một mũi tên, phải, nên được, mong đợi",
+    "en": "notch of an arrow, ought, must, should be, expected"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/筈.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6382",
+    "text": "筈 (đọc là \"hazu\") có nghĩa là \"dự kiến\", \"phải\" hoặc \"lẽ ra\" để chỉ những điều mà một người nghĩ là đúng hay hợp lý. \n\nVí dụ:\n- 筈がない (hazu ga nai): Không thể, không có khả năng.\n- 筈違い (hazug"
+  },
+  "comments": [
+    {
+      "id": "220287",
+      "lang": "vi",
+      "content_html": "<p>筈 âm Hán-Việt là “Quát”</p>",
+      "content_text": "筈 âm Hán-Việt là “Quát”",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220288",
+      "lang": "vi",
+      "content_html": "<p>lưỡi mà cứng như trúc là lời nói chắc chắn</p>",
+      "content_text": "lưỡi mà cứng như trúc là lời nói chắc chắn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

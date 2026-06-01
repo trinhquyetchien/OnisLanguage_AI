@@ -1,0 +1,91 @@
+{
+  "kanji": "遂",
+  "meta": {
+    "weight": 2670,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "と.げる",
+      "つい.に"
+    ],
+    "am_han": "TOẠI"
+  },
+  "meaning": {
+    "vi": "hoàn thành, đạt được, tự sát (tự sát)",
+    "en": "consummate, accomplish, attain, commit (suicide)"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/遂.svg"
+  },
+  "frequency": 1423,
+  "examples": [
+    "遂行",
+    "遂に",
+    "未遂",
+    "遂げる",
+    "成し遂げる"
+  ],
+  "explanation": {
+    "id": "4233",
+    "text": "遂 (đọc là \"sui\") có nghĩa là \"thực hiện\", \"hoàn thành\" để chỉ các hành động liên quan đến việc hoàn tất hoặc đưa vào thực tế một điều gì đó.  \nVí dụ:  \n- 遂行 (suikou): Thực hiện, tiến hành.  "
+  },
+  "comments": [
+    {
+      "id": "157357",
+      "lang": "vi",
+      "content_html": "<p>Lợn vểnh tai đi tới toại nguyện</p>",
+      "content_text": "Lợn vểnh tai đi tới toại nguyện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157358",
+      "lang": "vi",
+      "content_html": "<p>toại nguyện khi thấy đường đầy lợn</p>",
+      "content_text": "toại nguyện khi thấy đường đầy lợn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157359",
+      "lang": "vi",
+      "content_html": "<p>Lợn vểnh tai ra đi Toại nguyện</p>",
+      "content_text": "Lợn vểnh tai ra đi Toại nguyện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

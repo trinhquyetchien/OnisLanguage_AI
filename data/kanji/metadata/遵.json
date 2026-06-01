@@ -1,0 +1,82 @@
+{
+  "kanji": "遵",
+  "meta": {
+    "weight": 2688,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュン"
+    ],
+    "kun": [],
+    "am_han": "TUÂN"
+  },
+  "meaning": {
+    "vi": "tuân theo, làm theo, học hỏi",
+    "en": "abide by, follow, obey, learn"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/遵.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3669",
+    "text": "遵 (đọc là \"jun\") có nghĩa là \"tuân theo\", \"tôn trọng\" để chỉ các hành động liên quan đến việc tuân thủ quy tắc, pháp luật hoặc sự chỉ dẫn.\n\nVí dụ:\n- 遵守 (junshu): Tuân thủ, tuân theo (quy địn"
+  },
+  "comments": [
+    {
+      "id": "220860",
+      "lang": "vi",
+      "content_html": "<p>Trên đường tôn trọng , \bTUÂN thủ luật lệ.</p>",
+      "content_text": "Trên đường tôn trọng , \bTUÂN thủ luật lệ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220861",
+      "lang": "vi",
+      "content_html": "<p>Quá chuẩn : có biết tôn trọng luật pháp thì ms tuần thủ vì vậy : chữ tôn + bộ đường ( pháp)</p>",
+      "content_text": "Quá chuẩn : có biết tôn trọng luật pháp thì ms tuần thủ vì vậy : chữ tôn + bộ đường ( pháp)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220862",
+      "lang": "vi",
+      "content_html": "<p>Tôn trọng suốt 1 thời gian dài là Tuân lệnh</p>",
+      "content_text": "Tôn trọng suốt 1 thời gian dài là Tuân lệnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

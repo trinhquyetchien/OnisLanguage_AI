@@ -1,0 +1,90 @@
+{
+  "kanji": "甚",
+  "meta": {
+    "weight": 1766,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジン"
+    ],
+    "kun": [
+      "はなは.だ",
+      "はなは.だしい"
+    ],
+    "am_han": "THẬM"
+  },
+  "meaning": {
+    "vi": "cực kỳ, rất, tuyệt vời",
+    "en": "tremendously, very, great, exceedingly"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/甚.svg"
+  },
+  "frequency": 1961,
+  "examples": [
+    "甚だ",
+    "甚大",
+    "甚だしい",
+    "激甚"
+  ],
+  "explanation": {
+    "id": "4163",
+    "text": "甚 (đọc là \"jin\" hoặc \"ma\"), có nghĩa là \"rất\", \"cực kỳ\", thường dùng để diễn tả mức độ cao của một cái gì đó.\n\nVí dụ:\n- 甚だしい (hanahadashii): Rất nghiêm trọng, cực kỳ.\n- 甚大 (jindai): Rất lớn,"
+  },
+  "comments": [
+    {
+      "id": "155375",
+      "lang": "vi",
+      "content_html": "<p>bốn lần ngọt thì cực kì kinh khủng</p>",
+      "content_text": "bốn lần ngọt thì cực kì kinh khủng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155376",
+      "lang": "vi",
+      "content_html": "<p>ăn bốn lần ngọt thì thật là thậm tệ</p>",
+      "content_text": "ăn bốn lần ngọt thì thật là thậm tệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155377",
+      "lang": "vi",
+      "content_html": "<p>Ngọt thậm tệ 2 chân bỏ chạy</p>",
+      "content_text": "Ngọt thậm tệ 2 chân bỏ chạy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

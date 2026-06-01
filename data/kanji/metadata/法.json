@@ -1,0 +1,110 @@
+{
+  "kanji": "法",
+  "meta": {
+    "weight": 1517,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ",
+      "ハッ",
+      "ホッ",
+      "フラン"
+    ],
+    "kun": [
+      "のり"
+    ],
+    "am_han": "PHÁP"
+  },
+  "meaning": {
+    "vi": "phương pháp, pháp luật",
+    "en": "method, law, rule, principle, model, system"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/法.svg"
+  },
+  "frequency": 100,
+  "examples": [
+    "法",
+    "方法",
+    "法律",
+    "憲法",
+    "法人"
+  ],
+  "explanation": {
+    "id": "7186",
+    "text": "法 (đọc là \"hō\") có nghĩa là \"pháp luật\", \"quy tắc\" để chỉ các nguyên tắc, quy định trong xã hội hoặc hệ thống pháp lý.\n\nVí dụ:\n- 法律 (hōritsu): Luật pháp.\n- 法廷 (hōtei): Tòa án.\n- 正法 (shōhō): "
+  },
+  "comments": [
+    {
+      "id": "37139",
+      "lang": "vi",
+      "content_html": "<p>Năm ngoái (去年), <strong>luật </strong>về nước đã được thi hành.</p>",
+      "content_text": "Năm ngoái (去年),\nluật\nvề nước đã được thi hành.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdba297d6fe.jpg",
+      "image_path": "assets/images/法_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154835",
+      "lang": "vi",
+      "content_html": "<p>Phương PHÁP tạo ra Nước ngọt trong Quá Khứ</p>",
+      "content_text": "Phương PHÁP tạo ra Nước ngọt trong Quá Khứ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154836",
+      "lang": "vi",
+      "content_html": "<p>Trong quá Khứ 去, Nước (Thuỷ)  氵ta là thuộc địa của Pháp 法</p>",
+      "content_text": "Trong quá Khứ 去, Nước (Thuỷ)  氵ta là thuộc địa của Pháp 法",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154837",
+      "lang": "vi",
+      "content_html": "<p>đất nước có bộ tư pháp</p>",
+      "content_text": "đất nước có bộ tư pháp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

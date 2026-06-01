@@ -1,0 +1,93 @@
+{
+  "kanji": "剤",
+  "meta": {
+    "weight": 334,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ザイ",
+      "スイ",
+      "セイ"
+    ],
+    "kun": [
+      "かる",
+      "けず.る"
+    ],
+    "am_han": "TỀ"
+  },
+  "meaning": {
+    "vi": "liều, thuốc",
+    "en": "dose, medicine, drug"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/剤.svg"
+  },
+  "frequency": 1151,
+  "examples": [
+    "剤",
+    "洗剤",
+    "薬剤",
+    "薬剤師",
+    "製剤"
+  ],
+  "explanation": {
+    "id": "2842",
+    "text": "剤 (đọc là \"zai\") có nghĩa là \"chế phẩm\", \"hóa chất\" để chỉ các loại thuốc hoặc chế phẩm dùng trong y tế và công nghiệp.  \nVí dụ:  \n- 薬剤 (yakuzaï): Dược phẩm, thuốc.  \n- 整形外科用剤 (seikeigai kay"
+  },
+  "comments": [
+    {
+      "id": "152039",
+      "lang": "vi",
+      "content_html": "<p>TỀ cầm Đao dọa TỄ</p>",
+      "content_text": "TỀ cầm Đao dọa TỄ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152040",
+      "lang": "vi",
+      "content_html": "<p>Tề cầm dao doạ tễ lấy thuốc</p>",
+      "content_text": "Tề cầm dao doạ tễ lấy thuốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152041",
+      "lang": "vi",
+      "content_html": "<p>chữ này là tễ không phải tế đi làm kinh tế đâu, kinh tế là chứ này 経済 nước ko phải đao</p>",
+      "content_text": "chữ này là tễ không phải tế đi làm kinh tế đâu, kinh tế là chứ này 経済 nước ko phải đao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

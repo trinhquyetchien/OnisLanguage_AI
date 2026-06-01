@@ -1,0 +1,97 @@
+{
+  "kanji": "空",
+  "meta": {
+    "weight": 1958,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "クウ"
+    ],
+    "kun": [
+      "そら",
+      "あ.く",
+      "あ.き",
+      "あ.ける",
+      "から",
+      "す.く",
+      "す.かす",
+      "むな.しい"
+    ],
+    "am_han": "KHÔNG"
+  },
+  "meaning": {
+    "vi": "trống không, hàng không",
+    "en": "empty, sky, void, vacant, vacuum"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/空.svg"
+  },
+  "frequency": 304,
+  "examples": [
+    "空間",
+    "空",
+    "空気",
+    "空港",
+    "航空"
+  ],
+  "explanation": {
+    "id": "1848",
+    "text": "空 (đọc là \"kuu\" hoặc \"sora\") có nghĩa là \"trống rỗng\", \"không gian\", \"bầu trời\" để chỉ trạng thái không có vật chất hoặc khoảng không. \n\nVí dụ:\n- 空港 (kuukou): Sân bay.\n- 空 (sora): Bầu trời.\n"
+  },
+  "comments": [
+    {
+      "id": "747",
+      "lang": "vi",
+      "content_html": "<p>Hãy mở cửa, đo <strong>bầu trời</strong> bằng cây thước.</p>",
+      "content_text": "Hãy mở cửa, đo\nbầu trời\nbằng cây thước.",
+      "image_url": "https://jpdictionary.com/upload/images/62984ae230c3a.jpg",
+      "image_path": "assets/images/空_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155809",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: Công trường (工) ở trong Hang Động (穴)<br>==&#62; bị thiếu Không khí (空)<br>..性..</p>",
+      "content_text": "Góc Nhìn: Công trường (工) ở trong Hang Động (穴)\n==> bị thiếu Không khí (空)\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191147",
+      "lang": "vi",
+      "content_html": "<p><strong>không </strong>trung - 空中 (くうちゅう)</p>",
+      "content_text": "không\ntrung - 空中 (くうちゅう)",
+      "image_url": "https://jpdictionary.com/upload/images/648ac98eeedfe.jpg",
+      "image_path": "assets/images/空_3.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

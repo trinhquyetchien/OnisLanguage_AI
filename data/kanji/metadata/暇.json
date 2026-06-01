@@ -1,0 +1,91 @@
+{
+  "kanji": "暇",
+  "meta": {
+    "weight": 1245,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "ひま",
+      "いとま"
+    ],
+    "am_han": "HẠ"
+  },
+  "meaning": {
+    "vi": "thời gian rảnh rỗi, nghỉ ngơi, giải trí, thời gian, nghỉ phép",
+    "en": "spare time, rest, leisure, time, leave of absence"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/暇.svg"
+  },
+  "frequency": 1386,
+  "examples": [
+    "暇",
+    "休暇",
+    "余暇",
+    "暇つぶし",
+    "暇人"
+  ],
+  "explanation": {
+    "id": "645",
+    "text": "暇 (đọc là \"ma\") có nghĩa là \"thời gian rảnh\", chỉ trạng thái không bận rộn hoặc thời gian tự do để nghỉ ngơi và thư giãn.  \nVí dụ:  \n- 暇な時間 (hima na jikan): Thời gian rảnh rỗi.  \n- 暇つぶし (him"
+  },
+  "comments": [
+    {
+      "id": "154264",
+      "lang": "vi",
+      "content_html": "<p>1  ngày đi Lại nhàn Hạ trên cầu thang</p>",
+      "content_text": "1  ngày đi Lại nhàn Hạ trên cầu thang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154265",
+      "lang": "vi",
+      "content_html": "<p>Cả ngày (日) cô (コ) Hựu (又) đi lại nhàn Hạ(暇) ở cầu thang.</p>",
+      "content_text": "Cả ngày (日) cô (コ) Hựu (又) đi lại nhàn Hạ(暇) ở cầu thang.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154266",
+      "lang": "vi",
+      "content_html": "<p>bắc thang trèo lên cây dùng tay hái dừa rồi cả ngày ngồi nhàn hạ uống nước dừa</p>",
+      "content_text": "bắc thang trèo lên cây dùng tay hái dừa rồi cả ngày ngồi nhàn hạ uống nước dừa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

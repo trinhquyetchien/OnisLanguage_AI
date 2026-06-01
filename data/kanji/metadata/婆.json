@@ -1,0 +1,91 @@
+{
+  "kanji": "婆",
+  "meta": {
+    "weight": 679,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バ"
+    ],
+    "kun": [
+      "ばば",
+      "ばあ"
+    ],
+    "am_han": "BÀ"
+  },
+  "meaning": {
+    "vi": "bà già, bà, y tá ướt",
+    "en": "old woman, grandma, wet nurse"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/婆.svg"
+  },
+  "frequency": 2435,
+  "examples": [
+    "産婆",
+    "婆",
+    "老婆",
+    "お婆さん",
+    "婆ちゃん"
+  ],
+  "explanation": {
+    "id": "6241",
+    "text": "婆 (đọc là \"ba\") có nghĩa là \"bà\", thường chỉ về một người phụ nữ lớn tuổi hoặc bà ngoại, và cũng có thể mang nghĩa tiêu cực khi chỉ về những người phụ nữ không tốt tính. \n\nVí dụ:\n- 婆さん (basa"
+  },
+  "comments": [
+    {
+      "id": "152855",
+      "lang": "vi",
+      "content_html": "<p>BÀ là người Phụ Nữ đẻ ra Ba</p>",
+      "content_text": "BÀ là người Phụ Nữ đẻ ra Ba",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152856",
+      "lang": "vi",
+      "content_html": "<p>Phụ NỮ trai qua nhiều phong BA rồi một ngày sẽ trở thành BÀ cụ</p>",
+      "content_text": "Phụ NỮ trai qua nhiều phong BA rồi một ngày sẽ trở thành BÀ cụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152857",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ có nước da nhăn nheo là bà già</p>",
+      "content_text": "Phụ nữ có nước da nhăn nheo là bà già",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

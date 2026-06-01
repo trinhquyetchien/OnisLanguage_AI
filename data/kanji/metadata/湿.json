@@ -1,0 +1,111 @@
+{
+  "kanji": "湿",
+  "meta": {
+    "weight": 1588,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シツ",
+      "シュウ"
+    ],
+    "kun": [
+      "しめ.る",
+      "しめ.す",
+      "うるお.う",
+      "うるお.す"
+    ],
+    "am_han": "THẤP"
+  },
+  "meaning": {
+    "vi": "ẩm ướt",
+    "en": "damp, wet, moist"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/湿.svg"
+  },
+  "frequency": 1517,
+  "examples": [
+    "湿度",
+    "湿気",
+    "湿",
+    "湿地",
+    "湿疹"
+  ],
+  "explanation": {
+    "id": "3281",
+    "text": "湿 (đọc là \"shitsu\") có nghĩa là \"ẩm ướt\", chỉ trạng thái có độ ẩm cao hoặc bị ẩm.  \nVí dụ:  \n- 湿気 (shitsuke): Độ ẩm, không khí ẩm.  \n- 湿る (shimuru): Bị ướt, ẩm ướt.  \n- 湿布 (shippu): Miếng dá"
+  },
+  "comments": [
+    {
+      "id": "155010",
+      "lang": "vi",
+      "content_html": "<p>mặt trời xuống thấp hơi nước bốc lên</p>",
+      "content_text": "mặt trời xuống thấp hơi nước bốc lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155011",
+      "lang": "vi",
+      "content_html": "<p>Mặt trời xuống Thấp, hơi Nước bốc lên Hàng loạt tạo độ Ẩm.</p>",
+      "content_text": "Mặt trời xuống Thấp, hơi Nước bốc lên Hàng loạt tạo độ Ẩm.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155012",
+      "lang": "vi",
+      "content_html": "<p>MẶT TRỜI làm NƯỚC bốc hơi thành áp THẤP</p>",
+      "content_text": "MẶT TRỜI làm NƯỚC bốc hơi thành áp THẤP",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222385",
+      "lang": "vi",
+      "content_html": "<p>Ẩm Thấp</p>",
+      "content_text": "Ẩm Thấp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5155",
+        "name": "Doan The Anh (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/66e4a5e9678a0.png"
+      }
+    }
+  ]
+}

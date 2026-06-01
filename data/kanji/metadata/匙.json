@@ -1,0 +1,84 @@
+{
+  "kanji": "匙",
+  "meta": {
+    "weight": 375,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "さじ"
+    ],
+    "am_han": "THI"
+  },
+  "meaning": {
+    "vi": "cái thìa",
+    "en": "spoon"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/匙.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2925",
+    "text": "匙 (đọc là \"aji\") có nghĩa là \"muỗng\" để chỉ đồ dùng ăn uống, thường dùng để múc hoặc khuấy thực phẩm.  \nVí dụ:  \n- スプーン匙 (supūn aji): Muỗng.  \n- 汁匙 (shiru aji): Muỗng canh.  \n- 小匙 (koaji): M"
+  },
+  "comments": [
+    {
+      "id": "219023",
+      "lang": "vi",
+      "content_html": "<p>bộ Thi biểu âm bộ chủy biểu ý, kết cấu trái phải</p>",
+      "content_text": "bộ Thi biểu âm bộ chủy biểu ý, kết cấu trái phải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219024",
+      "lang": "vi",
+      "content_html": "<p>Quy định ngày uống cafe được thực thi</p>",
+      "content_text": "Quy định ngày uống cafe được thực thi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219025",
+      "lang": "vi",
+      "content_html": "<p>cái Chùy Thực ra là cái Muỗng</p>",
+      "content_text": "cái Chùy Thực ra là cái Muỗng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

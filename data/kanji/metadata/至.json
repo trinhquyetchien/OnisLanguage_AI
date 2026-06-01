@@ -1,0 +1,90 @@
+{
+  "kanji": "至",
+  "meta": {
+    "weight": 2225,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "いた.る"
+    ],
+    "am_han": "CHÍ"
+  },
+  "meaning": {
+    "vi": "cao trào, đến, tiến hành, đạt tới, đạt được, kết quả là",
+    "en": "climax, arrive, proceed, reach, attain, result in"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/至.svg"
+  },
+  "frequency": 996,
+  "examples": [
+    "至る",
+    "至り",
+    "至上",
+    "必至",
+    "至福"
+  ],
+  "explanation": {
+    "id": "3137",
+    "text": "至 (đọc là \"shi\") có nghĩa là \"đến\", \"tới\" để chỉ hành động di chuyển đến một nơi hoặc trạng thái nào đó.\n\nVí dụ:\n- 至急 (shikyū): Khẩn cấp, ngay lập tức.\n- 至上 (shijō): Tối thượng, cao nhất.\n- "
+  },
+  "comments": [
+    {
+      "id": "156397",
+      "lang": "vi",
+      "content_html": "<p>một (nhất) mình riêng tư (Khư) ngồi trên đất (thổ) quyết CHÍ làm giàu</p>",
+      "content_text": "một (nhất) mình riêng tư (Khư) ngồi trên đất (thổ) quyết CHÍ làm giàu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156398",
+      "lang": "vi",
+      "content_html": "<p>cần 14 tiếng là đến được vùng đất này</p>",
+      "content_text": "cần 14 tiếng là đến được vùng đất này",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156399",
+      "lang": "vi",
+      "content_html": "<p>Có chí cuốc đất</p>",
+      "content_text": "Có chí cuốc đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "kanji": "凍",
+  "meta": {
+    "weight": 297,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "こお.る",
+      "こご.える",
+      "こご.る",
+      "い.てる",
+      "し.みる"
+    ],
+    "am_han": "ĐÔNG"
+  },
+  "meaning": {
+    "vi": "đông lạnh",
+    "en": "frozen, congeal, refrigerate"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/凍.svg"
+  },
+  "frequency": 1284,
+  "examples": [
+    "冷凍",
+    "凍結",
+    "解凍",
+    "冷凍庫",
+    "凍る"
+  ],
+  "explanation": {
+    "id": "5769",
+    "text": "凍 (đọc là \"tō\") có nghĩa là \"đông lạnh\", \"đóng băng\" để chỉ trạng thái đông cứng của nước hoặc các vật chất khác do nhiệt độ thấp.\n\nVí dụ:\n- 凍結 (tōketsu): Sự đông lạnh, đóng băng.\n- 凍る (koor"
+  },
+  "comments": [
+    {
+      "id": "151936",
+      "lang": "vi",
+      "content_html": "<p>Phía đông đóng băng thành đống</p>",
+      "content_text": "Phía đông đóng băng thành đống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151937",
+      "lang": "vi",
+      "content_html": "<p>Băng Đông lại thành Đống</p>",
+      "content_text": "Băng Đông lại thành Đống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151938",
+      "lang": "vi",
+      "content_html": "<p>Phía ĐÔNG lạnh nên nước hay bị ĐÓNG BĂNG, ĐÔNG cứng lại</p>",
+      "content_text": "Phía ĐÔNG lạnh nên nước hay bị ĐÓNG BĂNG, ĐÔNG cứng lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "kanji": "膏",
+  "meta": {
+    "weight": 2211,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "あぶら"
+    ],
+    "am_han": "CAO, CÁO"
+  },
+  "meaning": {
+    "vi": "mỡ, mỡ lợn, hồ dán, thuốc mỡ, thạch cao",
+    "en": "fat, grease, lard, paste, ointment, plaster"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/膏.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2540",
+    "text": "膏 (đọc là \"kō\") có nghĩa là \"mỡ\", \"dầu\" hoặc \"chất béo\", thường chỉ các chất nhờn, mịn màng.  \nVí dụ:  \n- 膏薬 (kōyaku): Thuốc cao, cao dán.  \n- 膏肓 (kōkō): Vùng ruột (chỉ nơi giữ lại tinh khí,"
+  },
+  "comments": [
+    {
+      "id": "220468",
+      "lang": "vi",
+      "content_html": "<p>dùng CAO dán vào MỒM chị NGUYỆT</p>",
+      "content_text": "dùng CAO dán vào MỒM chị NGUYỆT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220469",
+      "lang": "vi",
+      "content_html": "<p>Cao sao vàng này :)))</p>",
+      "content_text": "Cao sao vàng này :)))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

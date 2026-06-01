@@ -1,0 +1,108 @@
+{
+  "kanji": "施",
+  "meta": {
+    "weight": 1203,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ",
+      "セ"
+    ],
+    "kun": [
+      "ほどこ.す"
+    ],
+    "am_han": "THI, THÍ, DỊ, THỈ"
+  },
+  "meaning": {
+    "vi": "cho, ban cho, thực hiện, bố thí",
+    "en": "give, bestow, perform, alms"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/施.svg"
+  },
+  "frequency": 323,
+  "examples": [
+    "施設",
+    "実施",
+    "施行",
+    "施策",
+    "施工"
+  ],
+  "explanation": {
+    "id": "3096",
+    "text": "施 (đọc là \"shi\") có nghĩa là \"thực hiện\", \"thi hành\" để chỉ các hành động liên quan đến việc áp dụng, thực hiện một kế hoạch hoặc chính sách.\n\nVí dụ:\n- 施行 (shikou): Thi hành, thực hiện (luật"
+  },
+  "comments": [
+    {
+      "id": "154160",
+      "lang": "vi",
+      "content_html": "<p>Một người nằm dưới đất thì có phương pháp thi hành tốt</p>",
+      "content_text": "Một người nằm dưới đất thì có phương pháp thi hành tốt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154161",
+      "lang": "vi",
+      "content_html": "<p>Phương方 nằm (nhân nằm) dưới đất ôn Thi</p>",
+      "content_text": "Phương方 nằm (nhân nằm) dưới đất ôn Thi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154162",
+      "lang": "vi",
+      "content_html": "<p>phương pháp thi công nền đất</p>",
+      "content_text": "phương pháp thi công nền đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221639",
+      "lang": "vi",
+      "content_html": "<p>施 (đọc là \"shi\" hoặc \"se\") có nghĩa là \"thi hành\", \"thực hiện\" thường được sử dụng để chỉ các hành động liên quan đến việc thi hành, thực hiện hoặc cung cấp một cái gì đó.</p><p>Ví dụ:</p><ul><li>実施 (jisshi): Thực hiện, thi hành.&nbsp;</li><li>施設 (shisetsu): Cơ sở, trang thiết bị.&nbsp;</li><li>施策 (shisaku): Chính sách, biện pháp.&nbsp;</li><li>施行 (shikou): Thi hành, thực thi.</li></ul>",
+      "content_text": "施 (đọc là \"shi\" hoặc \"se\") có nghĩa là \"thi hành\", \"thực hiện\" thường được sử dụng để chỉ các hành động liên quan đến việc thi hành, thực hiện hoặc cung cấp một cái gì đó.\nVí dụ:\n実施 (jisshi): Thực hiện, thi hành.\n施設 (shisetsu): Cơ sở, trang thiết bị.\n施策 (shisaku): Chính sách, biện pháp.\n施行 (shikou): Thi hành, thực thi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

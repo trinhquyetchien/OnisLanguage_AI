@@ -1,0 +1,93 @@
+{
+  "kanji": "調",
+  "meta": {
+    "weight": 2501,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "しら.べる",
+      "しら.べ",
+      "ととの.う",
+      "ととの.える"
+    ],
+    "am_han": "ĐIỀU, ĐIỆU"
+  },
+  "meaning": {
+    "vi": "điều tra, điều chỉnh",
+    "en": "tune, tone, meter, key (music), writing style, prepare, exorcise, investigate, harmonize, mediate"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/調.svg"
+  },
+  "frequency": 87,
+  "examples": [
+    "調査",
+    "調べ",
+    "調整",
+    "調子",
+    "強調"
+  ],
+  "explanation": {
+    "id": "5392",
+    "text": "調 (đọc là \"chou\" hoặc \"shuu\") có nghĩa là \"điều chỉnh\", \"thăm dò\", \"kiểm tra\" để chỉ các hành động liên quan đến việc điều chỉnh, đánh giá hoặc tìm hiểu thông tin.\n\nVí dụ:\n- 調査 (chousa): Khả"
+  },
+  "comments": [
+    {
+      "id": "37322",
+      "lang": "vi",
+      "content_html": "<p>Họ bảo (言) sẽ <strong>điều tra</strong> xung quanh (周).</p>",
+      "content_text": "Họ bảo (言) sẽ\nđiều tra\nxung quanh (周).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe60251c49.jpg",
+      "image_path": "assets/images/調_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156949",
+      "lang": "vi",
+      "content_html": "<p>Mất một tuần để ĐIỀU tra lời nói của hắn</p>",
+      "content_text": "Mất một tuần để ĐIỀU tra lời nói của hắn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191189",
+      "lang": "vi",
+      "content_html": "<p><strong>điều tra</strong></p>",
+      "content_text": "điều tra",
+      "image_url": "https://jpdictionary.com/upload/images/648ad82af1544.jpg",
+      "image_path": "assets/images/調_3.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

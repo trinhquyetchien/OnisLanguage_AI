@@ -1,0 +1,93 @@
+{
+  "kanji": "属",
+  "meta": {
+    "weight": 781,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゾク",
+      "ショク"
+    ],
+    "kun": [
+      "さかん",
+      "つく",
+      "やから"
+    ],
+    "am_han": "THUỘC, THỤC, CHÚ, CHÚC"
+  },
+  "meaning": {
+    "vi": "thuộc, chi, quan chức cấp dưới, trực thuộc",
+    "en": "belong, genus, subordinate official, affiliated"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/属.svg"
+  },
+  "frequency": 912,
+  "examples": [
+    "所属",
+    "金属",
+    "付属",
+    "属性",
+    "属する"
+  ],
+  "explanation": {
+    "id": "4810",
+    "text": "属 (đọc là \"shuku\") có nghĩa là \"thuộc về\", \"thuộc loại\" để chỉ mối quan hệ hoặc sự thuộc quyền của một cái gì đó. \n\nVí dụ:\n- 属する (shokusuru): Thuộc về, liên quan đến.\n- 所属 (shozoku): Sự thuộ"
+  },
+  "comments": [
+    {
+      "id": "153121",
+      "lang": "vi",
+      "content_html": "<p>Côn trùng hay bao Quanh Xác chết vì nó sống phụ THUỘC</p>",
+      "content_text": "Côn trùng hay bao Quanh Xác chết vì nó sống phụ THUỘC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153122",
+      "lang": "vi",
+      "content_html": "<p>thây ma di chuyển được là phụ THUỘC vào gió(bộ vũ là gió)</p>",
+      "content_text": "thây ma di chuyển được là phụ THUỘC vào gió(bộ vũ là gió)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153123",
+      "lang": "vi",
+      "content_html": "<p>côn trùng phụ THUỘC Vào nhà nó ở</p>",
+      "content_text": "côn trùng phụ THUỘC Vào nhà nó ở",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

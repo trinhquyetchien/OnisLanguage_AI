@@ -1,0 +1,91 @@
+{
+  "kanji": "貼",
+  "meta": {
+    "weight": 2558,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テン",
+      "チョウ"
+    ],
+    "kun": [
+      "は.る",
+      "つ.く"
+    ],
+    "am_han": "THIẾP"
+  },
+  "meaning": {
+    "vi": "dính, dán, áp dụng",
+    "en": "stick, paste, apply"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/貼.svg"
+  },
+  "frequency": 2444,
+  "examples": [
+    "貼る",
+    "貼付",
+    "貼",
+    "貼り紙"
+  ],
+  "explanation": {
+    "id": "5672",
+    "text": "貼 (đọc là \"te\") có nghĩa là \"dán\" hoặc \"gắn\" để chỉ các hành động liên quan đến việc đặt thứ gì đó lên bề mặt khác.  \nVí dụ:  \n- 貼付 (choufu): Dán, gắn.  \n- 貼る (haru): Dán, gắn lên.  \n- 名刺貼 ("
+  },
+  "comments": [
+    {
+      "id": "157088",
+      "lang": "vi",
+      "content_html": "<p>CHIẾM (占) TIỀN (貝) của người khác về DÁN vào mặt thê THIẾP (貼).</p>",
+      "content_text": "CHIẾM (占) TIỀN (貝) của người khác về DÁN vào mặt thê THIẾP (貼).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157089",
+      "lang": "vi",
+      "content_html": "<p>Chiêm (占): xem. Bối (貝): con sò =&#62; cách nhớ: Mấy chàng được xem 占 con sò 貝 của THIẾP nên cứ DÁN mắt vào Thú vị thì like ạ</p>",
+      "content_text": "Chiêm (占): xem. Bối (貝): con sò => cách nhớ: Mấy chàng được xem 占 con sò 貝 của THIẾP nên cứ DÁN mắt vào Thú vị thì like ạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157090",
+      "lang": "vi",
+      "content_html": "<p>Có TIỀN mới CHIẾM được lòng THIẾP</p>",
+      "content_text": "Có TIỀN mới CHIẾM được lòng THIẾP",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

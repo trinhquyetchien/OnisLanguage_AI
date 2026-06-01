@@ -1,0 +1,85 @@
+{
+  "kanji": "迄",
+  "meta": {
+    "weight": 2636,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キツ"
+    ],
+    "kun": [
+      "まで",
+      "およ.ぶ"
+    ],
+    "am_han": "HẤT"
+  },
+  "meaning": {
+    "vi": "cho đến khi, lên đến, chừng nào, trong phạm vi",
+    "en": "until, up to, as far as, to the extent"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/迄.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7441",
+    "text": "迄 (đọc là \"いたる\" - itaru) có nghĩa là \"đến nơi\", \"cho đến\", chỉ việc đạt tới một điểm nào đó trong thời gian hoặc không gian. \n\nVí dụ:\n- 迄今 (itkō): Cho đến nay.\n- 至迄 (shita itaru): Đến tận nơ"
+  },
+  "comments": [
+    {
+      "id": "220838",
+      "lang": "vi",
+      "content_html": "<p>Ất phải Chạy nhanh có bị HẤT cho Nằm luôn :))</p>",
+      "content_text": "Ất phải Chạy nhanh có bị HẤT cho Nằm luôn :))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220839",
+      "lang": "vi",
+      "content_html": "<p>Người ta Hất thằng Ất văng ra đường.</p>",
+      "content_text": "Người ta Hất thằng Ất văng ra đường.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220840",
+      "lang": "vi",
+      "content_html": "<p>Anh và em BÈN BƯỚC ĐI ngang qua người ĂN XIN</p>",
+      "content_text": "Anh và em BÈN BƯỚC ĐI ngang qua người ĂN XIN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

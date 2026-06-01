@@ -1,0 +1,86 @@
+{
+  "kanji": "錆",
+  "meta": {
+    "weight": 2770,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ",
+      "セイ"
+    ],
+    "kun": [
+      "さび",
+      "くわ.しい"
+    ],
+    "am_han": "SANH, THƯƠNG, THANH, XANH"
+  },
+  "meaning": {
+    "vi": "rỉ sét, xỉn màu",
+    "en": "rust, tarnish"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/錆.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2964",
+    "text": "錆 (đọc là \"sabi\" hoặc \"shaku\") có nghĩa là \"gỉ sét\", dùng để chỉ tình trạng kim loại bị ăn mòn bởi oxi hóa.\n\nVí dụ:\n- 錆びる (sabiru): Bị gỉ, bị han rỉ.\n- 錆びた (sabita): Gỉ sét, đã bị gỉ.\n- 錆止め "
+  },
+  "comments": [
+    {
+      "id": "220914",
+      "lang": "vi",
+      "content_html": "<p>Kim loại mà biến thành màu xanh thì đã bị gỉ sét</p>",
+      "content_text": "Kim loại mà biến thành màu xanh thì đã bị gỉ sét",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220915",
+      "lang": "vi",
+      "content_html": "<p>Hán Việt là THƯƠNG (nguồn: Hvdic thivien)</p>",
+      "content_text": "Hán Việt là THƯƠNG (nguồn: Hvdic thivien)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220916",
+      "lang": "vi",
+      "content_html": "<p>Kim loại biến đổi thành màu xanh là dấu hiệu của sự gỉ sét</p>",
+      "content_text": "Kim loại biến đổi thành màu xanh là dấu hiệu của sự gỉ sét",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

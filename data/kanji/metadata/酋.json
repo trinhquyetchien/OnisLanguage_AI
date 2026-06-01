@@ -1,0 +1,87 @@
+{
+  "kanji": "酋",
+  "meta": {
+    "weight": 2711,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ",
+      "ジュ"
+    ],
+    "kun": [
+      "おさ",
+      "ふるざけ",
+      "さけのつかさ"
+    ],
+    "am_han": "TÙ"
+  },
+  "meaning": {
+    "vi": "thủ lĩnh",
+    "en": "chieftain"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/酋.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3531",
+    "text": "酋 (đọc là \"chuu\") có nghĩa là \"thủ lĩnh\" hoặc \"trưởng lạc\" để chỉ người đứng đầu một nhóm hoặc bộ lạc.\n\nVí dụ:\n- 酋長 (chuuchou): Thủ lĩnh, trưởng lạc.\n- 酋歌 (chuuka): Bài hát của thủ lĩnh, thư"
+  },
+  "comments": [
+    {
+      "id": "220872",
+      "lang": "vi",
+      "content_html": "<p>Tù trưởng uống tám bát rượu</p>",
+      "content_text": "Tù trưởng uống tám bát rượu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220873",
+      "lang": "vi",
+      "content_html": "<p>Tù trưởng bắt Tám con Gà.</p>",
+      "content_text": "Tù trưởng bắt Tám con Gà.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220874",
+      "lang": "vi",
+      "content_html": "<p>Thảo là người đi sang Nhật gặp TÙ trưởng</p>",
+      "content_text": "Thảo là người đi sang Nhật gặp TÙ trưởng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "kanji": "匁",
+  "meta": {
+    "weight": 370,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "もんめ",
+      "め"
+    ],
+    "am_han": "CHỈ"
+  },
+  "meaning": {
+    "vi": "monme, 3,75 gam, (kokuji)",
+    "en": "monme, 3.75 grams, (kokuji)"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/匁.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7663",
+    "text": "匁 (đọc là \"monme\") có nghĩa là \"đơn vị đo trọng lượng\", tương đương khoảng 3,75 gram trong hệ thống đo lường cổ của Nhật Bản. \n\nVí dụ:\n- 匁銀 (monme-gin): Bạc tính theo đơn vị monme.\n- 五匁 (go-"
+  },
+  "comments": [
+    {
+      "id": "219012",
+      "lang": "vi",
+      "content_html": "<p>Bao nghệ CHỈ nặng 3,75g</p>",
+      "content_text": "Bao nghệ CHỈ nặng 3,75g",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219013",
+      "lang": "vi",
+      "content_html": "<p>1匁（もんめ）＝10分（ぶん）、1分＝10厘で、1匁＝3.75gですから</p>",
+      "content_text": "1匁（もんめ）＝10分（ぶん）、1分＝10厘で、1匁＝3.75gですから",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219014",
+      "lang": "vi",
+      "content_html": "<p>chỉ 1 cái túi bọc chữ X nặng 3,75 gam</p>",
+      "content_text": "chỉ 1 cái túi bọc chữ X nặng 3,75 gam",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "摘",
+  "meta": {
+    "weight": 1145,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テキ"
+    ],
+    "kun": [
+      "つ.む"
+    ],
+    "am_han": "TRÍCH"
+  },
+  "meaning": {
+    "vi": "kẹp, nhặt, nhổ, cắt, tóm tắt",
+    "en": "pinch, pick, pluck, trim, clip, summarize"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/摘.svg"
+  },
+  "frequency": 564,
+  "examples": [
+    "指摘",
+    "摘発",
+    "摘出",
+    "摘み",
+    "摘む"
+  ],
+  "explanation": {
+    "id": "5614",
+    "text": "摘 (đọc là \"taku\") có nghĩa là \"thu hoạch\", \"nhặt\" hoặc \"trích dẫn\", chỉ các hành động liên quan đến việc lấy hoặc chọn lựa.  \nVí dụ:  \n- 摘む (tsumu): Nhặt, hái.  \n- 摘発 (tekihatsu): Phát hiện,"
+  },
+  "comments": [
+    {
+      "id": "154026",
+      "lang": "vi",
+      "content_html": "<p>Tay nắm chặt bình rượu cũ nên bị chỉ trích</p>",
+      "content_text": "Tay nắm chặt bình rượu cũ nên bị chỉ trích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154027",
+      "lang": "vi",
+      "content_html": "<p>Tự TAY TRÍCH đi những quan niệm CŨ bao bọc trong tâm trí để LẬP ra cái mới</p>",
+      "content_text": "Tự TAY TRÍCH đi những quan niệm CŨ bao bọc trong tâm trí để LẬP ra cái mới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154028",
+      "lang": "vi",
+      "content_html": "<p>Đưa tay hái trích đi những vị trí cổ cũ trong khuôn khổ</p>",
+      "content_text": "Đưa tay hái trích đi những vị trí cổ cũ trong khuôn khổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

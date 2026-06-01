@@ -1,0 +1,88 @@
+{
+  "kanji": "閣",
+  "meta": {
+    "weight": 2809,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク"
+    ],
+    "kun": [],
+    "am_han": "CÁC"
+  },
+  "meaning": {
+    "vi": "tháp, tòa nhà cao tầng, cung điện",
+    "en": "tower, tall building, palace"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/閣.svg"
+  },
+  "frequency": 444,
+  "examples": [
+    "内閣",
+    "閣僚",
+    "閣議",
+    "閣下",
+    "仏閣"
+  ],
+  "explanation": {
+    "id": "931",
+    "text": "閣 (đọc là \"kaku\") có nghĩa là \"gác\", \"nhà\" để chỉ các công trình kiến trúc, thường liên quan đến hành chính hoặc nghệ thuật. \n\nVí dụ:\n- 閣僚 (kakuryō): Bộ trưởng, thành viên nội các.\n- 大閣 (dai"
+  },
+  "comments": [
+    {
+      "id": "157641",
+      "lang": "vi",
+      "content_html": "<p>Các vị quan khách đang đứng ngoài cổng</p>",
+      "content_text": "Các vị quan khách đang đứng ngoài cổng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157642",
+      "lang": "vi",
+      "content_html": "<p>Các thành viên nội CÁC đang ở cổng</p>",
+      "content_text": "Các thành viên nội CÁC đang ở cổng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157643",
+      "lang": "vi",
+      "content_html": "<p>CÁC vị quan làm trong cửa nội các</p>",
+      "content_text": "CÁC vị quan làm trong cửa nội các",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

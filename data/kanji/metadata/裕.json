@@ -1,0 +1,86 @@
+{
+  "kanji": "裕",
+  "meta": {
+    "weight": 2423,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ"
+    ],
+    "kun": [],
+    "am_han": "DỤ"
+  },
+  "meaning": {
+    "vi": "dồi dào, giàu có, màu mỡ",
+    "en": "abundant, rich, fertile"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/裕.svg"
+  },
+  "frequency": 1048,
+  "examples": [
+    "余裕",
+    "裕福",
+    "富裕"
+  ],
+  "explanation": {
+    "id": "7784",
+    "text": "裕 (đọc là \"yuu\") có nghĩa là \"dồi dào\", \"phong phú\", thường chỉ sự giàu có hoặc thịnh vượng. \n\nVí dụ:\n- 裕福 (yuufuku): Giàu có, phong phú.\n- 裕養 (yuuyou): Nuôi dưỡng đảm bảo, phát triển đầy đủ"
+  },
+  "comments": [
+    {
+      "id": "156751",
+      "lang": "vi",
+      "content_html": "<p>Mặc đồ đẹp đi Dụ dỗ gái ở tuyệt tình cốc.</p>",
+      "content_text": "Mặc đồ đẹp đi Dụ dỗ gái ở tuyệt tình cốc.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156753",
+      "lang": "vi",
+      "content_html": "<p>Thắp nến ở cốc lấy của cải để trở nên giàu có phú DỤ</p>",
+      "content_text": "Thắp nến ở cốc lấy của cải để trở nên giàu có phú DỤ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156752",
+      "lang": "vi",
+      "content_html": "<p>Quần áo + thung lũng -&#62; Ngày xưa người ta di chuyển xuống thung lũng thì mới phát triển, có quần áo mặc -&#62; giàu có</p>",
+      "content_text": "Quần áo + thung lũng -> Ngày xưa người ta di chuyển xuống thung lũng thì mới phát triển, có quần áo mặc -> giàu có",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

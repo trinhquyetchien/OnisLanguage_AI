@@ -1,0 +1,73 @@
+{
+  "kanji": "弓",
+  "meta": {
+    "weight": 893,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "ゆみ"
+    ],
+    "am_han": "CUNG"
+  },
+  "meaning": {
+    "vi": "cung, cung (bắn cung, vĩ cầm)",
+    "en": "bow, bow (archery, violin)"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/弓.svg"
+  },
+  "frequency": 1802,
+  "examples": [
+    "弓",
+    "真弓",
+    "弓道",
+    "弓矢",
+    "胡弓"
+  ],
+  "explanation": {
+    "id": "1518",
+    "text": "弓 (đọc là \"kyū\") có nghĩa là \"cung\", chỉ loại vũ khí dùng để bắn tên hoặc các hành động liên quan đến việc sử dụng cung tên.  \nVí dụ:  \n- 弓道 (kyūdō): Đường cung, nghệ thuật bắn cung.  \n- 弓兵 "
+  },
+  "comments": [
+    {
+      "id": "664",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của một cây <strong>cung</strong>.</p>",
+      "content_text": "Hình dạng của một cây\ncung\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62982f9c0fcbb.jpg",
+      "image_path": "assets/images/弓_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153385",
+      "lang": "vi",
+      "content_html": "<p>tưởng tượng ra hình cái cung</p>",
+      "content_text": "tưởng tượng ra hình cái cung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

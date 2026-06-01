@@ -1,0 +1,90 @@
+{
+  "kanji": "密",
+  "meta": {
+    "weight": 736,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ミツ"
+    ],
+    "kun": [
+      "ひそ.か"
+    ],
+    "am_han": "MẬT"
+  },
+  "meaning": {
+    "vi": "bí mật, mật độ (pop), nhỏ nhặt, cẩn thận",
+    "en": "secrecy, density (pop), minuteness, carefulness"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/密.svg"
+  },
+  "frequency": 815,
+  "examples": [
+    "秘密",
+    "厳密",
+    "密接",
+    "密度",
+    "機密"
+  ],
+  "explanation": {
+    "id": "7485",
+    "text": "密 (đọc là \"mitsu\") có nghĩa là \"bí mật\", \"dày đặc\" để chỉ các khái niệm liên quan đến tính bí ẩn hoặc sự dày đặc.\n\nVí dụ:\n- 密室 (misshitsu): Phòng kín, nơi không bị nhìn thấy.\n- 密接 (missetsu)"
+  },
+  "comments": [
+    {
+      "id": "152998",
+      "lang": "vi",
+      "content_html": "<p>trong núi thì tất yếu là bí mật</p>",
+      "content_text": "trong núi thì tất yếu là bí mật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152999",
+      "lang": "vi",
+      "content_html": "<p>Bí MẬT trong Nhà được Che Dấu trên Núi</p>",
+      "content_text": "Bí MẬT trong Nhà được Che Dấu trên Núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153000",
+      "lang": "vi",
+      "content_html": "<p>Trên NÚI TẤT yếu có mái NHÀ MẬT</p>",
+      "content_text": "Trên NÚI TẤT yếu có mái NHÀ MẬT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

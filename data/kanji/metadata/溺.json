@@ -1,0 +1,104 @@
+{
+  "kanji": "溺",
+  "meta": {
+    "weight": 1597,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "デキ",
+      "ジョウ",
+      "ニョウ"
+    ],
+    "kun": [
+      "いばり",
+      "おぼ.れる"
+    ],
+    "am_han": "NỊCH, NIỆU"
+  },
+  "meaning": {
+    "vi": "chết đuối, thưởng thức",
+    "en": "drown, indulge"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/溺.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5629",
+    "text": "溺 (đọc là \"deki\" hoặc \"naku\") có nghĩa là \"chìm\", \"ngộp\" để chỉ các hành động liên quan đến việc bị đuối nước hoặc tình trạng không thể thở do nước.  \nVí dụ:  \n- 溺れる (oboreru): Chìm, ngập nư"
+  },
+  "comments": [
+    {
+      "id": "219963",
+      "lang": "vi",
+      "content_html": "<p>YẾU mà còn xuống NƯỚC thì chết đuối là chắc.</p>",
+      "content_text": "YẾU mà còn xuống NƯỚC thì chết đuối là chắc.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219964",
+      "lang": "vi",
+      "content_html": "<p>yếu mà xuống nước thì chắc nịch là chết đuối</p>",
+      "content_text": "yếu mà xuống nước thì chắc nịch là chết đuối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "191253",
+      "lang": "vi",
+      "content_html": "<p>溺れた人を助けます</p>",
+      "content_text": "溺れた人を助けます",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "992",
+        "name": "A An",
+        "image_url": "https://jpdictionary.com/upload/images/642763034b8aa.png"
+      }
+    },
+    {
+      "id": "219965",
+      "lang": "vi",
+      "content_html": "<p>chắc NỊCH là nước yếu nhưng vẫn bị Chìm</p>",
+      "content_text": "chắc NỊCH là nước yếu nhưng vẫn bị Chìm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "浪",
+  "meta": {
+    "weight": 1541,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロウ"
+    ],
+    "kun": [],
+    "am_han": "LÃNG, LANG"
+  },
+  "meaning": {
+    "vi": "lang thang, sóng, cuồn cuộn, liều lĩnh, không kiềm chế",
+    "en": "wandering, waves, billows, reckless, unrestrained"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/浪.svg"
+  },
+  "frequency": 1508,
+  "examples": [
+    "浪費",
+    "浪",
+    "放浪",
+    "浪人",
+    "浮浪"
+  ],
+  "explanation": {
+    "id": "8335",
+    "text": "浪 (đọc là \"rō\") có nghĩa là \"sóng\", thường chỉ về sóng nước, hoặc sự chuyển động giống như sóng.\n\nVí dụ:\n- 波浪 (harō): Sóng lớn, sóng dữ.\n- 浪費 (rōhi): Lãng phí, tiêu xài hoang phí.\n- 浪人 (rōni"
+  },
+  "comments": [
+    {
+      "id": "154905",
+      "lang": "vi",
+      "content_html": "<p>Người có LƯƠNG tâm thì không LÃNG Phí NƯỚC</p>",
+      "content_text": "Người có LƯƠNG tâm thì không LÃNG Phí NƯỚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154907",
+      "lang": "vi",
+      "content_html": "<p>Lãng mạn tốt đến mức chảy nước &#62;&#60;</p>",
+      "content_text": "Lãng mạn tốt đến mức chảy nước ><",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154906",
+      "lang": "vi",
+      "content_html": "<p>Kẻ lương thiện đi lang thang chảy cả mồ hôi</p>",
+      "content_text": "Kẻ lương thiện đi lang thang chảy cả mồ hôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

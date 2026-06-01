@@ -1,0 +1,88 @@
+{
+  "kanji": "唆",
+  "meta": {
+    "weight": 491,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サ"
+    ],
+    "kun": [
+      "そそ.る",
+      "そそのか.す"
+    ],
+    "am_han": "TOA"
+  },
+  "meaning": {
+    "vi": "cám dỗ, dụ dỗ, xúi giục, thúc đẩy",
+    "en": "tempt, seduce, instigate, promote"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/唆.svg"
+  },
+  "frequency": 1278,
+  "examples": [
+    "示唆",
+    "教唆"
+  ],
+  "explanation": {
+    "id": "2733",
+    "text": "唆 (đọc là \"sasa\" hoặc \"so\") có nghĩa là \"kích thích\", \"xúi giục\", thường chỉ hành động thúc đẩy hoặc khuyến khích ai đó làm điều gì đó.  \nVí dụ:  \n- 唆す (sasu): Xúi giục, khuyến khích.  \n- 唆い"
+  },
+  "comments": [
+    {
+      "id": "152415",
+      "lang": "vi",
+      "content_html": "<p>Ô Tư đi lại TOA TOA cái Mồm</p>",
+      "content_text": "Ô Tư đi lại TOA TOA cái Mồm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152416",
+      "lang": "vi",
+      "content_html": "<p>Có mồm xúi giục tay tác động chân người khác đi lung tung</p>",
+      "content_text": "Có mồm xúi giục tay tác động chân người khác đi lung tung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152417",
+      "lang": "vi",
+      "content_html": "<p>ông tư đến sau cứ toa toa cái mồm dụ dỗ sai khiến người khác</p>",
+      "content_text": "ông tư đến sau cứ toa toa cái mồm dụ dỗ sai khiến người khác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

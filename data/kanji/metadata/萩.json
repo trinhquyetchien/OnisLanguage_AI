@@ -1,0 +1,53 @@
+{
+  "kanji": "萩",
+  "meta": {
+    "weight": 2304,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "はぎ"
+    ],
+    "am_han": "THU, THO, THƯU"
+  },
+  "meaning": {
+    "vi": "cỏ ba lá",
+    "en": "bush clover"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/萩.svg"
+  },
+  "frequency": 1544,
+  "examples": [
+    "萩原",
+    "萩"
+  ],
+  "explanation": {
+    "id": "6312",
+    "text": "萩 (đọc là \"hagi\") có nghĩa là \"hoa hagi\", một loại cây bụi thường thấy ở Nhật Bản, biểu tượng của mùa thu. \n\nVí dụ:\n- 萩の花 (hagi no hana): Hoa hagi.\n- 萩原 (Hagiwara): Tên một địa danh hoặc họ "
+  },
+  "comments": [
+    {
+      "id": "156555",
+      "lang": "vi",
+      "content_html": "<p>Mùa THU thì CỎ và LÚA đổi màu giống LỬA</p>",
+      "content_text": "Mùa THU thì CỎ và LÚA đổi màu giống LỬA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

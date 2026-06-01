@@ -1,0 +1,97 @@
+{
+  "kanji": "散",
+  "meta": {
+    "weight": 1177,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン"
+    ],
+    "kun": [
+      "ち.る",
+      "ち.らす",
+      "-ち.らす",
+      "ち.らかす",
+      "ち.らかる",
+      "ち.らばる",
+      "ばら",
+      "ばら.ける"
+    ],
+    "am_han": "TÁN, TẢN"
+  },
+  "meaning": {
+    "vi": "phân tán",
+    "en": "scatter, disperse, spend, squander"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/散.svg"
+  },
+  "frequency": 758,
+  "examples": [
+    "散歩",
+    "解散",
+    "分散",
+    "散策",
+    "拡散"
+  ],
+  "explanation": {
+    "id": "2993",
+    "text": "散 (đọc là \"san\") có nghĩa là \"rải rác\", \"tản mát\", để chỉ việc phân tán hoặc không tập trung một cách đồng nhất.  \nVí dụ:  \n- 散歩 (sanpo): Đi dạo, đi bộ.  \n- 散らす (chirasu): Rải, làm tán loạn."
+  },
+  "comments": [
+    {
+      "id": "154098",
+      "lang": "vi",
+      "content_html": "<p>Đêm TRĂNG PHỘC nhau trong bãi CỎ chạy TÁN loạn</p>",
+      "content_text": "Đêm TRĂNG PHỘC nhau trong bãi CỎ chạy TÁN loạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154099",
+      "lang": "vi",
+      "content_html": "<p>PHân TÁN dọn dẹp CỎ trong đêm TRĂNG</p>",
+      "content_text": "PHân TÁN dọn dẹp CỎ trong đêm TRĂNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154100",
+      "lang": "vi",
+      "content_html": "<p>Thấy đánh nhau trong một đêm trăng thì nên giải tán ( tản ra)</p>",
+      "content_text": "Thấy đánh nhau trong một đêm trăng thì nên giải tán ( tản ra)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

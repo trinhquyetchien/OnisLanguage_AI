@@ -1,0 +1,53 @@
+{
+  "kanji": "怜",
+  "meta": {
+    "weight": 952,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ",
+      "レン",
+      "リョウ"
+    ],
+    "kun": [
+      "あわ.れむ",
+      "さと.い"
+    ],
+    "am_han": "LIÊN, LÂN, LINH, LANH, LỆNH"
+  },
+  "meaning": {
+    "vi": "khôn ngoan",
+    "en": "wise"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/怜.svg"
+  },
+  "frequency": 2450,
+  "examples": [],
+  "explanation": {
+    "id": "8221",
+    "text": "怜 (đọc là \"rei\" hoặc \"saka\") có nghĩa là \"thương xót\", \"động lòng\" để chỉ cảm xúc cảm thông, trắc ẩn đối với người khác.\n\nVí dụ:\n- 怜悧 (reiri): Thông minh, sắc sảo.\n- 怜愛 (reiai): Tình yêu thư"
+  },
+  "comments": [
+    {
+      "id": "153544",
+      "lang": "vi",
+      "content_html": "<p>mối LIÊN hệ giữa thâm TÂM và MỆNH lệnh là sự thương tiếc</p>",
+      "content_text": "mối LIÊN hệ giữa thâm TÂM và MỆNH lệnh là sự thương tiếc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

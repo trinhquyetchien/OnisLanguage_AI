@@ -1,0 +1,88 @@
+{
+  "kanji": "銘",
+  "meta": {
+    "weight": 2759,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "メイ"
+    ],
+    "kun": [],
+    "am_han": "MINH"
+  },
+  "meaning": {
+    "vi": "chữ khắc, chữ ký (của nghệ nhân)",
+    "en": "inscription, signature (of artisan)"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/銘.svg"
+  },
+  "frequency": 1394,
+  "examples": [
+    "銘柄",
+    "感銘",
+    "銘",
+    "正真正銘",
+    "座右の銘"
+  ],
+  "explanation": {
+    "id": "7559",
+    "text": "銘 (đọc là \"mei\") có nghĩa là \"khắc chữ\", thường chỉ việc khắc lên đồ vật để ghi nhớ hoặc đánh dấu, hay nói về danh tiếng, tên tuổi của một người hoặc sự vật.\n\nVí dụ:\n- 銘文 (meibun): Văn khắc,"
+  },
+  "comments": [
+    {
+      "id": "157561",
+      "lang": "vi",
+      "content_html": "<p>mấy chú làm dặn quá :::: đồng tiền + có khắc tên HỒ CHÍ MINH /</p>",
+      "content_text": "mấy chú làm dặn quá :::: đồng tiền + có khắc tên HỒ CHÍ MINH /",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157562",
+      "lang": "vi",
+      "content_html": "<p>Khắc tên bảng vàng không quên đời đời</p>",
+      "content_text": "Khắc tên bảng vàng không quên đời đời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157563",
+      "lang": "vi",
+      "content_html": "<p>Có tiền có danh ắt sẽ văn MINH</p>",
+      "content_text": "Có tiền có danh ắt sẽ văn MINH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

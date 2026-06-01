@@ -1,0 +1,54 @@
+{
+  "kanji": "鱒",
+  "meta": {
+    "weight": 2992,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソン",
+      "セン",
+      "ザン"
+    ],
+    "kun": [
+      "ます"
+    ],
+    "am_han": "TỖN"
+  },
+  "meaning": {
+    "vi": "cá hồi",
+    "en": "salmon trout"
+  },
+  "stroke": {
+    "count": 23,
+    "svg": "assets/svg/鱒.svg"
+  },
+  "frequency": 2482,
+  "examples": [
+    "鱒"
+  ],
+  "explanation": {
+    "id": "7419",
+    "text": "鱒 (đọc là \"masu\") có nghĩa là \"cá hồi\", thường được dùng để chỉ một loại cá sống ở nước ngọt. \n\nVí dụ:\n- 鱒寿司 (masuzushi): Sushi cá hồi.\n- 鱒釣り (masu tsuri): Câu cá hồi.\n- 鱒の塩焼き (masu no shioy"
+  },
+  "comments": [
+    {
+      "id": "158053",
+      "lang": "vi",
+      "content_html": "<p>Cá hồi thường được ăn chung ( gắn với) với rượu</p>",
+      "content_text": "Cá hồi thường được ăn chung ( gắn với) với rượu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

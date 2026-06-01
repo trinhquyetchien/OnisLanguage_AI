@@ -1,0 +1,90 @@
+{
+  "kanji": "沼",
+  "meta": {
+    "weight": 1511,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "ぬま"
+    ],
+    "am_han": "CHIỂU"
+  },
+  "meaning": {
+    "vi": "đầm lầy, hồ, ao",
+    "en": "marsh, lake, bog, swamp, pond"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/沼.svg"
+  },
+  "frequency": 1467,
+  "examples": [
+    "沼",
+    "泥沼",
+    "沼田",
+    "沼地",
+    "湖沼"
+  ],
+  "explanation": {
+    "id": "3849",
+    "text": "沼 (đọc là \"numa\") có nghĩa là \"đầm lầy\" hoặc \"ao\", chỉ một vùng nước đọng thường có thực vật thủy sinh phát triển.  \nVí dụ:  \n- 沼地 (numachi): Đầm lầy, đất ao.  \n- 沼魚 (numagyo): Cá sống trong"
+  },
+  "comments": [
+    {
+      "id": "154817",
+      "lang": "vi",
+      "content_html": "<p>Ao đầm có hàng Triệu giọt nước</p>",
+      "content_text": "Ao đầm có hàng Triệu giọt nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154818",
+      "lang": "vi",
+      "content_html": "<p>hàng TRIỆU giọt NƯỚC sẽ tạo thành cái AO</p>",
+      "content_text": "hàng TRIỆU giọt NƯỚC sẽ tạo thành cái AO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154819",
+      "lang": "vi",
+      "content_html": "<p>TRIỆU 召 tập Nguyễn Đình CHIỂU lội xuống NƯỚC氵 đào ao.</p>",
+      "content_text": "TRIỆU 召 tập Nguyễn Đình CHIỂU lội xuống NƯỚC氵 đào ao.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "kanji": "丁",
+  "meta": {
+    "weight": 72,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ",
+      "テイ",
+      "チン",
+      "トウ",
+      "チ"
+    ],
+    "kun": [
+      "ひのと"
+    ],
+    "am_han": "ĐINH, CHÊNH"
+  },
+  "meaning": {
+    "vi": "phố, phường, thị trấn, quầy bán súng, dụng cụ, lá hoặc bánh của một thứ gì đó, số chẵn, ký hiệu lịch thứ 4",
+    "en": "street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sign"
+  },
+  "stroke": {
+    "count": 2,
+    "svg": "assets/svg/丁.svg"
+  },
+  "frequency": 1312,
+  "examples": [
+    "丁寧",
+    "丁目",
+    "丁度",
+    "包丁",
+    "丁"
+  ],
+  "explanation": {
+    "id": "5322",
+    "text": "丁 (đọc là \"tei\" hoặc \"ching\") có nghĩa là \"đinh\", thường chỉ các khái niệm liên quan đến đơn vị, phần tử, hoặc vật liệu. \n\nVí dụ:\n- 丁寧 (teinei): Lịch sự, tinh tế.\n- 丁目 (chome): Đoạn đường (đ"
+  },
+  "comments": [
+    {
+      "id": "151384",
+      "lang": "vi",
+      "content_html": "<p>nhất quyết đóng đinh</p>",
+      "content_text": "nhất quyết đóng đinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151385",
+      "lang": "vi",
+      "content_html": "<p>Đinh Nhất Quyết phải được đóng lúc Can thứ Tư.</p>",
+      "content_text": "Đinh Nhất Quyết phải được đóng lúc Can thứ Tư.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151386",
+      "lang": "vi",
+      "content_html": "<p>Can thứ tư</p>",
+      "content_text": "Can thứ tư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "唱",
+  "meta": {
+    "weight": 496,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "とな.える"
+    ],
+    "am_han": "XƯỚNG"
+  },
+  "meaning": {
+    "vi": "tụng kinh, đọc thuộc lòng, kêu gọi, la hét",
+    "en": "chant, recite, call upon, yell"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/唱.svg"
+  },
+  "frequency": 1123,
+  "examples": [
+    "合唱",
+    "提唱",
+    "唱える",
+    "歌唱",
+    "斉唱"
+  ],
+  "explanation": {
+    "id": "3766",
+    "text": "唱 (đọc là \"shou\") có nghĩa là \"hát\" hoặc \"ca hát\", chỉ các hành động liên quan đến việc thể hiện âm nhạc bằng giọng hát.\n\nVí dụ:\n- 唱歌 (shouka): Hát, ca hát.\n- 合唱 (gasshou): Hợp xướng, cùng h"
+  },
+  "comments": [
+    {
+      "id": "152427",
+      "lang": "vi",
+      "content_html": "<p>Ngày qua Ngày hợp XƯỚNG luyện thanh cùng nhau</p>",
+      "content_text": "Ngày qua Ngày hợp XƯỚNG luyện thanh cùng nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152428",
+      "lang": "vi",
+      "content_html": "<p>XƯỚNG ca là cái nghề dùng MIỆNG (khẩu) hát NGÀY (nhật) qua NGÀY(nhật)</p>",
+      "content_text": "XƯỚNG ca là cái nghề dùng MIỆNG (khẩu) hát NGÀY (nhật) qua NGÀY(nhật)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152429",
+      "lang": "vi",
+      "content_html": "<p>tôi XƯỚNG NGÀY TRƯỚC, NGÀY SAU bạn nhìn MIỆNG tôi rồi CA theo.</p>",
+      "content_text": "tôi XƯỚNG NGÀY TRƯỚC, NGÀY SAU bạn nhìn MIỆNG tôi rồi CA theo.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

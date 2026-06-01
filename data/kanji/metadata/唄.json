@@ -1,0 +1,88 @@
+{
+  "kanji": "唄",
+  "meta": {
+    "weight": 490,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バイ"
+    ],
+    "kun": [
+      "うた",
+      "うた.う"
+    ],
+    "am_han": "BÁI"
+  },
+  "meaning": {
+    "vi": "bài hát, bản ballad",
+    "en": "song, ballad"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/唄.svg"
+  },
+  "frequency": 2051,
+  "examples": [
+    "唄",
+    "唄う"
+  ],
+  "explanation": {
+    "id": "322",
+    "text": "唄 (đọc là \"baito\") có nghĩa là \"bài hát\", thường chỉ những bài hát dân gian hoặc ca khúc đơn giản. \n\nVí dụ:\n- 唄う (utau): Hát, ngân nga.\n- 民謡唄 (min'yōbai): Bài hát dân gian.\n- 唄い手 (uita): Ca "
+  },
+  "comments": [
+    {
+      "id": "152412",
+      "lang": "vi",
+      "content_html": "<p>Bái phục tiếng hát của người bán sò</p>",
+      "content_text": "Bái phục tiếng hát của người bán sò",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152413",
+      "lang": "vi",
+      "content_html": "<p>mở MIỆNG hát nghêu NGAO</p>",
+      "content_text": "mở MIỆNG hát nghêu NGAO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152414",
+      "lang": "vi",
+      "content_html": "<p>Con ngao mở miệng ra hát</p>",
+      "content_text": "Con ngao mở miệng ra hát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "祭",
+  "meta": {
+    "weight": 1910,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "まつ.る",
+      "まつ.り",
+      "まつり"
+    ],
+    "am_han": "TẾ"
+  },
+  "meaning": {
+    "vi": "lễ hội",
+    "en": "ritual, offer prayers, celebrate, deify, enshrine, worship"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/祭.svg"
+  },
+  "frequency": 1124,
+  "examples": [
+    "祭",
+    "祭り",
+    "お祭り",
+    "司祭",
+    "祭典"
+  ],
+  "explanation": {
+    "id": "2821",
+    "text": "祭 (đọc là \"sai\") có nghĩa là \"lễ hội\", \"cúng tế\" để chỉ các hoạt động liên quan đến sự tôn vinh và cúng bái.\n\nVí dụ:\n- 祭り (matsuri): Lễ hội.\n- 祭壇 (saidan): Bàn thờ, lễ đài.\n- 祝祭 (shukusai): "
+  },
+  "comments": [
+    {
+      "id": "37121",
+      "lang": "vi",
+      "content_html": "<p>Vào ngày <strong>lễ</strong>, thịt được dâng lên bàn thờ.</p>",
+      "content_text": "Vào ngày\nlễ\n, thịt được dâng lên bàn thờ.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb49b1c094.jpg",
+      "image_path": "assets/images/祭_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155706",
+      "lang": "vi",
+      "content_html": "<p>nghi lễ TẾ MA(マ) được chỉ THỊ vào chiều TỐI</p>",
+      "content_text": "nghi lễ TẾ MA(マ) được chỉ THỊ vào chiều TỐI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191143",
+      "lang": "vi",
+      "content_html": "<p><strong>lễ hội</strong></p>",
+      "content_text": "lễ hội",
+      "image_url": "https://jpdictionary.com/upload/images/648ac8e567693.jpg",
+      "image_path": "assets/images/祭_3.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

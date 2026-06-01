@@ -1,0 +1,51 @@
+{
+  "kanji": "恢",
+  "meta": {
+    "weight": 964,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ",
+      "ケ"
+    ],
+    "kun": [
+      "ひろ.い"
+    ],
+    "am_han": "KHÔI"
+  },
+  "meaning": {
+    "vi": "rộng, lớn, phóng to",
+    "en": "wide, large, enlarge"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/恢.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "768",
+    "text": "恢 (đọc là \"kai\") có nghĩa là \"phục hồi\", \"khôi phục\", thể hiện ý nghĩa trở lại trạng thái ban đầu hoặc làm cho một cái gì đó trở nên tốt hơn.  \nVí dụ:  \n- 恢復 (kaifuku): Phục hồi, khôi phục. "
+  },
+  "comments": [
+    {
+      "id": "219499",
+      "lang": "vi",
+      "content_html": "<p>Tam can dựng đứng khi đốt tro hôi vẫn KHÔI phục lại đc</p>",
+      "content_text": "Tam can dựng đứng khi đốt tro hôi vẫn KHÔI phục lại đc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "kanji": "昏",
+  "meta": {
+    "weight": 1222,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン"
+    ],
+    "kun": [
+      "くら.い",
+      "くれ"
+    ],
+    "am_han": "HÔN"
+  },
+  "meaning": {
+    "vi": "tối, hoàng hôn",
+    "en": "dark, evening, dusk"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/昏.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2698",
+    "text": "昏 (đọc là \"kon\") có nghĩa là \"tối\", \"mờ tối\", thường chỉ về thời gian chiều muộn hoặc nơi tối tăm.  \nVí dụ:  \n- 昏睡 (konsui): Hôn mê, trạng thái ngủ sâu.  \n- 昏暗 (konan): Tối tăm, u ám.  \n- 昏れ"
+  },
+  "comments": [
+    {
+      "id": "219732",
+      "lang": "vi",
+      "content_html": "<p>Thị Hôn thằng Nhật</p>",
+      "content_text": "Thị Hôn thằng Nhật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219733",
+      "lang": "vi",
+      "content_html": "<p>Hôn (chạng vạng tối - hoàng hôn): Mặt trời ở dưới gia tộc; hình ảnh này cho ta thấy ánh hào quang của dòng tộc này đã vào lúc xế bóng. Giống như là một ngày đã kết thúc và hoàng hôn bắt đầu.</p>",
+      "content_text": "Hôn (chạng vạng tối - hoàng hôn): Mặt trời ở dưới gia tộc; hình ảnh này cho ta thấy ánh hào quang của dòng tộc này đã vào lúc xế bóng. Giống như là một ngày đã kết thúc và hoàng hôn bắt đầu.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219734",
+      "lang": "vi",
+      "content_html": "<p>khi Thị ở trên HÔN Nhật thì mắt trở nên tối mờ hẳn</p>",
+      "content_text": "khi Thị ở trên HÔN Nhật thì mắt trở nên tối mờ hẳn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

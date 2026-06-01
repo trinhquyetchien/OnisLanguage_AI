@@ -1,0 +1,86 @@
+{
+  "kanji": "昌",
+  "meta": {
+    "weight": 1220,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "さかん"
+    ],
+    "am_han": "XƯƠNG"
+  },
+  "meaning": {
+    "vi": "thịnh vượng, tươi sáng, rõ ràng",
+    "en": "prosperous, bright, clear"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/昌.svg"
+  },
+  "frequency": 1372,
+  "examples": [
+    "昌平"
+  ],
+  "explanation": {
+    "id": "3828",
+    "text": "昌 (đọc là \"shou\" hoặc \"masa\") có nghĩa là \"thịnh vượng\", \"hưng thịnh\", thường chỉ sự phát triển tốt đẹp hoặc thời kỳ phát triển.  \nVí dụ:  \n- 昌盛 (shousei): Hưng thịnh, phồn vinh.  \n- 昭昌 (sho"
+  },
+  "comments": [
+    {
+      "id": "154204",
+      "lang": "vi",
+      "content_html": "<p>Ngày qua ngày cuộc sống vẫn thịnh vượng XƯƠNG xương</p>",
+      "content_text": "Ngày qua ngày cuộc sống vẫn thịnh vượng XƯƠNG xương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154205",
+      "lang": "vi",
+      "content_html": "<p>hai mặt trời thì xương tôi tan chảy</p>",
+      "content_text": "hai mặt trời thì xương tôi tan chảy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154206",
+      "lang": "vi",
+      "content_html": "<p>Xương xương Ngày qua ngày cuộc sống vẫn thịnh vượng.</p>",
+      "content_text": "Xương xương Ngày qua ngày cuộc sống vẫn thịnh vượng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

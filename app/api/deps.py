@@ -10,6 +10,7 @@ from app.db.models import User
 from app.services.auth_service import auth_service
 
 security = HTTPBearer()
+optional_security = HTTPBearer(auto_error=False)
 
 def get_db() -> Generator:
     db = SessionLocal()
@@ -44,7 +45,7 @@ async def get_current_user(
 
 async def get_optional_user(
     db: Session = Depends(get_db),
-    token: Optional[HTTPAuthorizationCredentials] = Depends(security)
+    token: Optional[HTTPAuthorizationCredentials] = Depends(optional_security)
 ) -> Optional[User]:
     if not token:
         return None

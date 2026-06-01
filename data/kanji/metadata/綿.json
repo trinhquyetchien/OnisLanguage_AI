@@ -1,0 +1,107 @@
+{
+  "kanji": "綿",
+  "meta": {
+    "weight": 2092,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "メン"
+    ],
+    "kun": [
+      "わた"
+    ],
+    "am_han": "MIÊN"
+  },
+  "meaning": {
+    "vi": "bông",
+    "en": "cotton"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/綿.svg"
+  },
+  "frequency": 1495,
+  "examples": [
+    "綿",
+    "石綿",
+    "綿密",
+    "木綿",
+    "連綿"
+  ],
+  "explanation": {
+    "id": "7577",
+    "text": "綿 (đọc là \"men\") có nghĩa là \"bông\", chỉ các loại sợi bông hoặc liên quan đến vải dệt từ bông. \n\nVí dụ:\n- 綿菓子 (wata-gashi): Kẹo bông.\n- 綿入れ (men-ire): Áo lót bông, chăn bông.\n- 綿密 (menmitsu)"
+  },
+  "comments": [
+    {
+      "id": "156088",
+      "lang": "vi",
+      "content_html": "<p>Miếng vải có sợi chỉ trắng dài MIÊN man.</p>",
+      "content_text": "Miếng vải có sợi chỉ trắng dài MIÊN man.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190759",
+      "lang": "vi",
+      "content_html": "<p>sợi dây màu trắng của khăn làm từ bông Miên</p>",
+      "content_text": "sợi dây màu trắng của khăn làm từ bông Miên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156089",
+      "lang": "vi",
+      "content_html": "<p>Quả BÔNG kéo thành sợi dài MIÊN MAN roi dệt thành cái khăn mầu trắng</p>",
+      "content_text": "Quả BÔNG kéo thành sợi dài MIÊN MAN roi dệt thành cái khăn mầu trắng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156090",
+      "lang": "vi",
+      "content_html": "<p>Sợi Dây Lụa màu Trắng làm từ Bông Vải</p>",
+      "content_text": "Sợi Dây Lụa màu Trắng làm từ Bông Vải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

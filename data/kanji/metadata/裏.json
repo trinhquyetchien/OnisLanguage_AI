@@ -1,0 +1,90 @@
+{
+  "kanji": "裏",
+  "meta": {
+    "weight": 2422,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リ"
+    ],
+    "kun": [
+      "うら"
+    ],
+    "am_han": "LÍ"
+  },
+  "meaning": {
+    "vi": "mặt sau",
+    "en": "back, amidst, in, reverse, inside, palm, sole, rear, lining, wrong side"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/裏.svg"
+  },
+  "frequency": 812,
+  "examples": [
+    "裏",
+    "裏側",
+    "裏付け",
+    "裏切り",
+    "脳裏"
+  ],
+  "explanation": {
+    "id": "8021",
+    "text": "裏 (đọc là \"ura\") có nghĩa là \"mặt trái\", \"bên trong\" hoặc \"bí mật\". Từ này thường chỉ các khía cạnh không nhìn thấy hoặc phần kín của sự vật.\n\nVí dụ:\n- 裏側 (uragawa): Mặt sau, mặt trái.\n- 裏切る"
+  },
+  "comments": [
+    {
+      "id": "156748",
+      "lang": "vi",
+      "content_html": "<p>Sáng sớm thầy Lí đã lộn trái áo treo lên mái nhà</p>",
+      "content_text": "Sáng sớm thầy Lí đã lộn trái áo treo lên mái nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156749",
+      "lang": "vi",
+      "content_html": "<p>Thầy LÝ sáng sớm đội mũ và mặc y phục đi chơi</p>",
+      "content_text": "Thầy LÝ sáng sớm đội mũ và mặc y phục đi chơi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156750",
+      "lang": "vi",
+      "content_html": "<p>Thày Lí đội mũ mặc y phục trái đi chơi</p>",
+      "content_text": "Thày Lí đội mũ mặc y phục trái đi chơi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

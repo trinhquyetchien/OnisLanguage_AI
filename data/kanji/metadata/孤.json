@@ -1,0 +1,88 @@
+{
+  "kanji": "孤",
+  "meta": {
+    "weight": 701,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [],
+    "am_han": "CÔ"
+  },
+  "meaning": {
+    "vi": "mồ côi, một mình",
+    "en": "orphan, alone"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/孤.svg"
+  },
+  "frequency": 1239,
+  "examples": [
+    "孤独",
+    "孤立",
+    "孤児",
+    "孤高",
+    "孤島"
+  ],
+  "explanation": {
+    "id": "2262",
+    "text": "孤 (đọc là \"ko\") có nghĩa là \"cô đơn\", \"đơn độc\", thường chỉ tình trạng một mình hoặc không có ai bên cạnh.\n\nVí dụ:\n- 孤独 (kodoku): Cô đơn, sự đơn độc.\n- 孤児 (koji): Trẻ mồ côi.\n- 孤立 (koritsu):"
+  },
+  "comments": [
+    {
+      "id": "152910",
+      "lang": "vi",
+      "content_html": "<p>Đứa bé CÔ đơn ngồi cắn móng tay,</p>",
+      "content_text": "Đứa bé CÔ đơn ngồi cắn móng tay,",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152911",
+      "lang": "vi",
+      "content_html": "<p>Đứa trẻ mồ côi cô đơn ngồi co gối bị che tấm vải trùm ở trên</p>",
+      "content_text": "Đứa trẻ mồ côi cô đơn ngồi co gối bị che tấm vải trùm ở trên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152912",
+      "lang": "vi",
+      "content_html": "<p>dua tre co doc ben qua dua</p>",
+      "content_text": "dua tre co doc ben qua dua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

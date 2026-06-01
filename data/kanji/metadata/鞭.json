@@ -1,0 +1,52 @@
+{
+  "kanji": "鞭",
+  "meta": {
+    "weight": 2890,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ベン",
+      "ヘン"
+    ],
+    "kun": [
+      "むち",
+      "むちうつ"
+    ],
+    "am_han": "TIÊN"
+  },
+  "meaning": {
+    "vi": "roi, que, đếm roi",
+    "en": "whip, rod, counter for whippings"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/鞭.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7082",
+    "text": "鞭 (đọc là \"ben\") có nghĩa là \"roi\" hoặc \"dây da\", dùng để chỉ công cụ đánh hoặc quất động vật.  \nVí dụ:  \n- 鞭打ち (ben uchi): Sự quất roi.  \n- 鞭撻 (bentatsu): Sự khuyến khích hoặc thúc đẩy bằng"
+  },
+  "comments": [
+    {
+      "id": "220989",
+      "lang": "vi",
+      "content_html": "<p>TIÊN xem thú cởi của mình như đôi dày tiện lợi,điều kiển bằng Roi</p>",
+      "content_text": "TIÊN xem thú cởi của mình như đôi dày tiện lợi,điều kiển bằng Roi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

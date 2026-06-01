@@ -1,0 +1,88 @@
+{
+  "kanji": "渉",
+  "meta": {
+    "weight": 1569,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "わた.る"
+    ],
+    "am_han": "THIỆP"
+  },
+  "meaning": {
+    "vi": "ford, đi qua, quá cảnh, phà, nhập khẩu, liên quan",
+    "en": "ford, go cross, transit, ferry, import, involve"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/渉.svg"
+  },
+  "frequency": 499,
+  "examples": [
+    "交渉",
+    "干渉",
+    "渉外"
+  ],
+  "explanation": {
+    "id": "3856",
+    "text": "渉 (đọc là \"shō\" hoặc \"わたる\" - wataru) có nghĩa là \"vượt qua\", \"thông qua\", thường liên quan đến việc băng qua nước hoặc giao lưu, tiếp xúc.  \nVí dụ:  \n- 渉外 (shōgai): Ngoại giao, giao lưu quốc"
+  },
+  "comments": [
+    {
+      "id": "154962",
+      "lang": "vi",
+      "content_html": "<p>Thuỷ đi Bộ lên đưa THIỆP mời</p>",
+      "content_text": "Thuỷ đi Bộ lên đưa THIỆP mời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154963",
+      "lang": "vi",
+      "content_html": "<p>can THIỆP bọn lính THỦY đánh BỘ 渉 nếu không chúng sẽ băng qua  わたる</p>",
+      "content_text": "can THIỆP bọn lính THỦY đánh BỘ 渉 nếu không chúng sẽ băng qua  わたる",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154964",
+      "lang": "vi",
+      "content_html": "<p>Vừa ĐI BỘ vừa KHÓC nức nở vì nhận được THIỆP mời đám cưới của người yên :(((((( tấm THIỆP mời trên bàn, thời gian địa điểm rõ ràng, ...hát tiếp đê anh em ;)</p>",
+      "content_text": "Vừa ĐI BỘ vừa KHÓC nức nở vì nhận được THIỆP mời đám cưới của người yên :(((((( tấm THIỆP mời trên bàn, thời gian địa điểm rõ ràng, ...hát tiếp đê anh em ;)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

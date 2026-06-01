@@ -1,0 +1,90 @@
+{
+  "kanji": "東",
+  "meta": {
+    "weight": 1300,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "ひがし"
+    ],
+    "am_han": "ĐÔNG"
+  },
+  "meaning": {
+    "vi": "phía đông",
+    "en": "east"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/東.svg"
+  },
+  "frequency": 37,
+  "examples": [
+    "東京",
+    "東",
+    "関東",
+    "東北",
+    "中東"
+  ],
+  "explanation": {
+    "id": "5802",
+    "text": "東 (đọc là \"tō\") có nghĩa là \"phía Đông\" để chỉ hướng hoặc vị trí địa lý.\n\nVí dụ:\n- 東方 (tōhō): Phương Đông.\n- 東京都 (Tōkyō-to): Thành phố Tokyo, thủ đô Nhật Bản.\n- 東海 (Tōkai): Vùng biển phía Đô"
+  },
+  "comments": [
+    {
+      "id": "531",
+      "lang": "vi",
+      "content_html": "<p>Mặt trời mọc ở hướng <strong>đông</strong>.</p><p>Ta có thể nhìn thấy mặt trời phía sau ngọn cây.</p>",
+      "content_text": "Mặt trời mọc ở hướng\nđông\n.\nTa có thể nhìn thấy mặt trời phía sau ngọn cây.",
+      "image_url": "https://jpdictionary.com/upload/images/629769894c2a4.jpg",
+      "image_path": "assets/images/東_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154408",
+      "lang": "vi",
+      "content_html": "<p>Mặt trời ( 日) mọc đằng ĐÔNG sau rặng cây ( 木)</p>",
+      "content_text": "Mặt trời ( 日) mọc đằng ĐÔNG sau rặng cây ( 木)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158340",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>東 (ひがし): phía đông</p><p>東京 (とうきょう): Tokyo</p>",
+      "content_text": "JLPT N5\n東 (ひがし): phía đông\n東京 (とうきょう): Tokyo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

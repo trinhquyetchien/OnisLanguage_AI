@@ -1,0 +1,87 @@
+{
+  "kanji": "糞",
+  "meta": {
+    "weight": 2040,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フン"
+    ],
+    "kun": [
+      "くそ"
+    ],
+    "am_han": "PHẨN"
+  },
+  "meaning": {
+    "vi": "cứt, phân",
+    "en": "shit, feces, excrement"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/糞.svg"
+  },
+  "frequency": 2473,
+  "examples": [
+    "糞",
+    "糞尿"
+  ],
+  "explanation": {
+    "id": "6968",
+    "text": "糞 (đọc là \"fun\") có nghĩa là \"phân\", chỉ các chất thải của động vật, thường dùng trong ngữ cảnh chỉ sự bẩn thỉu hoặc không sạch sẽ.\n\nVí dụ:\n- 糞尿 (funnyō): Nước tiểu và phân, chỉ những chất t"
+  },
+  "comments": [
+    {
+      "id": "155958",
+      "lang": "vi",
+      "content_html": "<p>Ăn phải loại gạo dị thường thì chỉ có đi ỉa ra phân hoài!@@</p>",
+      "content_text": "Ăn phải loại gạo dị thường thì chỉ có đi ỉa ra phân hoài!@@",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155959",
+      "lang": "vi",
+      "content_html": "<p>Khác 異なる　với gạo 米　thì là phân 糞</p>",
+      "content_text": "Khác 異なる　với gạo 米　thì là phân 糞",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155960",
+      "lang": "vi",
+      "content_html": "<p>Ăn gạo ỉa ra phân đưa ra ruộng bón cho 2 miếng đất</p>",
+      "content_text": "Ăn gạo ỉa ra phân đưa ra ruộng bón cho 2 miếng đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

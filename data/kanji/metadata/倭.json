@@ -1,0 +1,72 @@
+{
+  "kanji": "倭",
+  "meta": {
+    "weight": 219,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ワ",
+      "イ"
+    ],
+    "kun": [
+      "やまと",
+      "したが.う"
+    ],
+    "am_han": "UY, OA, NỤY"
+  },
+  "meaning": {
+    "vi": "Yamato, Nhật Bản cổ đại",
+    "en": "Yamato, ancient Japan"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/倭.svg"
+  },
+  "frequency": 2098,
+  "examples": [
+    "倭",
+    "倭人"
+  ],
+  "explanation": {
+    "id": "8383",
+    "text": "倭 (đọc là \"wa\") có nghĩa là \"Nhật Bản\" theo cách gọi cổ. Từ này thường mang ý nghĩa liên quan đến lịch sử và văn hóa Nhật Bản trong bối cảnh ngoại giao hoặc lịch sử.\n\nVí dụ:\n- 倭寇 (wakō): Cướ"
+  },
+  "comments": [
+    {
+      "id": "151738",
+      "lang": "vi",
+      "content_html": "<p>Người đứng lên lo chuyện thóc lúa là phụ nữ ở nhật gọi là OA nhân</p>",
+      "content_text": "Người đứng lên lo chuyện thóc lúa là phụ nữ ở nhật gọi là OA nhân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151739",
+      "lang": "vi",
+      "content_html": "<p>oa (người nhật cổ ) là lùn , thảo nào gọi là nhật lùn :v</p>",
+      "content_text": "oa (người nhật cổ ) là lùn , thảo nào gọi là nhật lùn :v",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

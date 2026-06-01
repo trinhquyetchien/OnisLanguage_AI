@@ -1,0 +1,88 @@
+{
+  "kanji": "崇",
+  "meta": {
+    "weight": 803,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スウ"
+    ],
+    "kun": [
+      "あが.める"
+    ],
+    "am_han": "SÙNG"
+  },
+  "meaning": {
+    "vi": "tôn thờ, tôn trọng, tôn kính",
+    "en": "adore, respect, revere, worship"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/崇.svg"
+  },
+  "frequency": 1970,
+  "examples": [
+    "崇拝",
+    "崇高",
+    "崇敬"
+  ],
+  "explanation": {
+    "id": "4249",
+    "text": "崇 (đọc là \"suu\") có nghĩa là \"tôn kính\", \"thờ phụng\" để chỉ sự tôn vinh hoặc ngưỡng mộ một ai đó hay cái gì đó.\n\nVí dụ:\n- 崇拝 (suuha): Thờ phụng, tôn sùng.\n- 崇高 (suu kou): Cao quý, vĩ đại.\n- "
+  },
+  "comments": [
+    {
+      "id": "153168",
+      "lang": "vi",
+      "content_html": "<p>Sơn rất SÙNG bái TÔNG giáo</p>",
+      "content_text": "Sơn rất SÙNG bái TÔNG giáo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153169",
+      "lang": "vi",
+      "content_html": "<p>Sùng bái tông giáo dưới núi</p>",
+      "content_text": "Sùng bái tông giáo dưới núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153170",
+      "lang": "vi",
+      "content_html": "<p>Trên núi(山) thường tôn SÙNG tông(宗) giáo</p>",
+      "content_text": "Trên núi(山) thường tôn SÙNG tông(宗) giáo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

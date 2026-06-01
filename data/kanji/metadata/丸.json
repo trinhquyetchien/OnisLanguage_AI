@@ -1,0 +1,109 @@
+{
+  "kanji": "丸",
+  "meta": {
+    "weight": 91,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガン"
+    ],
+    "kun": [
+      "まる",
+      "まる.める",
+      "まる.い"
+    ],
+    "am_han": "HOÀN"
+  },
+  "meaning": {
+    "vi": "tròn",
+    "en": "round, full (month), perfection, -ship, pills, make round, roll up, curl up, seduce, explain away"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/丸.svg"
+  },
+  "frequency": 542,
+  "examples": [
+    "丸",
+    "丸い",
+    "日の丸",
+    "丸ごと",
+    "丸く"
+  ],
+  "explanation": {
+    "id": "1203",
+    "text": "丸 (đọc là \"maru\") có nghĩa là \"tròn\", \"hình tròn\" hoặc \"hoàn thành\". Chữ này thường chỉ các hình dạng tròn và cũng mang ý nghĩa hoàn thiện, trọn vẹn.\n\nVí dụ:\n- 丸い (marui): Tròn.\n- 丸ごと (marug"
+  },
+  "comments": [
+    {
+      "id": "36990",
+      "lang": "vi",
+      "content_html": "<p>Tôi cuộn <strong>tròn </strong>mình lại.</p>",
+      "content_text": "Tôi cuộn\ntròn\nmình lại.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4e0d775cb.jpg",
+      "image_path": "assets/images/丸_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151430",
+      "lang": "vi",
+      "content_html": "<p>số 9 thêm một gạch thành số 10 tròn trịa</p>",
+      "content_text": "số 9 thêm một gạch thành số 10 tròn trịa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151431",
+      "lang": "vi",
+      "content_html": "<p>số 9 cắt đuôi thì hoàn toàn là hình tròn</p>",
+      "content_text": "số 9 cắt đuôi thì hoàn toàn là hình tròn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151432",
+      "lang": "vi",
+      "content_html": "<p>CỬU chuyển HOÀN hồn đan.</p>",
+      "content_text": "CỬU chuyển HOÀN hồn đan.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

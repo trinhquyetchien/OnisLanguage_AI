@@ -1,0 +1,90 @@
+{
+  "kanji": "啓",
+  "meta": {
+    "weight": 501,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "ひら.く",
+      "さと.す"
+    ],
+    "am_han": "KHẢI"
+  },
+  "meaning": {
+    "vi": "tiết lộ, mở, nói",
+    "en": "disclose, open, say"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/啓.svg"
+  },
+  "frequency": 1403,
+  "examples": [
+    "啓発",
+    "啓蒙",
+    "啓示",
+    "拝啓"
+  ],
+  "explanation": {
+    "id": "1943",
+    "text": "啓 (đọc là \"kei\" hoặc \"a(keru)\") có nghĩa là \"mở\", \"khai sáng\" để chỉ các hành động liên quan đến việc mở ra, thông báo hoặc giáo dục.  \nVí dụ:  \n- 啓発 (keihatsu): Khai sáng, giáo dục.  \n- 啓示 "
+  },
+  "comments": [
+    {
+      "id": "152437",
+      "lang": "vi",
+      "content_html": "<p>vừa đánh(攵) vừa nói(口) mới khai sáng(khải) được những kẻ không bao giờ ra khỏi cửa nhà(戸)</p>",
+      "content_text": "vừa đánh(攵) vừa nói(口) mới khai sáng(khải) được những kẻ không bao giờ ra khỏi cửa nhà(戸)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152438",
+      "lang": "vi",
+      "content_html": "<p>Làm rõ vụ anh Khải đánh nhau ở Cửa khẩu</p>",
+      "content_text": "Làm rõ vụ anh Khải đánh nhau ở Cửa khẩu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152439",
+      "lang": "vi",
+      "content_html": "<p>Khải =  Cải hộ khẩu</p>",
+      "content_text": "Khải =  Cải hộ khẩu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "kanji": "総",
+  "meta": {
+    "weight": 2095,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "す.べて",
+      "すべ.て",
+      "ふさ"
+    ],
+    "am_han": "TỔNG"
+  },
+  "meaning": {
+    "vi": "tổng số, toàn bộ",
+    "en": "general, whole, all, full, total"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/総.svg"
+  },
+  "frequency": 129,
+  "examples": [
+    "総合",
+    "総",
+    "総理",
+    "総会",
+    "総裁"
+  ],
+  "explanation": {
+    "id": "4741",
+    "text": "総 (đọc là \"sō\") có nghĩa là \"tổng\", \"toàn bộ\" để chỉ sự tổng hợp, tập hợp hoặc số lượng lớn.  \nVí dụ:  \n- 総合 (sōgō): Tổng hợp, toàn diện.  \n- 総理 (sōri): Thủ tướng, người đứng đầu chính phủ. "
+  },
+  "comments": [
+    {
+      "id": "156095",
+      "lang": "vi",
+      "content_html": "<p>Sợi chỉ công tâm, là sợi chỉ tổng hợp</p>",
+      "content_text": "Sợi chỉ công tâm, là sợi chỉ tổng hợp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190691",
+      "lang": "vi",
+      "content_html": "<p>Cầm sợi dây suy nghĩ công tâm rùi buộc Tổng lại</p>",
+      "content_text": "Cầm sợi dây suy nghĩ công tâm rùi buộc Tổng lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "159000",
+      "lang": "vi",
+      "content_html": "<p>Chữ 総 trong tiếng Nhật được phát âm là sou. Nó có nghĩa là \"toàn bộ\" hoặc \"tổng cộng\".</p><p>Ví dụ, từ 総理大臣 (souri daijin) có nghĩa là \"thủ tướng\" hoặc \"người điều hành toàn bộ nền chính phủ\". Chữ 総 cũng có thể xuất hiện trong các từ khác như 総合 (sougou) có nghĩa là \"tổng hợp\" hoặc 総額 (sougaku) có nghĩa là \"tổng số\".</p>",
+      "content_text": "Chữ 総 trong tiếng Nhật được phát âm là sou. Nó có nghĩa là \"toàn bộ\" hoặc \"tổng cộng\".\nVí dụ, từ 総理大臣 (souri daijin) có nghĩa là \"thủ tướng\" hoặc \"người điều hành toàn bộ nền chính phủ\". Chữ 総 cũng có thể xuất hiện trong các từ khác như 総合 (sougou) có nghĩa là \"tổng hợp\" hoặc 総額 (sougaku) có nghĩa là \"tổng số\".",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "2",
+        "name": "ピカチュウ",
+        "image_url": "https://jpdictionary.com/upload/images/63918f2e8dcf1.png"
+      }
+    },
+    {
+      "id": "156096",
+      "lang": "vi",
+      "content_html": "<p>Chỉ 糸 công 公 tâm 心 sẽ được Tổg hợp</p>",
+      "content_text": "Chỉ 糸 công 公 tâm 心 sẽ được Tổg hợp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156097",
+      "lang": "vi",
+      "content_html": "<p>CÔNG TÂM CHỈ là TỔNG hợp tất cả các loại võ công^^</p>",
+      "content_text": "CÔNG TÂM CHỈ là TỔNG hợp tất cả các loại võ công^^",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

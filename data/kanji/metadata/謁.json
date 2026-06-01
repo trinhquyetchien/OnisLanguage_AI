@@ -1,0 +1,82 @@
+{
+  "kanji": "謁",
+  "meta": {
+    "weight": 2516,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エツ"
+    ],
+    "kun": [],
+    "am_han": "YẾT"
+  },
+  "meaning": {
+    "vi": "khán giả, khán giả (với vua)",
+    "en": "audience, audience (with king)"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/謁.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "20346",
+    "text": "謁 (đọc là \"rin\") có nghĩa là \"độ ẩm\", thường chỉ độ ẩm trong không khí hoặc nước. \n\nVí dụ:  \n- 謁度 (rindo): Độ ẩm.  \n- 謁湿 (rinshitsu): Độ ẩm cao.  \n- 謁気 (rinki): Không khí ẩm, khí ẩm."
+  },
+  "comments": [
+    {
+      "id": "220717",
+      "lang": "vi",
+      "content_html": "<p>Vào Yết (謁) kiến, nói chuyện (言) về cái thìa (匕) để trong bao (勹) cả ngày (日) bị bốc mùi (匂)</p>",
+      "content_text": "Vào Yết (謁) kiến, nói chuyện (言) về cái thìa (匕) để trong bao (勹) cả ngày (日) bị bốc mùi (匂)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220718",
+      "lang": "vi",
+      "content_html": "<p>Yết kiến nói chuyện về chuyện mặt trời chiếu bốc mùi</p>",
+      "content_text": "Yết kiến nói chuyện về chuyện mặt trời chiếu bốc mùi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220719",
+      "lang": "vi",
+      "content_html": "<p>Hôm nay 日 không đánh răng mà phải đi yết kiến 謁 nhà vua lúc bẩm tấu 言 hơi có mùi 匂 mắm tôm</p>",
+      "content_text": "Hôm nay 日 không đánh răng mà phải đi yết kiến 謁 nhà vua lúc bẩm tấu 言 hơi có mùi 匂 mắm tôm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

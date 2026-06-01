@@ -1,0 +1,92 @@
+{
+  "kanji": "敢",
+  "meta": {
+    "weight": 1176,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "あ.えて",
+      "あ.えない",
+      "あ.えず"
+    ],
+    "am_han": "CẢM"
+  },
+  "meaning": {
+    "vi": "táo bạo, dũng cảm, buồn, bi thảm, đáng thương",
+    "en": "daring, brave, bold, sad, tragic, pitiful"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/敢.svg"
+  },
+  "frequency": 1859,
+  "examples": [
+    "敢えて",
+    "果敢",
+    "勇敢",
+    "取り敢えず",
+    "敢行"
+  ],
+  "explanation": {
+    "id": "1117",
+    "text": "敢 (đọc là \"kan\") có nghĩa là \"dám\" hoặc \"can đảm\", chỉ sự dũng cảm trong việc thực hiện điều gì đó khó khăn hoặc mạo hiểm.  \nVí dụ:  \n- 敢闘 (kantō): Sự đấu tranh kiên cường, dũng cảm.  \n- 敢えて"
+  },
+  "comments": [
+    {
+      "id": "154095",
+      "lang": "vi",
+      "content_html": "<p>Người làm Công (工) bị Đánh (攵) vào Tai (耳) thì sẽ dũng Cảm đứng lên</p>",
+      "content_text": "Người làm Công (工) bị Đánh (攵) vào Tai (耳) thì sẽ dũng Cảm đứng lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154096",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa chiến tranh công việc can đảm lấy tai kẻ thù</p>",
+      "content_text": "Thời xưa chiến tranh công việc can đảm lấy tai kẻ thù",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154097",
+      "lang": "vi",
+      "content_html": "<p>dám ĐÁNH vào TAI kẻ thù mới dũng CẢM</p>",
+      "content_text": "dám ĐÁNH vào TAI kẻ thù mới dũng CẢM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

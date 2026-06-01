@@ -1,0 +1,87 @@
+{
+  "kanji": "汰",
+  "meta": {
+    "weight": 1494,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タ",
+      "タイ"
+    ],
+    "kun": [
+      "おご.る",
+      "にご.る",
+      "よな.げる"
+    ],
+    "am_han": "THÁI, THẢI"
+  },
+  "meaning": {
+    "vi": "rửa, sàng, lọc, loại bỏ cỏ dại, sang trọng",
+    "en": "washing, sieving, filtering, weeding out, luxury"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/汰.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4878",
+    "text": "汰 (đọc là \"ta\") có nghĩa là \"loại bỏ\", \"làm sạch\" để chỉ các hành động liên quan đến việc loại bỏ hoặc làm sạch những thứ không cần thiết.  \nVí dụ:  \n- 汰除 (tajo): Loại bỏ, thanh lý.  \n- 汰後 ("
+  },
+  "comments": [
+    {
+      "id": "219908",
+      "lang": "vi",
+      "content_html": "<p>Em Thuỷ Béo quá bị đào THẢI</p>",
+      "content_text": "Em Thuỷ Béo quá bị đào THẢI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219909",
+      "lang": "vi",
+      "content_html": "<p>Thái dám đào THẢI Nước bằng cách nào nhỉ</p>",
+      "content_text": "Thái dám đào THẢI Nước bằng cách nào nhỉ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219910",
+      "lang": "vi",
+      "content_html": "<p>thằng nào béo đào THẢI xuống nước</p>",
+      "content_text": "thằng nào béo đào THẢI xuống nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

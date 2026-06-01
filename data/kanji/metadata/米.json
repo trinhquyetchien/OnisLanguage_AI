@@ -1,0 +1,93 @@
+{
+  "kanji": "米",
+  "meta": {
+    "weight": 2021,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ベイ",
+      "マイ",
+      "メエトル"
+    ],
+    "kun": [
+      "こめ",
+      "よね"
+    ],
+    "am_han": "MỄ"
+  },
+  "meaning": {
+    "vi": "gạo",
+    "en": "rice, USA, metre"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/米.svg"
+  },
+  "frequency": 61,
+  "examples": [
+    "米",
+    "米国",
+    "欧米",
+    "全米",
+    "南米"
+  ],
+  "explanation": {
+    "id": "7020",
+    "text": "米 (đọc là \"bei\" hoặc \"kome\") có nghĩa là \"gạo\" hoặc \"ngũ cốc\" để chỉ thực phẩm chủ yếu trong bữa ăn và các sản phẩm liên quan đến lương thực.  \nVí dụ:  \n- 米国 (beikoku): Mỹ, quốc gia Hoa Kỳ. "
+  },
+  "comments": [
+    {
+      "id": "676",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của <strong>cây lúa</strong>.</p>",
+      "content_text": "Hình dạng của\ncây lúa\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629834fce470e.jpg",
+      "image_path": "assets/images/米_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155927",
+      "lang": "vi",
+      "content_html": "<p>Cây có hai hạt phía trên là lúa gạo.</p>",
+      "content_text": "Cây có hai hạt phía trên là lúa gạo.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158500",
+      "lang": "vi",
+      "content_html": "<p>Dấu * người Nhật đọc là 米 (こめ)</p>",
+      "content_text": "Dấu * người Nhật đọc là 米 (こめ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

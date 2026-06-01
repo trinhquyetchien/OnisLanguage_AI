@@ -1,0 +1,88 @@
+{
+  "kanji": "箸",
+  "meta": {
+    "weight": 2008,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョ",
+      "チャク"
+    ],
+    "kun": [
+      "はし"
+    ],
+    "am_han": "TRỨ, TRỢ"
+  },
+  "meaning": {
+    "vi": "đũa",
+    "en": "chopsticks"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/箸.svg"
+  },
+  "frequency": 2156,
+  "examples": [
+    "箸",
+    "割り箸"
+  ],
+  "explanation": {
+    "id": "6376",
+    "text": "箸 (đọc là \"hashi\") có nghĩa là \"đũa\", dụng cụ dùng để gắp thức ăn trong văn hóa ẩm thực Nhật Bản.  \nVí dụ:  \n- 箸置き (hashioki): Đế đũa, vật đặt đũa khi không sử dụng.  \n- 食箸 (shokuhashi): Đũa"
+  },
+  "comments": [
+    {
+      "id": "155900",
+      "lang": "vi",
+      "content_html": "<p>Học giả chẻ tre làm đũa</p>",
+      "content_text": "Học giả chẻ tre làm đũa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155901",
+      "lang": "vi",
+      "content_html": "<p>hình vẽ bị thiếu mất 1 nét kìa. mọi người để ý nha<br>sau nét thứ 10 p là nét phảy rồi mới đến 日</p>",
+      "content_text": "hình vẽ bị thiếu mất 1 nét kìa. mọi người để ý nha\nsau nét thứ 10 p là nét phảy rồi mới đến 日",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155902",
+      "lang": "vi",
+      "content_html": "<p>Trúc là học Giả TRỨ danh lấy tre trúc làm đũa</p>",
+      "content_text": "Trúc là học Giả TRỨ danh lấy tre trúc làm đũa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

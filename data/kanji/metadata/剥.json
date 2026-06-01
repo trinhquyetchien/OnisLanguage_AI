@@ -1,0 +1,98 @@
+{
+  "kanji": "剥",
+  "meta": {
+    "weight": 335,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハク",
+      "ホク"
+    ],
+    "kun": [
+      "へ.ぐ",
+      "へず.る",
+      "む.く",
+      "む.ける",
+      "は.がれる",
+      "は.ぐ",
+      "は.げる",
+      "は.がす"
+    ],
+    "am_han": "BÁC, PHỐC, BÓC"
+  },
+  "meaning": {
+    "vi": "bong ra, bong tróc, phai màu, đổi màu",
+    "en": "come off, peel, fade, discolor"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/剥.svg"
+  },
+  "frequency": 2383,
+  "examples": [
+    "剥奪",
+    "剥離",
+    "剥がれ",
+    "剥き出し",
+    "剥がす"
+  ],
+  "explanation": {
+    "id": "6318",
+    "text": "剥 (đọc là \"baku\" hoặc \"haku\") có nghĩa là \"lột\", \"gọt\" để chỉ hành động loại bỏ lớp bên ngoài hoặc bề mặt của một vật thể nào đó.\n\nVí dụ:\n- 剥がす (hagasu): Lột ra, gỡ ra.\n- 剥製 (hakusei): Đồ ta"
+  },
+  "comments": [
+    {
+      "id": "152042",
+      "lang": "vi",
+      "content_html": "<p>Thủy cầm Dao đi Yo nhà Bác.</p>",
+      "content_text": "Thủy cầm Dao đi Yo nhà Bác.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152043",
+      "lang": "vi",
+      "content_html": "<p>nhà bác học &#62; mang dao bóc , gọt gai của con nhiếm. để tiên nguyên cứa</p>",
+      "content_text": "nhà bác học > mang dao bóc , gọt gai của con nhiếm. để tiên nguyên cứa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152044",
+      "lang": "vi",
+      "content_html": "<p>Bác Yo, Bác Thủy vì móng tay cùn nên dùng dao để bóc tem bì thư ra</p>",
+      "content_text": "Bác Yo, Bác Thủy vì móng tay cùn nên dùng dao để bóc tem bì thư ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

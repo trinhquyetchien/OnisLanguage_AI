@@ -1,0 +1,85 @@
+{
+  "kanji": "瀧",
+  "meta": {
+    "weight": 1637,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロウ",
+      "ソウ"
+    ],
+    "kun": [
+      "たき"
+    ],
+    "am_han": "LANG"
+  },
+  "meaning": {
+    "vi": "thác, ghềnh",
+    "en": "waterfall, rapids, cascade"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/瀧.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5017",
+    "text": "瀧 (đọc là \"taki\") có nghĩa là \"thác nước\" để chỉ các dòng nước chảy mạnh từ độ cao.  \nVí dụ:  \n- 瀧壺 (takitsubo): Hồ dưới thác nước.  \n- 瀧の音 (taki no oto): Âm thanh của thác nước.  \n- 鶴見瀧 (Ts"
+  },
+  "comments": [
+    {
+      "id": "220001",
+      "lang": "vi",
+      "content_html": "<p>con RỒNG (</p>",
+      "content_text": "con RỒNG (",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220002",
+      "lang": "vi",
+      "content_html": "<p>Rồng phun nước thành thác</p>",
+      "content_text": "Rồng phun nước thành thác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220003",
+      "lang": "vi",
+      "content_html": "<p>Bạn THUỶ ĐỨNG trên mặt TRĂNG LANG thang chụp thác nước bằng nửa chữ PHI</p>",
+      "content_text": "Bạn THUỶ ĐỨNG trên mặt TRĂNG LANG thang chụp thác nước bằng nửa chữ PHI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

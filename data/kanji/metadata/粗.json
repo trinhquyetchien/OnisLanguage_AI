@@ -1,0 +1,91 @@
+{
+  "kanji": "粗",
+  "meta": {
+    "weight": 2030,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ"
+    ],
+    "kun": [
+      "あら.い",
+      "あら-"
+    ],
+    "am_han": "THÔ"
+  },
+  "meaning": {
+    "vi": "thô, gồ ghề",
+    "en": "coarse, rough, rugged"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/粗.svg"
+  },
+  "frequency": 1689,
+  "examples": [
+    "粗",
+    "お粗末",
+    "粗末",
+    "粗悪",
+    "粗い"
+  ],
+  "explanation": {
+    "id": "4643",
+    "text": "粗 (đọc là \"so\") có nghĩa là \"thô\", \"gồ ghề\", chỉ các vật hoặc chất không được chế biến tinh xảo.  \nVí dụ:  \n- 粗品 (soshina): Món quà tặng đơn giản, thô sơ.  \n- 粗悪 (soaku): Kém chất lượng, thô"
+  },
+  "comments": [
+    {
+      "id": "155937",
+      "lang": "vi",
+      "content_html": "<p>祖: Tổ tiên nề nếp<br>租: Hòa bình đặt thuế má<br>粗: Gạo thô<br>阻: Gò đất cản trở<br>組: Sợi dây nối tổ chức</p>",
+      "content_text": "祖: Tổ tiên nề nếp\n租: Hòa bình đặt thuế má\n粗: Gạo thô\n阻: Gò đất cản trở\n組: Sợi dây nối tổ chức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155938",
+      "lang": "vi",
+      "content_html": "<p>THẢ bao GẠO một cách THÔ BẠO</p>",
+      "content_text": "THẢ bao GẠO một cách THÔ BẠO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155939",
+      "lang": "vi",
+      "content_html": "<p>Mắt nhìn ra hạt gạo thô chưa xay kĩ</p>",
+      "content_text": "Mắt nhìn ra hạt gạo thô chưa xay kĩ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "kanji": "峨",
+  "meta": {
+    "weight": 798,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガ"
+    ],
+    "kun": [
+      "けわ.しい"
+    ],
+    "am_han": "NGA"
+  },
+  "meaning": {
+    "vi": "núi cao",
+    "en": "high mountain"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/峨.svg"
+  },
+  "frequency": 2234,
+  "examples": [
+    "嵯峨"
+  ],
+  "explanation": {
+    "id": "719",
+    "text": "峨 (đọc là \"ga\") có nghĩa là \"cao lớn\", thường dùng để chỉ những ngọn núi hoặc địa hình cao. \n\nVí dụ:\n- 峨眉山 (Gaimizān): Núi Ngọc Môn, một ngọn núi nổi tiếng ở Trung Quốc.\n- 峨峨 (gaa): Cao vút,"
+  },
+  "comments": []
+}

@@ -1,0 +1,89 @@
+{
+  "kanji": "岐",
+  "meta": {
+    "weight": 788,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ",
+      "ギ"
+    ],
+    "kun": [],
+    "am_han": "KÌ"
+  },
+  "meaning": {
+    "vi": "rẽ nhánh, ngã ba đường, bối cảnh, đấu trường, nhà hát",
+    "en": "branch off, fork in road, scene, arena, theater"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/岐.svg"
+  },
+  "frequency": 1428,
+  "examples": [
+    "岐阜",
+    "多岐",
+    "分岐",
+    "讃岐",
+    "岐路"
+  ],
+  "explanation": {
+    "id": "1280",
+    "text": "岐 (đọc là \"ki\") có nghĩa là \"rẽ\", \"phân nhánh\" để chỉ hành động phân chia hoặc rẽ ra nhiều hướng khác nhau.\n\nVí dụ:\n- 岐路 (kiro): Ngã ba, ngã rẽ.\n- 岐阜 (Gifu): Tên một tỉnh ở Nhật Bản, mang ý "
+  },
+  "comments": [
+    {
+      "id": "153134",
+      "lang": "vi",
+      "content_html": "<p>Chi của núi là kì phân nhánh</p>",
+      "content_text": "Chi của núi là kì phân nhánh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153135",
+      "lang": "vi",
+      "content_html": "<p>phân công cho CHI(支) nhánh trên NÚI(山) theo định KÌ</p>",
+      "content_text": "phân công cho CHI(支) nhánh trên NÚI(山) theo định KÌ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153136",
+      "lang": "vi",
+      "content_html": "<p>Núi có chi thật là kì lạ</p>",
+      "content_text": "Núi có chi thật là kì lạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

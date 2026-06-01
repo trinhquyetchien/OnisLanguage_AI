@@ -1,0 +1,93 @@
+{
+  "kanji": "斎",
+  "meta": {
+    "weight": 1187,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "とき",
+      "つつし.む",
+      "ものいみ",
+      "い.む",
+      "いわ.う",
+      "いつ.く"
+    ],
+    "am_han": "TRAI, TRƠI, CHÁI, CHAY"
+  },
+  "meaning": {
+    "vi": "thanh lọc, thực phẩm Phật giáo, phòng, thờ cúng, tránh, giống nhau",
+    "en": "purification, Buddhist food, room, worship, avoid, alike"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/斎.svg"
+  },
+  "frequency": 1155,
+  "examples": [
+    "斎",
+    "書斎",
+    "斎場"
+  ],
+  "explanation": {
+    "id": "2824",
+    "text": "斎 (đọc là \"sai\") có nghĩa là \"thanh tẩy\", \"tinh khiết\" thường liên quan đến việc làm sạch hoặc lễ nghi tôn giáo. \n\nVí dụ:\n- 斎戒 (saikai): Sự thanh tẩy, nghi lễ thanh khiết.\n- 斎場 (saijō): Nơi "
+  },
+  "comments": [
+    {
+      "id": "154125",
+      "lang": "vi",
+      "content_html": "<p>Anh Văn đẹp trai giao chỉ thị phải ăn chay</p>",
+      "content_text": "Anh Văn đẹp trai giao chỉ thị phải ăn chay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154126",
+      "lang": "vi",
+      "content_html": "<p>Anh Văn đẹp TRAI yêu chị Nguyệt từ Bé</p>",
+      "content_text": "Anh Văn đẹp TRAI yêu chị Nguyệt từ Bé",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154127",
+      "lang": "vi",
+      "content_html": "<p>2 đứa nhỏ đang học văn trong thư phòng, đều là con Trai ( ngày xưa con gái k dc học )</p>",
+      "content_text": "2 đứa nhỏ đang học văn trong thư phòng, đều là con Trai ( ngày xưa con gái k dc học )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

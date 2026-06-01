@@ -1,0 +1,107 @@
+{
+  "kanji": "村",
+  "meta": {
+    "weight": 1290,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソン"
+    ],
+    "kun": [
+      "むら"
+    ],
+    "am_han": "THÔN"
+  },
+  "meaning": {
+    "vi": "thôn, làng",
+    "en": "village, town"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/村.svg"
+  },
+  "frequency": 253,
+  "examples": [
+    "村",
+    "市町村",
+    "農村",
+    "町村",
+    "村長"
+  ],
+  "explanation": {
+    "id": "4853",
+    "text": "村 (đọc là \"mura\") có nghĩa là \"làng\" để chỉ một khu vực cư trú nhỏ, thường có dân số ít hơn so với thành phố.  \nVí dụ:  \n- 村人 (murabito): Người dân trong làng.  \n- 村役場 (murayakuba): Ủy ban l"
+  },
+  "comments": [
+    {
+      "id": "614",
+      "lang": "vi",
+      "content_html": "<p>Có một ngôi <strong>làng </strong>ở phía bên kia của cái cây (木).</p>",
+      "content_text": "Có một ngôi\nlàng\nở phía bên kia của cái cây (木).",
+      "image_url": "https://jpdictionary.com/upload/images/629787bcd08bd.jpg",
+      "image_path": "assets/images/村_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154387",
+      "lang": "vi",
+      "content_html": "<p>ở THÔN cây chỉ cao 1 thốn</p>",
+      "content_text": "ở THÔN cây chỉ cao 1 thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154388",
+      "lang": "vi",
+      "content_html": "<p>người ta Đếm xem có nhiêu Cây trong Thôn</p>",
+      "content_text": "người ta Đếm xem có nhiêu Cây trong Thôn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154389",
+      "lang": "vi",
+      "content_html": "<p>Nông thôn có cái cây THỐN</p>",
+      "content_text": "Nông thôn có cái cây THỐN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

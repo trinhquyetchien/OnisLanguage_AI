@@ -1,0 +1,94 @@
+{
+  "kanji": "住",
+  "meta": {
+    "weight": 171,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュウ",
+      "ヂュウ",
+      "チュウ"
+    ],
+    "kun": [
+      "す.む",
+      "す.まう",
+      "-ず.まい"
+    ],
+    "am_han": "TRÚ, TRỤ"
+  },
+  "meaning": {
+    "vi": "cư trú",
+    "en": "dwell, reside, live, inhabit"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/住.svg"
+  },
+  "frequency": 270,
+  "examples": [
+    "住宅",
+    "住民",
+    "住む",
+    "住所",
+    "在住"
+  ],
+  "explanation": {
+    "id": "3547",
+    "text": "住 (đọc là \"ju\") có nghĩa là \"sống\", \"trú ngụ\" để chỉ hành động ở hoặc sinh sống tại một nơi nào đó.\n\nVí dụ:\n- 住所 (juusho): Địa chỉ.\n- 住む (sumu): Sống, cư trú.\n- 永住 (eijuu): Cư trú vĩnh viễn."
+  },
+  "comments": [
+    {
+      "id": "190883",
+      "lang": "vi",
+      "content_html": "<p>vào nhà <strong>trú </strong>ẩn</p>",
+      "content_text": "vào nhà\ntrú\nẩn",
+      "image_url": "https://jpdictionary.com/upload/images/648a633a2d995.jpg",
+      "image_path": "assets/images/住_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "954",
+      "lang": "vi",
+      "content_html": "<p>Người (亻) bên cạnh ÔNG CHỦ (主) thì luôn có chỗ <strong>TRÚ </strong>(住) thân.</p>",
+      "content_text": "Người (亻) bên cạnh ÔNG CHỦ (主) thì luôn có chỗ\nTRÚ\n(住) thân.",
+      "image_url": "https://jpdictionary.com/upload/images/6298cb1711a42.jpg",
+      "image_path": "assets/images/住_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151620",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI ĐỨNG (ィ) cạnh ÔNG CHỦ (主）thì luôn có chỗ TRÚ (住) thân</p>",
+      "content_text": "NGƯỜI ĐỨNG (ィ) cạnh ÔNG CHỦ (主）thì luôn có chỗ TRÚ (住) thân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

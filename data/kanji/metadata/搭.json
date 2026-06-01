@@ -1,0 +1,85 @@
+{
+  "kanji": "搭",
+  "meta": {
+    "weight": 1141,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [],
+    "am_han": "ĐÁP"
+  },
+  "meaning": {
+    "vi": "lên tàu, tải (một chiếc xe), đi xe",
+    "en": "board, load (a vehicle), ride"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/搭.svg"
+  },
+  "frequency": 1472,
+  "examples": [
+    "搭載",
+    "搭乗"
+  ],
+  "explanation": {
+    "id": "5799",
+    "text": "搭 (đọc là \"tō\") có nghĩa là \"lên tàu\", \"kết hợp\" để chỉ hành động liên quan đến việc tham gia vào phương tiện giao thông hoặc sự kết nối giữa các vật thể.\nVí dụ:\n- 搭乗 (tōjō): Lên máy bay, lê"
+  },
+  "comments": [
+    {
+      "id": "154014",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm hoa ĐÁP lên lóc nhà</p>",
+      "content_text": "Tay cầm hoa ĐÁP lên lóc nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154015",
+      "lang": "vi",
+      "content_html": "<p>搭乗:hành khách lên máy bay, tay cầm hoa gọn gàng hợp lí !</p>",
+      "content_text": "搭乗:hành khách lên máy bay, tay cầm hoa gọn gàng hợp lí !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154016",
+      "lang": "vi",
+      "content_html": "<p>tay cầm hoa miệng đối đáp hợp lý</p>",
+      "content_text": "tay cầm hoa miệng đối đáp hợp lý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

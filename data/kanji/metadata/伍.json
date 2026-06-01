@@ -1,0 +1,70 @@
+{
+  "kanji": "伍",
+  "meta": {
+    "weight": 153,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴ"
+    ],
+    "kun": [
+      "いつつ"
+    ],
+    "am_han": "NGŨ"
+  },
+  "meaning": {
+    "vi": "năm, đội năm người, tập tin, dòng",
+    "en": "five, five-man squad, file, line"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/伍.svg"
+  },
+  "frequency": 1881,
+  "examples": [
+    "伍",
+    "伍長"
+  ],
+  "explanation": {
+    "id": "2320",
+    "text": "伍 (đọc là \"go\") có nghĩa là \"nhóm\", \"đội ngũ\" để chỉ sự tập hợp hoặc tổ chức thành nhóm.  \nVí dụ:  \n- 伍長 (gochou): Đội trưởng, người lãnh đạo một nhóm.  \n- 伍する (gonsuru): Cùng nhau, đồng hàn"
+  },
+  "comments": [
+    {
+      "id": "151577",
+      "lang": "vi",
+      "content_html": "<p>下伍 <br>Dấu ấn quỷ thứ 5 trong thập nhị nguyệt quỷ<br>(phim kimetsu no yaiba)</p>",
+      "content_text": "下伍\nDấu ấn quỷ thứ 5 trong thập nhị nguyệt quỷ\n(phim kimetsu no yaiba)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151578",
+      "lang": "vi",
+      "content_html": "<p>1 đội NGŨ có 5 người đứng</p>",
+      "content_text": "1 đội NGŨ có 5 người đứng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

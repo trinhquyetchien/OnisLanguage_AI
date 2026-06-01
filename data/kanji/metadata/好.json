@@ -1,0 +1,110 @@
+{
+  "kanji": "好",
+  "meta": {
+    "weight": 644,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "この.む",
+      "す.く",
+      "よ.い",
+      "い.い"
+    ],
+    "am_han": "HẢO, HIẾU"
+  },
+  "meaning": {
+    "vi": "thích",
+    "en": "fond, pleasing, like something"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/好.svg"
+  },
+  "frequency": 423,
+  "examples": [
+    "好き",
+    "大好き",
+    "好み",
+    "格好",
+    "好"
+  ],
+  "explanation": {
+    "id": "2411",
+    "text": "好 (đọc là \"kou\" hoặc \"yoi\") có nghĩa là \"tốt\", \"thích\", chỉ sự tốt đẹp hoặc ưa thích.  \nVí dụ:  \n- 好き (suki): Thích, yêu thích.  \n- 好ましい (konomashii): Đáng yêu, dễ chịu.  \n- 良好 (ryoukou): Tố"
+  },
+  "comments": [
+    {
+      "id": "601",
+      "lang": "vi",
+      "content_html": "<p>Người phụ nữ (女) ấy <strong>thích </strong>trẻ con (子).</p>",
+      "content_text": "Người phụ nữ (女) ấy\nthích\ntrẻ con (子).",
+      "image_url": "https://jpdictionary.com/upload/images/629783b5eeb5f.jpg",
+      "image_path": "assets/images/好_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152782",
+      "lang": "vi",
+      "content_html": "<p>Đứa con (子 thì hay yêu mẹ (女)</p>",
+      "content_text": "Đứa con (子 thì hay yêu mẹ (女)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152783",
+      "lang": "vi",
+      "content_html": "<p>Người phụ Nữ (女) luôn thích chơi với đứa Con (子) cửa mình.<br>..性..</p>",
+      "content_text": "Người phụ Nữ (女) luôn thích chơi với đứa Con (子) cửa mình.\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222293",
+      "lang": "vi",
+      "content_html": "<p>Con(子) gái(女) hoàn hảo(好)</p>",
+      "content_text": "Con(子) gái(女) hoàn hảo(好)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5155",
+        "name": "Doan The Anh (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/66e4a5e9678a0.png"
+      }
+    }
+  ]
+}

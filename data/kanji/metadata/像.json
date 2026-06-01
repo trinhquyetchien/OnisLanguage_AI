@@ -1,0 +1,88 @@
+{
+  "kanji": "像",
+  "meta": {
+    "weight": 242,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゾウ"
+    ],
+    "kun": [],
+    "am_han": "TƯỢNG"
+  },
+  "meaning": {
+    "vi": "bức tượng, hình ảnh, tưởng tượng",
+    "en": "statue, picture, image, figure, portrait"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/像.svg"
+  },
+  "frequency": 856,
+  "examples": [
+    "想像",
+    "画像",
+    "映像",
+    "像",
+    "肖像"
+  ],
+  "explanation": {
+    "id": "4770",
+    "text": "像 (đọc là \"zō\" hoặc \"sō\") có nghĩa là \"hình ảnh\", \"tượng trưng\" để chỉ các hình thức biểu thị hay tượng trưng cho một điều gì đó.\n\nVí dụ:\n- 像 (zō): Tượng, hình, bức tranh.\n- 画像 (gazō): Hình "
+  },
+  "comments": [
+    {
+      "id": "151795",
+      "lang": "vi",
+      "content_html": "<p>Người đúc tượng con voi</p>",
+      "content_text": "Người đúc tượng con voi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151796",
+      "lang": "vi",
+      "content_html": "<p>銅像どうぞう tượng đồng<br>木像 tượng gỗ</p>",
+      "content_text": "銅像どうぞう tượng đồng\n木像 tượng gỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151797",
+      "lang": "vi",
+      "content_html": "<p>tưởng Tượng, có cái Tượng đầu người thân voi</p>",
+      "content_text": "tưởng Tượng, có cái Tượng đầu người thân voi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

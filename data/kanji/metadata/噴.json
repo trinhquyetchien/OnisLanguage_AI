@@ -1,0 +1,107 @@
+{
+  "kanji": "噴",
+  "meta": {
+    "weight": 525,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フン"
+    ],
+    "kun": [
+      "ふ.く"
+    ],
+    "am_han": "PHÚN"
+  },
+  "meaning": {
+    "vi": "phun ra, phát ra, tuôn ra",
+    "en": "erupt, spout, emit, flush out"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/噴.svg"
+  },
+  "frequency": 1270,
+  "examples": [
+    "噴火",
+    "噴出",
+    "噴水",
+    "噴射",
+    "噴霧"
+  ],
+  "explanation": {
+    "id": "6949",
+    "text": "噴 (đọc là \"fun\") có nghĩa là \"phun\", \"xịt\" để chỉ các hành động liên quan đến việc phun ra chất lỏng hoặc khí.  \nVí dụ:  \n- 噴水 (funsui): Đài phun nước.  \n- 噴火 (funka): Sự phun trào (núi lửa)"
+  },
+  "comments": [
+    {
+      "id": "152503",
+      "lang": "vi",
+      "content_html": "<p>trong sò có 10 cọng cỏ ăn không được phún phun ra.</p>",
+      "content_text": "trong sò có 10 cọng cỏ ăn không được phún phun ra.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152504",
+      "lang": "vi",
+      "content_html": "<p>miệng thổi Phun Phún vào 10 bông hoa đồng tiền</p>",
+      "content_text": "miệng thổi Phun Phún vào 10 bông hoa đồng tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152505",
+      "lang": "vi",
+      "content_html": "<p>Miệng húp sò mà thấy cỏ mọc phun Phún thì ko đk phun ra...!</p>",
+      "content_text": "Miệng húp sò mà thấy cỏ mọc phun Phún thì ko đk phun ra...!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "218478",
+      "lang": "vi",
+      "content_html": "<p>mồm <strong>口 ngập 10 十 cộng cỏ 艹 tiền 貝 Phún ra</strong></p>",
+      "content_text": "mồm\n口 ngập 10 十 cộng cỏ 艹 tiền 貝 Phún ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    }
+  ]
+}

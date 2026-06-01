@@ -1,0 +1,93 @@
+{
+  "kanji": "逃",
+  "meta": {
+    "weight": 2650,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "に.げる",
+      "に.がす",
+      "のが.す",
+      "のが.れる"
+    ],
+    "am_han": "ĐÀO"
+  },
+  "meaning": {
+    "vi": "đào tẩu, chạy trốn",
+    "en": "escape, flee, shirk, evade, set free"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/逃.svg"
+  },
+  "frequency": 931,
+  "examples": [
+    "逃げ",
+    "逃げる",
+    "逃れ",
+    "見逃し",
+    "逃亡"
+  ],
+  "explanation": {
+    "id": "5877",
+    "text": "逃 (đọc là \"tō\") có nghĩa là \"trốn thoát\" hoặc \"chạy trốn\", chỉ các hành động liên quan đến việc thoát khỏi nơi nào đó hoặc tránh né tình huống.\n\nVí dụ:\n- 逃げる (nigeru): Chạy trốn, bỏ chạy.\n- "
+  },
+  "comments": [
+    {
+      "id": "157309",
+      "lang": "vi",
+      "content_html": "<p>ĐÀO tẩu với TRIỆU đô cướp đc</p>",
+      "content_text": "ĐÀO tẩu với TRIỆU đô cướp đc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157310",
+      "lang": "vi",
+      "content_html": "<p>Triệu chứng chạy đào tẩu</p>",
+      "content_text": "Triệu chứng chạy đào tẩu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157311",
+      "lang": "vi",
+      "content_html": "<p>Ba chân bốn cẳng bỏ chạy trên con đường</p>",
+      "content_text": "Ba chân bốn cẳng bỏ chạy trên con đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

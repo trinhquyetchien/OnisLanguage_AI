@@ -1,0 +1,91 @@
+{
+  "kanji": "兼",
+  "meta": {
+    "weight": 278,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "か.ねる",
+      "-か.ねる"
+    ],
+    "am_han": "KIÊM"
+  },
+  "meaning": {
+    "vi": "đồng thời, và trước, trước",
+    "en": "concurrently, and, beforehand, in advance"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/兼.svg"
+  },
+  "frequency": 1164,
+  "examples": [
+    "兼",
+    "兼業",
+    "兼任",
+    "兼務",
+    "兼用"
+  ],
+  "explanation": {
+    "id": "2104",
+    "text": "兼 (đọc là \"ken\" hoặc \"kan\") có nghĩa là \"kết hợp\", \"kiêm nhiệm\", chỉ việc đảm nhận nhiều vai trò hoặc chức vụ cùng lúc.  \nVí dụ:  \n- 兼任 (ken'nin): Kiêm nhiệm, đảm nhận nhiều chức vụ.  \n- 兼業 "
+  },
+  "comments": [
+    {
+      "id": "151889",
+      "lang": "vi",
+      "content_html": "<p>兼 : KIÊM (けん、げん、れん) kiêm nhiều việc<br>廉 : Kiêm thanh LIÊM nên có nhà<br>謙 : Kiêm nói lời KHIÊM tốn<br>嫌 : Nhưng Kiêm lại HIỀM khích với phụ nữ</p>",
+      "content_text": "兼 : KIÊM (けん、げん、れん) kiêm nhiều việc\n廉 : Kiêm thanh LIÊM nên có nhà\n謙 : Kiêm nói lời KHIÊM tốn\n嫌 : Nhưng Kiêm lại HIỀM khích với phụ nữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151890",
+      "lang": "vi",
+      "content_html": "<p>Kiêm luôn cầm chổi quét nhà</p>",
+      "content_text": "Kiêm luôn cầm chổi quét nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151891",
+      "lang": "vi",
+      "content_html": "<p>người có 2 chân mà kiêm 1, 2, 3 chức thì dễ mọc sừng</p>",
+      "content_text": "người có 2 chân mà kiêm 1, 2, 3 chức thì dễ mọc sừng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

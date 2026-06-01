@@ -1,0 +1,89 @@
+{
+  "kanji": "雌",
+  "meta": {
+    "weight": 2858,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "め-",
+      "めす",
+      "めん"
+    ],
+    "am_han": "THƯ"
+  },
+  "meaning": {
+    "vi": "nữ tính, nữ",
+    "en": "feminine, female"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/雌.svg"
+  },
+  "frequency": 1951,
+  "examples": [
+    "雌",
+    "雌雄"
+  ],
+  "explanation": {
+    "id": "3165",
+    "text": "雌 (đọc là \"shi\" hoặc \"mesu\") có nghĩa là \"giống cái\", dùng để chỉ động vật cái hoặc các đặc tính liên quan đến giống cái.\n\nVí dụ:\n- 雌雄 (shiyuu): Giống cái và giống đực.\n- 雌鳥 (mesudori): Chim"
+  },
+  "comments": [
+    {
+      "id": "157774",
+      "lang": "vi",
+      "content_html": "<p>Chim cái dừng lại cười hi</p>",
+      "content_text": "Chim cái dừng lại cười hi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157775",
+      "lang": "vi",
+      "content_html": "<p>người dừng lại cầm thìa gõ vào chim là tiểu thư</p>",
+      "content_text": "người dừng lại cầm thìa gõ vào chim là tiểu thư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157776",
+      "lang": "vi",
+      "content_html": "<p>Tiểu THƯ thích Thử Chim ngắn..</p>",
+      "content_text": "Tiểu THƯ thích Thử Chim ngắn..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

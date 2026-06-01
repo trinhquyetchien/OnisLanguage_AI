@@ -1,0 +1,90 @@
+{
+  "kanji": "鋼",
+  "meta": {
+    "weight": 2769,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "はがね"
+    ],
+    "am_han": "CƯƠNG"
+  },
+  "meaning": {
+    "vi": "Thép",
+    "en": "steel"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/鋼.svg"
+  },
+  "frequency": 1246,
+  "examples": [
+    "鋼",
+    "鉄鋼",
+    "鋼鉄",
+    "鋼材",
+    "鋼板"
+  ],
+  "explanation": {
+    "id": "2578",
+    "text": "鋼 (đọc là \"kō\") có nghĩa là \"thép\", thường chỉ loại thép cứng và bền được dùng trong xây dựng và sản xuất.  \nVí dụ:  \n- 鋼鉄 (kōtetsu): Thép, kim loại thép.  \n- 鋼製 (kōsei): Được làm từ thép.  "
+  },
+  "comments": [
+    {
+      "id": "157573",
+      "lang": "vi",
+      "content_html": "<p>Kim cương dùng cắt thép</p>",
+      "content_text": "Kim cương dùng cắt thép",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157574",
+      "lang": "vi",
+      "content_html": "<p>Kim cương giả đuh làm bằng thép .Q</p>",
+      "content_text": "Kim cương giả đuh làm bằng thép .Q",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157575",
+      "lang": "vi",
+      "content_html": "<p>vùng biên Cương nới khai thác Kim loại để luyện THÉP</p>",
+      "content_text": "vùng biên Cương nới khai thác Kim loại để luyện THÉP",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

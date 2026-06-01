@@ -1,0 +1,107 @@
+{
+  "kanji": "例",
+  "meta": {
+    "weight": 183,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ"
+    ],
+    "kun": [
+      "たと.える"
+    ],
+    "am_han": "LỆ"
+  },
+  "meaning": {
+    "vi": "ví dụ, điều lệ",
+    "en": "example, custom, usage, precedent"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/例.svg"
+  },
+  "frequency": 399,
+  "examples": [
+    "例えば",
+    "例",
+    "事例",
+    "例外",
+    "条例"
+  ],
+  "explanation": {
+    "id": "8209",
+    "text": "例 (đọc là \"rei\") có nghĩa là \"ví dụ\" hoặc \"mẫu\" để chỉ các trường hợp minh họa cho một ý tưởng hoặc khái niệm.\n\nVí dụ:\n- 例文 (reibun): Câu ví dụ.\n- 例えば (tatoeba): Chẳng hạn như, ví dụ như.\n- "
+  },
+  "comments": [
+    {
+      "id": "151649",
+      "lang": "vi",
+      "content_html": "<p>từng có tiền LỆ (例) có người (亻) đã chết NGẠT (歹) khi nhìn thấy ĐAO (刂)  phủ</p>",
+      "content_text": "từng có tiền LỆ (例) có người (亻) đã chết NGẠT (歹) khi nhìn thấy ĐAO (刂)  phủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151650",
+      "lang": "vi",
+      "content_html": "<p>MỘT người LIỆT kê một dẫy số ra làm VD</p>",
+      "content_text": "MỘT người LIỆT kê một dẫy số ra làm VD",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151651",
+      "lang": "vi",
+      "content_html": "<p>1 người (Nhân) dùng 5 cây đao để làm ví dụ</p>",
+      "content_text": "1 người (Nhân) dùng 5 cây đao để làm ví dụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190632",
+      "lang": "vi",
+      "content_html": "<p>例文(れいぶん): Câu văn mẫu<br>例題(れいだい): Bài mẫu<br>用例(ようれい): VD thường dùng<br>前例(ぜんれい): Tiền lệ&nbsp;</p><p>例年(れいねん): Hàng năm</p>",
+      "content_text": "例文(れいぶん): Câu văn mẫu\n例題(れいだい): Bài mẫu\n用例(ようれい): VD thường dùng\n前例(ぜんれい): Tiền lệ\n例年(れいねん): Hàng năm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

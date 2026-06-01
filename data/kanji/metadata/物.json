@@ -1,0 +1,92 @@
+{
+  "kanji": "物",
+  "meta": {
+    "weight": 1698,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ブツ",
+      "モツ"
+    ],
+    "kun": [
+      "もの",
+      "もの-"
+    ],
+    "am_han": "VẬT"
+  },
+  "meaning": {
+    "vi": "vật, động vật",
+    "en": "thing, object, matter"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/物.svg"
+  },
+  "frequency": 215,
+  "examples": [
+    "物",
+    "物語",
+    "建物",
+    "動物",
+    "人物"
+  ],
+  "explanation": {
+    "id": "6940",
+    "text": "物 (đọc là \"butsu\" hoặc \"mono\") có nghĩa là \"vật\", \"đồ vật\" để chỉ các sự vật, hiện tượng hữu hình trong cuộc sống hàng ngày.\n\nVí dụ:\n- 物品 (buppin): Hàng hóa, đồ vật.\n- 動物 (dōbutsu): Động vật"
+  },
+  "comments": [
+    {
+      "id": "36980",
+      "lang": "vi",
+      "content_html": "<p>Bò (牛) và cáo là những động <strong>vật</strong>.</p>",
+      "content_text": "Bò (牛) và cáo là những động\nvật\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4cc419456.jpg",
+      "image_path": "assets/images/物_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191111",
+      "lang": "vi",
+      "content_html": "<p><strong>vật</strong> - 物</p><p>động <strong>vật </strong>- 動物</p>",
+      "content_text": "vật\n- 物\nđộng\nvật\n- 動物",
+      "image_url": "https://jpdictionary.com/upload/images/648ac1fa12967.jpg",
+      "image_path": "assets/images/物_2.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158376",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>物 (もの): vật</p><p>買い物 (かいもの): mua sắm<br>果物 (くだもの): hoa quả<br>建物 (たてもの): tòa nhà<br>食べ物 (たべもの): đồ ăn</p><p>飲み物 (のみもの): đồ uống</p><p>贈り物 (おくりもの): quà tặng</p><p>乗り物 (のりもの): phương tiện giao thông</p><p>品物 (しなもの): hàng hóa<br>忘れ物 (わすれもの): đồ bị bỏ quên</p><p>着物 (きもの): kimono<br>動物 (どうぶつ): động vật</p><p>動物園 (どうぶつえん): sở thú<br>荷物 (にもつ): hành lý<br>見物 (けんぶつ): thăm quan</p>",
+      "content_text": "JLPT N4\n物 (もの): vật\n買い物 (かいもの): mua sắm\n果物 (くだもの): hoa quả\n建物 (たてもの): tòa nhà\n食べ物 (たべもの): đồ ăn\n飲み物 (のみもの): đồ uống\n贈り物 (おくりもの): quà tặng\n乗り物 (のりもの): phương tiện giao thông\n品物 (しなもの): hàng hóa\n忘れ物 (わすれもの): đồ bị bỏ quên\n着物 (きもの): kimono\n動物 (どうぶつ): động vật\n動物園 (どうぶつえん): sở thú\n荷物 (にもつ): hành lý\n見物 (けんぶつ): thăm quan",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

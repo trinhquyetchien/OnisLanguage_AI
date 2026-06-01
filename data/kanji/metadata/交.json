@@ -1,0 +1,116 @@
+{
+  "kanji": "交",
+  "meta": {
+    "weight": 123,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "まじ.わる",
+      "まじ.える",
+      "ま.じる",
+      "まじ.る",
+      "ま.ざる",
+      "ま.ぜる",
+      "-か.う",
+      "か.わす",
+      "かわ.す",
+      "こもごも"
+    ],
+    "am_han": "GIAO"
+  },
+  "meaning": {
+    "vi": "hòa trộn, giao hoán",
+    "en": "mingle, mixing, association, coming & going"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/交.svg"
+  },
+  "frequency": 178,
+  "examples": [
+    "交換",
+    "交通",
+    "交流",
+    "交渉",
+    "外交"
+  ],
+  "explanation": {
+    "id": "2370",
+    "text": "交 (đọc là \"kou\" hoặc \"kaeru\") có nghĩa là \"giao tiếp\", \"trao đổi\", thường chỉ các hành động liên quan đến việc giao lưu, kết nối hoặc trao đổi thông tin.\n\nVí dụ:\n- 交流 (kouryuu): Giao lưu, tr"
+  },
+  "comments": [
+    {
+      "id": "37312",
+      "lang": "vi",
+      "content_html": "<p>Ba (父) tôi đang băng qua <strong>giao </strong>lộ.\r\n</p>",
+      "content_text": "Ba (父) tôi đang băng qua\ngiao\nlộ.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe32c09b3d.jpg",
+      "image_path": "assets/images/交_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151503",
+      "lang": "vi",
+      "content_html": "<p>Người cha đứng đầu gia đình trong việc giao lưu tạo mối quan hệ</p>",
+      "content_text": "Người cha đứng đầu gia đình trong việc giao lưu tạo mối quan hệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151504",
+      "lang": "vi",
+      "content_html": "<p>Bố đội mũ tham gia giao thông</p>",
+      "content_text": "Bố đội mũ tham gia giao thông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151505",
+      "lang": "vi",
+      "content_html": "<p>Người cha có cái đầu là để giao lưu tạo mối quan hệ</p>",
+      "content_text": "Người cha có cái đầu là để giao lưu tạo mối quan hệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

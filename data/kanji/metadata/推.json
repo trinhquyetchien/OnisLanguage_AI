@@ -1,0 +1,107 @@
+{
+  "kanji": "推",
+  "meta": {
+    "weight": 1122,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "お.す"
+    ],
+    "am_han": "THÔI"
+  },
+  "meaning": {
+    "vi": "phỏng đoán, suy luận, giả sử, đẩy (cho)",
+    "en": "conjecture, infer, guess, suppose, support, push (for)"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/推.svg"
+  },
+  "frequency": 507,
+  "examples": [
+    "推進",
+    "推測",
+    "推薦",
+    "推定",
+    "推移"
+  ],
+  "explanation": {
+    "id": "4211",
+    "text": "推 (đọc là \"sui\") có nghĩa là \"đẩy\", \"thúc đẩy\", thường chỉ các hành động liên quan đến việc khuyến khích, ủng hộ hoặc suy diễn.  \nVí dụ:  \n- 推薦 (suisen): Giới thiệu, tiến cử.  \n- 推測 (suisoku"
+  },
+  "comments": [
+    {
+      "id": "153971",
+      "lang": "vi",
+      "content_html": "<p>Tay vừa  cầm chim vừa suy luận</p>",
+      "content_text": "Tay vừa  cầm chim vừa suy luận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153972",
+      "lang": "vi",
+      "content_html": "<p>Thói quen: Tay vừa sờ chim vừa SUY tính^^</p>",
+      "content_text": "Thói quen: Tay vừa sờ chim vừa SUY tính^^",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 2,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153973",
+      "lang": "vi",
+      "content_html": "<p>suy tính cách dùng tay bắt chim</p>",
+      "content_text": "suy tính cách dùng tay bắt chim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191262",
+      "lang": "vi",
+      "content_html": "<p>chữ này cũng là chữ SUY nữa</p>",
+      "content_text": "chữ này cũng là chữ SUY nữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "1090",
+        "name": "Phạm Văn Tiến",
+        "image_url": "https://jpdictionary.com/upload/images/64449a0793013.png"
+      }
+    }
+  ]
+}

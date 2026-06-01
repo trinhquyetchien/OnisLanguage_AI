@@ -1,0 +1,90 @@
+{
+  "kanji": "虐",
+  "meta": {
+    "weight": 2367,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギャク"
+    ],
+    "kun": [
+      "しいた.げる"
+    ],
+    "am_han": "NGƯỢC"
+  },
+  "meaning": {
+    "vi": "chuyên chế, áp bức",
+    "en": "tyrannize, oppress"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/虐.svg"
+  },
+  "frequency": 1464,
+  "examples": [
+    "虐待",
+    "虐殺",
+    "残虐",
+    "自虐",
+    "暴虐"
+  ],
+  "explanation": {
+    "id": "1492",
+    "text": "虐 (đọc là \"gyaku\") có nghĩa là \"ngược đãi\", \"tàn nhẫn\" để chỉ các hành động gây đau khổ hoặc tổn thương cho người khác.\n\nVí dụ:\n- 虐待 (gyakutai): Ngược đãi, bạo hành.\n- 虐殺 (gyakusatsu): Tàn s"
+  },
+  "comments": [
+    {
+      "id": "156646",
+      "lang": "vi",
+      "content_html": "<p>7 七 con Em đag bị NGƯỢC đãi ( trêu chọc, bắt nạt) trên 上 sườn núi</p>",
+      "content_text": "7 七 con Em đag bị NGƯỢC đãi ( trêu chọc, bắt nạt) trên 上 sườn núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156647",
+      "lang": "vi",
+      "content_html": "<p>Chữ E giống con dao. Lấy dao chặt chân con hổ 虎 là ngược đãi nó.</p>",
+      "content_text": "Chữ E giống con dao. Lấy dao chặt chân con hổ 虎 là ngược đãi nó.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156648",
+      "lang": "vi",
+      "content_html": "<p>Ngược đãi vì em bị hô( răng vổ)</p>",
+      "content_text": "Ngược đãi vì em bị hô( răng vổ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

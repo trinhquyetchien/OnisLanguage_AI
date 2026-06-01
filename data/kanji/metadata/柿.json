@@ -1,0 +1,86 @@
+{
+  "kanji": "柿",
+  "meta": {
+    "weight": 1332,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "かき"
+    ],
+    "am_han": "THỊ, SĨ, SỸ"
+  },
+  "meaning": {
+    "vi": "quả hồng",
+    "en": "persimmon"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/柿.svg"
+  },
+  "frequency": 1745,
+  "examples": [
+    "柿"
+  ],
+  "explanation": {
+    "id": "879",
+    "text": "柿 (đọc là \"kaki\") có nghĩa là \"quả hồng\", chỉ loại trái cây ngọt, thường được ăn tươi hoặc dùng để chế biến.  \nVí dụ:  \n- 柿の葉寿司 (kaki no ha-zushi): Sushi cuốn bằng lá hồng.  \n- 干し柿 (hoshi ka"
+  },
+  "comments": [
+    {
+      "id": "154471",
+      "lang": "vi",
+      "content_html": "<p>Cây [木] ở thành thị [市] là cây thị 柿</p>",
+      "content_text": "Cây [木] ở thành thị [市] là cây thị 柿",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154472",
+      "lang": "vi",
+      "content_html": "<p>Chợ bán nhiều cây nhất đó là cây hồng</p>",
+      "content_text": "Chợ bán nhiều cây nhất đó là cây hồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154473",
+      "lang": "vi",
+      "content_html": "<p>cây chợ = cây thị</p>",
+      "content_text": "cây chợ = cây thị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "kanji": "磯",
+  "meta": {
+    "weight": 1893,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "いそ"
+    ],
+    "am_han": "KI"
+  },
+  "meaning": {
+    "vi": "bờ biển, bãi biển",
+    "en": "seashore, beach"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/磯.svg"
+  },
+  "frequency": 1444,
+  "examples": [
+    "磯"
+  ],
+  "explanation": {
+    "id": "209",
+    "text": "磯 (đọc là \"iso\") có nghĩa là \"bãi đá\" hoặc \"bờ biển\" để chỉ những vùng đất ven biển có nhiều đá hoặc bãi cát.  \nVí dụ:  \n- 磯辺 (isobe): Ven bờ đá, bãi đá ven biển.  \n- 磯遊び (isoasobi): Chơi đù"
+  },
+  "comments": [
+    {
+      "id": "155667",
+      "lang": "vi",
+      "content_html": "<p>Trên bờ biển thì có biết bao nhiêu 幾 là những viên<br>đá (nhỏ) (cát là đá nhỏ).</p>",
+      "content_text": "Trên bờ biển thì có biết bao nhiêu 幾 là những viên\nđá (nhỏ) (cát là đá nhỏ).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

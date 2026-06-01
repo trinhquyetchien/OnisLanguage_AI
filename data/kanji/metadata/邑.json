@@ -1,0 +1,103 @@
+{
+  "kanji": "邑",
+  "meta": {
+    "weight": 2695,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ"
+    ],
+    "kun": [
+      "むら"
+    ],
+    "am_han": "ẤP"
+  },
+  "meaning": {
+    "vi": "làng, cộng đồng nông thôn, cấp tiến đúng đắn của làng (số 163)",
+    "en": "village, rural community, right village radical (no. 163)"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/邑.svg"
+  },
+  "frequency": 2452,
+  "examples": [
+    "邑"
+  ],
+  "explanation": {
+    "id": "7793",
+    "text": "邑 (đọc là \"yū\" hoặc \"mura\") có nghĩa là \"thôn\" hoặc \"làng\", chỉ các khu vực dân cư nhỏ. \n\nVí dụ:\n- 邑 (yū): Thôn, làng.\n- 邑里 (yūraku): Khu vực dân cư, thôn xóm.\n- 川邑 (kawamura): Làng bên sông"
+  },
+  "comments": [
+    {
+      "id": "157421",
+      "lang": "vi",
+      "content_html": "<p>Khẩu 口 khí của ba 巴 trong thôn (ấp 邑) thật mãnh liệt.</p>",
+      "content_text": "Khẩu 口 khí của ba 巴 trong thôn (ấp 邑) thật mãnh liệt.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221793",
+      "lang": "vi",
+      "content_html": "<p>Biến thể của <strong>邑</strong> là<strong>阝</strong>, <strong>⻖</strong>đứng bên trái thì là <strong>Phụ, </strong>đứng bên phải thì là<strong> Ấp.</strong></p>",
+      "content_text": "Biến thể của\n邑\nlà\n阝\n,\n⻖\nđứng bên trái thì là\nPhụ,\nđứng bên phải thì là\nẤp.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    },
+    {
+      "id": "157422",
+      "lang": "vi",
+      "content_html": "<p>Làng ấp là nơi nuôi dưỡng cái mồm từ thời còn (màu) xanh !</p>",
+      "content_text": "Làng ấp là nơi nuôi dưỡng cái mồm từ thời còn (màu) xanh !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157423",
+      "lang": "vi",
+      "content_html": "<p>3 cái miệng nói to nhất ấp :)))</p>",
+      "content_text": "3 cái miệng nói to nhất ấp :)))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

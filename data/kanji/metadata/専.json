@@ -1,0 +1,90 @@
+{
+  "kanji": "専",
+  "meta": {
+    "weight": 753,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "もっぱ.ら"
+    ],
+    "am_han": "CHUYÊN"
+  },
+  "meaning": {
+    "vi": "đặc biệt, chuyên môn",
+    "en": "specialty, exclusive, mainly, solely"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/専.svg"
+  },
+  "frequency": 506,
+  "examples": [
+    "専門",
+    "専用",
+    "専攻",
+    "専業",
+    "専念"
+  ],
+  "explanation": {
+    "id": "4484",
+    "text": "専 (đọc là \"sen\") có nghĩa là \"chuyên môn\", \"chuyên biệt\" để chỉ sự tập trung vào một lĩnh vực hoặc hoạt động cụ thể.  \nVí dụ:  \n- 専門 (senmon): Chuyên môn, lĩnh vực chuyên ngành.  \n- 専念 (senn"
+  },
+  "comments": [
+    {
+      "id": "153043",
+      "lang": "vi",
+      "content_html": "<p>Làm chuyên môn về 10 cái ruộng sẽ hơi thốn</p>",
+      "content_text": "Làm chuyên môn về 10 cái ruộng sẽ hơi thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153044",
+      "lang": "vi",
+      "content_html": "<p>cày 10 mảnh ruộng mà không thấy thốn là CHUYÊN MÔN của tui</p>",
+      "content_text": "cày 10 mảnh ruộng mà không thấy thốn là CHUYÊN MÔN của tui",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153045",
+      "lang": "vi",
+      "content_html": "<p>Tôi CHUYÊN Môn đi Cầy vào lúc 10 giờ sáng khi Mặt Trời lên</p>",
+      "content_text": "Tôi CHUYÊN Môn đi Cầy vào lúc 10 giờ sáng khi Mặt Trời lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "kanji": "轟",
+  "meta": {
+    "weight": 2624,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴウ",
+      "コウ"
+    ],
+    "kun": [
+      "とどろ.かす",
+      "とどろ.く"
+    ],
+    "am_han": "OANH, HOANH"
+  },
+  "meaning": {
+    "vi": "tiếng gầm, tiếng sấm, tiếng nổ vang dội",
+    "en": "roar, thunder, boom resound"
+  },
+  "stroke": {
+    "count": 21,
+    "svg": "assets/svg/轟.svg"
+  },
+  "frequency": 2438,
+  "examples": [
+    "轟音",
+    "轟"
+  ],
+  "explanation": {
+    "id": "2622",
+    "text": "轟 (đọc là \"gō\") có nghĩa là \"tiếng ầm ầm\", thường được sử dụng để chỉ âm thanh lớn và mạnh mẽ, như tiếng động của sấm sét hoặc máy bay.\n\nVí dụ:\n- 轟音 (gōon): Tiếng vang lớn.\n- 轟く (todoroku): "
+  },
+  "comments": [
+    {
+      "id": "157250",
+      "lang": "vi",
+      "content_html": "<p>3 cái xe tất nhiên là ồn rồi :))</p>",
+      "content_text": "3 cái xe tất nhiên là ồn rồi :))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157251",
+      "lang": "vi",
+      "content_html": "<p>T coi phim mới biết cái chữ này á</p>",
+      "content_text": "T coi phim mới biết cái chữ này á",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157252",
+      "lang": "vi",
+      "content_html": "<p>Ba xe kéo lê lên đàng, âm vang như sấm. -&#62; chữ Oanh<br>Câu thơ dân gian.</p>",
+      "content_text": "Ba xe kéo lê lên đàng, âm vang như sấm. -> chữ Oanh\nCâu thơ dân gian.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

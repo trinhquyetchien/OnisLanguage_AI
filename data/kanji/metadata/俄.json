@@ -1,0 +1,84 @@
+{
+  "kanji": "俄",
+  "meta": {
+    "weight": 197,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガ"
+    ],
+    "kun": [
+      "にわか"
+    ],
+    "am_han": "NGA"
+  },
+  "meaning": {
+    "vi": "đột ngột, ngẫu hứng",
+    "en": "sudden, abrupt, improvised"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/俄.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "716",
+    "text": "俄 (đọc là \"ga\") có nghĩa là \"Nga\" hoặc \"đột ngột\". Chữ này thường được sử dụng để chỉ đất nước Nga hoặc mang ý nghĩa liên quan đến sự bất ngờ, đột xuất.\n\nVí dụ:\n- 俄罗斯 (Erosu): Nga (tên gọi c"
+  },
+  "comments": [
+    {
+      "id": "218871",
+      "lang": "vi",
+      "content_html": "<p>Người Nga đột ngột ngã trong chốc lát</p>",
+      "content_text": "Người Nga đột ngột ngã trong chốc lát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218872",
+      "lang": "vi",
+      "content_html": "<p>Người ngã(我 đột ngột(俄)</p>",
+      "content_text": "Người ngã(我 đột ngột(俄)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218873",
+      "lang": "vi",
+      "content_html": "<p>con người thì bản ngã của họ là thứ không thể thay đổi trong chốc lát</p>",
+      "content_text": "con người thì bản ngã của họ là thứ không thể thay đổi trong chốc lát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "kanji": "隆",
+  "meta": {
+    "weight": 2838,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リュウ"
+    ],
+    "kun": [],
+    "am_han": "LONG"
+  },
+  "meaning": {
+    "vi": "bướu, cao, quý, thịnh vượng",
+    "en": "hump, high, noble, prosperity"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/隆.svg"
+  },
+  "frequency": 1109,
+  "examples": [
+    "隆盛",
+    "興隆",
+    "隆起"
+  ],
+  "explanation": {
+    "id": "20279",
+    "text": "隆 (đọc là \"rō\") có nghĩa là \"thịnh vượng\", \"phát triển\" để chỉ sự thịnh vượng và phát triển trong xã hội hoặc kinh tế.  \nVí dụ:  \n- 隆盛 (rōsei): Thịnh vượng, hưng thịnh.  \n- 隆起 (rōki): Sự nân"
+  },
+  "comments": [
+    {
+      "id": "157723",
+      "lang": "vi",
+      "content_html": "<p>Vùng đất có long mạch chạy qua thì sinh sống phồn thịnh</p>",
+      "content_text": "Vùng đất có long mạch chạy qua thì sinh sống phồn thịnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157724",
+      "lang": "vi",
+      "content_html": "<p>Dưới tường thành có dấu chân sự sinh sống là thể hiện sự phồn thịnh của đất nươc</p>",
+      "content_text": "Dưới tường thành có dấu chân sự sinh sống là thể hiện sự phồn thịnh của đất nươc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157725",
+      "lang": "vi",
+      "content_html": "<p>Vùng đất sinh ra long mạch sau sẽ hung thịnh</p>",
+      "content_text": "Vùng đất sinh ra long mạch sau sẽ hung thịnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

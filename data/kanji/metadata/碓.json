@@ -1,0 +1,52 @@
+{
+  "kanji": "碓",
+  "meta": {
+    "weight": 1884,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク",
+      "タイ"
+    ],
+    "kun": [
+      "たし.か",
+      "かく.たる"
+    ],
+    "am_han": "ĐỐI"
+  },
+  "meaning": {
+    "vi": "cái chày",
+    "en": "pestle"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/碓.svg"
+  },
+  "frequency": 2364,
+  "examples": [],
+  "explanation": {
+    "id": "310",
+    "text": "碓 (đọc là \"sui\") có nghĩa là \"cối xay\", chỉ các dụng cụ hoặc hành động liên quan đến việc xay nghiền.  \nVí dụ:  \n- 碓臼 (usui): Cối xay gạo.  \n- 碓石 (suishi): Đá cối xay.  \n- 碓を挽く (sui wo hiku)"
+  },
+  "comments": [
+    {
+      "id": "155655",
+      "lang": "vi",
+      "content_html": "<p>Con chym bằng đá đối đầu với cái cối dã gạo :v</p>",
+      "content_text": "Con chym bằng đá đối đầu với cái cối dã gạo :v",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

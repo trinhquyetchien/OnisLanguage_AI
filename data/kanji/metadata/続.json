@@ -1,0 +1,112 @@
+{
+  "kanji": "続",
+  "meta": {
+    "weight": 2083,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゾク",
+      "ショク",
+      "コウ",
+      "キョウ"
+    ],
+    "kun": [
+      "つづ.く",
+      "つづ.ける",
+      "つぐ.ない"
+    ],
+    "am_han": "TỤC"
+  },
+  "meaning": {
+    "vi": "tiếp tục",
+    "en": "continue, series, sequel"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/続.svg"
+  },
+  "frequency": 141,
+  "examples": [
+    "続き",
+    "続ける",
+    "続く",
+    "連続",
+    "継続"
+  ],
+  "explanation": {
+    "id": "4817",
+    "text": "続 (đọc là \"zoku\") có nghĩa là \"tiếp tục\", \"kế tục\", để chỉ các hành động nối dài hoặc duy trì một điều gì đó.  \nVí dụ:  \n- 続ける (tsuzukeru): Tiếp tục, duy trì.  \n- 続編 (zokuhen): Tiếp phần, ph"
+  },
+  "comments": [
+    {
+      "id": "37262",
+      "lang": "vi",
+      "content_html": "<p>Tôi<strong> tiếp tục</strong> bán (売) chỉ(糸).</p>",
+      "content_text": "Tôi\ntiếp tục\nbán (売) chỉ(糸).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdb31de3f8.jpg",
+      "image_path": "assets/images/続_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156068",
+      "lang": "vi",
+      "content_html": "<p>Tiếp TỤC bán DÂY</p>",
+      "content_text": "Tiếp TỤC bán DÂY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156069",
+      "lang": "vi",
+      "content_html": "<p>TIếp TỤC bán CHỈ</p>",
+      "content_text": "TIếp TỤC bán CHỈ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156070",
+      "lang": "vi",
+      "content_html": "<p>Tơ chỉ liên TỤC đc bán khuyến mại</p>",
+      "content_text": "Tơ chỉ liên TỤC đc bán khuyến mại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

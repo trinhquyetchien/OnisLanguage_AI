@@ -1,0 +1,89 @@
+{
+  "kanji": "鉢",
+  "meta": {
+    "weight": 2751,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハチ",
+      "ハツ"
+    ],
+    "kun": [],
+    "am_han": "BÁT"
+  },
+  "meaning": {
+    "vi": "bát, bồn gạo, nồi, vương miện",
+    "en": "bowl, rice tub, pot, crown"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/鉢.svg"
+  },
+  "frequency": 1890,
+  "examples": [
+    "鉢",
+    "鉢植え",
+    "小鉢",
+    "植木鉢",
+    "すり鉢"
+  ],
+  "explanation": {
+    "id": "6400",
+    "text": "鉢 (đọc là \"hachi\") có nghĩa là \"bát\" hoặc \"chậu\", thường chỉ đến các loại đồ chứa, đặc biệt là bằng kim loại hoặc đất nung.  \nVí dụ:  \n- 鉢植え (hachiue): Cây trồng trong chậu.  \n- 鉢巻き (hamaki)"
+  },
+  "comments": [
+    {
+      "id": "157546",
+      "lang": "vi",
+      "content_html": "<p>Bản chất kim loại là để làm bát chậu</p>",
+      "content_text": "Bản chất kim loại là để làm bát chậu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157547",
+      "lang": "vi",
+      "content_html": "<p>ở Nhật BẢN 本 cái BÁT 鉢  làm bằng Kim loại 金</p>",
+      "content_text": "ở Nhật BẢN 本 cái BÁT 鉢  làm bằng Kim loại 金",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157548",
+      "lang": "vi",
+      "content_html": "<p>cái bát xin cơm của đường tam tạng có nguồn gốc từ vàng</p>",
+      "content_text": "cái bát xin cơm của đường tam tạng có nguồn gốc từ vàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

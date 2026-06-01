@@ -1,0 +1,90 @@
+{
+  "kanji": "附",
+  "meta": {
+    "weight": 2821,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "つ.ける",
+      "つ.く"
+    ],
+    "am_han": "PHỤ"
+  },
+  "meaning": {
+    "vi": "đính kèm, tham chiếu đến, nối thêm",
+    "en": "affixed, attach, refer to, append"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/附.svg"
+  },
+  "frequency": 2396,
+  "examples": [
+    "附属",
+    "附帯",
+    "寄附",
+    "附則"
+  ],
+  "explanation": {
+    "id": "6858",
+    "text": "附 (đọc là \"fu\") có nghĩa là \"gắn\", \"đính kèm\" để chỉ việc thêm, nối hoặc liên kết các vật thể hoặc ý tưởng với nhau.  \nVí dụ:  \n- 附属 (fuzoku): Thuộc về, phụ thuộc vào.  \n- 添付 (tenpu): Đính k"
+  },
+  "comments": [
+    {
+      "id": "157672",
+      "lang": "vi",
+      "content_html": "<p>giao Phó cho miếng đất này coi như Phụ giúp phần nào</p>",
+      "content_text": "giao Phó cho miếng đất này coi như Phụ giúp phần nào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157673",
+      "lang": "vi",
+      "content_html": "<p>phụ cận ,phụ cấp , phụ họa</p>",
+      "content_text": "phụ cận ,phụ cấp , phụ họa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157674",
+      "lang": "vi",
+      "content_html": "<p>ấp 阝này được giao phó 付 cho người con nhưng anh cần được (PHỤ) 附 giúp</p>",
+      "content_text": "ấp 阝này được giao phó 付 cho người con nhưng anh cần được (PHỤ) 附 giúp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

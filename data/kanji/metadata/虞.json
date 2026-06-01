@@ -1,0 +1,74 @@
+{
+  "kanji": "虞",
+  "meta": {
+    "weight": 2370,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "グ"
+    ],
+    "kun": [
+      "おそれ",
+      "おもんぱか.る",
+      "はか.る",
+      "うれ.える",
+      "あざむ.く",
+      "あやま.る",
+      "のぞ.む",
+      "たの.しむ"
+    ],
+    "am_han": "NGU"
+  },
+  "meaning": {
+    "vi": "sợ hãi, bất an, lo lắng, kỳ vọng, cân nhắc",
+    "en": "fear, uneasiness, anxiety, concern, expectation, consideration"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/虞.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1843",
+    "text": "虞 (đọc là \"gu\") có nghĩa là \"lo lắng\", \"băn khoăn\" để chỉ tình trạng cảm xúc liên quan đến sự lo ngại hoặc sợ hãi về điều gì đó có thể xảy ra.\nVí dụ:\n- 虞犯 (guhan): Tội phạm dự đoán, tội phạm"
+  },
+  "comments": [
+    {
+      "id": "220599",
+      "lang": "vi",
+      "content_html": "<p>con hổ ăn bắp ngô xong bị ngu đi, lúc nào cũng sợ hãi</p>",
+      "content_text": "con hổ ăn bắp ngô xong bị ngu đi, lúc nào cũng sợ hãi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220600",
+      "lang": "vi",
+      "content_html": "<p>Vào thời nhà Hồ (1400-1407) nước ta có quốc hiệu là ĐẠI NGU (大虞) .Chữ “Ngu” trong quốc hiệu “Đại Ngu” của nhà Hồ có nghĩa là “sự yên vui, hòa bình\". “Đại Ngu” có thể hiểu là ước vọng về một sự bình yên rộng lớn trên khắp cõi giang sơn.</p>",
+      "content_text": "Vào thời nhà Hồ (1400-1407) nước ta có quốc hiệu là ĐẠI NGU (大虞) .Chữ “Ngu” trong quốc hiệu “Đại Ngu” của nhà Hồ có nghĩa là “sự yên vui, hòa bình\". “Đại Ngu” có thể hiểu là ước vọng về một sự bình yên rộng lớn trên khắp cõi giang sơn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

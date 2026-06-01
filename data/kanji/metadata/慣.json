@@ -1,0 +1,91 @@
+{
+  "kanji": "慣",
+  "meta": {
+    "weight": 1008,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "な.れる",
+      "な.らす"
+    ],
+    "am_han": "QUÁN"
+  },
+  "meaning": {
+    "vi": "quen, tập quán",
+    "en": "accustomed, get used to, become experienced"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/慣.svg"
+  },
+  "frequency": 1177,
+  "examples": [
+    "慣れ",
+    "習慣",
+    "慣習",
+    "慣れる",
+    "慣行"
+  ],
+  "explanation": {
+    "id": "1108",
+    "text": "慣 (đọc là \"kan\") có nghĩa là \"quen\", \"thói quen\" để chỉ trạng thái đã quen thuộc với một hành động hay tình huống nào đó.\n\nVí dụ:\n- 慣れる (nareru): Trở nên quen thuộc.\n- 慣習 (kanshū): Tập quán,"
+  },
+  "comments": [
+    {
+      "id": "153688",
+      "lang": "vi",
+      "content_html": "<p>Thói quen nuôi Sò(貝) trên Ruộng bằng cả Tâm Can(カン)</p>",
+      "content_text": "Thói quen nuôi Sò(貝) trên Ruộng bằng cả Tâm Can(カン)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153689",
+      "lang": "vi",
+      "content_html": "<p>Trong thâm Tâm lúc nào cũng phải có Tiền bạc, Ruộng đất là tập Quán của người VN</p>",
+      "content_text": "Trong thâm Tâm lúc nào cũng phải có Tiền bạc, Ruộng đất là tập Quán của người VN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153690",
+      "lang": "vi",
+      "content_html": "<p>日本の生活に慣れましたか</p>",
+      "content_text": "日本の生活に慣れましたか",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

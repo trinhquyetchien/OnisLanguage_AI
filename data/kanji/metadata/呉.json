@@ -1,0 +1,88 @@
+{
+  "kanji": "呉",
+  "meta": {
+    "weight": 470,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴ"
+    ],
+    "kun": [
+      "く.れる",
+      "くれ"
+    ],
+    "am_han": "NGÔ"
+  },
+  "meaning": {
+    "vi": "cho, làm điều gì đó cho, vương quốc Wu",
+    "en": "give, do something for, kingdom of Wu"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/呉.svg"
+  },
+  "frequency": 1729,
+  "examples": [
+    "呉",
+    "呉服"
+  ],
+  "explanation": {
+    "id": "2324",
+    "text": "呉 (đọc là \"go\" hoặc \"o\") có nghĩa là \"nước Ngô\", chỉ một trong ba nước thời Tam Quốc ở Trung Quốc. Nó cũng có thể ám chỉ đến những điều liên quan đến văn hóa và lịch sử của vùng này.\n\nVí dụ:"
+  },
+  "comments": [
+    {
+      "id": "152364",
+      "lang": "vi",
+      "content_html": "<p>Nước Ngô là Miệng ngồi trên Ghế Hai chân</p>",
+      "content_text": "Nước Ngô là Miệng ngồi trên Ghế Hai chân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152365",
+      "lang": "vi",
+      "content_html": "<p>ngồi trên ghế 2 chân đang ăn ngô</p>",
+      "content_text": "ngồi trên ghế 2 chân đang ăn ngô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152366",
+      "lang": "vi",
+      "content_html": "<p>Uống nước NGÔ mà cũng uốn éo từ miệng tới chân</p>",
+      "content_text": "Uống nước NGÔ mà cũng uốn éo từ miệng tới chân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

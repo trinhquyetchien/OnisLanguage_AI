@@ -1,0 +1,93 @@
+{
+  "kanji": "打",
+  "meta": {
+    "weight": 1047,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダ",
+      "ダース"
+    ],
+    "kun": [
+      "う.つ",
+      "う.ち-",
+      "ぶ.つ"
+    ],
+    "am_han": "ĐẢ"
+  },
+  "meaning": {
+    "vi": "đánh, ẩu đả",
+    "en": "strike, hit, knock, pound, dozen"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/打.svg"
+  },
+  "frequency": 239,
+  "examples": [
+    "打っ",
+    "打ち合わせ",
+    "打つ",
+    "打ち上げ",
+    "打"
+  ],
+  "explanation": {
+    "id": "4899",
+    "text": "打 (đọc là \"da\" hoặc \"utsu\") có nghĩa là \"đánh\", \"gõ\", chỉ các hành động liên quan đến việc tác động một cách mạnh mẽ lên một vật thể.  \nVí dụ:  \n- 打撃 (dageki): Đòn đánh, tổn thương.  \n- 打つ ("
+  },
+  "comments": [
+    {
+      "id": "153787",
+      "lang": "vi",
+      "content_html": "<p>TAY cầm cây ĐINH đi ẩu ĐẢ</p>",
+      "content_text": "TAY cầm cây ĐINH đi ẩu ĐẢ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153788",
+      "lang": "vi",
+      "content_html": "<p>Tay rải đinh có ngày ẩu đả</p>",
+      "content_text": "Tay rải đinh có ngày ẩu đả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153789",
+      "lang": "vi",
+      "content_html": "<p>Tay đánh vào đinh</p>",
+      "content_text": "Tay đánh vào đinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

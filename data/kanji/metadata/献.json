@@ -1,0 +1,108 @@
+{
+  "kanji": "献",
+  "meta": {
+    "weight": 1722,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン",
+      "コン"
+    ],
+    "kun": [
+      "たてまつ.る"
+    ],
+    "am_han": "HIẾN, TA"
+  },
+  "meaning": {
+    "vi": "cung cấp, quầy cho đồ uống, hiện tại",
+    "en": "offering, counter for drinks, present, offer"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/献.svg"
+  },
+  "frequency": 637,
+  "examples": [
+    "貢献",
+    "文献",
+    "献金",
+    "献身",
+    "献血"
+  ],
+  "explanation": {
+    "id": "2152",
+    "text": "献 (đọc là \"ken\") có nghĩa là \"cống hiến\", \"biếu\" để chỉ các hành động liên quan đến việc dâng tặng hoặc cống hiến cho người khác.\n\nVí dụ:\n- 献血 (kenketsu): Hiến máu.\n- 献身 (kenshin): Cống hiến"
+  },
+  "comments": [
+    {
+      "id": "155293",
+      "lang": "vi",
+      "content_html": "<p>Hiến tặng chó cho miền nam</p>",
+      "content_text": "Hiến tặng chó cho miền nam",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155294",
+      "lang": "vi",
+      "content_html": "<p>Con chó hiến dâng thân xác cho người việt nam</p>",
+      "content_text": "Con chó hiến dâng thân xác cho người việt nam",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155295",
+      "lang": "vi",
+      "content_html": "<p>Phía nam đang HIẾN tặng chó</p>",
+      "content_text": "Phía nam đang HIẾN tặng chó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221490",
+      "lang": "vi",
+      "content_html": "<p>tiến về phương Nam cùng bầy khuyển đi tìm cống Hiến</p><p>&nbsp;</p>",
+      "content_text": "tiến về phương Nam cùng bầy khuyển đi tìm cống Hiến",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    }
+  ]
+}

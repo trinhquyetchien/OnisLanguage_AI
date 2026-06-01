@@ -1,0 +1,91 @@
+{
+  "kanji": "場",
+  "meta": {
+    "weight": 579,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ",
+      "チョウ"
+    ],
+    "kun": [
+      "ば"
+    ],
+    "am_han": "TRƯỜNG"
+  },
+  "meaning": {
+    "vi": "địa điểm, hội trường",
+    "en": "location, place"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/場.svg"
+  },
+  "frequency": 52,
+  "examples": [
+    "場合",
+    "場",
+    "場所",
+    "市場",
+    "立場"
+  ],
+  "explanation": {
+    "id": "3955",
+    "text": "場 (đọc là \"ba\") có nghĩa là \"nơi chốn\", \"không gian\" để chỉ các địa điểm hoặc bối cảnh diễn ra hoạt động nào đó.\n\nVí dụ:\n- 場所 (basho): Địa điểm, nơi chốn.\n- 野球場 (yakyūjō): Sân bóng chày.\n- 設"
+  },
+  "comments": [
+    {
+      "id": "190949",
+      "lang": "vi",
+      "content_html": "<p><strong>địa điểm </strong>trồng cây</p>",
+      "content_text": "địa điểm\ntrồng cây",
+      "image_url": "https://jpdictionary.com/upload/images/648a756a04cd7.jpg",
+      "image_path": "assets/images/場_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36958",
+      "lang": "vi",
+      "content_html": "<p>Chọn <strong>địa điểm </strong>có đất (土) tốt và ánh sáng mặt trời (日).</p>",
+      "content_text": "Chọn\nđịa điểm\ncó đất (土) tốt và ánh sáng mặt trời (日).",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4a18a85c2.jpg",
+      "image_path": "assets/images/場_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152632",
+      "lang": "vi",
+      "content_html": "<p>trên là trời , dưới là đất giữa là đống vật liệu xây dựng =) đây là công trường</p>",
+      "content_text": "trên là trời , dưới là đất giữa là đống vật liệu xây dựng =) đây là công trường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

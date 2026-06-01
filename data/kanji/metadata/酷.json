@@ -1,0 +1,90 @@
+{
+  "kanji": "酷",
+  "meta": {
+    "weight": 2721,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コク"
+    ],
+    "kun": [
+      "ひど.い"
+    ],
+    "am_han": "KHỐC"
+  },
+  "meaning": {
+    "vi": "tàn nhẫn, nghiêm trọng, tàn bạo, bất công",
+    "en": "cruel, severe, atrocious, unjust"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/酷.svg"
+  },
+  "frequency": 1596,
+  "examples": [
+    "残酷",
+    "過酷",
+    "酷い",
+    "酷",
+    "冷酷"
+  ],
+  "explanation": {
+    "id": "2643",
+    "text": "酷 (đọc là \"koku\") có nghĩa là \"khắc nghiệt\", \"dữ dội\", thường dùng để chỉ sự lạnh lẽo hoặc tình trạng tàn nhẫn.  \nVí dụ:  \n- 酷暑 (kokusho): Nắng nóng khắc nghiệt.  \n- 酷評 (kokuhyō): Nhận xét k"
+  },
+  "comments": [
+    {
+      "id": "157491",
+      "lang": "vi",
+      "content_html": "<p>Uống rựou vào thì sẽ tố cáo nhau 1 cách tàn khốc</p>",
+      "content_text": "Uống rựou vào thì sẽ tố cáo nhau 1 cách tàn khốc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157492",
+      "lang": "vi",
+      "content_html": "<p>Dậu và Cáo đánh nhau KHỐC liệt</p>",
+      "content_text": "Dậu và Cáo đánh nhau KHỐC liệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157493",
+      "lang": "vi",
+      "content_html": "<p>Uống rượu vào mồm sẽ sinh ra lời kinh khủng</p>",
+      "content_text": "Uống rượu vào mồm sẽ sinh ra lời kinh khủng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

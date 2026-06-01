@@ -1,0 +1,87 @@
+{
+  "kanji": "机",
+  "meta": {
+    "weight": 1284,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "つくえ"
+    ],
+    "am_han": "CƠ"
+  },
+  "meaning": {
+    "vi": "bàn",
+    "en": "desk, table"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/机.svg"
+  },
+  "frequency": 1671,
+  "examples": [
+    "机",
+    "机上"
+  ],
+  "explanation": {
+    "id": "1298",
+    "text": "机 (đọc là \"ki\") có nghĩa là \"cái bàn\", \"máy móc\" để chỉ các vật dụng hoặc thiết bị hỗ trợ cho công việc hay hoạt động.  \nVí dụ:  \n- 機械 (kikai): Máy móc, cơ khí.  \n- 机会 (ch機会, kikai): Cơ hội."
+  },
+  "comments": [
+    {
+      "id": "154370",
+      "lang": "vi",
+      "content_html": "<p>Chân cây làm bàn</p>",
+      "content_text": "Chân cây làm bàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154371",
+      "lang": "vi",
+      "content_html": "<p>Cái Bàn đc làm từ Cây</p>",
+      "content_text": "Cái Bàn đc làm từ Cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154372",
+      "lang": "vi",
+      "content_html": "<p>Dùng cây làm cái bàn kỷ niệm</p>",
+      "content_text": "Dùng cây làm cái bàn kỷ niệm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "kanji": "廻",
+  "meta": {
+    "weight": 885,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ",
+      "エ"
+    ],
+    "kun": [
+      "まわ.る",
+      "まわ.す",
+      "もとお.る",
+      "めぐ.る",
+      "めぐ.らす"
+    ],
+    "am_han": "HỒI"
+  },
+  "meaning": {
+    "vi": "vòng, trò chơi, xoay vòng, đi vòng quanh, chu vi",
+    "en": "round, game, revolve, go around, circumference"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/廻.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "759",
+    "text": "廻 (đọc là \"kai\" hoặc \"mawaru\") có nghĩa là \"quay\", \"xoay\", thường dùng để chỉ hành động quay vòng hoặc trở lại.  \nVí dụ:  \n- 廻り道 (mawari-michi): Đường vòng, lối đi vòng.  \n- 廻す (mawasu): Qua"
+  },
+  "comments": [
+    {
+      "id": "219427",
+      "lang": "vi",
+      "content_html": "<p>Dẫn(廴) đi 1 Hồi (回) rồi Về</p>",
+      "content_text": "Dẫn(廴) đi 1 Hồi (回) rồi Về",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219428",
+      "lang": "vi",
+      "content_html": "<p>DẪN vua đi 1 HỒI rồi quay VỀ</p>",
+      "content_text": "DẪN vua đi 1 HỒI rồi quay VỀ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

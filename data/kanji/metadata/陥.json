@@ -1,0 +1,91 @@
+{
+  "kanji": "陥",
+  "meta": {
+    "weight": 2828,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "おちい.る",
+      "おとしい.れる"
+    ],
+    "am_han": "HÃM"
+  },
+  "meaning": {
+    "vi": "sụp đổ, rơi vào, hang động, rơi vào (lâu đài), trượt vào",
+    "en": "collapse, fall into, cave in, fall (castle), slide into"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/陥.svg"
+  },
+  "frequency": 1154,
+  "examples": [
+    "欠陥",
+    "陥る",
+    "陥落",
+    "陥れる",
+    "陥没"
+  ],
+  "explanation": {
+    "id": "1196",
+    "text": "陥 (đọc là \"kan\", \"ō\") có nghĩa là \"rơi vào\", \"sa vào\" để chỉ tình trạng rơi vào một hoàn cảnh xấu hoặc bị mắc kẹt trong điều gì đó không mong muốn.\n\nVí dụ:\n- 陥る (otoru): Rơi vào, sa vào (tìn"
+  },
+  "comments": [
+    {
+      "id": "157693",
+      "lang": "vi",
+      "content_html": "<p>Vào một ngày bờ sông bị vây hãm quanh các góc giác</p>",
+      "content_text": "Vào một ngày bờ sông bị vây hãm quanh các góc giác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157694",
+      "lang": "vi",
+      "content_html": "<p>Bãi Đất của ông n bị Vây HÃM 1 Ngày</p>",
+      "content_text": "Bãi Đất của ông n bị Vây HÃM 1 Ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157695",
+      "lang": "vi",
+      "content_html": "<p>Làm Bạn 718 ngày vẫn thấy thiếu sót,lỗi</p>",
+      "content_text": "Làm Bạn 718 ngày vẫn thấy thiếu sót,lỗi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

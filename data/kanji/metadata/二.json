@@ -1,0 +1,76 @@
+{
+  "kanji": "二",
+  "meta": {
+    "weight": 113,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ニ",
+      "ジ"
+    ],
+    "kun": [
+      "ふた",
+      "ふた.つ",
+      "ふたたび"
+    ],
+    "am_han": "NHỊ"
+  },
+  "meaning": {
+    "vi": "hai",
+    "en": "two, two radical (no. 7)"
+  },
+  "stroke": {
+    "count": 2,
+    "svg": "assets/svg/二.svg"
+  },
+  "frequency": 9,
+  "examples": [
+    "二",
+    "二つ",
+    "二度と",
+    "二月",
+    "十二月"
+  ],
+  "explanation": {
+    "id": "6086",
+    "text": "二 (đọc là \"ni\") có nghĩa là \"hai\", biểu thị số lượng hoặc thứ tự. \n\nVí dụ:\n- 二人 (futari): Hai người.\n- 二月 (nigatsu): Tháng hai.\n- 二重 (nijū): Gấp đôi, hai lớp."
+  },
+  "comments": [
+    {
+      "id": "452",
+      "lang": "vi",
+      "content_html": "<p>Hai ngón tay biểu thị cho số 2.</p>",
+      "content_text": "Hai ngón tay biểu thị cho số 2.",
+      "image_url": "https://jpdictionary.com/upload/images/62975f643828f.jpg",
+      "image_path": "assets/images/二_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158216",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5<br>二 (に): 2</p><p>二つ (ふたつ): 2 cái</p><p>二人 (ふたり): 2 người</p>",
+      "content_text": "JLPT N5\n二 (に): 2\n二つ (ふたつ): 2 cái\n二人 (ふたり): 2 người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

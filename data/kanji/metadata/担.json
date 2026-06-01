@@ -1,0 +1,108 @@
+{
+  "kanji": "担",
+  "meta": {
+    "weight": 1070,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "かつ.ぐ",
+      "にな.う"
+    ],
+    "am_han": "ĐẢM"
+  },
+  "meaning": {
+    "vi": "đảm đương",
+    "en": "shouldering, carry, raise, bear"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/担.svg"
+  },
+  "frequency": 422,
+  "examples": [
+    "担当",
+    "負担",
+    "担保",
+    "分担",
+    "担う"
+  ],
+  "explanation": {
+    "id": "5122",
+    "text": "担 (đọc là \"tan\") có nghĩa là \"gánh vác\", \"chịu trách nhiệm\" để chỉ các hành động liên quan đến việc đảm nhận công việc hoặc vai trò nào đó.\n\nVí dụ:\n- 担当 (tantou): Chịu trách nhiệm, đảm nhận."
+  },
+  "comments": [
+    {
+      "id": "153850",
+      "lang": "vi",
+      "content_html": "<p>Tự tay đảm đương 1 ngày</p>",
+      "content_text": "Tự tay đảm đương 1 ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190698",
+      "lang": "vi",
+      "content_html": "<p>Tay làm việc cả Ngày thì chấm cho 1 công Đảm đương</p>",
+      "content_text": "Tay làm việc cả Ngày thì chấm cho 1 công Đảm đương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "153851",
+      "lang": "vi",
+      "content_html": "<p>Tự tay (扌) đảm đương (担) mọi việc vào dịp Tết nguyên đán (旦)</p>",
+      "content_text": "Tự tay (扌) đảm đương (担) mọi việc vào dịp Tết nguyên đán (旦)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153852",
+      "lang": "vi",
+      "content_html": "<p>Có 100 cái tay thì mới ĐẢM đương hết việc.</p>",
+      "content_text": "Có 100 cái tay thì mới ĐẢM đương hết việc.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

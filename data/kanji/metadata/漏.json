@@ -1,0 +1,109 @@
+{
+  "kanji": "漏",
+  "meta": {
+    "weight": 1608,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロウ"
+    ],
+    "kun": [
+      "も.る",
+      "も.れる",
+      "も.らす"
+    ],
+    "am_han": "LẬU"
+  },
+  "meaning": {
+    "vi": "rò rỉ, thoát ra, thời gian",
+    "en": "leak, escape, time"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/漏.svg"
+  },
+  "frequency": 1298,
+  "examples": [
+    "漏れ",
+    "漏洩",
+    "漏えい",
+    "漏れる",
+    "漏らす"
+  ],
+  "explanation": {
+    "id": "8338",
+    "text": "漏 (đọc là \"ろう\" - rō hoặc \"もれる\" - moreru) có nghĩa là \"rò rỉ\", \"khuyết thiếu\" để chỉ tình trạng mất mát hoặc không còn nguyên vẹn.\n\nVí dụ:\n- 漏水 (ろうすい - rōsui): Rò rỉ nước.\n- 漏れ出る (もれでる - more"
+  },
+  "comments": [
+    {
+      "id": "155064",
+      "lang": "vi",
+      "content_html": "<p>Nước mưa rò rỉ trước cửa phòng</p>",
+      "content_text": "Nước mưa rò rỉ trước cửa phòng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "218510",
+      "lang": "vi",
+      "content_html": "",
+      "content_text": "",
+      "image_url": "https://jpdictionary.com/upload/images/6517fba7ba186.jpg",
+      "image_path": "assets/images/漏_2.jpg",
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "155065",
+      "lang": "vi",
+      "content_html": "<p>Có cái CỬa mới MƯA Cái đã RÒ RỈ đúng là hàng LẬU</p>",
+      "content_text": "Có cái CỬa mới MƯA Cái đã RÒ RỈ đúng là hàng LẬU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155066",
+      "lang": "vi",
+      "content_html": "<p>Con ma buôn Lậu nước mưa bị rò rỉ ra ngoài.</p>",
+      "content_text": "Con ma buôn Lậu nước mưa bị rò rỉ ra ngoài.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

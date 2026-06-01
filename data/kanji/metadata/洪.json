@@ -1,0 +1,85 @@
+{
+  "kanji": "洪",
+  "meta": {
+    "weight": 1531,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [],
+    "am_han": "HỒNG"
+  },
+  "meaning": {
+    "vi": "đại hồng thủy, lũ lụt, rộng lớn",
+    "en": "deluge, flood, vast"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/洪.svg"
+  },
+  "frequency": 1778,
+  "examples": [
+    "洪水",
+    "洪"
+  ],
+  "explanation": {
+    "id": "2489",
+    "text": "洪 (đọc là \"kō\" hoặc \"ara-\") có nghĩa là \"lớn\", \"mênh mông\", thường được sử dụng để chỉ những thứ liên quan đến nước lớn hoặc lũ lụt. \n\nVí dụ:\n- 洪水 (kōzui): Lũ lụt.\n- 洪大 (kōdai): Vĩ đại, lớn "
+  },
+  "comments": [
+    {
+      "id": "154874",
+      "lang": "vi",
+      "content_html": "<p>Nước cộng lại với nhau thành đại hồng thuỷ</p>",
+      "content_text": "Nước cộng lại với nhau thành đại hồng thuỷ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154875",
+      "lang": "vi",
+      "content_html": "<p>nước  biển cộng dồn thành trận hồng thủy</p>",
+      "content_text": "nước  biển cộng dồn thành trận hồng thủy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154876",
+      "lang": "vi",
+      "content_html": "<p>Cơn đại HỒNG thuỷ xuất hiện do nước cộng dồn</p>",
+      "content_text": "Cơn đại HỒNG thuỷ xuất hiện do nước cộng dồn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

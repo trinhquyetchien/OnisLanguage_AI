@@ -1,0 +1,92 @@
+{
+  "kanji": "畳",
+  "meta": {
+    "weight": 1793,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ",
+      "チョウ"
+    ],
+    "kun": [
+      "たた.む",
+      "たたみ",
+      "かさ.なる"
+    ],
+    "am_han": "ĐIỆP"
+  },
+  "meaning": {
+    "vi": "chiếu tatami",
+    "en": "tatami mat, counter for tatami mats, fold, shut up, do away with"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/畳.svg"
+  },
+  "frequency": 1665,
+  "examples": [
+    "畳",
+    "石畳",
+    "折り畳み",
+    "四畳半"
+  ],
+  "explanation": {
+    "id": "3984",
+    "text": "畳 (đọc là \"tát\" hoặc \"jō\") có nghĩa là \"tấm chiếu\" hoặc \"chiếu tatami\", một loại vật liệu lát sàn truyền thống trong nhà ở Nhật Bản. \n\nVí dụ:\n- 畳 (tatami): Chiếu tatami, vật liệu lát sàn.\n- "
+  },
+  "comments": [
+    {
+      "id": "155441",
+      "lang": "vi",
+      "content_html": "<p>Cách nhớ nét vẽ :<br><br>Điệp đứng bên bờ ruộng lấy cái khăn trùm lên mắt đang nhoè nước hai bên mà tưởng tượng giờ này mà được nằm trên Chiếu với em Lan thì tốt biết mấy.<br><br>Chữ Điệp có nghĩa là chiếu, gồm bộ Điền ở trên+ bộ Mịch nghĩa là trùm lên+ chữ Mục mà ở</p>",
+      "content_text": "Cách nhớ nét vẽ :\nĐiệp đứng bên bờ ruộng lấy cái khăn trùm lên mắt đang nhoè nước hai bên mà tưởng tượng giờ này mà được nằm trên Chiếu với em Lan thì tốt biết mấy.\nChữ Điệp có nghĩa là chiếu, gồm bộ Điền ở trên+ bộ Mịch nghĩa là trùm lên+ chữ Mục mà ở",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155442",
+      "lang": "vi",
+      "content_html": "<p>Điệp ra đồng, lấy khăn che mắt lại nằm ngủ</p>",
+      "content_text": "Điệp ra đồng, lấy khăn che mắt lại nằm ngủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155443",
+      "lang": "vi",
+      "content_html": "<p>ĐIỆP - GẤP KHĂN che MẮT nằm ngủ ở RUỘNG</p>",
+      "content_text": "ĐIỆP - GẤP KHĂN che MẮT nằm ngủ ở RUỘNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

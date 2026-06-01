@@ -1,0 +1,89 @@
+{
+  "kanji": "諭",
+  "meta": {
+    "weight": 2510,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユ"
+    ],
+    "kun": [
+      "さと.す"
+    ],
+    "am_han": "DỤ"
+  },
+  "meaning": {
+    "vi": "quở trách, khuyên nhủ, buộc tội, cảnh cáo, thuyết phục",
+    "en": "rebuke, admonish, charge, warn, persuade"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/諭.svg"
+  },
+  "frequency": 1461,
+  "examples": [
+    "教諭",
+    "諭吉",
+    "諭し",
+    "諭す"
+  ],
+  "explanation": {
+    "id": "7728",
+    "text": "諭 (đọc là \"yu\") có nghĩa là \"dạy bảo\", \"chỉ dẫn\" để chỉ các hành động liên quan đến việc giáo dục, hướng dẫn hoặc truyền đạt kiến thức.  \nVí dụ:  \n- 諭す (yūsu): Dạy bảo, khuyên nhủ.  \n- 諭告 (y"
+  },
+  "comments": [
+    {
+      "id": "156966",
+      "lang": "vi",
+      "content_html": "<p>Dùng Lời Nói THUYẾT PHỤC DỤ tên tội phạm đang cầm Dao kề cổ chị Nguyệt trong Nhà</p>",
+      "content_text": "Dùng Lời Nói THUYẾT PHỤC DỤ tên tội phạm đang cầm Dao kề cổ chị Nguyệt trong Nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156967",
+      "lang": "vi",
+      "content_html": "<p>dùng lời nói dụ bạn ra trước nhà để chỉ bảo</p>",
+      "content_text": "dùng lời nói dụ bạn ra trước nhà để chỉ bảo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156968",
+      "lang": "vi",
+      "content_html": "<p>Dùng lời nói thuyết phục dụ người bệnh lên bàn mổ</p>",
+      "content_text": "Dùng lời nói thuyết phục dụ người bệnh lên bàn mổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

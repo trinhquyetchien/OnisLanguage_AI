@@ -1,0 +1,112 @@
+{
+  "kanji": "汚",
+  "meta": {
+    "weight": 1490,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オ"
+    ],
+    "kun": [
+      "けが.す",
+      "けが.れる",
+      "けが.らわしい",
+      "よご.す",
+      "よご.れる",
+      "きたな.い"
+    ],
+    "am_han": "Ô"
+  },
+  "meaning": {
+    "vi": "bẩn, ô nhiễm",
+    "en": "dirty, pollute, disgrace, rape, defile"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/汚.svg"
+  },
+  "frequency": 908,
+  "examples": [
+    "汚染",
+    "汚れ",
+    "汚い",
+    "汚職",
+    "汚し"
+  ],
+  "explanation": {
+    "id": "502",
+    "text": "汚 (đọc là \"o\") có nghĩa là \"bẩn\", \"ô uế\" để chỉ sự không sạch sẽ hay điều không thanh khiết.\n\nVí dụ:\n- 汚染 (osen): Ô nhiễm.\n- 汚い (kitanai): Bẩn thỉu, dơ bẩn.\n- 汚職 (oshoku): Tham nhũng."
+  },
+  "comments": [
+    {
+      "id": "36998",
+      "lang": "vi",
+      "content_html": "<p>Đừng uống nước <strong>bẩn</strong>.</p>",
+      "content_text": "Đừng uống nước\nbẩn\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4ea16a1a2.jpg",
+      "image_path": "assets/images/汚_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154775",
+      "lang": "vi",
+      "content_html": "<p>Nước bẩn ngập cổ số 5</p>",
+      "content_text": "Nước bẩn ngập cổ số 5",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154776",
+      "lang": "vi",
+      "content_html": "<p>25 nước bị ô nhiễm</p>",
+      "content_text": "25 nước bị ô nhiễm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154777",
+      "lang": "vi",
+      "content_html": "<p>số 25 rơi xuống nước thì sẽ bjj bẩn</p>",
+      "content_text": "số 25 rơi xuống nước thì sẽ bjj bẩn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

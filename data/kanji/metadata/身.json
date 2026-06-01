@@ -1,0 +1,90 @@
+{
+  "kanji": "身",
+  "meta": {
+    "weight": 2603,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "み"
+    ],
+    "am_han": "THÂN"
+  },
+  "meaning": {
+    "vi": "thân thể, thân phận",
+    "en": "somebody, person, one's station in life"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/身.svg"
+  },
+  "frequency": 320,
+  "examples": [
+    "自身",
+    "身",
+    "身体",
+    "出身",
+    "中身"
+  ],
+  "explanation": {
+    "id": "4128",
+    "text": "身 (đọc là \"shin\" hoặc \"mi\") có nghĩa là \"cơ thể\", \"thân thể\" để chỉ đến con người hoặc sự vật liên quan đến cơ thể.\n\nVí dụ:\n- 身体 (shintai): Cơ thể, thân thể.\n- 身分 (mibun): Thân phận, địa vị "
+  },
+  "comments": [
+    {
+      "id": "157200",
+      "lang": "vi",
+      "content_html": "<p>Về già Tự THÂN mình phải chống Gậy đi chơi</p>",
+      "content_text": "Về già Tự THÂN mình phải chống Gậy đi chơi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157201",
+      "lang": "vi",
+      "content_html": "<p>Tuổi trẻ tự thân lập nghiệp, về già tự thân chống gậy đi chơi, hazzz</p>",
+      "content_text": "Tuổi trẻ tự thân lập nghiệp, về già tự thân chống gậy đi chơi, hazzz",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157202",
+      "lang": "vi",
+      "content_html": "<p>Có 1 chân thì Tự THÂN  chống gậy.</p>",
+      "content_text": "Có 1 chân thì Tự THÂN  chống gậy.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

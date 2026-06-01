@@ -1,0 +1,87 @@
+{
+  "kanji": "涯",
+  "meta": {
+    "weight": 1552,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガイ"
+    ],
+    "kun": [
+      "はて"
+    ],
+    "am_han": "NHAI"
+  },
+  "meaning": {
+    "vi": "chân trời, bờ biển, giới hạn, ràng buộc",
+    "en": "horizon, shore, limit, bound"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/涯.svg"
+  },
+  "frequency": 1525,
+  "examples": [
+    "生涯",
+    "涯"
+  ],
+  "explanation": {
+    "id": "846",
+    "text": "涯 (đọc là \"ga\") có nghĩa là \"bờ\", \"mép\" hoặc \"rìa\", thường chỉ những giới hạn của một cái gì đó, đặc biệt là trong ngữ cảnh tự nhiên.  \nVí dụ:  \n- 界涯 (kaigai): Biên giới giữa các thế giới, r"
+  },
+  "comments": [
+    {
+      "id": "154926",
+      "lang": "vi",
+      "content_html": "<p>Có 2 mảnh đất ở dưới sườn núi để Sinh Nhai(kiếm sống) thì bị ngập nước.</p>",
+      "content_text": "Có 2 mảnh đất ở dưới sườn núi để Sinh Nhai(kiếm sống) thì bị ngập nước.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154927",
+      "lang": "vi",
+      "content_html": "<p>BỜ BẾN đậu thuyền là Bờ ĐẤT được gia cố chắc chắn (2 lần ĐẤT) và tiếp giáp với mặt NƯỚC sâu để thuyền ghe có thể ra vào dễ dàng</p>",
+      "content_text": "BỜ BẾN đậu thuyền là Bờ ĐẤT được gia cố chắc chắn (2 lần ĐẤT) và tiếp giáp với mặt NƯỚC sâu để thuyền ghe có thể ra vào dễ dàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154928",
+      "lang": "vi",
+      "content_html": "<p>生涯 : sinh nhai</p>",
+      "content_text": "生涯 : sinh nhai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

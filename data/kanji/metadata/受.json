@@ -1,0 +1,92 @@
+{
+  "kanji": "受",
+  "meta": {
+    "weight": 426,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュ"
+    ],
+    "kun": [
+      "う.ける",
+      "-う.け",
+      "う.かる"
+    ],
+    "am_han": "THỤ"
+  },
+  "meaning": {
+    "vi": "nhận, tiếp thụ",
+    "en": "accept, undergo, answer (phone), take, get, catch, receive"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/受.svg"
+  },
+  "frequency": 136,
+  "examples": [
+    "受け",
+    "受ける",
+    "受け入れ",
+    "受験",
+    "受賞"
+  ],
+  "explanation": {
+    "id": "3444",
+    "text": "受 (đọc là \"ju\") có nghĩa là \"nhận\", \"tiếp nhận\" để chỉ hành động tiếp thu hoặc tiếp nhận một cái gì đó.\n\nVí dụ:\n- 受ける (ukeru): Nhận, tiếp nhận.\n- 受験 (jukenn): Thi cử, kỳ thi.\n- 受賞 (jushou): "
+  },
+  "comments": [
+    {
+      "id": "190921",
+      "lang": "vi",
+      "content_html": "<p><strong>nhận</strong></p>",
+      "content_text": "nhận",
+      "image_url": "https://jpdictionary.com/upload/images/648a6f8d5de7a.jpg",
+      "image_path": "assets/images/受_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "37068",
+      "lang": "vi",
+      "content_html": "<p><strong>Nhận </strong>từ tay qua tay.</p>",
+      "content_text": "Nhận\ntừ tay qua tay.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb0994c833.jpg",
+      "image_path": "assets/images/受_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152259",
+      "lang": "vi",
+      "content_html": "<p>lại (HỰU) nhận (THỤ) được cái khăn (MỊCH) thêu hình móng tay (TRẢO)</p>",
+      "content_text": "lại (HỰU) nhận (THỤ) được cái khăn (MỊCH) thêu hình móng tay (TRẢO)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "kanji": "送",
+  "meta": {
+    "weight": 2649,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "おく.る"
+    ],
+    "am_han": "TỐNG"
+  },
+  "meaning": {
+    "vi": "hộ tống, gửi",
+    "en": "escort, send"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/送.svg"
+  },
+  "frequency": 311,
+  "examples": [
+    "放送",
+    "送る",
+    "送信",
+    "送り",
+    "輸送"
+  ],
+  "explanation": {
+    "id": "4761",
+    "text": "送 (đọc là \"sō\") có nghĩa là \"gửi\", \"tiễn\" để chỉ các hành động liên quan đến việc chuyển giao vật phẩm hoặc tiễn đưa ai đó.  \nVí dụ:  \n- 送る (okuru): Gửi, tiễn.  \n- 送信 (sōshin): Gửi tin, truy"
+  },
+  "comments": [
+    {
+      "id": "36833",
+      "lang": "vi",
+      "content_html": "<p>Trên đường<strong> gửi </strong>quà.</p>",
+      "content_text": "Trên đường\ngửi\nquà.",
+      "image_url": "https://jpdictionary.com/upload/images/62ac7c35ec0d5.jpg",
+      "image_path": "assets/images/送_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157306",
+      "lang": "vi",
+      "content_html": "<p>Hộ tống 送 đường tăng đi 廴 tây thiên 天</p>",
+      "content_text": "Hộ tống 送 đường tăng đi 廴 tây thiên 天",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158478",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>送る (おくる): gửi<br>放送 (ほうそう): phát thanh</p>",
+      "content_text": "JLPT N4\n送る (おくる): gửi\n放送 (ほうそう): phát thanh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "157307",
+      "lang": "vi",
+      "content_html": "<p>Tề thiên đại thánh 关 có hai cái râu<br>Dùng cân đẩu vân 辶 Hộ tống 送 sư phụ đi lấy kinh</p>",
+      "content_text": "Tề thiên đại thánh 关 có hai cái râu\nDùng cân đẩu vân 辶 Hộ tống 送 sư phụ đi lấy kinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

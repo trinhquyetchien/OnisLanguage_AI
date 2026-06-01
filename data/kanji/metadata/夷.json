@@ -1,0 +1,57 @@
+{
+  "kanji": "夷",
+  "meta": {
+    "weight": 629,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "えびす",
+      "えみし",
+      "ころ.す",
+      "たい.らげる"
+    ],
+    "am_han": "DI"
+  },
+  "meaning": {
+    "vi": "man rợ, Ainu",
+    "en": "barbarian, savage, Ainu"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/夷.svg"
+  },
+  "frequency": 2324,
+  "examples": [
+    "夷",
+    "蝦夷",
+    "攘夷"
+  ],
+  "explanation": {
+    "id": "128",
+    "text": "夷 (đọc là \"i\") có nghĩa là \"dân tộc man di\", thường chỉ các dân tộc sống ở vùng biên giới hoặc một cách khái quát hơn là người nước ngoài, đặc biệt trong bối cảnh lịch sử Nhật Bản.\n\nVí dụ:\n-"
+  },
+  "comments": [
+    {
+      "id": "152746",
+      "lang": "vi",
+      "content_html": "<p>chỉ cần 1 cây cung lớn có thể san bằng mọi địa hình</p>",
+      "content_text": "chỉ cần 1 cây cung lớn có thể san bằng mọi địa hình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "殴",
+  "meta": {
+    "weight": 1465,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オウ"
+    ],
+    "kun": [
+      "なぐ.る"
+    ],
+    "am_han": "ẨU, ẤU, KHU"
+  },
+  "meaning": {
+    "vi": "tấn công, đánh, đánh bại, thrash",
+    "en": "assault, hit, beat, thrash"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/殴.svg"
+  },
+  "frequency": 1622,
+  "examples": [
+    "殴る",
+    "殴打",
+    "殴り合い"
+  ],
+  "explanation": {
+    "id": "535",
+    "text": "殴 (đọc là \"ō\") có nghĩa là \"đánh\", \"tấn công\" để chỉ các hành động liên quan đến việc sử dụng vũ lực hoặc bạo lực.\n\nVí dụ:\n- 殴打 (ōda): Đánh đập.\n- 殴る (naguru): Đánh, đấm.\n- 殴り合い (naguriai): "
+  },
+  "comments": [
+    {
+      "id": "154711",
+      "lang": "vi",
+      "content_html": "<p>Khu vực có quân thù đang ẩu đả</p>",
+      "content_text": "Khu vực có quân thù đang ẩu đả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154712",
+      "lang": "vi",
+      "content_html": "<p>KHU VỰC chứa Vũ Khí dễ xảy ra ẨU đả</p>",
+      "content_text": "KHU VỰC chứa Vũ Khí dễ xảy ra ẨU đả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154713",
+      "lang": "vi",
+      "content_html": "<p>KHU 区 vực mà có nhiều kẻ THÙ 殳  địch thì hay xảy ra ẨU đả</p>",
+      "content_text": "KHU 区 vực mà có nhiều kẻ THÙ 殳  địch thì hay xảy ra ẨU đả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

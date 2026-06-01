@@ -1,0 +1,88 @@
+{
+  "kanji": "規",
+  "meta": {
+    "weight": 2442,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [],
+    "am_han": "QUY"
+  },
+  "meaning": {
+    "vi": "quy định, quy tắc",
+    "en": "standard, measure"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/規.svg"
+  },
+  "frequency": 349,
+  "examples": [
+    "規定",
+    "規模",
+    "規制",
+    "新規",
+    "規則"
+  ],
+  "explanation": {
+    "id": "1364",
+    "text": "規 (đọc là \"ki\") có nghĩa là \"quy tắc\", \"qui định\" để chỉ các chuẩn mực hoặc nguyên tắc trong một lĩnh vực nào đó.\n\nVí dụ:\n- 規則 (kisoku): Quy tắc, quy định.\n- 規定 (kitei): Qui định, quy chế.\n-"
+  },
+  "comments": [
+    {
+      "id": "156798",
+      "lang": "vi",
+      "content_html": "<p>Chồng là người nhìn ra quy tắc khuôn phép</p>",
+      "content_text": "Chồng là người nhìn ra quy tắc khuôn phép",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156799",
+      "lang": "vi",
+      "content_html": "<p>Chồng tôi là người luôn nhìn mọi việc một cách có quy tắc</p>",
+      "content_text": "Chồng tôi là người luôn nhìn mọi việc một cách có quy tắc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156800",
+      "lang": "vi",
+      "content_html": "<p>Tôi đặt ra Quy tắc với Chồng là ko được Nhìn cô gái khác</p>",
+      "content_text": "Tôi đặt ra Quy tắc với Chồng là ko được Nhìn cô gái khác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

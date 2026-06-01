@@ -1,0 +1,92 @@
+{
+  "kanji": "蔑",
+  "meta": {
+    "weight": 2333,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ベツ"
+    ],
+    "kun": [
+      "ないがしろ",
+      "なみ.する",
+      "くらい",
+      "さげす.む"
+    ],
+    "am_han": "MIỆT"
+  },
+  "meaning": {
+    "vi": "phớt lờ, coi thường, bỏ mặc, chế giễu",
+    "en": "ignore, despise, neglect, ridicule"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/蔑.svg"
+  },
+  "frequency": 2483,
+  "examples": [
+    "軽蔑",
+    "蔑視",
+    "侮蔑",
+    "蔑ろ"
+  ],
+  "explanation": {
+    "id": "7042",
+    "text": "蔑 (đọc là \"bekkaku\") có nghĩa là \"khinh thường\", \"coi thường\" để chỉ sự thiếu tôn trọng hoặc đánh giá thấp đối tượng nào đó.\n\nVí dụ:\n- 蔑視 (bekki): Khinh miệt, coi thường.\n- 蔑める (sameru): Khi"
+  },
+  "comments": [
+    {
+      "id": "156595",
+      "lang": "vi",
+      "content_html": "<p>cô giáo Thảo có ánh mắt miệt thị người thành công</p>",
+      "content_text": "cô giáo Thảo có ánh mắt miệt thị người thành công",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156596",
+      "lang": "vi",
+      "content_html": "<p>Giấc mơ (夢) Thành công (成) bị Miệt thị</p>",
+      "content_text": "Giấc mơ (夢) Thành công (成) bị Miệt thị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156597",
+      "lang": "vi",
+      "content_html": "<p>Dùng ánh mắt thấp hơn ngọn cỏ để miệt thị người thành công。</p>",
+      "content_text": "Dùng ánh mắt thấp hơn ngọn cỏ để miệt thị người thành công。",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

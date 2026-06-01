@@ -1,0 +1,91 @@
+{
+  "kanji": "謡",
+  "meta": {
+    "weight": 2523,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "うた.い",
+      "うた.う"
+    ],
+    "am_han": "DAO"
+  },
+  "meaning": {
+    "vi": "bài hát, hát, bản ballad, hát noh",
+    "en": "song, sing, ballad, noh chanting"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/謡.svg"
+  },
+  "frequency": 1580,
+  "examples": [
+    "民謡",
+    "童謡",
+    "歌謡",
+    "歌謡曲",
+    "謡"
+  ],
+  "explanation": {
+    "id": "7902",
+    "text": "謡 (đọc là \"yō\") có nghĩa là \"hát\" hay \"ca ngợi\", thường liên quan đến việc trình diễn hoặc biểu diễn âm nhạc, đặc biệt trong nghệ thuật truyền thống Nhật Bản như Noh và Kabuki.  \nVí dụ:  \n- "
+  },
+  "comments": [
+    {
+      "id": "156996",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa nói vào lon để làm nên ca dao tục ngữ</p>",
+      "content_text": "Ngày xưa nói vào lon để làm nên ca dao tục ngữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156997",
+      "lang": "vi",
+      "content_html": "<p>Nghe Bà KỂ LẠI: ngày xưa người ta thường Cầm PHỄU thay loa để HÁT CA DAO</p>",
+      "content_text": "Nghe Bà KỂ LẠI: ngày xưa người ta thường Cầm PHỄU thay loa để HÁT CA DAO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156998",
+      "lang": "vi",
+      "content_html": "<p>Dao động bằng lời nói là ca dao</p>",
+      "content_text": "Dao động bằng lời nói là ca dao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "河",
+  "meta": {
+    "weight": 1507,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "かわ"
+    ],
+    "am_han": "HÀ"
+  },
+  "meaning": {
+    "vi": "dòng sông, sơn hà",
+    "en": "river"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/河.svg"
+  },
+  "frequency": 663,
+  "examples": [
+    "河",
+    "河川",
+    "銀河",
+    "運河",
+    "河原"
+  ],
+  "explanation": {
+    "id": "657",
+    "text": "河 (đọc là \"kawa\") có nghĩa là \"sông\" để chỉ các dòng nước chảy tự nhiên.  \nVí dụ:  \n- 河川 (kasen): Hệ thống sông ngòi, dòng chảy.  \n- 河口 (kakou): Cửa sông, nơi sông đổ ra biển.  \n- 大河 (taiga)"
+  },
+  "comments": [
+    {
+      "id": "154805",
+      "lang": "vi",
+      "content_html": "<p>Sông là nơi nước có khả năng chảy qua</p>",
+      "content_text": "Sông là nơi nước có khả năng chảy qua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154806",
+      "lang": "vi",
+      "content_html": "<p>Sông nước Khả năng có Hà bá</p>",
+      "content_text": "Sông nước Khả năng có Hà bá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154807",
+      "lang": "vi",
+      "content_html": "<p>anh khả (可) bắn nước vào chị hà</p>",
+      "content_text": "anh khả (可) bắn nước vào chị hà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

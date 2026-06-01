@@ -1,0 +1,88 @@
+{
+  "kanji": "索",
+  "meta": {
+    "weight": 2061,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サク"
+    ],
+    "kun": [],
+    "am_han": "TÁC, SÁCH"
+  },
+  "meaning": {
+    "vi": "dây, tìm kiếm, hỏi han",
+    "en": "cord, rope, searching, inquiring"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/索.svg"
+  },
+  "frequency": 1127,
+  "examples": [
+    "検索",
+    "模索",
+    "捜索",
+    "探索",
+    "索引"
+  ],
+  "explanation": {
+    "id": "2910",
+    "text": "索 (đọc là \"saku\" hoặc \"saku\") có nghĩa là \"tìm kiếm\", \"khảo sát\" để chỉ các hành động liên quan đến việc tìm kiếm thông tin hoặc nguồn gốc.  \nVí dụ:  \n- 索引 (sakuin): Mục lục, danh mục.  \n- 追"
+  },
+  "comments": [
+    {
+      "id": "156006",
+      "lang": "vi",
+      "content_html": "<p>Vì Cuộn Chỉ mà tan TÁC cả Nhà</p>",
+      "content_text": "Vì Cuộn Chỉ mà tan TÁC cả Nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156007",
+      "lang": "vi",
+      "content_html": "<p>tớn TÁC tìm kiếm 10 cuộn chỉ trong nhà</p>",
+      "content_text": "tớn TÁC tìm kiếm 10 cuộn chỉ trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156008",
+      "lang": "vi",
+      "content_html": "<p>Mất 10 (THẬP) đêm ( MỊCH) để tìm kiếm (TÁC) sợi tơ (MỊCH)</p>",
+      "content_text": "Mất 10 (THẬP) đêm ( MỊCH) để tìm kiếm (TÁC) sợi tơ (MỊCH)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

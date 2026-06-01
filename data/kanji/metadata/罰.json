@@ -1,0 +1,92 @@
+{
+  "kanji": "罰",
+  "meta": {
+    "weight": 2127,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バツ",
+      "バチ",
+      "ハツ"
+    ],
+    "kun": [
+      "ばっ.する"
+    ],
+    "am_han": "PHẠT"
+  },
+  "meaning": {
+    "vi": "hình phạt, trừng phạt",
+    "en": "penalty, punishment"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/罰.svg"
+  },
+  "frequency": 1220,
+  "examples": [
+    "罰",
+    "罰金",
+    "処罰",
+    "罰則",
+    "刑罰"
+  ],
+  "explanation": {
+    "id": "6413",
+    "text": "罰 (đọc là \"batsu\") có nghĩa là \"hình phạt\" để chỉ các hình thức trừng phạt cho hành vi sai trái hoặc vi phạm quy định.\n\nVí dụ:\n- 罰則 (bassoku): Quy định về hình phạt.\n- 罰金 (batsukin): Tiền ph"
+  },
+  "comments": [
+    {
+      "id": "156175",
+      "lang": "vi",
+      "content_html": "<p>Nhìn thấy chuyện ĐAO KIẾM bất bình mà không Lên TIẾNG NÓI ra thì sẽ bị Hình PHẠT Báo ứng</p>",
+      "content_text": "Nhìn thấy chuyện ĐAO KIẾM bất bình mà không Lên TIẾNG NÓI ra thì sẽ bị Hình PHẠT Báo ứng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156176",
+      "lang": "vi",
+      "content_html": "<p>mồm nói tay cầm đao mắt nhìn trừng trừng phạt người khác</p>",
+      "content_text": "mồm nói tay cầm đao mắt nhìn trừng trừng phạt người khác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156177",
+      "lang": "vi",
+      "content_html": "<p>hình phạt cho kẻ nói nhiều là nằm trên cái võng chứa dao</p>",
+      "content_text": "hình phạt cho kẻ nói nhiều là nằm trên cái võng chứa dao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

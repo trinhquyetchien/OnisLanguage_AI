@@ -1,0 +1,91 @@
+{
+  "kanji": "艶",
+  "meta": {
+    "weight": 2248,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "つや",
+      "なま.めかしい",
+      "あで.やか",
+      "つや.めく",
+      "なま.めく"
+    ],
+    "am_han": "DIỄM"
+  },
+  "meaning": {
+    "vi": "bóng, ánh, men, đánh bóng, quyến rũ, đầy màu sắc",
+    "en": "glossy, luster, glaze, polish, charm, colorful, captivating"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/艶.svg"
+  },
+  "frequency": 2207,
+  "examples": [
+    "艶",
+    "妖艶"
+  ],
+  "explanation": {
+    "id": "480",
+    "text": "艶 (đọc là \"en\" hoặc \"tsuyoshi\") có nghĩa là \"sắc đẹp\", \"hào nhoáng\", thường chỉ vẻ đẹp quyến rũ hoặc lôi cuốn, đặc biệt trong nghệ thuật và sắc đẹp.\n\nVí dụ:\n- 艶やか (tsuyayaka): Rực rỡ, lấp lá"
+  },
+  "comments": [
+    {
+      "id": "156454",
+      "lang": "vi",
+      "content_html": "<p>Màu sắc quả đậu đẹp khúc nào ra khúc nấy</p>",
+      "content_text": "Màu sắc quả đậu đẹp khúc nào ra khúc nấy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156455",
+      "lang": "vi",
+      "content_html": "<p>Được Phong tuyệt Sắc giai nhân là DIỄM phúc 3 đời</p>",
+      "content_text": "Được Phong tuyệt Sắc giai nhân là DIỄM phúc 3 đời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156456",
+      "lang": "vi",
+      "content_html": "<p>màu sắc phong phú =&#62; vẻ đẹp diễm lệ.</p>",
+      "content_text": "màu sắc phong phú => vẻ đẹp diễm lệ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

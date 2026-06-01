@@ -1,0 +1,73 @@
+{
+  "kanji": "冥",
+  "meta": {
+    "weight": 287,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "メイ",
+      "ミョウ"
+    ],
+    "kun": [
+      "くら.い"
+    ],
+    "am_han": "MINH"
+  },
+  "meaning": {
+    "vi": "tối",
+    "en": "dark"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/冥.svg"
+  },
+  "frequency": 2349,
+  "examples": [
+    "冥福",
+    "冥王星",
+    "冥利",
+    "冥界"
+  ],
+  "explanation": {
+    "id": "7541",
+    "text": "冥 (đọc là \"mei\" hoặc \"myō\") có nghĩa là \"tối tăm\", \"âm ti\", thường liên quan đến thế giới bên kia hoặc sự tối tăm. \n\nVí dụ:\n- 冥界 (meikai): Thế giới âm phủ, thế giới của người chết.\n- 冥想 (mei"
+  },
+  "comments": [
+    {
+      "id": "151916",
+      "lang": "vi",
+      "content_html": "<p>mặt trời bị che phủ 6 ngày nên thế giới rơi vào u Minh</p>",
+      "content_text": "mặt trời bị che phủ 6 ngày nên thế giới rơi vào u Minh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151917",
+      "lang": "vi",
+      "content_html": "<p>Minh giáo hoạt động trong nhà  có lỗ mặt trời nhưng vẫn tối</p>",
+      "content_text": "Minh giáo hoạt động trong nhà  có lỗ mặt trời nhưng vẫn tối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

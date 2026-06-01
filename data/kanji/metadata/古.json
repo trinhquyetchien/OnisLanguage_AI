@@ -1,0 +1,75 @@
+{
+  "kanji": "古",
+  "meta": {
+    "weight": 432,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "ふる.い",
+      "ふる-",
+      "-ふる.す"
+    ],
+    "am_han": "CỔ"
+  },
+  "meaning": {
+    "vi": "cũ, cổ",
+    "en": "old"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/古.svg"
+  },
+  "frequency": 509,
+  "examples": [
+    "古い",
+    "名古屋",
+    "中古",
+    "古代",
+    "古"
+  ],
+  "explanation": {
+    "id": "2249",
+    "text": "古 (đọc là \"ko\" hoặc \"furui\") có nghĩa là \"cổ\", \"xưa cũ\", để chỉ những thứ thuộc về quá khứ, truyền thống hoặc lâu đời.\nVí dụ:\n- 古代 (kodai): Thời cổ đại.\n- 古い (furui): Cũ, già.\n- 古文化 (kobunka"
+  },
+  "comments": [
+    {
+      "id": "583",
+      "lang": "vi",
+      "content_html": "<p>Nói (口) một câu chuyện 10 &nbsp;(十) lần thì câu chuyện đó sẽ trở nên <strong>cũ</strong> (古).</p>",
+      "content_text": "Nói (口) một câu chuyện 10  (十) lần thì câu chuyện đó sẽ trở nên\ncũ\n(古).",
+      "image_url": "https://jpdictionary.com/upload/images/629781b101575.jpg",
+      "image_path": "assets/images/古_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158561",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>古い (ふるい): cũ</p>",
+      "content_text": "JLPT N4\n古い (ふるい): cũ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

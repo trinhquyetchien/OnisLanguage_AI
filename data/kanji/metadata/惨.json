@@ -1,0 +1,93 @@
+{
+  "kanji": "惨",
+  "meta": {
+    "weight": 991,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン",
+      "ザン"
+    ],
+    "kun": [
+      "みじ.め",
+      "いた.む",
+      "むご.い"
+    ],
+    "am_han": "THẢM, THOM"
+  },
+  "meaning": {
+    "vi": "khốn khổ, thảm họa, độc ác, khắc nghiệt",
+    "en": "wretched, disaster, cruelty, harsh"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/惨.svg"
+  },
+  "frequency": 1463,
+  "examples": [
+    "悲惨",
+    "惨敗",
+    "惨事",
+    "惨め",
+    "惨状"
+  ],
+  "explanation": {
+    "id": "2987",
+    "text": "惨 (đọc là \"san\") có nghĩa là \"đau thương\", \"thảm khốc\" để chỉ các tình huống, sự kiện mang tính chất bi thảm hoặc nghiêm trọng.\n\nVí dụ:\n- 惨事 (sanji): Tai nạn thảm khốc.\n- 惨殺 (sansatsu): Giết"
+  },
+  "comments": [
+    {
+      "id": "153643",
+      "lang": "vi",
+      "content_html": "<p>Tâm Tham sẽ gặp bi THẢM</p>",
+      "content_text": "Tâm Tham sẽ gặp bi THẢM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153644",
+      "lang": "vi",
+      "content_html": "<p>Tim tham lam sẽ có kết cục bi thảm</p>",
+      "content_text": "Tim tham lam sẽ có kết cục bi thảm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153645",
+      "lang": "vi",
+      "content_html": "<p>kẻ có trái tim tham lam.. ắt sẽ có kết cục bi thảm</p>",
+      "content_text": "kẻ có trái tim tham lam.. ắt sẽ có kết cục bi thảm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

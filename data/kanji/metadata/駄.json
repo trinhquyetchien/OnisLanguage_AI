@@ -1,0 +1,89 @@
+{
+  "kanji": "駄",
+  "meta": {
+    "weight": 2947,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダ",
+      "タ"
+    ],
+    "kun": [],
+    "am_han": "ĐÀ"
+  },
+  "meaning": {
+    "vi": "gánh nặng, đóng gói ngựa, tải ngựa, gửi bằng ngựa, tầm thường, vô giá trị",
+    "en": "burdensome, pack horse, horse load, send by horse, trivial, worthless"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/駄.svg"
+  },
+  "frequency": 1500,
+  "examples": [
+    "無駄",
+    "駄目",
+    "無駄遣い",
+    "下駄",
+    "駄菓子"
+  ],
+  "explanation": {
+    "id": "4913",
+    "text": "駄 (đọc là \"da\") có nghĩa là \"vô dụng\", \"không cần thiết\" để chỉ những thứ không có giá trị hoặc không hữu ích.  \nVí dụ:  \n- 駄作 (dasaku): Tác phẩm vô giá trị, sản phẩm kém chất lượng.  \n- 駄弁 "
+  },
+  "comments": [
+    {
+      "id": "157977",
+      "lang": "vi",
+      "content_html": "<p>Ngựa béo thì vô ích muda</p>",
+      "content_text": "Ngựa béo thì vô ích muda",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157978",
+      "lang": "vi",
+      "content_html": "<p>con NGỰA BÉO lấy ĐÀ để Thồ hàng...</p>",
+      "content_text": "con NGỰA BÉO lấy ĐÀ để Thồ hàng...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157979",
+      "lang": "vi",
+      "content_html": "<p>ngựa béo thành lạc đà</p>",
+      "content_text": "ngựa béo thành lạc đà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

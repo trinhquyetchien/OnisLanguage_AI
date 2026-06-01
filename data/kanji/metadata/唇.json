@@ -1,0 +1,86 @@
+{
+  "kanji": "唇",
+  "meta": {
+    "weight": 492,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "くちびる"
+    ],
+    "am_han": "THẦN"
+  },
+  "meaning": {
+    "vi": "đôi môi",
+    "en": "lips"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/唇.svg"
+  },
+  "frequency": 1992,
+  "examples": [
+    "唇"
+  ],
+  "explanation": {
+    "id": "4057",
+    "text": "唇 (đọc là \"shinji\" hoặc \"kuchibiru\") có nghĩa là \"môi\", chỉ phần cơ thể dùng để nói và ăn.\nVí dụ:\n- 唇紅 (shinjukō): Môi đỏ, son môi.\n- 唇を噛む (kuchibiru o kamu): Cắn môi, thường diễn tả sự lo l"
+  },
+  "comments": [
+    {
+      "id": "152418",
+      "lang": "vi",
+      "content_html": "<p>THẦN thái của MIỆNG thể hiện rõ trên MÔI</p>",
+      "content_text": "THẦN thái của MIỆNG thể hiện rõ trên MÔI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152419",
+      "lang": "vi",
+      "content_html": "<p>Thần thái của khuôn miệng chính là nằm ở môi</p>",
+      "content_text": "Thần thái của khuôn miệng chính là nằm ở môi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152420",
+      "lang": "vi",
+      "content_html": "<p>mồm của con rồng cũng có môi</p>",
+      "content_text": "mồm của con rồng cũng có môi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

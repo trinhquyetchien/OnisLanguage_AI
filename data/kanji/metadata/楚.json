@@ -1,0 +1,87 @@
+{
+  "kanji": "楚",
+  "meta": {
+    "weight": 1394,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ",
+      "ショ"
+    ],
+    "kun": [
+      "いばら",
+      "しもと",
+      "すわえ"
+    ],
+    "am_han": "SỞ"
+  },
+  "meaning": {
+    "vi": "roi",
+    "en": "whip, cane"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/楚.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4624",
+    "text": "楚 (đọc là \"soko\") có nghĩa là \"xứ sở\" hoặc \"vùng đất\", thường chỉ về sự phân chia lãnh thổ hoặc một vùng cụ thể trong lịch sử. \n\nVí dụ:\n- 楚国 (Sokukoku): Nước Sở, một quốc gia cổ đại ở Trung "
+  },
+  "comments": [
+    {
+      "id": "219841",
+      "lang": "vi",
+      "content_html": "<p>SỞ GD&ĐT đã quyết ĐỊNH (定) trồng 2 CÂY(木) ở mỗi trường.</p>",
+      "content_text": "SỞ GD&ĐT đã quyết ĐỊNH (定) trồng 2 CÂY(木) ở mỗi trường.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219842",
+      "lang": "vi",
+      "content_html": "<p>Dừng lại khóm cây nước Sở</p>",
+      "content_text": "Dừng lại khóm cây nước Sở",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219843",
+      "lang": "vi",
+      "content_html": "<p>Sở quyết định Lâm nghiệp là nhành thô Sơ.</p>",
+      "content_text": "Sở quyết định Lâm nghiệp là nhành thô Sơ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

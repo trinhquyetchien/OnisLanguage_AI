@@ -1,0 +1,109 @@
+{
+  "kanji": "宿",
+  "meta": {
+    "weight": 732,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュク"
+    ],
+    "kun": [
+      "やど",
+      "やど.る",
+      "やど.す"
+    ],
+    "am_han": "TÚC"
+  },
+  "meaning": {
+    "vi": "nhà trọ, kí túc xá",
+    "en": "inn, lodging, relay station, dwell, lodge, be pregnant, home, dwelling"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/宿.svg"
+  },
+  "frequency": 701,
+  "examples": [
+    "宿",
+    "宿泊",
+    "宿題",
+    "合宿",
+    "宿命"
+  ],
+  "explanation": {
+    "id": "3587",
+    "text": "宿 (đọc là \"shuku\" hoặc \"yado\") có nghĩa là \"chỗ trọ\", \"nơi nghỉ ngơi\". Chữ này thường chỉ các địa điểm mà người ta lưu trú tạm thời.\n\nVí dụ:\n- 宿泊 (shukuhaku): Nghỉ lại qua đêm, chỗ ở.\n- 宿題 ("
+  },
+  "comments": [
+    {
+      "id": "1012",
+      "lang": "vi",
+      "content_html": "<p><strong>Nhà trọ</strong> này có thể cho 100 (百) khách trọ lại.</p>",
+      "content_text": "Nhà trọ\nnày có thể cho 100 (百) khách trọ lại.",
+      "image_url": "https://jpdictionary.com/upload/images/62a0a4f6c7cce.jpg",
+      "image_path": "assets/images/宿_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152986",
+      "lang": "vi",
+      "content_html": "<p>100 người trọ lại trong nhà</p>",
+      "content_text": "100 người trọ lại trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152987",
+      "lang": "vi",
+      "content_html": "<p>100 người tá TÚC trong nhà</p>",
+      "content_text": "100 người tá TÚC trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158952",
+      "lang": "vi",
+      "content_html": "<p>宿屋(やどや): Nhà trọ</p>",
+      "content_text": "宿屋(やどや): Nhà trọ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

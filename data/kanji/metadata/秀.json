@@ -1,0 +1,107 @@
+{
+  "kanji": "秀",
+  "meta": {
+    "weight": 1923,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "ひい.でる"
+    ],
+    "am_han": "TÚ"
+  },
+  "meaning": {
+    "vi": "xuất sắc, vẻ đẹp, vượt qua",
+    "en": "excel, excellence, beauty, surpass"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/秀.svg"
+  },
+  "frequency": 848,
+  "examples": [
+    "優秀",
+    "秀",
+    "最優秀",
+    "秀逸",
+    "秀才"
+  ],
+  "explanation": {
+    "id": "3493",
+    "text": "秀 (đọc là \"shū\") có nghĩa là \"xuất sắc\", \"nổi bật\" để chỉ sự vượt trội trong tài năng hoặc thành tích.  \nVí dụ:  \n- 秀才 (shūsai): Người học giỏi, tài năng xuất chúng.  \n- 秀でる (hideduru): Xuất"
+  },
+  "comments": [
+    {
+      "id": "155726",
+      "lang": "vi",
+      "content_html": "<p>chọn ra 13 cây lúa ưu tú nhất</p>",
+      "content_text": "chọn ra 13 cây lúa ưu tú nhất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155727",
+      "lang": "vi",
+      "content_html": "<p>Cây lúa đc chọn làm 1 trong 13 cây ưu TÚ</p>",
+      "content_text": "Cây lúa đc chọn làm 1 trong 13 cây ưu TÚ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155728",
+      "lang": "vi",
+      "content_html": "<p>cây Lúa số 13 ưu TÚ. cây Lúa đứng trên số 13 ưu TÚ</p>",
+      "content_text": "cây Lúa số 13 ưu TÚ. cây Lúa đứng trên số 13 ưu TÚ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222051",
+      "lang": "vi",
+      "content_html": "<p><strong>禾</strong> (lúa) → bộ thủ chỉ <strong>cây lúa, sự sinh trưởng</strong></p><p><strong>乃</strong> hoặc một phần tượng hình<i> rũ xuống, hoặc tay thu hoạch</i> → ban đầu là hình cái tay đang hái bông lúa</p><p>→ <strong>秀 </strong>mô tả bông lúa trổ ra khỏi thân cây, vươn cao, tỏa ra — nghĩa bóng là <strong>vượt trội, xuất sắc (Tú)</strong>.&nbsp;</p>",
+      "content_text": "禾\n(lúa) → bộ thủ chỉ\ncây lúa, sự sinh trưởng\n乃\nhoặc một phần tượng hình\nrũ xuống, hoặc tay thu hoạch\n→ ban đầu là hình cái tay đang hái bông lúa\n→\n秀\nmô tả bông lúa trổ ra khỏi thân cây, vươn cao, tỏa ra — nghĩa bóng là\nvượt trội, xuất sắc (Tú)\n.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

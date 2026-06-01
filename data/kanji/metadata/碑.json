@@ -1,0 +1,89 @@
+{
+  "kanji": "碑",
+  "meta": {
+    "weight": 1883,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "いしぶみ"
+    ],
+    "am_han": "BI"
+  },
+  "meaning": {
+    "vi": "bia mộ, tượng đài",
+    "en": "tombstone, monument"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/碑.svg"
+  },
+  "frequency": 1792,
+  "examples": [
+    "碑",
+    "記念碑",
+    "石碑",
+    "碑文"
+  ],
+  "explanation": {
+    "id": "20323",
+    "text": "碑 (đọc là \"hai\") có nghĩa là \"bái tế\", chỉ các hoạt động liên quan đến lễ nghi, thờ cúng hoặc tôn kính.  \nVí dụ:  \n- 碑祭り (haimatsuri): Lễ hội bái tế.  \n- 碑神 (haishin): Thần thánh trong lễ tế"
+  },
+  "comments": [
+    {
+      "id": "155652",
+      "lang": "vi",
+      "content_html": "<p>4 BIA mộ Đá ngoài ruộng trông thật BI thảm</p>",
+      "content_text": "4 BIA mộ Đá ngoài ruộng trông thật BI thảm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155653",
+      "lang": "vi",
+      "content_html": "<p>1 mẩu ruộng mà tới 4 bia đá , thật Bi thảm</p>",
+      "content_text": "1 mẩu ruộng mà tới 4 bia đá , thật Bi thảm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155654",
+      "lang": "vi",
+      "content_html": "<p>4 bia đá ngoài ruộng</p>",
+      "content_text": "4 bia đá ngoài ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

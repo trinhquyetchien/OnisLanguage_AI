@@ -1,0 +1,88 @@
+{
+  "kanji": "課",
+  "meta": {
+    "weight": 2498,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [],
+    "am_han": "KHÓA"
+  },
+  "meaning": {
+    "vi": "chương, bài, khóa học",
+    "en": "chapter, lesson, section, department, division, counter for chapters (of a book)"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/課.svg"
+  },
+  "frequency": 455,
+  "examples": [
+    "課題",
+    "課",
+    "課長",
+    "課税",
+    "課程"
+  ],
+  "explanation": {
+    "id": "695",
+    "text": "課 (đọc là \"ka\") có nghĩa là \"bài học\" hoặc \"nhiệm vụ\" để chỉ các hoạt động liên quan đến việc giảng dạy, học tập hoặc phân công công việc.  \nVí dụ:  \n- 課題 (kadai): Đề tài, nhiệm vụ.  \n- 課程 ("
+  },
+  "comments": [
+    {
+      "id": "156946",
+      "lang": "vi",
+      "content_html": "<p>KHOÁ học NÓI về các loại QUẢ cây</p>",
+      "content_text": "KHOÁ học NÓI về các loại QUẢ cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156947",
+      "lang": "vi",
+      "content_html": "<p>những lời NÓI (ngôn) truyền đạt sau cùng tạo ra THÀNH QUẢ  --» là KHÓA HỌC, BÀI HỌC</p>",
+      "content_text": "những lời NÓI (ngôn) truyền đạt sau cùng tạo ra THÀNH QUẢ  --» là KHÓA HỌC, BÀI HỌC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156948",
+      "lang": "vi",
+      "content_html": "<p>nói chuyện với trưởng phòng về các loại hoa quả</p>",
+      "content_text": "nói chuyện với trưởng phòng về các loại hoa quả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

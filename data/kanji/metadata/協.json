@@ -1,0 +1,105 @@
+{
+  "kanji": "協",
+  "meta": {
+    "weight": 392,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [],
+    "am_han": "HIỆP"
+  },
+  "meaning": {
+    "vi": "hiệp lực, hợp tác",
+    "en": "co-, cooperation"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/協.svg"
+  },
+  "frequency": 121,
+  "examples": [
+    "協力",
+    "協会",
+    "協議",
+    "協定",
+    "協調"
+  ],
+  "explanation": {
+    "id": "1636",
+    "text": "協 (đọc là \"kyō\") có nghĩa là \"hợp tác\", \"cộng tác\" để chỉ các hành động liên quan đến sự kết hợp hoặc làm việc chung với nhau.\n\nVí dụ:\n- 協力 (kyōryoku): Hợp tác, hỗ trợ.\n- 協議 (kyōgi): Thỏa th"
+  },
+  "comments": [
+    {
+      "id": "152177",
+      "lang": "vi",
+      "content_html": "<p>HIỆP hội của 13 ông LỰC</p>",
+      "content_text": "HIỆP hội của 13 ông LỰC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158999",
+      "lang": "vi",
+      "content_html": "<p>Chữ 協 trong tiếng Nhật được phát âm là kyou. Nó có nghĩa là \"hợp tác\".</p><p>Ví dụ, từ 協力 (kyouryoku) có nghĩa là \"hợp tác\" hoặc \"đồng cống hiến\". Chữ 協 cũng có thể xuất hiện trong các từ khác như 協会 (kyoukai) có nghĩa là \"hiệp hội\" hoặc 協定 (kyoutei) có nghĩa là \"thỏa thuận\".</p>",
+      "content_text": "Chữ 協 trong tiếng Nhật được phát âm là kyou. Nó có nghĩa là \"hợp tác\".\nVí dụ, từ 協力 (kyouryoku) có nghĩa là \"hợp tác\" hoặc \"đồng cống hiến\". Chữ 協 cũng có thể xuất hiện trong các từ khác như 協会 (kyoukai) có nghĩa là \"hiệp hội\" hoặc 協定 (kyoutei) có nghĩa là \"thỏa thuận\".",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "2",
+        "name": "ピカチュウ",
+        "image_url": "https://jpdictionary.com/upload/images/63918f2e8dcf1.png"
+      }
+    },
+    {
+      "id": "152178",
+      "lang": "vi",
+      "content_html": "<p>HIỆP hội THẬP TAM LỰC</p>",
+      "content_text": "HIỆP hội THẬP TAM LỰC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152179",
+      "lang": "vi",
+      "content_html": "<p>13 THẰNG LỰC SỸ HỢP TÁC LÀM ĂN</p>",
+      "content_text": "13 THẰNG LỰC SỸ HỢP TÁC LÀM ĂN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

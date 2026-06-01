@@ -1,0 +1,60 @@
+{% extends "admin/base.html" %}
+{% block content %}
+<section class="page-header compact">
+    <div>
+        <p class="eyebrow">Database table</p>
+        <h1>{{ table.label }}</h1>
+        <p class="lead">{{ total }} ban ghi</p>
+    </div>
+    <a class="primary-button anchor-button" href="/admin/table/{{ table.key }}/new">Tao moi</a>
+</section>
+
+<section class="panel">
+    <form class="toolbar" method="get">
+        <input type="text" name="q" value="{{ q }}" placeholder="Tim theo tu khoa...">
+        <input type="number" name="page_size" value="{{ page_size }}" min="5" max="100">
+        <button type="submit" class="primary-button">Loc</button>
+    </form>
+
+    <div class="table-wrapper">
+        <table class="data-table">
+            <thead>
+                <tr>
+                    {% for column in columns %}
+                    <th>{{ column }}</th>
+                    {% endfor %}
+                    <th>Hanh dong</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for record in records %}
+                <tr>
+                    {% for column in columns %}
+                    <td>{{ preview_value(record|attr(column)) }}</td>
+                    {% endfor %}
+                    <td>
+                        <a class="table-link" href="/admin/table/{{ table.key }}/{{ record|attr(table.primary_key) }}">Mo</a>
+                    </td>
+                </tr>
+                {% else %}
+                <tr>
+                    <td colspan="{{ columns|length + 1 }}" class="empty-state">Khong co du lieu phu hop.</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <div class="pagination">
+        <span>Trang {{ page }} / {{ pages }}</span>
+        <div class="pagination-links">
+            {% if page > 1 %}
+            <a href="?q={{ q }}&page={{ page - 1 }}&page_size={{ page_size }}">Truoc</a>
+            {% endif %}
+            {% if page < pages %}
+            <a href="?q={{ q }}&page={{ page + 1 }}&page_size={{ page_size }}">Sau</a>
+            {% endif %}
+        </div>
+    </div>
+</section>
+{% endblock %}

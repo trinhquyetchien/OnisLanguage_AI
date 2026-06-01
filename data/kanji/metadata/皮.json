@@ -1,0 +1,90 @@
+{
+  "kanji": "皮",
+  "meta": {
+    "weight": 1825,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "かわ"
+    ],
+    "am_han": "BÌ"
+  },
+  "meaning": {
+    "vi": "da",
+    "en": "pelt, skin, hide, leather, skin radical (no. 107)"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/皮.svg"
+  },
+  "frequency": 1092,
+  "examples": [
+    "皮",
+    "皮膚",
+    "皮肉",
+    "毛皮",
+    "脱皮"
+  ],
+  "explanation": {
+    "id": "6568",
+    "text": "皮 (đọc là \"hi\" hoặc \"kawa\") có nghĩa là \"da\" để chỉ lớp ngoài cùng của cơ thể hoặc bề mặt của vật phẩm. \n\nVí dụ:\n- 皮膚 (hifu): Da, bì.\n- 皮製 (kawazukuri): Được làm bằng da.\n- 皮むき (kawamuki): G"
+  },
+  "comments": [
+    {
+      "id": "155514",
+      "lang": "vi",
+      "content_html": "<p>bị đánh vào da dưới mái nhà này</p>",
+      "content_text": "bị đánh vào da dưới mái nhà này",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155515",
+      "lang": "vi",
+      "content_html": "<p>quay lại sườn núi đánh con thú lấy da</p>",
+      "content_text": "quay lại sườn núi đánh con thú lấy da",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155516",
+      "lang": "vi",
+      "content_html": "<p>cà qua (かわ) 1 lớp biểu BÌ sẽ hiện lên phép toán + - x Chia(/) , viết từ trên xuống bên phải trước đến bên trái</p>",
+      "content_text": "cà qua (かわ) 1 lớp biểu BÌ sẽ hiện lên phép toán + - x Chia(/) , viết từ trên xuống bên phải trước đến bên trái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

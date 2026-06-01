@@ -1,0 +1,105 @@
+{
+  "kanji": "景",
+  "meta": {
+    "weight": 1240,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [],
+    "am_han": "CẢNH"
+  },
+  "meaning": {
+    "vi": "phong cảnh",
+    "en": "scenery, view"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/景.svg"
+  },
+  "frequency": 419,
+  "examples": [
+    "背景",
+    "風景",
+    "景気",
+    "光景",
+    "景色"
+  ],
+  "explanation": {
+    "id": "1984",
+    "text": "景 (đọc là \"kei\") có nghĩa là \"cảnh sắc\", \"quang cảnh\" để chỉ các hình ảnh hoặc tình huống tự nhiên, phong cảnh hoặc trạng thái nhìn thấy.\n\nVí dụ:\n- 景色 (keshiki): Phong cảnh, cảnh vật.\n- 風景 ("
+  },
+  "comments": [
+    {
+      "id": "37182",
+      "lang": "vi",
+      "content_html": "<p>Ngày trời (日) đẹp, <strong>phong cảnh</strong> kinh thành (京) cũng đẹp.</p>",
+      "content_text": "Ngày trời (日) đẹp,\nphong cảnh\nkinh thành (京) cũng đẹp.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd26625e14.jpg",
+      "image_path": "assets/images/景_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154249",
+      "lang": "vi",
+      "content_html": "<p>MẶT TRỜI mọc trên KINH đô có phong CẢNH rất đẹp</p>",
+      "content_text": "MẶT TRỜI mọc trên KINH đô có phong CẢNH rất đẹp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154250",
+      "lang": "vi",
+      "content_html": "<p>Mặt trời mọc trên KINH đô là một CẢNH rất đẹp.</p>",
+      "content_text": "Mặt trời mọc trên KINH đô là một CẢNH rất đẹp.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154251",
+      "lang": "vi",
+      "content_html": "<p>Cảnh 景 Mặt trời 日 ở Kinh 京 đô rất đẹp.</p>",
+      "content_text": "Cảnh 景 Mặt trời 日 ở Kinh 京 đô rất đẹp.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

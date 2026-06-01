@@ -1,0 +1,53 @@
+{
+  "kanji": "杖",
+  "meta": {
+    "weight": 1292,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [
+      "つえ"
+    ],
+    "am_han": "TRƯỢNG, TRÁNG"
+  },
+  "meaning": {
+    "vi": "nhân viên, cây gậy",
+    "en": "staff, cane"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/杖.svg"
+  },
+  "frequency": 2387,
+  "examples": [
+    "杖",
+    "松葉杖"
+  ],
+  "explanation": {
+    "id": "3974",
+    "text": "杖 (đọc là \"jō\") có nghĩa là \"gậy\" hoặc \"cây chống\", thường được sử dụng để chỉ các vật dụng hỗ trợ trong đi lại hoặc làm vũ khí.  \nVí dụ:  \n- 杖つき (jōtsuki): Sự sử dụng gậy, đi với gậy.  \n- 手"
+  },
+  "comments": [
+    {
+      "id": "154390",
+      "lang": "vi",
+      "content_html": "<p>Cây cao 1 TRƯỢNG có tên ( name ) gậy batoong</p>",
+      "content_text": "Cây cao 1 TRƯỢNG có tên ( name ) gậy batoong",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

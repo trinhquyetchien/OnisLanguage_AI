@@ -1,0 +1,90 @@
+{
+  "kanji": "概",
+  "meta": {
+    "weight": 1403,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガイ"
+    ],
+    "kun": [
+      "おおむ.ね"
+    ],
+    "am_han": "KHÁI"
+  },
+  "meaning": {
+    "vi": "phác thảo, điều kiện, gần đúng, nói chung",
+    "en": "outline, condition, approximation, generally"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/概.svg"
+  },
+  "frequency": 1335,
+  "examples": [
+    "概念",
+    "概要",
+    "概ね",
+    "一概に",
+    "概観"
+  ],
+  "explanation": {
+    "id": "843",
+    "text": "概 (đọc là \"gai\") có nghĩa là \"khái niệm\", \"tổng quát\" để chỉ sự hiểu biết tổng quan hoặc ý tưởng chung về một vấn đề nào đó.  \nVí dụ:  \n- 概念 (gainen): Khái niệm, ý tưởng.  \n- 概要 (gaiyō): Tóm"
+  },
+  "comments": [
+    {
+      "id": "154589",
+      "lang": "vi",
+      "content_html": "<p>Chữ Khái:概: Khái Quát có 2 bộ (木 MỘC: cái cây,  既 KÍ: Đã rồi) <br>Bộ Kí : 既: Đã rồi có 2 bộ :  艮 CẤN: Bền vững, 旡 KÍ: Nấc (Nấc cụt): Bộ Nhân<br>--&#62; Tôi xin Khái Quát lại câu chuyện hay Đã đọc lên cái Cây để ghi nhớ lại 1 cách bền vững chứ không như người ăn nha</p>",
+      "content_text": "Chữ Khái:概: Khái Quát có 2 bộ (木 MỘC: cái cây,  既 KÍ: Đã rồi)\nBộ Kí : 既: Đã rồi có 2 bộ :  艮 CẤN: Bền vững, 旡 KÍ: Nấc (Nấc cụt): Bộ Nhân\n--> Tôi xin Khái Quát lại câu chuyện hay Đã đọc lên cái Cây để ghi nhớ lại 1 cách bền vững chứ không như người ăn nha",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154590",
+      "lang": "vi",
+      "content_html": "<p>những cây đã Ký xong thì chỉ nói KHÁI quát</p>",
+      "content_text": "những cây đã Ký xong thì chỉ nói KHÁI quát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154591",
+      "lang": "vi",
+      "content_html": "<p>SAU KHI ĐÃ xem xét Tổng Quát cái CÂY thì tôi xin có báo cáo TÓM TẮT cho anh là cái cây này rất to. (^_^)</p>",
+      "content_text": "SAU KHI ĐÃ xem xét Tổng Quát cái CÂY thì tôi xin có báo cáo TÓM TẮT cho anh là cái cây này rất to. (^_^)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

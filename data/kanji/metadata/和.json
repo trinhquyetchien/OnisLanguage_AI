@@ -1,0 +1,96 @@
+{
+  "kanji": "和",
+  "meta": {
+    "weight": 479,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ワ",
+      "オ",
+      "カ"
+    ],
+    "kun": [
+      "やわ.らぐ",
+      "やわ.らげる",
+      "なご.む",
+      "なご.やか",
+      "あ.える"
+    ],
+    "am_han": "HÒA"
+  },
+  "meaning": {
+    "vi": "hài hòa, hòa bình",
+    "en": "harmony, Japanese style, peace, soften, Japan"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/和.svg"
+  },
+  "frequency": 124,
+  "examples": [
+    "昭和",
+    "平和",
+    "緩和",
+    "和",
+    "違和感"
+  ],
+  "explanation": {
+    "id": "8386",
+    "text": "和 (đọc là \"wa\") có nghĩa là \"hòa\", \"hòa bình\" hoặc thể hiện sự hài hòa trong mối quan hệ. \n\nVí dụ:\n- 和食 (washoku): Ẩm thực Nhật Bản, món ăn truyền thống.\n- 和風 (wafuu): Kiểu Nhật, phong cách "
+  },
+  "comments": [
+    {
+      "id": "190933",
+      "lang": "vi",
+      "content_html": "<p><strong>Nhật Bản</strong></p><p>和食 - món ăn Nhật</p><p>和服 - trang phục Nhật</p>",
+      "content_text": "Nhật Bản\n和食 - món ăn Nhật\n和服 - trang phục Nhật",
+      "image_url": "https://jpdictionary.com/upload/images/648a71f6439cd.jpg",
+      "image_path": "assets/images/和_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "37125",
+      "lang": "vi",
+      "content_html": "<p>Đồ ăn <strong>Nhật </strong>đi kèm với cơm.</p>",
+      "content_text": "Đồ ăn\nNhật\nđi kèm với cơm.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb8fa9c019.jpg",
+      "image_path": "assets/images/和_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152388",
+      "lang": "vi",
+      "content_html": "<p>Khi nào có lúa bỏ vào miệng thì lúc ấy đã hoà bình</p>",
+      "content_text": "Khi nào có lúa bỏ vào miệng thì lúc ấy đã hoà bình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "kanji": "滋",
+  "meta": {
+    "weight": 1599,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ",
+      "シ"
+    ],
+    "kun": [],
+    "am_han": "TƯ"
+  },
+  "meaning": {
+    "vi": "nuôi dưỡng, nhiều hơn và nhiều hơn nữa, xum xuê, trồng trọt, đục ngầu",
+    "en": "nourishing, more & more, be luxuriant, planting, turbidity"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/滋.svg"
+  },
+  "frequency": 1563,
+  "examples": [
+    "滋賀",
+    "滋養"
+  ],
+  "explanation": {
+    "id": "3204",
+    "text": "滋 (đọc là \"zi\" hoặc \"nurture\") có nghĩa là \"nuôi dưỡng\", \"thêm vị\", thường chỉ sự phong phú hoặc sự phát triển tốt đẹp.\nVí dụ:\n- 滋養 (zijou): Dinh dưỡng, nuôi dưỡng.\n- 滋味 (ziimi): Hương vị đậ"
+  },
+  "comments": [
+    {
+      "id": "155040",
+      "lang": "vi",
+      "content_html": "<p>trời mưa hai đôi yêu nhau uống sữa tâm TƯ riêng</p>",
+      "content_text": "trời mưa hai đôi yêu nhau uống sữa tâm TƯ riêng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155041",
+      "lang": "vi",
+      "content_html": "<p>Nước sữa của mama (mm) có dinh dưỡng</p>",
+      "content_text": "Nước sữa của mama (mm) có dinh dưỡng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155042",
+      "lang": "vi",
+      "content_html": "<p>慈悲　them bo tam 心　phia duoi thanh {tu bi}</p>",
+      "content_text": "慈悲　them bo tam 心　phia duoi thanh {tu bi}",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "kanji": "祉",
+  "meta": {
+    "weight": 1902,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [],
+    "am_han": "CHỈ"
+  },
+  "meaning": {
+    "vi": "phúc lợi, hạnh phúc",
+    "en": "welfare, happiness"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/祉.svg"
+  },
+  "frequency": 1063,
+  "examples": [
+    "福祉"
+  ],
+  "explanation": {
+    "id": "3116",
+    "text": "祉 (đọc là \"shi\") có nghĩa là \"phúc lợi\" hoặc \"hạnh phúc\", thường liên quan đến sự tốt đẹp, hạnh phúc trong cuộc sống.  \nVí dụ:  \n- 祝祉 (shukushi): Chúc phúc, cầu chúc hạnh phúc.  \n- 福祉 (fukus"
+  },
+  "comments": [
+    {
+      "id": "155687",
+      "lang": "vi",
+      "content_html": "<p>Bị bắt dừng lại (止), chỉ thị(ネ) là hãy cầu PHÚC</p>",
+      "content_text": "Bị bắt dừng lại (止), chỉ thị(ネ) là hãy cầu PHÚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155688",
+      "lang": "vi",
+      "content_html": "<p>Dừng lại (止) nê (ネ) na thì chỉ (祉) là cầu PHÚC thôi.</p>",
+      "content_text": "Dừng lại (止) nê (ネ) na thì chỉ (祉) là cầu PHÚC thôi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155689",
+      "lang": "vi",
+      "content_html": "<p>Chỉ thị mang lại phúc lợi(chỉ)</p>",
+      "content_text": "Chỉ thị mang lại phúc lợi(chỉ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

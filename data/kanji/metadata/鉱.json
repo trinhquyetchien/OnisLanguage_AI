@@ -1,0 +1,90 @@
+{
+  "kanji": "鉱",
+  "meta": {
+    "weight": 2753,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "あらがね"
+    ],
+    "am_han": "KHOÁNG"
+  },
+  "meaning": {
+    "vi": "khoáng sản",
+    "en": "mineral, ore"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/鉱.svg"
+  },
+  "frequency": 1376,
+  "examples": [
+    "鉱山",
+    "炭鉱",
+    "鉱物",
+    "鉱業",
+    "鉱石"
+  ],
+  "explanation": {
+    "id": "2571",
+    "text": "鉱 (đọc là \"kō\") có nghĩa là \"khoáng sản\" hoặc \"kim loại\", chỉ các loại khoáng chất, đặc biệt là những thứ được khai thác từ lòng đất.\n\nVí dụ:\n- 鉱山 (kōzan): Mỏ khoáng sản.\n- 鉱物 (kōbutsu): Kho"
+  },
+  "comments": [
+    {
+      "id": "157549",
+      "lang": "vi",
+      "content_html": "<p>Chỗ rộng có nhiều kim loại là nơi có khoáng sản</p>",
+      "content_text": "Chỗ rộng có nhiều kim loại là nơi có khoáng sản",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157550",
+      "lang": "vi",
+      "content_html": "<p>Kim loại nói rộng ra là khoáng sản</p>",
+      "content_text": "Kim loại nói rộng ra là khoáng sản",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157551",
+      "lang": "vi",
+      "content_html": "<p>Quảng Bình nơi RỘNG RÃI ắt có nhiều KHOÁNG sản VÀNG</p>",
+      "content_text": "Quảng Bình nơi RỘNG RÃI ắt có nhiều KHOÁNG sản VÀNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

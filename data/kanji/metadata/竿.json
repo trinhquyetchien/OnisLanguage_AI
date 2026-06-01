@@ -1,0 +1,52 @@
+{
+  "kanji": "竿",
+  "meta": {
+    "weight": 1981,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "さお"
+    ],
+    "am_han": "CAN, CÁN"
+  },
+  "meaning": {
+    "vi": "cực, thanh, chùm quy mô, cổ vĩ cầm",
+    "en": "pole, rod, scale beam, violin neck"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/竿.svg"
+  },
+  "frequency": 2416,
+  "examples": [
+    "竿"
+  ],
+  "explanation": {
+    "id": "1155",
+    "text": "竿 (đọc là \"kan\") có nghĩa là \"cần\" hoặc \"cán\", chỉ các loại thanh dài dùng để câu cá, vẫy cờ, hoặc làm dụng cụ.  \nVí dụ:  \n- 釣り竿 (tsurizao): Cần câu cá.  \n- 旗竿 (hagizao): Cán cờ.  \n- 笛竿 (fue"
+  },
+  "comments": [
+    {
+      "id": "155853",
+      "lang": "vi",
+      "content_html": "<p>Cây Trúc phơi khô để làm cần câu</p>",
+      "content_text": "Cây Trúc phơi khô để làm cần câu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "kanji": "貴",
+  "meta": {
+    "weight": 2554,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "たっと.い",
+      "とうと.い",
+      "たっと.ぶ",
+      "とうと.ぶ"
+    ],
+    "am_han": "QUÝ"
+  },
+  "meaning": {
+    "vi": "quý giá, giá trị, giải thưởng, quý trọng, danh dự",
+    "en": "precious, value, prize, esteem, honor"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/貴.svg"
+  },
+  "frequency": 970,
+  "examples": [
+    "貴重",
+    "貴方",
+    "貴族",
+    "貴",
+    "貴女"
+  ],
+  "explanation": {
+    "id": "1372",
+    "text": "貴 (đọc là \"ki\") có nghĩa là \"quý giá\", \"tôn quý\" để chỉ sự trân trọng hoặc giá trị cao của một vật, người hay ý tưởng.  \nVí dụ:  \n- 貴族 (kizoku): Quý tộc, tầng lớp thượng lưu.  \n- 貴重 (kichou)"
+  },
+  "comments": [
+    {
+      "id": "157076",
+      "lang": "vi",
+      "content_html": "<p>con sâu rất quý trọng  con sò</p>",
+      "content_text": "con sâu rất quý trọng  con sò",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157077",
+      "lang": "vi",
+      "content_html": "<p>Đối với 1 con sò thứ Quý nhất là bên trong nó.</p>",
+      "content_text": "Đối với 1 con sò thứ Quý nhất là bên trong nó.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157078",
+      "lang": "vi",
+      "content_html": "<p>Của QUÝ(貴） ngày xưa thường là NGỌC TRAI（貝）được giấu TRONG（中） MỘT（一） cái rương.</p>",
+      "content_text": "Của QUÝ(貴） ngày xưa thường là NGỌC TRAI（貝）được giấu TRONG（中） MỘT（一） cái rương.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

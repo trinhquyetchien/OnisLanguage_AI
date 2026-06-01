@@ -1,0 +1,93 @@
+{
+  "kanji": "汎",
+  "meta": {
+    "weight": 1487,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン",
+      "ブ",
+      "フウ",
+      "ホウ",
+      "ホン"
+    ],
+    "kun": [
+      "ただよ.う",
+      "ひろ.い"
+    ],
+    "am_han": "PHIẾM"
+  },
+  "meaning": {
+    "vi": "chảo-",
+    "en": "pan-"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/汎.svg"
+  },
+  "frequency": 2014,
+  "examples": [
+    "汎用",
+    "汎",
+    "広汎"
+  ],
+  "explanation": {
+    "id": "6466",
+    "text": "汎 (đọc là \"han\") có nghĩa là \"phổ quát\", \"khắp nơi\" để chỉ sự rộng rãi, không giới hạn trong một lĩnh vực cụ thể.  \nVí dụ:  \n- 汎用 (hanyou): Sử dụng đa năng, phổ biến.  \n- 汎発 (hanpatsu): Phát"
+  },
+  "comments": [
+    {
+      "id": "154766",
+      "lang": "vi",
+      "content_html": "<p>thủy nói chuyện phàm phiếm</p>",
+      "content_text": "thủy nói chuyện phàm phiếm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154767",
+      "lang": "vi",
+      "content_html": "<p>người PHÀM 凡 mà đòi nói chuyện của đất NƯỚC 氵thì chỉ là nói chuyện PHIẾM cho vui mồm thôi.</p>",
+      "content_text": "người PHÀM 凡 mà đòi nói chuyện của đất NƯỚC 氵thì chỉ là nói chuyện PHIẾM cho vui mồm thôi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154768",
+      "lang": "vi",
+      "content_html": "<p>Thủy là người Phàm nên hay nói chuyện phù Phiếm.</p>",
+      "content_text": "Thủy là người Phàm nên hay nói chuyện phù Phiếm.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

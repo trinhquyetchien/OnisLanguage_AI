@@ -1,0 +1,51 @@
+{
+  "kanji": "嚢",
+  "meta": {
+    "weight": 529,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ノウ",
+      "ドウ"
+    ],
+    "kun": [
+      "ふくろ"
+    ],
+    "am_han": "NANG"
+  },
+  "meaning": {
+    "vi": "túi, ví",
+    "en": "pouch, purse, bag"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/嚢.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6186",
+    "text": "嚢 (đọc là \"nō\") có nghĩa là \"bao,\" \"túi\" để chỉ các vật dụng dùng để đựng hoặc chứa đựng.  \nVí dụ:  \n- 嚢腫 (nōshu): U nang, khối u nước.  \n- お金の嚢 (okane no nō): Túi tiền.  \n- 背嚢 (hainō): Ba l"
+  },
+  "comments": [
+    {
+      "id": "219175",
+      "lang": "vi",
+      "content_html": "<p>1 (一) trong (中) những cái huyệt (穴) được lấp bởi các bao cát (土嚢) chứa 2 biểu (表) đất。</p>",
+      "content_text": "1 (一) trong (中) những cái huyệt (穴) được lấp bởi các bao cát (土嚢) chứa 2 biểu (表) đất。",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

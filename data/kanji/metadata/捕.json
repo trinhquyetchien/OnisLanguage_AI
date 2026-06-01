@@ -1,0 +1,96 @@
+{
+  "kanji": "捕",
+  "meta": {
+    "weight": 1101,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホ"
+    ],
+    "kun": [
+      "と.らえる",
+      "と.らわれる",
+      "と.る",
+      "とら.える",
+      "とら.われる",
+      "つか.まえる",
+      "つか.まる"
+    ],
+    "am_han": "BỘ"
+  },
+  "meaning": {
+    "vi": "bắt",
+    "en": "catch, capture"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/捕.svg"
+  },
+  "frequency": 604,
+  "examples": [
+    "逮捕",
+    "捕獲",
+    "捕虜",
+    "捕鯨",
+    "捕手"
+  ],
+  "explanation": {
+    "id": "7095",
+    "text": "捕 (đọc là \"ho\") có nghĩa là \"bắt\", \"nắm bắt\", thường chỉ các hành động liên quan đến việc bắt giữ hoặc nắm giữ một cái gì đó.\n\nVí dụ:\n- 捕まえる (tsukamaeru): Bắt, nắm bắt.\n- 捕虜 (horyo): Tù binh"
+  },
+  "comments": [
+    {
+      "id": "153928",
+      "lang": "vi",
+      "content_html": "<p>Bắt giữ kẻ phản bội tay cầm sử dụng cây thánh giá</p>",
+      "content_text": "Bắt giữ kẻ phản bội tay cầm sử dụng cây thánh giá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153929",
+      "lang": "vi",
+      "content_html": "<p>BẮT GIỮ kẻ trộm BỘ thập giá</p>",
+      "content_text": "BẮT GIỮ kẻ trộm BỘ thập giá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153930",
+      "lang": "vi",
+      "content_html": "<p>Đi bộ mà tay手 sử dụng 用 kim十 tiêm nên đã bị bắt</p>",
+      "content_text": "Đi bộ mà tay手 sử dụng 用 kim十 tiêm nên đã bị bắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

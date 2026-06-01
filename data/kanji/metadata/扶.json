@@ -1,0 +1,87 @@
+{
+  "kanji": "扶",
+  "meta": {
+    "weight": 1052,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "たす.ける"
+    ],
+    "am_han": "PHÙ"
+  },
+  "meaning": {
+    "vi": "viện trợ, giúp đỡ, hỗ trợ",
+    "en": "aid, help, assist"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/扶.svg"
+  },
+  "frequency": 1879,
+  "examples": [
+    "扶助",
+    "扶養"
+  ],
+  "explanation": {
+    "id": "6812",
+    "text": "扶 (đọc là \"fu\") có nghĩa là \"nâng đỡ\", \"hỗ trợ\" để chỉ các hành động giúp đỡ hoặc nâng đỡ ai đó về mặt vật lý hoặc tinh thần.  \nVí dụ:  \n- 扶養 (fuyou): Nuôi dưỡng, chăm sóc.  \n- 扶助 (fujo): Hỗ"
+  },
+  "comments": [
+    {
+      "id": "153796",
+      "lang": "vi",
+      "content_html": "<p>chồng chắp tay mong phù hộ.</p>",
+      "content_text": "chồng chắp tay mong phù hộ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153797",
+      "lang": "vi",
+      "content_html": "<p>người chồng là cánh tay phải phù dưỡng gia đình</p>",
+      "content_text": "người chồng là cánh tay phải phù dưỡng gia đình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153798",
+      "lang": "vi",
+      "content_html": "<p>TAY của người CHỒNG PHÙ HỘ cho gia đình. hay nhầm với chữ MẠT (抹)</p>",
+      "content_text": "TAY của người CHỒNG PHÙ HỘ cho gia đình. hay nhầm với chữ MẠT (抹)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

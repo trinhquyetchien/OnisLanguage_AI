@@ -1,0 +1,54 @@
+{
+  "kanji": "鮎",
+  "meta": {
+    "weight": 2974,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "デン",
+      "ネン"
+    ],
+    "kun": [
+      "あゆ",
+      "なまず"
+    ],
+    "am_han": "NIÊM"
+  },
+  "meaning": {
+    "vi": "cá hồi nước ngọt, nấu chảy",
+    "en": "freshwater trout, smelt"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/鮎.svg"
+  },
+  "frequency": 2201,
+  "examples": [
+    "鮎"
+  ],
+  "explanation": {
+    "id": "78",
+    "text": "鮎 (đọc là \"ayu\") có nghĩa là \"cá ayu\", một loại cá nước ngọt thường sống trong các dòng sông ở Nhật Bản, nổi tiếng với hương vị thơm ngon và thường được ăn vào mùa hè.\n\nVí dụ:\n- 鮎料理 (ayuryōr"
+  },
+  "comments": [
+    {
+      "id": "158039",
+      "lang": "vi",
+      "content_html": "<p>Loài cá duy nhất có khả năng xem bói dự đoán. Cá niêm. Ngư+chiêm= niêm</p>",
+      "content_text": "Loài cá duy nhất có khả năng xem bói dự đoán. Cá niêm. Ngư+chiêm= niêm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

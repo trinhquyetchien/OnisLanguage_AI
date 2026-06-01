@@ -1,0 +1,90 @@
+{
+  "kanji": "夕",
+  "meta": {
+    "weight": 617,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ"
+    ],
+    "kun": [
+      "ゆう"
+    ],
+    "am_han": "TỊCH"
+  },
+  "meaning": {
+    "vi": "tối",
+    "en": "evening"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/夕.svg"
+  },
+  "frequency": 924,
+  "examples": [
+    "夕方",
+    "夕食",
+    "七夕",
+    "夕刊",
+    "夕"
+  ],
+  "explanation": {
+    "id": "7808",
+    "text": "夕 (đọc là \"yū\") có nghĩa là \"buổi tối\" hoặc \"hoàng hôn\", chỉ thời điểm trong ngày khi trời tối dần.  \nVí dụ:  \n- 夕食 (yūshoku): Bữa tối.  \n- 夕方 (yūgata): Buổi chiều muộn, gần tối.  \n- 夕陽 (yūh"
+  },
+  "comments": [
+    {
+      "id": "717",
+      "lang": "vi",
+      "content_html": "<p>Vào <strong>xế chiều</strong> bạn sẽ thấy mặt trăng và chim chóc.</p>",
+      "content_text": "Vào\nxế chiều\nbạn sẽ thấy mặt trăng và chim chóc.",
+      "image_url": "https://jpdictionary.com/upload/images/6298404b4679f.jpg",
+      "image_path": "assets/images/夕_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158588",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>夕方 (ゆうがた): hoàng hôn</p><p>夕飯 (ゆうはん): bữa tối</p>",
+      "content_text": "JLPT N4\n夕方 (ゆうがた): hoàng hôn\n夕飯 (ゆうはん): bữa tối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221799",
+      "lang": "vi",
+      "content_html": "<p><strong>Nhật (日) </strong>bị khuyết<strong> (夕) </strong>tức là<strong> Dạ </strong>(Hình ảnh mặt trời dần khuất)</p>",
+      "content_text": "Nhật (日)\nbị khuyết\n(夕)\ntức là\nDạ\n(Hình ảnh mặt trời dần khuất)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

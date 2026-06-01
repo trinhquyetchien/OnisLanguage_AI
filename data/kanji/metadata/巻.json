@@ -1,0 +1,93 @@
+{
+  "kanji": "巻",
+  "meta": {
+    "weight": 826,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン",
+      "ケン"
+    ],
+    "kun": [
+      "ま.く",
+      "まき",
+      "ま.き"
+    ],
+    "am_han": "QUYỂN"
+  },
+  "meaning": {
+    "vi": "quyển, tập",
+    "en": "scroll, volume, book, part, roll up, wind up, tie, coil, counter for texts (or book scrolls)"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/巻.svg"
+  },
+  "frequency": 944,
+  "examples": [
+    "巻",
+    "巻き",
+    "取り巻く",
+    "圧巻",
+    "巻末"
+  ],
+  "explanation": {
+    "id": "1075",
+    "text": "巻 (đọc là \"kan\" hoặc \"maku\") có nghĩa là \"cuốn\", \"quyển\" để chỉ các vật được cuộn lại hoặc tập hợp lại thành nhiều phần. \n\nVí dụ:\n- 巻物 (kanmono): Cuốn sách, tài liệu cuộn.\n- 巻き寿司 (makizushi)"
+  },
+  "comments": [
+    {
+      "id": "153226",
+      "lang": "vi",
+      "content_html": "<p>ニ火 gặp lửa , con rắn 己 CUỘN vào</p>",
+      "content_text": "ニ火 gặp lửa , con rắn 己 CUỘN vào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153227",
+      "lang": "vi",
+      "content_html": "<p>2 người cuộn vào nhau thì nóng.</p>",
+      "content_text": "2 người cuộn vào nhau thì nóng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153228",
+      "lang": "vi",
+      "content_html": "<p>Hai Người Cuộn Kỷ Quyển sách.</p>",
+      "content_text": "Hai Người Cuộn Kỷ Quyển sách.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

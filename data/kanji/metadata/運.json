@@ -1,0 +1,90 @@
+{
+  "kanji": "運",
+  "meta": {
+    "weight": 2674,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ウン"
+    ],
+    "kun": [
+      "はこ.ぶ"
+    ],
+    "am_han": "VẬN"
+  },
+  "meaning": {
+    "vi": "vận chuyển, vận may",
+    "en": "carry, luck, destiny, fate, lot, transport, progress, advance"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/運.svg"
+  },
+  "frequency": 255,
+  "examples": [
+    "運動",
+    "運営",
+    "運用",
+    "運転",
+    "運"
+  ],
+  "explanation": {
+    "id": "349",
+    "text": "運 (đọc là \"un\") có nghĩa là \"vận mệnh\", \"vận chuyển\", hoặc \"di chuyển\", để chỉ các hành động liên quan đến sự di chuyển, vận tải, hay tình cờ trong cuộc sống.\n\nVí dụ:\n- 運転 (unten): Lái xe, đ"
+  },
+  "comments": [
+    {
+      "id": "36823",
+      "lang": "vi",
+      "content_html": "<p>Chiếc xe (車) <strong>vận chuyển </strong>tấm nệm.</p>",
+      "content_text": "Chiếc xe (車)\nvận chuyển\ntấm nệm.",
+      "image_url": "https://jpdictionary.com/upload/images/62ac7a49676da.jpg",
+      "image_path": "assets/images/運_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191207",
+      "lang": "vi",
+      "content_html": "<p><strong>vận </strong>chuyển - 運ぶ (はこぶ)</p>",
+      "content_text": "vận\nchuyển - 運ぶ (はこぶ)",
+      "image_url": "https://jpdictionary.com/upload/images/648adc1e28a10.jpg",
+      "image_path": "assets/images/運_2.jpg",
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158385",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>運転 (うんてん): lái xe<br>運転手 (うんてんしゅ): người lái xe<br>運動 (うんどう): vận động, thể dục</p><p>運ぶ (はこぶ): vận chuyển</p>",
+      "content_text": "JLPT N4\n運転 (うんてん): lái xe\n運転手 (うんてんしゅ): người lái xe\n運動 (うんどう): vận động, thể dục\n運ぶ (はこぶ): vận chuyển",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

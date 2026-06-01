@@ -1,0 +1,87 @@
+{
+  "kanji": "岳",
+  "meta": {
+    "weight": 794,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガク"
+    ],
+    "kun": [
+      "たけ"
+    ],
+    "am_han": "NHẠC"
+  },
+  "meaning": {
+    "vi": "điểm, đỉnh, núi",
+    "en": "point, peak, mountain"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/岳.svg"
+  },
+  "frequency": 1334,
+  "examples": [
+    "山岳",
+    "岳"
+  ],
+  "explanation": {
+    "id": "943",
+    "text": "岳 (đọc là \"gaku\") có nghĩa là \"ngọn núi\", thường được dùng để chỉ những ngọn núi cao hoặc các địa điểm nổi bật trong tự nhiên.\n\nVí dụ:\n- 岳父 (gaku-fu): Cha vợ.\n- 岳山 (gakusan): Ngọn núi lớn, b"
+  },
+  "comments": [
+    {
+      "id": "153146",
+      "lang": "vi",
+      "content_html": "<p>NHẠC phụ làm lính trên núi</p>",
+      "content_text": "NHẠC phụ làm lính trên núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153147",
+      "lang": "vi",
+      "content_html": "<p>Vượt núi vượt đồi để gặp NHẠC phụ.</p>",
+      "content_text": "Vượt núi vượt đồi để gặp NHẠC phụ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153148",
+      "lang": "vi",
+      "content_html": "<p>Ngũ nhạc sơn trang</p>",
+      "content_text": "Ngũ nhạc sơn trang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

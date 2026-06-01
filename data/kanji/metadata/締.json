@@ -1,0 +1,94 @@
+{
+  "kanji": "締",
+  "meta": {
+    "weight": 2099,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "し.まる",
+      "し.まり",
+      "し.める",
+      "-し.め",
+      "-じ.め"
+    ],
+    "am_han": "ĐẾ"
+  },
+  "meaning": {
+    "vi": "thắt chặt, buộc, đóng, khóa, buộc chặt",
+    "en": "tighten, tie, shut, lock, fasten"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/締.svg"
+  },
+  "frequency": 797,
+  "examples": [
+    "取締役",
+    "締結",
+    "締め切り",
+    "締め",
+    "取り締まり"
+  ],
+  "explanation": {
+    "id": "5585",
+    "text": "締 (đọc là \"tei\") có nghĩa là \"thắt chặt\", \"kết nối\" để chỉ các hành động liên quan đến việc làm cho cái gì đó trở nên chặt chẽ hoặc kết hợp với nhau.\n\nVí dụ:\n- 締結 (teketsu): Ký kết, thành lậ"
+  },
+  "comments": [
+    {
+      "id": "156107",
+      "lang": "vi",
+      "content_html": "<p>Lấy sợi DÂY BUỘC tên hoàng ĐẾ lại</p>",
+      "content_text": "Lấy sợi DÂY BUỘC tên hoàng ĐẾ lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156108",
+      "lang": "vi",
+      "content_html": "<p>Dùng dây buộc vị trí thắt lưng tà áo</p>",
+      "content_text": "Dùng dây buộc vị trí thắt lưng tà áo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156109",
+      "lang": "vi",
+      "content_html": "<p>lấy sợi dây buộc chặt cái quần cho nó đứng yên một chỗ, giữ ở vị trí cân bằng</p>",
+      "content_text": "lấy sợi dây buộc chặt cái quần cho nó đứng yên một chỗ, giữ ở vị trí cân bằng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

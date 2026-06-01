@@ -1,0 +1,107 @@
+{
+  "kanji": "忘",
+  "meta": {
+    "weight": 943,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [
+      "わす.れる"
+    ],
+    "am_han": "VONG"
+  },
+  "meaning": {
+    "vi": "quên",
+    "en": "forget"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/忘.svg"
+  },
+  "frequency": 1129,
+  "examples": [
+    "忘れる",
+    "忘年会",
+    "忘れ物",
+    "備忘録",
+    "忘却"
+  ],
+  "explanation": {
+    "id": "7262",
+    "text": "忘 (đọc là \"baku\" hoặc \"wazuka\") có nghĩa là \"quên\" để chỉ hành động không nhớ hoặc bỏ qua điều gì đó đã xảy ra.  \nVí dụ:  \n- 忘れる (wasureru): Quên.  \n- 忘れ物 (wasuremono): Đồ bỏ quên.  \n- 忘年会 ("
+  },
+  "comments": [
+    {
+      "id": "37060",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã <strong>quên </strong>xây bức tường bên phải.</p>",
+      "content_text": "Tôi đã\nquên\nxây bức tường bên phải.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb0b5770b8.jpg",
+      "image_path": "assets/images/忘_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153520",
+      "lang": "vi",
+      "content_html": "<p>Con tim chỉ khi chết đi sẽ quên được mọi thứ</p>",
+      "content_text": "Con tim chỉ khi chết đi sẽ quên được mọi thứ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153521",
+      "lang": "vi",
+      "content_html": "<p>Quên được một người là chết ở trong tim</p>",
+      "content_text": "Quên được một người là chết ở trong tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153522",
+      "lang": "vi",
+      "content_html": "<p>Chết cả trái tim để quên một người</p>",
+      "content_text": "Chết cả trái tim để quên một người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

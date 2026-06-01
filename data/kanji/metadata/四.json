@@ -1,0 +1,76 @@
+{
+  "kanji": "四",
+  "meta": {
+    "weight": 531,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "よ",
+      "よ.つ",
+      "よっ.つ",
+      "よん"
+    ],
+    "am_han": "TỨ"
+  },
+  "meaning": {
+    "vi": "bốn",
+    "en": "four"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/四.svg"
+  },
+  "frequency": 47,
+  "examples": [
+    "四",
+    "四月",
+    "四国",
+    "四半期",
+    "四つ"
+  ],
+  "explanation": {
+    "id": "3061",
+    "text": "四 (đọc là \"shi\" hoặc \"yon\") có nghĩa là \"bốn\", chỉ số lượng và thứ tự. \n\nVí dụ:\n- 四角 (shikaku): Hình vuông.\n- 四季 (shiki): Bốn mùa.\n- 四人 (yonin): Bốn người."
+  },
+  "comments": [
+    {
+      "id": "454",
+      "lang": "vi",
+      "content_html": "<p><strong>Hình tứ giác</strong> có 4 góc biểu thị cho số 4.</p>",
+      "content_text": "Hình tứ giác\ncó 4 góc biểu thị cho số 4.",
+      "image_url": "https://jpdictionary.com/upload/images/62975f974547a.jpg",
+      "image_path": "assets/images/四_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158341",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>四 (し/よん): bốn</p>",
+      "content_text": "JLPT N5\n四 (し/よん): bốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "kanji": "鷲",
+  "meta": {
+    "weight": 3012,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ",
+      "ジュ"
+    ],
+    "kun": [
+      "わし"
+    ],
+    "am_han": "THỨU"
+  },
+  "meaning": {
+    "vi": "chim ưng",
+    "en": "eagle"
+  },
+  "stroke": {
+    "count": 23,
+    "svg": "assets/svg/鷲.svg"
+  },
+  "frequency": 1925,
+  "examples": [
+    "鷲",
+    "大鷲"
+  ],
+  "explanation": {
+    "id": "8407",
+    "text": "鷲 (đọc là \"washi\") có nghĩa là \"đại bàng\" hoặc \"chim săn mồi lớn\". Chữ này thường chỉ các loài chim ăn thịt lớn, biểu trưng cho sức mạnh và sự kiêu hãnh.\n\nVí dụ:\n- 鷲掴み (washizukami): Nắm chặ"
+  },
+  "comments": [
+    {
+      "id": "158077",
+      "lang": "vi",
+      "content_html": "<p>dẫn dắt những con chó về lại kinh đô là việc làm của đại bàng</p>",
+      "content_text": "dẫn dắt những con chó về lại kinh đô là việc làm của đại bàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

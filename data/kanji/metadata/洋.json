@@ -1,0 +1,88 @@
+{
+  "kanji": "洋",
+  "meta": {
+    "weight": 1525,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [],
+    "am_han": "DƯƠNG"
+  },
+  "meaning": {
+    "vi": "đại dương",
+    "en": "ocean, sea, foreign, Western style"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/洋.svg"
+  },
+  "frequency": 763,
+  "examples": [
+    "西洋",
+    "海洋",
+    "東洋",
+    "太平洋",
+    "洋"
+  ],
+  "explanation": {
+    "id": "7872",
+    "text": "洋 (đọc là \"yō\") có nghĩa là \"thế giới phương Tây\" hoặc \"nước ngoài\", thường chỉ những thứ liên quan đến văn hóa phương Tây hoặc các yếu tố nước ngoài.\n\nVí dụ:\n- 洋服 (yōfuku): Áo quần kiểu phư"
+  },
+  "comments": [
+    {
+      "id": "191091",
+      "lang": "vi",
+      "content_html": "<p><strong>đại dương</strong></p>",
+      "content_text": "đại dương",
+      "image_url": "https://jpdictionary.com/upload/images/648abed336093.jpg",
+      "image_path": "assets/images/洋_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "922",
+      "lang": "vi",
+      "content_html": "<p>Con cừu (羊) đã băng qua <strong>biển </strong>đến Nhật.</p>",
+      "content_text": "Con cừu (羊) đã băng qua\nbiển\nđến Nhật.",
+      "image_url": "https://jpdictionary.com/upload/images/6298b5c78a682.jpg",
+      "image_path": "assets/images/洋_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154859",
+      "lang": "vi",
+      "content_html": "<p>Con cừu tắm dưới đại Dương</p>",
+      "content_text": "Con cừu tắm dưới đại Dương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

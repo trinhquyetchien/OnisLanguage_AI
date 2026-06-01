@@ -1,0 +1,111 @@
+{
+  "kanji": "戦",
+  "meta": {
+    "weight": 1036,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "いくさ",
+      "たたか.う",
+      "おのの.く",
+      "そよ.ぐ",
+      "わなな.く"
+    ],
+    "am_han": "CHIẾN"
+  },
+  "meaning": {
+    "vi": "chiến tranh, chiến đấu",
+    "en": "war, battle, match"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/戦.svg"
+  },
+  "frequency": 78,
+  "examples": [
+    "戦争",
+    "戦",
+    "戦略",
+    "挑戦",
+    "戦い"
+  ],
+  "explanation": {
+    "id": "4493",
+    "text": "戦 (đọc là \"sen\" hoặc \"ikusa\") có nghĩa là \"chiến tranh\", \"chiến đấu\" để chỉ các hành động liên quan đến xung đột, chiến tranh hoặc đối kháng.\n\nVí dụ:\n- 戦争 (sensō): Chiến tranh.\n- 戦う (tatakau"
+  },
+  "comments": [
+    {
+      "id": "37127",
+      "lang": "vi",
+      "content_html": "<p>Nhiều loại vũ khí được sử dụng trong<strong> chiến tranh</strong>.</p>",
+      "content_text": "Nhiều loại vũ khí được sử dụng trong\nchiến tranh\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb92c06ff7.jpg",
+      "image_path": "assets/images/戦_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153754",
+      "lang": "vi",
+      "content_html": "<p>ĐƠN độc đi QUA CHIẾN trường</p>",
+      "content_text": "ĐƠN độc đi QUA CHIẾN trường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153755",
+      "lang": "vi",
+      "content_html": "<p>Chiến tranh (戦) đơn giản (単) là cầm mâu (戈) đi chiến đấu</p>",
+      "content_text": "Chiến tranh (戦) đơn giản (単) là cầm mâu (戈) đi chiến đấu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153756",
+      "lang": "vi",
+      "content_html": "<p>qua chiến tranh thì sẽ đơn giản thôi</p>",
+      "content_text": "qua chiến tranh thì sẽ đơn giản thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

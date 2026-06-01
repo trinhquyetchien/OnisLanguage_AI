@@ -1,0 +1,107 @@
+{
+  "kanji": "周",
+  "meta": {
+    "weight": 473,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "まわ.り"
+    ],
+    "am_han": "CHU"
+  },
+  "meaning": {
+    "vi": "chu vi",
+    "en": "circumference, circuit, lap"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/周.svg"
+  },
+  "frequency": 562,
+  "examples": [
+    "周り",
+    "周辺",
+    "周囲",
+    "周年",
+    "周"
+  ],
+  "explanation": {
+    "id": "3469",
+    "text": "周 (đọc là \"shuu\" hoặc \"miyako\") có nghĩa là \"chu vi\", \"quanh\", \"xung quanh\", thường chỉ đến sự bao phủ, vòng tròn hay một khoảng không gian xung quanh một đối tượng nào đó.\n\nVí dụ:\n- 周囲 (shu"
+  },
+  "comments": [
+    {
+      "id": "700",
+      "lang": "vi",
+      "content_html": "<p>Những thứ mình đã ăn sẽ trở về với đất (土).</p><p>Mọi vật đều <strong>tuần hoàn</strong>.</p>",
+      "content_text": "Những thứ mình đã ăn sẽ trở về với đất (土).\nMọi vật đều\ntuần hoàn\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629839661917f.jpg",
+      "image_path": "assets/images/周_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152373",
+      "lang": "vi",
+      "content_html": "<p>Tính CHU vi quanh hố CÁT</p>",
+      "content_text": "Tính CHU vi quanh hố CÁT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152374",
+      "lang": "vi",
+      "content_html": "<p>nằm trong CHU Vi 周囲 biên giới (quynh) thì được hưởng Cát lành (吉)<br>Phân biệt với 週 (CHU tuần) có thêm bộ Sước</p>",
+      "content_text": "nằm trong CHU Vi 周囲 biên giới (quynh) thì được hưởng Cát lành (吉)\nPhân biệt với 週 (CHU tuần) có thêm bộ Sước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152375",
+      "lang": "vi",
+      "content_html": "<p>Chu vi Xung quanh Khẩu Đất này đã được tính toán.</p>",
+      "content_text": "Chu vi Xung quanh Khẩu Đất này đã được tính toán.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

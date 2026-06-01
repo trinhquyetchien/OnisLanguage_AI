@@ -1,0 +1,91 @@
+{
+  "kanji": "旨",
+  "meta": {
+    "weight": 1212,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "むね",
+      "うま.い"
+    ],
+    "am_han": "CHỈ"
+  },
+  "meaning": {
+    "vi": "ngon, thích, tỏ ra thích, có ý định, ý chí, thông minh, chuyên gia",
+    "en": "delicious, relish, show a liking for, purport, will, clever, expert"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/旨.svg"
+  },
+  "frequency": 1166,
+  "examples": [
+    "趣旨",
+    "旨",
+    "要旨",
+    "旨い",
+    "主旨"
+  ],
+  "explanation": {
+    "id": "3099",
+    "text": "旨 (đọc là \"shi\") có nghĩa là \"mục đích\", \"ý nghĩa\" để chỉ những điều quan trọng hoặc ý định chính trong một việc làm nào đó. \n\nVí dụ:\n- 旨味 (umami): Vị ngon, hương vị.\n- 旨告 (shikoku): Thông đ"
+  },
+  "comments": [
+    {
+      "id": "154183",
+      "lang": "vi",
+      "content_html": "<p>Một tuần Chỉ có 7 ngày</p>",
+      "content_text": "Một tuần Chỉ có 7 ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154184",
+      "lang": "vi",
+      "content_html": "<p>Chân lý chỉ 7 mặt trời</p>",
+      "content_text": "Chân lý chỉ 7 mặt trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154185",
+      "lang": "vi",
+      "content_html": "<p>cái THÌA này CHỈ dùng trong NGÀY</p>",
+      "content_text": "cái THÌA này CHỈ dùng trong NGÀY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

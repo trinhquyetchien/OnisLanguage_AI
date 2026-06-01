@@ -1,0 +1,84 @@
+{
+  "kanji": "禾",
+  "meta": {
+    "weight": 1921,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "いね"
+    ],
+    "am_han": "HÒA"
+  },
+  "meaning": {
+    "vi": "gốc cây hai nhánh (số 115)",
+    "en": "two-branch tree radical (no. 115)"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/禾.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "667",
+    "text": "禾 (đọc là \"wa\") có nghĩa là \"cây lúa\" hoặc \"thực vật\" liên quan đến nông nghiệp. \n\nVí dụ:\n- 禾稻 (wada): Lúa.\n- 稲禾 (inawa): Cọng lúa, cây lúa.\n- 禾田 (waden): Ruộng lúa."
+  },
+  "comments": [
+    {
+      "id": "220245",
+      "lang": "vi",
+      "content_html": "<p>trên đầu ngọn cây có một hạt giống là lúa</p>",
+      "content_text": "trên đầu ngọn cây có một hạt giống là lúa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220247",
+      "lang": "vi",
+      "content_html": "<p>phiệt vào đầu cái cái cây cho cho hoà cây lúa</p>",
+      "content_text": "phiệt vào đầu cái cái cây cho cho hoà cây lúa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220246",
+      "lang": "vi",
+      "content_html": "<p>Bộ hạt</p>",
+      "content_text": "Bộ hạt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

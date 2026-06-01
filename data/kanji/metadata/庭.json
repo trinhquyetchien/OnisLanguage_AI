@@ -1,0 +1,90 @@
+{
+  "kanji": "庭",
+  "meta": {
+    "weight": 871,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "にわ"
+    ],
+    "am_han": "ĐÌNH"
+  },
+  "meaning": {
+    "vi": "sân vườn, gia đình",
+    "en": "courtyard, garden, yard"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/庭.svg"
+  },
+  "frequency": 816,
+  "examples": [
+    "家庭",
+    "庭",
+    "庭園",
+    "中庭",
+    "校庭"
+  ],
+  "explanation": {
+    "id": "5555",
+    "text": "庭 (đọc là \"niwa\") có nghĩa là \"sân\", \"vườn\" để chỉ không gian bên ngoài của một ngôi nhà hoặc nơi trồng cây cảnh, hoa lá.\n\nVí dụ:\n- 庭園 (tei-en): Vườn, khu vườn.\n- 家庭 (katei): Gia đình, hộ gi"
+  },
+  "comments": [
+    {
+      "id": "153344",
+      "lang": "vi",
+      "content_html": "<p>Sân đình có mái che nơi vuaa đi lại</p>",
+      "content_text": "Sân đình có mái che nơi vuaa đi lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153345",
+      "lang": "vi",
+      "content_html": "<p>Dưới mái hiên nơi vua đi lại là sân vườn của triều ĐÌNH</p>",
+      "content_text": "Dưới mái hiên nơi vua đi lại là sân vườn của triều ĐÌNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153346",
+      "lang": "vi",
+      "content_html": "<p>trước hiên chiều đình có cái sân vườn rất đẹp</p>",
+      "content_text": "trước hiên chiều đình có cái sân vườn rất đẹp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

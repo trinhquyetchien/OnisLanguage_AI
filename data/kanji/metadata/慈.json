@@ -1,0 +1,90 @@
+{
+  "kanji": "慈",
+  "meta": {
+    "weight": 1002,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "いつく.しむ"
+    ],
+    "am_han": "TỪ"
+  },
+  "meaning": {
+    "vi": "nhân từ",
+    "en": "mercy"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/慈.svg"
+  },
+  "frequency": 1811,
+  "examples": [
+    "慈善",
+    "慈悲",
+    "慈愛",
+    "無慈悲",
+    "慈しみ"
+  ],
+  "explanation": {
+    "id": "3192",
+    "text": "慈 (đọc là \"ji\") có nghĩa là \"từ bi\", \"nhân hậu\", thường chỉ lòng tốt và sự quan tâm đối với người khác. \n\nVí dụ:\n- 慈悲 (jihi): Từ bi, lòng thương xót.\n- 慈愛 (jiai): Tình yêu thương, lòng yêu m"
+  },
+  "comments": [
+    {
+      "id": "153670",
+      "lang": "vi",
+      "content_html": "<p>Sự nhân từ là thứ huyền (玄) bí của 心</p>",
+      "content_text": "Sự nhân từ là thứ huyền (玄) bí của 心",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153671",
+      "lang": "vi",
+      "content_html": "<p>Tim ma ma rất nhân từ</p>",
+      "content_text": "Tim ma ma rất nhân từ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153672",
+      "lang": "vi",
+      "content_html": "<p>2 con yêu từ nhỏ đã có trái tim nhân TỪ</p>",
+      "content_text": "2 con yêu từ nhỏ đã có trái tim nhân TỪ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

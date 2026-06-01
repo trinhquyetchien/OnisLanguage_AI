@@ -1,0 +1,84 @@
+{
+  "kanji": "拷",
+  "meta": {
+    "weight": 1085,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴウ"
+    ],
+    "kun": [],
+    "am_han": "KHẢO"
+  },
+  "meaning": {
+    "vi": "tra tấn, đánh đập",
+    "en": "torture, beat"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/拷.svg"
+  },
+  "frequency": 2057,
+  "examples": [
+    "拷問"
+  ],
+  "explanation": {
+    "id": "2613",
+    "text": "拷 (đọc là \"gō\") có nghĩa là \"tra tấn\" hoặc \"hành hạ\", liên quan đến các hành động gây đau đớn, tra khảo.  \nVí dụ:  \n- 拷問 (gōmon): Tra tấn, điều tra bằng bạo lực.  \n- 拷問官 (gōmonkan): Người th"
+  },
+  "comments": [
+    {
+      "id": "153892",
+      "lang": "vi",
+      "content_html": "<p>suy nghĩ một hồi dùng tay TRA KHẢO</p>",
+      "content_text": "suy nghĩ một hồi dùng tay TRA KHẢO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153893",
+      "lang": "vi",
+      "content_html": "<p>dùng tay (扌) suy nghĩ (考) cách TRA KHẢO</p>",
+      "content_text": "dùng tay (扌) suy nghĩ (考) cách TRA KHẢO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153894",
+      "lang": "vi",
+      "content_html": "<p>Chống tay suy nghĩ cách tra KHẢO</p>",
+      "content_text": "Chống tay suy nghĩ cách tra KHẢO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

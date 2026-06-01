@@ -1,0 +1,108 @@
+{
+  "kanji": "加",
+  "meta": {
+    "weight": 345,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "くわ.える",
+      "くわ.わる"
+    ],
+    "am_han": "GIA"
+  },
+  "meaning": {
+    "vi": "thêm vào, tăng gia",
+    "en": "add, addition, increase, join, include, Canada"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/加.svg"
+  },
+  "frequency": 130,
+  "examples": [
+    "参加",
+    "追加",
+    "増加",
+    "加工",
+    "加入"
+  ],
+  "explanation": {
+    "id": "621",
+    "text": "加 (đọc là \"ka\") có nghĩa là \"thêm\", \"tăng\" để chỉ các hành động liên quan đến việc cộng thêm hoặc gia tăng một cái gì đó.\nVí dụ:\n- 加算 (kasan): Phép cộng, tính toán cộng.\n- 加速 (kasoku): Tăng "
+  },
+  "comments": [
+    {
+      "id": "190911",
+      "lang": "vi",
+      "content_html": "<p><strong>thêm vào</strong></p>",
+      "content_text": "thêm vào",
+      "image_url": "https://jpdictionary.com/upload/images/648a6e545d0ef.jpg",
+      "image_path": "assets/images/加_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "152067",
+      "lang": "vi",
+      "content_html": "<p>Muốn tham GIA thì phải có sức LỰC và lời nói</p>",
+      "content_text": "Muốn tham GIA thì phải có sức LỰC và lời nói",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152068",
+      "lang": "vi",
+      "content_html": "<p>tham gia chơi CA RÔ.</p>",
+      "content_text": "tham gia chơi CA RÔ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152069",
+      "lang": "vi",
+      "content_html": "<p>người không dùng vũ lực mà chỉ dùng miệng mới là người gia giáo</p>",
+      "content_text": "người không dùng vũ lực mà chỉ dùng miệng mới là người gia giáo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

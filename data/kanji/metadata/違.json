@@ -1,0 +1,112 @@
+{
+  "kanji": "違",
+  "meta": {
+    "weight": 2679,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "ちが.う",
+      "ちが.い",
+      "ちが.える",
+      "-ちが.える",
+      "たが.う",
+      "たが.える"
+    ],
+    "am_han": "VI"
+  },
+  "meaning": {
+    "vi": "khác, vi phạm",
+    "en": "difference, differ"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/違.svg"
+  },
+  "frequency": 344,
+  "examples": [
+    "違う",
+    "違い",
+    "間違い",
+    "違反",
+    "違法"
+  ],
+  "explanation": {
+    "id": "185",
+    "text": "違 (đọc là \"i\") có nghĩa là \"khác\", \"vi phạm\" để chỉ các hành động không tuân theo quy tắc hoặc khác biệt so với điều gì đó.\n\nVí dụ:\n- 違法 (ihō): Vi phạm pháp luật.\n- 違う (chigau): Khác, không "
+  },
+  "comments": [
+    {
+      "id": "37082",
+      "lang": "vi",
+      "content_html": "<p>Vì đường phức tạp nên dường như tôi đã đi <strong>nhầm</strong>.</p>",
+      "content_text": "Vì đường phức tạp nên dường như tôi đã đi\nnhầm\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb056e9238.jpg",
+      "image_path": "assets/images/違_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157384",
+      "lang": "vi",
+      "content_html": "<p>Sai lầm khi dẫn vi đi đâu</p>",
+      "content_text": "Sai lầm khi dẫn vi đi đâu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157385",
+      "lang": "vi",
+      "content_html": "<p>Vác Miệng chạy đi phân biệt Sai khác giữa số 5 và Năm là đều thiếu nét</p>",
+      "content_text": "Vác Miệng chạy đi phân biệt Sai khác giữa số 5 và Năm là đều thiếu nét",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157386",
+      "lang": "vi",
+      "content_html": "<p>ven Đường có 1 chữ Khẩu và 2 chữ Năm KHÁC nhau (五 và 年) viết thiếu nét gọi là VI</p>",
+      "content_text": "ven Đường có 1 chữ Khẩu và 2 chữ Năm KHÁC nhau (五 và 年) viết thiếu nét gọi là VI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

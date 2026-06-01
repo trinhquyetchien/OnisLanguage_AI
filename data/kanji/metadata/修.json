@@ -1,0 +1,92 @@
+{
+  "kanji": "修",
+  "meta": {
+    "weight": 203,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ",
+      "シュ"
+    ],
+    "kun": [
+      "おさ.める",
+      "おさ.まる"
+    ],
+    "am_han": "TU"
+  },
+  "meaning": {
+    "vi": "kỷ luật, hạnh kiểm bản thân tốt, học tập, làm chủ",
+    "en": "discipline, conduct oneself well, study, master"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/修.svg"
+  },
+  "frequency": 603,
+  "examples": [
+    "修正",
+    "研修",
+    "修理",
+    "修行",
+    "修復"
+  ],
+  "explanation": {
+    "id": "3481",
+    "text": "修 (đọc là \"shuu\" hoặc \"osou\") có nghĩa là \"tu sửa\", \"học hỏi\", \"rèn luyện\" để chỉ các hành động liên quan đến việc cải thiện, học tập hoặc sửa chữa.  \nVí dụ:  \n- 修理 (shuuri): Sửa chữa.  \n- 修"
+  },
+  "comments": [
+    {
+      "id": "151696",
+      "lang": "vi",
+      "content_html": "<p>bị NGƯỜI ta cầm GẬY ĐÁNH vì đi TU mà để TÓC</p>",
+      "content_text": "bị NGƯỜI ta cầm GẬY ĐÁNH vì đi TU mà để TÓC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151697",
+      "lang": "vi",
+      "content_html": "<p>Nữ nhi Tu thân:Quyết chịu Ăn đòn chứ không cắt Tóc.</p>",
+      "content_text": "Nữ nhi Tu thân:Quyết chịu Ăn đòn chứ không cắt Tóc.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151698",
+      "lang": "vi",
+      "content_html": "<p>Anh Nhân  cầm gậy(  | )truy ( 攵) tìm 3 sợi tóc để Tu sửa bản thân</p>",
+      "content_text": "Anh Nhân  cầm gậy(  | )truy ( 攵) tìm 3 sợi tóc để Tu sửa bản thân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

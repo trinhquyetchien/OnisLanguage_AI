@@ -1,0 +1,36 @@
+{
+  "kanji": "廼",
+  "meta": {
+    "weight": 886,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ナイ",
+      "ダイ",
+      "ノ",
+      "アイ"
+    ],
+    "kun": [
+      "すなわ.ち",
+      "なんじ"
+    ],
+    "am_han": "NÃI"
+  },
+  "meaning": {
+    "vi": "nói cách khác, ngươi, hạt sở hữu",
+    "en": "in other words, thou, you, possessive particle"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/廼.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6180",
+    "text": "廼 (đọc là \"nai\") có nghĩa là \"cái này\" hoặc \"như vậy\", thường được dùng trong văn phong cổ điển để chỉ sự xác nhận hoặc dẫn dắt. \n\nVí dụ:\n- 廼今 (naikon): Như vậy bây giờ.\n- 廼是 (naize): Cái nà"
+  },
+  "comments": []
+}

@@ -1,0 +1,110 @@
+{
+  "kanji": "結",
+  "meta": {
+    "weight": 2073,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケツ",
+      "ケチ"
+    ],
+    "kun": [
+      "むす.ぶ",
+      "ゆ.う",
+      "ゆ.わえる"
+    ],
+    "am_han": "KẾT"
+  },
+  "meaning": {
+    "vi": "buộc, đoàn kết",
+    "en": "tie, bind, contract, join, organize, do up hair, fasten"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/結.svg"
+  },
+  "frequency": 162,
+  "examples": [
+    "結果",
+    "結局",
+    "結構",
+    "結婚",
+    "結論"
+  ],
+  "explanation": {
+    "id": "2080",
+    "text": "結 (đọc là \"ketsu\" hoặc \"musubu\") có nghĩa là \"kết nối\", \"gắn bó\", \"kết thúc\" để chỉ các hành động liên quan đến việc kết hợp hoặc buộc chặt lại.\nVí dụ:\n- 結婚 (kekkon): Kết hôn, hôn nhân.\n- 結ぶ"
+  },
+  "comments": [
+    {
+      "id": "37190",
+      "lang": "vi",
+      "content_html": "<p><strong>Kết </strong>chỉ (糸) làm bùa may mắn (吉).</p>",
+      "content_text": "Kết\nchỉ (糸) làm bùa may mắn (吉).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd3751f4c4.jpg",
+      "image_path": "assets/images/結_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156038",
+      "lang": "vi",
+      "content_html": "<p>bồ KẾT ai lấy sợi chỉ buộc được mồm mấy thằng Sĩ lại</p>",
+      "content_text": "bồ KẾT ai lấy sợi chỉ buộc được mồm mấy thằng Sĩ lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190689",
+      "lang": "vi",
+      "content_html": "<p>Cầm sợi Dây kẻ Sĩ nói đoàn kết</p>",
+      "content_text": "Cầm sợi Dây kẻ Sĩ nói đoàn kết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156039",
+      "lang": "vi",
+      "content_html": "<p>sợi chỉ đỏ kết nối những điều tốt lành</p>",
+      "content_text": "sợi chỉ đỏ kết nối những điều tốt lành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

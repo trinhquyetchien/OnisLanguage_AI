@@ -1,0 +1,88 @@
+{
+  "kanji": "堤",
+  "meta": {
+    "weight": 575,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "つつみ"
+    ],
+    "am_han": "ĐÊ"
+  },
+  "meaning": {
+    "vi": "đê, bờ, kè",
+    "en": "dike, bank, embankment"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/堤.svg"
+  },
+  "frequency": 1658,
+  "examples": [
+    "堤",
+    "堤防",
+    "防波堤"
+  ],
+  "explanation": {
+    "id": "5543",
+    "text": "堤 (đọc là \"tei\") có nghĩa là \"đê\", chỉ các công trình xây dựng để ngăn nước, bảo vệ đất đai khỏi lũ lụt.\nVí dụ:\n- 堤防 (teibō): Đê điều, bờ đê.\n- 堤高 (teikō): Chiều cao của đê.\n- 堤岸 (teigishi):"
+  },
+  "comments": [
+    {
+      "id": "152623",
+      "lang": "vi",
+      "content_html": "<p>Đất(土) ở Đê (堤) là đất Thị(是) phi.<br><br>チャン</p>",
+      "content_text": "Đất(土) ở Đê (堤) là đất Thị(是) phi.\nチャン",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152624",
+      "lang": "vi",
+      "content_html": "<p>con đê cố định bờ đất ngày qua ngày</p>",
+      "content_text": "con đê cố định bờ đất ngày qua ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152625",
+      "lang": "vi",
+      "content_html": "<p>con đê để cố định đất</p>",
+      "content_text": "con đê để cố định đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

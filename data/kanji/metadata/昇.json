@@ -1,0 +1,90 @@
+{
+  "kanji": "昇",
+  "meta": {
+    "weight": 1219,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "のぼ.る"
+    ],
+    "am_han": "THĂNG"
+  },
+  "meaning": {
+    "vi": "vươn lên, thăng tiến",
+    "en": "rise up"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/昇.svg"
+  },
+  "frequency": 826,
+  "examples": [
+    "上昇",
+    "昇格",
+    "昇進",
+    "急上昇",
+    "昇る"
+  ],
+  "explanation": {
+    "id": "3825",
+    "text": "昇 (đọc là \"shō\") có nghĩa là \"tăng lên\", \"thăng tiến\" để chỉ các hành động liên quan đến việc nâng cao, phát triển hoặc thăng chức.\n\nVí dụ:\n- 昇進 (shōshin): Thăng chức.\n- 昇華 (shōka): Nâng cao"
+  },
+  "comments": [
+    {
+      "id": "154201",
+      "lang": "vi",
+      "content_html": "<p>bắc thang leo lên tận ông trời</p>",
+      "content_text": "bắc thang leo lên tận ông trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154202",
+      "lang": "vi",
+      "content_html": "<p>Bắc thang lên hỏi ông trời , đi làm cực khổ bao giờ THĂNG lương</p>",
+      "content_text": "Bắc thang lên hỏi ông trời , đi làm cực khổ bao giờ THĂNG lương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154203",
+      "lang": "vi",
+      "content_html": "<p>Bắc thang lên hỏi ông trời, Lấy tiền cho gái có đòi được không?</p>",
+      "content_text": "Bắc thang lên hỏi ông trời, Lấy tiền cho gái có đòi được không?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

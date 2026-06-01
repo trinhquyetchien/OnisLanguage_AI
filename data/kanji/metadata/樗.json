@@ -1,0 +1,33 @@
+{
+  "kanji": "樗",
+  "meta": {
+    "weight": 1416,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョ"
+    ],
+    "kun": [
+      "おおち",
+      "おうち"
+    ],
+    "am_han": "XƯ"
+  },
+  "meaning": {
+    "vi": "Cây hạt nhật",
+    "en": "Japanese bead tree"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/樗.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5310",
+    "text": "樗 (đọc là \"cho\") có nghĩa là \"cây cho\", một loại cây gỗ lớn, thường được nhắc đến trong văn hóa và thơ ca Nhật Bản. \n\nVí dụ:\n- 樗の木 (cho no ki): Cây cho.\n- 樗の実 (cho no mi): Quả của cây cho.\n-"
+  },
+  "comments": []
+}

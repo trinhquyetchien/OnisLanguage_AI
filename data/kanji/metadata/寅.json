@@ -1,0 +1,86 @@
+{
+  "kanji": "寅",
+  "meta": {
+    "weight": 735,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イン"
+    ],
+    "kun": [
+      "とら"
+    ],
+    "am_han": "DẦN"
+  },
+  "meaning": {
+    "vi": "dấu hiệu của con hổ, 3-5 giờ sáng, dấu hiệu thứ ba của hoàng đạo Trung Quốc",
+    "en": "sign of the tiger, 3-5AM, third sign of Chinese zodiac"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/寅.svg"
+  },
+  "frequency": 1975,
+  "examples": [
+    "寅"
+  ],
+  "explanation": {
+    "id": "5997",
+    "text": "寅 (đọc là \"in\") có nghĩa là \"con hổ\" hoặc chỉ một trong 12 chi trong hệ thống địa chi, đặc trưng cho năm và tháng của con hổ. \n\nVí dụ:\n- 寅年 (in'nen): Năm Hổ.\n- 寅時 (inji): Giờ Dần (từ 3 giờ s"
+  },
+  "comments": [
+    {
+      "id": "152995",
+      "lang": "vi",
+      "content_html": "<p>Người Tuổi DẦN thường đi lại tự Do trong Nhà</p>",
+      "content_text": "Người Tuổi DẦN thường đi lại tự Do trong Nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152996",
+      "lang": "vi",
+      "content_html": "<p>phân biệt: 寅 với 黄<br>Dần: có bộ miên—&#62; con hổ nhốt trong sở thú<br>Hoàng: có bộ thảo—&#62; cỏ tháng 8 (bát) mùa thu mọc tự do (do) có màu vàng</p>",
+      "content_text": "phân biệt: 寅 với 黄\nDần: có bộ miên—> con hổ nhốt trong sở thú\nHoàng: có bộ thảo—> cỏ tháng 8 (bát) mùa thu mọc tự do (do) có màu vàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152997",
+      "lang": "vi",
+      "content_html": "<p>trong nhà mà *thứ nhất* là được *tự do* đi lại bằng *2 chân* là con hổ (DẦN)</p>",
+      "content_text": "trong nhà mà *thứ nhất* là được *tự do* đi lại bằng *2 chân* là con hổ (DẦN)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

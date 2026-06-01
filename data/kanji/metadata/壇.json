@@ -1,0 +1,89 @@
+{
+  "kanji": "壇",
+  "meta": {
+    "weight": 604,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダン",
+      "タン"
+    ],
+    "kun": [],
+    "am_han": "ĐÀN"
+  },
+  "meaning": {
+    "vi": "bục, sân khấu, rostrum, sân thượng",
+    "en": "podium, stage, rostrum, terrace"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/壇.svg"
+  },
+  "frequency": 1512,
+  "examples": [
+    "仏壇",
+    "祭壇",
+    "登壇",
+    "壇上",
+    "花壇"
+  ],
+  "explanation": {
+    "id": "5169",
+    "text": "壇 (đọc là \"dan\") có nghĩa là \"bệ\", \"thềm\" hoặc \"nền tảng\", thường chỉ nơi diễn ra các hoạt động công cộng, lễ hội hoặc nghi thức tôn giáo.\n\nVí dụ:\n- 壇上 (danjō): Trên bệ, trên nền tảng.\n- 記念壇"
+  },
+  "comments": [
+    {
+      "id": "152681",
+      "lang": "vi",
+      "content_html": "<p>Chỗ đất bằng đội mũ lập đàn luân hồi 1 ngày</p>",
+      "content_text": "Chỗ đất bằng đội mũ lập đàn luân hồi 1 ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152682",
+      "lang": "vi",
+      "content_html": "<p>một ngày luân hồi dùng mũ đập đất lập đàn</p>",
+      "content_text": "một ngày luân hồi dùng mũ đập đất lập đàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152683",
+      "lang": "vi",
+      "content_html": "<p>Lập ĐÀN cầu mưa vào hồi (回) 1 h ngày chủ nhật tại mảnh đất đầu tiên</p>",
+      "content_text": "Lập ĐÀN cầu mưa vào hồi (回) 1 h ngày chủ nhật tại mảnh đất đầu tiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

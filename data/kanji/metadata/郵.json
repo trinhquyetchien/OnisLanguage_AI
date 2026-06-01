@@ -1,0 +1,88 @@
+{
+  "kanji": "郵",
+  "meta": {
+    "weight": 2706,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ"
+    ],
+    "kun": [],
+    "am_han": "BƯU"
+  },
+  "meaning": {
+    "vi": "thư, bưu điện",
+    "en": "mail, stagecoach stop"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/郵.svg"
+  },
+  "frequency": 917,
+  "examples": [
+    "郵便",
+    "郵政",
+    "郵送",
+    "郵政省",
+    "郵貯"
+  ],
+  "explanation": {
+    "id": "7796",
+    "text": "郵 (đọc là \"yū\") có nghĩa là \"bưu chính\" để chỉ các hành động liên quan đến việc gửi, nhận thư từ và hàng hóa qua hệ thống bưu điện.  \nVí dụ:  \n- 郵便 (yūbin): Bưu điện, dịch vụ bưu chính.  \n- "
+  },
+  "comments": [
+    {
+      "id": "157454",
+      "lang": "vi",
+      "content_html": "<p>chị thùy mông to làm ơ BƯU cục</p>",
+      "content_text": "chị thùy mông to làm ơ BƯU cục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157455",
+      "lang": "vi",
+      "content_html": "<p>Chữ THUỲ nhìn giống cái xe ngựa 2 bánh ngày xưa, chữ ẤP nhìn giống con ngựa. Nên người xưa dùng ngựa kéo xe đi chuyển BƯU kiện.</p>",
+      "content_text": "Chữ THUỲ nhìn giống cái xe ngựa 2 bánh ngày xưa, chữ ẤP nhìn giống con ngựa. Nên người xưa dùng ngựa kéo xe đi chuyển BƯU kiện.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157456",
+      "lang": "vi",
+      "content_html": "<p>cả Nghìn cây cỏ rủ xuống mặt Đất ở Bưu điện</p>",
+      "content_text": "cả Nghìn cây cỏ rủ xuống mặt Đất ở Bưu điện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "kanji": "梶",
+  "meta": {
+    "weight": 1370,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビ"
+    ],
+    "kun": [
+      "かじ",
+      "こずえ"
+    ],
+    "am_han": "VẢ, VẢI"
+  },
+  "meaning": {
+    "vi": "mái chèo",
+    "en": "sculling oar"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/梶.svg"
+  },
+  "frequency": 1355,
+  "examples": [
+    "梶"
+  ],
+  "explanation": {
+    "id": "965",
+    "text": "梶 (đọc là \"kaji\") có nghĩa là \"cái chạc\" hoặc \"cái tay vịn\", thường liên quan đến các bộ phận của thuyền buồm. \n\nVí dụ:\n- 梶棒 (kajibō): Cái chạc thuyền, thanh gỗ dùng để điều khiển.\n- 梶取 (kaj"
+  },
+  "comments": []
+}

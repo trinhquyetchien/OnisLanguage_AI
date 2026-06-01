@@ -1,0 +1,108 @@
+{
+  "kanji": "眠",
+  "meta": {
+    "weight": 1846,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ミン"
+    ],
+    "kun": [
+      "ねむ.る",
+      "ねむ.い"
+    ],
+    "am_han": "MIÊN"
+  },
+  "meaning": {
+    "vi": "ngủ, thôi miên",
+    "en": "sleep, die, sleepy"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/眠.svg"
+  },
+  "frequency": 1315,
+  "examples": [
+    "睡眠",
+    "眠り",
+    "眠る",
+    "眠い",
+    "催眠"
+  ],
+  "explanation": {
+    "id": "7509",
+    "text": "眠 (đọc là \"min\") có nghĩa là \"ngủ\", chỉ trạng thái hoặc hành động liên quan đến giấc ngủ hoặc sự buồn ngủ.  \nVí dụ:  \n- 眠る (nemuru): Ngủ, nằm ngủ.  \n- 眠気 (nemuke): Sự buồn ngủ.  \n- 不眠 (fumin"
+  },
+  "comments": [
+    {
+      "id": "37044",
+      "lang": "vi",
+      "content_html": "<p>Người dân (民) nhắm mắt (目) lại <strong>ngủ</strong>.</p>",
+      "content_text": "Người dân (民) nhắm mắt (目) lại\nngủ\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc52c481488.jpg",
+      "image_path": "assets/images/眠_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155572",
+      "lang": "vi",
+      "content_html": "<p>DÂN nhắm MẮT ngủ MIÊN man</p>",
+      "content_text": "DÂN nhắm MẮT ngủ MIÊN man",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155573",
+      "lang": "vi",
+      "content_html": "<p>Người dân nhắm mắt đi ngủ</p>",
+      "content_text": "Người dân nhắm mắt đi ngủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155574",
+      "lang": "vi",
+      "content_html": "<p>MẮT của DÂN chúng đã bị thôi MIÊN. mọi người dần dần chìm vào giấc ngủ...</p>",
+      "content_text": "MẮT của DÂN chúng đã bị thôi MIÊN. mọi người dần dần chìm vào giấc ngủ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

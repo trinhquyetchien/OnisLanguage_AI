@@ -1,0 +1,108 @@
+{
+  "kanji": "内",
+  "meta": {
+    "weight": 279,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ナイ",
+      "ダイ"
+    ],
+    "kun": [
+      "うち"
+    ],
+    "am_han": "NỘI"
+  },
+  "meaning": {
+    "vi": "bên trong, nội bộ",
+    "en": "inside, within, between, among, house, home"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/内.svg"
+  },
+  "frequency": 44,
+  "examples": [
+    "内容",
+    "内",
+    "国内",
+    "案内",
+    "内部"
+  ],
+  "explanation": {
+    "id": "6041",
+    "text": "内 (đọc là \"nai\" hoặc \"uchi\") có nghĩa là \"bên trong\", \"nội bộ\" để chỉ các khía cạnh liên quan đến không gian bên trong hoặc những thứ thuộc về nội bộ, cá nhân.\n\nVí dụ:\n- 内部 (naibu): Nội bộ, "
+  },
+  "comments": [
+    {
+      "id": "37332",
+      "lang": "vi",
+      "content_html": "<p>Một người (人) đi vào <strong>trong </strong>cái hộp lớn.</p>",
+      "content_text": "Một người (人) đi vào\ntrong\ncái hộp lớn.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe72791fe5.jpg",
+      "image_path": "assets/images/内_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151892",
+      "lang": "vi",
+      "content_html": "<p>c1 Người (人 NHÂN) đi qua Biên Giới (冂 QUYNH)<br>==&#62; để làm NỘI (内) gián<br>c2  Người (人 NHÂN) đứng ở Biên Giới (冂 QUYNH) nói<br>==&#62; Nội (内) bất xuất ngoại bất nhập.<br>..Tâm Sinh Tính..</p>",
+      "content_text": "c1 Người (人 NHÂN) đi qua Biên Giới (冂 QUYNH)\n==> để làm NỘI (内) gián\nc2  Người (人 NHÂN) đứng ở Biên Giới (冂 QUYNH) nói\n==> Nội (内) bất xuất ngoại bất nhập.\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151893",
+      "lang": "vi",
+      "content_html": "<p>Miếng thịt (肉) bị cắt mất 1 phần ở bên trong (内)</p>",
+      "content_text": "Miếng thịt (肉) bị cắt mất 1 phần ở bên trong (内)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151894",
+      "lang": "vi",
+      "content_html": "<p>NỘI trong biên giới có 1 người</p>",
+      "content_text": "NỘI trong biên giới có 1 người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

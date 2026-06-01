@@ -1,0 +1,108 @@
+{
+  "kanji": "話",
+  "meta": {
+    "weight": 2482,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ワ"
+    ],
+    "kun": [
+      "はな.す",
+      "はなし"
+    ],
+    "am_han": "THOẠI"
+  },
+  "meaning": {
+    "vi": "câu chuyện, đối thoại",
+    "en": "tale, talk"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/話.svg"
+  },
+  "frequency": 134,
+  "examples": [
+    "話",
+    "電話",
+    "お話",
+    "話し",
+    "話題"
+  ],
+  "explanation": {
+    "id": "8391",
+    "text": "話 (đọc là \"wa\" hoặc \"hanashi\") có nghĩa là \"nói\", \"cuộc trò chuyện\" để chỉ các hành động liên quan đến việc giao tiếp bằng lời nói.  \nVí dụ:  \n- 会話 (kaiwa): Cuộc hội thoại, đối thoại.  \n- 話す"
+  },
+  "comments": [
+    {
+      "id": "694",
+      "lang": "vi",
+      "content_html": "<p>Mọi người sử dụng hàng ngàn (千) từ vựng để <strong>nói chuyện</strong>.</p>",
+      "content_text": "Mọi người sử dụng hàng ngàn (千) từ vựng để\nnói chuyện\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62983886a8985.jpg",
+      "image_path": "assets/images/話_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156899",
+      "lang": "vi",
+      "content_html": "<p>Trước khi NÓI (言), thì uốn lưỡi (舌</p>",
+      "content_text": "Trước khi NÓI (言), thì uốn lưỡi (舌",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158453",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>電話 (でんわ): điện thoại<br>話 (はなし): nói chuyện, câu chuyện<br>話す (はなす): nói</p>",
+      "content_text": "JLPT N5\n電話 (でんわ): điện thoại\n話 (はなし): nói chuyện, câu chuyện\n話す (はなす): nói",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221917",
+      "lang": "vi",
+      "content_html": "<p>話します - THOẠI (はなします): nói</p><p>電話 - ĐIỆN THOẠI (でんわ): điện thoại</p><p>会話 - HỘI THOẠI (かいわ): hội thoại</p><p>話 - THOẠI (はなし): nói chuyện, câu chuyện</p>",
+      "content_text": "話します - THOẠI (はなします): nói\n電話 - ĐIỆN THOẠI (でんわ): điện thoại\n会話 - HỘI THOẠI (かいわ): hội thoại\n話 - THOẠI (はなし): nói chuyện, câu chuyện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5167",
+        "name": "v v",
+        "image_url": "https://jpdictionary.com/upload/images/681ca46917089.jpg"
+      }
+    }
+  ]
+}

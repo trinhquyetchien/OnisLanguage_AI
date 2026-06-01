@@ -1,0 +1,90 @@
+{
+  "kanji": "掲",
+  "meta": {
+    "weight": 1126,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "かか.げる"
+    ],
+    "am_han": "YẾT"
+  },
+  "meaning": {
+    "vi": "đưa lên (một thông báo), đưa lên, nâng lên, trưng bày, đi chơi, xuất bản, mô tả",
+    "en": "put up (a notice), put up, hoist, display, hang out, publish, describe"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/掲.svg"
+  },
+  "frequency": 899,
+  "examples": [
+    "掲載",
+    "掲示板",
+    "掲げる",
+    "掲示",
+    "前掲"
+  ],
+  "explanation": {
+    "id": "1976",
+    "text": "掲 (đọc là \"ke\") có nghĩa là \"treo lên\", \"hiển thị\" để chỉ các hành động liên quan đến việc công bố hoặc trưng bày thông tin, đặc biệt là trên bảng thông báo.\n\nVí dụ:\n- 掲示 (keiji): Thông báo,"
+  },
+  "comments": [
+    {
+      "id": "153977",
+      "lang": "vi",
+      "content_html": "<p>掲giơ cánh tay dưới mặt trời sẽ bị hôi lách kk</p>",
+      "content_text": "掲giơ cánh tay dưới mặt trời sẽ bị hôi lách kk",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153978",
+      "lang": "vi",
+      "content_html": "<p>Tay yết treo lên báo về việc mặt trời chiếu cho bốc mùi</p>",
+      "content_text": "Tay yết treo lên báo về việc mặt trời chiếu cho bốc mùi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153979",
+      "lang": "vi",
+      "content_html": "<p>mặt trời bao phủ 7 tỉnh thành, dùng tay niêm yết để mọi người biết</p>",
+      "content_text": "mặt trời bao phủ 7 tỉnh thành, dùng tay niêm yết để mọi người biết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

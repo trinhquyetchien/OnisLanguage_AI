@@ -1,0 +1,90 @@
+{
+  "kanji": "測",
+  "meta": {
+    "weight": 1579,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソク"
+    ],
+    "kun": [
+      "はか.る"
+    ],
+    "am_han": "TRẮC"
+  },
+  "meaning": {
+    "vi": "đo đạc",
+    "en": "fathom, plan, scheme, measure"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/測.svg"
+  },
+  "frequency": 761,
+  "examples": [
+    "予測",
+    "測定",
+    "観測",
+    "推測",
+    "計測"
+  ],
+  "explanation": {
+    "id": "4800",
+    "text": "測 (đọc là \"soku\") có nghĩa là \"đo lường\", \"thăm dò\" để chỉ các hành động liên quan đến việc đo đạc hoặc kiểm tra thông tin, số liệu.\n\nVí dụ:\n- 測定 (sokutei): Đo lường.\n- 測量 (sokuryou): Đo đạc"
+  },
+  "comments": [
+    {
+      "id": "154990",
+      "lang": "vi",
+      "content_html": "<p>Cân đo nước phải theo quy tắc!</p>",
+      "content_text": "Cân đo nước phải theo quy tắc!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154991",
+      "lang": "vi",
+      "content_html": "<p>Nước, Tiền và Dao là thứ phòng thân khi bất TRẮC</p>",
+      "content_text": "Nước, Tiền và Dao là thứ phòng thân khi bất TRẮC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154992",
+      "lang": "vi",
+      "content_html": "<p>Mang tiền bạc,thuỷ ngân bên người phải kèm theo đao đề phòng bất TRẮC</p>",
+      "content_text": "Mang tiền bạc,thuỷ ngân bên người phải kèm theo đao đề phòng bất TRẮC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

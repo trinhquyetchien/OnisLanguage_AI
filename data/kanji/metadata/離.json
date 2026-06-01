@@ -1,0 +1,91 @@
+{
+  "kanji": "離",
+  "meta": {
+    "weight": 2861,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リ"
+    ],
+    "kun": [
+      "はな.れる",
+      "はな.す"
+    ],
+    "am_han": "LI"
+  },
+  "meaning": {
+    "vi": "tách ra, tách rời, lạc đề",
+    "en": "detach, separation, disjoin, digress"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/離.svg"
+  },
+  "frequency": 555,
+  "examples": [
+    "離れ",
+    "距離",
+    "離婚",
+    "分離",
+    "離れる"
+  ],
+  "explanation": {
+    "id": "8028",
+    "text": "離 (đọc là \"ri\") có nghĩa là \"rời bỏ\", \"tách biệt\" để chỉ hành động tách rời hoặc ly khai khỏi một cái gì đó.\n\nVí dụ:\n- 離婚 (rikon): Ly hôn.\n- 離れる (hanareru): Rời xa, tách biệt.\n- 離島 (ritō): Đ"
+  },
+  "comments": [
+    {
+      "id": "157782",
+      "lang": "vi",
+      "content_html": "<p>离 LI 隹 CHUY<br>离 gồm: <br>- 亠 ĐẦU<br>- 凶 HUNG: hung dữ<br>- 禸 NHỰU: Vết ngón chân giống thú dẫm xuống đất.<br>cách nhớ: đành phải chia LY người yêu, do con chim (chuy) của chàng có cái Đầu Hung dữ lại to như vết chân thú (nhựu)---&#62; sợ quá gái chạy mất dép</p>",
+      "content_text": "离 LI 隹 CHUY\n离 gồm:\n- 亠 ĐẦU\n- 凶 HUNG: hung dữ\n- 禸 NHỰU: Vết ngón chân giống thú dẫm xuống đất.\ncách nhớ: đành phải chia LY người yêu, do con chim (chuy) của chàng có cái Đầu Hung dữ lại to như vết chân thú (nhựu)---> sợ quá gái chạy mất dép",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157783",
+      "lang": "vi",
+      "content_html": "<p>chia Ly 14 con chim vào 2 cái hộp</p>",
+      "content_text": "chia Ly 14 con chim vào 2 cái hộp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157784",
+      "lang": "vi",
+      "content_html": "<p>Cái Đầu Hung ác của ô Tư đang Quanh quẩn mơ thấy Chim trước lúc BIệt LI</p>",
+      "content_text": "Cái Đầu Hung ác của ô Tư đang Quanh quẩn mơ thấy Chim trước lúc BIệt LI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

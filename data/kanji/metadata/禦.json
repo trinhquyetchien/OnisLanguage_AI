@@ -1,0 +1,51 @@
+{
+  "kanji": "禦",
+  "meta": {
+    "weight": 1918,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギョ",
+      "ゴ"
+    ],
+    "kun": [
+      "ふせ.ぐ"
+    ],
+    "am_han": "NGỮ"
+  },
+  "meaning": {
+    "vi": "bảo vệ, chống lại, tránh xa",
+    "en": "defend, protect, resist, ward off"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/禦.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1600",
+    "text": "禦 (đọc là \"go\") có nghĩa là \"phòng ngừa\", \"bảo vệ\" để chỉ các hành động liên quan đến việc bảo vệ hoặc phòng tránh điều gì đó không mong muốn.\n\nVí dụ:\n- 禦敵 (goteki): Phòng ngừa kẻ thù.\n- 禦寒 "
+  },
+  "comments": [
+    {
+      "id": "220230",
+      "lang": "vi",
+      "content_html": "<p>người Cai Trị sẽ có cách chống lại mọi sự Kì Thị</p>",
+      "content_text": "người Cai Trị sẽ có cách chống lại mọi sự Kì Thị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

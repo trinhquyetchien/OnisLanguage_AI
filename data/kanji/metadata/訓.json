@@ -1,0 +1,110 @@
+{
+  "kanji": "訓",
+  "meta": {
+    "weight": 2457,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "クン",
+      "キン"
+    ],
+    "kun": [
+      "おし.える",
+      "よ.む",
+      "くん.ずる"
+    ],
+    "am_han": "HUẤN"
+  },
+  "meaning": {
+    "vi": "huấn luyện",
+    "en": "instruction, Japanese character reading, explanation, read"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/訓.svg"
+  },
+  "frequency": 1134,
+  "examples": [
+    "訓練",
+    "教訓",
+    "訓",
+    "特訓",
+    "訓示"
+  ],
+  "explanation": {
+    "id": "1911",
+    "text": "訓 (đọc là \"kun\") có nghĩa là \"dạy dỗ\", \"giảng giải\" để chỉ các hành động liên quan đến việc giáo dục, giảng dạy hoặc giải thích ý nghĩa của từ ngữ.\nVí dụ:\n- 訓練 (kunren): Huấn luyện, đào tạo."
+  },
+  "comments": [
+    {
+      "id": "156838",
+      "lang": "vi",
+      "content_html": "<p>Ngôn từ tuôn ra như sông là lời giáo huấn</p>",
+      "content_text": "Ngôn từ tuôn ra như sông là lời giáo huấn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191318",
+      "lang": "vi",
+      "content_html": "<p>lời nói như nước chảy là lời giáo Huấn</p>",
+      "content_text": "lời nói như nước chảy là lời giáo Huấn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156839",
+      "lang": "vi",
+      "content_html": "<p>HUẤN luyện bằng Lời bên Sông</p>",
+      "content_text": "HUẤN luyện bằng Lời bên Sông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156840",
+      "lang": "vi",
+      "content_html": "<p>Lời giáo huấn chảy như sông</p>",
+      "content_text": "Lời giáo huấn chảy như sông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "kanji": "鞠",
+  "meta": {
+    "weight": 2889,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キク",
+      "キュウ"
+    ],
+    "kun": [
+      "まり"
+    ],
+    "am_han": "CÚC"
+  },
+  "meaning": {
+    "vi": "quả bóng",
+    "en": "ball"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/鞠.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1454",
+    "text": "鞠 (đọc là \"kyuu\" hoặc \"maki\") có nghĩa là \"cầu\" hay \"quả cầu\", thường chỉ các loại quả cầu hoặc bóng. \n\nVí dụ:\n- 鞠 (maru): Quả cầu, bóng.\n- 鞠つき (maritsuki): Trò chơi đá cầu bằng quả cầu.\n- 鞠"
+  },
+  "comments": [
+    {
+      "id": "220987",
+      "lang": "vi",
+      "content_html": "<p>Cách (da) + Cúc (hoa cúc): ng họ Cúc hay đi giày da.</p>",
+      "content_text": "Cách (da) + Cúc (hoa cúc): ng họ Cúc hay đi giày da.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

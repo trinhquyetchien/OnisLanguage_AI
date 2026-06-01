@@ -1,0 +1,90 @@
+{
+  "kanji": "肩",
+  "meta": {
+    "weight": 2174,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "かた"
+    ],
+    "am_han": "KIÊN"
+  },
+  "meaning": {
+    "vi": "vai",
+    "en": "shoulder"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/肩.svg"
+  },
+  "frequency": 1215,
+  "examples": [
+    "肩",
+    "肩書き",
+    "右肩",
+    "肩こり",
+    "左肩"
+  ],
+  "explanation": {
+    "id": "2167",
+    "text": "肩 (đọc là \"kata\") có nghĩa là \"vai\", chỉ phần cơ thể nằm giữa cổ và cánh tay, thường được dùng để mô tả vị trí hoặc cảm giác liên quan đến vai.\n\nVí dụ:\n- 肩書き (katagaki): Chức danh, tiêu đề.\n"
+  },
+  "comments": [
+    {
+      "id": "156280",
+      "lang": "vi",
+      "content_html": "<p>chị nguyệt kiên cường dùng vai nâng đỡ cánh cửa.</p>",
+      "content_text": "chị nguyệt kiên cường dùng vai nâng đỡ cánh cửa.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156281",
+      "lang": "vi",
+      "content_html": "<p>ánh trăng 月 nói hộ 戸 lòng tôi , KIÊN trì gánh vác có ngày xệ vai</p>",
+      "content_text": "ánh trăng 月 nói hộ 戸 lòng tôi , KIÊN trì gánh vác có ngày xệ vai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156282",
+      "lang": "vi",
+      "content_html": "<p>Đứng ở cửa 戸 dựa vào vai a KIÊN ngắm trăng 月</p>",
+      "content_text": "Đứng ở cửa 戸 dựa vào vai a KIÊN ngắm trăng 月",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

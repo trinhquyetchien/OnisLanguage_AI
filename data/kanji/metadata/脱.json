@@ -1,0 +1,91 @@
+{
+  "kanji": "脱",
+  "meta": {
+    "weight": 2198,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダツ"
+    ],
+    "kun": [
+      "ぬ.ぐ",
+      "ぬ.げる"
+    ],
+    "am_han": "THOÁT, THOẮT, THOẠT, ĐOÁI, XOÁT"
+  },
+  "meaning": {
+    "vi": "cởi quần áo, loại bỏ, thoát khỏi, bị bỏ mặc, cởi ra",
+    "en": "undress, removing, escape from, get rid of, be left out, take off"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/脱.svg"
+  },
+  "frequency": 782,
+  "examples": [
+    "脱出",
+    "脱",
+    "脱線",
+    "脱却",
+    "離脱"
+  ],
+  "explanation": {
+    "id": "5084",
+    "text": "脱 (đọc là \"datsu\") có nghĩa là \"thoát\", \"lột\" để chỉ hành động thoát ra hoặc loại bỏ cái gì đó.  \nVí dụ:  \n- 脱出 (dasshutsu): Thoát hiểm, chạy trốn.  \n- 脱税 (datsuzei): Trốn thuế.  \n- 脱皮 (dapp"
+  },
+  "comments": [
+    {
+      "id": "156342",
+      "lang": "vi",
+      "content_html": "<p>Anh trai bị cắm sừng nên Bỏ chị nguyệt</p>",
+      "content_text": "Anh trai bị cắm sừng nên Bỏ chị nguyệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156343",
+      "lang": "vi",
+      "content_html": "<p>Chị Nguyệt làm anh trai tao mọc sừng rồi đòi trốn thoát</p>",
+      "content_text": "Chị Nguyệt làm anh trai tao mọc sừng rồi đòi trốn thoát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156344",
+      "lang": "vi",
+      "content_html": "<p>Đêm trăng a trai cởi quần áo THOÁT y</p>",
+      "content_text": "Đêm trăng a trai cởi quần áo THOÁT y",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

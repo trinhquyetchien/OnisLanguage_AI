@@ -1,0 +1,94 @@
+{
+  "kanji": "窮",
+  "meta": {
+    "weight": 1967,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ",
+      "キョウ"
+    ],
+    "kun": [
+      "きわ.める",
+      "きわ.まる",
+      "きわ.まり",
+      "きわ.み"
+    ],
+    "am_han": "CÙNG"
+  },
+  "meaning": {
+    "vi": "khó khăn, nghèo khổ, đau khổ, bối rối, dồn ép",
+    "en": "hard up, destitute, suffer, perplexed, cornered"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/窮.svg"
+  },
+  "frequency": 1756,
+  "examples": [
+    "窮屈",
+    "困窮",
+    "窮地",
+    "窮乏",
+    "窮状"
+  ],
+  "explanation": {
+    "id": "1548",
+    "text": "窮 (đọc là \"kyū\") có nghĩa là \"cùng cực\", \"khốn khổ\" để chỉ tình trạng thiếu thốn, khó khăn hoặc không còn lối thoát.\n\nVí dụ:\n- 窮乏 (kyūbō): Cảnh nghèo đói, khốn cùng.\n- 窮地 (kyūchi): Tình huốn"
+  },
+  "comments": [
+    {
+      "id": "155825",
+      "lang": "vi",
+      "content_html": "<p>Bắn cung vào thân, chết nằm dưới huyệt sâu tận cùng</p>",
+      "content_text": "Bắn cung vào thân, chết nằm dưới huyệt sâu tận cùng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155826",
+      "lang": "vi",
+      "content_html": "<p>Bắn Cung xuống tận CÙNG cái Hố</p>",
+      "content_text": "Bắn Cung xuống tận CÙNG cái Hố",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155827",
+      "lang": "vi",
+      "content_html": "<p>Chôn Mình và Cung xuống CÙng 1 cái hố.</p>",
+      "content_text": "Chôn Mình và Cung xuống CÙng 1 cái hố.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kanji": "杢",
+  "meta": {
+    "weight": 1296,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "もく"
+    ],
+    "am_han": "MỘC"
+  },
+  "meaning": {
+    "vi": "thợ mộc, (kokuji)",
+    "en": "woodworker, (kokuji)"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/杢.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7631",
+    "text": "杢 (đọc là \"moku\") có nghĩa là \"gỗ\" hoặc \"vân gỗ\", thường chỉ loại gỗ có vân đẹp, được dùng trong nghệ thuật chế tác và đồ nội thất. \n\nVí dụ:\n- 杢目 (mokume): Vân gỗ.\n- 杢材 (mokuzai): Gỗ dùng để"
+  },
+  "comments": [
+    {
+      "id": "219790",
+      "lang": "vi",
+      "content_html": "<p>株式</p>",
+      "content_text": "株式",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

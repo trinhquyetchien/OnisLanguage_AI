@@ -1,0 +1,86 @@
+{
+  "kanji": "樽",
+  "meta": {
+    "weight": 1426,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソン"
+    ],
+    "kun": [
+      "たる"
+    ],
+    "am_han": "TÔN"
+  },
+  "meaning": {
+    "vi": "thùng",
+    "en": "barrel, cask, keg"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/樽.svg"
+  },
+  "frequency": 1981,
+  "examples": [
+    "樽"
+  ],
+  "explanation": {
+    "id": "5107",
+    "text": "樽 (đọc là \"taru\") có nghĩa là \"thùng\", thường chỉ các loại thùng đựng chất lỏng như rượu hoặc nước. \n\nVí dụ:\n- 樽酒 (taruzake): Rượu đựng trong thùng.\n- 樽型 (tarugata): Hình dạng giống thùng.\n-"
+  },
+  "comments": [
+    {
+      "id": "154622",
+      "lang": "vi",
+      "content_html": "<p>Chữ này viết sai nhé. Nét số 5 và 6 là bộ bát. Xin được góp ý</p>",
+      "content_text": "Chữ này viết sai nhé. Nét số 5 và 6 là bộ bát. Xin được góp ý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154624",
+      "lang": "vi",
+      "content_html": "<p>Mazii k sai mazii luôn đúg:))</p>",
+      "content_text": "Mazii k sai mazii luôn đúg:))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154623",
+      "lang": "vi",
+      "content_html": "<p>@Van Vu Tran: Font khác nhau thôi đó bạn!</p>",
+      "content_text": "@Van Vu Tran: Font khác nhau thôi đó bạn!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

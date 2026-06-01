@@ -1,0 +1,90 @@
+{
+  "kanji": "孔",
+  "meta": {
+    "weight": 694,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ク"
+    ],
+    "kun": [
+      "あな"
+    ],
+    "am_han": "KHỔNG"
+  },
+  "meaning": {
+    "vi": "khoang, lỗ, khe, rất, tuyệt vời, cực kỳ",
+    "en": "cavity, hole, slit, very, great, exceedingly"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/孔.svg"
+  },
+  "frequency": 2052,
+  "examples": [
+    "孔",
+    "孔子",
+    "孔雀",
+    "瞳孔"
+  ],
+  "explanation": {
+    "id": "2414",
+    "text": "孔 (đọc là \"kō\") có nghĩa là \"lỗ\", \"hollow\" hay \"khoảng trống\", thường dùng để chỉ những chỗ trống hoặc lỗ hổng trong vật thể hoặc khái niệm. \n\nVí dụ:\n- 孔子 (Kōshi): Khổng Tử, nhà triết học nổ"
+  },
+  "comments": [
+    {
+      "id": "152893",
+      "lang": "vi",
+      "content_html": "<p>Nuôi con nhỏ 子 chỉ có 乙ỗ , KHỔNG có lãi đâu!</p>",
+      "content_text": "Nuôi con nhỏ 子 chỉ có 乙ỗ , KHỔNG có lãi đâu!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152894",
+      "lang": "vi",
+      "content_html": "<p>Đứa nhỏ hay ngồi dựa tường đọc sách kia chính là Khổng tử</p>",
+      "content_text": "Đứa nhỏ hay ngồi dựa tường đọc sách kia chính là Khổng tử",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152895",
+      "lang": "vi",
+      "content_html": "<p>tiểu TỬ móc .. làm cho .. trở thành cái lỗ KHỔNG lồ</p>",
+      "content_text": "tiểu TỬ móc .. làm cho .. trở thành cái lỗ KHỔNG lồ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

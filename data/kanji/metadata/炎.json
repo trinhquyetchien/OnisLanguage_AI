@@ -1,0 +1,90 @@
+{
+  "kanji": "炎",
+  "meta": {
+    "weight": 1648,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "ほのお"
+    ],
+    "am_han": "VIÊM, ĐÀM, DIỄM"
+  },
+  "meaning": {
+    "vi": "viêm, ngọn lửa, cháy",
+    "en": "inflammation, flame, blaze"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/炎.svg"
+  },
+  "frequency": 1242,
+  "examples": [
+    "炎",
+    "炎症",
+    "炎上",
+    "肝炎",
+    "肺炎"
+  ],
+  "explanation": {
+    "id": "464",
+    "text": "炎 (đọc là \"en\") có nghĩa là \"lửa\", thường chỉ các khía cạnh liên quan đến lửa, nhiệt độ hoặc sự cháy.  \nVí dụ:  \n- 炎上 (enjō): Sự bùng cháy, hỏa hoạn.  \n- 炎症 (enshō): Viêm đỏ, tình trạng viêm"
+  },
+  "comments": [
+    {
+      "id": "155147",
+      "lang": "vi",
+      "content_html": "<p>lửa cháy lớn bị bỏng viêm loét khắp người</p>",
+      "content_text": "lửa cháy lớn bị bỏng viêm loét khắp người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155148",
+      "lang": "vi",
+      "content_html": "<p>Lửa chồng lửa thế kia là cháy lớn rồi</p>",
+      "content_text": "Lửa chồng lửa thế kia là cháy lớn rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155149",
+      "lang": "vi",
+      "content_html": "<p>HỎA chồng chất HỎA  --»  BỐC CHÁY gây VIÊM</p>",
+      "content_text": "HỎA chồng chất HỎA  --»  BỐC CHÁY gây VIÊM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

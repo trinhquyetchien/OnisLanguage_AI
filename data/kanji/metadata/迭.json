@@ -1,0 +1,84 @@
+{
+  "kanji": "迭",
+  "meta": {
+    "weight": 2644,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テツ"
+    ],
+    "kun": [],
+    "am_han": "ĐIỆT"
+  },
+  "meaning": {
+    "vi": "chuyển giao, luân phiên",
+    "en": "transfer, alternation"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/迭.svg"
+  },
+  "frequency": 1907,
+  "examples": [
+    "更迭"
+  ],
+  "explanation": {
+    "id": "5642",
+    "text": "迭 (đọc là \"dai\" trong tiếng Nhật) có nghĩa là \"thay đổi\", \"thay phiên\", thường chỉ sự luân phiên hoặc thay thế nhau. \n\nVí dụ:\n- 迭代 (daitai): Lặp lại, tuần hoàn.\n- 交替 (kōtai): Thay phiên, xen"
+  },
+  "comments": [
+    {
+      "id": "157291",
+      "lang": "vi",
+      "content_html": "<p>ĐIỆT, lại thất bại, thôi đi cho thằng khác đến thay phiênm</p>",
+      "content_text": "ĐIỆT, lại thất bại, thôi đi cho thằng khác đến thay phiênm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157292",
+      "lang": "vi",
+      "content_html": "<p>thất bại trên con đường mình đã chọn , lần lượt chửi ĐIỆT moẹ từng thằng  !<br>( từ gì khó tạo câu thế  )</p>",
+      "content_text": "thất bại trên con đường mình đã chọn , lần lượt chửi ĐIỆT moẹ từng thằng  !\n( từ gì khó tạo câu thế  )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157293",
+      "lang": "vi",
+      "content_html": "<p>khi thất bại, chỉ cần thay thế con đường khác</p>",
+      "content_text": "khi thất bại, chỉ cần thay thế con đường khác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

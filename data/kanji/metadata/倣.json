@@ -1,0 +1,86 @@
+{
+  "kanji": "倣",
+  "meta": {
+    "weight": 215,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "なら.う"
+    ],
+    "am_han": "PHỎNG"
+  },
+  "meaning": {
+    "vi": "thi đua, bắt chước",
+    "en": "emulate, imitate"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/倣.svg"
+  },
+  "frequency": 2454,
+  "examples": [
+    "模倣"
+  ],
+  "explanation": {
+    "id": "7138",
+    "text": "倣 (đọc là \"hō\") có nghĩa là \"bắt chước\", \"mô phỏng\" để chỉ các hành động liên quan đến việc sao chép hoặc làm theo một cách nào đó.\n\nVí dụ:\n- 倣う (narau): Bắt chước, mô phỏng.\n- 模倣 (mohō): Sự"
+  },
+  "comments": [
+    {
+      "id": "151729",
+      "lang": "vi",
+      "content_html": "<p>Người ta mô PHỎNG lại kĩ thuật Phóng lao</p>",
+      "content_text": "Người ta mô PHỎNG lại kĩ thuật Phóng lao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151730",
+      "lang": "vi",
+      "content_html": "<p>Người đứng mô PHỎNG lại phương pháp đánh giặc giải phóng đất nc</p>",
+      "content_text": "Người đứng mô PHỎNG lại phương pháp đánh giặc giải phóng đất nc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151731",
+      "lang": "vi",
+      "content_html": "<p>mô phỏng lại người cầm cờ chạy ngày giải phóng</p>",
+      "content_text": "mô phỏng lại người cầm cờ chạy ngày giải phóng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

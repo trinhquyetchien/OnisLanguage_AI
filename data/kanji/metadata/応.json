@@ -1,0 +1,111 @@
+{
+  "kanji": "応",
+  "meta": {
+    "weight": 945,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オウ",
+      "ヨウ",
+      "-ノウ"
+    ],
+    "kun": [
+      "あた.る",
+      "まさに",
+      "こた.える"
+    ],
+    "am_han": "ỨNG"
+  },
+  "meaning": {
+    "vi": "áp dụng, trả lời, có, OK, chấp nhận",
+    "en": "apply, answer, yes, OK, reply, accept"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/応.svg"
+  },
+  "frequency": 266,
+  "examples": [
+    "対応",
+    "応援",
+    "反応",
+    "一応",
+    "応募"
+  ],
+  "explanation": {
+    "id": "520",
+    "text": "応 (đọc là \"ou\") có nghĩa là \"đáp ứng\", \"phản hồi\" để chỉ các hành động liên quan đến việc đáp lại hoặc phản ứng với một cái gì đó.\n\nVí dụ:\n- 応援 (ouen): Cổ vũ, ủng hộ.\n- 応答 (outou): Phản hồi,"
+  },
+  "comments": [
+    {
+      "id": "153526",
+      "lang": "vi",
+      "content_html": "<p>TÂM mà để ở NHÀ thì làm gì cũng PHẢN ỨNG chậm...</p>",
+      "content_text": "TÂM mà để ở NHÀ thì làm gì cũng PHẢN ỨNG chậm...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153527",
+      "lang": "vi",
+      "content_html": "<p>tâm kia để ở bên đồi<br>lo về báo ứng đứng ngồi không yên</p>",
+      "content_text": "tâm kia để ở bên đồi\nlo về báo ứng đứng ngồi không yên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153528",
+      "lang": "vi",
+      "content_html": "<p>ỨNG(応) xử với nhau cốt ở chữ TÂM(心)</p>",
+      "content_text": "ỨNG(応) xử với nhau cốt ở chữ TÂM(心)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221630",
+      "lang": "vi",
+      "content_html": "<p>Chữ Hán 応 (đọc là \"ou\") có nghĩa là \"đáp ứng,\" \"phản ứng,\" hoặc \"sẵn sàng\" để chỉ sự đáp lại, phản hồi hoặc sự sẵn sàng đối mặt với một tình huống.</p><p>Ví dụ:</p><ol><li><strong>応じる (oujiru)</strong>: Đáp ứng, tuân theo.</li><li><strong>応援する (ouen suru)</strong>: Cổ vũ, ủng hộ.</li><li><strong>応答する (outou suru)</strong>: Phản hồi, đáp lại.</li><li><strong>応用する (ouyou suru)</strong>: Áp dụng, ứng dụng.</li></ol>",
+      "content_text": "Chữ Hán 応 (đọc là \"ou\") có nghĩa là \"đáp ứng,\" \"phản ứng,\" hoặc \"sẵn sàng\" để chỉ sự đáp lại, phản hồi hoặc sự sẵn sàng đối mặt với một tình huống.\nVí dụ:\n応じる (oujiru)\n: Đáp ứng, tuân theo.\n応援する (ouen suru)\n: Cổ vũ, ủng hộ.\n応答する (outou suru)\n: Phản hồi, đáp lại.\n応用する (ouyou suru)\n: Áp dụng, ứng dụng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

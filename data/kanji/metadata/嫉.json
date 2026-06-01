@@ -1,0 +1,88 @@
+{
+  "kanji": "嫉",
+  "meta": {
+    "weight": 686,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シツ"
+    ],
+    "kun": [
+      "そね.む",
+      "ねた.む",
+      "にく.む"
+    ],
+    "am_han": "TẬT"
+  },
+  "meaning": {
+    "vi": "ghen tị, đố kỵ",
+    "en": "jealous, envy"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/嫉.svg"
+  },
+  "frequency": 2317,
+  "examples": [
+    "嫉妬"
+  ],
+  "explanation": {
+    "id": "3272",
+    "text": "嫉 (đọc là \"shitsu\") có nghĩa là \"ghen tuông\", \"đố kỵ\", chỉ sự cảm xúc tiêu cực đối với thành công hoặc hạnh phúc của người khác.  \nVí dụ:  \n- 嫉妬 (shitto): Ghen tị, đố kỵ.  \n- 嫉む (shitamu): G"
+  },
+  "comments": [
+    {
+      "id": "152876",
+      "lang": "vi",
+      "content_html": "<p>Sự ghen ghét như bệnh tật, như mũi tên găm sâu vào bản tính của phụ nữ</p>",
+      "content_text": "Sự ghen ghét như bệnh tật, như mũi tên găm sâu vào bản tính của phụ nữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152877",
+      "lang": "vi",
+      "content_html": "<p>Phụ Nữ có TẬT hay GHEN</p>",
+      "content_text": "Phụ Nữ có TẬT hay GHEN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152878",
+      "lang": "vi",
+      "content_html": "<p>Ghen là bệnh tật của phụ nữ</p>",
+      "content_text": "Ghen là bệnh tật của phụ nữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

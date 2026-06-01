@@ -1,0 +1,107 @@
+{
+  "kanji": "証",
+  "meta": {
+    "weight": 2469,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "あかし"
+    ],
+    "am_han": "CHỨNG"
+  },
+  "meaning": {
+    "vi": "bằng chứng, giấy chứng nhận",
+    "en": "evidence, proof, certificate"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/証.svg"
+  },
+  "frequency": 306,
+  "examples": [
+    "証明",
+    "証券",
+    "証拠",
+    "保証",
+    "検証"
+  ],
+  "explanation": {
+    "id": "3916",
+    "text": "証 (đọc là \"shō\") có nghĩa là \"chứng nhận\", \"chứng cứ\" để chỉ các tài liệu hoặc hành động liên quan đến việc xác nhận, chứng minh điều gì đó.  \nVí dụ:  \n- 証明書 (shōmeisho): Giấy chứng nhận, ch"
+  },
+  "comments": [
+    {
+      "id": "156868",
+      "lang": "vi",
+      "content_html": "<p>lời nói （言）đúng chính xác ( 正）được đưa ra làm CHỨNG</p>",
+      "content_text": "lời nói （言）đúng chính xác ( 正）được đưa ra làm CHỨNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221637",
+      "lang": "vi",
+      "content_html": "<p>証 (đọc là \"shou\") có nghĩa là \"chứng minh\" hoặc \"bằng chứng.\" thường được sử dụng để chỉ các hành động liên quan đến việc chứng minh, xác nhận, hoặc làm bằng chứng.</p><p>Ví dụ:</p><ul><li>証拠 (shouko): Bằng chứng.</li><li>証明する (shoumei suru): Chứng minh.</li><li>証人 (shounin): Nhân chứng.</li><li>保証 (hoshou): Bảo đảm, bảo hành.</li></ul>",
+      "content_text": "証 (đọc là \"shou\") có nghĩa là \"chứng minh\" hoặc \"bằng chứng.\" thường được sử dụng để chỉ các hành động liên quan đến việc chứng minh, xác nhận, hoặc làm bằng chứng.\nVí dụ:\n証拠 (shouko): Bằng chứng.\n証明する (shoumei suru): Chứng minh.\n証人 (shounin): Nhân chứng.\n保証 (hoshou): Bảo đảm, bảo hành.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "156869",
+      "lang": "vi",
+      "content_html": "<p>Chứng minh ngôn từ chính xác</p>",
+      "content_text": "Chứng minh ngôn từ chính xác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156870",
+      "lang": "vi",
+      "content_html": "<p>\"Chính Xác 正 những Lời 言 anh nói sẽ được dùng làm Bằng Chứng 証 trước Tòa\". Chắc ai đó đã said =.=</p>",
+      "content_text": "\"Chính Xác 正 những Lời 言 anh nói sẽ được dùng làm Bằng Chứng 証 trước Tòa\". Chắc ai đó đã said =.=",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

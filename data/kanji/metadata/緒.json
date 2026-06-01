@@ -1,0 +1,92 @@
+{
+  "kanji": "緒",
+  "meta": {
+    "weight": 2097,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショ",
+      "チョ"
+    ],
+    "kun": [
+      "お",
+      "いとぐち"
+    ],
+    "am_han": "TỰ"
+  },
+  "meaning": {
+    "vi": "bắt đầu",
+    "en": "thong, beginning, inception, end, cord, strap, mental or emotional state"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/緒.svg"
+  },
+  "frequency": 952,
+  "examples": [
+    "一緒",
+    "情緒",
+    "内緒",
+    "緒",
+    "由緒"
+  ],
+  "explanation": {
+    "id": "3701",
+    "text": "緒 (đọc là \"cho\") có nghĩa là \"sợi dây\", \"mối liên hệ\" hoặc chỉ sự bắt đầu, khởi đầu của một vấn đề. \n\nVí dụ:\n- 緒論 (shoron): Lời mở đầu, phần giới thiệu.\n- 緒戦 (chossen): Khởi đầu chiến tranh,"
+  },
+  "comments": [
+    {
+      "id": "156101",
+      "lang": "vi",
+      "content_html": "<p>Học giả 者 mua dây 糸 về TỰ làm mọi thứ.</p>",
+      "content_text": "Học giả 者 mua dây 糸 về TỰ làm mọi thứ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156102",
+      "lang": "vi",
+      "content_html": "<p>Sợi dây nối dài học giả</p>",
+      "content_text": "Sợi dây nối dài học giả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156103",
+      "lang": "vi",
+      "content_html": "<p>người nhện tự (緒) nhiên có tơ (糸) trên người (者)</p>",
+      "content_text": "người nhện tự (緒) nhiên có tơ (糸) trên người (者)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "kanji": "帰",
+  "meta": {
+    "weight": 839,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "かえ.る",
+      "かえ.す",
+      "おく.る",
+      "とつ.ぐ"
+    ],
+    "am_han": "QUY"
+  },
+  "meaning": {
+    "vi": "trở về",
+    "en": "homecoming, arrive at, lead to, result in"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/帰.svg"
+  },
+  "frequency": 504,
+  "examples": [
+    "帰り",
+    "帰る",
+    "帰国",
+    "帰宅",
+    "復帰"
+  ],
+  "explanation": {
+    "id": "1326",
+    "text": "帰 (đọc là \"ki\" hoặc \"kaeru\") có nghĩa là \"trở về\", \"về nhà\", chỉ hành động trở lại nơi mình xuất phát hoặc nơi mình thuộc về.  \nVí dụ:  \n- 帰宅 (kitaku): Về nhà.  \n- 帰国 (kikoku): Trở về nước. "
+  },
+  "comments": [
+    {
+      "id": "190996",
+      "lang": "vi",
+      "content_html": "<p><strong>về</strong></p>",
+      "content_text": "về",
+      "image_url": "https://jpdictionary.com/upload/images/648a8c4b72b8c.jpg",
+      "image_path": "assets/images/帰_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "656",
+      "lang": "vi",
+      "content_html": "<p>Chim én quay <strong>về </strong>tổ.</p>",
+      "content_text": "Chim én quay\nvề\ntổ.",
+      "image_url": "https://jpdictionary.com/upload/images/62982ea732730.jpg",
+      "image_path": "assets/images/帰_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153261",
+      "lang": "vi",
+      "content_html": "<p>từ bỏ Đao kiếm cầm Chổi , Quy y của phật</p>",
+      "content_text": "từ bỏ Đao kiếm cầm Chổi , Quy y của phật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

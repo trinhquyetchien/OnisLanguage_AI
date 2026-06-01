@@ -1,0 +1,90 @@
+{
+  "kanji": "滴",
+  "meta": {
+    "weight": 1603,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テキ"
+    ],
+    "kun": [
+      "しずく",
+      "したた.る"
+    ],
+    "am_han": "ĐÍCH"
+  },
+  "meaning": {
+    "vi": "giọt",
+    "en": "drip, drop"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/滴.svg"
+  },
+  "frequency": 2019,
+  "examples": [
+    "点滴",
+    "滴",
+    "一滴",
+    "水滴"
+  ],
+  "explanation": {
+    "id": "5620",
+    "text": "滴 (đọc là \"teki\") có nghĩa là \"giọt\" để chỉ các giọt nước hoặc những vật rơi xuống như giọt mưa.  \nVí dụ:  \n- 滴水 (tekisui): Giọt nước.  \n- 雨滴 (udeki): Giọt mưa.  \n- 滴る (shizuku ru): Rơi từng"
+  },
+  "comments": [
+    {
+      "id": "155052",
+      "lang": "vi",
+      "content_html": "<p>GIỌT NƯỚC đc TÍCH trong cái bình CỔ có nắp</p>",
+      "content_text": "GIỌT NƯỚC đc TÍCH trong cái bình CỔ có nắp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155053",
+      "lang": "vi",
+      "content_html": "<p>Bình rượu cổ còn Tích vài giọt nước</p>",
+      "content_text": "Bình rượu cổ còn Tích vài giọt nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155054",
+      "lang": "vi",
+      "content_html": "<p>Vị trí nhà bị cũ quá nên nước tích tụ giọt vào</p>",
+      "content_text": "Vị trí nhà bị cũ quá nên nước tích tụ giọt vào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

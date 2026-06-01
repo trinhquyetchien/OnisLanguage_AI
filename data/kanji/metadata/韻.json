@@ -1,0 +1,86 @@
+{
+  "kanji": "韻",
+  "meta": {
+    "weight": 2894,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イン"
+    ],
+    "kun": [],
+    "am_han": "VẬN"
+  },
+  "meaning": {
+    "vi": "vần điệu, thanh tao, thanh điệu",
+    "en": "rhyme, elegance, tone"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/韻.svg"
+  },
+  "frequency": 2148,
+  "examples": [
+    "韻",
+    "余韻",
+    "音韻"
+  ],
+  "explanation": {
+    "id": "278",
+    "text": "韻 (đọc là \"in\") có nghĩa là \"vần\", \"âm điệu\", thường liên quan đến âm nhạc, thơ ca và sự hòa hợp trong ngôn ngữ. \n\nVí dụ:\n- 韻文 (inbun): Thơ, văn vần.\n- 韻律 (inritsu): Nhịp điệu, âm điệu.\n- 韻書"
+  },
+  "comments": [
+    {
+      "id": "157856",
+      "lang": "vi",
+      "content_html": "<p>nhân viên đánh vần âm vận</p>",
+      "content_text": "nhân viên đánh vần âm vận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157857",
+      "lang": "vi",
+      "content_html": "<p>để tạo nên vần điệu phải cần thành viên của âm thanh</p>",
+      "content_text": "để tạo nên vần điệu phải cần thành viên của âm thanh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157858",
+      "lang": "vi",
+      "content_html": "<p>Nhân viên đứng đánh vần âm điệu</p>",
+      "content_text": "Nhân viên đứng đánh vần âm điệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "汁",
+  "meta": {
+    "weight": 1485,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュウ"
+    ],
+    "kun": [
+      "しる",
+      "-しる",
+      "つゆ"
+    ],
+    "am_han": "TRẤP, HIỆP"
+  },
+  "meaning": {
+    "vi": "súp, nước trái cây, nước dùng, nhựa cây, nước thịt, mủ",
+    "en": "soup, juice, broth, sap, gravy, pus"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/汁.svg"
+  },
+  "frequency": 1843,
+  "examples": [
+    "汁",
+    "味噌汁",
+    "出汁",
+    "みそ汁",
+    "果汁"
+  ],
+  "explanation": {
+    "id": "3564",
+    "text": "汁 (đọc là \"shiru\") có nghĩa là \"nước\", \"dung dịch\", thường chỉ các loại nước từ thực phẩm hoặc chất lỏng.  \nVí dụ:  \n- 汁物 (shirumono): Món canh, món nước.  \n- 果汁 (kajuu): Nước trái cây.  \n- "
+  },
+  "comments": [
+    {
+      "id": "154760",
+      "lang": "vi",
+      "content_html": "<p>Chữ này rất dễ lú với 汗<br> :((</p>",
+      "content_text": "Chữ này rất dễ lú với 汗\n:((",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154761",
+      "lang": "vi",
+      "content_html": "<p>Nấu Mười lần Nước thì ra được nồi Súp</p>",
+      "content_text": "Nấu Mười lần Nước thì ra được nồi Súp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154762",
+      "lang": "vi",
+      "content_html": "<p>Thu THẬP Nước Shi Rô (しる) trái cây</p>",
+      "content_text": "Thu THẬP Nước Shi Rô (しる) trái cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

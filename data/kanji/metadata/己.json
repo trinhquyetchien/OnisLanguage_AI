@@ -1,0 +1,110 @@
+{
+  "kanji": "己",
+  "meta": {
+    "weight": 822,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ",
+      "キ"
+    ],
+    "kun": [
+      "おのれ",
+      "つちのと",
+      "な"
+    ],
+    "am_han": "KỶ"
+  },
+  "meaning": {
+    "vi": "bản thân",
+    "en": "self"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/己.svg"
+  },
+  "frequency": 1098,
+  "examples": [
+    "自己",
+    "己",
+    "利己",
+    "克己",
+    "自己流"
+  ],
+  "explanation": {
+    "id": "2265",
+    "text": "己 (đọc là \"ko\") có nghĩa là \"bản thân\", chỉ về chính mình hoặc cá nhân.  \nVí dụ:  \n- 自己 (jiko): Bản thân, tự mình.  \n- 己知 (kichi): Tự biết, tự hiểu.  \n- 己任 (kini): Tự chịu trách nhiệm."
+  },
+  "comments": [
+    {
+      "id": "190992",
+      "lang": "vi",
+      "content_html": "<p>TỰ <strong>KỶ </strong>- bản thân, chính mình</p>",
+      "content_text": "TỰ\nKỶ\n- bản thân, chính mình",
+      "image_url": "https://jpdictionary.com/upload/images/648a8bf7bb321.jpg",
+      "image_path": "assets/images/己_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "153216",
+      "lang": "vi",
+      "content_html": "<p>Vì mày ích kỷ nên bị phạt quỳ gối (hình tượng người đang quỳ gối)</p>",
+      "content_text": "Vì mày ích kỷ nên bị phạt quỳ gối (hình tượng người đang quỳ gối)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153217",
+      "lang": "vi",
+      "content_html": "<p>人不為己, 天誅地滅 : nhân bất vị kỉ , trời chu đất diệt</p>",
+      "content_text": "人不為己, 天誅地滅 : nhân bất vị kỉ , trời chu đất diệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153218",
+      "lang": "vi",
+      "content_html": "<p>chi KỈ là chỉ có 2 người</p>",
+      "content_text": "chi KỈ là chỉ có 2 người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

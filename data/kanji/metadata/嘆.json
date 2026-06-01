@@ -1,0 +1,91 @@
+{
+  "kanji": "嘆",
+  "meta": {
+    "weight": 515,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "なげ.く",
+      "なげ.かわしい"
+    ],
+    "am_han": "THÁN"
+  },
+  "meaning": {
+    "vi": "thở dài, than thở, rên rỉ, đau buồn, thở dài ngưỡng mộ",
+    "en": "sigh, lament, moan, grieve, sigh of admiration"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/嘆.svg"
+  },
+  "frequency": 1584,
+  "examples": [
+    "嘆き",
+    "嘆く",
+    "感嘆",
+    "驚嘆",
+    "嘆願"
+  ],
+  "explanation": {
+    "id": "20303",
+    "text": "嘆 (đọc là \"sō\") có nghĩa là \"làm sạch\", \"tẩy rửa\" thường được sử dụng trong các ngữ cảnh liên quan đến việc làm sạch hoặc thanh lọc.\nVí dụ:\n- 清掃 (seisō): Dọn dẹp, vệ sinh.\n- 浄化 (jōka): Làm s"
+  },
+  "comments": [
+    {
+      "id": "152482",
+      "lang": "vi",
+      "content_html": "<p>Ca thán vì kanji quá khó</p>",
+      "content_text": "Ca thán vì kanji quá khó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152483",
+      "lang": "vi",
+      "content_html": "<p>Chồng đội thúng cỏ lên đầu miệng than vãn( thán)</p>",
+      "content_text": "Chồng đội thúng cỏ lên đầu miệng than vãn( thán)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152484",
+      "lang": "vi",
+      "content_html": "<p>30 người đầu đội cỏ mồm ca thán vì khổ</p>",
+      "content_text": "30 người đầu đội cỏ mồm ca thán vì khổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

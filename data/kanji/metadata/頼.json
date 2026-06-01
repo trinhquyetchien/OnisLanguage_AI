@@ -1,0 +1,92 @@
+{
+  "kanji": "頼",
+  "meta": {
+    "weight": 2913,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ライ"
+    ],
+    "kun": [
+      "たの.む",
+      "たの.もしい",
+      "たよ.る"
+    ],
+    "am_han": "LẠI"
+  },
+  "meaning": {
+    "vi": "tin tưởng",
+    "en": "trust, request"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/頼.svg"
+  },
+  "frequency": 708,
+  "examples": [
+    "信頼",
+    "依頼",
+    "頼り",
+    "頼む",
+    "頼み"
+  ],
+  "explanation": {
+    "id": "7952",
+    "text": "頼 (đọc là \"rai\" hoặc \"tano\") có nghĩa là \"nhờ cậy\", \"tin tưởng\" để chỉ sự phụ thuộc vào người khác hoặc tình trạng yêu cầu sự giúp đỡ.\n\nVí dụ:\n- 頼む (tanomu): Nhờ vả, yêu cầu.\n- 頼り (tayori): "
+  },
+  "comments": [
+    {
+      "id": "157898",
+      "lang": "vi",
+      "content_html": "<p>LẠI nhờ vả thì THÚC cho một phát vào ĐẦU</p>",
+      "content_text": "LẠI nhờ vả thì THÚC cho một phát vào ĐẦU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157899",
+      "lang": "vi",
+      "content_html": "<p>Tôi nhờ anh bó (thúc) LẠI 1 trang (hiệt) giấy</p>",
+      "content_text": "Tôi nhờ anh bó (thúc) LẠI 1 trang (hiệt) giấy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157900",
+      "lang": "vi",
+      "content_html": "<p>trong đầu lúc nào cũng có ý định nhờ vả người khác buộc hộ</p>",
+      "content_text": "trong đầu lúc nào cũng có ý định nhờ vả người khác buộc hộ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

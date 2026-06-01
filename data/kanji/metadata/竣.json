@@ -1,0 +1,53 @@
+{
+  "kanji": "竣",
+  "meta": {
+    "weight": 1974,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドウ",
+      "シュン"
+    ],
+    "kun": [
+      "わらわ",
+      "わらべ",
+      "おわ.る"
+    ],
+    "am_han": "THUÂN, THUYÊN"
+  },
+  "meaning": {
+    "vi": "kết thúc",
+    "en": "end, finish"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/竣.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3629",
+    "text": "竣 (đọc là \"shun\") có nghĩa là \"hoàn thành\", \"kết thúc\" để chỉ việc hoàn thành một công việc nào đó.  \nVí dụ:  \n- 竣工 (shunko): Hoàn thành công trình xây dựng.  \n- 竣事 (shunji): Hoàn tất công v"
+  },
+  "comments": [
+    {
+      "id": "220278",
+      "lang": "vi",
+      "content_html": "<p>đứng(LẬP) cho đến khi thằng \u001dTHUÂN \"xong việc\" quay về thì thôi</p>",
+      "content_text": "đứng(LẬP) cho đến khi thằng \u001dTHUÂN \"xong việc\" quay về thì thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

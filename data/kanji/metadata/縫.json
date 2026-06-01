@@ -1,0 +1,90 @@
+{
+  "kanji": "縫",
+  "meta": {
+    "weight": 2110,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "ぬ.う"
+    ],
+    "am_han": "PHÙNG, PHÚNG"
+  },
+  "meaning": {
+    "vi": "khâu, thêu",
+    "en": "sew, stitch, embroider"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/縫.svg"
+  },
+  "frequency": 1723,
+  "examples": [
+    "縫製",
+    "縫い",
+    "裁縫",
+    "縫う",
+    "縫合"
+  ],
+  "explanation": {
+    "id": "7198",
+    "text": "縫 (đọc là \"namu\") có nghĩa là \"may\", \"khâu\" để chỉ các hành động liên quan đến việc may vá hoặc khâu lại đồ vật.\n\nVí dụ:\n- 縫う (nuu): May, khâu.\n- 縫製 (ほうせい, housei): Gia công, sản xuất hàng m"
+  },
+  "comments": [
+    {
+      "id": "156139",
+      "lang": "vi",
+      "content_html": "<p>“ Chỉ khâu xe dẫn đàng xa<br>Truy hành độc bước nhất tam trùng phùng.”</p>",
+      "content_text": "“ Chỉ khâu xe dẫn đàng xa\nTruy hành độc bước nhất tam trùng phùng.”",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156140",
+      "lang": "vi",
+      "content_html": "<p>Đường chỉ đi lại châm như ong trùng phùng khâu vá</p>",
+      "content_text": "Đường chỉ đi lại châm như ong trùng phùng khâu vá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156141",
+      "lang": "vi",
+      "content_html": "<p>Đường chỉ bước đi nhẹ nhàng, giúp 3 lớp vải trùng Phùng làm 1</p>",
+      "content_text": "Đường chỉ bước đi nhẹ nhàng, giúp 3 lớp vải trùng Phùng làm 1",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

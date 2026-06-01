@@ -1,0 +1,91 @@
+{
+  "kanji": "舎",
+  "meta": {
+    "weight": 2230,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ",
+      "セキ"
+    ],
+    "kun": [
+      "やど.る"
+    ],
+    "am_han": "XÁ"
+  },
+  "meaning": {
+    "vi": "nhà tranh, nhà trọ, túp lều, nhà ở, biệt thự",
+    "en": "cottage, inn, hut, house, mansion"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/舎.svg"
+  },
+  "frequency": 1170,
+  "examples": [
+    "田舎",
+    "舎",
+    "校舎",
+    "宿舎",
+    "庁舎"
+  ],
+  "explanation": {
+    "id": "3321",
+    "text": "舎 (đọc là \"sha\") có nghĩa là \"nhà\", \"chỗ ở\" hoặc chỉ các công trình kiến trúc liên quan đến nơi cư trú. \n\nVí dụ:\n- 舎利 (shari): Xá lợi, di tích của Phật.\n- 寮舎 (ryousha): Ký túc xá, nhà ở tập "
+  },
+  "comments": [
+    {
+      "id": "156412",
+      "lang": "vi",
+      "content_html": "<p>phố XÁ là nơi có những MÁI NHÀ to to  mặt ĐẤT là những con người MIỆNG luôn nói cười...</p>",
+      "content_text": "phố XÁ là nơi có những MÁI NHÀ to to  mặt ĐẤT là những con người MIỆNG luôn nói cười...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156413",
+      "lang": "vi",
+      "content_html": "<p>Loài người 人 thường chọn vùng đất 土 đại cát 吉 để sinh sống, nói đó gọi là Tệ Xá</p>",
+      "content_text": "Loài người 人 thường chọn vùng đất 土 đại cát 吉 để sinh sống, nói đó gọi là Tệ Xá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156414",
+      "lang": "vi",
+      "content_html": "<p>田舎 いなか</p>",
+      "content_text": "田舎 いなか",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

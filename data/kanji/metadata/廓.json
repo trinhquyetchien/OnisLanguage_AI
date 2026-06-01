@@ -1,0 +1,51 @@
+{
+  "kanji": "廓",
+  "meta": {
+    "weight": 879,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク"
+    ],
+    "kun": [
+      "くるわ",
+      "とりで"
+    ],
+    "am_han": "KHUẾCH"
+  },
+  "meaning": {
+    "vi": "bao vây, khu phố, khu đèn đỏ",
+    "en": "enclosure, quarter, red-light district"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/廓.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "891",
+    "text": "廓 (đọc là \"kaku\") có nghĩa là \"không gian rộng lớn\", \"khu vực\" để chỉ các khu vực hoặc không gian mở, thường liên quan đến việc bao quát hoặc sự rộng rãi.\n\nVí dụ:\n- 廓然 (kakuzan): Rộng rãi, m"
+  },
+  "comments": [
+    {
+      "id": "219421",
+      "lang": "vi",
+      "content_html": "<p>dùng tay手 khuếch tán rộng広 ra</p>",
+      "content_text": "dùng tay手 khuếch tán rộng広 ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

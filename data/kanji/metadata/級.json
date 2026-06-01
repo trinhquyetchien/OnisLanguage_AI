@@ -1,0 +1,88 @@
+{
+  "kanji": "級",
+  "meta": {
+    "weight": 2057,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ"
+    ],
+    "kun": [],
+    "am_han": "CẤP"
+  },
+  "meaning": {
+    "vi": "hạng",
+    "en": "class, rank, grade"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/級.svg"
+  },
+  "frequency": 785,
+  "examples": [
+    "級",
+    "高級",
+    "階級",
+    "上級",
+    "学級"
+  ],
+  "explanation": {
+    "id": "1551",
+    "text": "級 (đọc là \"kyuu\" hoặc \"gaku\") có nghĩa là \"cấp độ\", \"hạng\". Chữ này thường được sử dụng để chỉ các cấp bậc, trình độ hoặc mức độ của một thứ gì đó.\n\nVí dụ:\n- 级数 (kyuusuu): Cấp số, hạng số.\n-"
+  },
+  "comments": [
+    {
+      "id": "155994",
+      "lang": "vi",
+      "content_html": "<p>Người có cấp bậc sẽ buộc 3 cái dây</p>",
+      "content_text": "Người có cấp bậc sẽ buộc 3 cái dây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155995",
+      "lang": "vi",
+      "content_html": "<p>Người hút thuốc bằng cuộn Chỉ mới đẳng Cấp</p>",
+      "content_text": "Người hút thuốc bằng cuộn Chỉ mới đẳng Cấp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155996",
+      "lang": "vi",
+      "content_html": "<p>3 người buộc chỉ với nhau<br>ở cấp độ nào cũng sẽ bước qua</p>",
+      "content_text": "3 người buộc chỉ với nhau\nở cấp độ nào cũng sẽ bước qua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

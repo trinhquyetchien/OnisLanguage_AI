@@ -1,0 +1,93 @@
+{
+  "kanji": "映",
+  "meta": {
+    "weight": 1226,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エイ"
+    ],
+    "kun": [
+      "うつ.る",
+      "うつ.す",
+      "は.える",
+      "-ば.え"
+    ],
+    "am_han": "ÁNH"
+  },
+  "meaning": {
+    "vi": "phản ánh, phản chiếu",
+    "en": "reflect, reflection, projection"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/映.svg"
+  },
+  "frequency": 404,
+  "examples": [
+    "映画",
+    "映像",
+    "反映",
+    "上映",
+    "放映"
+  ],
+  "explanation": {
+    "id": "371",
+    "text": "映 (đọc là \"ei\") có nghĩa là \"chiếu sáng\", \"phản chiếu\" để chỉ các hành động liên quan đến việc phản chiếu hình ảnh hoặc ánh sáng.\nVí dụ:\n- 映画 (eiga): Phim ảnh, điện ảnh.\n- 映る (utsuru): Phản "
+  },
+  "comments": [
+    {
+      "id": "191051",
+      "lang": "vi",
+      "content_html": "<p><strong>chiếu</strong></p>",
+      "content_text": "chiếu",
+      "image_url": "https://jpdictionary.com/upload/images/648a921c019c3.jpg",
+      "image_path": "assets/images/映_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "915",
+      "lang": "vi",
+      "content_html": "<p>Vai chính (央) của bộ phim đã được <strong>chiếu </strong>dưới mặt trời (日).</p>",
+      "content_text": "Vai chính (央) của bộ phim đã được\nchiếu\ndưới mặt trời (日).",
+      "image_url": "https://jpdictionary.com/upload/images/6298b4907f4b0.png",
+      "image_path": "assets/images/映_2.png",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158546",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>映画 (えいが): bộ phim</p><p>映画館 (えいがかん): rạp chiếu phim</p>",
+      "content_text": "JLPT N4\n映画 (えいが): bộ phim\n映画館 (えいがかん): rạp chiếu phim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

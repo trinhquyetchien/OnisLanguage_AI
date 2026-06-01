@@ -1,0 +1,108 @@
+{
+  "kanji": "泊",
+  "meta": {
+    "weight": 1515,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハク"
+    ],
+    "kun": [
+      "と.まる",
+      "と.める"
+    ],
+    "am_han": "BẠC"
+  },
+  "meaning": {
+    "vi": "trọ lại qua đêm",
+    "en": "overnight stay, put up at, ride at anchor"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/泊.svg"
+  },
+  "frequency": 1233,
+  "examples": [
+    "宿泊",
+    "泊",
+    "泊まり",
+    "泊まる",
+    "一泊"
+  ],
+  "explanation": {
+    "id": "6330",
+    "text": "泊 (đọc là \"haku\" hoặc \"baku\") có nghĩa là \"neo đậu\", \"trú ẩn\" để chỉ hành động dừng lại, nghỉ ngơi tại một nơi nào đó, thường liên quan đến tàu thuyền.\n\nVí dụ:\n- 泊まる (tomaru): Nghỉ lại, ở lạ"
+  },
+  "comments": [
+    {
+      "id": "37296",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã <strong>trọ lại</strong> ở khách sạn màu trắng (白) cạnh bãi biển.</p>",
+      "content_text": "Tôi đã\ntrọ lại\nở khách sạn màu trắng (白) cạnh bãi biển.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe17416c71.jpg",
+      "image_path": "assets/images/泊_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154829",
+      "lang": "vi",
+      "content_html": "<p>Trọ lại với Thuỷ một đêm thì sẽ ra nước trắng</p>",
+      "content_text": "Trọ lại với Thuỷ một đêm thì sẽ ra nước trắng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154830",
+      "lang": "vi",
+      "content_html": "<p>Lấy Nước xoá đi chữ h của chữ BẠCH là BẠC</p>",
+      "content_text": "Lấy Nước xoá đi chữ h của chữ BẠCH là BẠC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154831",
+      "lang": "vi",
+      "content_html": "<p>Nước trắng hay còn gọi nước bạc</p>",
+      "content_text": "Nước trắng hay còn gọi nước bạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

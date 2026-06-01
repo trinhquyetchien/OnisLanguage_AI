@@ -1,0 +1,90 @@
+{
+  "kanji": "機",
+  "meta": {
+    "weight": 1429,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "はた"
+    ],
+    "am_han": "CƠ"
+  },
+  "meaning": {
+    "vi": "máy móc, cơ khí",
+    "en": "loom, mechanism, machine, airplane, opportunity, potency, efficacy, occasion"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/機.svg"
+  },
+  "frequency": 127,
+  "examples": [
+    "機能",
+    "機関",
+    "機",
+    "機会",
+    "機械"
+  ],
+  "explanation": {
+    "id": "1322",
+    "text": "機 (đọc là \"ki\") có nghĩa là \"máy móc\", \"cơ khí\" để chỉ các thiết bị, máy móc hoặc cơ chế hoạt động của một hệ thống.  \nVí dụ:  \n- 機械 (kikai): Máy móc, cơ khí.  \n- 機会 (kikai): Cơ hội, dịp.  \n"
+  },
+  "comments": [
+    {
+      "id": "191073",
+      "lang": "vi",
+      "content_html": "<p><strong>cơ khí</strong></p>",
+      "content_text": "cơ khí",
+      "image_url": "https://jpdictionary.com/upload/images/648a94fd11ab3.jpg",
+      "image_path": "assets/images/機_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "37284",
+      "lang": "vi",
+      "content_html": "<p>Dùng <strong>máy </strong>gỗ (木) để dệt vải từ chỉ (糸).</p>",
+      "content_text": "Dùng\nmáy\ngỗ (木) để dệt vải từ chỉ (糸).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdf50dd4f5.jpg",
+      "image_path": "assets/images/機_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154629",
+      "lang": "vi",
+      "content_html": "<p>Người thợ (人) dệt tơ (幺) qua (戈) máy dệt bằng gỗ (木).</p>",
+      "content_text": "Người thợ (人) dệt tơ (幺) qua (戈) máy dệt bằng gỗ (木).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

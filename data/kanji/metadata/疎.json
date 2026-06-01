@@ -1,0 +1,93 @@
+{
+  "kanji": "疎",
+  "meta": {
+    "weight": 1797,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ",
+      "ショ"
+    ],
+    "kun": [
+      "うと.い",
+      "うと.む",
+      "まば.ら"
+    ],
+    "am_han": "SƠ"
+  },
+  "meaning": {
+    "vi": "xa lánh, thô bạo, bỏ mặc, thưa thớt, thâm nhập",
+    "en": "alienate, rough, neglect, shun, sparse, penetrate"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/疎.svg"
+  },
+  "frequency": 1572,
+  "examples": [
+    "過疎",
+    "疎通",
+    "疎外",
+    "疎い",
+    "疎開"
+  ],
+  "explanation": {
+    "id": "4631",
+    "text": "疎 (đọc là \"so\") có nghĩa là \"thưa thớt\", \"không chặt chẽ\" hoặc \"hời hợt\". Nó thường chỉ trạng thái không dày đặc, không gắn bó hoặc thiếu sự chú ý.\n\nVí dụ:\n- 疎外 (sōgai): Sự xa lánh, tách biệ"
+  },
+  "comments": [
+    {
+      "id": "155446",
+      "lang": "vi",
+      "content_html": "<p>Chỉ bó buộc dừng lại ở mức sơ sài</p>",
+      "content_text": "Chỉ bó buộc dừng lại ở mức sơ sài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155447",
+      "lang": "vi",
+      "content_html": "<p>lớn rồi phải biết dừng lại mua bó hoa tặng người yêu nhân ngày lễ đi, sơ sài sao được</p>",
+      "content_text": "lớn rồi phải biết dừng lại mua bó hoa tặng người yêu nhân ngày lễ đi, sơ sài sao được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155448",
+      "lang": "vi",
+      "content_html": "<p>những người nhanh ẩu đoảng thì thường bị móc chân dừng lại</p>",
+      "content_text": "những người nhanh ẩu đoảng thì thường bị móc chân dừng lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

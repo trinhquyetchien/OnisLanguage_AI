@@ -1,0 +1,87 @@
+{
+  "kanji": "礎",
+  "meta": {
+    "weight": 1895,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ"
+    ],
+    "kun": [
+      "いしずえ"
+    ],
+    "am_han": "SỞ"
+  },
+  "meaning": {
+    "vi": "đá tảng, đá nền",
+    "en": "cornerstone, foundation stone"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/礎.svg"
+  },
+  "frequency": 1224,
+  "examples": [
+    "基礎",
+    "礎"
+  ],
+  "explanation": {
+    "id": "4634",
+    "text": "礎 (đọc là \"so\") có nghĩa là \"nền tảng\", \"móng\" để chỉ các cơ sở vững chắc cho một công trình hoặc ý tưởng.  \nVí dụ:  \n- 礎石 (soseki): Đá nền, móng đá.  \n- 基礎 (kiso): Cơ sở, nền tảng.  \n- 礎となる"
+  },
+  "comments": [
+    {
+      "id": "155671",
+      "lang": "vi",
+      "content_html": "<p>Lấy đá đặt dưới chân làm cơ SỞ nền móng vững chắc sẽ đặt đc cả cánh rừng lên trên</p>",
+      "content_text": "Lấy đá đặt dưới chân làm cơ SỞ nền móng vững chắc sẽ đặt đc cả cánh rừng lên trên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155672",
+      "lang": "vi",
+      "content_html": "<p>đá chính là cơ sở cho rừng mọc ổn định</p>",
+      "content_text": "đá chính là cơ sở cho rừng mọc ổn định",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155673",
+      "lang": "vi",
+      "content_html": "<p>ĐÁ VÀ GỖ LÀ CƠ SỞ ĐỂ LÀM CHÂN MÓNG</p>",
+      "content_text": "ĐÁ VÀ GỖ LÀ CƠ SỞ ĐỂ LÀM CHÂN MÓNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

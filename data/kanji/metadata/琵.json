@@ -1,0 +1,52 @@
+{
+  "kanji": "琵",
+  "meta": {
+    "weight": 1750,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビ",
+      "ヒ"
+    ],
+    "kun": [],
+    "am_han": "TÌ"
+  },
+  "meaning": {
+    "vi": "glissando trên dây, đàn luýt",
+    "en": "glissando on strings, lute"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/琵.svg"
+  },
+  "frequency": 1965,
+  "examples": [
+    "琵琶湖",
+    "琵琶"
+  ],
+  "explanation": {
+    "id": "6627",
+    "text": "琵 (đọc là \"bi\") có nghĩa là \"đàn Pipa\", một loại nhạc cụ truyền thống trong văn hóa Trung Quốc và Nhật Bản. \n\nVí dụ:\n- 琵琶 (biwa): Đàn Biwa, một loại đàn có hình dạng giống đàn Pipa.\n- 琵琶奏者 ("
+  },
+  "comments": [
+    {
+      "id": "155352",
+      "lang": "vi",
+      "content_html": "<p>2 vị vua cười hihi khi nghe thấy tiếng đàn TÌ bà!</p>",
+      "content_text": "2 vị vua cười hihi khi nghe thấy tiếng đàn TÌ bà!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

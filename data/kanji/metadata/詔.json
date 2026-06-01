@@ -1,0 +1,84 @@
+{
+  "kanji": "詔",
+  "meta": {
+    "weight": 2472,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "みことのり"
+    ],
+    "am_han": "CHIẾU"
+  },
+  "meaning": {
+    "vi": "sắc lệnh hoàng gia",
+    "en": "imperial edict"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/詔.svg"
+  },
+  "frequency": 2239,
+  "examples": [],
+  "explanation": {
+    "id": "3918",
+    "text": "詔 (đọc là \"shō\") có nghĩa là \"sắc lệnh\", thường chỉ các mệnh lệnh hoặc thông điệp chính thức từ hoàng đế hoặc người có quyền lực.  \nVí dụ:  \n- 詔勅 (shōchoku): Sắc lệnh, chiếu chỉ của hoàng đế"
+  },
+  "comments": [
+    {
+      "id": "156874",
+      "lang": "vi",
+      "content_html": "<p>chiếu vua ban như lời nói triệu hồi</p>",
+      "content_text": "chiếu vua ban như lời nói triệu hồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156875",
+      "lang": "vi",
+      "content_html": "<p>Triệu hồi bằng CHIẾU chỉ</p>",
+      "content_text": "Triệu hồi bằng CHIẾU chỉ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156876",
+      "lang": "vi",
+      "content_html": "<p>Vua dùng lời nói Triệu vào thay cho Chiếu dụ.</p>",
+      "content_text": "Vua dùng lời nói Triệu vào thay cho Chiếu dụ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

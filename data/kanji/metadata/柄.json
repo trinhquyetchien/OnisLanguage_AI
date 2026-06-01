@@ -1,0 +1,92 @@
+{
+  "kanji": "柄",
+  "meta": {
+    "weight": 1317,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘイ"
+    ],
+    "kun": [
+      "がら",
+      "え",
+      "つか"
+    ],
+    "am_han": "BÍNH"
+  },
+  "meaning": {
+    "vi": "thiết kế, mẫu, xây dựng, thiên nhiên, nhân vật, tay cầm, tay quay, tay nắm, núm, trục",
+    "en": "design, pattern, build, nature, character, handle, crank, grip, knob, shaft"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/柄.svg"
+  },
+  "frequency": 1140,
+  "examples": [
+    "銘柄",
+    "柄",
+    "事柄",
+    "人柄",
+    "身柄"
+  ],
+  "explanation": {
+    "id": "7005",
+    "text": "柄 (đọc là \"gara\" hoặc \"e\") có nghĩa là \"hoa văn\", \"mẫu\", hoặc \"tay cầm\" để chỉ các yếu tố trang trí hoặc phần tay của một vật dụng.\n\nVí dụ:\n- 柄物 (garamono): Hàng hóa có hoa văn.\n- 柄杓 (hishak"
+  },
+  "comments": [
+    {
+      "id": "154447",
+      "lang": "vi",
+      "content_html": "<p>Vấn đề 1 cái cây là những gì nằm bên trong nó</p>",
+      "content_text": "Vấn đề 1 cái cây là những gì nằm bên trong nó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154448",
+      "lang": "vi",
+      "content_html": "<p>phần CÂY còn MỘT PHẦN BÊN TRONG  --  là CHUÔI, CÁN dao</p>",
+      "content_text": "phần CÂY còn MỘT PHẦN BÊN TRONG  --  là CHUÔI, CÁN dao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154449",
+      "lang": "vi",
+      "content_html": "<p>người bệnh liệt giường phải dùng gậy có chuôi gỗ mới đi lại được</p>",
+      "content_text": "người bệnh liệt giường phải dùng gậy có chuôi gỗ mới đi lại được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

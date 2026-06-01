@@ -1,0 +1,55 @@
+{
+  "kanji": "柏",
+  "meta": {
+    "weight": 1319,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハク",
+      "ヒャク",
+      "ビャク"
+    ],
+    "kun": [
+      "かしわ"
+    ],
+    "am_han": "BÁCH"
+  },
+  "meaning": {
+    "vi": "cây sồi, cây bách",
+    "en": "oak, cypress"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/柏.svg"
+  },
+  "frequency": 1606,
+  "examples": [
+    "柏",
+    "柏木"
+  ],
+  "explanation": {
+    "id": "6327",
+    "text": "柏 (đọc là \"haku\" hoặc \"kashiwa\") có nghĩa là \"cây sồi\" để chỉ một loại cây thường được coi là biểu tượng của sự trường thọ và sức mạnh. \n\nVí dụ:\n- 柏餅 (kashiwamochi): Bánh mochi nhân đậu đỏ g"
+  },
+  "comments": [
+    {
+      "id": "154450",
+      "lang": "vi",
+      "content_html": "<p>Cây màu trắng thì chữa được BÁCH bệnh.</p>",
+      "content_text": "Cây màu trắng thì chữa được BÁCH bệnh.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "轄",
+  "meta": {
+    "weight": 2622,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カツ"
+    ],
+    "kun": [
+      "くさび"
+    ],
+    "am_han": "HẠT"
+  },
+  "meaning": {
+    "vi": "kiểm soát, nêm",
+    "en": "control, wedge"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/轄.svg"
+  },
+  "frequency": 1771,
+  "examples": [
+    "管轄",
+    "直轄",
+    "所轄"
+  ],
+  "explanation": {
+    "id": "997",
+    "text": "轄 (đọc là \"katsu\") có nghĩa là \"quản lí\", \"kiểm soát\" để chỉ các hành động liên quan đến việc quản lý hoặc giám sát một khu vực nào đó.\n\nVí dụ:\n- 轄区 (kakku): Khu vực quản lý.\n- 轄下 (kakka): D"
+  },
+  "comments": [
+    {
+      "id": "157246",
+      "lang": "vi",
+      "content_html": "<p>việc nhỏ như HẠT 轄 cát . có mỗi việc CAI QUẢN chiếc XE 車 cũng không xong. đúng là đồ ăn HẠI 害...</p>",
+      "content_text": "việc nhỏ như HẠT 轄 cát . có mỗi việc CAI QUẢN chiếc XE 車 cũng không xong. đúng là đồ ăn HẠI 害...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157247",
+      "lang": "vi",
+      "content_html": "<p>việc gây hại cho xe cần được cai quản tốt</p>",
+      "content_text": "việc gây hại cho xe cần được cai quản tốt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157248",
+      "lang": "vi",
+      "content_html": "<p>Địa hạt cái xe bị hại ở quanh đây</p>",
+      "content_text": "Địa hạt cái xe bị hại ở quanh đây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "約",
+  "meta": {
+    "weight": 2048,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヤク"
+    ],
+    "kun": [
+      "つづ.まる",
+      "つづ.める",
+      "つづま.やか"
+    ],
+    "am_han": "ƯỚC"
+  },
+  "meaning": {
+    "vi": "ước nguyện, ước tính",
+    "en": "promise, approximately, shrink"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/約.svg"
+  },
+  "frequency": 94,
+  "examples": [
+    "約",
+    "契約",
+    "予約",
+    "約束",
+    "条約"
+  ],
+  "explanation": {
+    "id": "7694",
+    "text": "約 (đọc là \"yaku\") có nghĩa là \"hẹn ước\", \"cam kết\" để chỉ các thỏa thuận hoặc sự hứa hẹn.  \nVí dụ:  \n- 約束 (yakusoku): Hứa hẹn, thỏa thuận.  \n- 約婚 (yakkon): Hôn ước.  \n- 契約 (keiyaku): Hợp đồn"
+  },
+  "comments": [
+    {
+      "id": "37270",
+      "lang": "vi",
+      "content_html": "<p>Hãy <strong>ước tính </strong>để lấy một lượng chỉ (糸) thích hợp.</p>",
+      "content_text": "Hãy\nước tính\nđể lấy một lượng chỉ (糸) thích hợp.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdbe683995.jpg",
+      "image_path": "assets/images/約_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155976",
+      "lang": "vi",
+      "content_html": "<p>Sợi chỉ buộc chặt Bao hẹn ƯỚC</p>",
+      "content_text": "Sợi chỉ buộc chặt Bao hẹn ƯỚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191151",
+      "lang": "vi",
+      "content_html": "<p>hôn <strong>ước </strong>- 婚約 (こんやく)</p>",
+      "content_text": "hôn\nước\n- 婚約 (こんやく)",
+      "image_url": "https://jpdictionary.com/upload/images/648acce62a24f.jpg",
+      "image_path": "assets/images/約_3.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

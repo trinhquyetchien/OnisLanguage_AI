@@ -1,0 +1,50 @@
+{
+  "kanji": "斧",
+  "meta": {
+    "weight": 1196,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "おの"
+    ],
+    "am_han": "PHỦ"
+  },
+  "meaning": {
+    "vi": "rìu",
+    "en": "ax, hatchet"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/斧.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6818",
+    "text": "斧 (đọc là \"ono\") có nghĩa là \"cái rìu\", chỉ dụng cụ dùng để chặt gỗ hoặc các vật liệu khác.\nVí dụ:\n- 斧で木を切る (ono de ki o kiru): Chặt cây bằng rìu.\n- 斧鍛冶 (onokaji): Người rèn rìu. \n- 斧の刃 (ono"
+  },
+  "comments": [
+    {
+      "id": "219711",
+      "lang": "vi",
+      "content_html": "<p>Ba tôi (父) dùng rìu (斤) làm đao phủ (斧)</p>",
+      "content_text": "Ba tôi (父) dùng rìu (斤) làm đao phủ (斧)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

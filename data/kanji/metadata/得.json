@@ -1,0 +1,108 @@
+{
+  "kanji": "得",
+  "meta": {
+    "weight": 929,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トク"
+    ],
+    "kun": [
+      "え.る",
+      "う.る"
+    ],
+    "am_han": "ĐẮC"
+  },
+  "meaning": {
+    "vi": "đạt được, đắc lợi",
+    "en": "gain, get, find, earn, acquire, can, may, able to, profit, advantage, benefit"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/得.svg"
+  },
+  "frequency": 175,
+  "examples": [
+    "得",
+    "得る",
+    "納得",
+    "取得",
+    "所得"
+  ],
+  "explanation": {
+    "id": "5946",
+    "text": "得 (đọc là \"taku\" hoặc \"deki\") có nghĩa là \"đạt được\", \"nhận lấy\" hoặc chỉ việc có khả năng, làm được điều gì đó. \n\nVí dụ:\n- 得意 (tokui): Điểm mạnh, sở trường.\n- 得る (uru): Nhận được, thu được."
+  },
+  "comments": [
+    {
+      "id": "153480",
+      "lang": "vi",
+      "content_html": "<p>Xích cả ngày ko thấy thốn mà còn ĐẮC ý</p>",
+      "content_text": "Xích cả ngày ko thấy thốn mà còn ĐẮC ý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153481",
+      "lang": "vi",
+      "content_html": "<p>Bước chân đi 1 Tấc, Đắc ý thấy mặt trời</p>",
+      "content_text": "Bước chân đi 1 Tấc, Đắc ý thấy mặt trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153482",
+      "lang": "vi",
+      "content_html": "<p>1 ngày đi đường hơi thốn nhưng vẫn thấy đắc ý</p>",
+      "content_text": "1 ngày đi đường hơi thốn nhưng vẫn thấy đắc ý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190619",
+      "lang": "vi",
+      "content_html": "<p>体得(たいとく):tinh thông, hiểu biết</p><p>得意(とくい): Giỏi, sở trường</p>",
+      "content_text": "体得(たいとく):tinh thông, hiểu biết\n得意(とくい): Giỏi, sở trường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

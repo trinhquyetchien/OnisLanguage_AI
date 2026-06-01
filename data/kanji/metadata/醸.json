@@ -1,0 +1,89 @@
+{
+  "kanji": "醸",
+  "meta": {
+    "weight": 2730,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [
+      "かも.す"
+    ],
+    "am_han": "NHƯỠNG"
+  },
+  "meaning": {
+    "vi": "ủ, nguyên nhân",
+    "en": "brew, cause"
+  },
+  "stroke": {
+    "count": 20,
+    "svg": "assets/svg/醸.svg"
+  },
+  "frequency": 1838,
+  "examples": [
+    "醸造",
+    "醸成",
+    "吟醸",
+    "醸し出す"
+  ],
+  "explanation": {
+    "id": "3997",
+    "text": "醸 (đọc là \"jō\") có nghĩa là \"ủ\", \"nấu\" để chỉ các hành động liên quan đến việc sản xuất đồ uống lên men, như rượu và bia.  \nVí dụ:  \n- 醸造 (jōzō): Sản xuất rượu, chế biến rượu.  \n- 醸す (kamosu"
+  },
+  "comments": [
+    {
+      "id": "157503",
+      "lang": "vi",
+      "content_html": "<p>Ủ men rượu 6 ngày dưới 2 biểu đất gộp lại</p>",
+      "content_text": "Ủ men rượu 6 ngày dưới 2 biểu đất gộp lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157504",
+      "lang": "vi",
+      "content_html": "<p>Rượu lấy từ Thổ Nhưỡng (壌) sẽ Lên men ngay!<br>(Nhậu vcl) :3</p>",
+      "content_text": "Rượu lấy từ Thổ Nhưỡng (壌) sẽ Lên men ngay!\n(Nhậu vcl) :3",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157505",
+      "lang": "vi",
+      "content_html": "<p>cô nương đang lên men rượu</p>",
+      "content_text": "cô nương đang lên men rượu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

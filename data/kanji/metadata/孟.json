@@ -1,0 +1,71 @@
+{
+  "kanji": "孟",
+  "meta": {
+    "weight": 699,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モウ",
+      "ボウ",
+      "ミョウ"
+    ],
+    "kun": [
+      "かしら"
+    ],
+    "am_han": "MẠNH, MÃNG"
+  },
+  "meaning": {
+    "vi": "trưởng, bắt đầu",
+    "en": "chief, beginning"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/孟.svg"
+  },
+  "frequency": 2127,
+  "examples": [
+    "孟子"
+  ],
+  "explanation": {
+    "id": "7599",
+    "text": "孟 (đọc là \"mou\" hoặc \"sō\") có nghĩa là \"tháng giêng\", thường chỉ vị trí, thứ tự trong một nhóm hoặc người đứng đầu. \n\nVí dụ:\n- 孟子 (Mōshi): Mạnh Tử, tên của một nhà triết học nổi tiếng.\n- 孟春 "
+  },
+  "comments": [
+    {
+      "id": "152905",
+      "lang": "vi",
+      "content_html": "<p>Mạnh (Tháng đầu mùa gọi là mạnh nguyệt [孟⽉]. Như tháng giêng gọi là tháng mạnh xuân [孟春], tháng tư gọi là tháng mạnh hạ [孟夏]): Đứa trẻ rất vui vì cứ vào tháng của đầu mùa là nó lại được thưởng 1 cái đĩa ⽫ CD để chơi game.</p>",
+      "content_text": "Mạnh (Tháng đầu mùa gọi là mạnh nguyệt [孟⽉]. Như tháng giêng gọi là tháng mạnh xuân [孟春], tháng tư gọi là tháng mạnh hạ [孟夏]): Đứa trẻ rất vui vì cứ vào tháng của đầu mùa là nó lại được thưởng 1 cái đĩa ⽫ CD để chơi game.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152906",
+      "lang": "vi",
+      "content_html": "<p>Đứa bé chơi xóc đĩa thì ko thể trở thành MẠNH thường quân</p>",
+      "content_text": "Đứa bé chơi xóc đĩa thì ko thể trở thành MẠNH thường quân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "kanji": "尽",
+  "meta": {
+    "weight": 770,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジン",
+      "サン"
+    ],
+    "kun": [
+      "つ.きる",
+      "つ.くす",
+      "つ.かす",
+      "-づ.く",
+      "-ず.く",
+      "ことごと.く"
+    ],
+    "am_han": "TẪN, TẬN, HẾT"
+  },
+  "meaning": {
+    "vi": "cạn kiệt, sử dụng hết, hết, kết bạn, phục vụ",
+    "en": "exhaust, use up, run out of, deplete, befriend, serve"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/尽.svg"
+  },
+  "frequency": 1234,
+  "examples": [
+    "尽くし",
+    "理不尽",
+    "尽くす",
+    "尽きる",
+    "尽力"
+  ],
+  "explanation": {
+    "id": "4166",
+    "text": "尽 (đọc là \"jin\") có nghĩa là \"hết sức\", \"cống hiến\" để chỉ việc làm hết mình hoặc đưa ra tất cả khả năng của bản thân.\n\nVí dụ:\n- 尽力 (jinryoku): Cố gắng, nỗ lực.\n- 尽くす (tsukusu): Cống hiến, l"
+  },
+  "comments": [
+    {
+      "id": "153092",
+      "lang": "vi",
+      "content_html": "<p>TẬN sức phá Xích Băng</p>",
+      "content_text": "TẬN sức phá Xích Băng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153093",
+      "lang": "vi",
+      "content_html": "<p>Tận lực cống hiến cả buổi trưa băng giá</p>",
+      "content_text": "Tận lực cống hiến cả buổi trưa băng giá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153094",
+      "lang": "vi",
+      "content_html": "<p>tận lực cho đến lúc chỉ còn lại là xác chết trong mùa đông băng giá</p>",
+      "content_text": "tận lực cho đến lúc chỉ còn lại là xác chết trong mùa đông băng giá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

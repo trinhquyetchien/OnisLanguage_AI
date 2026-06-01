@@ -1,0 +1,125 @@
+{
+  "kanji": "統",
+  "meta": {
+    "weight": 2078,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "す.べる",
+      "ほび.る"
+    ],
+    "am_han": "THỐNG"
+  },
+  "meaning": {
+    "vi": "tổng thể, mối quan hệ, phán quyết, quản lý",
+    "en": "overall, relationship, ruling, governing"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/統.svg"
+  },
+  "frequency": 125,
+  "examples": [
+    "大統領",
+    "伝統",
+    "統計",
+    "統一",
+    "統合"
+  ],
+  "explanation": {
+    "id": "5849",
+    "text": "統 (đọc là \"tō\") có nghĩa là \"thống nhất\", \"quản lý\" để chỉ các hành động liên quan đến việc tập hợp, thống nhất hoặc quản lý một cái gì đó.  \nVí dụ:  \n- 統一 (tōitsu): Thống nhất, đoàn kết.  \n"
+  },
+  "comments": [
+    {
+      "id": "156053",
+      "lang": "vi",
+      "content_html": "<p>Sợi Dây truyền THỐNG mang theo sự Sung túc</p>",
+      "content_text": "Sợi Dây truyền THỐNG mang theo sự Sung túc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221625",
+      "lang": "vi",
+      "content_html": "<p>Chữ Hán 統 (đọc là \"tou\" trong tiếng Nhật) có nghĩa là \"thống nhất\" hoặc \"tổng hợp.\" Đây là một chữ được sử dụng trong nhiều từ vựng tiếng Nhật để chỉ sự tổng hợp, quản lý hoặc sự thống nhất.</p><p>Ví dụ:</p><ol><li><strong>統一 (touitsu)</strong>: Thống nhất, hợp nhất.</li><li><strong>統計 (toukei)</strong>: Thống kê.</li><li><strong>統治 (touji)</strong>: Thống trị, cai trị.</li></ol><p>Chữ 統 thường được sử dụng trong các từ có tính chất trừu tượng hoặc chuyên ngành như kinh tế, chính trị, quản lý, v.v.</p>",
+      "content_text": "Chữ Hán 統 (đọc là \"tou\" trong tiếng Nhật) có nghĩa là \"thống nhất\" hoặc \"tổng hợp.\" Đây là một chữ được sử dụng trong nhiều từ vựng tiếng Nhật để chỉ sự tổng hợp, quản lý hoặc sự thống nhất.\nVí dụ:\n統一 (touitsu)\n: Thống nhất, hợp nhất.\n統計 (toukei)\n: Thống kê.\n統治 (touji)\n: Thống trị, cai trị.\nChữ 統 thường được sử dụng trong các từ có tính chất trừu tượng hoặc chuyên ngành như kinh tế, chính trị, quản lý, v.v.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "159003",
+      "lang": "vi",
+      "content_html": "<p>Chữ Hán 統 có nghĩa là \"thống nhất\".</p><p>Ví dụ:</p><p>統一 - thống nhất</p><p>統一國家 - nước thống nhất</p><p>統一政策 - chính sách thống nhất</p>",
+      "content_text": "Chữ Hán 統 có nghĩa là \"thống nhất\".\nVí dụ:\n統一 - thống nhất\n統一國家 - nước thống nhất\n統一政策 - chính sách thống nhất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "2",
+        "name": "ピカチュウ",
+        "image_url": "https://jpdictionary.com/upload/images/63918f2e8dcf1.png"
+      }
+    },
+    {
+      "id": "156054",
+      "lang": "vi",
+      "content_html": "<p>Truyền THỐNG đi vào quá khứ như một sợi chỉ hồng</p>",
+      "content_text": "Truyền THỐNG đi vào quá khứ như một sợi chỉ hồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156055",
+      "lang": "vi",
+      "content_html": "<p>Treo Chỉ ngũ sắc và quả Sung trong nhà theo Truyền THỐNG</p>",
+      "content_text": "Treo Chỉ ngũ sắc và quả Sung trong nhà theo Truyền THỐNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

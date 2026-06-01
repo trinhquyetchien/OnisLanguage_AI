@@ -1,0 +1,109 @@
+{
+  "kanji": "破",
+  "meta": {
+    "weight": 1872,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハ"
+    ],
+    "kun": [
+      "やぶ.る",
+      "やぶ.れる",
+      "わ.れる"
+    ],
+    "am_han": "PHÁ"
+  },
+  "meaning": {
+    "vi": "phá hoại",
+    "en": "rend, rip, tear, break, destroy, defeat, frustrate"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/破.svg"
+  },
+  "frequency": 590,
+  "examples": [
+    "破壊",
+    "突破",
+    "破綻",
+    "破産",
+    "爆破"
+  ],
+  "explanation": {
+    "id": "6238",
+    "text": "破 (đọc là \"ha\" hoặc \"yaburu\") có nghĩa là \"phá vỡ\", \"hủy hoại\" để chỉ các hành động liên quan đến việc làm hỏng, phá bỏ hay làm cho không còn nguyên vẹn.  \nVí dụ:  \n- 破産 (hasan): Phá sản, tì"
+  },
+  "comments": [
+    {
+      "id": "155636",
+      "lang": "vi",
+      "content_html": "<p>Cầm đá phá rách da</p>",
+      "content_text": "Cầm đá phá rách da",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190673",
+      "lang": "vi",
+      "content_html": "<p>cầm Đá ném toạc Da người khác thì chỉ có kẻ đi Phá.</p>",
+      "content_text": "cầm Đá ném toạc Da người khác thì chỉ có kẻ đi Phá.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "155637",
+      "lang": "vi",
+      "content_html": "<p>thạch+bì=&#62;té xuống đường đá bị phá rách da!</p>",
+      "content_text": "thạch+bì=>té xuống đường đá bị phá rách da!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155638",
+      "lang": "vi",
+      "content_html": "<p>破れ鍋に綴じ蓋: cách đọc われなべにとじぶた <br>Nghĩa: nồi nào úp vung ấy.</p>",
+      "content_text": "破れ鍋に綴じ蓋: cách đọc われなべにとじぶた\nNghĩa: nồi nào úp vung ấy.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

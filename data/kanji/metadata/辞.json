@@ -1,0 +1,108 @@
+{
+  "kanji": "辞",
+  "meta": {
+    "weight": 2627,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "や.める",
+      "いな.む"
+    ],
+    "am_han": "TỪ"
+  },
+  "meaning": {
+    "vi": "từ, từ điển",
+    "en": "resign, word, term, expression"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/辞.svg"
+  },
+  "frequency": 633,
+  "examples": [
+    "辞書",
+    "辞典",
+    "辞任",
+    "辞める",
+    "辞職"
+  ],
+  "explanation": {
+    "id": "3236",
+    "text": "辞 (đọc là \"ji\" hoặc \"y辞\") có nghĩa là \"từ chối\", \"từ bỏ\", thường liên quan đến việc nói lời từ biệt hoặc giải thích. \n\nVí dụ:\n- 辞書 (jisho): Từ điển.\n- 辞退 (jitai): Từ chối, khước từ.\n- 辞任 (ji"
+  },
+  "comments": [
+    {
+      "id": "37264",
+      "lang": "vi",
+      "content_html": "<p>Thật khổ sở (辛) để tra từ điển 1000 (千) <strong>từ</strong>.</p>",
+      "content_text": "Thật khổ sở (辛) để tra từ điển 1000 (千)\ntừ\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdb5a00e10.jpg",
+      "image_path": "assets/images/辞_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157256",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: cái Lưỡi (舌 THIỆT) đang bị Cay (辛 Tân)<br>==&#62;  Tê cứng không thể thốt lên được một TỪ (辞) nào.<br>..性..</p>",
+      "content_text": "Góc Nhìn: cái Lưỡi (舌 THIỆT) đang bị Cay (辛 Tân)\n==>  Tê cứng không thể thốt lên được một TỪ (辞) nào.\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157257",
+      "lang": "vi",
+      "content_html": "<p>Nói từ thiệt là cay đắng</p>",
+      "content_text": "Nói từ thiệt là cay đắng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157258",
+      "lang": "vi",
+      "content_html": "<p>cái lưỡi cay có 2 nghĩa <br>1/ TỪ NGỮ : bị lột lưỡi nên nói nhiều hơn nghĩa là có nhiều TỪ NGỮ hơn (TỪ trong TỪ ĐIỂN 辞書)<br>2/ TỪ BỎ : vì lưỡi cay quá k còn cảm giác nên đành từ bỏ các món ngon (辞める</p>",
+      "content_text": "cái lưỡi cay có 2 nghĩa\n1/ TỪ NGỮ : bị lột lưỡi nên nói nhiều hơn nghĩa là có nhiều TỪ NGỮ hơn (TỪ trong TỪ ĐIỂN 辞書)\n2/ TỪ BỎ : vì lưỡi cay quá k còn cảm giác nên đành từ bỏ các món ngon (辞める",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

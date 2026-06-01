@@ -1,0 +1,108 @@
+{
+  "kanji": "母",
+  "meta": {
+    "weight": 1471,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボ"
+    ],
+    "kun": [
+      "はは",
+      "も"
+    ],
+    "am_han": "MẪU"
+  },
+  "meaning": {
+    "vi": "mẹ, mẫu thân",
+    "en": "mother"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/母.svg"
+  },
+  "frequency": 570,
+  "examples": [
+    "母",
+    "母親",
+    "お母さん",
+    "祖母",
+    "母子"
+  ],
+  "explanation": {
+    "id": "7129",
+    "text": "母 (đọc là \"haha\" hoặc \"bo\") có nghĩa là \"mẹ\", chỉ người mẹ trong gia đình và các khía cạnh liên quan đến mẹ.  \nVí dụ:  \n- 母親 (hahaoya): Mẹ, bà mẹ.  \n- 母国 (bokoku): Tổ quốc, quê hương.  \n- 母乳"
+  },
+  "comments": [
+    {
+      "id": "560",
+      "lang": "vi",
+      "content_html": "<p>Hình dáng của người <strong>mẹ</strong>.</p>",
+      "content_text": "Hình dáng của người\nmẹ\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62977e051f8f0.jpg",
+      "image_path": "assets/images/母_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154729",
+      "lang": "vi",
+      "content_html": "<p>Biến thể của từ nữ và thêm 2 chấm để thể hiện sự khác nhau giữa người chưa có con và có con khi cho ti</p>",
+      "content_text": "Biến thể của từ nữ và thêm 2 chấm để thể hiện sự khác nhau giữa người chưa có con và có con khi cho ti",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158462",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>母 (はは): mẹ (tôi)</p><p>お母さん (おかあさん): mẹ<br>お祖母さん (おばあさん): bà</p>",
+      "content_text": "JLPT N5\n母 (はは): mẹ (tôi)\nお母さん (おかあさん): mẹ\nお祖母さん (おばあさん): bà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221795",
+      "lang": "vi",
+      "content_html": "<p>Trong giáp cốt văn hoặc kim văn (hình dưới) là tượng hình của \"Người mẹ đang ôm con\" hoặc là \"Người với 2 bầu vú lớn\"</p>",
+      "content_text": "Trong giáp cốt văn hoặc kim văn (hình dưới) là tượng hình của \"Người mẹ đang ôm con\" hoặc là \"Người với 2 bầu vú lớn\"",
+      "image_url": "https://jpdictionary.com/upload/images/67690fe00fb00.png",
+      "image_path": "assets/images/母_4.png",
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

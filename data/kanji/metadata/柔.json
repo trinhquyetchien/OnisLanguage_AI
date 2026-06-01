@@ -1,0 +1,94 @@
+{
+  "kanji": "柔",
+  "meta": {
+    "weight": 1323,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュウ",
+      "ニュウ"
+    ],
+    "kun": [
+      "やわ.らか",
+      "やわ.らかい",
+      "やわ",
+      "やわ.ら"
+    ],
+    "am_han": "NHU"
+  },
+  "meaning": {
+    "vi": "mềm dẻo, lấy nhu thắng cương",
+    "en": "tender, weakness, gentleness, softness"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/柔.svg"
+  },
+  "frequency": 1187,
+  "examples": [
+    "柔軟",
+    "柔らかい",
+    "柔軟性",
+    "柔らか",
+    "柔道"
+  ],
+  "explanation": {
+    "id": "3561",
+    "text": "柔 (đọc là \"nyuu\" hoặc \"yawara\") có nghĩa là \"mềm mại\", \"linh hoạt\" để chỉ các đặc tính liên quan đến sự dịu dàng, linh hoạt hoặc mềm dẻo.\n\nVí dụ:\n- 柔らかい (yawarakai): Mềm mại.\n- 柔道 (jūdō): Võ"
+  },
+  "comments": [
+    {
+      "id": "154457",
+      "lang": "vi",
+      "content_html": "<p>Cây mâu làm từ gỗ nên mềm dẻo.</p>",
+      "content_text": "Cây mâu làm từ gỗ nên mềm dẻo.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154458",
+      "lang": "vi",
+      "content_html": "<p>Vác MÂU vào rừng, thấy CÂY nào MỀM thì chặt.</p>",
+      "content_text": "Vác MÂU vào rừng, thấy CÂY nào MỀM thì chặt.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154459",
+      "lang": "vi",
+      "content_html": "<p>Vũ khí của môn võ NHU ĐẠO là thanh MÂU cắm vào cái cán làm từ cây gỗ</p>",
+      "content_text": "Vũ khí của môn võ NHU ĐẠO là thanh MÂU cắm vào cái cán làm từ cây gỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

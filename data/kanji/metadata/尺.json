@@ -1,0 +1,90 @@
+{
+  "kanji": "尺",
+  "meta": {
+    "weight": 767,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャク",
+      "セキ"
+    ],
+    "kun": [
+      "さし"
+    ],
+    "am_han": "XÍCH"
+  },
+  "meaning": {
+    "vi": "shaku, chân Nhật Bản, thước đo, tỷ lệ, quy tắc",
+    "en": "shaku, Japanese foot, measure, scale, rule"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/尺.svg"
+  },
+  "frequency": 1940,
+  "examples": [
+    "尺度",
+    "尺",
+    "尺八",
+    "縮尺"
+  ],
+  "explanation": {
+    "id": "3372",
+    "text": "尺 (đọc là \"shaku\") có nghĩa là \"đơn vị đo chiều dài\" trong hệ thống đo lường truyền thống Nhật Bản, tương đương khoảng 30.3 cm. \n\nVí dụ:\n- 尺八 (shakuhachi): Một loại nhạc cụ truyền thống Nhật"
+  },
+  "comments": [
+    {
+      "id": "153083",
+      "lang": "vi",
+      "content_html": "<p>Con cương Thi (尸) lè cái lưỡi ra dài cả Thước (尺)<br>..性..</p>",
+      "content_text": "Con cương Thi (尸) lè cái lưỡi ra dài cả Thước (尺)\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153084",
+      "lang": "vi",
+      "content_html": "<p>Thươc đo miệng dài 8 phân</p>",
+      "content_text": "Thươc đo miệng dài 8 phân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153085",
+      "lang": "vi",
+      "content_html": "<p>Là kanji tượng hình mô tả hành động người dùng gang tay để đo chiều dài. Ở trung quốc 1 xích là 22.5 cm, ở Nhật là 30.5 cm.</p>",
+      "content_text": "Là kanji tượng hình mô tả hành động người dùng gang tay để đo chiều dài. Ở trung quốc 1 xích là 22.5 cm, ở Nhật là 30.5 cm.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "寒",
+  "meta": {
+    "weight": 738,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "さむ.い"
+    ],
+    "am_han": "HÀN"
+  },
+  "meaning": {
+    "vi": "lạnh",
+    "en": "cold"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/寒.svg"
+  },
+  "frequency": 1456,
+  "examples": [
+    "寒い",
+    "寒",
+    "寒天",
+    "寒気",
+    "寒冷"
+  ],
+  "explanation": {
+    "id": "1063",
+    "text": "寒 (đọc là \"kan\") có nghĩa là \"lạnh\" để chỉ cảm giác lạnh hoặc thời tiết lạnh.  \nVí dụ:  \n- 寒い (samui): Lạnh (thời tiết).  \n- 寒波 (kanpa): Đợt lạnh, sóng lạnh.  \n- 寒天 (kanten): Thạch agar, một"
+  },
+  "comments": [
+    {
+      "id": "1034",
+      "lang": "vi",
+      "content_html": "<p>Vào những ngày <strong>lạnh</strong>, tôi đến nhà bạn và để lại những dấu chân trên tuyết.</p>",
+      "content_text": "Vào những ngày\nlạnh\n, tôi đến nhà bạn và để lại những dấu chân trên tuyết.",
+      "image_url": "https://jpdictionary.com/upload/images/62a1e0cb77cf1.png",
+      "image_path": "assets/images/寒_1.png",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190982",
+      "lang": "vi",
+      "content_html": "<p><strong>lạnh</strong></p>",
+      "content_text": "lạnh",
+      "image_url": "https://jpdictionary.com/upload/images/648a7eb043f9d.jpg",
+      "image_path": "assets/images/寒_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "153004",
+      "lang": "vi",
+      "content_html": "<p>Dưới mái nhà, gió Hàn vẫn lùa qua dc 3 khe cửa sổ</p>",
+      "content_text": "Dưới mái nhà, gió Hàn vẫn lùa qua dc 3 khe cửa sổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

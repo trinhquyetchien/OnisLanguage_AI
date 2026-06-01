@@ -1,0 +1,89 @@
+{
+  "kanji": "臣",
+  "meta": {
+    "weight": 2220,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン",
+      "ジン"
+    ],
+    "kun": [],
+    "am_han": "THẦN"
+  },
+  "meaning": {
+    "vi": "quan chức, đại thần",
+    "en": "retainer, subject"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/臣.svg"
+  },
+  "frequency": 1249,
+  "examples": [
+    "大臣",
+    "国務大臣",
+    "法務大臣",
+    "臣",
+    "家臣"
+  ],
+  "explanation": {
+    "id": "4113",
+    "text": "臣 (đọc là \"shin\" hoặc \"aji\") có nghĩa là \"hạ thần\", chỉ người phục vụ, thần dân trong mối quan hệ với vua chúa. \nVí dụ:\n- 臣下 (shinka): Thần dân, bề tôi.\n- 臣（しん, shin): Hạ thần, người phụ thu"
+  },
+  "comments": [
+    {
+      "id": "156385",
+      "lang": "vi",
+      "content_html": "<p>xoay chữ sang 90 độ , ta thấy như cái bục xếp hạng , ở giữa là vua , 2 bên là hạ THẦN</p>",
+      "content_text": "xoay chữ sang 90 độ , ta thấy như cái bục xếp hạng , ở giữa là vua , 2 bên là hạ THẦN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156386",
+      "lang": "vi",
+      "content_html": "<p>Thần tôi tớ cầm khiên để chống đỡ</p>",
+      "content_text": "Thần tôi tớ cầm khiên để chống đỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156387",
+      "lang": "vi",
+      "content_html": "<p>Bị nhốt ở trong tủ là vị trung THẦN</p>",
+      "content_text": "Bị nhốt ở trong tủ là vị trung THẦN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "里",
+  "meta": {
+    "weight": 2734,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リ"
+    ],
+    "kun": [
+      "さと"
+    ],
+    "am_han": "LÍ"
+  },
+  "meaning": {
+    "vi": "ri, làng, nhà của cha mẹ, giải đấu",
+    "en": "ri, village, parent's home, league"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/里.svg"
+  },
+  "frequency": 1096,
+  "examples": [
+    "里",
+    "里山",
+    "千里",
+    "里帰り",
+    "里親"
+  ],
+  "explanation": {
+    "id": "8025",
+    "text": "里 (đọc là \"ri\") có nghĩa là \"làng\", \"khu vực\" được sử dụng để chỉ những đơn vị hành chính nhỏ hoặc địa điểm sinh sống trong cộng đồng nông thôn.\nVí dụ:\n- 里親 (satooya): Người nhận nuôi, cha m"
+  },
+  "comments": [
+    {
+      "id": "157509",
+      "lang": "vi",
+      "content_html": "<p>Nhiều ruộng đất thì là làng</p>",
+      "content_text": "Nhiều ruộng đất thì là làng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157510",
+      "lang": "vi",
+      "content_html": "<p>Làng 里 tôi có ruộng 田, đất 土, cách biển 1 dặm = 1 hải lý 海里, nên rất an toàn.</p>",
+      "content_text": "Làng 里 tôi có ruộng 田, đất 土, cách biển 1 dặm = 1 hải lý 海里, nên rất an toàn.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157511",
+      "lang": "vi",
+      "content_html": "<p>Nói cho anh dễ hiểu: đất của tui là Vạn Lý 里 Thổ 土  Điền 田.<br>田 102. Bộ Điền (ruộng) <br>土 032. Bộ Thổ (đất)</p>",
+      "content_text": "Nói cho anh dễ hiểu: đất của tui là Vạn Lý 里 Thổ 土  Điền 田.\n田 102. Bộ Điền (ruộng)\n土 032. Bộ Thổ (đất)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

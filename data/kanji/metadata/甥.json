@@ -1,0 +1,70 @@
+{
+  "kanji": "甥",
+  "meta": {
+    "weight": 1770,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ソウ",
+      "ショウ"
+    ],
+    "kun": [
+      "おい",
+      "むこ"
+    ],
+    "am_han": "SANH"
+  },
+  "meaning": {
+    "vi": "cháu trai",
+    "en": "nephew"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/甥.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "505",
+    "text": "甥 (đọc là \"sei\") có nghĩa là \"cháu trai\" trong tiếng Nhật, chỉ con trai của anh hoặc chị.  \nVí dụ:  \n- 甥っ子 (oiboko): Cháu trai.  \n- 甥姪 (oitachi): Cháu (cả cháu trai và cháu gái).  \n- 甥の子 (oi"
+  },
+  "comments": [
+    {
+      "id": "220110",
+      "lang": "vi",
+      "content_html": "<p>sinh ra cháu trai</p>",
+      "content_text": "sinh ra cháu trai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220111",
+      "lang": "vi",
+      "content_html": "<p>SINH ra NAM nhân  --  nên có CHÁU TRAI</p>",
+      "content_text": "SINH ra NAM nhân  --  nên có CHÁU TRAI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

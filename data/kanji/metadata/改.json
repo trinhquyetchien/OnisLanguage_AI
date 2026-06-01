@@ -1,0 +1,91 @@
+{
+  "kanji": "改",
+  "meta": {
+    "weight": 1167,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "あらた.める",
+      "あらた.まる"
+    ],
+    "am_han": "CẢI"
+  },
+  "meaning": {
+    "vi": "cải cách, thay đổi",
+    "en": "reformation, change, modify, mend, renew, examine, inspect, search"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/改.svg"
+  },
+  "frequency": 147,
+  "examples": [
+    "改革",
+    "改正",
+    "改善",
+    "改めて",
+    "改良"
+  ],
+  "explanation": {
+    "id": "780",
+    "text": "改 (đọc là \"kai\" hoặc \"aru\") có nghĩa là \"cải cách\", \"sửa đổi\", để chỉ các hành động thay đổi, điều chỉnh hoặc cải thiện một cái gì đó.\n\nVí dụ:\n- 改良 (kairyou): Cải tiến, cải cách.\n- 改正 (kaise"
+  },
+  "comments": [
+    {
+      "id": "154068",
+      "lang": "vi",
+      "content_html": "<p>Tự Đánh bản thân để CẢI tạo tốt hơn</p>",
+      "content_text": "Tự Đánh bản thân để CẢI tạo tốt hơn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154069",
+      "lang": "vi",
+      "content_html": "<p>lão phộc dùng kỉ luật để cải tạo đất nước</p>",
+      "content_text": "lão phộc dùng kỉ luật để cải tạo đất nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154070",
+      "lang": "vi",
+      "content_html": "<p>dùng Kỉ luật và nhẹ nhàng (PHỘC) để CẢI cách</p>",
+      "content_text": "dùng Kỉ luật và nhẹ nhàng (PHỘC) để CẢI cách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

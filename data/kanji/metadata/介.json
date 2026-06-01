@@ -1,0 +1,71 @@
+{
+  "kanji": "介",
+  "meta": {
+    "weight": 136,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [],
+    "am_han": "GIỚI"
+  },
+  "meaning": {
+    "vi": "giới thiệu",
+    "en": "jammed in, shellfish, mediate, concern oneself with"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/介.svg"
+  },
+  "frequency": 617,
+  "examples": [
+    "紹介",
+    "介護",
+    "介入",
+    "仲介",
+    "厄介"
+  ],
+  "explanation": {
+    "id": "744",
+    "text": "介 (đọc là \"kai\" hoặc \"ge\") có nghĩa là \"trung gian\", \"can thiệp\". Chữ này thường chỉ các khía cạnh liên quan đến việc làm trung gian hoặc kết nối.\n\nVí dụ:\n- 介護 (kaigo): Chăm sóc người già, n"
+  },
+  "comments": [
+    {
+      "id": "190873",
+      "lang": "vi",
+      "content_html": "<p><strong>giới thiệu</strong> 2 người dưới mái nhà</p>",
+      "content_text": "giới thiệu\n2 người dưới mái nhà",
+      "image_url": "https://jpdictionary.com/upload/images/648a61257e951.jpg",
+      "image_path": "assets/images/介_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "151529",
+      "lang": "vi",
+      "content_html": "<p>Hai người đứng dưới mái nhà tự giới thiệu</p>",
+      "content_text": "Hai người đứng dưới mái nhà tự giới thiệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

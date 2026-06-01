@@ -1,0 +1,91 @@
+{
+  "kanji": "継",
+  "meta": {
+    "weight": 2082,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "つ.ぐ",
+      "まま-"
+    ],
+    "am_han": "KẾ, BỐI"
+  },
+  "meaning": {
+    "vi": "kế thừa, thành công, tiếp tục, vá, ghép (cây)",
+    "en": "inherit, succeed, continue, patch, graft (tree)"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/継.svg"
+  },
+  "frequency": 743,
+  "examples": [
+    "継続",
+    "中継",
+    "継承",
+    "後継",
+    "引き継ぐ"
+  ],
+  "explanation": {
+    "id": "2005",
+    "text": "継 (đọc là \"kei\" hoặc \"tsugu\") có nghĩa là \"kế thừa\", \"tiếp nối\" để chỉ hành động tiếp tục một cái gì đó từ trước đó.\n\nVí dụ:\n- 継続 (keizoku): Tiếp tục, duy trì.\n- 継ぐ (tsugu): Kế thừa, nối tiế"
+  },
+  "comments": [
+    {
+      "id": "156065",
+      "lang": "vi",
+      "content_html": "<p>kế bên chỉ là lúa</p>",
+      "content_text": "kế bên chỉ là lúa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156066",
+      "lang": "vi",
+      "content_html": "<p>Thừa KẾ cửa hàng bán GẠO với CHỈ</p>",
+      "content_text": "Thừa KẾ cửa hàng bán GẠO với CHỈ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156067",
+      "lang": "vi",
+      "content_html": "<p>thừa KẾ(継) Sợi Chỉ(糸) nối dõi cửa hàng Gạo(米)</p>",
+      "content_text": "thừa KẾ(継) Sợi Chỉ(糸) nối dõi cửa hàng Gạo(米)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

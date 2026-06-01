@@ -1,0 +1,111 @@
+{
+  "kanji": "損",
+  "meta": {
+    "weight": 1139,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソン"
+    ],
+    "kun": [
+      "そこ.なう",
+      "そこな.う",
+      "-そこ.なう",
+      "そこ.ねる",
+      "-そこ.ねる"
+    ],
+    "am_han": "TỔN"
+  },
+  "meaning": {
+    "vi": "thiệt hại, tổn thất",
+    "en": "damage, loss, disadvantage, hurt, injure"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/損.svg"
+  },
+  "frequency": 807,
+  "examples": [
+    "損害",
+    "損",
+    "損失",
+    "損傷",
+    "損益"
+  ],
+  "explanation": {
+    "id": "4847",
+    "text": "損 (đọc là \"son\") có nghĩa là \"tổn thất\", \"thiệt hại\" để chỉ các hành động hoặc trạng thái liên quan đến việc mất mát, thiệt hại về tài sản hoặc giá trị.\n\nVí dụ:\n- 損害 (songai): Thiệt hại, tổn"
+  },
+  "comments": [
+    {
+      "id": "154007",
+      "lang": "vi",
+      "content_html": "<p>Tự tay làm tổn thất nhân viên của mình</p>",
+      "content_text": "Tự tay làm tổn thất nhân viên của mình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190729",
+      "lang": "vi",
+      "content_html": "<p>Tay nhân Viên đó mang đến Tổn thất</p>",
+      "content_text": "Tay nhân Viên đó mang đến Tổn thất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "154008",
+      "lang": "vi",
+      "content_html": "<p>tay 手 của nhân viên 員 đã làm TỔN 損 thất rất nhiều tiền của cty...</p>",
+      "content_text": "tay 手 của nhân viên 員 đã làm TỔN 損 thất rất nhiều tiền của cty...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154009",
+      "lang": "vi",
+      "content_html": "<p>nhân viên rảnh tay là sự TỔN thất cho công ty</p>",
+      "content_text": "nhân viên rảnh tay là sự TỔN thất cho công ty",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

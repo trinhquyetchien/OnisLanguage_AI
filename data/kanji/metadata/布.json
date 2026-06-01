@@ -1,0 +1,93 @@
+{
+  "kanji": "布",
+  "meta": {
+    "weight": 830,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ",
+      "ホ"
+    ],
+    "kun": [
+      "ぬの",
+      "し.く",
+      "きれ"
+    ],
+    "am_han": "BỐ"
+  },
+  "meaning": {
+    "vi": "vải",
+    "en": "linen, cloth, spread, distribute"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/布.svg"
+  },
+  "frequency": 877,
+  "examples": [
+    "配布",
+    "布",
+    "財布",
+    "分布",
+    "布団"
+  ],
+  "explanation": {
+    "id": "6803",
+    "text": "布 (đọc là \"fu\") có nghĩa là \"vải\", \"bố trí\" để chỉ các hành động liên quan đến việc trải ra, lan tỏa hoặc cung cấp.  \nVí dụ:  \n- 布団 (futon): Chăn, đệm.  \n- 配布 (haibu): Phân phát, phát tán.  "
+  },
+  "comments": [
+    {
+      "id": "153235",
+      "lang": "vi",
+      "content_html": "<p>Cái khăn vải của BỐ nhớ treo nên phải</p>",
+      "content_text": "Cái khăn vải của BỐ nhớ treo nên phải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153236",
+      "lang": "vi",
+      "content_html": "<p>呂布 Lữ Bố</p>",
+      "content_text": "呂布 Lữ Bố",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153237",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay cân bao vải</p>",
+      "content_text": "Dùng tay cân bao vải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

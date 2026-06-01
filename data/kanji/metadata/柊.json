@@ -1,0 +1,51 @@
+{
+  "kanji": "柊",
+  "meta": {
+    "weight": 1318,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ",
+      "シュウ"
+    ],
+    "kun": [
+      "ひいらぎ"
+    ],
+    "am_han": "ĐÔNG, DÔNG, CHUNG, CHÔNG"
+  },
+  "meaning": {
+    "vi": "cây ô rô",
+    "en": "holly"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/柊.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6639",
+    "text": "柊 (đọc là \"hiiragi\") có nghĩa là \"cây hiiragi\", một loại cây thường được trồng để trang trí và có ý nghĩa trong văn hóa Nhật Bản, thường liên quan đến sự bảo vệ và xua đuổi tà ma.\n\nVí dụ:\n- "
+  },
+  "comments": [
+    {
+      "id": "219793",
+      "lang": "vi",
+      "content_html": "<p>Cây mà vào mùa ĐÔNG chảy nhựa ruồi bâu gọi là cây nhựa ruồi</p>",
+      "content_text": "Cây mà vào mùa ĐÔNG chảy nhựa ruồi bâu gọi là cây nhựa ruồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

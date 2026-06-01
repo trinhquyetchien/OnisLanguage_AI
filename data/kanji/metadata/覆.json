@@ -1,0 +1,92 @@
+{
+  "kanji": "覆",
+  "meta": {
+    "weight": 2439,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フク"
+    ],
+    "kun": [
+      "おお.う",
+      "くつがえ.す",
+      "くつがえ.る"
+    ],
+    "am_han": "PHÚC, PHÚ"
+  },
+  "meaning": {
+    "vi": "lật úp, che phủ, bóng râm, lớp phủ, bị hủy hoại",
+    "en": "capsize, cover, shade, mantle, be ruined"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/覆.svg"
+  },
+  "frequency": 1378,
+  "examples": [
+    "覆",
+    "覆い",
+    "覆う",
+    "転覆",
+    "覆す"
+  ],
+  "explanation": {
+    "id": "6922",
+    "text": "覆 (đọc là \"fuku\") có nghĩa là \"lật lại\", \"che phủ\" để chỉ các hành động liên quan đến việc lật đổ hoặc bảo vệ một cái gì đó dưới lớp bọc.\n\nVí dụ:\n- 覆う (おおう, ou): Che phủ, bao trùm.\n- 覆面 (ふくめ"
+  },
+  "comments": [
+    {
+      "id": "156789",
+      "lang": "vi",
+      "content_html": "<p>y PHỤC của người phương Tây thường PHỦ KÍN xuống tận gót chân.</p>",
+      "content_text": "y PHỤC của người phương Tây thường PHỦ KÍN xuống tận gót chân.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156790",
+      "lang": "vi",
+      "content_html": "<p>hạnh Phúc che phủ cả phương Tây khi được PHỤC HỒI.</p>",
+      "content_text": "hạnh Phúc che phủ cả phương Tây khi được PHỤC HỒI.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156791",
+      "lang": "vi",
+      "content_html": "<p>Đảng Phục hưng của Phúc đã bao phủ cả miền tây</p>",
+      "content_text": "Đảng Phục hưng của Phúc đã bao phủ cả miền tây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

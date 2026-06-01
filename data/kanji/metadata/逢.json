@@ -1,0 +1,88 @@
+{
+  "kanji": "逢",
+  "meta": {
+    "weight": 2662,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "あ.う",
+      "むか.える"
+    ],
+    "am_han": "PHÙNG"
+  },
+  "meaning": {
+    "vi": "cuộc họp, người thử, ngày, điểm hẹn",
+    "en": "meeting, tryst, date, rendezvous"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/逢.svg"
+  },
+  "frequency": 2116,
+  "examples": [
+    "出逢い",
+    "逢う"
+  ],
+  "explanation": {
+    "id": "23",
+    "text": "逢 (đọc là \"hō\") có nghĩa là \"gặp gỡ\", \"gặp\". Từ này thường chỉ việc gặp ai đó hoặc một sự kiện nào đó.\n\nVí dụ:\n- 逢う (au): Gặp gỡ.\n- 逢瀬 (ouse): Cuộc hẹn, cuộc gặp tình cờ.\n- 逢い引き (aibiki): Hẹ"
+  },
+  "comments": [
+    {
+      "id": "157339",
+      "lang": "vi",
+      "content_html": "<p>Tương PHÙNG tương ngộ Lại gặp Vua</p>",
+      "content_text": "Tương PHÙNG tương ngộ Lại gặp Vua",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157340",
+      "lang": "vi",
+      "content_html": "<p>Cách bước ra đi tình bõ ngõ<br>Ba năm cày cuốc sẽ tương phùng</p>",
+      "content_text": "Cách bước ra đi tình bõ ngõ\nBa năm cày cuốc sẽ tương phùng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157341",
+      "lang": "vi",
+      "content_html": "<p>Đang truy tìm trương tam phong trên đường thì lại gặp rồi tương PHÙNG</p>",
+      "content_text": "Đang truy tìm trương tam phong trên đường thì lại gặp rồi tương PHÙNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

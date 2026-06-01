@@ -1,0 +1,93 @@
+{
+  "kanji": "寂",
+  "meta": {
+    "weight": 733,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジャク",
+      "セキ"
+    ],
+    "kun": [
+      "さび",
+      "さび.しい",
+      "さび.れる",
+      "さみ.しい"
+    ],
+    "am_han": "TỊCH"
+  },
+  "meaning": {
+    "vi": "cô đơn, lặng lẽ, êm dịu, trưởng thành, cái chết của một linh mục",
+    "en": "loneliness, quietly, mellow, mature, death of a priest"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/寂.svg"
+  },
+  "frequency": 1599,
+  "examples": [
+    "寂しい",
+    "静寂",
+    "寂",
+    "寂しげ"
+  ],
+  "explanation": {
+    "id": "3394",
+    "text": "寂 (đọc là \"jaku\" hoặc \"sabi\") có nghĩa là \"tĩnh lặng\", \"vắng vẻ\", thường chỉ trạng thái cô đơn hay yên tĩnh. \n\nVí dụ:\n- 寂しい (sabishii): Cô đơn, buồn bã.\n- 寂静 (jakusei): Yên tĩnh, tĩnh mịch.\n"
+  },
+  "comments": [
+    {
+      "id": "152989",
+      "lang": "vi",
+      "content_html": "<p>Trong nhà từ trên xuống nhỏ chẳng ai chơi cùng nên thật là buồn</p>",
+      "content_text": "Trong nhà từ trên xuống nhỏ chẳng ai chơi cùng nên thật là buồn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152991",
+      "lang": "vi",
+      "content_html": "<p>Dưới nhà trên nhỏ chẳng ai chơi cùng lại buồn (又 また : lại, nữa)</p>",
+      "content_text": "Dưới nhà trên nhỏ chẳng ai chơi cùng lại buồn (又 また : lại, nữa)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152990",
+      "lang": "vi",
+      "content_html": "<p>Bác Thúc bị TỊCH thu MẤT hết Nhà cửa</p>",
+      "content_text": "Bác Thúc bị TỊCH thu MẤT hết Nhà cửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

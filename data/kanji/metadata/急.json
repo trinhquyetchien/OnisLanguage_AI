@@ -1,0 +1,92 @@
+{
+  "kanji": "急",
+  "meta": {
+    "weight": 955,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "いそ.ぐ",
+      "いそ.ぎ",
+      "せ.く"
+    ],
+    "am_han": "CẤP"
+  },
+  "meaning": {
+    "vi": "khẩn cấp",
+    "en": "hurry, emergency, sudden, steep"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/急.svg"
+  },
+  "frequency": 309,
+  "examples": [
+    "急",
+    "緊急",
+    "急速",
+    "急激",
+    "早急"
+  ],
+  "explanation": {
+    "id": "1521",
+    "text": "急 (đọc là \"kyuu\" hoặc \"isogu\") có nghĩa là \"gấp\", \"khẩn cấp\", dùng để chỉ tình trạng hoặc hành động cần được thực hiện nhanh chóng hoặc trong tình huống khẩn trương.  \nVí dụ:  \n- 急行 (kyuukou"
+  },
+  "comments": [
+    {
+      "id": "191020",
+      "lang": "vi",
+      "content_html": "<p><strong>khẩn cấp</strong></p>",
+      "content_text": "khẩn cấp",
+      "image_url": "https://jpdictionary.com/upload/images/648a8e9ae6ab8.jpg",
+      "image_path": "assets/images/急_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36837",
+      "lang": "vi",
+      "content_html": "<p>Đi <strong>gấp </strong>thì OK</p>",
+      "content_text": "Đi\ngấp\nthì OK",
+      "image_url": "https://jpdictionary.com/upload/images/62ac7cd89a709.jpg",
+      "image_path": "assets/images/急_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158476",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>急ぐ (いそぐ): gấp<br>急 (きゅう): gấp</p><p>急に (きゅうに): đột ngột, thình lình, bất ngờ<br>急行 (きゅうこう): tốc hành<br>特急 (とっきゅう): tàu tốc hành<br>救急車 (きゅうきゅうしゃ): xe cấp cứu<br>&nbsp;</p>",
+      "content_text": "JLPT N4\n急ぐ (いそぐ): gấp\n急 (きゅう): gấp\n急に (きゅうに): đột ngột, thình lình, bất ngờ\n急行 (きゅうこう): tốc hành\n特急 (とっきゅう): tàu tốc hành\n救急車 (きゅうきゅうしゃ): xe cấp cứu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

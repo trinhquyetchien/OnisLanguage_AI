@@ -1,0 +1,90 @@
+{
+  "kanji": "研",
+  "meta": {
+    "weight": 1866,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "と.ぐ"
+    ],
+    "am_han": "NGHIÊN"
+  },
+  "meaning": {
+    "vi": "mài, nghiên cứu",
+    "en": "polish, study of, sharpen"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/研.svg"
+  },
+  "frequency": 336,
+  "examples": [
+    "研究",
+    "研修",
+    "研究所",
+    "総研",
+    "研究者"
+  ],
+  "explanation": {
+    "id": "2155",
+    "text": "研 (đọc là \"ken\") có nghĩa là \"nghiên cứu\" hoặc \"mài giũa,\" thường chỉ các hành động liên quan đến việc nghiên cứu, học hỏi hoặc phát triển kỹ năng.\n\nVí dụ:\n- 研究 (kenkyū): Nghiên cứu.\n- 研修 (k"
+  },
+  "comments": [
+    {
+      "id": "36865",
+      "lang": "vi",
+      "content_html": "<p>Tôi ngồi trên bục để <strong>mài </strong>hòn đá (石).</p>",
+      "content_text": "Tôi ngồi trên bục để\nmài\nhòn đá (石).",
+      "image_url": "https://jpdictionary.com/upload/images/62addbf0d9e1f.jpg",
+      "image_path": "assets/images/研_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155626",
+      "lang": "vi",
+      "content_html": "<p>Mở 开 viên đá 石 ra để nghiên 研 cứu</p>",
+      "content_text": "Mở 开 viên đá 石 ra để nghiên 研 cứu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158481",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>研究 (けんきゅう): nghiên cứu<br>研究室 (けんきゅうしつ): phòng nghiên cứu</p>",
+      "content_text": "JLPT N4\n研究 (けんきゅう): nghiên cứu\n研究室 (けんきゅうしつ): phòng nghiên cứu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

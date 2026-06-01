@@ -1,0 +1,89 @@
+{
+  "kanji": "葛",
+  "meta": {
+    "weight": 2310,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カツ",
+      "カチ"
+    ],
+    "kun": [
+      "つづら",
+      "くず"
+    ],
+    "am_han": "CÁT"
+  },
+  "meaning": {
+    "vi": "dong riềng, sắn dây",
+    "en": "arrowroot, kudzu"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/葛.svg"
+  },
+  "frequency": 1547,
+  "examples": [
+    "葛藤",
+    "葛"
+  ],
+  "explanation": {
+    "id": "991",
+    "text": "葛 (đọc là \"kuzu\") có nghĩa là \"cây sắn dây\", chỉ loại thực vật có thể dùng làm thực phẩm hoặc thuốc. \n\nVí dụ:\n- 葛根 (kakkon): Rễ cây sắn dây, thường được sử dụng trong y học cổ truyền.\n- 葛湯 ("
+  },
+  "comments": [
+    {
+      "id": "156566",
+      "lang": "vi",
+      "content_html": "<p>mặt trời chưa lên qua ngọn cỏ thì có củ sắn nằm trong bao</p>",
+      "content_text": "mặt trời chưa lên qua ngọn cỏ thì có củ sắn nằm trong bao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156567",
+      "lang": "vi",
+      "content_html": "<p>Sắn dây葛 là một loại cây艹 không mùi匂, cần ánh sáng mặt trời 日</p>",
+      "content_text": "Sắn dây葛 là một loại cây艹 không mùi匂, cần ánh sáng mặt trời 日",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156568",
+      "lang": "vi",
+      "content_html": "<p>Lấy 1 Thìa CÁT bỏ vô Bao ủ suốt cả Ngày để trồng Cỏ</p>",
+      "content_text": "Lấy 1 Thìa CÁT bỏ vô Bao ủ suốt cả Ngày để trồng Cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

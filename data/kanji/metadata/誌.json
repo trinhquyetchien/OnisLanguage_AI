@@ -1,0 +1,105 @@
+{
+  "kanji": "誌",
+  "meta": {
+    "weight": 2487,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [],
+    "am_han": "CHÍ"
+  },
+  "meaning": {
+    "vi": "tài liệu, tạp chí",
+    "en": "document, records"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/誌.svg"
+  },
+  "frequency": 851,
+  "examples": [
+    "雑誌",
+    "誌",
+    "日誌",
+    "本誌",
+    "書誌"
+  ],
+  "explanation": {
+    "id": "3152",
+    "text": "誌 (đọc là \"shi\") có nghĩa là \"tạp chí\", \"sổ ghi\" để chỉ các tài liệu viết, thông tin được ghi chép hoặc xuất bản.  \nVí dụ:  \n- 雑誌 (zasshi): Tạp chí.  \n- 記誌 (kishi): Ghi chép, biên bản.  \n- 誌"
+  },
+  "comments": [
+    {
+      "id": "156913",
+      "lang": "vi",
+      "content_html": "<p>Ý chí trong tâm và được thể hiện bằng lời nói</p>",
+      "content_text": "Ý chí trong tâm và được thể hiện bằng lời nói",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190734",
+      "lang": "vi",
+      "content_html": "<p>Lời nói từ trái tim chiến sĩ đầy ý chí</p>",
+      "content_text": "Lời nói từ trái tim chiến sĩ đầy ý chí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156914",
+      "lang": "vi",
+      "content_html": "<p>Lời nói của kẻ sĩ trong tâm trí</p>",
+      "content_text": "Lời nói của kẻ sĩ trong tâm trí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156915",
+      "lang": "vi",
+      "content_html": "<p>Kẻ SĨ dùng Ngôn Từ bằng TRÁI TIM để viết tạp CHÍ .</p>",
+      "content_text": "Kẻ SĨ dùng Ngôn Từ bằng TRÁI TIM để viết tạp CHÍ .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

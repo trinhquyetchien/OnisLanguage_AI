@@ -1,0 +1,31 @@
+{
+  "kanji": "糎",
+  "meta": {
+    "weight": 2038,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "センチ",
+      "センチメートル"
+    ],
+    "am_han": "LY"
+  },
+  "meaning": {
+    "vi": "centimet, (kokuji)",
+    "en": "centimeter, (kokuji)"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/糎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4607",
+    "text": "糎 (đọc là \"shi\") có nghĩa là \"không khí\" hoặc \"hơi thở\", thường được sử dụng để chỉ những thứ liên quan đến không gian hay cái gì đó vô hình, nhẹ nhàng.\n\nVí dụ:\n- 糎圧 (shiatsu): Áp suất không"
+  },
+  "comments": []
+}

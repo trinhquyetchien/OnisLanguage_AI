@@ -1,0 +1,68 @@
+{
+  "kanji": "撒",
+  "meta": {
+    "weight": 1150,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン",
+      "サツ"
+    ],
+    "kun": [
+      "ま.く"
+    ],
+    "am_han": "TÁT, TẢN"
+  },
+  "meaning": {
+    "vi": "phân tán, rắc, cho chúng trượt",
+    "en": "scatter, sprinkle, give them the slip"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/撒.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2990",
+    "text": "撒 (đọc là \"sā\") có nghĩa là \"rải\", \"vung\", thường chỉ hành động rải hoặc vung các vật nhỏ như hạt giống hoặc bụi bẩn. \n\nVí dụ:\n- 撒き散らす (makichirasu): Rải ra, vung ra.\n- 撒く (maku): Rải, vung "
+  },
+  "comments": [
+    {
+      "id": "219657",
+      "lang": "vi",
+      "content_html": "<p>dùng TAY (  扌) TẢN (  散  ) hạt ra khắp nơi gọi là RẢI ( 撒く：まく）</p>",
+      "content_text": "dùng TAY (  扌) TẢN (  散  ) hạt ra khắp nơi gọi là RẢI ( 撒く：まく）",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219658",
+      "lang": "vi",
+      "content_html": "<p>hai đứa đang đi TẢN 散 bộ trên trăng thì bị chặn TÁT te toa máu chảy rải rắc khắp nơi</p>",
+      "content_text": "hai đứa đang đi TẢN 散 bộ trên trăng thì bị chặn TÁT te toa máu chảy rải rắc khắp nơi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

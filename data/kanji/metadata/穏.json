@@ -1,0 +1,90 @@
+{
+  "kanji": "穏",
+  "meta": {
+    "weight": 1952,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オン"
+    ],
+    "kun": [
+      "おだ.やか"
+    ],
+    "am_han": "ỔN, ỦN"
+  },
+  "meaning": {
+    "vi": "bình tĩnh, yên tĩnh, điều độ",
+    "en": "calm, quiet, moderation"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/穏.svg"
+  },
+  "frequency": 1535,
+  "examples": [
+    "穏やか",
+    "平穏",
+    "不穏",
+    "穏健",
+    "安穏"
+  ],
+  "explanation": {
+    "id": "594",
+    "text": "穏 (đọc là \"on\" hoặc \"wani\") có nghĩa là \"ôn hòa\", \"yên tĩnh\", chỉ trạng thái bình yên, không có xáo trộn. \n\nVí dụ:\n- 穏やか (odayaka): Bình tĩnh, ôn hòa.\n- 穏健 (onken): Ôn hòa, vừa phải.\n- 穏便 (o"
+  },
+  "comments": [
+    {
+      "id": "155796",
+      "lang": "vi",
+      "content_html": "<p>Trúng (当) mùa lúa (禾) là cái tâm (心) yên ổn (穏)</p>",
+      "content_text": "Trúng (当) mùa lúa (禾) là cái tâm (心) yên ổn (穏)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155797",
+      "lang": "vi",
+      "content_html": "<p>穏<br>Tay cào (爪) Tay duỗi (ヨ)<br>Cất Lúa (禾) vào Tim (心)<br>Cuộc đời yên Ổn (穏)<br><br>隠<br>Tay cào (爪) Tay duỗi (ヨ)<br>Giấu Bồ (阝) vào Tim (心)<br>Cuộc đời ở Ẩn (隠)</p>",
+      "content_text": "穏\nTay cào (爪) Tay duỗi (ヨ)\nCất Lúa (禾) vào Tim (心)\nCuộc đời yên Ổn (穏)\n隠\nTay cào (爪) Tay duỗi (ヨ)\nGiấu Bồ (阝) vào Tim (心)\nCuộc đời ở Ẩn (隠)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155798",
+      "lang": "vi",
+      "content_html": "<p>Con tim hoà hợp cho nhận thì là yên ổn</p>",
+      "content_text": "Con tim hoà hợp cho nhận thì là yên ổn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

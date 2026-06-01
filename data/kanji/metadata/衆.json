@@ -1,0 +1,91 @@
+{
+  "kanji": "衆",
+  "meta": {
+    "weight": 2401,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ",
+      "シュ"
+    ],
+    "kun": [
+      "おお.い"
+    ],
+    "am_han": "CHÚNG, TRỐNG"
+  },
+  "meaning": {
+    "vi": "quần chúng, số lượng lớn, đa số",
+    "en": "masses, great numbers, multitude, populace"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/衆.svg"
+  },
+  "frequency": 450,
+  "examples": [
+    "大衆",
+    "衆議院",
+    "民衆",
+    "公衆",
+    "衆院"
+  ],
+  "explanation": {
+    "id": "3515",
+    "text": "衆 (đọc là \"shū\") có nghĩa là \"đám đông\", \"nhân dân\" để chỉ một nhóm người hoặc cộng đồng.  \nVí dụ:  \n- 衆議院 (shūgiin): Hạ viện, nơi đại diện cho nhân dân.  \n- 大衆 (taishū): Đại chúng, quần chú"
+  },
+  "comments": [
+    {
+      "id": "156694",
+      "lang": "vi",
+      "content_html": "<p>Quần chúng mặc y phục đi hiến máu</p>",
+      "content_text": "Quần chúng mặc y phục đi hiến máu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156695",
+      "lang": "vi",
+      "content_html": "<p>Công chúng tập trung xếp nhiều hàng cùng nhau cắt máu ăn thề</p>",
+      "content_text": "Công chúng tập trung xếp nhiều hàng cùng nhau cắt máu ăn thề",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156696",
+      "lang": "vi",
+      "content_html": "<p>quần CHÚNG là gồm nhiều người với nhiều dòng máu</p>",
+      "content_text": "quần CHÚNG là gồm nhiều người với nhiều dòng máu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

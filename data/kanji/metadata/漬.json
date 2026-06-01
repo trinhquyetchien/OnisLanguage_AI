@@ -1,0 +1,93 @@
+{
+  "kanji": "漬",
+  "meta": {
+    "weight": 1615,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "つ.ける",
+      "つ.かる",
+      "-づ.け",
+      "-づけ"
+    ],
+    "am_han": "TÍ"
+  },
+  "meaning": {
+    "vi": "ngâm, làm ẩm, dốc",
+    "en": "pickling, soak, moisten, steep"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/漬.svg"
+  },
+  "frequency": 1818,
+  "examples": [
+    "漬け",
+    "漬物",
+    "塩漬け",
+    "お茶漬け",
+    "糠漬け"
+  ],
+  "explanation": {
+    "id": "5479",
+    "text": "漬 (đọc là \"tsuke\") có nghĩa là \"ngâm\", \"muối\" để chỉ các hành động liên quan đến việc chế biến thực phẩm bằng cách ngâm trong nước muối hoặc gia vị.  \nVí dụ:  \n- 漬物 (tsukemono): Dưa muối, mó"
+  },
+  "comments": [
+    {
+      "id": "155082",
+      "lang": "vi",
+      "content_html": "<p>TÍ nữa Thuỷ phải có trọng Trách MUỐI DƯA nhé</p>",
+      "content_text": "TÍ nữa Thuỷ phải có trọng Trách MUỐI DƯA nhé",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155083",
+      "lang": "vi",
+      "content_html": "<p>1 (TÍ) 漬 nước 氵 rơi ra thì không trách 責 được ai</p>",
+      "content_text": "1 (TÍ) 漬 nước 氵 rơi ra thì không trách 責 được ai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155084",
+      "lang": "vi",
+      "content_html": "<p>Nhất thổ phải thêm nước mới nuôi được sò ( bối )</p>",
+      "content_text": "Nhất thổ phải thêm nước mới nuôi được sò ( bối )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

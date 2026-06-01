@@ -1,0 +1,88 @@
+{
+  "kanji": "恩",
+  "meta": {
+    "weight": 967,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オン"
+    ],
+    "kun": [],
+    "am_han": "ÂN"
+  },
+  "meaning": {
+    "vi": "ân sủng, nhân từ, tốt lành, ưu ái, thương xót, ban phước, lợi ích",
+    "en": "grace, kindness, goodness, favor, mercy, blessing, benefit"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/恩.svg"
+  },
+  "frequency": 1418,
+  "examples": [
+    "恩恵",
+    "恩",
+    "恩師",
+    "恩給",
+    "恩返し"
+  ],
+  "explanation": {
+    "id": "588",
+    "text": "恩 (đọc là \"on\") có nghĩa là \"ân huệ\", \"ơn nghĩa\" để chỉ sự biết ơn hoặc lòng tốt mà người khác dành cho mình.\n\nVí dụ:\n- 恩恵 (onkei): Ân huệ, lợi ích nhận được.\n- 恩義 (ongi): Ơn nghĩa, lòng biế"
+  },
+  "comments": [
+    {
+      "id": "153581",
+      "lang": "vi",
+      "content_html": "<p>bao đại nhân là ân nhân trong tim</p>",
+      "content_text": "bao đại nhân là ân nhân trong tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153582",
+      "lang": "vi",
+      "content_html": "<p>Con tim có ân chưa trả thì chẳng khác gì đi tù (</p>",
+      "content_text": "Con tim có ân chưa trả thì chẳng khác gì đi tù (",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153583",
+      "lang": "vi",
+      "content_html": "<p>Tim mang nợ Ân Nhân</p>",
+      "content_text": "Tim mang nợ Ân Nhân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

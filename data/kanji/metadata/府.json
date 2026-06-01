@@ -1,0 +1,88 @@
+{
+  "kanji": "府",
+  "meta": {
+    "weight": 867,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [],
+    "am_han": "PHỦ"
+  },
+  "meaning": {
+    "vi": "quận, chính phủ",
+    "en": "borough, urban prefecture, govt office, representative body, storehouse"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/府.svg"
+  },
+  "frequency": 170,
+  "examples": [
+    "政府",
+    "府",
+    "都道府県",
+    "幕府",
+    "府県"
+  ],
+  "explanation": {
+    "id": "6806",
+    "text": "府 (đọc là \"fu\") có nghĩa là \"chính phủ\", \"cơ quan hành chính\" để chỉ các tổ chức hoặc cơ quan quản lý nhà nước. \n\nVí dụ:\n- 府県 (fuken): Tỉnh thành, khu vực hành chính (tại Nhật Bản).\n- 政府 (se"
+  },
+  "comments": [
+    {
+      "id": "153332",
+      "lang": "vi",
+      "content_html": "<p>Giao Phó ngôi Nhà cho Chính PHỦ</p>",
+      "content_text": "Giao Phó ngôi Nhà cho Chính PHỦ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153333",
+      "lang": "vi",
+      "content_html": "<p>Quan chức chính PHỦ NGHIỄM nhiên là phải ngồi trong nhà</p>",
+      "content_text": "Quan chức chính PHỦ NGHIỄM nhiên là phải ngồi trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153334",
+      "lang": "vi",
+      "content_html": "<p>Giao phó quản lý trong nhà là chính phủ</p>",
+      "content_text": "Giao phó quản lý trong nhà là chính phủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

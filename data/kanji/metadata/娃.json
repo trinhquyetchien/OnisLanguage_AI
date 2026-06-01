@@ -1,0 +1,52 @@
+{
+  "kanji": "娃",
+  "meta": {
+    "weight": 672,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ア",
+      "アイ",
+      "ワ"
+    ],
+    "kun": [
+      "うつく.しい"
+    ],
+    "am_han": "OA"
+  },
+  "meaning": {
+    "vi": "xinh đẹp",
+    "en": "beautiful"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/娃.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7",
+    "text": "娃 (đọc là \"wa\") có nghĩa là \"trẻ con\", \"em bé\", thường chỉ những đứa trẻ nhỏ hoặc đồ chơi trẻ em.  \nVí dụ:  \n- 娃娃 (wawa): Búp bê, đồ chơi trẻ em.  \n- 幼娃 (youwa): Trẻ thơ, em bé.  \n- 娃を抱く (wa"
+  },
+  "comments": [
+    {
+      "id": "219304",
+      "lang": "vi",
+      "content_html": "<p>Mai</p>",
+      "content_text": "Mai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

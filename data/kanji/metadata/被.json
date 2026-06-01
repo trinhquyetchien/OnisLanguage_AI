@@ -1,0 +1,110 @@
+{
+  "kanji": "被",
+  "meta": {
+    "weight": 2416,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "こうむ.る",
+      "おお.う",
+      "かぶ.る",
+      "かぶ.せる"
+    ],
+    "am_han": "BỊ"
+  },
+  "meaning": {
+    "vi": "bị, bị cáo",
+    "en": "incur, cover, veil, brood over, shelter, wear, put on, be exposed (film), receiving"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/被.svg"
+  },
+  "frequency": 431,
+  "examples": [
+    "被害",
+    "被告",
+    "被",
+    "被災",
+    "被爆"
+  ],
+  "explanation": {
+    "id": "6592",
+    "text": "被 (đọc là \"hi\") có nghĩa là \"bị\", chỉ trạng thái mà một người hoặc vật chịu tác động từ bên ngoài, thường mang nghĩa tiêu cực. \n\nVí dụ:\n- 被害 (higai): Thiệt hại, tổn thất.\n- 被告 (hikoku): Bị c"
+  },
+  "comments": [
+    {
+      "id": "156735",
+      "lang": "vi",
+      "content_html": "<p>Người bị hại 被害 bị rách cả áo 衣 hở hết cả da 皮</p>",
+      "content_text": "Người bị hại 被害 bị rách cả áo 衣 hở hết cả da 皮",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190701",
+      "lang": "vi",
+      "content_html": "<p>chiếc Áo làm từ Da đã vạch trần Bị cáo</p>",
+      "content_text": "chiếc Áo làm từ Da đã vạch trần Bị cáo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156736",
+      "lang": "vi",
+      "content_html": "<p>Bộ Y phục ngoài Da dễ Bị thiệt hại</p>",
+      "content_text": "Bộ Y phục ngoài Da dễ Bị thiệt hại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156737",
+      "lang": "vi",
+      "content_html": "<p>bì bị áo che</p>",
+      "content_text": "bì bị áo che",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

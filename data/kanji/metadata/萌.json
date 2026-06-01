@@ -1,0 +1,74 @@
+{
+  "kanji": "萌",
+  "meta": {
+    "weight": 2302,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "も.える",
+      "きざ.す",
+      "めばえ",
+      "きざ.し"
+    ],
+    "am_han": "MANH"
+  },
+  "meaning": {
+    "vi": "hiển thị các triệu chứng của, nảy mầm, chồi, mạch nha",
+    "en": "show symptoms of, sprout, bud, malt"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/萌.svg"
+  },
+  "frequency": 2346,
+  "examples": [
+    "萌え",
+    "萌える",
+    "萌芽"
+  ],
+  "explanation": {
+    "id": "7208",
+    "text": "萌 (đọc là \"mou\") có nghĩa là \"nảy mầm\", chỉ sự bắt đầu phát triển, cũng như cảm giác dễ thương hay tươi sáng. \nVí dụ:\n- 萌芽 (mouga): Nụ mầm, giai đoạn đầu phát triển.\n- 萌え (moe): Cảm giác yêu"
+  },
+  "comments": [
+    {
+      "id": "156553",
+      "lang": "vi",
+      "content_html": "<p>Cỏ mọc mầm buổi sáng thật là mỏng manh</p>",
+      "content_text": "Cỏ mọc mầm buổi sáng thật là mỏng manh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156554",
+      "lang": "vi",
+      "content_html": "<p>Cỏ cây mọc mầm buổi bình minh</p>",
+      "content_text": "Cỏ cây mọc mầm buổi bình minh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

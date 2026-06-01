@@ -1,0 +1,91 @@
+{
+  "kanji": "巣",
+  "meta": {
+    "weight": 816,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "す",
+      "す.くう"
+    ],
+    "am_han": "SÀO"
+  },
+  "meaning": {
+    "vi": "tổ, tân binh, tổ ong, mạng nhện, den",
+    "en": "nest, rookery, hive, cobweb, den"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/巣.svg"
+  },
+  "frequency": 1588,
+  "examples": [
+    "巣",
+    "空き巣",
+    "卵巣",
+    "巣窟",
+    "古巣"
+  ],
+  "explanation": {
+    "id": "4723",
+    "text": "巣 (đọc là \"su\") có nghĩa là \"tổ\" để chỉ nơi ở hoặc nơi sinh sản của động vật, thường là chim.\n\nVí dụ:\n- 巣箱 (subako): Hộp tổ, nơi đặt tổ cho chim.\n- 鳥の巣 (tori no su): Tổ chim.\n- 巣立ち (sudachi)"
+  },
+  "comments": [
+    {
+      "id": "153198",
+      "lang": "vi",
+      "content_html": "<p>Trên cây có tổ chim có 3 con chim ngóc đầu ra</p>",
+      "content_text": "Trên cây có tổ chim có 3 con chim ngóc đầu ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153199",
+      "lang": "vi",
+      "content_html": "<p>Có 3 SÀO RUỘNG CÂY ăn quả</p>",
+      "content_text": "Có 3 SÀO RUỘNG CÂY ăn quả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153200",
+      "lang": "vi",
+      "content_html": "<p>TỔ CHIM trên ngọn cây</p>",
+      "content_text": "TỔ CHIM trên ngọn cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

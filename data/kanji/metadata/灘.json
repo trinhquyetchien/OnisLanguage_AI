@@ -1,0 +1,36 @@
+{
+  "kanji": "灘",
+  "meta": {
+    "weight": 1639,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン",
+      "ダン"
+    ],
+    "kun": [
+      "なだ",
+      "せ"
+    ],
+    "am_han": "THAN"
+  },
+  "meaning": {
+    "vi": "biển khơi",
+    "en": "open sea"
+  },
+  "stroke": {
+    "count": 21,
+    "svg": "assets/svg/灘.svg"
+  },
+  "frequency": 1912,
+  "examples": [
+    "灘"
+  ],
+  "explanation": {
+    "id": "6054",
+    "text": "灘 (đọc là \"nada\") có nghĩa là \"bãi cát ven biển\" hoặc \"vùng nước sâu\", thường chỉ các khu vực ven biển hoặc những nơi có sóng lớn. \n\nVí dụ:\n- 灘区 (nadaku): Khu vực bãi cát.\n- 灘舟 (nadashu): Th"
+  },
+  "comments": []
+}

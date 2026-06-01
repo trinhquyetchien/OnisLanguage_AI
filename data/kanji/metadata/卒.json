@@ -1,0 +1,95 @@
+{
+  "kanji": "卒",
+  "meta": {
+    "weight": 390,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソツ",
+      "シュツ"
+    ],
+    "kun": [
+      "そっ.する",
+      "お.える",
+      "お.わる",
+      "ついに",
+      "にわか"
+    ],
+    "am_han": "TỐT"
+  },
+  "meaning": {
+    "vi": "tốt nghiệp",
+    "en": "graduate, soldier, private, die"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/卒.svg"
+  },
+  "frequency": 772,
+  "examples": [
+    "卒業",
+    "卒",
+    "卒業生",
+    "新卒",
+    "卒論"
+  ],
+  "explanation": {
+    "id": "4819",
+    "text": "卒 (đọc là \"sotsu\") có nghĩa là \"tốt nghiệp\" hoặc \"chết\", dùng để chỉ các hành động liên quan đến việc hoàn thành học tập hoặc kết thúc sự sống.\n\nVí dụ:\n- 卒業 (sotsugyō): Tốt nghiệp.\n- 卒倒 (sot"
+  },
+  "comments": [
+    {
+      "id": "37080",
+      "lang": "vi",
+      "content_html": "<p>10 (十) người đã <strong>tốt nghiệp</strong>.</p>",
+      "content_text": "10 (十) người đã\ntốt nghiệp\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb05ea37d1.jpg",
+      "image_path": "assets/images/卒_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190915",
+      "lang": "vi",
+      "content_html": "<p><strong>tốt nghiệp</strong></p>",
+      "content_text": "tốt nghiệp",
+      "image_url": "https://jpdictionary.com/upload/images/648a6eaec58e5.jpg",
+      "image_path": "assets/images/卒_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "152171",
+      "lang": "vi",
+      "content_html": "<p>12 Người TỐT nghiệp Đầu tiên</p>",
+      "content_text": "12 Người TỐT nghiệp Đầu tiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

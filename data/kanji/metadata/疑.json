@@ -1,0 +1,90 @@
+{
+  "kanji": "疑",
+  "meta": {
+    "weight": 1799,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギ"
+    ],
+    "kun": [
+      "うたが.う"
+    ],
+    "am_han": "NGHI"
+  },
+  "meaning": {
+    "vi": "nghi ngờ, nghi vấn",
+    "en": "doubt, distrust, be suspicious, question"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/疑.svg"
+  },
+  "frequency": 283,
+  "examples": [
+    "疑問",
+    "容疑",
+    "質疑",
+    "疑い",
+    "疑惑"
+  ],
+  "explanation": {
+    "id": "1429",
+    "text": "疑 (đọc là \"gi\") có nghĩa là \"hoài nghi\", \"nghi ngờ\" để chỉ cảm giác không tin tưởng hoặc sự không chắc chắn về điều gì đó.\nVí dụ:\n- 疑問 (ginmon): Câu hỏi, sự hoài nghi.\n- 疑う (utagau): Nghi ng"
+  },
+  "comments": [
+    {
+      "id": "155449",
+      "lang": "vi",
+      "content_html": "<p>Rảnh rỗi(ヒマ) gì mà lại dấu mũi Ten(矢)ở bên Chân(足)=&#62;Thật đáng Nghi Ngờ</p>",
+      "content_text": "Rảnh rỗi(ヒマ) gì mà lại dấu mũi Ten(矢)ở bên Chân(足)=>Thật đáng Nghi Ngờ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155450",
+      "lang": "vi",
+      "content_html": "<p>Tự nhiên lấy MŨI TÊN và cái THÌA cắm vào chân thì rất đáng NGHI</p>",
+      "content_text": "Tự nhiên lấy MŨI TÊN và cái THÌA cắm vào chân thì rất đáng NGHI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155451",
+      "lang": "vi",
+      "content_html": "<p>kẻ giấu mũi tên vào chân là rất đáng NGHI ngời</p>",
+      "content_text": "kẻ giấu mũi tên vào chân là rất đáng NGHI ngời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

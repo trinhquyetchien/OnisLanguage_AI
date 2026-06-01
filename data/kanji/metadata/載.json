@@ -1,0 +1,108 @@
+{
+  "kanji": "載",
+  "meta": {
+    "weight": 2614,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "の.せる",
+      "の.る"
+    ],
+    "am_han": "TÁI, TẠI, TẢI"
+  },
+  "meaning": {
+    "vi": "đi xe, lên tàu, lên đường, đặt chỗ, lây lan, 10 ** 44, ghi lại, xuất bản",
+    "en": "ride, board, get on, place, spread, 10**44, record, publish"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/載.svg"
+  },
+  "frequency": 825,
+  "examples": [
+    "掲載",
+    "記載",
+    "連載",
+    "搭載",
+    "転載"
+  ],
+  "explanation": {
+    "id": "2836",
+    "text": "載 (đọc là \"zai\") có nghĩa là \"chở\", \"mang\", \"tải\" để chỉ các hành động liên quan đến việc vận chuyển hoặc chứa đựng.  \nVí dụ:  \n- 載せる (noseru): Đặt lên, chở theo.  \n- 載物 (nóbutsu): Hàng hóa,"
+  },
+  "comments": [
+    {
+      "id": "157230",
+      "lang": "vi",
+      "content_html": "<p>Xe đi qua chở đất là xe Tải</p>",
+      "content_text": "Xe đi qua chở đất là xe Tải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157231",
+      "lang": "vi",
+      "content_html": "<p>Tải 10(十) cây vũ khí(戈) bằng xe(車).</p>",
+      "content_text": "Tải 10(十) cây vũ khí(戈) bằng xe(車).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "218472",
+      "lang": "vi",
+      "content_html": "<p>đất <strong>土 trên xe 車 chở qua 戈 chở tới Tái &nbsp;sử dụng</strong></p>",
+      "content_text": "đất\n土 trên xe 車 chở qua 戈 chở tới Tái  sử dụng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157232",
+      "lang": "vi",
+      "content_html": "<p>Đất được chất lên xe TẢI để chở đi</p>",
+      "content_text": "Đất được chất lên xe TẢI để chở đi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

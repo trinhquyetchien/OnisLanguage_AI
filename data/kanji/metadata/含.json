@@ -1,0 +1,91 @@
+{
+  "kanji": "含",
+  "meta": {
+    "weight": 462,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガン"
+    ],
+    "kun": [
+      "ふく.む",
+      "ふく.める"
+    ],
+    "am_han": "HÀM"
+  },
+  "meaning": {
+    "vi": "hàm chứa, bao gồm",
+    "en": "contain, include, hold in the mouth, bear in mind, understand, cherish"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/含.svg"
+  },
+  "frequency": 466,
+  "examples": [
+    "含む",
+    "含み",
+    "含める",
+    "含有",
+    "含み損"
+  ],
+  "explanation": {
+    "id": "1205",
+    "text": "含 (đọc là \"gan\") có nghĩa là \"chứa\", \"bao hàm\", chỉ việc có một nội dung hoặc ý nghĩa nào đó bên trong. \n\nVí dụ:\n- 含む (fukumu): Chứa, bao hàm.\n- 含有 (ganyuu): Sự chứa đựng, sự có mặt của một "
+  },
+  "comments": [
+    {
+      "id": "152343",
+      "lang": "vi",
+      "content_html": "<p>Ngay cả bây giờ thì miệng vẫn bao gồm cả Hàm</p>",
+      "content_text": "Ngay cả bây giờ thì miệng vẫn bao gồm cả Hàm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152344",
+      "lang": "vi",
+      "content_html": "<p>Thời bây giờ thì miệng làm hàm nhai</p>",
+      "content_text": "Thời bây giờ thì miệng làm hàm nhai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152345",
+      "lang": "vi",
+      "content_html": "<p>bây giờ nhìn miệng đoán hàm ý</p>",
+      "content_text": "bây giờ nhìn miệng đoán hàm ý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

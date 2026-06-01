@@ -1,0 +1,98 @@
+{
+  "kanji": "数",
+  "meta": {
+    "weight": 1180,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スウ",
+      "ス",
+      "サク",
+      "ソク",
+      "シュ"
+    ],
+    "kun": [
+      "かず",
+      "かぞ.える",
+      "しばしば",
+      "せ.める",
+      "わずらわ.しい"
+    ],
+    "am_han": "SỐ"
+  },
+  "meaning": {
+    "vi": "số lượng",
+    "en": "number, strength, fate, law, figures"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/数.svg"
+  },
+  "frequency": 148,
+  "examples": [
+    "数",
+    "数字",
+    "多数",
+    "複数",
+    "数学"
+  ],
+  "explanation": {
+    "id": "4253",
+    "text": "数 (đọc là \"suu\" hoặc \"kazu\") có nghĩa là \"số\" hoặc \"đếm\", dùng để chỉ số lượng hoặc hành động đếm.\n\nVí dụ:\n- 数字 (suji): Chữ số.\n- 数える (kazoeru): Đếm.\n- 数学 (sūgaku): Toán học."
+  },
+  "comments": [
+    {
+      "id": "154107",
+      "lang": "vi",
+      "content_html": "<p>Người PHỤ NỮ là người phải ghi SỔ sách số GẠO trong nhà</p>",
+      "content_text": "Người PHỤ NỮ là người phải ghi SỔ sách số GẠO trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154108",
+      "lang": "vi",
+      "content_html": "<p>Cô Tấm (Nữ) phải đếm hết số Gạo không thì bị đánh</p>",
+      "content_text": "Cô Tấm (Nữ) phải đếm hết số Gạo không thì bị đánh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154109",
+      "lang": "vi",
+      "content_html": "<p>Hồi xưa thú vui của kẻ cầm quyền xem ai giàu hơn là đưa tay ra đếm gạo và phụ nữ</p>",
+      "content_text": "Hồi xưa thú vui của kẻ cầm quyền xem ai giàu hơn là đưa tay ra đếm gạo và phụ nữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

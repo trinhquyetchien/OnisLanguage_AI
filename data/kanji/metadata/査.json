@@ -1,0 +1,105 @@
+{
+  "kanji": "査",
+  "meta": {
+    "weight": 1330,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サ"
+    ],
+    "kun": [],
+    "am_han": "TRA"
+  },
+  "meaning": {
+    "vi": "điều tra",
+    "en": "investigate"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/査.svg"
+  },
+  "frequency": 184,
+  "examples": [
+    "調査",
+    "検査",
+    "審査",
+    "捜査",
+    "監査"
+  ],
+  "explanation": {
+    "id": "2745",
+    "text": "査 (đọc là \"sa\") có nghĩa là \"kiểm tra\", \"thẩm tra\" để chỉ các hành động liên quan đến việc kiểm tra, xem xét hoặc điều tra một vấn đề nào đó.  \nVí dụ:  \n- 検査 (kensa): Kiểm tra, xét nghiệm.  "
+  },
+  "comments": [
+    {
+      "id": "37324",
+      "lang": "vi",
+      "content_html": "<p>Đã <strong>kiểm tra </strong>bia mộ dưới cái cây (木).</p>",
+      "content_text": "Đã\nkiểm tra\nbia mộ dưới cái cây (木).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe62c0c067.jpg",
+      "image_path": "assets/images/査_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154468",
+      "lang": "vi",
+      "content_html": "<p>Kiểm tra cái cây bằng mắt</p>",
+      "content_text": "Kiểm tra cái cây bằng mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154469",
+      "lang": "vi",
+      "content_html": "<p>dưới bóng CÂY thong THẢ làm bài KIỂM TRA</p>",
+      "content_text": "dưới bóng CÂY thong THẢ làm bài KIỂM TRA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154470",
+      "lang": "vi",
+      "content_html": "<p>tôi không tin trên CẦU THANG lại mọc CÂY. phải đi KIỂM TRA thôi...</p>",
+      "content_text": "tôi không tin trên CẦU THANG lại mọc CÂY. phải đi KIỂM TRA thôi...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

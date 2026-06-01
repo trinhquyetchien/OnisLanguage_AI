@@ -1,0 +1,85 @@
+{
+  "kanji": "循",
+  "meta": {
+    "weight": 932,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュン"
+    ],
+    "kun": [],
+    "am_han": "TUẦN"
+  },
+  "meaning": {
+    "vi": "tuần tự, theo dõi",
+    "en": "sequential, follow"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/循.svg"
+  },
+  "frequency": 1699,
+  "examples": [
+    "循環",
+    "悪循環"
+  ],
+  "explanation": {
+    "id": "3641",
+    "text": "循 (đọc là \"jun\") có nghĩa là \"tuân theo\", \"tuần hoàn\", thường được sử dụng để chỉ các hành động liên quan đến việc đi theo một hướng nhất định hoặc tuần tự.\n\nVí dụ:\n- 循環 (junkai): Tuần hoàn."
+  },
+  "comments": [
+    {
+      "id": "153490",
+      "lang": "vi",
+      "content_html": "<p>BƯỚC CHÂN TUẦN hoàn không mâu THUẪN</p>",
+      "content_text": "BƯỚC CHÂN TUẦN hoàn không mâu THUẪN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153491",
+      "lang": "vi",
+      "content_html": "<p>Trên đường (彳) đi Tuần trên Sườn núi gặp mâu Thuẫn với 10 ánh Mắt</p>",
+      "content_text": "Trên đường (彳) đi Tuần trên Sườn núi gặp mâu Thuẫn với 10 ánh Mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153492",
+      "lang": "vi",
+      "content_html": "<p>Bên phải là chữ THUẪN tên một loại binh khí. =&#62; vác thuẫn đi TUẦN</p>",
+      "content_text": "Bên phải là chữ THUẪN tên một loại binh khí. => vác thuẫn đi TUẦN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

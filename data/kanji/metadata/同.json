@@ -1,0 +1,90 @@
+{
+  "kanji": "同",
+  "meta": {
+    "weight": 452,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドウ"
+    ],
+    "kun": [
+      "おな.じ"
+    ],
+    "am_han": "ĐỒNG"
+  },
+  "meaning": {
+    "vi": "giống nhau, tương đồng",
+    "en": "same, agree, equal"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/同.svg"
+  },
+  "frequency": 15,
+  "examples": [
+    "同じ",
+    "同",
+    "同時に",
+    "同様",
+    "共同"
+  ],
+  "explanation": {
+    "id": "5904",
+    "text": "同 (đọc là \"dō\") có nghĩa là \"cùng nhau\", \"giống nhau\" để chỉ những điều tương đồng hoặc sự đồng nhất.  \nVí dụ:  \n- 同じ (onaji): Giống nhau, tương tự.  \n- 同意 (dōi): Đồng ý, tán thành.  \n- 同時 ("
+  },
+  "comments": [
+    {
+      "id": "190927",
+      "lang": "vi",
+      "content_html": "<p><strong>giống nhau</strong></p>",
+      "content_text": "giống nhau",
+      "image_url": "https://jpdictionary.com/upload/images/648a70f5d9f60.jpg",
+      "image_path": "assets/images/同_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36944",
+      "lang": "vi",
+      "content_html": "<p>Lối ra vào <strong>giống nhau</strong>.</p>",
+      "content_text": "Lối ra vào\ngiống nhau\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc45d689532.jpg",
+      "image_path": "assets/images/同_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158256",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>同じ (おなじ): giống nhau</p><p>同時に (どうじに): đồng thời, cùng lúc</p>",
+      "content_text": "JLPT N4\n同じ (おなじ): giống nhau\n同時に (どうじに): đồng thời, cùng lúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

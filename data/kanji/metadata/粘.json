@@ -1,0 +1,90 @@
+{
+  "kanji": "粘",
+  "meta": {
+    "weight": 2031,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ネン"
+    ],
+    "kun": [
+      "ねば.る"
+    ],
+    "am_han": "NIÊM"
+  },
+  "meaning": {
+    "vi": "dính, nhờn, kiên trì",
+    "en": "sticky, glutinous, greasy, persevere"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/粘.svg"
+  },
+  "frequency": 1410,
+  "examples": [
+    "粘土",
+    "粘着",
+    "粘り",
+    "粘膜",
+    "粘"
+  ],
+  "explanation": {
+    "id": "6174",
+    "text": "粘 (đọc là \"nen\") có nghĩa là \"dính\", \"bám\" để chỉ tính chất dính hoặc sự bám chặt của một vật thể nào đó.  \nVí dụ:  \n- 粘土 (nendo): Đất sét.  \n- 粘着 (nenchaku): Sự dính, bám dính.  \n- 粘り強い (ne"
+  },
+  "comments": [
+    {
+      "id": "155940",
+      "lang": "vi",
+      "content_html": "<p>Có cơm DÍNH trên miệng</p>",
+      "content_text": "Có cơm DÍNH trên miệng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155941",
+      "lang": "vi",
+      "content_html": "<p>NIÊM phong số Gạo đã Chiếm đc</p>",
+      "content_text": "NIÊM phong số Gạo đã Chiếm đc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155942",
+      "lang": "vi",
+      "content_html": "<p>Gạo Chiêm thường dính</p>",
+      "content_text": "Gạo Chiêm thường dính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

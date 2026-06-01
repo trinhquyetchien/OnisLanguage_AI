@@ -1,0 +1,91 @@
+{
+  "kanji": "敷",
+  "meta": {
+    "weight": 1183,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [
+      "し.く",
+      "-し.き"
+    ],
+    "am_han": "PHU"
+  },
+  "meaning": {
+    "vi": "trải, lát, ngồi, ban hành",
+    "en": "spread, pave, sit, promulgate"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/敷.svg"
+  },
+  "frequency": 1212,
+  "examples": [
+    "敷地",
+    "屋敷",
+    "敷居",
+    "風呂敷",
+    "倉敷"
+  ],
+  "explanation": {
+    "id": "6815",
+    "text": "Chữ Hán 敷 (đọc là \"fu\") có nghĩa là \"trải\", \"bày ra\" để chỉ hành động trải hoặc đặt một cái gì đó lên một bề mặt.\n\nVí dụ:\n- 敷地 (shikichi): Đất đai, khu đất.\n- 敷く (fuku): Trải, bày ra.\n- 敷物 ("
+  },
+  "comments": [
+    {
+      "id": "154116",
+      "lang": "vi",
+      "content_html": "<p>Đánh giặc TRẢI Khắp 10 Phương Trời thật công PHU</p>",
+      "content_text": "Đánh giặc TRẢI Khắp 10 Phương Trời thật công PHU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154117",
+      "lang": "vi",
+      "content_html": "<p>PHU quân ĐÁNH giặc TRẢI khắp RUỘNG đồng 10 PHƯƠNG</p>",
+      "content_text": "PHU quân ĐÁNH giặc TRẢI khắp RUỘNG đồng 10 PHƯƠNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154118",
+      "lang": "vi",
+      "content_html": "<p>thằg ck tên Phu đánh con phương chạy Rộng Khắp cả 10 cánh đồng</p>",
+      "content_text": "thằg ck tên Phu đánh con phương chạy Rộng Khắp cả 10 cánh đồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

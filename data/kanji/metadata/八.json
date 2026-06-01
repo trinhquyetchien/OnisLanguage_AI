@@ -1,0 +1,94 @@
+{
+  "kanji": "八",
+  "meta": {
+    "weight": 270,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハチ",
+      "ハツ"
+    ],
+    "kun": [
+      "や",
+      "や.つ",
+      "やっ.つ",
+      "よう"
+    ],
+    "am_han": "BÁT"
+  },
+  "meaning": {
+    "vi": "tám",
+    "en": "eight, eight radical (no. 12)"
+  },
+  "stroke": {
+    "count": 2,
+    "svg": "assets/svg/八.svg"
+  },
+  "frequency": 92,
+  "examples": [
+    "八",
+    "八月",
+    "八王子",
+    "八幡",
+    "八つ"
+  ],
+  "explanation": {
+    "id": "6395",
+    "text": "八 (đọc là \"hachi\") có nghĩa là \"số tám\". Đây là chữ số biểu thị giá trị 8 trong tiếng Nhật. \n\nVí dụ:\n- 八百屋 (yaoya): Cửa hàng bán rau quả.\n- 八月 (hachigatsu): Tháng Tám.\n- 八つ (yattsu): Tám cái"
+  },
+  "comments": [
+    {
+      "id": "458",
+      "lang": "vi",
+      "content_html": "<p>Chữ「ハ」 trong từ katakana「<strong>ハ</strong>チ」(số 8).</p>",
+      "content_text": "Chữ「ハ」 trong từ katakana「\nハ\nチ」(số 8).",
+      "image_url": "https://jpdictionary.com/upload/images/62976016053c5.jpg",
+      "image_path": "assets/images/八_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158351",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>八 (はち): tám</p><p>八つ (やっつ): tám cái<br>八百屋 (やおや): cửa hàng rau quả</p>",
+      "content_text": "JLPT N5\n八 (はち): tám\n八つ (やっつ): tám cái\n八百屋 (やおや): cửa hàng rau quả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "151867",
+      "lang": "vi",
+      "content_html": "<p>giống hình 2 bàn chân , chân đi chữ bát</p>",
+      "content_text": "giống hình 2 bàn chân , chân đi chữ bát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

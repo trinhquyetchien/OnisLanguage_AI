@@ -1,0 +1,91 @@
+{
+  "kanji": "板",
+  "meta": {
+    "weight": 1304,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン",
+      "バン"
+    ],
+    "kun": [
+      "いた"
+    ],
+    "am_han": "BẢN"
+  },
+  "meaning": {
+    "vi": "bảng",
+    "en": "plank, board, plate, stage"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/板.svg"
+  },
+  "frequency": 926,
+  "examples": [
+    "掲示板",
+    "板",
+    "看板",
+    "黒板",
+    "鉄板"
+  ],
+  "explanation": {
+    "id": "6460",
+    "text": "板 (đọc là \"ban\") có nghĩa là \"tấm ván\", \"tấm gỗ\" để chỉ các vật liệu phẳng và cứng thường dùng trong xây dựng hoặc chế tạo đồ vật.\n\nVí dụ:\n- 板子 (banshi): Tấm ván, tấm gỗ.\n- 看板 (kanban): Biển"
+  },
+  "comments": [
+    {
+      "id": "154415",
+      "lang": "vi",
+      "content_html": "<p>Phản đối việc chặt cây làm bảng</p>",
+      "content_text": "Phản đối việc chặt cây làm bảng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154416",
+      "lang": "vi",
+      "content_html": "<p>Chiếc phản thường được đóng bằng gỗ cây thành từng BẢN mỏng</p>",
+      "content_text": "Chiếc phản thường được đóng bằng gỗ cây thành từng BẢN mỏng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154417",
+      "lang": "vi",
+      "content_html": "<p>CÂY gỗ cưa ra từng BẢN mỏng làm thành PHẢN</p>",
+      "content_text": "CÂY gỗ cưa ra từng BẢN mỏng làm thành PHẢN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

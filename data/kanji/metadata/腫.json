@@ -1,0 +1,94 @@
+{
+  "kanji": "腫",
+  "meta": {
+    "weight": 2205,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ",
+      "ショウ"
+    ],
+    "kun": [
+      "は.れる",
+      "は.れ",
+      "は.らす",
+      "はれもの"
+    ],
+    "am_han": "THŨNG, TRŨNG"
+  },
+  "meaning": {
+    "vi": "khối u, sưng tấy",
+    "en": "tumor, swelling"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/腫.svg"
+  },
+  "frequency": 2145,
+  "examples": [
+    "腫瘍",
+    "腫れ",
+    "腫",
+    "脳腫瘍",
+    "筋腫"
+  ],
+  "explanation": {
+    "id": "3428",
+    "text": "腫 (đọc là \"shun\") có nghĩa là \"sưng\" hoặc \"bệnh sưng\", thường chỉ tình trạng sưng tấy của cơ thể hoặc các bộ phận.  \nVí dụ:  \n- 腫瘍 (shuyou): Khối u, bướu.  \n- 腫れ (hare): Sự sưng, chỗ sưng.  "
+  },
+  "comments": [
+    {
+      "id": "156356",
+      "lang": "vi",
+      "content_html": "<p>Nguyệt bị Trọng đánh Xưng Phù Thũng</p>",
+      "content_text": "Nguyệt bị Trọng đánh Xưng Phù Thũng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156357",
+      "lang": "vi",
+      "content_html": "<p>Bị đánh trọng重 thương da thịt月(bộ này là bộ nhục) bầm dập, cả người sưng phù Thũng</p>",
+      "content_text": "Bị đánh trọng重 thương da thịt月(bộ này là bộ nhục) bầm dập, cả người sưng phù Thũng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156358",
+      "lang": "vi",
+      "content_html": "<p>Nguyệt bị Trọng đánh cho Phù THŨNG</p>",
+      "content_text": "Nguyệt bị Trọng đánh cho Phù THŨNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

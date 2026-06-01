@@ -1,0 +1,91 @@
+{
+  "kanji": "街",
+  "meta": {
+    "weight": 2404,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガイ",
+      "カイ"
+    ],
+    "kun": [
+      "まち"
+    ],
+    "am_han": "NHAI"
+  },
+  "meaning": {
+    "vi": "đại lộ, đường phố, thị trấn",
+    "en": "boulevard, street, town"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/街.svg"
+  },
+  "frequency": 891,
+  "examples": [
+    "街",
+    "市街地",
+    "街道",
+    "市街",
+    "街頭"
+  ],
+  "explanation": {
+    "id": "855",
+    "text": "街 (đọc là \"gai\" hoặc \"machi\") có nghĩa là \"phố\", \"đường phố\" để chỉ các khu vực đô thị, nơi có sự sống và hoạt động thương mại.\n\nVí dụ:\n- 街道 (kaidō): Đường phố, con đường.\n- 街頭 (gaitō): Trên"
+  },
+  "comments": [
+    {
+      "id": "156703",
+      "lang": "vi",
+      "content_html": "<p>Hai mảnh đất có con đường đi qua gọi là khu phố</p>",
+      "content_text": "Hai mảnh đất có con đường đi qua gọi là khu phố",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156704",
+      "lang": "vi",
+      "content_html": "<p>Thành Phố là nơi có giá ĐẤT giấp ĐÔI giá những nơi khác và có nhiều người ĐI tới đi lui rất sôi động</p>",
+      "content_text": "Thành Phố là nơi có giá ĐẤT giấp ĐÔI giá những nơi khác và có nhiều người ĐI tới đi lui rất sôi động",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156705",
+      "lang": "vi",
+      "content_html": "<p>Song hành 2 bên 2 miếng đất ở giữa là phố liễu NHAI</p>",
+      "content_text": "Song hành 2 bên 2 miếng đất ở giữa là phố liễu NHAI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

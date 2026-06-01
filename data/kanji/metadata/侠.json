@@ -1,0 +1,70 @@
+{
+  "kanji": "侠",
+  "meta": {
+    "weight": 187,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "きゃん",
+      "おとこだて"
+    ],
+    "am_han": "HIỆP"
+  },
+  "meaning": {
+    "vi": "tomboy, tinh thần hiệp sĩ",
+    "en": "tomboy, chivalry"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/侠.svg"
+  },
+  "frequency": 2385,
+  "examples": [
+    "侠"
+  ],
+  "explanation": {
+    "id": "1618",
+    "text": "侠 (đọc là \"kyaku\") có nghĩa là \"hiệp sĩ\", \"người dũng cảm\", thường chỉ những người hành động vì công lý và bảo vệ kẻ yếu. \n\nVí dụ:\n- 侠客 (kyakuka): Hiệp khách, người hiệp sĩ.\n- 侠義 (kyagi): Tí"
+  },
+  "comments": [
+    {
+      "id": "151661",
+      "lang": "vi",
+      "content_html": "<p>Người mặc áo giáp là hiệp sĩ</p>",
+      "content_text": "Người mặc áo giáp là hiệp sĩ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151662",
+      "lang": "vi",
+      "content_html": "<p>Người đứng cầm 10 ngọn lửa là HIỆP sĩ</p>",
+      "content_text": "Người đứng cầm 10 ngọn lửa là HIỆP sĩ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "騎",
+  "meta": {
+    "weight": 2955,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [],
+    "am_han": "KỊ"
+  },
+  "meaning": {
+    "vi": "cưỡi ngựa, truy cập cho người cưỡi ngựa",
+    "en": "equestrian, riding on horses, counter for equestrians"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/騎.svg"
+  },
+  "frequency": 1696,
+  "examples": [
+    "騎士",
+    "騎手",
+    "騎",
+    "騎乗",
+    "騎馬"
+  ],
+  "explanation": {
+    "id": "1392",
+    "text": "騎 (đọc là \"ki\") có nghĩa là \"cưỡi\", \"lái\", thường liên quan đến việc cưỡi ngựa hoặc phương tiện.  \nVí dụ:  \n- 騎士 (kishi): Hiệp sĩ, người cưỡi ngựa.  \n- 騎乗 (kijou): Cưỡi lên, lái (ngựa).  \n- "
+  },
+  "comments": [
+    {
+      "id": "157993",
+      "lang": "vi",
+      "content_html": "<p>Người lớn có khả năng cưỡi ngựa là kị binh</p>",
+      "content_text": "Người lớn có khả năng cưỡi ngựa là kị binh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157994",
+      "lang": "vi",
+      "content_html": "<p>con Ngựa Kì diệu thì có thể làm Kị binh</p>",
+      "content_text": "con Ngựa Kì diệu thì có thể làm Kị binh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157995",
+      "lang": "vi",
+      "content_html": "<p>Con ngựa to có khả năng diệu kì là của KỊ binh</p>",
+      "content_text": "Con ngựa to có khả năng diệu kì là của KỊ binh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

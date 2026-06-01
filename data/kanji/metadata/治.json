@@ -1,0 +1,111 @@
+{
+  "kanji": "治",
+  "meta": {
+    "weight": 1510,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ",
+      "チ"
+    ],
+    "kun": [
+      "おさ.める",
+      "おさ.まる",
+      "なお.る",
+      "なお.す"
+    ],
+    "am_han": "TRỊ"
+  },
+  "meaning": {
+    "vi": "trị vì, chính trị",
+    "en": "reign, be at peace, calm down, subdue, quell, govt, cure, heal, rule, conserve"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/治.svg"
+  },
+  "frequency": 109,
+  "examples": [
+    "政治",
+    "治療",
+    "自治体",
+    "自治",
+    "明治"
+  ],
+  "explanation": {
+    "id": "3207",
+    "text": "治 (đọc là \"chi\") có nghĩa là \"trị\" hoặc \"quản lý\", thường chỉ các hành động liên quan đến việc cai trị, điều hành hoặc chữa bệnh.\n\nVí dụ:\n- 治療 (chiryō): Chữa trị, điều trị.\n- 政治 (seiji): Chí"
+  },
+  "comments": [
+    {
+      "id": "37133",
+      "lang": "vi",
+      "content_html": "<p>Tôi <strong>trị vì </strong>vùng ven biển.</p>",
+      "content_text": "Tôi\ntrị vì\nvùng ven biển.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb9a644e51.jpg",
+      "image_path": "assets/images/治_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154814",
+      "lang": "vi",
+      "content_html": "<p>muốn TRỊ được tính hám trai của con THỦY thì phải đầu THAI mới hết...</p>",
+      "content_text": "muốn TRỊ được tính hám trai của con THỦY thì phải đầu THAI mới hết...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154815",
+      "lang": "vi",
+      "content_html": "<p>TRỊ bệnh nhờ đài phun nước</p>",
+      "content_text": "TRỊ bệnh nhờ đài phun nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154816",
+      "lang": "vi",
+      "content_html": "<p>muốn trị bệnh sợ đứng trên khán đài 台 thì phải truyền nước  氵biển</p>",
+      "content_text": "muốn trị bệnh sợ đứng trên khán đài 台 thì phải truyền nước  氵biển",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "併",
+  "meta": {
+    "weight": 179,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘイ"
+    ],
+    "kun": [
+      "あわ.せる"
+    ],
+    "am_han": "BÍNH, TINH, TÍNH, TỊNH"
+  },
+  "meaning": {
+    "vi": "tham gia, cùng nhau, đoàn kết, tập thể",
+    "en": "join, get together, unite, collective"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/併.svg"
+  },
+  "frequency": 966,
+  "examples": [
+    "合併",
+    "併用",
+    "併合",
+    "併設",
+    "併せて"
+  ],
+  "explanation": {
+    "id": "6987",
+    "text": "併 (đọc là \"hei\") có nghĩa là \"kết hợp\", \"sát nhập\", chỉ hành động ghép nối hoặc hợp nhất các thứ lại với nhau.  \nVí dụ:  \n- 併合 (heigō): Sát nhập, hợp nhất.  \n- 併用 (heiyō): Sử dụng kết hợp.  "
+  },
+  "comments": [
+    {
+      "id": "151643",
+      "lang": "vi",
+      "content_html": "<p>một người đứng dang hai tay hai chân lại có hai sừng thì gọi là yêu tinh</p>",
+      "content_text": "một người đứng dang hai tay hai chân lại có hai sừng thì gọi là yêu tinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151644",
+      "lang": "vi",
+      "content_html": "<p>Nghĩa chính của nó là sát nhập.<br>Nghĩa một mình là( những người tinh tế thì hay nói tuy nhiên)</p>",
+      "content_text": "Nghĩa chính của nó là sát nhập.\nNghĩa một mình là( những người tinh tế thì hay nói tuy nhiên)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151645",
+      "lang": "vi",
+      "content_html": "<p>người bên cạnh tỉnh là tinh tuy nhiên</p>",
+      "content_text": "người bên cạnh tỉnh là tinh tuy nhiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

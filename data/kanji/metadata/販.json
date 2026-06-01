@@ -1,0 +1,88 @@
+{
+  "kanji": "販",
+  "meta": {
+    "weight": 2549,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン"
+    ],
+    "kun": [],
+    "am_han": "PHÁN, PHIẾN"
+  },
+  "meaning": {
+    "vi": "tiếp thị, bán",
+    "en": "marketing, sell, trade"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/販.svg"
+  },
+  "frequency": 627,
+  "examples": [
+    "販売",
+    "通販",
+    "市販",
+    "量販",
+    "再販"
+  ],
+  "explanation": {
+    "id": "6490",
+    "text": "販 (đọc là \"han\") có nghĩa là \"buôn bán\", chỉ các hoạt động liên quan đến thương mại và giao dịch hàng hóa.  \nVí dụ:  \n- 販売 (hanbai): Bán hàng, thương mại.  \n- 輸販 (yuhan): Xuất nhập khẩu hàng"
+  },
+  "comments": [
+    {
+      "id": "157061",
+      "lang": "vi",
+      "content_html": "<p>mua bán 販売 là: lấy đồ trả tiền 貝, hoặc ngược lại 反 bán đồ lấy tiền 貝</p>",
+      "content_text": "mua bán 販売 là: lấy đồ trả tiền 貝, hoặc ngược lại 反 bán đồ lấy tiền 貝",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157062",
+      "lang": "vi",
+      "content_html": "<p>Buôn bán nha PHIẾN thì bị TIỀN PHẢN bội</p>",
+      "content_text": "Buôn bán nha PHIẾN thì bị TIỀN PHẢN bội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157063",
+      "lang": "vi",
+      "content_html": "<p>Phản đối việc Trả Tiền để mua Phiến đá</p>",
+      "content_text": "Phản đối việc Trả Tiền để mua Phiến đá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

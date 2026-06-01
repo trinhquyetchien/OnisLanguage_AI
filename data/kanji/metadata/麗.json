@@ -1,0 +1,91 @@
+{
+  "kanji": "麗",
+  "meta": {
+    "weight": 3018,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ"
+    ],
+    "kun": [
+      "うるわ.しい",
+      "うら.らか"
+    ],
+    "am_han": "LỆ, LY"
+  },
+  "meaning": {
+    "vi": "đáng yêu, xinh đẹp, duyên dáng, rực rỡ",
+    "en": "lovely, beautiful, graceful, resplendent"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/麗.svg"
+  },
+  "frequency": 1758,
+  "examples": [
+    "綺麗",
+    "華麗",
+    "高麗",
+    "奇麗",
+    "壮麗"
+  ],
+  "explanation": {
+    "id": "8244",
+    "text": "麗 (đọc là \"rei\" hoặc \"ura\") có nghĩa là \"xinh đẹp\", \"lộng lẫy\" để chỉ vẻ đẹp, sự quyến rũ.  \nVí dụ:  \n- 麗しい (uruwashii): Đẹp đẽ, quyến rũ.  \n- 美麗 (birei): Vẻ đẹp tuyệt mỹ.  \n- 麗しさ (uruwashis"
+  },
+  "comments": [
+    {
+      "id": "158088",
+      "lang": "vi",
+      "content_html": "<p>Hươu có hai sừng nhung trên đầu nữa đúng là tráng lệ</p>",
+      "content_text": "Hươu có hai sừng nhung trên đầu nữa đúng là tráng lệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158089",
+      "lang": "vi",
+      "content_html": "<p>LỆ 麗là nét đẹp NAI鹿 tơ 2 mắt nhìn ngơ ngác.</p>",
+      "content_text": "LỆ 麗là nét đẹp NAI鹿 tơ 2 mắt nhìn ngơ ngác.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158090",
+      "lang": "vi",
+      "content_html": "<p>tuần Lộc có 2 quả sừng tráng LỆ</p>",
+      "content_text": "tuần Lộc có 2 quả sừng tráng LỆ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

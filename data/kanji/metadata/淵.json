@@ -1,0 +1,57 @@
+{
+  "kanji": "淵",
+  "meta": {
+    "weight": 1563,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン",
+      "カク",
+      "コウ"
+    ],
+    "kun": [
+      "ふち",
+      "かた.い",
+      "はなわ"
+    ],
+    "am_han": "UYÊN"
+  },
+  "meaning": {
+    "vi": "vực thẳm, cạnh, vực sâu",
+    "en": "abyss, edge, deep pool, the depths"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/淵.svg"
+  },
+  "frequency": 1593,
+  "examples": [
+    "淵",
+    "深淵"
+  ],
+  "explanation": {
+    "id": "6925",
+    "text": "淵 (đọc là \"en\") có nghĩa là \"hồ sâu\", \"vực thẳm\" để chỉ những nơi nước sâu hoặc tình huống phức tạp, khó khăn.  \nVí dụ:  \n- 淵源 (engen): Nguồn gốc sâu xa, căn nguyên.  \n- 溪淵 (keien): Suối và "
+  },
+  "comments": [
+    {
+      "id": "154946",
+      "lang": "vi",
+      "content_html": "<p>tưởng tượng: con sông nước chảy xiết có cái cầu bắc qua, mỗi bên cầu ( bên trên, bên dưới) có 2 cái vực sâu</p>",
+      "content_text": "tưởng tượng: con sông nước chảy xiết có cái cầu bắc qua, mỗi bên cầu ( bên trên, bên dưới) có 2 cái vực sâu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

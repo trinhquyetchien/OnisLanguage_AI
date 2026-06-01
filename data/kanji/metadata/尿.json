@@ -1,0 +1,92 @@
+{
+  "kanji": "尿",
+  "meta": {
+    "weight": 772,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ニョウ"
+    ],
+    "kun": [
+      "ゆばり",
+      "いばり",
+      "しと"
+    ],
+    "am_han": "NIỆU"
+  },
+  "meaning": {
+    "vi": "nước tiểu",
+    "en": "urine"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/尿.svg"
+  },
+  "frequency": 1672,
+  "examples": [
+    "糖尿",
+    "尿",
+    "尿素",
+    "泌尿器",
+    "排尿"
+  ],
+  "explanation": {
+    "id": "6123",
+    "text": "尿 (đọc là \"niō\") có nghĩa là \"nước tiểu\" để chỉ các hành động hoặc tình huống liên quan đến nước tiểu và hệ tiết niệu.  \nVí dụ:  \n- 尿検査 (niō kensa): Xét nghiệm nước tiểu.  \n- 尿道 (niōdō): Đườ"
+  },
+  "comments": [
+    {
+      "id": "153098",
+      "lang": "vi",
+      "content_html": "<p>Niệu rằng ma có sợ nước tiểu ?</p>",
+      "content_text": "Niệu rằng ma có sợ nước tiểu ?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153099",
+      "lang": "vi",
+      "content_html": "<p>Sợ ma đái cả ra quần</p>",
+      "content_text": "Sợ ma đái cả ra quần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153100",
+      "lang": "vi",
+      "content_html": "<p>Cửa cho nước ra là cửa đái</p>",
+      "content_text": "Cửa cho nước ra là cửa đái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

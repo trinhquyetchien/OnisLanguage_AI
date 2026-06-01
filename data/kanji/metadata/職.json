@@ -1,0 +1,89 @@
+{
+  "kanji": "職",
+  "meta": {
+    "weight": 2162,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショク",
+      "ソク"
+    ],
+    "kun": [],
+    "am_han": "CHỨC"
+  },
+  "meaning": {
+    "vi": "chức vụ",
+    "en": "post, employment, work"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/職.svg"
+  },
+  "frequency": 305,
+  "examples": [
+    "職員",
+    "就職",
+    "職業",
+    "職場",
+    "職"
+  ],
+  "explanation": {
+    "id": "4027",
+    "text": "職 (đọc là \"shoku\") có nghĩa là \"nghề nghiệp\", \"công việc\" để chỉ các hoạt động liên quan đến công việc hoặc nghề nghiệp của một cá nhân.  \nVí dụ:  \n- 職業 (shokugyō): Nghề nghiệp, ngành nghề. "
+  },
+  "comments": [
+    {
+      "id": "156254",
+      "lang": "vi",
+      "content_html": "<p>Dùng tai lắng nghe âm thanh của vũ khí va chạm vào nhau là CHỨC vụ của người lính</p>",
+      "content_text": "Dùng tai lắng nghe âm thanh của vũ khí va chạm vào nhau là CHỨC vụ của người lính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156255",
+      "lang": "vi",
+      "content_html": "<p>識 : Nói tri thức<br><br>織 : Nối tổ chức<br><br>職 : Nghe công việc</p>",
+      "content_text": "識 : Nói tri thức\n織 : Nối tổ chức\n職 : Nghe công việc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156256",
+      "lang": "vi",
+      "content_html": "<p>hàng NGÀY (日) hết ĐỨNG(立) rồi đi QUA(戈) đi lại, dùng NHĨ (耳) lắng nghe động tĩnh là CHỨC vụ của người lính canh</p>",
+      "content_text": "hàng NGÀY (日) hết ĐỨNG(立) rồi đi QUA(戈) đi lại, dùng NHĨ (耳) lắng nghe động tĩnh là CHỨC vụ của người lính canh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

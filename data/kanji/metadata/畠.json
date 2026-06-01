@@ -1,0 +1,33 @@
+{
+  "kanji": "畠",
+  "meta": {
+    "weight": 1787,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "はたけ",
+      "はた"
+    ],
+    "am_han": "ĐIỀN"
+  },
+  "meaning": {
+    "vi": "ruộng, nông trại, vườn, (kokuji)",
+    "en": "field, farm, garden, (kokuji)"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/畠.svg"
+  },
+  "frequency": 1860,
+  "examples": [
+    "畠"
+  ],
+  "explanation": {
+    "id": "6393",
+    "text": "畠 (đọc là \"hate\") có nghĩa là \"cánh đồng\" hoặc \"ruộng\", thường chỉ những khu vực đất canh tác, trồng trọt.  \nVí dụ:  \n- 畑作 (hatasaku): Nông nghiệp ruộng vườn, canh tác.  \n- 畑 (hata): Cánh đồ"
+  },
+  "comments": []
+}

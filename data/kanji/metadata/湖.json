@@ -1,0 +1,107 @@
+{
+  "kanji": "湖",
+  "meta": {
+    "weight": 1582,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "みずうみ"
+    ],
+    "am_han": "HỒ"
+  },
+  "meaning": {
+    "vi": "hồ",
+    "en": "lake"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/湖.svg"
+  },
+  "frequency": 1344,
+  "examples": [
+    "湖",
+    "琵琶湖",
+    "湖畔",
+    "湖水",
+    "湖面"
+  ],
+  "explanation": {
+    "id": "2284",
+    "text": "湖 (đọc là \"ko\") có nghĩa là \"hồ\", chỉ những vùng nước lớn hơn ao, thường nằm trong tự nhiên.\n\nVí dụ:\n- 湖畔 (kahan): Bờ hồ.\n- 美しい湖 (utsukushii ko): Hồ đẹp.\n- 湖水 (kosui): Nước hồ."
+  },
+  "comments": [
+    {
+      "id": "154997",
+      "lang": "vi",
+      "content_html": "<p>Thời cổ xưa thường ngắm trăng bên hồ nước</p>",
+      "content_text": "Thời cổ xưa thường ngắm trăng bên hồ nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190757",
+      "lang": "vi",
+      "content_html": "<p>dòng nước cũ soi bóng trăng trên mặt Hồ</p>",
+      "content_text": "dòng nước cũ soi bóng trăng trên mặt Hồ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "154998",
+      "lang": "vi",
+      "content_html": "<p>Anh trăng chiếu xuống hồ nước thấy đồ cổ.</p>",
+      "content_text": "Anh trăng chiếu xuống hồ nước thấy đồ cổ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154999",
+      "lang": "vi",
+      "content_html": "<p>bóng trăng in mặt hồ</p>",
+      "content_text": "bóng trăng in mặt hồ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "妻",
+  "meta": {
+    "weight": 656,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "つま"
+    ],
+    "am_han": "THÊ"
+  },
+  "meaning": {
+    "vi": "vợ, thê tử",
+    "en": "wife, spouse"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/妻.svg"
+  },
+  "frequency": 691,
+  "examples": [
+    "妻",
+    "夫妻",
+    "人妻",
+    "妻子",
+    "吾妻"
+  ],
+  "explanation": {
+    "id": "2788",
+    "text": "妻 (đọc là \"tsuma\") có nghĩa là \"vợ\", chỉ người phụ nữ trong mối quan hệ hôn nhân.  \nVí dụ:  \n- 妻 (tsuma): Vợ.  \n- 妻子 (saiko): Vợ và con.  \n- 妻帯 (saitai): Kết hôn, có vợ."
+  },
+  "comments": [
+    {
+      "id": "190965",
+      "lang": "vi",
+      "content_html": "<p><strong>vợ</strong></p>",
+      "content_text": "vợ",
+      "image_url": "https://jpdictionary.com/upload/images/648a77c826e9b.jpg",
+      "image_path": "assets/images/妻_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "950",
+      "lang": "vi",
+      "content_html": "<p>Người phụ nữ (女) cầm cây chổi là <strong>vợ </strong>tôi.</p>",
+      "content_text": "Người phụ nữ (女) cầm cây chổi là\nvợ\ntôi.",
+      "image_url": "https://jpdictionary.com/upload/images/6298ca81c6e97.jpg",
+      "image_path": "assets/images/妻_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152812",
+      "lang": "vi",
+      "content_html": "<p>tán mười(十) em (ヨ) gái(女)may ra mới lấy được 1 thê</p>",
+      "content_text": "tán mười(十) em (ヨ) gái(女)may ra mới lấy được 1 thê",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

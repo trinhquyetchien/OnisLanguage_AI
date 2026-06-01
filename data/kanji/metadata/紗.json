@@ -1,0 +1,51 @@
+{
+  "kanji": "紗",
+  "meta": {
+    "weight": 2054,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サ",
+      "シャ"
+    ],
+    "kun": [
+      "うすぎぬ"
+    ],
+    "am_han": "SA"
+  },
+  "meaning": {
+    "vi": "gạc, gossamer",
+    "en": "gauze, gossamer"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/紗.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3345",
+    "text": "紗 (đọc là \"sha\") có nghĩa là \"vải mỏng\", thường chỉ các loại vải nhẹ, trong suốt như lụa. \n\nVí dụ:\n- 紗幕 (shamaku): Rèm vải mỏng.\n- 紗衣 (sha-i): Áo làm từ vải mỏng.\n- 紗布 (safu): Băng gạc, tấm "
+  },
+  "comments": [
+    {
+      "id": "220328",
+      "lang": "vi",
+      "content_html": "<p>Thiếu chỉ nên may áo cà Sa bằng “lụa mỏng”</p>",
+      "content_text": "Thiếu chỉ nên may áo cà Sa bằng “lụa mỏng”",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

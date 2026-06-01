@@ -1,0 +1,91 @@
+{
+  "kanji": "費",
+  "meta": {
+    "weight": 2557,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "つい.やす",
+      "つい.える"
+    ],
+    "am_han": "PHÍ"
+  },
+  "meaning": {
+    "vi": "chi phí",
+    "en": "expense, cost, spend, consume, waste"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/費.svg"
+  },
+  "frequency": 321,
+  "examples": [
+    "消費",
+    "費",
+    "費用",
+    "経費",
+    "会費"
+  ],
+  "explanation": {
+    "id": "6598",
+    "text": "費 (đọc là \"hi\" hoặc \"hiyou\") có nghĩa là \"chi phí\", \"tiêu tốn\" để chỉ các hành động liên quan đến việc tiêu tiền hoặc chi tiêu cho một mục đích nào đó.  \nVí dụ:  \n- 費用 (hiyou): Chi phí, khoả"
+  },
+  "comments": [
+    {
+      "id": "157085",
+      "lang": "vi",
+      "content_html": "<p>PHÍ tiền mua Cung Tên</p>",
+      "content_text": "PHÍ tiền mua Cung Tên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157086",
+      "lang": "vi",
+      "content_html": "<p>chữ Phất giống bếp nướng. Bối là tiền =&#62;&#62; dùng bếp nướng điện rất PHÍ tiền điện 費</p>",
+      "content_text": "chữ Phất giống bếp nướng. Bối là tiền =>> dùng bếp nướng điện rất PHÍ tiền điện 費",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157087",
+      "lang": "vi",
+      "content_html": "<p>Tiền và đô la để trả chi phí</p>",
+      "content_text": "Tiền và đô la để trả chi phí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

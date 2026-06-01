@@ -1,0 +1,88 @@
+{
+  "kanji": "菌",
+  "meta": {
+    "weight": 2292,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キン"
+    ],
+    "kun": [],
+    "am_han": "KHUẨN"
+  },
+  "meaning": {
+    "vi": "vi trùng, nấm, vi khuẩn",
+    "en": "germ, fungus, bacteria"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/菌.svg"
+  },
+  "frequency": 1586,
+  "examples": [
+    "菌",
+    "細菌",
+    "殺菌",
+    "抗菌",
+    "乳酸菌"
+  ],
+  "explanation": {
+    "id": "1783",
+    "text": "菌 (đọc là \"kin\") có nghĩa là \"vi khuẩn\", \"nấm\" để chỉ các loại sinh vật nhỏ bé, thường liên quan đến sức khỏe hoặc sinh học.  \nVí dụ:  \n- 菌類 (kinrui): Nấm, loại nấm.  \n- 細菌 (saikin): Vi khuẩ"
+  },
+  "comments": [
+    {
+      "id": "156537",
+      "lang": "vi",
+      "content_html": "<p>Bộ thành phần = Thảo + Vi + Hòa : Hình ảnh của việc chống CỎ dại xâm nhập vào Phạm Vi trồng Lúa giống như việc chống Vi khuẩn xâm nhập vào cơ thể !</p>",
+      "content_text": "Bộ thành phần = Thảo + Vi + Hòa : Hình ảnh của việc chống CỎ dại xâm nhập vào Phạm Vi trồng Lúa giống như việc chống Vi khuẩn xâm nhập vào cơ thể !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156538",
+      "lang": "vi",
+      "content_html": "<p>Để cây lúa trong hộp tránh nhiễm khuẩn từ cỏ.</p>",
+      "content_text": "Để cây lúa trong hộp tránh nhiễm khuẩn từ cỏ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156539",
+      "lang": "vi",
+      "content_html": "<p>hạt gạo đóng hộp, chôn dưới bãi cỏ để chống vi khuẩn</p>",
+      "content_text": "hạt gạo đóng hộp, chôn dưới bãi cỏ để chống vi khuẩn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

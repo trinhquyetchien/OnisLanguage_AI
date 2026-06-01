@@ -1,0 +1,92 @@
+{
+  "kanji": "却",
+  "meta": {
+    "weight": 403,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キャク"
+    ],
+    "kun": [
+      "かえ.って",
+      "しりぞ.く",
+      "しりぞ.ける"
+    ],
+    "am_han": "KHƯỚC, NGANG, TỨC"
+  },
+  "meaning": {
+    "vi": "thay vào đó, ngược lại, đúng hơn, lùi lại, rút lui",
+    "en": "instead, on the contrary, rather, step back, withdraw, retreat"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/却.svg"
+  },
+  "frequency": 959,
+  "examples": [
+    "売却",
+    "脱却",
+    "却下",
+    "冷却",
+    "焼却"
+  ],
+  "explanation": {
+    "id": "1482",
+    "text": "却 (đọc là \"kyaku\") có nghĩa là \"trái lại,\" \"ngược lại\" để chỉ sự tương phản hoặc phủ định một điều gì đó.\n\nVí dụ:\n- 却下 (kyakka): Bác bỏ, từ chối.\n- 逆却 (gyaku-kyaku): Ngược lại, trái ngược.\n-"
+  },
+  "comments": [
+    {
+      "id": "152204",
+      "lang": "vi",
+      "content_html": "<p>Dùng đao chặt bỏ khước từ quá khứ</p>",
+      "content_text": "Dùng đao chặt bỏ khước từ quá khứ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152205",
+      "lang": "vi",
+      "content_html": "<p>Khước từ quá khứ trả ngược lại đao</p>",
+      "content_text": "Khước từ quá khứ trả ngược lại đao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152206",
+      "lang": "vi",
+      "content_html": "<p>Tiết [卩 ] đã khước từ quá khứ [去]</p>",
+      "content_text": "Tiết [卩 ] đã khước từ quá khứ [去]",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

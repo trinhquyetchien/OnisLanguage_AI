@@ -1,0 +1,90 @@
+{
+  "kanji": "僕",
+  "meta": {
+    "weight": 244,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボク"
+    ],
+    "kun": [
+      "しもべ"
+    ],
+    "am_han": "BỘC"
+  },
+  "meaning": {
+    "vi": "tôi, tôi (nam), người hầu",
+    "en": "me, I (male), servant, manservant"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/僕.svg"
+  },
+  "frequency": 1236,
+  "examples": [
+    "僕",
+    "僕ら",
+    "僕たち",
+    "僕達",
+    "下僕"
+  ],
+  "explanation": {
+    "id": "7316",
+    "text": "僕 (đọc là \"boku\") có nghĩa là \"tôi\", thường được dùng bởi nam giới trong giao tiếp thân mật. \n\nVí dụ:\n- 僕ら (bokura): Chúng tôi, chúng ta.\n- 僕自身 (boku jishin): Bản thân tôi.\n- 僕の友達 (boku no t"
+  },
+  "comments": [
+    {
+      "id": "151801",
+      "lang": "vi",
+      "content_html": "<p>Lưu ý: Các bạn bên trên bị nhầm bộ nghiệp 業 và bộ 菐 trong từ 僕 rồi nhé.</p>",
+      "content_text": "Lưu ý: Các bạn bên trên bị nhầm bộ nghiệp 業 và bộ 菐 trong từ 僕 rồi nhé.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151802",
+      "lang": "vi",
+      "content_html": "<p>Hình ảnh người đội mũ kéo xe như con dê chính là nô BỘC</p>",
+      "content_text": "Hình ảnh người đội mũ kéo xe như con dê chính là nô BỘC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151803",
+      "lang": "vi",
+      "content_html": "<p>Người khẩu Nghiệp(業) sẽ bị đầy thành nô Bộc</p>",
+      "content_text": "Người khẩu Nghiệp(業) sẽ bị đầy thành nô Bộc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

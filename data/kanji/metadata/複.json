@@ -1,0 +1,105 @@
+{
+  "kanji": "複",
+  "meta": {
+    "weight": 2431,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フク"
+    ],
+    "kun": [],
+    "am_han": "PHỨC"
+  },
+  "meaning": {
+    "vi": "nhiều, phức tạp",
+    "en": "duplicate, double, compound, multiple"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/複.svg"
+  },
+  "frequency": 915,
+  "examples": [
+    "複数",
+    "複雑",
+    "複製",
+    "複合",
+    "重複"
+  ],
+  "explanation": {
+    "id": "6919",
+    "text": "複 (đọc là \"fuku\") có nghĩa là \"phức tạp\", \"tái tạo\" để chỉ các hành động liên quan đến việc lặp lại, phức tạp hóa hoặc kết hợp.\n\nVí dụ:\n- 複雑 (fukuzatsu): Phức tạp.\n- 複製 (fukusei): Sao chép, "
+  },
+  "comments": [
+    {
+      "id": "37076",
+      "lang": "vi",
+      "content_html": "<p>Mọi người đi <strong>nhiều </strong>trên con đường mỗi ngày (日).</p>",
+      "content_text": "Mọi người đi\nnhiều\ntrên con đường mỗi ngày (日).",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb0730733b.jpg",
+      "image_path": "assets/images/複_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156766",
+      "lang": "vi",
+      "content_html": "<p>Y phục của người nằm đến ngày hôm sau thật là PHỨC tạp</p>",
+      "content_text": "Y phục của người nằm đến ngày hôm sau thật là PHỨC tạp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190740",
+      "lang": "vi",
+      "content_html": "<p>Mặt áo rồi cả ngày đi theo đối tượng phiền Phức</p>",
+      "content_text": "Mặt áo rồi cả ngày đi theo đối tượng phiền Phức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156767",
+      "lang": "vi",
+      "content_html": "<p>Y PHỤC chồng chất gấp đôi lên may rất PHỨC tạp</p>",
+      "content_text": "Y PHỤC chồng chất gấp đôi lên may rất PHỨC tạp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

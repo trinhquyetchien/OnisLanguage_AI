@@ -1,0 +1,109 @@
+{
+  "kanji": "西",
+  "meta": {
+    "weight": 2437,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "サイ",
+      "ス"
+    ],
+    "kun": [
+      "にし"
+    ],
+    "am_han": "TÂY"
+  },
+  "meaning": {
+    "vi": "phía tây",
+    "en": "west, Spain"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/西.svg"
+  },
+  "frequency": 259,
+  "examples": [
+    "西",
+    "関西",
+    "西洋",
+    "西部",
+    "東西"
+  ],
+  "explanation": {
+    "id": "4347",
+    "text": "西 (đọc là \"nishi\") có nghĩa là \"phía tây\", chỉ hướng hoặc vị trí liên quan đến phương hướng Tây.  \nVí dụ:  \n- 西洋 (seiyō): Phương Tây, thế giới phương Tây.  \n- 西日 (nishibi): Ánh nắng buổi chi"
+  },
+  "comments": [
+    {
+      "id": "533",
+      "lang": "vi",
+      "content_html": "<p>Một （一）trong 4 （四）hướng là hướng <strong>Tây</strong>.</p>",
+      "content_text": "Một （一）trong 4 （四）hướng là hướng\nTây\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629769b8dcaf6.jpg",
+      "image_path": "assets/images/西_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "159009",
+      "lang": "vi",
+      "content_html": "<p>西口(にしぐち): cửa tây</p>",
+      "content_text": "西口(にしぐち): cửa tây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "158436",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>西 (にし): phía tây</p>",
+      "content_text": "JLPT N5\n西 (にし): phía tây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "156785",
+      "lang": "vi",
+      "content_html": "<p>Nắp bình rượu tây bao giờ cũng dài</p>",
+      "content_text": "Nắp bình rượu tây bao giờ cũng dài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

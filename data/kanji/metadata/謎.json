@@ -1,0 +1,87 @@
+{
+  "kanji": "謎",
+  "meta": {
+    "weight": 2519,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "メイ",
+      "ベイ"
+    ],
+    "kun": [
+      "なぞ"
+    ],
+    "am_han": "MÊ"
+  },
+  "meaning": {
+    "vi": "câu đố, bí ẩn, gợi ý, mẹo",
+    "en": "riddle, puzzle, enigma, hint, tip"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/謎.svg"
+  },
+  "frequency": 2021,
+  "examples": [
+    "謎"
+  ],
+  "explanation": {
+    "id": "6051",
+    "text": "謎 (đọc là \"nazo\") có nghĩa là \"điều bí ẩn\", \"câu đố\" để chỉ những điều không rõ ràng hoặc cần được giải thích.  \nVí dụ:  \n- 謎かけ (nazokake): Câu đố, câu đố thú vị.  \n- 謎解き (nazotoki): Giải mã"
+  },
+  "comments": [
+    {
+      "id": "156984",
+      "lang": "vi",
+      "content_html": "<p>khi mê nói sảng hạt gạo đi lạc ngoài đường</p>",
+      "content_text": "khi mê nói sảng hạt gạo đi lạc ngoài đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156985",
+      "lang": "vi",
+      "content_html": "<p>NÓI MÊ những điều bí ẩn</p>",
+      "content_text": "NÓI MÊ những điều bí ẩn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156986",
+      "lang": "vi",
+      "content_html": "<p>nói về con đường tới mê cung gạo thì vẫn còn là 1 bí ẩn</p>",
+      "content_text": "nói về con đường tới mê cung gạo thì vẫn còn là 1 bí ẩn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

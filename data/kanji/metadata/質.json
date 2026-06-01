@@ -1,0 +1,95 @@
+{
+  "kanji": "質",
+  "meta": {
+    "weight": 2575,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シツ",
+      "シチ",
+      "チ"
+    ],
+    "kun": [
+      "たち",
+      "ただ.す",
+      "もと",
+      "わりふ"
+    ],
+    "am_han": "CHẤT"
+  },
+  "meaning": {
+    "vi": "chất lượng",
+    "en": "substance, quality, matter, temperament"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/質.svg"
+  },
+  "frequency": 389,
+  "examples": [
+    "質問",
+    "質",
+    "物質",
+    "本質",
+    "品質"
+  ],
+  "explanation": {
+    "id": "3292",
+    "text": "質 (đọc là \"shitsu\" hoặc \"shichi\") có nghĩa là \"chất\", \"tính chất\", để chỉ đặc điểm, phẩm chất của một vật thể hay ý tưởng. \n\nVí dụ:\n- 質問 (shitsumon): Câu hỏi.\n- 質量 (shitsuryō): Khối lượng.\n-"
+  },
+  "comments": [
+    {
+      "id": "1020",
+      "lang": "vi",
+      "content_html": "<p>Chặt vỏ sò (貝) bằng 2 cái rìu để kiểm tra <strong>chất lượng</strong> của nó.</p>",
+      "content_text": "Chặt vỏ sò (貝) bằng 2 cái rìu để kiểm tra\nchất lượng\ncủa nó.",
+      "image_url": "https://jpdictionary.com/upload/images/62a0a76e0c76f.jpg",
+      "image_path": "assets/images/質_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158489",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>質問 (しつもん): câu hỏi</p>",
+      "content_text": "JLPT N4\n質問 (しつもん): câu hỏi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "157127",
+      "lang": "vi",
+      "content_html": "<p>Dùng 2 cái Búa gõ vào con Sò để kiểm tra Chất lượng.</p>",
+      "content_text": "Dùng 2 cái Búa gõ vào con Sò để kiểm tra Chất lượng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

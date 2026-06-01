@@ -1,0 +1,68 @@
+{
+  "kanji": "佑",
+  "meta": {
+    "weight": 173,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ",
+      "ウ"
+    ],
+    "kun": [
+      "たす.ける"
+    ],
+    "am_han": "HỮU"
+  },
+  "meaning": {
+    "vi": "giúp đỡ",
+    "en": "help, assist"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/佑.svg"
+  },
+  "frequency": 2250,
+  "examples": [],
+  "explanation": {
+    "id": "7737",
+    "text": "佑 (đọc là \"yuu\") có nghĩa là \"phù hộ\", \"giúp đỡ\" để chỉ các hành động liên quan đến việc hỗ trợ, bảo vệ hoặc ban phước.  \nVí dụ:  \n- 佑助 (yuujo): Sự giúp đỡ, hỗ trợ.  \n- 佑える (sueeru): Phù hộ,"
+  },
+  "comments": [
+    {
+      "id": "151626",
+      "lang": "vi",
+      "content_html": "<p>người như cánh tay phải luôn giúp đỡ là bằng hữu</p>",
+      "content_text": "người như cánh tay phải luôn giúp đỡ là bằng hữu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151627",
+      "lang": "vi",
+      "content_html": "<p>Người đứng bên trái ( 佐 ) là phụ Tá , người đứng bên phải ( 佑 ) giúp đỡ ta là bằng HỮU</p>",
+      "content_text": "Người đứng bên trái ( 佐 ) là phụ Tá , người đứng bên phải ( 佑 ) giúp đỡ ta là bằng HỮU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "kanji": "績",
+  "meta": {
+    "weight": 2112,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ"
+    ],
+    "kun": [],
+    "am_han": "TÍCH"
+  },
+  "meaning": {
+    "vi": "kỳ tích, thành tích",
+    "en": "exploits, achievements, unreeling cocoons"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/績.svg"
+  },
+  "frequency": 820,
+  "examples": [
+    "実績",
+    "成績",
+    "業績",
+    "功績",
+    "戦績"
+  ],
+  "explanation": {
+    "id": "4409",
+    "text": "績 (đọc là \"seki\") có nghĩa là \"thành tích\", \"kết quả\" để chỉ các thành tựu hoặc kết quả đạt được trong công việc hoặc học tập.  \nVí dụ:  \n- 成績 (seiseki): Thành tích, điểm số.  \n- 業績 (gyousek"
+  },
+  "comments": [
+    {
+      "id": "156145",
+      "lang": "vi",
+      "content_html": "<p>Thành tích của ông chủ là kiếm tiền từ buôn tơ lụa</p>",
+      "content_text": "Thành tích của ông chủ là kiếm tiền từ buôn tơ lụa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190731",
+      "lang": "vi",
+      "content_html": "<p>dệt tơ mà có Trách nhiệm thì cuộc sống mới có thành Tích</p>",
+      "content_text": "dệt tơ mà có Trách nhiệm thì cuộc sống mới có thành Tích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156146",
+      "lang": "vi",
+      "content_html": "<p>TÍCH SỢI CHỈ mang đến cho VƯƠNG chủ để đổi thành TIỀN</p>",
+      "content_text": "TÍCH SỢI CHỈ mang đến cho VƯƠNG chủ để đổi thành TIỀN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156147",
+      "lang": "vi",
+      "content_html": "<p>Thành tích Đan chỉ có trách nhiệm nhất</p>",
+      "content_text": "Thành tích Đan chỉ có trách nhiệm nhất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

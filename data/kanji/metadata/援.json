@@ -1,0 +1,105 @@
+{
+  "kanji": "援",
+  "meta": {
+    "weight": 1137,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [],
+    "am_han": "VIÊN, VIỆN"
+  },
+  "meaning": {
+    "vi": "tiếp tay, giúp đỡ, tiết kiệm",
+    "en": "abet, help, save"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/援.svg"
+  },
+  "frequency": 312,
+  "examples": [
+    "支援",
+    "応援",
+    "援助",
+    "後援",
+    "救援"
+  ],
+  "explanation": {
+    "id": "455",
+    "text": "援 (đọc là \"en\") có nghĩa là \"hỗ trợ\", \"giúp đỡ\" để chỉ các hành động liên quan đến việc cung cấp sự giúp đỡ hoặc hỗ trợ cho ai đó.\n\nVí dụ:\n- 援助 (enjo): Sự giúp đỡ, hỗ trợ.\n- 支援 (shien): Hỗ t"
+  },
+  "comments": [
+    {
+      "id": "154001",
+      "lang": "vi",
+      "content_html": "<p>Tay đưa đồ viện trợ cho bằng hữu</p>",
+      "content_text": "Tay đưa đồ viện trợ cho bằng hữu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154002",
+      "lang": "vi",
+      "content_html": "<p>Noãn 暖 bỏ nhật thêm tay là chi viện 援</p>",
+      "content_text": "Noãn 暖 bỏ nhật thêm tay là chi viện 援",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221638",
+      "lang": "vi",
+      "content_html": "<p>援 (đọc là \"en\") có nghĩa là \"hỗ trợ\", \"giúp đỡ\", hoặc \"viện trợ\" thường được sử dụng để chỉ các hành động liên quan đến việc hỗ trợ, giúp đỡ hoặc cung cấp sự trợ giúp.</p><p>Ví dụ:</p><ul><li>援助 (enjo): Viện trợ, giúp đỡ.</li><li>支援 (shien): Hỗ trợ, giúp đỡ.</li><li>応援 (ouen): Cổ vũ, ủng hộ.</li><li>救援 (kyuu en): Cứu trợ, cứu viện.</li></ul>",
+      "content_text": "援 (đọc là \"en\") có nghĩa là \"hỗ trợ\", \"giúp đỡ\", hoặc \"viện trợ\" thường được sử dụng để chỉ các hành động liên quan đến việc hỗ trợ, giúp đỡ hoặc cung cấp sự trợ giúp.\nVí dụ:\n援助 (enjo): Viện trợ, giúp đỡ.\n支援 (shien): Hỗ trợ, giúp đỡ.\n応援 (ouen): Cổ vũ, ủng hộ.\n救援 (kyuu en): Cứu trợ, cứu viện.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "154003",
+      "lang": "vi",
+      "content_html": "<p>Bằng hữu (友) đưa tay (扌) và móng (爫) đến tiếp VIỆN  (援)</p>",
+      "content_text": "Bằng hữu (友) đưa tay (扌) và móng (爫) đến tiếp VIỆN  (援)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

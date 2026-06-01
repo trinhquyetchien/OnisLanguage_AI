@@ -1,0 +1,90 @@
+{
+  "kanji": "田",
+  "meta": {
+    "weight": 1773,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "デン"
+    ],
+    "kun": [
+      "た"
+    ],
+    "am_han": "ĐIỀN"
+  },
+  "meaning": {
+    "vi": "ruộng, tá điền",
+    "en": "rice field, rice paddy"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/田.svg"
+  },
+  "frequency": 90,
+  "examples": [
+    "田舎",
+    "田",
+    "秋田",
+    "本田",
+    "上田"
+  ],
+  "explanation": {
+    "id": "5691",
+    "text": "田 (đọc là \"ta\") có nghĩa là \"cánh đồng\", chỉ các khu vực trồng trọt, nhất là lúa gạo.  \nVí dụ:  \n- 田んぼ (tanbo): Cánh đồng lúa.  \n- 水田 (suiden): Ruộng nước.  \n- 田植え (taue): Trồng lúa."
+  },
+  "comments": [
+    {
+      "id": "540",
+      "lang": "vi",
+      "content_html": "<p>Hình dáng <strong>cánh đồng</strong></p>",
+      "content_text": "Hình dáng\ncánh đồng",
+      "image_url": "https://jpdictionary.com/upload/images/62977c52e697e.jpg",
+      "image_path": "assets/images/田_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158289",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>田舎 (いなか): vùng quê</p>",
+      "content_text": "JLPT N4\n田舎 (いなか): vùng quê",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "155392",
+      "lang": "vi",
+      "content_html": "<p>Mặt vuông chữ điền</p>",
+      "content_text": "Mặt vuông chữ điền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "kanji": "登",
+  "meta": {
+    "weight": 1818,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ",
+      "ト",
+      "ドウ",
+      "ショウ",
+      "チョウ"
+    ],
+    "kun": [
+      "のぼ.る",
+      "あ.がる"
+    ],
+    "am_han": "ĐĂNG"
+  },
+  "meaning": {
+    "vi": "leo lên, đăng kí",
+    "en": "ascend, climb up"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/登.svg"
+  },
+  "frequency": 566,
+  "examples": [
+    "登録",
+    "登場",
+    "登山",
+    "登校",
+    "登記"
+  ],
+  "explanation": {
+    "id": "5727",
+    "text": "登 (đọc là \"tō\", \"noboru\") có nghĩa là \"leo lên\", \"đăng ký\" để chỉ hành động trèo lên hoặc được đưa lên một vị trí nào đó.\n\nVí dụ:\n- 登山 (tozan): Leo núi, đi bộ đường dài.\n- 登場 (tōjō): Xuất hi"
+  },
+  "comments": [
+    {
+      "id": "155494",
+      "lang": "vi",
+      "content_html": "<p>ĐĂNG KÝ sẽ được BÁT ĐẬU</p>",
+      "content_text": "ĐĂNG KÝ sẽ được BÁT ĐẬU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155495",
+      "lang": "vi",
+      "content_html": "<p>8 hạt đậu đi Đăng kí thi leo núi</p>",
+      "content_text": "8 hạt đậu đi Đăng kí thi leo núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155496",
+      "lang": "vi",
+      "content_html": "<p>lên ăn bát đậu ở hải đăng</p>",
+      "content_text": "lên ăn bát đậu ở hải đăng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

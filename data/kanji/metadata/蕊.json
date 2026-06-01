@@ -1,0 +1,50 @@
+{
+  "kanji": "蕊",
+  "meta": {
+    "weight": 2342,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ズイ"
+    ],
+    "kun": [
+      "しべ"
+    ],
+    "am_han": "NHỊ"
+  },
+  "meaning": {
+    "vi": "nhụy, nhị hoa",
+    "en": "pistil, stamen"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/蕊.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3315",
+    "text": "蕊 (đọc là \"sui\") có nghĩa là \"nhị\" hoặc \"phần nhụy\" của hoa, thường chỉ các bộ phận sinh sản của thực vật.  \nVí dụ:  \n- 蕊 (sui): Nhụy hoa.  \n- 花蕊 (hanasui): Nhụy hoa.  \n- 蕊を持つ (sui o motsu):"
+  },
+  "comments": [
+    {
+      "id": "220575",
+      "lang": "vi",
+      "content_html": "<p>Nhụy hoa là cỏ 3 tim</p>",
+      "content_text": "Nhụy hoa là cỏ 3 tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

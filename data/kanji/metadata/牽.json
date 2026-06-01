@@ -1,0 +1,67 @@
+{
+  "kanji": "牽",
+  "meta": {
+    "weight": 1701,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "ひ.く"
+    ],
+    "am_han": "KHIÊN, KHẢN"
+  },
+  "meaning": {
+    "vi": "kéo, dắt bằng tay",
+    "en": "pull, tug, drag, lead by hand"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/牽.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2146",
+    "text": "牽 (đọc là \"ken\") có nghĩa là \"kéo\", \"dẫn dắt\" để chỉ các hành động liên quan đến việc kéo hoặc dẫn dắt một ai đó hoặc cái gì đó.\n\nVí dụ:\n- 牽引 (ken'in): Kéo, dẫn dắt (như xe cộ).\n- 牽制 (kensei"
+  },
+  "comments": [
+    {
+      "id": "220062",
+      "lang": "vi",
+      "content_html": "<p>dùng sợi chỉ sâu mũicon bò kéo đi</p>",
+      "content_text": "dùng sợi chỉ sâu mũicon bò kéo đi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220063",
+      "lang": "vi",
+      "content_html": "<p>Kiên trong từ kiên cử</p>",
+      "content_text": "Kiên trong từ kiên cử",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

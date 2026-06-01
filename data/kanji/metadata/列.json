@@ -1,0 +1,89 @@
+{
+  "kanji": "列",
+  "meta": {
+    "weight": 316,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レツ",
+      "レ"
+    ],
+    "kun": [],
+    "am_han": "LIỆT"
+  },
+  "meaning": {
+    "vi": "cột",
+    "en": "file, row, rank, tier, column"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/列.svg"
+  },
+  "frequency": 927,
+  "examples": [
+    "列",
+    "列車",
+    "系列",
+    "行列",
+    "配列"
+  ],
+  "explanation": {
+    "id": "8256",
+    "text": "列 (đọc là \"retsu\") có nghĩa là \"dòng\", \"hàng\" để chỉ sự sắp xếp hoặc thứ tự của các đối tượng trong một chiều hướng nào đó.  \nVí dụ:  \n- 列車 (ressha): Tàu hỏa.  \n- 列挙 (rekkyō): Liệt kê, nêu r"
+  },
+  "comments": [
+    {
+      "id": "151986",
+      "lang": "vi",
+      "content_html": "<p>Mấy thằng xấu xa ( ngạt) cầm đao (đao) nằm chết la Liệt thành một hàng.</p>",
+      "content_text": "Mấy thằng xấu xa ( ngạt) cầm đao (đao) nằm chết la Liệt thành một hàng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151987",
+      "lang": "vi",
+      "content_html": "<p>Rút gươm ra để liệt kê vị trí xếp hàng</p>",
+      "content_text": "Rút gươm ra để liệt kê vị trí xếp hàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151988",
+      "lang": "vi",
+      "content_html": "<p>Xương đao nằm la liệt thành hàng</p>",
+      "content_text": "Xương đao nằm la liệt thành hàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

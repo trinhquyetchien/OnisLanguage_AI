@@ -1,0 +1,92 @@
+{
+  "kanji": "等",
+  "meta": {
+    "weight": 1992,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "ひと.しい",
+      "など",
+      "-ら"
+    ],
+    "am_han": "ĐẲNG"
+  },
+  "meaning": {
+    "vi": "như là, bình đẳng",
+    "en": "etc., and so forth, class (first), quality, equal, similar"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/等.svg"
+  },
+  "frequency": 798,
+  "examples": [
+    "等",
+    "平等",
+    "等々",
+    "高等",
+    "彼等"
+  ],
+  "explanation": {
+    "id": "5837",
+    "text": "等 (đọc là \"tō\") có nghĩa là \"các\" hoặc \"vân vân\", thường dùng để chỉ nhóm người hoặc sự vật tương tự nhau. \n\nVí dụ:\n- 等級 (tōkyuu): Cấp bậc, trình độ.\n- 同等 (dōtō): Bình đẳng, tương đương.\n- 等"
+  },
+  "comments": [
+    {
+      "id": "155873",
+      "lang": "vi",
+      "content_html": "<p>Ở Trúc lâm Tự mọi người đều bình Đẳng</p>",
+      "content_text": "Ở Trúc lâm Tự mọi người đều bình Đẳng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155874",
+      "lang": "vi",
+      "content_html": "<p>Chùa nào cũng như chùa nào đốt tre nào chẳng giống nhau vân vân và vân vân</p>",
+      "content_text": "Chùa nào cũng như chùa nào đốt tre nào chẳng giống nhau vân vân và vân vân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155875",
+      "lang": "vi",
+      "content_html": "<p>trúc (竹) mọc trên chùa (寺) đều bằng , bình đẳng (等) với nhau</p>",
+      "content_text": "trúc (竹) mọc trên chùa (寺) đều bằng , bình đẳng (等) với nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

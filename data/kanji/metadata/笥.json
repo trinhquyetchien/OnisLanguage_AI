@@ -1,0 +1,34 @@
+{
+  "kanji": "笥",
+  "meta": {
+    "weight": 1986,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ス",
+      "シ"
+    ],
+    "kun": [
+      "け",
+      "はこ"
+    ],
+    "am_han": "TỨ"
+  },
+  "meaning": {
+    "vi": "hộp ăn trưa, tủ quần áo",
+    "en": "lunch box, clothes chest"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/笥.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4185",
+    "text": "笥 (đọc là \"ki\") có nghĩa là \"hộp đựng\", thường chỉ đến các loại hộp, đặc biệt là dùng để đựng thực phẩm hoặc đồ vật. \n\nVí dụ:\n- 笥飯 (kibanh): Cơm hộp.\n- 笥物 (kimono): Hộp đựng đồ, hộp quà.\n- 笥"
+  },
+  "comments": []
+}

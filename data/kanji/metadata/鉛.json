@@ -1,0 +1,89 @@
+{
+  "kanji": "鉛",
+  "meta": {
+    "weight": 2750,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "なまり"
+    ],
+    "am_han": "DUYÊN"
+  },
+  "meaning": {
+    "vi": "dẫn đầu",
+    "en": "lead"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/鉛.svg"
+  },
+  "frequency": 1710,
+  "examples": [
+    "鉛筆",
+    "鉛",
+    "亜鉛",
+    "色鉛筆"
+  ],
+  "explanation": {
+    "id": "490",
+    "text": "鉛 (đọc là \"en\") có nghĩa là \"chì\", chỉ kim loại mềm, nặng, thường dùng trong sản xuất và chế tạo.  \nVí dụ:  \n- 鉛筆 (enpitsu): Bút chì.  \n- 鉛管 (enkan): Ống chì.  \n- 鉛毒 (endoku): Ngộ độc chì."
+  },
+  "comments": [
+    {
+      "id": "157543",
+      "lang": "vi",
+      "content_html": "<p>cho dù là vàng 金 mà qua tám 八 cái miệng 口 thì cũng thành chì 鉛</p>",
+      "content_text": "cho dù là vàng 金 mà qua tám 八 cái miệng 口 thì cũng thành chì 鉛",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157544",
+      "lang": "vi",
+      "content_html": "<p>c1 Góc Nhìn: bỏ 8 (八) cây Vàng (金) ra để làm Môi (口)<br>==&#62; bị hỏng thế là mất cả CHÌ (鉛 DUYÊN) lẫn chài.<br>c2 Góc Nhìn: Trong Mồm (口) có cái răng Vàng (金) lắp đã 8 năm (八) <br>==&#62; nay xỉn như màu Chì (鉛) ..性..</p>",
+      "content_text": "c1 Góc Nhìn: bỏ 8 (八) cây Vàng (金) ra để làm Môi (口)\n==> bị hỏng thế là mất cả CHÌ (鉛 DUYÊN) lẫn chài.\nc2 Góc Nhìn: Trong Mồm (口) có cái răng Vàng (金) lắp đã 8 năm (八)\n==> nay xỉn như màu Chì (鉛) ..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157545",
+      "lang": "vi",
+      "content_html": "<p>KIM loại bị nghiêm cấm khi PHÁT triển sản phẩm son MÔI đó là Chì</p>",
+      "content_text": "KIM loại bị nghiêm cấm khi PHÁT triển sản phẩm son MÔI đó là Chì",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

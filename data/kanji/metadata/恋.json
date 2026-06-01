@@ -1,0 +1,92 @@
+{
+  "kanji": "恋",
+  "meta": {
+    "weight": 960,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レン"
+    ],
+    "kun": [
+      "こ.う",
+      "こい",
+      "こい.しい"
+    ],
+    "am_han": "LUYẾN"
+  },
+  "meaning": {
+    "vi": "yêu, luyến ái",
+    "en": "romance, in love, yearn for, miss, darling"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/恋.svg"
+  },
+  "frequency": 1296,
+  "examples": [
+    "恋愛",
+    "恋",
+    "恋人",
+    "初恋",
+    "失恋"
+  ],
+  "explanation": {
+    "id": "8271",
+    "text": "恋 (đọc là \"ren\") có nghĩa là \"tình yêu\" để chỉ các cảm xúc và mối quan hệ tình cảm giữa người với người.  \nVí dụ:  \n- 恋人 (koibito): Người yêu, bạn trai/bạn gái.  \n- 恋愛 (ren'ai): Tình yêu, sự"
+  },
+  "comments": [
+    {
+      "id": "153563",
+      "lang": "vi",
+      "content_html": "<p>Cô gái họ DIỆC có TRÁI TIM nhân hậu nên chỉ gặp 1 lần đã lưu LUYẾN</p>",
+      "content_text": "Cô gái họ DIỆC có TRÁI TIM nhân hậu nên chỉ gặp 1 lần đã lưu LUYẾN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153564",
+      "lang": "vi",
+      "content_html": "<p>Lưu Diệc Phi làm trái tim tôi lưu LUYẾN</p>",
+      "content_text": "Lưu Diệc Phi làm trái tim tôi lưu LUYẾN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153565",
+      "lang": "vi",
+      "content_html": "<p>trái tim lưu Luyến như ngọn lửa bùng cháy</p>",
+      "content_text": "trái tim lưu Luyến như ngọn lửa bùng cháy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "kanji": "菖",
+  "meta": {
+    "weight": 2294,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "XƯƠNG"
+  },
+  "meaning": {
+    "vi": "mống mắt",
+    "en": "iris"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/菖.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3904",
+    "text": "菖 (đọc là \"shō\") có nghĩa là \"cỏ thơm\", thường chỉ về loài cỏ hay hoa trong tự nhiên. \n\nVí dụ:\n- 菖蒲 (ayame): Hoa diên vĩ (iris).\n- 菖蒲湯 (shōbutu): Nước tắm hoa diên vĩ, thường được sử dụng để"
+  },
+  "comments": [
+    {
+      "id": "220544",
+      "lang": "vi",
+      "content_html": "<p>Hoa ngày qua ngày lấy về tắm là cây XƯƠNG bồ</p>",
+      "content_text": "Hoa ngày qua ngày lấy về tắm là cây XƯƠNG bồ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

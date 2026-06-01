@@ -1,0 +1,88 @@
+{
+  "kanji": "式",
+  "meta": {
+    "weight": 891,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シキ"
+    ],
+    "kun": [],
+    "am_han": "THỨC"
+  },
+  "meaning": {
+    "vi": "hình thức, công thức",
+    "en": "style, ceremony, rite, function, method, system, form, expression"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/式.svg"
+  },
+  "frequency": 251,
+  "examples": [
+    "式",
+    "株式会社",
+    "株式",
+    "方式",
+    "形式"
+  ],
+  "explanation": {
+    "id": "3244",
+    "text": "式 (đọc là \"shiki\") có nghĩa là \"phương thức\", \"hình thức\" để chỉ các cách thức, quy tắc hoặc nghi thức trong một hoạt động nào đó.  \nVí dụ:  \n- 式典 (shikiten): Lễ nghi, nghi thức.  \n- 数式 (sūs"
+  },
+  "comments": [
+    {
+      "id": "191008",
+      "lang": "vi",
+      "content_html": "<p><strong>nghi thức</strong></p>",
+      "content_text": "nghi thức",
+      "image_url": "https://jpdictionary.com/upload/images/648a8d406b999.jpg",
+      "image_path": "assets/images/式_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "1007",
+      "lang": "vi",
+      "content_html": "<p><strong>Lễ </strong>cưới của cô dâu.</p>",
+      "content_text": "Lễ\ncưới của cô dâu.",
+      "image_url": "https://jpdictionary.com/upload/images/62a0a2c7e8583.jpg",
+      "image_path": "assets/images/式_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153382",
+      "lang": "vi",
+      "content_html": "<p>Nghi Thức gả Công chúa cho Giặc</p>",
+      "content_text": "Nghi Thức gả Công chúa cho Giặc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

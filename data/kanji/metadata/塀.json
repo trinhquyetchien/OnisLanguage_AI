@@ -1,0 +1,85 @@
+{
+  "kanji": "塀",
+  "meta": {
+    "weight": 582,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘイ",
+      "ベイ"
+    ],
+    "kun": [],
+    "am_han": "BIÊN"
+  },
+  "meaning": {
+    "vi": "hàng rào, tường, (kokuji)",
+    "en": "fence, wall, (kokuji)"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/塀.svg"
+  },
+  "frequency": 1991,
+  "examples": [
+    "塀"
+  ],
+  "explanation": {
+    "id": "6993",
+    "text": "塀 (đọc là \"hei\") có nghĩa là \"tường rào\", chỉ các cấu trúc bao quanh nhằm bảo vệ hoặc ngăn chặn.  \nVí dụ:  \n- 塀 (hei): Tường rào.  \n- 塀壁 (heibeki): Tường rào và tường.  \n- 塀の中 (hei no naka):"
+  },
+  "comments": [
+    {
+      "id": "152636",
+      "lang": "vi",
+      "content_html": "<p>biên giới làm bằng đất có giếng và có thây ma</p>",
+      "content_text": "biên giới làm bằng đất có giếng và có thây ma",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152637",
+      "lang": "vi",
+      "content_html": "<p>BIÊN giới hòa BÌNH chia đôi vùng ĐẤT</p>",
+      "content_text": "BIÊN giới hòa BÌNH chia đôi vùng ĐẤT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152638",
+      "lang": "vi",
+      "content_html": "<p>Biên giới đc làm từ Đất, mà trong đất có người chết nên có cương Thi( 尸)và yêu Tinh(并), nên phải làm tường rào bao quanh tụi nó lại</p>",
+      "content_text": "Biên giới đc làm từ Đất, mà trong đất có người chết nên có cương Thi( 尸)và yêu Tinh(并), nên phải làm tường rào bao quanh tụi nó lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

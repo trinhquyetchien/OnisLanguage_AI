@@ -1,0 +1,54 @@
+{
+  "kanji": "釘",
+  "meta": {
+    "weight": 2739,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ",
+      "チョウ"
+    ],
+    "kun": [
+      "くぎ"
+    ],
+    "am_han": "ĐINH"
+  },
+  "meaning": {
+    "vi": "đinh, chốt",
+    "en": "nail, tack, peg"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/釘.svg"
+  },
+  "frequency": 2496,
+  "examples": [
+    "釘",
+    "釘付け"
+  ],
+  "explanation": {
+    "id": "5608",
+    "text": "釘 (đọc là \"dai\" hoặc \"kanzashi\") có nghĩa là \"đinh\" để chỉ các loại vật dụng kim loại dùng để gắn, cố định hoặc treo đồ vật.  \nVí dụ:  \n- 釘抜き (kanzuki): Kìm bẩy đinh.  \n- 釘付け (dai tsuke): Gắ"
+  },
+  "comments": [
+    {
+      "id": "157524",
+      "lang": "vi",
+      "content_html": "<p>cái ĐINH釘 thì được làm từ kim loại 金</p>",
+      "content_text": "cái ĐINH釘 thì được làm từ kim loại 金",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

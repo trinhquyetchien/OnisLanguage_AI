@@ -1,0 +1,93 @@
+{
+  "kanji": "増",
+  "meta": {
+    "weight": 598,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゾウ"
+    ],
+    "kun": [
+      "ま.す",
+      "ま.し",
+      "ふ.える",
+      "ふ.やす"
+    ],
+    "am_han": "TĂNG"
+  },
+  "meaning": {
+    "vi": "tăng, thêm",
+    "en": "increase, add, augment, gain, promote"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/増.svg"
+  },
+  "frequency": 231,
+  "examples": [
+    "増加",
+    "増",
+    "増える",
+    "増大",
+    "増やし"
+  ],
+  "explanation": {
+    "id": "4773",
+    "text": "増 (đọc là \"zō\") có nghĩa là \"tăng\", \"gia tăng\" để chỉ các hành động hoặc quá trình làm cho một cái gì đó nhiều hơn, lớn hơn.\n\nVí dụ:\n- 増加 (zōka): Gia tăng, tăng lên.\n- 増える (fueru): Tăng lên,"
+  },
+  "comments": [
+    {
+      "id": "152666",
+      "lang": "vi",
+      "content_html": "<p>曽：Tằng(そう、そ、ぞう)<br><br>層: Tằng ở nhà nhiều tầng<br>憎：Tằng giận tim dựng đứng lên<br>贈：Tằng được tặng bảo bối<br>増：Tằng mua thêm đất</p>",
+      "content_text": "曽：Tằng(そう、そ、ぞう)\n層: Tằng ở nhà nhiều tầng\n憎：Tằng giận tim dựng đứng lên\n贈：Tằng được tặng bảo bối\n増：Tằng mua thêm đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152667",
+      "lang": "vi",
+      "content_html": "<p>Tăng đất để làm ruộng 1 ngày</p>",
+      "content_text": "Tăng đất để làm ruộng 1 ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152668",
+      "lang": "vi",
+      "content_html": "<p>Trong một ngày ruộng đất tăng giá lên</p>",
+      "content_text": "Trong một ngày ruộng đất tăng giá lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

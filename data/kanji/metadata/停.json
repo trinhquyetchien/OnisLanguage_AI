@@ -1,0 +1,108 @@
+{
+  "kanji": "停",
+  "meta": {
+    "weight": 224,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "と.める",
+      "と.まる"
+    ],
+    "am_han": "ĐÌNH"
+  },
+  "meaning": {
+    "vi": "dừng lại, đình chỉ",
+    "en": "halt, stopping"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/停.svg"
+  },
+  "frequency": 733,
+  "examples": [
+    "停止",
+    "停滞",
+    "調停",
+    "停電",
+    "バス停"
+  ],
+  "explanation": {
+    "id": "5526",
+    "text": "停 (đọc là \"tei\") có nghĩa là \"dừng lại\", chỉ hành động ngừng hoặc tạm ngừng một hoạt động nào đó.  \nVí dụ:  \n- 停車 (teisha): Dừng xe, đỗ xe.  \n- 停止 (teishi): Ngừng lại, dừng lại (thường dùng "
+  },
+  "comments": [
+    {
+      "id": "151749",
+      "lang": "vi",
+      "content_html": "<p>một NGƯỜI (亻) DỪNG lại đứng trước ĐÌNH (亭).<br>một NGƯỜI (亻) CAO (高) lấy ĐINH (丁) che miệng đang DỪNG lại trước ĐÌNH.</p>",
+      "content_text": "một NGƯỜI (亻) DỪNG lại đứng trước ĐÌNH (亭).\nmột NGƯỜI (亻) CAO (高) lấy ĐINH (丁) che miệng đang DỪNG lại trước ĐÌNH.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151750",
+      "lang": "vi",
+      "content_html": "<p>em xinh em đứng (亻)  đầu ĐÌNH (亭). bao xe phải Dừng (停車)</p>",
+      "content_text": "em xinh em đứng (亻)  đầu ĐÌNH (亭). bao xe phải Dừng (停車)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151751",
+      "lang": "vi",
+      "content_html": "<p>高 Cao Nhân (nhân đứng) dùng Đinh 丁 đóng Đình 亭 ==&#62; 停</p>",
+      "content_text": "高 Cao Nhân (nhân đứng) dùng Đinh 丁 đóng Đình 亭 ==> 停",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222104",
+      "lang": "vi",
+      "content_html": "<p>ban đầu là <strong>亭</strong> (<strong>đình</strong>) – chỉ nơi nghỉ chân của người xưa, thời <strong>Tần–Hán</strong>, chữ <strong>停</strong> xuất hiện bằng cách <strong>thêm bộ 亻 vào chữ 亭</strong></p><p>→ nghĩa <strong>người dừng lại, nghỉ tạm ở đình</strong></p>",
+      "content_text": "ban đầu là\n亭\n(\nđình\n) – chỉ nơi nghỉ chân của người xưa, thời\nTần–Hán\n, chữ\n停\nxuất hiện bằng cách\nthêm bộ 亻 vào chữ 亭\n→ nghĩa\nngười dừng lại, nghỉ tạm ở đình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

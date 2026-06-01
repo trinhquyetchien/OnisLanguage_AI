@@ -1,0 +1,89 @@
+{
+  "kanji": "溢",
+  "meta": {
+    "weight": 1595,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イツ"
+    ],
+    "kun": [
+      "こぼ.れる",
+      "あふ.れる",
+      "み.ちる"
+    ],
+    "am_han": "DẬT"
+  },
+  "meaning": {
+    "vi": "tràn, ngập",
+    "en": "overflow, inundate, spill"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/溢.svg"
+  },
+  "frequency": 2405,
+  "examples": [
+    "溢れ",
+    "溢れる"
+  ],
+  "explanation": {
+    "id": "218",
+    "text": "溢 (đọc là \"itsu\" hoặc \"yoo\") có nghĩa là \"tràn\", \"dâng lên\" để chỉ trạng thái nước hoặc chất lỏng tràn ra ngoài, hoặc cảm xúc dâng trào.\n\nVí dụ:\n- 溢れる (afureru): Tràn ngập, đầy ắp.\n- 溢れ出る (a"
+  },
+  "comments": [
+    {
+      "id": "155028",
+      "lang": "vi",
+      "content_html": "<p>1 cái ĐĨA đựng 818 loại thức ăn. nên NƯỚC tràn ra ngoài...</p>",
+      "content_text": "1 cái ĐĨA đựng 818 loại thức ăn. nên NƯỚC tràn ra ngoài...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155029",
+      "lang": "vi",
+      "content_html": "<p>lợi ÍCH của NƯỚC luôn ngập tràn trong cuộc sống.</p>",
+      "content_text": "lợi ÍCH của NƯỚC luôn ngập tràn trong cuộc sống.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155030",
+      "lang": "vi",
+      "content_html": "<p>Đặt nhiều thức ăn lên đĩa quá nên bị tràn ra đổ ra</p>",
+      "content_text": "Đặt nhiều thức ăn lên đĩa quá nên bị tràn ra đổ ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

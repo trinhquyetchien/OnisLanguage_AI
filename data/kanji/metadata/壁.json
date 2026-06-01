@@ -1,0 +1,90 @@
+{
+  "kanji": "壁",
+  "meta": {
+    "weight": 603,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘキ"
+    ],
+    "kun": [
+      "かべ"
+    ],
+    "am_han": "BÍCH"
+  },
+  "meaning": {
+    "vi": "tường, lớp lót (dạ dày), hàng rào",
+    "en": "wall, lining (stomach), fence"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/壁.svg"
+  },
+  "frequency": 1037,
+  "examples": [
+    "壁",
+    "壁紙",
+    "外壁",
+    "障壁",
+    "壁画"
+  ],
+  "explanation": {
+    "id": "7029",
+    "text": "壁 (đọc là \"kabe\" hoặc \"heki\") có nghĩa là \"bức tường\", chỉ các cấu trúc hoặc vật thể ngăn cách không gian bên trong và bên ngoài.  \nVí dụ:  \n- 壁画 (hekiga): Tranh tường.  \n- 壁紙 (kabe-gami): G"
+  },
+  "comments": [
+    {
+      "id": "152678",
+      "lang": "vi",
+      "content_html": "<p>Tường đc xây trên đất với cửa miệng đời bao cay đắng mà ra</p>",
+      "content_text": "Tường đc xây trên đất với cửa miệng đời bao cay đắng mà ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152679",
+      "lang": "vi",
+      "content_html": "<p>辛 TÂN ( cay ) .<br>辟 TÍCH ( miệng đơ lại như xác chết khi ăn cay , đúng là vô TÍCH sự ) .<br>chỗ đất vô TÍCH sự cứng như ngọc BÍCH thì chỉ đắp TƯỜNG thành được thôi , không trồng trọt nổi</p>",
+      "content_text": "辛 TÂN ( cay ) .\n辟 TÍCH ( miệng đơ lại như xác chết khi ăn cay , đúng là vô TÍCH sự ) .\nchỗ đất vô TÍCH sự cứng như ngọc BÍCH thì chỉ đắp TƯỜNG thành được thôi , không trồng trọt nổi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152680",
+      "lang": "vi",
+      "content_html": "<p>Tường của Lầu ngưng  Bích được xây từ đất và đá cay đắng</p>",
+      "content_text": "Tường của Lầu ngưng  Bích được xây từ đất và đá cay đắng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

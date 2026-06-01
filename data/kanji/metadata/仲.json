@@ -1,0 +1,90 @@
+{
+  "kanji": "仲",
+  "meta": {
+    "weight": 148,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "なか"
+    ],
+    "am_han": "TRỌNG"
+  },
+  "meaning": {
+    "vi": "mối quan hệ",
+    "en": "go-between, relationship"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/仲.svg"
+  },
+  "frequency": 919,
+  "examples": [
+    "仲間",
+    "仲",
+    "仲良く",
+    "仲裁",
+    "仲介"
+  ],
+  "explanation": {
+    "id": "5271",
+    "text": "仲 (đọc là \"naka\") có nghĩa là \"mối quan hệ\", \"bạn bè\" để chỉ các mối quan hệ thân thiết hoặc sự hòa hợp giữa con người.  \nVí dụ:  \n- 仲間 (nakama): Bạn bè, đồng đội.  \n- 仲良し (nakayoshi): Người"
+  },
+  "comments": [
+    {
+      "id": "151562",
+      "lang": "vi",
+      "content_html": "<p>Người đứng giữa là người quan trọng</p>",
+      "content_text": "Người đứng giữa là người quan trọng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151563",
+      "lang": "vi",
+      "content_html": "<p>Người亻 như bác trọng仲 rất giỏi trong 中 quan hệ</p>",
+      "content_text": "Người亻 như bác trọng仲 rất giỏi trong 中 quan hệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151564",
+      "lang": "vi",
+      "content_html": "<p>trọng tài là người đứng giữa 2 đội bóng</p>",
+      "content_text": "trọng tài là người đứng giữa 2 đội bóng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

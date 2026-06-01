@@ -1,0 +1,91 @@
+{
+  "kanji": "棚",
+  "meta": {
+    "weight": 1376,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "たな",
+      "-だな"
+    ],
+    "am_han": "BẰNG"
+  },
+  "meaning": {
+    "vi": "kệ, gờ, giá đỡ, gắn kết, lớp phủ, lưới mắt cáo",
+    "en": "shelf, ledge, rack, mount, mantle, trellis"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/棚.svg"
+  },
+  "frequency": 1594,
+  "examples": [
+    "棚",
+    "本棚",
+    "棚田",
+    "書棚",
+    "棚上げ"
+  ],
+  "explanation": {
+    "id": "5096",
+    "text": "棚 (đọc là \"tana\") có nghĩa là \"kệ\", \"giá\" để chỉ các vật dụng dùng để đặt đồ, thường được sử dụng trong không gian lưu trữ hoặc trang trí.  \nVí dụ:  \n- 棚卸し (tanaoroshi): Kiểm kê hàng hóa.  \n"
+  },
+  "comments": [
+    {
+      "id": "154548",
+      "lang": "vi",
+      "content_html": "<p>làm cái giá bằng gỗ mất 2 tháng</p>",
+      "content_text": "làm cái giá bằng gỗ mất 2 tháng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154549",
+      "lang": "vi",
+      "content_html": "<p>2 cái GIÁ Gỗ BẰNG nhau</p>",
+      "content_text": "2 cái GIÁ Gỗ BẰNG nhau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154550",
+      "lang": "vi",
+      "content_html": "<p>2 cái giá hình cung trăng 朋 cao BẰNG  nhau được làm từ  gỗ 木</p>",
+      "content_text": "2 cái giá hình cung trăng 朋 cao BẰNG  nhau được làm từ  gỗ 木",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

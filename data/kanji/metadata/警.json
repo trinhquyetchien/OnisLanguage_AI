@@ -1,0 +1,90 @@
+{
+  "kanji": "警",
+  "meta": {
+    "weight": 2528,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ"
+    ],
+    "kun": [
+      "いまし.める"
+    ],
+    "am_han": "CẢNH"
+  },
+  "meaning": {
+    "vi": "cảnh sát, cảnh báo",
+    "en": "admonish, commandment"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/警.svg"
+  },
+  "frequency": 366,
+  "examples": [
+    "警察",
+    "警告",
+    "警備",
+    "警戒",
+    "警察官"
+  ],
+  "explanation": {
+    "id": "2028",
+    "text": "警 (đọc là \"kei\") có nghĩa là \"cảnh sát\", \"cảnh báo\" để chỉ các hành động liên quan đến việc bảo vệ, giám sát hoặc thông báo về nguy hiểm.\n\nVí dụ:\n- 警察 (keisatsu): Cảnh sát.\n- 警告 (keikoku): C"
+  },
+  "comments": [
+    {
+      "id": "157009",
+      "lang": "vi",
+      "content_html": "<p>Cảnh sát là nơi để báo mỗi khi thấy đánh nhau và chơi cỏ lạ :’))</p>",
+      "content_text": "Cảnh sát là nơi để báo mỗi khi thấy đánh nhau và chơi cỏ lạ :’))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157010",
+      "lang": "vi",
+      "content_html": "<p>敬 KÍNH cẩn phát 言 NGÔN, NGÂN = 警CẢNH けいかん<br>苟CẨU thả đập cho phát = 敬 KÍNH nể luôn<br>艹 THẢO 句 CÚ　苟 - CẨU　thả<br>cỏ dùng lên câu cú là cẩu thả</p>",
+      "content_text": "敬 KÍNH cẩn phát 言 NGÔN, NGÂN = 警CẢNH けいかん\n苟CẨU thả đập cho phát = 敬 KÍNH nể luôn\n艹 THẢO 句 CÚ　苟 - CẨU　thả\ncỏ dùng lên câu cú là cẩu thả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157011",
+      "lang": "vi",
+      "content_html": "<p>cảnh báo bằng ngôn từ kính trọng</p>",
+      "content_text": "cảnh báo bằng ngôn từ kính trọng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

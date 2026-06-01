@@ -1,0 +1,96 @@
+{
+  "kanji": "早",
+  "meta": {
+    "weight": 1213,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "サッ"
+    ],
+    "kun": [
+      "はや.い",
+      "はや",
+      "はや-",
+      "はや.まる",
+      "はや.める",
+      "さ-"
+    ],
+    "am_han": "TẢO"
+  },
+  "meaning": {
+    "vi": "sớm, tảo hôn",
+    "en": "early, fast"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/早.svg"
+  },
+  "frequency": 402,
+  "examples": [
+    "早く",
+    "早い",
+    "早速",
+    "早",
+    "早め"
+  ],
+  "explanation": {
+    "id": "4718",
+    "text": "早 (đọc là \"sō\" hoặc \"hayai\") có nghĩa là \"sớm\", \"nhanh\" để chỉ thời gian hoặc tốc độ.  \nVí dụ:  \n- 早起き (hayaoki): Dậy sớm.  \n- 早い (hayai): Sớm, nhanh.  \n- 早朝 (sōchō): Buổi sáng sớm."
+  },
+  "comments": [
+    {
+      "id": "191047",
+      "lang": "vi",
+      "content_html": "<p><strong>sớm</strong></p>",
+      "content_text": "sớm",
+      "image_url": "https://jpdictionary.com/upload/images/648a91e10f8b8.jpg",
+      "image_path": "assets/images/早_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "595",
+      "lang": "vi",
+      "content_html": "<p>Việc dậy lúc 10 (十) giờ vào ngày chủ nhật (日) là quá <strong>sớm</strong>.</p>",
+      "content_text": "Việc dậy lúc 10 (十) giờ vào ngày chủ nhật (日) là quá\nsớm\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629783084ee69.jpg",
+      "image_path": "assets/images/早_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154186",
+      "lang": "vi",
+      "content_html": "<p>Ngày phải dậy trước 10h là sớm</p>",
+      "content_text": "Ngày phải dậy trước 10h là sớm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

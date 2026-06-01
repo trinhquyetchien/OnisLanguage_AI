@@ -1,0 +1,85 @@
+{
+  "kanji": "棺",
+  "meta": {
+    "weight": 1380,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [],
+    "am_han": "QUAN, QUÁN"
+  },
+  "meaning": {
+    "vi": "quan tài",
+    "en": "coffin, casket"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/棺.svg"
+  },
+  "frequency": 2161,
+  "examples": [
+    "棺",
+    "棺桶"
+  ],
+  "explanation": {
+    "id": "1124",
+    "text": "棺 (đọc là \"kan\") có nghĩa là \"quan tài\", để chỉ vật dùng để chứa xác chết.  \nVí dụ:  \n- 棺桶 (kantō): Quan tài.  \n- 骨棺 (kokkan): Quan tài bằng xương.  \n- 棺材 (kanzai): Vật liệu làm quan tài."
+  },
+  "comments": [
+    {
+      "id": "154557",
+      "lang": "vi",
+      "content_html": "<p>Quan chết đi cũng vào hòm gỗ quan tài</p>",
+      "content_text": "Quan chết đi cũng vào hòm gỗ quan tài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154558",
+      "lang": "vi",
+      "content_html": "<p>QUAN tài của Quan làm bằng Gỗ</p>",
+      "content_text": "QUAN tài của Quan làm bằng Gỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154559",
+      "lang": "vi",
+      "content_html": "<p>cây mà làm Quan thì chỉ có quan tài :))</p>",
+      "content_text": "cây mà làm Quan thì chỉ có quan tài :))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

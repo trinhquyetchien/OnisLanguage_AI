@@ -1,0 +1,91 @@
+{
+  "kanji": "寛",
+  "meta": {
+    "weight": 740,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "くつろ.ぐ",
+      "ひろ.い",
+      "ゆる.やか"
+    ],
+    "am_han": "KHOAN"
+  },
+  "meaning": {
+    "vi": "khoan dung, khoan hồng, rộng lượng, thư giãn, cảm thấy như ở nhà, thoải mái, rộng rãi",
+    "en": "tolerant, leniency, generosity, relax, feel at home, be at ease, broadminded"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/寛.svg"
+  },
+  "frequency": 1377,
+  "examples": [
+    "寛",
+    "寛容",
+    "寛大",
+    "寛仁"
+  ],
+  "explanation": {
+    "id": "1093",
+    "text": "寛 (đọc là \"kan\") có nghĩa là \"khoan dung\", \"hào phóng\" để chỉ sự rộng lượng và khả năng tha thứ cho người khác.  \nVí dụ:  \n- 寛容 (kan'yō): Khoan dung, độ lượng.  \n- 寛大 (kan'dai): Hào phóng, r"
+  },
+  "comments": [
+    {
+      "id": "153007",
+      "lang": "vi",
+      "content_html": "<p>Xem hoa trong nhà thật là khoan khoái</p>",
+      "content_text": "Xem hoa trong nhà thật là khoan khoái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153008",
+      "lang": "vi",
+      "content_html": "<p>Topic : Nhìn thấy chồng dắt gái bán hoa về nhà, có nên khoan dung?</p>",
+      "content_text": "Topic : Nhìn thấy chồng dắt gái bán hoa về nhà, có nên khoan dung?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153009",
+      "lang": "vi",
+      "content_html": "<p>Ngắm Hoa trong Nhà thật KHOAN khoái</p>",
+      "content_text": "Ngắm Hoa trong Nhà thật KHOAN khoái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

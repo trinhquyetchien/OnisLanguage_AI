@@ -1,0 +1,91 @@
+{
+  "kanji": "仕",
+  "meta": {
+    "weight": 139,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ",
+      "ジ"
+    ],
+    "kun": [
+      "つか.える"
+    ],
+    "am_han": "SĨ"
+  },
+  "meaning": {
+    "vi": "làm việc",
+    "en": "attend, doing, official, serve"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/仕.svg"
+  },
+  "frequency": 439,
+  "examples": [
+    "仕事",
+    "仕方",
+    "仕組み",
+    "仕様",
+    "仕掛け"
+  ],
+  "explanation": {
+    "id": "3038",
+    "text": "仕 (đọc là \"shi\") có nghĩa là \"làm việc\" hoặc \"hành sự\", chỉ các hoạt động liên quan đến công việc và phục vụ.  \nVí dụ:  \n- 仕方 (shikata): Cách làm, phương pháp.  \n- 仕える (tsukaeru): Phục vụ, l"
+  },
+  "comments": [
+    {
+      "id": "36885",
+      "lang": "vi",
+      "content_html": "<p>Võ sĩ (士)<strong> làm việc</strong> cho ông chủ.</p>",
+      "content_text": "Võ sĩ (士)\nlàm việc\ncho ông chủ.",
+      "image_url": "https://jpdictionary.com/upload/images/62ade001eaa05.jpg",
+      "image_path": "assets/images/仕_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151535",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: Chiến Sĩ (士) đang Đứng (亻)<br>==&#62; Để làm Việc (仕) cao cả, là bảo vệ Tổ Quốc.<br>..性..</p>",
+      "content_text": "Góc Nhìn: Chiến Sĩ (士) đang Đứng (亻)\n==> Để làm Việc (仕) cao cả, là bảo vệ Tổ Quốc.\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158551",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>仕事 (しごと): công việc</p><p>仕方 (しかた): cách làm, phương pháp</p>",
+      "content_text": "JLPT N4\n仕事 (しごと): công việc\n仕方 (しかた): cách làm, phương pháp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

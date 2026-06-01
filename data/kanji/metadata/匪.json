@@ -1,0 +1,51 @@
+{
+  "kanji": "匪",
+  "meta": {
+    "weight": 379,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "あら.ず",
+      "かたみ"
+    ],
+    "am_han": "PHỈ"
+  },
+  "meaning": {
+    "vi": "phủ định, kẻ ác",
+    "en": "negation, wicked person"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/匪.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6527",
+    "text": "匪 (đọc là \"hi\") có nghĩa là \"cướp\", \"băng đảng\" để chỉ những hoạt động phi pháp, đặc biệt liên quan đến cướp bóc hoặc tội phạm.\n\nVí dụ:\n- 匪賊 (hizoku): Cướp biển, băng nhóm cướp.\n- 匪行為 (hihik"
+  },
+  "comments": [
+    {
+      "id": "219029",
+      "lang": "vi",
+      "content_html": "<p>kẻ trộm làm điều sai trái nên thường trốn trong tủ đồ</p>",
+      "content_text": "kẻ trộm làm điều sai trái nên thường trốn trong tủ đồ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

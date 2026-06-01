@@ -1,0 +1,87 @@
+{
+  "kanji": "駒",
+  "meta": {
+    "weight": 2952,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ク"
+    ],
+    "kun": [
+      "こま"
+    ],
+    "am_han": "CÂU"
+  },
+  "meaning": {
+    "vi": "ngựa, ngựa con",
+    "en": "pony, horse, colt"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/駒.svg"
+  },
+  "frequency": 1452,
+  "examples": [
+    "駒",
+    "駒場"
+  ],
+  "explanation": {
+    "id": "1836",
+    "text": "駒 (đọc là \"koma\") có nghĩa là \"ngựa con\", \"đoản mã\" chỉ những con ngựa nhỏ hoặc biểu thị một phần của trò chơi cờ, đặc biệt là cờ shogi.\nVí dụ:\n- 駒鳥 (komadori): Chim sẻ (có hình dạng giống n"
+  },
+  "comments": [
+    {
+      "id": "157989",
+      "lang": "vi",
+      "content_html": "<p>ngựa rất Cú vì bị nói Câu \"ngựa non háu đá có ngày đứt cương\"</p>",
+      "content_text": "ngựa rất Cú vì bị nói Câu \"ngựa non háu đá có ngày đứt cương\"",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157990",
+      "lang": "vi",
+      "content_html": "<p>ngựa non dễ mắc câu</p>",
+      "content_text": "ngựa non dễ mắc câu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157991",
+      "lang": "vi",
+      "content_html": "<p>[Ngựa non = Ngựa con = trẻ trâu ] con Ngựa non (馬)hay Câu (句) Cú = Trẻ trâu thì hay câu cú</p>",
+      "content_text": "[Ngựa non = Ngựa con = trẻ trâu ] con Ngựa non (馬)hay Câu (句) Cú = Trẻ trâu thì hay câu cú",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

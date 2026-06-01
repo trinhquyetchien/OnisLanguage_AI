@@ -1,0 +1,52 @@
+{
+  "kanji": "楊",
+  "meta": {
+    "weight": 1391,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "やなぎ"
+    ],
+    "am_han": "DƯƠNG"
+  },
+  "meaning": {
+    "vi": "cây liễu",
+    "en": "willow"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/楊.svg"
+  },
+  "frequency": 1815,
+  "examples": [
+    "楊"
+  ],
+  "explanation": {
+    "id": "7866",
+    "text": "楊 (đọc là \"yō\" hoặc \"yang\") có nghĩa là \"cây dương\" hoặc chỉ về các loài cây thuộc chi Salix, thường được liên kết với hình ảnh của sự tươi mát và sức sống. \n\nVí dụ:\n- 楊樹 (yōju): Cây dương.\n"
+  },
+  "comments": [
+    {
+      "id": "154573",
+      "lang": "vi",
+      "content_html": "<p>Cây bạch DƯƠNG hấp thụ ánh mặt trời thường lấy về làm tăm</p>",
+      "content_text": "Cây bạch DƯƠNG hấp thụ ánh mặt trời thường lấy về làm tăm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

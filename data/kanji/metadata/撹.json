@@ -1,0 +1,51 @@
+{
+  "kanji": "撹",
+  "meta": {
+    "weight": 1159,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク",
+      "コウ"
+    ],
+    "kun": [
+      "みだ.す"
+    ],
+    "am_han": "GIÁC"
+  },
+  "meaning": {
+    "vi": "làm phiền, bối rối",
+    "en": "disturb, throw into confusion"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/撹.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "897",
+    "text": "撹 (đọc là \"kaku\") có nghĩa là \"khuấy\", \"làm rối\" để chỉ các hành động liên quan đến việc khuấy động hoặc làm xáo trộn một cái gì đó.  \nVí dụ:  \n- 撹拌 (kakuban): Khuấy, trộn đều.  \n- 撹乱 (kakur"
+  },
+  "comments": [
+    {
+      "id": "219666",
+      "lang": "vi",
+      "content_html": "<p>Cảm giác oto đi vào giao lộ</p>",
+      "content_text": "Cảm giác oto đi vào giao lộ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

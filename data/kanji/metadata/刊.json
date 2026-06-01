@@ -1,0 +1,105 @@
+{
+  "kanji": "刊",
+  "meta": {
+    "weight": 314,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [],
+    "am_han": "SAN"
+  },
+  "meaning": {
+    "vi": "xuất bản",
+    "en": "publish, carve, engrave"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/刊.svg"
+  },
+  "frequency": 855,
+  "examples": [
+    "週刊",
+    "刊行",
+    "朝刊",
+    "新刊",
+    "刊"
+  ],
+  "explanation": {
+    "id": "1066",
+    "text": "刊 (đọc là \"kan\") có nghĩa là \"xuất bản\", \"in ấn\" để chỉ các hành động liên quan đến việc phát hành sách báo hoặc tài liệu.\n\nVí dụ:\n- 刊行 (kankō): Xuất bản, phát hành.\n- 新聞刊 (shinbunkan): Bản "
+  },
+  "comments": [
+    {
+      "id": "190735",
+      "lang": "vi",
+      "content_html": "<p>Dùng dao khô để cắt tập San</p>",
+      "content_text": "Dùng dao khô để cắt tập San",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "151980",
+      "lang": "vi",
+      "content_html": "<p>Có hẳn quyển tập San về Can Ri</p>",
+      "content_text": "Có hẳn quyển tập San về Can Ri",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151981",
+      "lang": "vi",
+      "content_html": "<p>Làm khô dao để cắt bản báo</p>",
+      "content_text": "Làm khô dao để cắt bản báo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151982",
+      "lang": "vi",
+      "content_html": "<p>Cầm đao chơi khô máu rồi lên báo triều san ( báo buổi sáng) ( 朝刊 )</p>",
+      "content_text": "Cầm đao chơi khô máu rồi lên báo triều san ( báo buổi sáng) ( 朝刊 )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

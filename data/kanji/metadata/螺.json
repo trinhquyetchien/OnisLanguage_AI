@@ -1,0 +1,68 @@
+{
+  "kanji": "螺",
+  "meta": {
+    "weight": 2397,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ラ"
+    ],
+    "kun": [
+      "にし",
+      "にな"
+    ],
+    "am_han": "LOA"
+  },
+  "meaning": {
+    "vi": "nhuyễn thể nước ngọt nhỏ, ăn được, xoắn ốc",
+    "en": "small, edible, helical fresh-water mollusk"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/螺.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7940",
+    "text": "螺 (đọc là \"ra\") có nghĩa là \"ốc\" hoặc \"vỏ ốc\", thường chỉ các loại động vật có vỏ xoắn ốc. \n\nVí dụ:\n- 螺旋 (rasen): Hình xoắn ốc.\n- 螺貝 (rabai): Vỏ ốc, sò.\n- 螺子 (raji): Đinh ốc, vít."
+  },
+  "comments": [
+    {
+      "id": "220625",
+      "lang": "vi",
+      "content_html": "<p>Lấy cảm hứng từ truyện Trạng Tí:<br>Bắt con KIÊN (sâu bọ) trên ĐỒNG cột SỢI CHỈ , bôi mật qua LOA ở bên dầu bên kia ốc, để nó luồn chỉ chạy XOẮN ỐC .</p>",
+      "content_text": "Lấy cảm hứng từ truyện Trạng Tí:\nBắt con KIÊN (sâu bọ) trên ĐỒNG cột SỢI CHỈ , bôi mật qua LOA ở bên dầu bên kia ốc, để nó luồn chỉ chạy XOẮN ỐC .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220626",
+      "lang": "vi",
+      "content_html": "<p>con sâu tích lũy lâu dần sẽ thành con ốc bươu</p>",
+      "content_text": "con sâu tích lũy lâu dần sẽ thành con ốc bươu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

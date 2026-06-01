@@ -1,0 +1,87 @@
+{
+  "kanji": "婿",
+  "meta": {
+    "weight": 682,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ"
+    ],
+    "kun": [
+      "むこ"
+    ],
+    "am_han": "TẾ, RỂ"
+  },
+  "meaning": {
+    "vi": "chàng rể, con rể",
+    "en": "bridegroom, son-in-law"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/婿.svg"
+  },
+  "frequency": 2099,
+  "examples": [
+    "婿",
+    "花婿"
+  ],
+  "explanation": {
+    "id": "7535",
+    "text": "婿 (đọc là \"muko\") có nghĩa là \"rể\" để chỉ người chồng của con gái trong gia đình. \n\nVí dụ:\n- 婿入り (mukiri): Lễ cưới nơi chú rể vào sống cùng nhà vợ.\n- 婿養子 (mukoyoushi): Con rể được nhận làm c"
+  },
+  "comments": [
+    {
+      "id": "152864",
+      "lang": "vi",
+      "content_html": "<p>con rể chân bước lên tận mặt trăng để lấy con gái tôi</p>",
+      "content_text": "con rể chân bước lên tận mặt trăng để lấy con gái tôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152865",
+      "lang": "vi",
+      "content_html": "<p>Cô gái đã định tháng lấy chú rễ</p>",
+      "content_text": "Cô gái đã định tháng lấy chú rễ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152866",
+      "lang": "vi",
+      "content_html": "<p>con rể dự định thịt cô gái vào đêm trăng sáng</p>",
+      "content_text": "con rể dự định thịt cô gái vào đêm trăng sáng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

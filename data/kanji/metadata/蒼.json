@@ -1,0 +1,72 @@
+{
+  "kanji": "蒼",
+  "meta": {
+    "weight": 2325,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "あお.い"
+    ],
+    "am_han": "THƯƠNG, THƯỞNG"
+  },
+  "meaning": {
+    "vi": "xanh lam, nhợt nhạt",
+    "en": "blue, pale"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/蒼.svg"
+  },
+  "frequency": 2276,
+  "examples": [
+    "蒼",
+    "蒼い",
+    "鬱蒼",
+    "蒼白"
+  ],
+  "explanation": {
+    "id": "4753",
+    "text": "蒼 (đọc là \"sou\" hoặc \"aoi\") có nghĩa là \"xanh\", thường chỉ màu xanh lam hoặc xanh dương, cũng có thể biểu thị sự già cỗi hay cổ xưa.\n\nVí dụ:\n- 蒼穹 (soukyuu): Bầu trời xanh.\n- 蒼い (aoi): Màu xa"
+  },
+  "comments": [
+    {
+      "id": "156584",
+      "lang": "vi",
+      "content_html": "<p>Cỏ xanh leo đầy trên nóc nhà kho của THƯƠNG nhân</p>",
+      "content_text": "Cỏ xanh leo đầy trên nóc nhà kho của THƯƠNG nhân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156585",
+      "lang": "vi",
+      "content_html": "<p>Nhà kho 倉 của thương nhân tích trữ cỏ xanh</p>",
+      "content_text": "Nhà kho 倉 của thương nhân tích trữ cỏ xanh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

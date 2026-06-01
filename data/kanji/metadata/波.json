@@ -1,0 +1,90 @@
+{
+  "kanji": "波",
+  "meta": {
+    "weight": 1519,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハ"
+    ],
+    "kun": [
+      "なみ"
+    ],
+    "am_han": "BA"
+  },
+  "meaning": {
+    "vi": "sóng, phong ba",
+    "en": "waves, billows, Poland"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/波.svg"
+  },
+  "frequency": 740,
+  "examples": [
+    "波",
+    "電波",
+    "周波数",
+    "津波",
+    "波動"
+  ],
+  "explanation": {
+    "id": "6229",
+    "text": "波 (đọc là \"ha\") có nghĩa là \"sóng\" để chỉ các loại sóng trong nước, âm thanh hoặc hình thức di chuyển.  \nVí dụ:  \n- 波浪 (harō): Sóng lớn, sóng biển.  \n- 波動 (hadō): Sóng động, dao động.  \n- 波紋"
+  },
+  "comments": [
+    {
+      "id": "154841",
+      "lang": "vi",
+      "content_html": "<p>SÓNG vỗ BA giọt nước dính trên DA.</p>",
+      "content_text": "SÓNG vỗ BA giọt nước dính trên DA.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154842",
+      "lang": "vi",
+      "content_html": "<p>Nước vỗ vào da tạo thành sóng</p>",
+      "content_text": "Nước vỗ vào da tạo thành sóng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154843",
+      "lang": "vi",
+      "content_html": "<p>sóng NƯỚC chạm vào DA mà ngỡ phong BA</p>",
+      "content_text": "sóng NƯỚC chạm vào DA mà ngỡ phong BA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "半",
+  "meta": {
+    "weight": 388,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン"
+    ],
+    "kun": [
+      "なか.ば"
+    ],
+    "am_han": "BÁN"
+  },
+  "meaning": {
+    "vi": "một nửa",
+    "en": "half, middle, odd number, semi-, part-"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/半.svg"
+  },
+  "frequency": 224,
+  "examples": [
+    "半",
+    "半分",
+    "後半",
+    "時半",
+    "前半"
+  ],
+  "explanation": {
+    "id": "6441",
+    "text": "半 (đọc là \"han\") có nghĩa là \"nửa\", \"một nửa\" để chỉ sự phân chia hoặc một phần trong tổng thể.\n\nVí dụ:\n- 半分 (hanbun): Một nửa.\n- 半年 (hantanen): Nửa năm.\n- 半径 (hankei): Bán kính."
+  },
+  "comments": [
+    {
+      "id": "501",
+      "lang": "vi",
+      "content_html": "<p>Hãy <strong>cắt 3 đường</strong> ra<strong> làm đôi</strong>.<br>Ủa, chỉ cắt <strong>đường đầu tiên</strong> thôi.</p>",
+      "content_text": "Hãy\ncắt 3 đường\nra\nlàm đôi\n.\nỦa, chỉ cắt\nđường đầu tiên\nthôi.",
+      "image_url": "https://jpdictionary.com/upload/images/6297659be7605.jpg",
+      "image_path": "assets/images/半_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152165",
+      "lang": "vi",
+      "content_html": "<p>chặt 3 cái que ra làm đôi, nhưng chỉ có 1 đoạn bị đứt!</p>",
+      "content_text": "chặt 3 cái que ra làm đôi, nhưng chỉ có 1 đoạn bị đứt!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158432",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>半 (はん): một nửa<br>半分 (はんぷん): nửa phút</p>",
+      "content_text": "JLPT N5\n半 (はん): một nửa\n半分 (はんぷん): nửa phút",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

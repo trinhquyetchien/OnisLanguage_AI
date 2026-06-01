@@ -1,0 +1,69 @@
+{
+  "kanji": "煽",
+  "meta": {
+    "weight": 1668,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "あお.る",
+      "おだ.てる",
+      "おこ.る"
+    ],
+    "am_han": "PHIẾN"
+  },
+  "meaning": {
+    "vi": "quạt, đập, xúi giục, kích động, tăng cường, nuốt chửng",
+    "en": "fan, flap, instigate, agitate, bolster up, gulp down"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/煽.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4525",
+    "text": "煽 (đọc là \"sen\") có nghĩa là \"thổi\", \"khuyến khích\" để chỉ các hành động như kích thích, thôi thúc hoặc tạo ra cảm xúc mạnh mẽ.  \nVí dụ:  \n- 煽動 (sendō): Kích động, khơi dậy.  \n- 煽る (sawaru):"
+  },
+  "comments": [
+    {
+      "id": "220028",
+      "lang": "vi",
+      "content_html": "<p>QUẠT (cái cánh to như cái cửa (hình dạng)) ba tiêu của Thiết PHIẾN công chúa thổi bùng (tắt) HOẢ diệm sơn</p>",
+      "content_text": "QUẠT (cái cánh to như cái cửa (hình dạng)) ba tiêu của Thiết PHIẾN công chúa thổi bùng (tắt) HOẢ diệm sơn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220029",
+      "lang": "vi",
+      "content_html": "<p>Phiến quân dùng quạt để dập lửa.</p>",
+      "content_text": "Phiến quân dùng quạt để dập lửa.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "kanji": "朔",
+  "meta": {
+    "weight": 1271,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サク"
+    ],
+    "kun": [
+      "ついたち"
+    ],
+    "am_han": "SÓC"
+  },
+  "meaning": {
+    "vi": "kết hợp (thiên văn học), ngày đầu tiên của tháng, phía bắc",
+    "en": "conjunction (astronomy), first day of month, north"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/朔.svg"
+  },
+  "frequency": 2318,
+  "examples": [
+    "朔"
+  ],
+  "explanation": {
+    "id": "2897",
+    "text": "朔 (đọc là \"saku\" hoặc \"hatsu\") có nghĩa là \"trăng mới\" hoặc \"tháng đầu tiên\" trong lịch âm, thường chỉ thời điểm bắt đầu một tháng âm lịch. \n\nVí dụ:\n- 朔日 (saku jitsu): Ngày đầu tiên của thán"
+  },
+  "comments": [
+    {
+      "id": "154335",
+      "lang": "vi",
+      "content_html": "<p>Bỏ con đường đi ngày tháng quay ngược lại ban đầu nhanh như SÓC</p>",
+      "content_text": "Bỏ con đường đi ngày tháng quay ngược lại ban đầu nhanh như SÓC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154336",
+      "lang": "vi",
+      "content_html": "<p>Nghịch Nguyệt rồi phải chăm Sóc</p>",
+      "content_text": "Nghịch Nguyệt rồi phải chăm Sóc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

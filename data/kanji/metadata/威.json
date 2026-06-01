@@ -1,0 +1,92 @@
+{
+  "kanji": "威",
+  "meta": {
+    "weight": 671,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "おど.す",
+      "おど.し",
+      "おど.かす"
+    ],
+    "am_han": "UY"
+  },
+  "meaning": {
+    "vi": "đe dọa, nhân phẩm, uy nghiêm, uy hiếp",
+    "en": "intimidate, dignity, majesty, menace, threaten"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/威.svg"
+  },
+  "frequency": 1103,
+  "examples": [
+    "脅威",
+    "権威",
+    "威力",
+    "威嚇",
+    "威"
+  ],
+  "explanation": {
+    "id": "134",
+    "text": "威 (đọc là \"i\") có nghĩa là \"uy quyền\", \"uy nghi\" để chỉ sức mạnh hoặc quyền lực tạo ra sự tôn trọng hoặc sợ hãi.  \nVí dụ:  \n- 威圧 (iatsu): Sự gây áp lực, uy hiếp.  \n- 威嚇 (ikaku): Đe dọa, uy h"
+  },
+  "comments": [
+    {
+      "id": "152842",
+      "lang": "vi",
+      "content_html": "<p>khi người phụ nữ nắm đc cái chuôi của sự thành công thì rất uy quyền</p>",
+      "content_text": "khi người phụ nữ nắm đc cái chuôi của sự thành công thì rất uy quyền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152843",
+      "lang": "vi",
+      "content_html": "<p>Uy như sư tử hà đông (nữ thú ^^)</p>",
+      "content_text": "Uy như sư tử hà đông (nữ thú ^^)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152844",
+      "lang": "vi",
+      "content_html": "<p>Người phụ nữ dữ như con thú hẳn là có UY</p>",
+      "content_text": "Người phụ nữ dữ như con thú hẳn là có UY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

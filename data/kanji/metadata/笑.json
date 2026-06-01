@@ -1,0 +1,108 @@
+{
+  "kanji": "笑",
+  "meta": {
+    "weight": 1983,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "わら.う",
+      "え.む"
+    ],
+    "am_han": "TIẾU"
+  },
+  "meaning": {
+    "vi": "cười",
+    "en": "laugh"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/笑.svg"
+  },
+  "frequency": 913,
+  "examples": [
+    "笑",
+    "笑顔",
+    "笑い",
+    "苦笑",
+    "笑う"
+  ],
+  "explanation": {
+    "id": "3892",
+    "text": "笑 (đọc là \"wara\" hoặc \"shō\") có nghĩa là \"cười\", chỉ các hành động liên quan đến sự vui vẻ, hài hước hoặc biểu hiện niềm vui.\nVí dụ:\n- 笑う (warau): Cười.\n- 笑顔 (egaо): Nụ cười, gương mặt vui v"
+  },
+  "comments": [
+    {
+      "id": "37022",
+      "lang": "vi",
+      "content_html": "<p>Một người (人) <strong>cười </strong>\"ke ke - ケ ケ\"</p>",
+      "content_text": "Một người (人)\ncười\n\"ke ke - ケ ケ\"",
+      "image_url": "https://jpdictionary.com/upload/images/62bc50d28d1c9.jpg",
+      "image_path": "assets/images/笑_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155854",
+      "lang": "vi",
+      "content_html": "<p>Nhầm rồi, bộ YÊU, YỂU (non nớt, nhỏ bé...) k phải bộ THIÊN. Vườn TRÚC YỂU nhìn thật TẾU (TIẾU: buồn cười)</p>",
+      "content_text": "Nhầm rồi, bộ YÊU, YỂU (non nớt, nhỏ bé...) k phải bộ THIÊN. Vườn TRÚC YỂU nhìn thật TẾU (TIẾU: buồn cười)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155855",
+      "lang": "vi",
+      "content_html": "<p>Cây Trúc (竹) non (Yểu:夭) thì mềm yếu, Trúc Yếu viết tắt lại là T+Yếu thành Tiếu (笑)</p>",
+      "content_text": "Cây Trúc (竹) non (Yểu:夭) thì mềm yếu, Trúc Yếu viết tắt lại là T+Yếu thành Tiếu (笑)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155856",
+      "lang": "vi",
+      "content_html": "<p>Nói chuyện Tiếu lâm dưới những vườn Trúc nhỏ, đáng Yêu.</p>",
+      "content_text": "Nói chuyện Tiếu lâm dưới những vườn Trúc nhỏ, đáng Yêu.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

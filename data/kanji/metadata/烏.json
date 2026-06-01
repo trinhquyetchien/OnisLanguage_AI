@@ -1,0 +1,74 @@
+{
+  "kanji": "烏",
+  "meta": {
+    "weight": 1653,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ウ",
+      "オ"
+    ],
+    "kun": [
+      "からす",
+      "いずくんぞ",
+      "なんぞ"
+    ],
+    "am_han": "Ô"
+  },
+  "meaning": {
+    "vi": "quạ",
+    "en": "crow, raven"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/烏.svg"
+  },
+  "frequency": 2042,
+  "examples": [
+    "烏",
+    "烏龍茶",
+    "烏丸"
+  ],
+  "explanation": {
+    "id": "288",
+    "text": "烏 (đọc là \"u\" hoặc \"karasu\") có nghĩa là \"quạ\", dùng để chỉ loài chim đen này. \n\nVí dụ:\n- 烏 (う, u): Quạ.\n- 烏鷺 (うろ, uro): Diệc đen.\n- 烏丸 (からすまる, karasumaru): Một loại quạ trong thần thoại Nhậ"
+  },
+  "comments": [
+    {
+      "id": "155165",
+      "lang": "vi",
+      "content_html": "<p>Loài chim 鳥 mất 1 Ô là con quạ</p>",
+      "content_text": "Loài chim 鳥 mất 1 Ô là con quạ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155166",
+      "lang": "vi",
+      "content_html": "<p>quạ là loài chim đen thùi lùi ko thấy mắt, cho nên  鳥→烏</p>",
+      "content_text": "quạ là loài chim đen thùi lùi ko thấy mắt, cho nên  鳥→烏",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

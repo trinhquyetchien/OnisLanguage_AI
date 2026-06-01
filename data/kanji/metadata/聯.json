@@ -1,0 +1,53 @@
+{
+  "kanji": "聯",
+  "meta": {
+    "weight": 2160,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レン"
+    ],
+    "kun": [
+      "つら.なる",
+      "つら.ねる"
+    ],
+    "am_han": "LIÊN"
+  },
+  "meaning": {
+    "vi": "đảng, băng đảng, bè phái",
+    "en": "party, gang, clique"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/聯.svg"
+  },
+  "frequency": 1967,
+  "examples": [
+    "聯合"
+  ],
+  "explanation": {
+    "id": "8289",
+    "text": "聯 (đọc là \"ren\") có nghĩa là \"liên kết\", \"gắn bó\" để chỉ các mối quan hệ hoặc sự kết nối giữa các yếu tố khác nhau.  \nVí dụ:  \n- 聯絡 (renraku): Liên lạc, liên hệ.  \n- 聯盟 (renmei): Liên minh, "
+  },
+  "comments": [
+    {
+      "id": "156250",
+      "lang": "vi",
+      "content_html": "<p>dùng lời ngon ngọt rót vào tai e huyền ,làm e rụng trứng liên tục</p>",
+      "content_text": "dùng lời ngon ngọt rót vào tai e huyền ,làm e rụng trứng liên tục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

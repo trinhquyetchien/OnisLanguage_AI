@@ -1,0 +1,30 @@
+{
+  "kanji": "籾",
+  "meta": {
+    "weight": 2022,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "もみ"
+    ],
+    "am_han": "GẠO"
+  },
+  "meaning": {
+    "vi": "gạo không hạt, (kokuji)",
+    "en": "unhulled rice, (kokuji)"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/籾.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7647",
+    "text": "籾 (đọc là \"momi\") có nghĩa là \"gạo chưa xát\" hay \"gạo lứt\", để chỉ loại gạo còn nguyên vỏ trấu. \n\nVí dụ:\n- 籾殻 (momekara): Vỏ gạo, trấu.\n- 籾米 (momibe): Gạo chưa xát, gạo lứt. \n- 籾田 (momida): "
+  },
+  "comments": []
+}

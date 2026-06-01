@@ -1,0 +1,90 @@
+{
+  "kanji": "球",
+  "meta": {
+    "weight": 1744,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "たま"
+    ],
+    "am_han": "CẦU"
+  },
+  "meaning": {
+    "vi": "quả cầu, địa cầu",
+    "en": "ball, sphere"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/球.svg"
+  },
+  "frequency": 302,
+  "examples": [
+    "地球",
+    "野球",
+    "球",
+    "球団",
+    "球場"
+  ],
+  "explanation": {
+    "id": "1542",
+    "text": "球 (đọc là \"kyuu\" hoặc \"tamashi\") có nghĩa là \"cầu\", chỉ hình dạng tròn hoặc các vật thể tròn như bóng.  \nVí dụ:  \n- 球技 (kyuugi): Môn thể thao có sử dụng bóng.  \n- ボール球 (booru kyuu): Bóng chà"
+  },
+  "comments": [
+    {
+      "id": "155340",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: ông Vua (王) Cầu nguyện (求)<br>==&#62; được sống lâu như quả địa Cầu (球)<br>..性..</p>",
+      "content_text": "Góc Nhìn: ông Vua (王) Cầu nguyện (求)\n==> được sống lâu như quả địa Cầu (球)\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155341",
+      "lang": "vi",
+      "content_html": "<p>nhà vua cầu có thể thống trị địa cầu</p>",
+      "content_text": "nhà vua cầu có thể thống trị địa cầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155342",
+      "lang": "vi",
+      "content_html": "<p>vua của 10 nước là bá chủ toàn cầu luôn rồi</p>",
+      "content_text": "vua của 10 nước là bá chủ toàn cầu luôn rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

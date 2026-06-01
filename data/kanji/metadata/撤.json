@@ -1,0 +1,88 @@
+{
+  "kanji": "撤",
+  "meta": {
+    "weight": 1153,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テツ"
+    ],
+    "kun": [],
+    "am_han": "TRIỆT"
+  },
+  "meaning": {
+    "vi": "loại bỏ, thu hồi, tước vũ khí, tháo dỡ, từ chối, loại trừ",
+    "en": "remove, withdraw, disarm, dismantle, reject, exclude"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/撤.svg"
+  },
+  "frequency": 811,
+  "examples": [
+    "撤退",
+    "撤去",
+    "撤回",
+    "撤廃",
+    "撤収"
+  ],
+  "explanation": {
+    "id": "5636",
+    "text": "撤 (đọc là \"tetsu\" hoặc \"saku\") có nghĩa là \"rút lui\", \"thu hồi\" để chỉ các hành động liên quan đến việc lấy lại, loại bỏ hoặc rút ra.  \nVí dụ:  \n- 撤回 (tekkai): Rút lại, thu hồi (một thông bá"
+  },
+  "comments": [
+    {
+      "id": "154039",
+      "lang": "vi",
+      "content_html": "<p>Phải dùng TAY ĐÁNH KHẼ thì với giáo DỤC đc TRIỆTđể những đứa trẻ hư</p>",
+      "content_text": "Phải dùng TAY ĐÁNH KHẼ thì với giáo DỤC đc TRIỆTđể những đứa trẻ hư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154040",
+      "lang": "vi",
+      "content_html": "<p>Làm giáo Dục là phải TRIỆT thẳng Tay XOÁ BỎ mù chữ</p>",
+      "content_text": "Làm giáo Dục là phải TRIỆT thẳng Tay XOÁ BỎ mù chữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154041",
+      "lang": "vi",
+      "content_html": "<p>đối với  tay giáo dục chuyên nghiệp thì đánh học trò là 1 phương pháp lỗi thời cần bị TRIỆT bỏ</p>",
+      "content_text": "đối với  tay giáo dục chuyên nghiệp thì đánh học trò là 1 phương pháp lỗi thời cần bị TRIỆT bỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

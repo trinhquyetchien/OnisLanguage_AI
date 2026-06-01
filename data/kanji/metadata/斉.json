@@ -1,0 +1,93 @@
+{
+  "kanji": "斉",
+  "meta": {
+    "weight": 1185,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "サイ"
+    ],
+    "kun": [
+      "そろ.う",
+      "ひと.しい",
+      "ひと.しく",
+      "あたる",
+      "はやい"
+    ],
+    "am_han": "TỀ, TẾ, TÀY, TẦY, TÈ"
+  },
+  "meaning": {
+    "vi": "điều chỉnh, giống nhau, bằng nhau, giống nhau về",
+    "en": "adjusted, alike, equal, similar variety of"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/斉.svg"
+  },
+  "frequency": 1209,
+  "examples": [
+    "一斉",
+    "斉唱",
+    "斉"
+  ],
+  "explanation": {
+    "id": "4371",
+    "text": "斉 (đọc là \"sei\" hoặc \"shuu\") có nghĩa là \"đồng nhất\", \"kiềng\", hoặc chỉ sự đồng điều trong hành động. \n\nVí dụ:\n- 斉唱 (seishou): Hát đồng ca.\n- 同斉 (dousai): Đồng bộ, đồng nhất.\n- 斉備 (seibi): C"
+  },
+  "comments": [
+    {
+      "id": "154122",
+      "lang": "vi",
+      "content_html": "<p>Anh Văn ăn mặc Chỉnh TỀ đi gặp chị Nguyệt</p>",
+      "content_text": "Anh Văn ăn mặc Chỉnh TỀ đi gặp chị Nguyệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154123",
+      "lang": "vi",
+      "content_html": "<p>quần áo Chỉnh Tề(斉). Chắp Tay (廾 )1 (一 ) lạy rồi vắt chéo 2 tay trước khi đọc bài diễn Văn(文 )</p>",
+      "content_text": "quần áo Chỉnh Tề(斉). Chắp Tay (廾 )1 (一 ) lạy rồi vắt chéo 2 tay trước khi đọc bài diễn Văn(文 )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154124",
+      "lang": "vi",
+      "content_html": "<p>Quan VĂN tăng thêm 2 bậc mới Bằng Tề tướng.</p>",
+      "content_text": "Quan VĂN tăng thêm 2 bậc mới Bằng Tề tướng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "友",
+  "meta": {
+    "weight": 420,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ"
+    ],
+    "kun": [
+      "とも"
+    ],
+    "am_han": "HỮU"
+  },
+  "meaning": {
+    "vi": "bạn bè, bạn hữu",
+    "en": "friend"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/友.svg"
+  },
+  "frequency": 622,
+  "examples": [
+    "友人",
+    "友達",
+    "友",
+    "友だち",
+    "友好"
+  ],
+  "explanation": {
+    "id": "7746",
+    "text": "友 (đọc là \"yuu\") có nghĩa là \"bạn bè\", chỉ mối quan hệ thân thiết và tình bạn giữa con người.  \nVí dụ:  \n- 友達 (tomodachi): Bạn bè.  \n- 友情 (yuujou): Tình bạn, tình hữu nghị.  \n- 友人 (yuujin): "
+  },
+  "comments": [
+    {
+      "id": "603",
+      "lang": "vi",
+      "content_html": "<p><strong>Bạn bè</strong> đưa tay giúp đỡ lẫn nhau.</p>",
+      "content_text": "Bạn bè\nđưa tay giúp đỡ lẫn nhau.",
+      "image_url": "https://jpdictionary.com/upload/images/629783d5db273.jpg",
+      "image_path": "assets/images/友_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158720",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>友達（ともだち）: bạn bè</p>",
+      "content_text": "JLPT N5\n友達（ともだち）: bạn bè",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "152242",
+      "lang": "vi",
+      "content_html": "<p>BẠN BÈ là : dù chỉ là quả na ナ cũng phải có qua có LẠI (hựu)</p>",
+      "content_text": "BẠN BÈ là : dù chỉ là quả na ナ cũng phải có qua có LẠI (hựu)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "kanji": "禰",
+  "meta": {
+    "weight": 1919,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ネ",
+      "デイ",
+      "ナイ"
+    ],
+    "kun": [],
+    "am_han": "NỈ"
+  },
+  "meaning": {
+    "vi": "đền thờ tổ tiên",
+    "en": "ancestral shrine"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/禰.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6144",
+    "text": "禰 (đọc là \"ne\") có nghĩa là \"thần linh\" hoặc \"thờ cúng\", thường liên quan đến các hoạt động tôn thờ trong văn hóa Nhật Bản.\n\nVí dụ:\n- 禰豆子 (Nezuko): Tên một nhân vật nổi tiếng trong anime \"Ki"
+  },
+  "comments": [
+    {
+      "id": "220232",
+      "lang": "vi",
+      "content_html": "<p>禰豆子 nezuko</p>",
+      "content_text": "禰豆子 nezuko",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

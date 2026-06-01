@@ -1,0 +1,107 @@
+{
+  "kanji": "影",
+  "meta": {
+    "weight": 917,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エイ"
+    ],
+    "kun": [
+      "かげ"
+    ],
+    "am_han": "ẢNH"
+  },
+  "meaning": {
+    "vi": "bóng tối, hình bóng, bóng ma",
+    "en": "shadow, silhouette, phantom"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/影.svg"
+  },
+  "frequency": 464,
+  "examples": [
+    "影響",
+    "撮影",
+    "影",
+    "悪影響",
+    "投影"
+  ],
+  "explanation": {
+    "id": "368",
+    "text": "影 (đọc là \"e\") có nghĩa là \"bóng\", \"hình bóng\" để chỉ các hiện tượng liên quan đến bóng tối hoặc hình ảnh phản chiếu.  \nVí dụ:  \n- 影響 (eikyō): Ảnh hưởng, tác động.  \n- 影 (kage): Bóng, hình b"
+  },
+  "comments": [
+    {
+      "id": "153444",
+      "lang": "vi",
+      "content_html": "<p>Mặt trời mọc trên KINH ĐÔ bóng nắng chiếu ngang đẹp như một bức ẢNH.</p>",
+      "content_text": "Mặt trời mọc trên KINH ĐÔ bóng nắng chiếu ngang đẹp như một bức ẢNH.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153445",
+      "lang": "vi",
+      "content_html": "<p>Mặt trời lấp ló đầu Kinh<br>Tóc dài 3 đoạn Ảnh hình bóng ai.</p>",
+      "content_text": "Mặt trời lấp ló đầu Kinh\nTóc dài 3 đoạn Ảnh hình bóng ai.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153446",
+      "lang": "vi",
+      "content_html": "<p>một ngày lên kinh chỉ để chụp hình cô em tóc dài &#60;3</p>",
+      "content_text": "một ngày lên kinh chỉ để chụp hình cô em tóc dài <3",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222042",
+      "lang": "vi",
+      "content_html": "<p>Gốc của chữ 影 là chữ <strong>景</strong>, có nghĩa ban đầu là:</p><p><strong>ánh sáng chiếu xuống một vật sinh ra hình ảnh / bóng (影)</strong></p><p>Trong <strong>văn cổ</strong>, chữ 景 và 影 thường <strong>dùng thay nhau</strong> (通用字).<br>Nhưng về sau để phân biệt rõ ràng hơn:</p><p><strong>景</strong> dùng cho nghĩa “cảnh” / “ánh sáng”</p><p><strong>影</strong> dùng cho nghĩa “bóng”, “hình phản chiếu”</p><p>-&gt; &nbsp;<strong>影 là chữ phái sinh để cụ thể hóa “bóng” từ chữ 景.</strong></p>",
+      "content_text": "Gốc của chữ 影 là chữ\n景\n, có nghĩa ban đầu là:\nánh sáng chiếu xuống một vật sinh ra hình ảnh / bóng (影)\nTrong\nvăn cổ\n, chữ 景 và 影 thường\ndùng thay nhau\n(通用字).\nNhưng về sau để phân biệt rõ ràng hơn:\n景\ndùng cho nghĩa “cảnh” / “ánh sáng”\n影\ndùng cho nghĩa “bóng”, “hình phản chiếu”\n->\n影 là chữ phái sinh để cụ thể hóa “bóng” từ chữ 景.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

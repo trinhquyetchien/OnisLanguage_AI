@@ -1,0 +1,88 @@
+{
+  "kanji": "佐",
+  "meta": {
+    "weight": 172,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サ"
+    ],
+    "kun": [],
+    "am_han": "TÁ"
+  },
+  "meaning": {
+    "vi": "trợ lý, giúp đỡ",
+    "en": "assistant, help"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/佐.svg"
+  },
+  "frequency": 474,
+  "examples": [
+    "補佐",
+    "佐賀",
+    "土佐",
+    "大佐",
+    "佐渡"
+  ],
+  "explanation": {
+    "id": "2727",
+    "text": "佐 (đọc là \"sato\" hoặc \"sa\") có nghĩa là \"hỗ trợ\", \"trợ giúp\", thường chỉ các hành động liên quan đến việc hỗ trợ hoặc giúp đỡ ai đó.  \nVí dụ:\n- 佐賀 (Saga): Tên một tỉnh ở Nhật Bản.\n- 佐料 (sary"
+  },
+  "comments": [
+    {
+      "id": "151623",
+      "lang": "vi",
+      "content_html": "<p>người phò tá hay đứng bên trái</p>",
+      "content_text": "người phò tá hay đứng bên trái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151624",
+      "lang": "vi",
+      "content_html": "<p>Người cánh trái để trợ lí</p>",
+      "content_text": "Người cánh trái để trợ lí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151625",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI ĐỨNG ở BÊN TRÁI là người phụ TÁ</p>",
+      "content_text": "NGƯỜI ĐỨNG ở BÊN TRÁI là người phụ TÁ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

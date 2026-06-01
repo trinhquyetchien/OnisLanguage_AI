@@ -1,0 +1,92 @@
+{
+  "kanji": "興",
+  "meta": {
+    "weight": 2228,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "キョウ"
+    ],
+    "kun": [
+      "おこ.る",
+      "おこ.す"
+    ],
+    "am_han": "HƯNG, HỨNG"
+  },
+  "meaning": {
+    "vi": "giải trí, hồi sinh, lấy lại, quan tâm, niềm vui",
+    "en": "entertain, revive, retrieve, interest, pleasure"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/興.svg"
+  },
+  "frequency": 734,
+  "examples": [
+    "興味",
+    "振興",
+    "興味深い",
+    "興奮",
+    "復興"
+  ],
+  "explanation": {
+    "id": "1695",
+    "text": "興 (đọc là \"kou\" hoặc \"oki\") có nghĩa là \"hưng thịnh\", \"hứng thú\", chỉ sự phát triển, tăng trưởng hoặc sự khởi đầu của điều gì đó mới mẻ.  \nVí dụ:  \n- 興味 (kyoumi): Sự quan tâm, hứng thú.  \n- "
+  },
+  "comments": [
+    {
+      "id": "156406",
+      "lang": "vi",
+      "content_html": "<p>hai cái cầu thang giống nhau thật thú vị</p>",
+      "content_text": "hai cái cầu thang giống nhau thật thú vị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156407",
+      "lang": "vi",
+      "content_html": "<p>hứng thú với giàn loa khủng</p>",
+      "content_text": "hứng thú với giàn loa khủng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156408",
+      "lang": "vi",
+      "content_html": "<p>Hưng cầm 2 con dao giống nhau đến 18 lần</p>",
+      "content_text": "Hưng cầm 2 con dao giống nhau đến 18 lần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

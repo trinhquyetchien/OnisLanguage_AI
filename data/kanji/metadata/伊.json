@@ -1,0 +1,107 @@
+{
+  "kanji": "伊",
+  "meta": {
+    "weight": 152,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "かれ"
+    ],
+    "am_han": "Y"
+  },
+  "meaning": {
+    "vi": "Ý, cái đó",
+    "en": "Italy, that one"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/伊.svg"
+  },
+  "frequency": 703,
+  "examples": [
+    "伊",
+    "伊勢",
+    "伊豆",
+    "伊達",
+    "伊勢神宮"
+  ],
+  "explanation": {
+    "id": "113",
+    "text": "伊 (đọc là \"i\") có nghĩa là \"anh\", \"ngươi\" để chỉ người khác một cách tôn trọng hoặc trong ngữ cảnh thân mật. \n\nVí dụ:\n- 伊達 (date): Phong cách, vẻ bề ngoài.\n- 伊勢 (Ise): Tên một thành phố nổi "
+  },
+  "comments": [
+    {
+      "id": "151574",
+      "lang": "vi",
+      "content_html": "<p>người Ý như con diều</p>",
+      "content_text": "người Ý như con diều",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158192",
+      "lang": "vi",
+      "content_html": "<p>Người Ý đang thả diều là anh ấy (かれ）</p>",
+      "content_text": "Người Ý đang thả diều là anh ấy (かれ）",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "173",
+        "name": "Vinh Trường Nguyễn",
+        "image_url": "https://jpdictionary.com/upload/images/62f9fc079ec88.png"
+      }
+    },
+    {
+      "id": "151575",
+      "lang": "vi",
+      "content_html": "<p>Nước Ý</p>",
+      "content_text": "Nước Ý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151576",
+      "lang": "vi",
+      "content_html": "<p>Đằng ấy giống y như ngừoi phủ doãn</p>",
+      "content_text": "Đằng ấy giống y như ngừoi phủ doãn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

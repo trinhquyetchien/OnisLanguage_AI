@@ -1,0 +1,111 @@
+{
+  "kanji": "化",
+  "meta": {
+    "weight": 373,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "ケ"
+    ],
+    "kun": [
+      "ば.ける",
+      "ば.かす",
+      "ふ.ける",
+      "け.する"
+    ],
+    "am_han": "HÓA"
+  },
+  "meaning": {
+    "vi": "thay đổi, biến hóa",
+    "en": "change, take the form of, influence, enchant, delude, -ization"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/化.svg"
+  },
+  "frequency": 89,
+  "examples": [
+    "化",
+    "文化",
+    "変化",
+    "強化",
+    "進化"
+  ],
+  "explanation": {
+    "id": "603",
+    "text": "化 (đọc là \"ka\" hoặc \"kaka\") có nghĩa là \"biến đổi\", \"chuyển hóa\" để chỉ các hành động thay đổi trạng thái, hình thức hoặc chất lượng của một sự vật nào đó.\n\nVí dụ:\n- 文化 (bunka): Văn hóa.\n- 変"
+  },
+  "comments": [
+    {
+      "id": "751",
+      "lang": "vi",
+      "content_html": "<p>Một người đứng lên rồi ngồi xuống,<strong> thay đổi </strong>tư thế của mình.</p>",
+      "content_text": "Một người đứng lên rồi ngồi xuống,\nthay đổi\ntư thế của mình.",
+      "image_url": "https://jpdictionary.com/upload/images/62984bf5e8154.jpg",
+      "image_path": "assets/images/化_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152133",
+      "lang": "vi",
+      "content_html": "<p>Góc Nhìn: xa xưa chúng ta chỉ ăn bằng đũa.<br>==&#62; Lúc mọi Người (亻NHÂN) chuyển sang ăn bằng Thìa (匕 CHỦY) <br>==&#62; là giai đoạn âu HÓA (化)<br>..Tâm Sinh Tính..</p>",
+      "content_text": "Góc Nhìn: xa xưa chúng ta chỉ ăn bằng đũa.\n==> Lúc mọi Người (亻NHÂN) chuyển sang ăn bằng Thìa (匕 CHỦY)\n==> là giai đoạn âu HÓA (化)\n..Tâm Sinh Tính..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152134",
+      "lang": "vi",
+      "content_html": "<p>người cười hihi hóa vui vẻ</p>",
+      "content_text": "người cười hihi hóa vui vẻ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152135",
+      "lang": "vi",
+      "content_html": "<p>ảo thuật người (NHÂN) HOÁ thành cái chìa (CHUỶ)</p>",
+      "content_text": "ảo thuật người (NHÂN) HOÁ thành cái chìa (CHUỶ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

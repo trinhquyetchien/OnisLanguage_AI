@@ -1,0 +1,87 @@
+{
+  "kanji": "嵩",
+  "meta": {
+    "weight": 808,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スウ",
+      "シュウ"
+    ],
+    "kun": [
+      "かさ",
+      "かさ.む",
+      "たか.い"
+    ],
+    "am_han": "TUNG"
+  },
+  "meaning": {
+    "vi": "trầm trọng hơn, phát triển xấu hơn, phát triển cồng kềnh, sưng tấy",
+    "en": "be aggravated, grow worse, grow bulky, swell"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/嵩.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4251",
+    "text": "嵩 (đọc là \"sō\") có nghĩa là \"cao\", thường chỉ về độ cao hoặc sự to lớn của một vật thể. \n\nVí dụ:\n- 嵩張る (sōbaru): Trở nên cồng kềnh, chiếm nhiều diện tích.\n- 嵩を増す (sō o masu): Tăng lên về kíc"
+  },
+  "comments": [
+    {
+      "id": "219389",
+      "lang": "vi",
+      "content_html": "<p>Tiêu xài lung TUNG làm chi phí Tăng Cao như Núi</p>",
+      "content_text": "Tiêu xài lung TUNG làm chi phí Tăng Cao như Núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219390",
+      "lang": "vi",
+      "content_html": "<p>Ngọn cờ TUNG bay trên đỉnh Núi Cao</p>",
+      "content_text": "Ngọn cờ TUNG bay trên đỉnh Núi Cao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219391",
+      "lang": "vi",
+      "content_html": "<p>Núi cao do được TUNG hô</p>",
+      "content_text": "Núi cao do được TUNG hô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

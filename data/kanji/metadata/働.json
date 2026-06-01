@@ -1,0 +1,90 @@
+{
+  "kanji": "働",
+  "meta": {
+    "weight": 241,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドウ"
+    ],
+    "kun": [
+      "はたら.く"
+    ],
+    "am_han": "ĐỘNG"
+  },
+  "meaning": {
+    "vi": "lao động",
+    "en": "work, (kokuji)"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/働.svg"
+  },
+  "frequency": 417,
+  "examples": [
+    "労働",
+    "働く",
+    "働き",
+    "労働省",
+    "稼働"
+  ],
+  "explanation": {
+    "id": "5898",
+    "text": "働 (đọc là \"dō\" hoặc \"hatara-ku\") có nghĩa là \"làm việc\", \"hoạt động\" để chỉ các hành động liên quan đến công việc, lao động hoặc hoạt động sản xuất.  \nVí dụ:  \n- 働く (hataraku): Làm việc.  \n-"
+  },
+  "comments": [
+    {
+      "id": "190889",
+      "lang": "vi",
+      "content_html": "<p><strong>làm việc</strong></p>",
+      "content_text": "làm việc",
+      "image_url": "https://jpdictionary.com/upload/images/648a64c81a96c.jpg",
+      "image_path": "assets/images/働_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "36880",
+      "lang": "vi",
+      "content_html": "<p>Mọi người di chuyển (動) và <strong>làm việc</strong>.</p>",
+      "content_text": "Mọi người di chuyển (動) và\nlàm việc\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62addf1691e42.jpg",
+      "image_path": "assets/images/働_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151792",
+      "lang": "vi",
+      "content_html": "<p>Người dùng sức lao ĐỘNG nặng nhọc</p>",
+      "content_text": "Người dùng sức lao ĐỘNG nặng nhọc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

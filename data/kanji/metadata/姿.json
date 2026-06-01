@@ -1,0 +1,90 @@
+{
+  "kanji": "姿",
+  "meta": {
+    "weight": 670,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "すがた"
+    ],
+    "am_han": "TƯ"
+  },
+  "meaning": {
+    "vi": "hình, dạng, hình dạng",
+    "en": "figure, form, shape"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/姿.svg"
+  },
+  "frequency": 441,
+  "examples": [
+    "姿",
+    "姿勢",
+    "容姿",
+    "後ろ姿",
+    "後姿"
+  ],
+  "explanation": {
+    "id": "3072",
+    "text": "姿 (đọc là \"shi\") có nghĩa là \"dáng vẻ\", \"hình dáng\" để chỉ các đặc điểm về ngoại hình hoặc trạng thái.  \nVí dụ:  \n- 姿勢 (shisei): Tư thế, dáng đứng.  \n- 美しい姿 (utsukushii sugata): Dáng vẻ đẹp."
+  },
+  "comments": [
+    {
+      "id": "152839",
+      "lang": "vi",
+      "content_html": "<p>hình dáng người phụ nữ tiếp theo</p>",
+      "content_text": "hình dáng người phụ nữ tiếp theo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152840",
+      "lang": "vi",
+      "content_html": "<p>Người phụ NỮ TIẾP theo không thể thay thế BÓNG DÁNG em trong anh.</p>",
+      "content_text": "Người phụ NỮ TIẾP theo không thể thay thế BÓNG DÁNG em trong anh.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152841",
+      "lang": "vi",
+      "content_html": "<p>Người con GÁI THỨ 2 TƯ thế, dáng điệu rất đẹp</p>",
+      "content_text": "Người con GÁI THỨ 2 TƯ thế, dáng điệu rất đẹp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

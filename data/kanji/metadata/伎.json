@@ -1,0 +1,86 @@
+{
+  "kanji": "伎",
+  "meta": {
+    "weight": 154,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギ",
+      "キ"
+    ],
+    "kun": [
+      "わざ",
+      "わざおぎ"
+    ],
+    "am_han": "KỸ"
+  },
+  "meaning": {
+    "vi": "hành động, kỹ năng",
+    "en": "deed, skill"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/伎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1245",
+    "text": "伎 (đọc là \"ki\") có nghĩa là \"nghệ thuật\", thường chỉ về các kỹ năng hoặc tài năng trong biểu diễn nghệ thuật.  \nVí dụ:  \n- 伎芸 (kigei): Nghệ thuật biểu diễn, tài năng nghệ thuật.  \n- 伎楽 (gigu"
+  },
+  "comments": [
+    {
+      "id": "218842",
+      "lang": "vi",
+      "content_html": "<p>Người chi tiết thể hiện kỹ năng</p>",
+      "content_text": "Người chi tiết thể hiện kỹ năng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218843",
+      "lang": "vi",
+      "content_html": "<p>người 亻để ý đến từng chi 支 tiết chắc chắc là người có (KĨ) 伎 năng tốt</p>",
+      "content_text": "người 亻để ý đến từng chi 支 tiết chắc chắc là người có (KĨ) 伎 năng tốt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "218844",
+      "lang": "vi",
+      "content_html": "<p>Chi nhánh Cty tôi toàn người có Kĩ năng cả!</p>",
+      "content_text": "Chi nhánh Cty tôi toàn người có Kĩ năng cả!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

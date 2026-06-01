@@ -1,0 +1,92 @@
+{
+  "kanji": "承",
+  "meta": {
+    "weight": 1054,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ",
+      "ジョウ"
+    ],
+    "kun": [
+      "うけたまわ.る",
+      "う.ける"
+    ],
+    "am_han": "THỪA"
+  },
+  "meaning": {
+    "vi": "thừa nhận",
+    "en": "acquiesce, hear, listen to, be informed, receive"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/承.svg"
+  },
+  "frequency": 775,
+  "examples": [
+    "承知",
+    "承認",
+    "了承",
+    "継承",
+    "承諾"
+  ],
+  "explanation": {
+    "id": "3809",
+    "text": "承 (đọc là \"shō\") có nghĩa là \"chấp nhận\", \"tiếp nhận\" để chỉ các hành động liên quan đến việc đồng ý, chấp thuận hoặc tiếp tục một điều gì đó.\n\nVí dụ:\n- 承認 (shōnin): Sự chấp thuận, phê duyệt"
+  },
+  "comments": [
+    {
+      "id": "153802",
+      "lang": "vi",
+      "content_html": "<p>THỪA kế đc ba cây LIỄU giữa dòng nước</p>",
+      "content_text": "THỪA kế đc ba cây LIỄU giữa dòng nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153803",
+      "lang": "vi",
+      "content_html": "<p>Thừa nhận đứa trẻ con 子ba tuổi rất フト béo</p>",
+      "content_text": "Thừa nhận đứa trẻ con 子ba tuổi rất フト béo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153804",
+      "lang": "vi",
+      "content_html": "<p>thừa nhận 1 điều rằng: trẻ con 3 tuổi rất dễ bị đuối nước</p>",
+      "content_text": "thừa nhận 1 điều rằng: trẻ con 3 tuổi rất dễ bị đuối nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

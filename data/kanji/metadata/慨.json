@@ -1,0 +1,88 @@
+{
+  "kanji": "慨",
+  "meta": {
+    "weight": 1010,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガイ"
+    ],
+    "kun": [
+      "なげ.く"
+    ],
+    "am_han": "KHÁI"
+  },
+  "meaning": {
+    "vi": "rue, buồn, thở dài, than thở",
+    "en": "rue, be sad, sigh, lament"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/慨.svg"
+  },
+  "frequency": 1875,
+  "examples": [
+    "感慨",
+    "憤慨",
+    "感慨深い"
+  ],
+  "explanation": {
+    "id": "840",
+    "text": "慨 (đọc là \"gai\") có nghĩa là \"cảm thán\", \"than vãn\", thể hiện sự cảm xúc mạnh mẽ về điều gì đó không công bằng hoặc đau lòng.\n\nVí dụ:\n- 慨嘆 (gaitan): Than thở, cảm thán.\n- 慨然 (gairan): Cảm th"
+  },
+  "comments": [
+    {
+      "id": "153694",
+      "lang": "vi",
+      "content_html": "<p>Cái tâm của a kí thật là khí khái</p>",
+      "content_text": "Cái tâm của a kí thật là khí khái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153695",
+      "lang": "vi",
+      "content_html": "<p>KHÁI có nghĩa là con TIM luôn cảm thấy bồn chồn, lo lắng về cái việc đã rồi (ví dụ đã KÍ hợp đồng mua bán)</p>",
+      "content_text": "KHÁI có nghĩa là con TIM luôn cảm thấy bồn chồn, lo lắng về cái việc đã rồi (ví dụ đã KÍ hợp đồng mua bán)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153696",
+      "lang": "vi",
+      "content_html": "<p>Trái tim ĐÃ bị tổn thương sẽ đầy sự uất ức</p>",
+      "content_text": "Trái tim ĐÃ bị tổn thương sẽ đầy sự uất ức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

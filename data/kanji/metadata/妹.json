@@ -1,0 +1,90 @@
+{
+  "kanji": "妹",
+  "meta": {
+    "weight": 655,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マイ"
+    ],
+    "kun": [
+      "いもうと"
+    ],
+    "am_han": "MUỘI"
+  },
+  "meaning": {
+    "vi": "em gái",
+    "en": "younger sister"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/妹.svg"
+  },
+  "frequency": 1446,
+  "examples": [
+    "妹",
+    "姉妹",
+    "兄妹",
+    "従姉妹",
+    "義妹"
+  ],
+  "explanation": {
+    "id": "7386",
+    "text": "妹 (đọc là \"imai\" hoặc \"mī\") có nghĩa là \"em gái\". Từ này dùng để chỉ mối quan hệ gia đình, cụ thể là em gái trong gia đình.\n\nVí dụ:\n- 妹 (imōto): Em gái.\n- 妹さん (imōto-san): Chị/em gái (cách x"
+  },
+  "comments": [
+    {
+      "id": "190963",
+      "lang": "vi",
+      "content_html": "<p><strong>em gái</strong></p>",
+      "content_text": "em gái",
+      "image_url": "https://jpdictionary.com/upload/images/648a77b41647f.jpg",
+      "image_path": "assets/images/妹_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "943",
+      "lang": "vi",
+      "content_html": "<p><strong>Em gái</strong> (妹) tôi là người con gái (女) chưa (未) lớn.</p>",
+      "content_text": "Em gái\n(妹) tôi là người con gái (女) chưa (未) lớn.",
+      "image_url": "https://jpdictionary.com/upload/images/6298c92cc994b.jpg",
+      "image_path": "assets/images/妹_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152809",
+      "lang": "vi",
+      "content_html": "<p>Cô GÁI đang VỊ thành niên trong nhà là tiểu MUỘI của tôi</p>",
+      "content_text": "Cô GÁI đang VỊ thành niên trong nhà là tiểu MUỘI của tôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "相",
+  "meta": {
+    "weight": 1839,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "ショウ"
+    ],
+    "kun": [
+      "あい-"
+    ],
+    "am_han": "TƯƠNG, TƯỚNG"
+  },
+  "meaning": {
+    "vi": "lẫn nhau, tương hỗ",
+    "en": "inter-, mutual, together, each other, minister of state, councillor, aspect, phase, physiognomy"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/相.svg"
+  },
+  "frequency": 45,
+  "examples": [
+    "相手",
+    "相談",
+    "相当",
+    "首相",
+    "相互"
+  ],
+  "explanation": {
+    "id": "4736",
+    "text": "相 (đọc là \"sō\" hoặc \"ai\") có nghĩa là \"tương hỗ\", \"mặt đối diện\", thường được sử dụng trong các ngữ cảnh liên quan đến sự tương tác hoặc mối quan hệ giữa các đối tượng.\n\nVí dụ:\n- 相手 (aite): "
+  },
+  "comments": [
+    {
+      "id": "37326",
+      "lang": "vi",
+      "content_html": "<p>Cái cây (木) và mắt (目) bạn đang nhìn <strong>lẫn nhau</strong>.</p>",
+      "content_text": "Cái cây (木) và mắt (目) bạn đang nhìn\nlẫn nhau\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe671292ed.jpg",
+      "image_path": "assets/images/相_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155550",
+      "lang": "vi",
+      "content_html": "<p>CÂY cao TƯƠNG đương tầm mắt</p>",
+      "content_text": "CÂY cao TƯƠNG đương tầm mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155551",
+      "lang": "vi",
+      "content_html": "<p>Cái THANG cao TƯƠNG đương cái CÂY</p>",
+      "content_text": "Cái THANG cao TƯƠNG đương cái CÂY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155552",
+      "lang": "vi",
+      "content_html": "<p>Mắt nhìn Cây Tương</p>",
+      "content_text": "Mắt nhìn Cây Tương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

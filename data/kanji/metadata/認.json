@@ -1,0 +1,91 @@
+{
+  "kanji": "認",
+  "meta": {
+    "weight": 2488,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ニン"
+    ],
+    "kun": [
+      "みと.める",
+      "したた.める"
+    ],
+    "am_han": "NHẬN"
+  },
+  "meaning": {
+    "vi": "xác nhận, thừa nhận",
+    "en": "acknowledge, witness, discern, recognize, appreciate, believe"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/認.svg"
+  },
+  "frequency": 198,
+  "examples": [
+    "確認",
+    "認め",
+    "認識",
+    "認定",
+    "認める"
+  ],
+  "explanation": {
+    "id": "6136",
+    "text": "認 (đọc là \"nin\" hoặc \"shinji\") có nghĩa là \"nhận ra\", \"thừa nhận\" để chỉ các hành động liên quan đến việc công nhận, xác nhận hoặc hiểu biết.\n\nVí dụ:\n- 認識 (ninshiki): Nhận thức, sự nhận biết"
+  },
+  "comments": [
+    {
+      "id": "156916",
+      "lang": "vi",
+      "content_html": "<p>Lời thừa nhận như đao cứ vào tim</p>",
+      "content_text": "Lời thừa nhận như đao cứ vào tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156917",
+      "lang": "vi",
+      "content_html": "<p>Ý nghĩa của từ này rất thâm thuý. Ta thấy từ “nhận” này là sự kết hợp của “ngôn” và “nhẫn”.<br>認=言+忍<br>Ý nghĩa: ta phải “nhẫn nhịn trong lời nói”, im lặng là vàng, không nên cuốn vào các cuộc tranh cãi, từ đó mới “nhận biết” được nhiều điều.</p>",
+      "content_text": "Ý nghĩa của từ này rất thâm thuý. Ta thấy từ “nhận” này là sự kết hợp của “ngôn” và “nhẫn”.\n認=言+忍\nÝ nghĩa: ta phải “nhẫn nhịn trong lời nói”, im lặng là vàng, không nên cuốn vào các cuộc tranh cãi, từ đó mới “nhận biết” được nhiều điều.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156918",
+      "lang": "vi",
+      "content_html": "<p>Công nhận ngôn từ như lưỡi đao có thể cứa vào tim</p>",
+      "content_text": "Công nhận ngôn từ như lưỡi đao có thể cứa vào tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

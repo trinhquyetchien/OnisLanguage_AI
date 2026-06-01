@@ -1,0 +1,103 @@
+{
+  "kanji": "億",
+  "meta": {
+    "weight": 249,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オク"
+    ],
+    "kun": [],
+    "am_han": "ỨC"
+  },
+  "meaning": {
+    "vi": "trăm triệu",
+    "en": "hundred million, 10**8"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/億.svg"
+  },
+  "frequency": 716,
+  "examples": [
+    "億",
+    "億万",
+    "億劫"
+  ],
+  "explanation": {
+    "id": "561",
+    "text": "億 (đọc là \"oku\") có nghĩa là \"một trăm triệu\", dùng để chỉ một số lượng lớn. \n\nVí dụ:\n- 一億 (ichioku): Một trăm triệu.\n- 億万 (okuman): Vô số, hàng triệu.\n- 億兆 (okuchō): Nhiều vô kể, hàng tỷ."
+  },
+  "comments": [
+    {
+      "id": "37234",
+      "lang": "vi",
+      "content_html": "<p>Một <strong>trăm triệu </strong>người có ý chí (意) khác nhau.</p>",
+      "content_text": "Một\ntrăm triệu\nngười có ý chí (意) khác nhau.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd72e065ec.jpg",
+      "image_path": "assets/images/億_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151813",
+      "lang": "vi",
+      "content_html": "<p>Người có ý thức nhận ngay 100 triệu</p>",
+      "content_text": "Người có ý thức nhận ngay 100 triệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151814",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI ĐỨNG cả NGÀY có trái TiM không biết ỨC chế</p>",
+      "content_text": "NGƯỜI ĐỨNG cả NGÀY có trái TiM không biết ỨC chế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151815",
+      "lang": "vi",
+      "content_html": "<p>Người có Ý chí, không uất ỨC trong mọi hoàn cảnh, sẽ có thu nhập 100 triệu là bình thường</p>",
+      "content_text": "Người có Ý chí, không uất ỨC trong mọi hoàn cảnh, sẽ có thu nhập 100 triệu là bình thường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

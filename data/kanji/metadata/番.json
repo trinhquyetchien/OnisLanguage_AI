@@ -1,0 +1,90 @@
+{
+  "kanji": "番",
+  "meta": {
+    "weight": 1791,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バン"
+    ],
+    "kun": [
+      "つが.い"
+    ],
+    "am_han": "PHIÊN"
+  },
+  "meaning": {
+    "vi": "thứ tự",
+    "en": "turn, number in a series"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/番.svg"
+  },
+  "frequency": 348,
+  "examples": [
+    "一番",
+    "番組",
+    "番",
+    "番号",
+    "番目"
+  ],
+  "explanation": {
+    "id": "6515",
+    "text": "番 (đọc là \"ban\") có nghĩa là \"số thứ tự\", \"lượt\" hoặc \"phiên\". Nó thường được sử dụng để chỉ một vị trí trong chuỗi, một lượt trong các hoạt động, hoặc số hiệu.  \nVí dụ:  \n- 番号 (bangō): Số h"
+  },
+  "comments": [
+    {
+      "id": "37226",
+      "lang": "vi",
+      "content_html": "<p>Thay <strong>phiên </strong>nhau gặt lúa (米) trên đồng (田).</p>",
+      "content_text": "Thay\nphiên\nnhau gặt lúa (米) trên đồng (田).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd6af45c27.jpg",
+      "image_path": "assets/images/番_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155435",
+      "lang": "vi",
+      "content_html": "<p>đến phiên vác gạo ra đồng</p>",
+      "content_text": "đến phiên vác gạo ra đồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191125",
+      "lang": "vi",
+      "content_html": "<p>一番 - nhất</p><p>二番 - nhì</p>",
+      "content_text": "一番 - nhất\n二番 - nhì",
+      "image_url": "https://jpdictionary.com/upload/images/648ac481ed730.jpg",
+      "image_path": "assets/images/番_3.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

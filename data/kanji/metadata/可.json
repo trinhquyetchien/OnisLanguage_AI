@@ -1,0 +1,92 @@
+{
+  "kanji": "可",
+  "meta": {
+    "weight": 438,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "コク"
+    ],
+    "kun": [
+      "-べ.き",
+      "-べ.し"
+    ],
+    "am_han": "KHẢ, KHẮC"
+  },
+  "meaning": {
+    "vi": "có thể, được, không được, không nên",
+    "en": "can, passable, mustn't, should not, do not"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/可.svg"
+  },
+  "frequency": 314,
+  "examples": [
+    "可能",
+    "許可",
+    "不可能",
+    "可愛い",
+    "不可欠"
+  ],
+  "explanation": {
+    "id": "624",
+    "text": "可 (đọc là \"ka\" hoặc \"kano\") có nghĩa là \"có thể\", \"cho phép\", thường dùng để chỉ khả năng hoặc sự chấp nhận. \n\nVí dụ:\n- 可能 (kanō): Có khả năng, khả thi.\n- 可愛い (kawaii): Đáng yêu, dễ thương.\n"
+  },
+  "comments": [
+    {
+      "id": "152283",
+      "lang": "vi",
+      "content_html": "<p>khả năng đóng đinh bằng miệng</p>",
+      "content_text": "khả năng đóng đinh bằng miệng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152284",
+      "lang": "vi",
+      "content_html": "<p>c1: Mồm nói (口) chắc như ĐINH (丁) đóng cột<br>==&#62; tôi có KHẢ năng (可) làm được.<br>c2: Dùng Mồm (口) đóng được ĐINH (丁) là có KHẢ năng (可) đặc biệt.<br>..性..</p>",
+      "content_text": "c1: Mồm nói (口) chắc như ĐINH (丁) đóng cột\n==> tôi có KHẢ năng (可) làm được.\nc2: Dùng Mồm (口) đóng được ĐINH (丁) là có KHẢ năng (可) đặc biệt.\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152285",
+      "lang": "vi",
+      "content_html": "<p>Người có khả năng nói chắc như đinh đóng cột</p>",
+      "content_text": "Người có khả năng nói chắc như đinh đóng cột",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

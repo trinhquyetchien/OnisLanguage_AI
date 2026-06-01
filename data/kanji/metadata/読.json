@@ -1,0 +1,110 @@
+{
+  "kanji": "読",
+  "meta": {
+    "weight": 2496,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドク",
+      "トク",
+      "トウ"
+    ],
+    "kun": [
+      "よ.む",
+      "-よ.み"
+    ],
+    "am_han": "ĐỘC"
+  },
+  "meaning": {
+    "vi": "đọc, độc giả",
+    "en": "read"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/読.svg"
+  },
+  "frequency": 618,
+  "examples": [
+    "読む",
+    "読み",
+    "読者",
+    "読書",
+    "購読"
+  ],
+  "explanation": {
+    "id": "5974",
+    "text": "読 (đọc là \"doku\" hoặc \"yomu\") có nghĩa là \"đọc\", chỉ hành động đọc hiểu văn bản hoặc chữ viết.\n\nVí dụ:\n- 読書 (dokusho): Đọc sách.\n- 読む (yomu): Đọc.\n- 読解 (dokkai): Hiểu biết qua đọc, khả năng "
+  },
+  "comments": [
+    {
+      "id": "654",
+      "lang": "vi",
+      "content_html": "<p>Anh ấy đã nói (言) rằng:</p><p>\"Hãy <strong>đọc </strong>quyển sách bán (売) chạy nhất này.\"</p>",
+      "content_text": "Anh ấy đã nói (言) rằng:\n\"Hãy\nđọc\nquyển sách bán (売) chạy nhất này.\"",
+      "image_url": "https://jpdictionary.com/upload/images/62982e7695e13.jpg",
+      "image_path": "assets/images/読_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158466",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>読む (よむ): đọc</p>",
+      "content_text": "JLPT N5\n読む (よむ): đọc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221774",
+      "lang": "vi",
+      "content_html": "<p>Kẻ \"Sĩ\" ngồi trên \"Bàn\" (gần giống)<strong> ĐỌC</strong> ra \"Ngôn\"</p>",
+      "content_text": "Kẻ \"Sĩ\" ngồi trên \"Bàn\" (gần giống)\nĐỌC\nra \"Ngôn\"",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    },
+    {
+      "id": "221914",
+      "lang": "vi",
+      "content_html": "<p>読みます - ĐỘC (よみます): đọc</p><p>読書 - ĐỘC THƯ (どくしょ): đọc sách</p>",
+      "content_text": "読みます - ĐỘC (よみます): đọc\n読書 - ĐỘC THƯ (どくしょ): đọc sách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5167",
+        "name": "v v",
+        "image_url": "https://jpdictionary.com/upload/images/681ca46917089.jpg"
+      }
+    }
+  ]
+}

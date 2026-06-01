@@ -1,0 +1,92 @@
+{
+  "kanji": "脚",
+  "meta": {
+    "weight": 2197,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キャク",
+      "キャ",
+      "カク"
+    ],
+    "kun": [
+      "あし"
+    ],
+    "am_han": "CƯỚC"
+  },
+  "meaning": {
+    "vi": "trượt, chân, gầm, phần dưới, đế",
+    "en": "skids, leg, undercarriage, lower part, base"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/脚.svg"
+  },
+  "frequency": 1228,
+  "examples": [
+    "脚本",
+    "脚",
+    "立脚",
+    "脚光",
+    "脚色"
+  ],
+  "explanation": {
+    "id": "1489",
+    "text": "脚 (đọc là \"ashi\" hoặc \"kyaku\") có nghĩa là \"chân\" hoặc \"bộ phận chân\", dùng để chỉ các phần của cơ thể liên quan đến di chuyển. \n\nVí dụ:\n- 足りる (tariru): Đủ, vừa đủ.\n- 脚本 (kyakuhon): Kịch bản"
+  },
+  "comments": [
+    {
+      "id": "156338",
+      "lang": "vi",
+      "content_html": "<p>Chân của chị Nguyệt quá Khứ phải dùng nạng Tre</p>",
+      "content_text": "Chân của chị Nguyệt quá Khứ phải dùng nạng Tre",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156339",
+      "lang": "vi",
+      "content_html": "<p>Khước từ là ăn 1 cước của chị nguyệt</p>",
+      "content_text": "Khước từ là ăn 1 cước của chị nguyệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156340",
+      "lang": "vi",
+      "content_html": "<p>1 cước của nguyệt trong quá khứ gãy 1 đốt tre</p>",
+      "content_text": "1 cước của nguyệt trong quá khứ gãy 1 đốt tre",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

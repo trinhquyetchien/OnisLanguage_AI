@@ -1,0 +1,91 @@
+{
+  "kanji": "帯",
+  "meta": {
+    "weight": 838,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ"
+    ],
+    "kun": [
+      "お.びる",
+      "おび"
+    ],
+    "am_han": "ĐỚI"
+  },
+  "meaning": {
+    "vi": "vành đai, nhiệt đới, ôn đới",
+    "en": "sash, belt, obi, zone, region"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/帯.svg"
+  },
+  "frequency": 746,
+  "examples": [
+    "携帯",
+    "帯",
+    "世帯",
+    "地帯",
+    "連帯"
+  ],
+  "explanation": {
+    "id": "4937",
+    "text": "帯 (đọc là \"tai\") có nghĩa là \"dây thắt lưng\", \"vòng\" hoặc \"mang\". Nó thường chỉ các vật dụng liên quan đến việc buộc, thắt hoặc mang theo đồ vật.\n\nVí dụ:\n- 帯びる (obiru): Mang, đeo (thường dùn"
+  },
+  "comments": [
+    {
+      "id": "153257",
+      "lang": "vi",
+      "content_html": "<p>THÀNH PHỐ bên dưới NGỌN NÚI có khí hậu ôn ĐỚI</p>",
+      "content_text": "THÀNH PHỐ bên dưới NGỌN NÚI có khí hậu ôn ĐỚI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153258",
+      "lang": "vi",
+      "content_html": "<p>Sống giữa vành ĐAI Núi và đô Thị là ôn ĐỚI Nhất</p>",
+      "content_text": "Sống giữa vành ĐAI Núi và đô Thị là ôn ĐỚI Nhất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153259",
+      "lang": "vi",
+      "content_html": "<p>Vùng núi và thành thị ngăn cách nhau bởi 1 vành đai nhiệt ĐỚI</p>",
+      "content_text": "Vùng núi và thành thị ngăn cách nhau bởi 1 vành đai nhiệt ĐỚI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

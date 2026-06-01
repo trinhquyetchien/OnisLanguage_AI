@@ -1,0 +1,105 @@
+{
+  "kanji": "晩",
+  "meta": {
+    "weight": 1238,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バン"
+    ],
+    "kun": [],
+    "am_han": "VÃN"
+  },
+  "meaning": {
+    "vi": "đêm",
+    "en": "nightfall, night"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/晩.svg"
+  },
+  "frequency": 1424,
+  "examples": [
+    "晩",
+    "昨晩",
+    "今晩",
+    "一晩",
+    "毎晩"
+  ],
+  "explanation": {
+    "id": "6512",
+    "text": "晩 (đọc là \"ban\") có nghĩa là \"buổi tối\" hoặc \"khuya\", chỉ thời gian vào buổi chiều muộn hoặc đêm.  \nVí dụ:  \n- 晩ごはん (bangohan): Bữa tối.  \n- 晩年 (bannen): Năm tháng cuối đời.  \n- 晩霞 (banka): "
+  },
+  "comments": [
+    {
+      "id": "721",
+      "lang": "vi",
+      "content_html": "<p>Đứa trẻ về nhà trong lúc trời chưa <strong>tối</strong>.</p>",
+      "content_text": "Đứa trẻ về nhà trong lúc trời chưa\ntối\n.",
+      "image_url": "https://jpdictionary.com/upload/images/629840a1b726a.jpg",
+      "image_path": "assets/images/晩_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154243",
+      "lang": "vi",
+      "content_html": "<p>“Miễn là không phải ngày “ thì là đêm rồi</p>",
+      "content_text": "“Miễn là không phải ngày “ thì là đêm rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154244",
+      "lang": "vi",
+      "content_html": "<p>Ngày 日 nào cũng than VÃN khi nào mới được miễn 免 tội</p>",
+      "content_text": "Ngày 日 nào cũng than VÃN khi nào mới được miễn 免 tội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154245",
+      "lang": "vi",
+      "content_html": "<p>Tối 晩 Ngày 日 than VÃN, sao được Miễn 免 tội</p>",
+      "content_text": "Tối 晩 Ngày 日 than VÃN, sao được Miễn 免 tội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "kanji": "弾",
+  "meta": {
+    "weight": 907,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダン",
+      "タン"
+    ],
+    "kun": [
+      "ひ.く",
+      "-ひ.き",
+      "はず.む",
+      "たま",
+      "はじ.く",
+      "はじ.ける",
+      "ただ.す",
+      "はじ.きゆみ"
+    ],
+    "am_han": "ĐÀN, ĐẠN"
+  },
+  "meaning": {
+    "vi": "đạn, twang, lật, snap",
+    "en": "bullet, twang, flip, snap"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/弾.svg"
+  },
+  "frequency": 853,
+  "examples": [
+    "弾",
+    "爆弾",
+    "弾圧",
+    "弾き",
+    "弾く"
+  ],
+  "explanation": {
+    "id": "5172",
+    "text": "弾 (đọc là \"dan\" hoặc \"daito\") có nghĩa là \"bắn\", \"đạn\", thường chỉ các hành động liên quan đến việc bắn súng hoặc phát ra âm thanh mạnh mẽ.  \nVí dụ:  \n- 弾丸 (dangan): Đạn, viên đạn.  \n- 弾く (h"
+  },
+  "comments": [
+    {
+      "id": "153419",
+      "lang": "vi",
+      "content_html": "<p>đơn giản hơn việc dùng cung chính là dùng đạn</p>",
+      "content_text": "đơn giản hơn việc dùng cung chính là dùng đạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153420",
+      "lang": "vi",
+      "content_html": "<p>Đơn độc bên cung đàn</p>",
+      "content_text": "Đơn độc bên cung đàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153421",
+      "lang": "vi",
+      "content_html": "<p>Dùng cung đơn giản hơn dùng ĐẠN</p>",
+      "content_text": "Dùng cung đơn giản hơn dùng ĐẠN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

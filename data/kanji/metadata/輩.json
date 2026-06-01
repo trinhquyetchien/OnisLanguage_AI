@@ -1,0 +1,93 @@
+{
+  "kanji": "輩",
+  "meta": {
+    "weight": 2617,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハイ"
+    ],
+    "kun": [
+      "-ばら",
+      "やから",
+      "やかい",
+      "ともがら"
+    ],
+    "am_han": "BỐI"
+  },
+  "meaning": {
+    "vi": "đồng chí, đồng nghiệp, mọi người, đồng hành",
+    "en": "comrade, fellow, people, companions"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/輩.svg"
+  },
+  "frequency": 1365,
+  "examples": [
+    "先輩",
+    "後輩",
+    "輩",
+    "輩出",
+    "我輩"
+  ],
+  "explanation": {
+    "id": "6279",
+    "text": "輩 (đọc là \"bai\") có nghĩa là \"thế hệ\", \"người\" để chỉ nhóm người cùng thế hệ hoặc những người đồng cấp.\nVí dụ:\n- 輩出 (bai shutsu): Sự xuất hiện, sản sinh ra người tài năng hoặc nhân vật nổi b"
+  },
+  "comments": [
+    {
+      "id": "157237",
+      "lang": "vi",
+      "content_html": "<p>tiền BỐI thường ngồi chiếc XE PHI thường...</p>",
+      "content_text": "tiền BỐI thường ngồi chiếc XE PHI thường...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157238",
+      "lang": "vi",
+      "content_html": "<p>Tiền BỐI có khác! PHI XE siêu thật!</p>",
+      "content_text": "Tiền BỐI có khác! PHI XE siêu thật!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157239",
+      "lang": "vi",
+      "content_html": "<p>tiền BỐI luôn là người PHI XE đi trước!</p>",
+      "content_text": "tiền BỐI luôn là người PHI XE đi trước!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

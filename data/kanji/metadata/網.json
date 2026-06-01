@@ -1,0 +1,90 @@
+{
+  "kanji": "網",
+  "meta": {
+    "weight": 2088,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モウ"
+    ],
+    "kun": [
+      "あみ"
+    ],
+    "am_han": "VÕNG"
+  },
+  "meaning": {
+    "vi": "netting, mạng",
+    "en": "netting, network"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/網.svg"
+  },
+  "frequency": 1194,
+  "examples": [
+    "網",
+    "網羅",
+    "網膜",
+    "網戸",
+    "金網"
+  ],
+  "explanation": {
+    "id": "7610",
+    "text": "網 (đọc là \"mō\") có nghĩa là \"lưới\" hoặc \"mạng\", chỉ các vật dụng dùng để bắt cá hoặc đồ vật có lỗ hổng giống như lưới.\n\nVí dụ:\n- 網目 (amime): Lỗ của lưới.\n- 網羅 (mōra): Bao quát, bao gồm mọi t"
+  },
+  "comments": [
+    {
+      "id": "156078",
+      "lang": "vi",
+      "content_html": "<p>dùng chỉ móc thành tấm lưới, cá nhảu vào trong thì chỉ có chết</p>",
+      "content_text": "dùng chỉ móc thành tấm lưới, cá nhảu vào trong thì chỉ có chết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156079",
+      "lang": "vi",
+      "content_html": "<p>Dây lưới dài thiên la địa võng kẻ mắc vào trong vểnh tai chờ chết</p>",
+      "content_text": "Dây lưới dài thiên la địa võng kẻ mắc vào trong vểnh tai chờ chết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156080",
+      "lang": "vi",
+      "content_html": "<p>Dùng dây Võng đan Lưới</p>",
+      "content_text": "Dùng dây Võng đan Lưới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "懇",
+  "meta": {
+    "weight": 1024,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン"
+    ],
+    "kun": [
+      "ねんご.ろ"
+    ],
+    "am_han": "KHẨN"
+  },
+  "meaning": {
+    "vi": "hòa đồng, tốt bụng, lịch sự, mến khách, thân ái",
+    "en": "sociable, kind, courteous, hospitable, cordial"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/懇.svg"
+  },
+  "frequency": 1135,
+  "examples": [
+    "懇談",
+    "懇親",
+    "懇願",
+    "懇切",
+    "懇話"
+  ],
+  "explanation": {
+    "id": "2695",
+    "text": "懇 (đọc là \"kon\") có nghĩa là \"thân mật\", \"chân thành\" để chỉ sự gần gũi, ấm áp trong mối quan hệ hoặc thái độ.  \nVí dụ:  \n- 懇親会 (konshinkai): Tiệc giao lưu, gặp gỡ thân mật.  \n- 懇願 (kongan):"
+  },
+  "comments": [
+    {
+      "id": "153730",
+      "lang": "vi",
+      "content_html": "<p>Khẩn bằng lương tâm con lợn</p>",
+      "content_text": "Khẩn bằng lương tâm con lợn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153731",
+      "lang": "vi",
+      "content_html": "<p>Lương Tâm con Lợn luôn thành Khẩn</p>",
+      "content_text": "Lương Tâm con Lợn luôn thành Khẩn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153732",
+      "lang": "vi",
+      "content_html": "<p>Những con sâu trĩ lấn cấn KHẨN cầu với cả trái tim</p>",
+      "content_text": "Những con sâu trĩ lấn cấn KHẨN cầu với cả trái tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

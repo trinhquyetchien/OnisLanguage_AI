@@ -1,0 +1,68 @@
+{
+  "kanji": "碧",
+  "meta": {
+    "weight": 1887,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘキ",
+      "ヒャク"
+    ],
+    "kun": [],
+    "am_han": "BÍCH"
+  },
+  "meaning": {
+    "vi": "xanh lam, xanh lục",
+    "en": "blue, green"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/碧.svg"
+  },
+  "frequency": 2455,
+  "examples": [
+    "碧"
+  ],
+  "explanation": {
+    "id": "7035",
+    "text": "碧 (đọc là \"heki\" hoặc \"aoi\") có nghĩa là \"màu xanh lam\", thường chỉ về các sắc thái của màu xanh trong tự nhiên, đặc biệt là màu của nước. \n\nVí dụ:\n- 碧空 (heki-sora): Bầu trời xanh.\n- 碧玉 (hek"
+  },
+  "comments": [
+    {
+      "id": "155656",
+      "lang": "vi",
+      "content_html": "<p>ông vua mặt trắng tặng cho một hòn đá ngọc bích</p>",
+      "content_text": "ông vua mặt trắng tặng cho một hòn đá ngọc bích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155657",
+      "lang": "vi",
+      "content_html": "<p>Bạch vương có hòn đá màu xanh ngọc BÍCH</p>",
+      "content_text": "Bạch vương có hòn đá màu xanh ngọc BÍCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

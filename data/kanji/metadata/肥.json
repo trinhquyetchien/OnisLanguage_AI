@@ -1,0 +1,94 @@
+{
+  "kanji": "肥",
+  "meta": {
+    "weight": 2173,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "こ.える",
+      "こえ",
+      "こ.やす",
+      "こ.やし",
+      "ふと.る"
+    ],
+    "am_han": "PHÌ"
+  },
+  "meaning": {
+    "vi": "phân bón, béo lên, màu mỡ, phân, nuông chiều",
+    "en": "fertilizer, get fat, fertile, manure, pamper"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/肥.svg"
+  },
+  "frequency": 1469,
+  "examples": [
+    "肥料",
+    "肥満",
+    "肥大",
+    "肥後",
+    "堆肥"
+  ],
+  "explanation": {
+    "id": "6588",
+    "text": "肥 (đọc là \"hi\") có nghĩa là \"mập\", \"béo\" để chỉ tình trạng cơ thể hoặc thực phẩm có nhiều chất béo.  \nVí dụ:  \n- 肥満 (himan): Béo phì.  \n- 肥料 (hiryou): Phân bón.  \n- 肥沃 (hiwaku): Màu mỡ, phon"
+  },
+  "comments": [
+    {
+      "id": "156277",
+      "lang": "vi",
+      "content_html": "<p>Chị nguyệt béo phì màu 色 mỡ.</p>",
+      "content_text": "Chị nguyệt béo phì màu 色 mỡ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156278",
+      "lang": "vi",
+      "content_html": "<p>Ba chị nguyệt bị bệnh béo phì</p>",
+      "content_text": "Ba chị nguyệt bị bệnh béo phì",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156279",
+      "lang": "vi",
+      "content_html": "<p>Ba của Nguyệt béo PHÌ</p>",
+      "content_text": "Ba của Nguyệt béo PHÌ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

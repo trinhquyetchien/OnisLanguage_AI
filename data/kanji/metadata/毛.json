@@ -1,0 +1,90 @@
+{
+  "kanji": "毛",
+  "meta": {
+    "weight": 1476,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モウ"
+    ],
+    "kun": [
+      "け"
+    ],
+    "am_han": "MAO"
+  },
+  "meaning": {
+    "vi": "lông",
+    "en": "fur, hair, feather, down"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/毛.svg"
+  },
+  "frequency": 1179,
+  "examples": [
+    "毛",
+    "髪の毛",
+    "毛布",
+    "不毛",
+    "育毛"
+  ],
+  "explanation": {
+    "id": "7602",
+    "text": "毛 (đọc là \"mou\") có nghĩa là \"lông\", \"sợi\", chỉ các yếu tố liên quan đến lông, tóc hoặc sợi tơ.  \nVí dụ:  \n- 毛髪 (mouhatsu): Tóc.  \n- 毛布 (moufu): Chăn lông.  \n- 髪毛 (kamimou): Tóc và lông."
+  },
+  "comments": [
+    {
+      "id": "154740",
+      "lang": "vi",
+      "content_html": "<p>Ngược của cái tay là cái lông hay gọi là lông MAO</p>",
+      "content_text": "Ngược của cái tay là cái lông hay gọi là lông MAO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154741",
+      "lang": "vi",
+      "content_html": "<p>Mao Tay ngược thì nhiều Lông.</p>",
+      "content_text": "Mao Tay ngược thì nhiều Lông.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154742",
+      "lang": "vi",
+      "content_html": "<p>手  毛<br>THỦ  MÔ</p>",
+      "content_text": "手  毛\nTHỦ  MÔ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

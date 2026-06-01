@@ -1,0 +1,101 @@
+{
+  "kanji": "貿",
+  "meta": {
+    "weight": 2559,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [],
+    "am_han": "MẬU"
+  },
+  "meaning": {
+    "vi": "mua bán, mậu dịch",
+    "en": "trade, exchange"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/貿.svg"
+  },
+  "frequency": 652,
+  "examples": [
+    "貿易"
+  ],
+  "explanation": {
+    "id": "7300",
+    "text": "貿 (đọc là \"bō\") có nghĩa là \"thương mại\", \"giao dịch\" để chỉ các hoạt động liên quan đến việc buôn bán và trao đổi hàng hóa hoặc dịch vụ.  \nVí dụ:  \n- 貿易 (bōeki): Thương mại, buôn bán quốc t"
+  },
+  "comments": [
+    {
+      "id": "157091",
+      "lang": "vi",
+      "content_html": "<p>MẬU dịch là LƯU (留）hành bằng tiền（貝）chứ không phải bằng ruộng(田）</p>",
+      "content_text": "MẬU dịch là LƯU (留）hành bằng tiền（貝）chứ không phải bằng ruộng(田）",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190712",
+      "lang": "vi",
+      "content_html": "<p>đội mũ cầm sò đi mua bán mậu dịch</p>",
+      "content_text": "đội mũ cầm sò đi mua bán mậu dịch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157092",
+      "lang": "vi",
+      "content_html": "<p>Tiền giao dịch trao đổi qua lại là mậu dịch</p>",
+      "content_text": "Tiền giao dịch trao đổi qua lại là mậu dịch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157093",
+      "lang": "vi",
+      "content_html": "<p>mão+bối=&#62; giờ mão là giờ tốt để mậu(giao) dịch tiền bạc với nhau!</p>",
+      "content_text": "mão+bối=> giờ mão là giờ tốt để mậu(giao) dịch tiền bạc với nhau!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "眉",
+  "meta": {
+    "weight": 1842,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビ",
+      "ミ"
+    ],
+    "kun": [
+      "まゆ"
+    ],
+    "am_han": "MI, MY"
+  },
+  "meaning": {
+    "vi": "lông mày",
+    "en": "eyebrow"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/眉.svg"
+  },
+  "frequency": 2177,
+  "examples": [
+    "眉",
+    "眉毛",
+    "眉間",
+    "白眉"
+  ],
+  "explanation": {
+    "id": "6630",
+    "text": "眉 (đọc là \"bi\") có nghĩa là \"lông mày\", chỉ bộ phận trên khuôn mặt của con người. \n\nVí dụ:\n- 眉毛 (mayuge): Lông mày.\n- 眉間 (mieken): Giữa hai lông mày, trán.\n- 眉をひそめる (bi o hisomeru): Nhăn mày"
+  },
+  "comments": [
+    {
+      "id": "155559",
+      "lang": "vi",
+      "content_html": "<p>Xác chết bị chia đôi. chết không nhắm mắt nên Mi Mắt vẫn mở ra</p>",
+      "content_text": "Xác chết bị chia đôi. chết không nhắm mắt nên Mi Mắt vẫn mở ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155560",
+      "lang": "vi",
+      "content_html": "<p>mái hiên của mắt là lông mi</p>",
+      "content_text": "mái hiên của mắt là lông mi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155561",
+      "lang": "vi",
+      "content_html": "<p>Trên 2 mắt có lông mi</p>",
+      "content_text": "Trên 2 mắt có lông mi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

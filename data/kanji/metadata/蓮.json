@@ -1,0 +1,91 @@
+{
+  "kanji": "蓮",
+  "meta": {
+    "weight": 2331,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レン"
+    ],
+    "kun": [
+      "はす",
+      "はちす"
+    ],
+    "am_han": "LIÊN"
+  },
+  "meaning": {
+    "vi": "hoa sen",
+    "en": "lotus"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/蓮.svg"
+  },
+  "frequency": 1839,
+  "examples": [
+    "蓮",
+    "蓮華",
+    "睡蓮",
+    "日蓮宗",
+    "蓮池"
+  ],
+  "explanation": {
+    "id": "8292",
+    "text": "蓮 (đọc là \"ren\") có nghĩa là \"hoa sen\", một biểu tượng của sự thanh khiết và tâm linh trong văn hóa Nhật Bản. \n\nVí dụ:\n- 蓮の花 (ren no hana): Hoa sen.\n- 蓮池 (hasuike): Ao sen.\n- 蓮華 (renge): Hoa"
+  },
+  "comments": [
+    {
+      "id": "156592",
+      "lang": "vi",
+      "content_html": "<p>Liên lạc với hoa cỏ là hoa sen của việt nam</p>",
+      "content_text": "Liên lạc với hoa cỏ là hoa sen của việt nam",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156593",
+      "lang": "vi",
+      "content_html": "<p>Cỏ Liên là Sen / Hasu</p>",
+      "content_text": "Cỏ Liên là Sen / Hasu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156594",
+      "lang": "vi",
+      "content_html": "<p>Hoa được xe chở trên đường là LIÊN hoa đăng ( hoa sen )</p>",
+      "content_text": "Hoa được xe chở trên đường là LIÊN hoa đăng ( hoa sen )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

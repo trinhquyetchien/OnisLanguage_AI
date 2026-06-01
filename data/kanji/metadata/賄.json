@@ -1,0 +1,90 @@
+{
+  "kanji": "賄",
+  "meta": {
+    "weight": 2563,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ワイ"
+    ],
+    "kun": [
+      "まかな.う"
+    ],
+    "am_han": "HỐI"
+  },
+  "meaning": {
+    "vi": "hối lộ, hội đồng quản trị, cung cấp, tài chính",
+    "en": "bribe, board, supply, finance"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/賄.svg"
+  },
+  "frequency": 1282,
+  "examples": [
+    "賄賂",
+    "賄う",
+    "賄",
+    "収賄",
+    "賄い"
+  ],
+  "explanation": {
+    "id": "8396",
+    "text": "賄 (đọc là \"kai\") có nghĩa là \"hối lộ\" hoặc \"đút lót\", chỉ hành động đưa tiền hoặc quà để nhận được sự ưu ái, lợi ích.  \nVí dụ:  \n- 賄賂 (wairo): Hối lộ.  \n- 賄う (manau): Cung cấp, chu cấp (tron"
+  },
+  "comments": [
+    {
+      "id": "157100",
+      "lang": "vi",
+      "content_html": "<p>Có tiền thì nghĩ ngay đến hội lộ</p>",
+      "content_text": "Có tiền thì nghĩ ngay đến hội lộ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157101",
+      "lang": "vi",
+      "content_html": "<p>Có tiền phải dùng vào việc Hữu ích<br>Không thì sẽ HỐI hận !!!</p>",
+      "content_text": "Có tiền phải dùng vào việc Hữu ích\nKhông thì sẽ HỐI hận !!!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157102",
+      "lang": "vi",
+      "content_html": "<p>hối lộ khi có bảo bối</p>",
+      "content_text": "hối lộ khi có bảo bối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

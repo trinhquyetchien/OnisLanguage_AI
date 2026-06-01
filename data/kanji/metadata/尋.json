@@ -1,0 +1,91 @@
+{
+  "kanji": "尋",
+  "meta": {
+    "weight": 758,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジン"
+    ],
+    "kun": [
+      "たず.ねる",
+      "ひろ"
+    ],
+    "am_han": "TẦM"
+  },
+  "meaning": {
+    "vi": "hỏi, tìm hiểu, tìm kiếm",
+    "en": "inquire, fathom, look for"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/尋.svg"
+  },
+  "frequency": 1398,
+  "examples": [
+    "お尋ね",
+    "尋ね",
+    "尋ねる",
+    "尋問",
+    "尋常"
+  ],
+  "explanation": {
+    "id": "4160",
+    "text": "尋 (đọc là \"shin\") có nghĩa là \"tìm kiếm\", \"thăm dò\", chỉ các hành động liên quan đến việc tìm ra cái gì đó hoặc điều tra thông tin.\nVí dụ:\n- 尋ねる (tazuneru): Hỏi thăm, tìm kiếm.\n- 尋常 (jōjun):"
+  },
+  "comments": [
+    {
+      "id": "153058",
+      "lang": "vi",
+      "content_html": "<p>Tầm 3 giờ  làm ở Công trường  mà Miệng cứ Hỏi mấy giờ  thấy Thốn thật đấy</p>",
+      "content_text": "Tầm 3 giờ  làm ở Công trường  mà Miệng cứ Hỏi mấy giờ  thấy Thốn thật đấy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153059",
+      "lang": "vi",
+      "content_html": "<p>anh công nhân tay làm miệng hỏi để nâng tầm hiểu biết</p>",
+      "content_text": "anh công nhân tay làm miệng hỏi để nâng tầm hiểu biết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153060",
+      "lang": "vi",
+      "content_html": "<p>Tìm kiếm Em trong công trường thật là Thốn</p>",
+      "content_text": "Tìm kiếm Em trong công trường thật là Thốn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

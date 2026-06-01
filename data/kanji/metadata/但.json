@@ -1,0 +1,88 @@
+{
+  "kanji": "但",
+  "meta": {
+    "weight": 168,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "ただ.し"
+    ],
+    "am_han": "ĐÃN"
+  },
+  "meaning": {
+    "vi": "tuy nhiên, nhưng",
+    "en": "however, but"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/但.svg"
+  },
+  "frequency": 2404,
+  "examples": [
+    "但し",
+    "但馬",
+    "但し書き"
+  ],
+  "explanation": {
+    "id": "5072",
+    "text": "但 (đọc là \"dan\") có nghĩa là \"nhưng\", \"tuy nhiên\", thường dùng để thể hiện sự đối lập hoặc ngược lại giữa các ý tưởng. \n\nVí dụ:\n- しかし、(shikashi): Tuy nhiên, nhưng.\n- ただし (tadashi): Tuy nhiên"
+  },
+  "comments": [
+    {
+      "id": "151611",
+      "lang": "vi",
+      "content_html": "<p>Người cán đán 1 ngày tuy nhiên ...</p>",
+      "content_text": "Người cán đán 1 ngày tuy nhiên ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151612",
+      "lang": "vi",
+      "content_html": "<p>Mọi người イ　vào ngày tết nguyên đán 旦 rất vui , tuy nhiên hay đãn trí 但</p>",
+      "content_text": "Mọi người イ　vào ngày tết nguyên đán 旦 rất vui , tuy nhiên hay đãn trí 但",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151613",
+      "lang": "vi",
+      "content_html": "<p>Người phải đứng vào ngày 1 tết nguyên đán tuy nhiên ....</p>",
+      "content_text": "Người phải đứng vào ngày 1 tết nguyên đán tuy nhiên ....",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

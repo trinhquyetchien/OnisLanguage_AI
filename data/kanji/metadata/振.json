@@ -1,0 +1,92 @@
+{
+  "kanji": "振",
+  "meta": {
+    "weight": 1095,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [
+      "ふ.る",
+      "ふ.れる",
+      "ふ.るう"
+    ],
+    "am_han": "CHẤN, CHÂN"
+  },
+  "meaning": {
+    "vi": "lắc, vẫy, vẫy tay, lắc lư",
+    "en": "shake, wave, wag, swing"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/振.svg"
+  },
+  "frequency": 614,
+  "examples": [
+    "振興",
+    "振り",
+    "振動",
+    "振り返る",
+    "振る"
+  ],
+  "explanation": {
+    "id": "4075",
+    "text": "振 (đọc là \"shin\" hoặc \"furu\") có nghĩa là \"rung\", \"chấn động\" để chỉ các hành động liên quan đến sự chuyển động, rung lắc hoặc ảnh hưởng.  \nVí dụ:  \n- 振動 (shindō): Chấn động, rung động.  \n- "
+  },
+  "comments": [
+    {
+      "id": "153919",
+      "lang": "vi",
+      "content_html": "<p>THẦN ra TAY làm CHẤN động mặt đất</p>",
+      "content_text": "THẦN ra TAY làm CHẤN động mặt đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153920",
+      "lang": "vi",
+      "content_html": "<p>Đưa tay chấn chỉnh phong cách khí phách trong tâm</p>",
+      "content_text": "Đưa tay chấn chỉnh phong cách khí phách trong tâm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153921",
+      "lang": "vi",
+      "content_html": "<p>dùng tay bắt rồng thần làm CHẤN động đất trời</p>",
+      "content_text": "dùng tay bắt rồng thần làm CHẤN động đất trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

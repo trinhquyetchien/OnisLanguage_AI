@@ -1,0 +1,51 @@
+{
+  "kanji": "濠",
+  "meta": {
+    "weight": 1630,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴウ",
+      "コウ"
+    ],
+    "kun": [
+      "ほり"
+    ],
+    "am_han": "HÀO"
+  },
+  "meaning": {
+    "vi": "hào, mương, kênh đào, Úc",
+    "en": "moat, ditch, canal, Australia"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/濠.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2616",
+    "text": "濠 (đọc là \"gō\") có nghĩa là \"hào\", chỉ một loại rãnh hay mương được đào quanh thành phố hoặc lâu đài để phòng thủ. \n\nVí dụ:\n- 濠溝 (gōkō): Rãnh bảo vệ, hào nước.\n- 濠端 (gōtan): Bờ hào.\n- 城濠 (jō"
+  },
+  "comments": [
+    {
+      "id": "219994",
+      "lang": "vi",
+      "content_html": "<p>con lợn rơi xuống cái hào nước cao quá không trèo lên được.</p>",
+      "content_text": "con lợn rơi xuống cái hào nước cao quá không trèo lên được.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

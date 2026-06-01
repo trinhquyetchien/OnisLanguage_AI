@@ -1,0 +1,117 @@
+{
+  "kanji": "済",
+  "meta": {
+    "weight": 1568,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ",
+      "セイ"
+    ],
+    "kun": [
+      "す.む",
+      "-ず.み",
+      "-ずみ",
+      "す.まない",
+      "す.ます",
+      "-す.ます",
+      "すく.う",
+      "な.す",
+      "わたし",
+      "わた.る"
+    ],
+    "am_han": "TẾ"
+  },
+  "meaning": {
+    "vi": "kinh tế",
+    "en": "settle (debt, etc.), relieve (burden), finish, come to an end, excusable, need not"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/済.svg"
+  },
+  "frequency": 168,
+  "examples": [
+    "経済",
+    "済み",
+    "救済",
+    "返済",
+    "済む"
+  ],
+  "explanation": {
+    "id": "2803",
+    "text": "済 (đọc là \"sai\" hoặc \"ze\") có nghĩa là \"hoàn tất\", \"giải quyết\" để chỉ các hành động liên quan đến việc hoàn thành hoặc thanh toán.\n\nVí dụ:\n- 済む (sumu): Hoàn tất, giải quyết.\n- 済ませる (sumaser"
+  },
+  "comments": [
+    {
+      "id": "37137",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã viết câu văn (文) lên bảng hiệu và <strong>hoàn tất </strong>công việc.</p>",
+      "content_text": "Tôi đã viết câu văn (文) lên bảng hiệu và\nhoàn tất\ncông việc.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdba09ec332.jpg",
+      "image_path": "assets/images/済_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154959",
+      "lang": "vi",
+      "content_html": "<p>đem Thủy Tề đi Tế</p>",
+      "content_text": "đem Thủy Tề đi Tế",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154960",
+      "lang": "vi",
+      "content_html": "<p>nước TỀ làm kinh TẾ</p>",
+      "content_text": "nước TỀ làm kinh TẾ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154961",
+      "lang": "vi",
+      "content_html": "<p>Vua thuỷ 水 tề 斉 đòi làm kinh tế 経済</p>",
+      "content_text": "Vua thuỷ 水 tề 斉 đòi làm kinh tế 経済",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

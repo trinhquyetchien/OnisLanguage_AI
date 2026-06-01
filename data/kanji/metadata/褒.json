@@ -1,0 +1,87 @@
+{
+  "kanji": "褒",
+  "meta": {
+    "weight": 2433,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "ほ.める"
+    ],
+    "am_han": "BAO"
+  },
+  "meaning": {
+    "vi": "khen ngợi, extol",
+    "en": "praise, extol"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/褒.svg"
+  },
+  "frequency": 2073,
+  "examples": [
+    "褒美",
+    "褒める"
+  ],
+  "explanation": {
+    "id": "7217",
+    "text": "褒 (đọc là \"hō\") có nghĩa là \"khen ngợi\" để chỉ các hành động liên quan đến việc ca ngợi hoặc tán dương một người hay sự việc.\n\nVí dụ:\n- 褒める (homeru): Khen ngợi, tán dương.\n- 褒賞 (hōshō): Giải"
+  },
+  "comments": [
+    {
+      "id": "156772",
+      "lang": "vi",
+      "content_html": "<p>Khen ngợi người bảo vệ y phục trong nhà</p>",
+      "content_text": "Khen ngợi người bảo vệ y phục trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156773",
+      "lang": "vi",
+      "content_html": "<p>Bao lần khen ngợi người bảo vệ y phục trong nhà</p>",
+      "content_text": "Bao lần khen ngợi người bảo vệ y phục trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156774",
+      "lang": "vi",
+      "content_html": "<p>bạn có biết khen trang phục chính là cách để bảo vệ mối quan hệ thảo mai đấy.</p>",
+      "content_text": "bạn có biết khen trang phục chính là cách để bảo vệ mối quan hệ thảo mai đấy.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

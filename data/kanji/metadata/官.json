@@ -1,0 +1,88 @@
+{
+  "kanji": "官",
+  "meta": {
+    "weight": 714,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [],
+    "am_han": "QUAN"
+  },
+  "meaning": {
+    "vi": "quan chức",
+    "en": "bureaucrat, the government, organ"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/官.svg"
+  },
+  "frequency": 230,
+  "examples": [
+    "官",
+    "長官",
+    "裁判官",
+    "官僚",
+    "官房"
+  ],
+  "explanation": {
+    "id": "1090",
+    "text": "官 (đọc là \"kan\") có nghĩa là \"quan\" để chỉ người giữ chức vụ, có quyền lực trong quản lý nhà nước hoặc tổ chức. \n\nVí dụ:\n- 官僚 (kanryō): Quan liêu, viên chức chính phủ.\n- 官職 (kanshoku): Chức "
+  },
+  "comments": [
+    {
+      "id": "152938",
+      "lang": "vi",
+      "content_html": "<p>Người bụng to ở trong nhà là làm quan</p>",
+      "content_text": "Người bụng to ở trong nhà là làm quan",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152939",
+      "lang": "vi",
+      "content_html": "<p>Quan chức trong nhà lắm mồm</p>",
+      "content_text": "Quan chức trong nhà lắm mồm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152940",
+      "lang": "vi",
+      "content_html": "<p>trong nhà phải có miệng to miệng nhỏ mới bàn được chuyện quan trọng</p>",
+      "content_text": "trong nhà phải có miệng to miệng nhỏ mới bàn được chuyện quan trọng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

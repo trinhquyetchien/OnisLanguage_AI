@@ -1,0 +1,88 @@
+{
+  "kanji": "釆",
+  "meta": {
+    "weight": 2731,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン",
+      "ベン",
+      "サイ"
+    ],
+    "kun": [
+      "と.る",
+      "いろどり",
+      "のごめ"
+    ],
+    "am_han": "BIỆN"
+  },
+  "meaning": {
+    "vi": "tách, chia, gốc gạo trên cùng (số 165)",
+    "en": "separate, divide, topped rice radical (no. 165)"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/釆.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6496",
+    "text": "釆 (đọc là \"hane\") có nghĩa là \"phân chia\", \"tách biệt\" để chỉ các hành động liên quan đến việc phân loại hay lựa chọn.\n\nVí dụ:\n- 釆取 (hane-dori): Phân loại, lựa chọn.\n- 釆発 (hane-hatsu): Xuất "
+  },
+  "comments": [
+    {
+      "id": "220888",
+      "lang": "vi",
+      "content_html": "<p>Cắt ngọn thóc để BIỆN luận là ko ăn chộm thóc</p>",
+      "content_text": "Cắt ngọn thóc để BIỆN luận là ko ăn chộm thóc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220889",
+      "lang": "vi",
+      "content_html": "<p>Phân biệt( Biện) giữa chữ này với chứ Lai (来) là ko có cái phẩy trên đầu</p>",
+      "content_text": "Phân biệt( Biện) giữa chữ này với chứ Lai (来) là ko có cái phẩy trên đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220890",
+      "lang": "vi",
+      "content_html": "<p>Lúa liền Gạo thì cần phải BIỆN luận cho rõ ràng</p>",
+      "content_text": "Lúa liền Gạo thì cần phải BIỆN luận cho rõ ràng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

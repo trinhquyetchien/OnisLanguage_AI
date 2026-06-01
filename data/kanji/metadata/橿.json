@@ -1,0 +1,51 @@
+{
+  "kanji": "橿",
+  "meta": {
+    "weight": 1431,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "かし",
+      "もちのき"
+    ],
+    "am_han": "CƯƠNG"
+  },
+  "meaning": {
+    "vi": "cây sồi",
+    "en": "oak"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/橿.svg"
+  },
+  "frequency": 2198,
+  "examples": [],
+  "explanation": {
+    "id": "962",
+    "text": "橿 (đọc là \"kashi\" hoặc \"kashiwagi\") có nghĩa là \"cây sồi\" để chỉ loại cây thuộc họ sồi, thường được sử dụng trong văn hóa và nghệ thuật Nhật Bản. \n\nVí dụ:\n- 橿の木 (kashi no ki): Cây sồi.\n- 橿の葉"
+  },
+  "comments": [
+    {
+      "id": "154632",
+      "lang": "vi",
+      "content_html": "<p>Âm hán việt: CƯƠNG<br>橿　かし　cây sồi</p>",
+      "content_text": "Âm hán việt: CƯƠNG\n橿　かし　cây sồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

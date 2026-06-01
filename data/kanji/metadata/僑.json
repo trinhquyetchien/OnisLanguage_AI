@@ -1,0 +1,84 @@
+{
+  "kanji": "僑",
+  "meta": {
+    "weight": 243,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [],
+    "am_han": "KIỀU"
+  },
+  "meaning": {
+    "vi": "người nước ngoài, người sống ở nước ngoài, nhà tạm thời",
+    "en": "expatriate, person living abroad, temporary home"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/僑.svg"
+  },
+  "frequency": 2044,
+  "examples": [
+    "華僑"
+  ],
+  "explanation": {
+    "id": "1621",
+    "text": "僑 (đọc là \"kyō\") có nghĩa là \"người sống ở nước ngoài\", thường chỉ những người gốc Nhật sống tại nước khác. \n\nVí dụ:\n- 僑胞 (kyōhō): Người Nhật sinh sống ở nước ngoài.\n- 僑務所 (kyōmusho): Văn ph"
+  },
+  "comments": [
+    {
+      "id": "151798",
+      "lang": "vi",
+      "content_html": "<p>cây cầu cao đến tận trời xanh</p>",
+      "content_text": "cây cầu cao đến tận trời xanh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151799",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa thuý KIỀU là NGƯỜI đã ở nhờ chốn lầu xanh</p>",
+      "content_text": "Ngày xưa thuý KIỀU là NGƯỜI đã ở nhờ chốn lầu xanh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151800",
+      "lang": "vi",
+      "content_html": "<p>Bắt kiều( cầu) qua sông</p>",
+      "content_text": "Bắt kiều( cầu) qua sông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

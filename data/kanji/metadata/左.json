@@ -1,0 +1,91 @@
+{
+  "kanji": "左",
+  "meta": {
+    "weight": 818,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サ",
+      "シャ"
+    ],
+    "kun": [
+      "ひだり"
+    ],
+    "am_han": "TẢ"
+  },
+  "meaning": {
+    "vi": "bên trái",
+    "en": "left"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/左.svg"
+  },
+  "frequency": 630,
+  "examples": [
+    "左",
+    "左右",
+    "左手",
+    "左翼",
+    "左側"
+  ],
+  "explanation": {
+    "id": "2739",
+    "text": "左 (đọc là \"hidari\") có nghĩa là \"trái\" để chỉ hướng bên trái trong không gian.  \nVí dụ:  \n- 左側 (hidarigawa): Bên trái.  \n- 左手 (hidarite): Tay trái.  \n- 左折 (zasetsu): Rẽ trái."
+  },
+  "comments": [
+    {
+      "id": "519",
+      "lang": "vi",
+      "content_html": "<p>Nắm cây thước bằng tay <strong>trái</strong>.</p>",
+      "content_text": "Nắm cây thước bằng tay\ntrái\n.",
+      "image_url": "https://jpdictionary.com/upload/images/6297682bb73b9.jpg",
+      "image_path": "assets/images/左_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158465",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>左 (ひだり): bên trái</p>",
+      "content_text": "JLPT N5\n左 (ひだり): bên trái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "153206",
+      "lang": "vi",
+      "content_html": "<p>Chữ na cưỡi trên chữ ê là trái</p>",
+      "content_text": "Chữ na cưỡi trên chữ ê là trái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

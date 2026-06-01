@@ -1,0 +1,110 @@
+{
+  "kanji": "青",
+  "meta": {
+    "weight": 2878,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "あお",
+      "あお-",
+      "あお.い"
+    ],
+    "am_han": "THANH"
+  },
+  "meaning": {
+    "vi": "màu xanh, thanh niên",
+    "en": "blue, green"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/青.svg"
+  },
+  "frequency": 589,
+  "examples": [
+    "青年",
+    "青",
+    "青い",
+    "青春",
+    "青木"
+  ],
+  "explanation": {
+    "id": "4365",
+    "text": "青 (đọc là \"sei\" hoặc \"ao\") có nghĩa là \"màu xanh\", thường chỉ màu sắc liên quan đến thiên nhiên, sự tươi mát hoặc sự trẻ trung. \n\nVí dụ:\n- 青空 (aozora): Bầu trời xanh.\n- 青年 (seinen): Thanh ni"
+  },
+  "comments": [
+    {
+      "id": "758",
+      "lang": "vi",
+      "content_html": "<p>Cỏ <strong>xanh </strong>(青) và mặt trăng (月).</p>",
+      "content_text": "Cỏ\nxanh\n(青) và mặt trăng (月).",
+      "image_url": "https://jpdictionary.com/upload/images/62984cf4b33d3.jpg",
+      "image_path": "assets/images/青_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157831",
+      "lang": "vi",
+      "content_html": "<p>Chiết tự + tượng hình: <br>Trên trời có ánh trăng 月 thanh 青.<br>Dưới đất 龶 cũng ngọn cỏ xanh 青 đây rồi.</p>",
+      "content_text": "Chiết tự + tượng hình:\nTrên trời có ánh trăng 月 thanh 青.\nDưới đất 龶 cũng ngọn cỏ xanh 青 đây rồi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221775",
+      "lang": "vi",
+      "content_html": "<p>Thổ (Gần giống) trên Trăng =&gt; Ý chỉ vị trí trên trời</p>",
+      "content_text": "Thổ (Gần giống) trên Trăng => Ý chỉ vị trí trên trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    },
+    {
+      "id": "158576",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>青い (あおい): màu xanh nước biển</p><p>青空 (あおぞら): bầu trời xanh</p>",
+      "content_text": "JLPT N4\n青い (あおい): màu xanh nước biển\n青空 (あおぞら): bầu trời xanh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

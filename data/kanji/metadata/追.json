@@ -1,0 +1,90 @@
+{
+  "kanji": "追",
+  "meta": {
+    "weight": 2647,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ツイ"
+    ],
+    "kun": [
+      "お.う"
+    ],
+    "am_han": "TRUY"
+  },
+  "meaning": {
+    "vi": "đuổi theo, truy đuổi",
+    "en": "chase, drive away, follow, pursue, meanwhile"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/追.svg"
+  },
+  "frequency": 411,
+  "examples": [
+    "追加",
+    "追求",
+    "追記",
+    "追っ",
+    "追及"
+  ],
+  "explanation": {
+    "id": "5454",
+    "text": "追 (đọc là \"tsui\") có nghĩa là \"đuổi theo\", \"theo đuổi\" để chỉ các hành động liên quan đến việc theo sát hoặc đuổi kịp ai đó hoặc điều gì đó.\n\nVí dụ:\n- 追いかける (oikakeru): Đuổi theo.\n- 追求 (tsui"
+  },
+  "comments": [
+    {
+      "id": "157300",
+      "lang": "vi",
+      "content_html": "<p>Tên quan tham ô đang chạy trên đường ... hãy đuổi theo !</p>",
+      "content_text": "Tên quan tham ô đang chạy trên đường ... hãy đuổi theo !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157301",
+      "lang": "vi",
+      "content_html": "<p>TRUY đuổi tên Quan đang Chạy trên đường</p>",
+      "content_text": "TRUY đuổi tên Quan đang Chạy trên đường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157302",
+      "lang": "vi",
+      "content_html": "<p>QUAN chạy trên ĐƯỜNG vì bị TRUY nã</p>",
+      "content_text": "QUAN chạy trên ĐƯỜNG vì bị TRUY nã",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

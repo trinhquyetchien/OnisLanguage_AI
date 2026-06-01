@@ -1,0 +1,84 @@
+{
+  "kanji": "粧",
+  "meta": {
+    "weight": 2035,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "TRANG"
+  },
+  "meaning": {
+    "vi": "mỹ phẩm, trang điểm (của một người)",
+    "en": "cosmetics, adorn (one's person)"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/粧.svg"
+  },
+  "frequency": 1545,
+  "examples": [
+    "化粧"
+  ],
+  "explanation": {
+    "id": "3895",
+    "text": "粧 (đọc là \"shō\") có nghĩa là \"trang điểm\", \"trang trí\" để chỉ các hành động liên quan đến việc làm đẹp, trang hoàng.\n\nVí dụ:\n- 粧飾 (shōshoku): Trang trí, trang sức.\n- 化粧 (keshō): Trang điểm, "
+  },
+  "comments": [
+    {
+      "id": "155949",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa hoá trang dùng bột gạo lẫn đất hoá trang trong nhà</p>",
+      "content_text": "Ngày xưa hoá trang dùng bột gạo lẫn đất hoá trang trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155950",
+      "lang": "vi",
+      "content_html": "<p>trồng lúa ở mãnh đất sườn đồi để trang trải cuộc sống</p>",
+      "content_text": "trồng lúa ở mãnh đất sườn đồi để trang trải cuộc sống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155951",
+      "lang": "vi",
+      "content_html": "<p>Lấy gạo ở đất sườn núi về trang trải</p>",
+      "content_text": "Lấy gạo ở đất sườn núi về trang trải",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "kanji": "懐",
+  "meta": {
+    "weight": 1025,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ",
+      "エ"
+    ],
+    "kun": [
+      "ふところ",
+      "なつ.かしい",
+      "なつ.かしむ",
+      "なつ.く",
+      "なつ.ける",
+      "なず.ける",
+      "いだ.く",
+      "おも.う"
+    ],
+    "am_han": "HOÀI"
+  },
+  "meaning": {
+    "vi": "cảm xúc, trái tim, khao khát, nhớ ai đó, trở nên gắn bó với, ngực, túi",
+    "en": "feelings, heart, yearn, miss someone, become attached to, bosom, breast, pocket"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/懐.svg"
+  },
+  "frequency": 1493,
+  "examples": [
+    "懐かしい",
+    "懐",
+    "懐かし",
+    "懐疑",
+    "懐中"
+  ],
+  "explanation": {
+    "id": "771",
+    "text": "懐 (đọc là \"kai\" hoặc \"naka\") có nghĩa là \"tâm hồn\", \"nhớ nhung\", thường liên quan đến cảm xúc, ký ức hoặc tình cảm gắn bó với ai đó hoặc một địa điểm.  \nVí dụ:  \n- 懐かしい (natsukashii): Nhớ về"
+  },
+  "comments": [
+    {
+      "id": "153733",
+      "lang": "vi",
+      "content_html": "<p>10 con mắt trái tim hoài niệm về bộ y phục</p>",
+      "content_text": "10 con mắt trái tim hoài niệm về bộ y phục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153734",
+      "lang": "vi",
+      "content_html": "<p>Trong TIM vẫn còn nhớ HOÀI cái vụ xé 10 cái VÕNG để may một bộ Y PHỤC</p>",
+      "content_text": "Trong TIM vẫn còn nhớ HOÀI cái vụ xé 10 cái VÕNG để may một bộ Y PHỤC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153735",
+      "lang": "vi",
+      "content_html": "<p>phá Hoại(壊) mất đất (Thổ) giờ tâm lại Hoài niệm</p>",
+      "content_text": "phá Hoại(壊) mất đất (Thổ) giờ tâm lại Hoài niệm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "kanji": "凝",
+  "meta": {
+    "weight": 298,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギョウ"
+    ],
+    "kun": [
+      "こ.る",
+      "こ.らす",
+      "こご.らす",
+      "こご.らせる",
+      "こご.る"
+    ],
+    "am_han": "NGƯNG"
+  },
+  "meaning": {
+    "vi": "đông tụ, đông cứng, cứng, được hấp thụ vào",
+    "en": "congeal, freeze, stiff, be absorbed in"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/凝.svg"
+  },
+  "frequency": 1712,
+  "examples": [
+    "凝縮",
+    "凝視",
+    "凝り",
+    "凝固",
+    "凝る"
+  ],
+  "explanation": {
+    "id": "1714",
+    "text": "凝 (đọc là \"gyou\" hoặc \"nei\") có nghĩa là \"ngưng tụ\", \"dồn lại\", thường chỉ trạng thái kết tụ hoặc sự kìm hãm. \n\nVí dụ:\n- 凝縮 (gyoushuku): Ngưng tụ, cô đặc.\n- 凝る (kōru): Dồn sức, tập trung vào"
+  },
+  "comments": [
+    {
+      "id": "151939",
+      "lang": "vi",
+      "content_html": "<p>Nghi ngờ thêm băng là ngưng đọng</p>",
+      "content_text": "Nghi ngờ thêm băng là ngưng đọng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151940",
+      "lang": "vi",
+      "content_html": "<p>NGHI(疑) ngờ do trời lạnh mà hơi nước bị NGƯNG(凝) tụ thành BĂNG(冫)</p>",
+      "content_text": "NGHI(疑) ngờ do trời lạnh mà hơi nước bị NGƯNG(凝) tụ thành BĂNG(冫)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151941",
+      "lang": "vi",
+      "content_html": "<p>nghi ngờ có nước đóng băng</p>",
+      "content_text": "nghi ngờ có nước đóng băng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

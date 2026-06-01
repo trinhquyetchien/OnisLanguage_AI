@@ -1,0 +1,70 @@
+{
+  "kanji": "奔",
+  "meta": {
+    "weight": 636,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホン"
+    ],
+    "kun": [
+      "はし.る"
+    ],
+    "am_han": "BÔN"
+  },
+  "meaning": {
+    "vi": "chạy, nhộn nhịp",
+    "en": "run, bustle"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/奔.svg"
+  },
+  "frequency": 1884,
+  "examples": [
+    "奔走",
+    "奔放"
+  ],
+  "explanation": {
+    "id": "7356",
+    "text": "奔 (đọc là \"hon\") có nghĩa là \"chạy\", \"đổ xô\", thường ám chỉ đến việc di chuyển nhanh chóng hoặc sự náo động.  \nVí dụ:  \n- 奔走 (honjō): Chạy đôn chạy đáo, vất vả.  \n- 奔放 (honpō): Dữ dội, phóng"
+  },
+  "comments": [
+    {
+      "id": "152763",
+      "lang": "vi",
+      "content_html": "<p>Chắp tay 10 lần xin đậu vào Đại học Bôn ba</p>",
+      "content_text": "Chắp tay 10 lần xin đậu vào Đại học Bôn ba",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152764",
+      "lang": "vi",
+      "content_html": "<p>Đại hoạ cấp 10 phải chắp tay đi BÔN ba</p>",
+      "content_text": "Đại hoạ cấp 10 phải chắp tay đi BÔN ba",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "kanji": "俵",
+  "meta": {
+    "weight": 205,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒョウ"
+    ],
+    "kun": [
+      "たわら"
+    ],
+    "am_han": "BIỂU"
+  },
+  "meaning": {
+    "vi": "túi, kiện, bao, quầy cho túi",
+    "en": "bag, bale, sack, counter for bags"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/俵.svg"
+  },
+  "frequency": 1481,
+  "examples": [
+    "土俵",
+    "俵"
+  ],
+  "explanation": {
+    "id": "6694",
+    "text": "俵 (đọc là \"byō\") có nghĩa là \"bao gạo\" hoặc \"bó lúa\", chỉ các vật đựng chứa đựng nông sản.  \nVí dụ:  \n- 俵物 (byōmono): Vật phẩm được đựng trong bao, thường là nông sản.  \n- 俵米 (byōmai): Gạo t"
+  },
+  "comments": [
+    {
+      "id": "151702",
+      "lang": "vi",
+      "content_html": "<p>Người bỏ cái Biểu ( áo ) vào cái BIỂU ( bao )</p>",
+      "content_text": "Người bỏ cái Biểu ( áo ) vào cái BIỂU ( bao )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151703",
+      "lang": "vi",
+      "content_html": "<p>ông Chủ BIỂU Người đứng bên cạnh lấy Y phục bỏ vào trong Bao</p>",
+      "content_text": "ông Chủ BIỂU Người đứng bên cạnh lấy Y phục bỏ vào trong Bao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151704",
+      "lang": "vi",
+      "content_html": "<p>BIẾU tặng NGƯỜI SĨ quan bộ Y phục</p>",
+      "content_text": "BIẾU tặng NGƯỜI SĨ quan bộ Y phục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

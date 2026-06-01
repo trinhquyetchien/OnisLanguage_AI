@@ -1,0 +1,87 @@
+{
+  "kanji": "勿",
+  "meta": {
+    "weight": 369,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "モチ",
+      "ブツ",
+      "ボツ"
+    ],
+    "kun": [
+      "なか.れ",
+      "なし"
+    ],
+    "am_han": "VẬT"
+  },
+  "meaning": {
+    "vi": "không, không được",
+    "en": "not, must not, do not, be not"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/勿.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7634",
+    "text": "勿 (đọc là \"mutsu\" hoặc \"watsu\") có nghĩa là \"không\", \"đừng\" để chỉ sự cấm đoán hoặc khuyến cáo không nên làm điều gì đó.  \nVí dụ:  \n- 勿論 (motsuron): Tất nhiên, đương nhiên.  \n- 勿体無い (mottain"
+  },
+  "comments": [
+    {
+      "id": "219009",
+      "lang": "vi",
+      "content_html": "<p>Vật gì giống đuôi ngựa Chớ Được Thế.</p>",
+      "content_text": "Vật gì giống đuôi ngựa Chớ Được Thế.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219010",
+      "lang": "vi",
+      "content_html": "<p>Vật gì giống đuôi ngựa nhỉ?</p>",
+      "content_text": "Vật gì giống đuôi ngựa nhỉ?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219011",
+      "lang": "vi",
+      "content_html": "<p>giống con mèo lúc tức</p>",
+      "content_text": "giống con mèo lúc tức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

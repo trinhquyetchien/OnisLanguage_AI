@@ -1,0 +1,88 @@
+{
+  "kanji": "督",
+  "meta": {
+    "weight": 1851,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トク"
+    ],
+    "kun": [],
+    "am_han": "ĐỐC"
+  },
+  "meaning": {
+    "vi": "huấn luyện viên, chỉ huy, đôn đốc, lãnh đạo, giám sát",
+    "en": "coach, command, urge, lead, supervise"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/督.svg"
+  },
+  "frequency": 534,
+  "examples": [
+    "監督",
+    "総督",
+    "督促",
+    "提督",
+    "基督教"
+  ],
+  "explanation": {
+    "id": "5958",
+    "text": "督 (đọc là \"toku\") có nghĩa là \"giám sát\", \"theo dõi\" để chỉ hành động quản lý, giám sát hoặc chỉ đạo một cách chặt chẽ.  \nVí dụ:  \n- 督促 (tokusoku): Nhắc nhở, thúc giục.  \n- 督導 (tokudō): Giám"
+  },
+  "comments": [
+    {
+      "id": "155587",
+      "lang": "vi",
+      "content_html": "<p>THÚC (bác) dùng MẮT nhìn để ĐỐC THÚC tôi làm bài</p>",
+      "content_text": "THÚC (bác) dùng MẮT nhìn để ĐỐC THÚC tôi làm bài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155588",
+      "lang": "vi",
+      "content_html": "<p>Giám đốc từ trên nhìn xuống bằng mắt toàn người nhỏ hơn mình</p>",
+      "content_text": "Giám đốc từ trên nhìn xuống bằng mắt toàn người nhỏ hơn mình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155589",
+      "lang": "vi",
+      "content_html": "<p>Ông “ĐỐC” nhìn từ TRÊN xuống bằng đôi MẮT NHỎ làm 7 chị em chúng tôi muốn トク váy lên (督)</p>",
+      "content_text": "Ông “ĐỐC” nhìn từ TRÊN xuống bằng đôi MẮT NHỎ làm 7 chị em chúng tôi muốn トク váy lên (督)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

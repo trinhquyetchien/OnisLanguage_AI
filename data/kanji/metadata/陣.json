@@ -1,0 +1,88 @@
+{
+  "kanji": "陣",
+  "meta": {
+    "weight": 2826,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジン"
+    ],
+    "kun": [],
+    "am_han": "TRẬN"
+  },
+  "meaning": {
+    "vi": "trại, dàn trận, cấp bậc, vị trí, đột ngột, thời gian ngắn",
+    "en": "camp, battle array, ranks, position, sudden, brief time"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/陣.svg"
+  },
+  "frequency": 828,
+  "examples": [
+    "陣",
+    "陣営",
+    "報道陣",
+    "陣痛",
+    "布陣"
+  ],
+  "explanation": {
+    "id": "4179",
+    "text": "陣 (đọc là \"jin\" hoặc \"chin\") có nghĩa là \"trận\", \"đội quân\" hoặc \"bố trí\", chỉ các hành động liên quan đến việc sắp xếp, bố trí quân đội hoặc lực lượng.  \nVí dụ:  \n- 陣地 (jindi): Vị trí của q"
+  },
+  "comments": [
+    {
+      "id": "157687",
+      "lang": "vi",
+      "content_html": "<p>Vùng đất toàn xe kia chính là trận địa</p>",
+      "content_text": "Vùng đất toàn xe kia chính là trận địa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157688",
+      "lang": "vi",
+      "content_html": "<p>bê (B) xe (車) ra trận (陣)</p>",
+      "content_text": "bê (B) xe (車) ra trận (陣)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157689",
+      "lang": "vi",
+      "content_html": "<p>13 chiếc xe dựng ở doanh trại quân đội</p>",
+      "content_text": "13 chiếc xe dựng ở doanh trại quân đội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "kanji": "優",
+  "meta": {
+    "weight": 252,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ",
+      "ウ"
+    ],
+    "kun": [
+      "やさ.しい",
+      "すぐ.れる",
+      "まさ.る"
+    ],
+    "am_han": "ƯU"
+  },
+  "meaning": {
+    "vi": "ưu tú, ưu việt",
+    "en": "tenderness, excel, surpass, actor, superiority, gentleness"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/優.svg"
+  },
+  "frequency": 334,
+  "examples": [
+    "優勝",
+    "優先",
+    "優秀",
+    "優しい",
+    "俳優"
+  ],
+  "explanation": {
+    "id": "7740",
+    "text": "優 (đọc là \"yū\" hoặc \"yuu\") có nghĩa là \"ưu tú\", \"xuất sắc\" để chỉ các phẩm chất vượt trội hoặc tốt đẹp.  \nVí dụ:  \n- 優れた (sugureta): Xuất sắc, ưu việt.  \n- 優勝 (yūshō): Giành chiến thắng, vô "
+  },
+  "comments": [
+    {
+      "id": "151822",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI mà con TIM ƯU tư cả TRĂM lần chắc chắn là người HIỀN LÀNH</p>",
+      "content_text": "NGƯỜI mà con TIM ƯU tư cả TRĂM lần chắc chắn là người HIỀN LÀNH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151823",
+      "lang": "vi",
+      "content_html": "<p>người có trăm trái tim là người ưu tú</p>",
+      "content_text": "người có trăm trái tim là người ưu tú",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151824",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI này cứ mùa HẠ sang là ƯU tư vì TÂM bệnh</p>",
+      "content_text": "NGƯỜI này cứ mùa HẠ sang là ƯU tư vì TÂM bệnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

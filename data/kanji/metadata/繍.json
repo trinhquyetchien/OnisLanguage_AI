@@ -1,0 +1,84 @@
+{
+  "kanji": "繍",
+  "meta": {
+    "weight": 2116,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "ぬいとり"
+    ],
+    "am_han": "TÚ"
+  },
+  "meaning": {
+    "vi": "may, vải hình",
+    "en": "sew, figured cloth"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/繍.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3502",
+    "text": "繍 (đọc là \"shuu\") có nghĩa là \"thêu\" hoặc \"dệt\", chỉ các hành động liên quan đến việc trang trí vải bằng cách thêu.  \nVí dụ:  \n- 繍糸 (shuuito): Chỉ thêu.  \n- 繍製品 (shuuseihin): Sản phẩm thêu. "
+  },
+  "comments": [
+    {
+      "id": "220359",
+      "lang": "vi",
+      "content_html": "<p>Chữ này âm Hán Việt là \"Tú\"</p>",
+      "content_text": "Chữ này âm Hán Việt là \"Tú\"",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220360",
+      "lang": "vi",
+      "content_html": "<p>chữ này có dùng mà sao không thấy ghi nghĩa nhỉ</p>",
+      "content_text": "chữ này có dùng mà sao không thấy ghi nghĩa nhỉ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220361",
+      "lang": "vi",
+      "content_html": "<p>Âm Hán chữ này là gì nhỉ?</p>",
+      "content_text": "Âm Hán chữ này là gì nhỉ?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

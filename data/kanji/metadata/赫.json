@@ -1,0 +1,69 @@
+{
+  "kanji": "赫",
+  "meta": {
+    "weight": 2582,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク"
+    ],
+    "kun": [
+      "あかい",
+      "あか",
+      "かがや.く"
+    ],
+    "am_han": "HÁCH"
+  },
+  "meaning": {
+    "vi": "đột nhiên, sáng lên, chiếu sáng",
+    "en": "suddenly, brighten, illuminate, light up"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/赫.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "922",
+    "text": "赫 (đọc là \"kaku\") có nghĩa là \"rực rỡ\", \"sáng chói\", thường chỉ những thứ nổi bật hay xuất sắc. \n\nVí dụ:\n- 赫々 (kakukaku): Rực rỡ, lấp lánh.\n- 赫見 (kakuken): Chứng kiến điều gì đó nổi bật, đán"
+  },
+  "comments": [
+    {
+      "id": "220773",
+      "lang": "vi",
+      "content_html": "<p>Thích máu Đỏ là người hống HÁCH</p>",
+      "content_text": "Thích máu Đỏ là người hống HÁCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220774",
+      "lang": "vi",
+      "content_html": "<p>lúc nào cũng có 2 cộng dây XÍCH trong người, THÍCH thì XÍCH rất là hống HÁCH</p>",
+      "content_text": "lúc nào cũng có 2 cộng dây XÍCH trong người, THÍCH thì XÍCH rất là hống HÁCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

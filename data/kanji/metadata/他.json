@@ -1,0 +1,107 @@
+{
+  "kanji": "他",
+  "meta": {
+    "weight": 140,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タ"
+    ],
+    "kun": [
+      "ほか"
+    ],
+    "am_han": "THA"
+  },
+  "meaning": {
+    "vi": "khác",
+    "en": "other, another, the others"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/他.svg"
+  },
+  "frequency": 543,
+  "examples": [
+    "他",
+    "その他",
+    "他人",
+    "他者",
+    "他方"
+  ],
+  "explanation": {
+    "id": "4864",
+    "text": "他 (đọc là \"ta\") có nghĩa là \"người khác\" hoặc \"khác\". Từ này thường được sử dụng để chỉ những người không phải là bản thân mình.\n\nVí dụ:\n- 他人 (tanin): Người khác, người ngoài.\n- 他国 (takoku):"
+  },
+  "comments": [
+    {
+      "id": "37248",
+      "lang": "vi",
+      "content_html": "<p>Tôi muốn nuôi con thú cưng <strong>khác </strong>chứ không phải con bọ cạp.</p>",
+      "content_text": "Tôi muốn nuôi con thú cưng\nkhác\nchứ không phải con bọ cạp.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd859a90aa.jpg",
+      "image_path": "assets/images/他_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151538",
+      "lang": "vi",
+      "content_html": "<p>Dã thổ là đất 地<br><br>Dã thuỷ là ao 池<br><br>Dã nhân phải chăng kẻ khác 他</p>",
+      "content_text": "Dã thổ là đất 地\nDã thuỷ là ao 池\nDã nhân phải chăng kẻ khác 他",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151539",
+      "lang": "vi",
+      "content_html": "<p>Kẻ Dã 也 nhân 亻không phải là tôi, là thằng khác mà ông vừa Tha 他 cho nó rồi đấy!</p>",
+      "content_text": "Kẻ Dã 也 nhân 亻không phải là tôi, là thằng khác mà ông vừa Tha 他 cho nó rồi đấy!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151540",
+      "lang": "vi",
+      "content_html": "<p>Ở dưới viết 他家 là chiều cao !???</p>",
+      "content_text": "Ở dưới viết 他家 là chiều cao !???",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "kanji": "葎",
+  "meta": {
+    "weight": 2308,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リツ"
+    ],
+    "kun": [
+      "むぐら"
+    ],
+    "am_han": "LUẬT, LÓT, LỐT"
+  },
+  "meaning": {
+    "vi": "cây leo, cây theo đường mòn, cây dây leo",
+    "en": "creepers, trailing plants, vines"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/葎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8043",
+    "text": "葎 (đọc là \"ryu\") có nghĩa là \"cỏ vàng\", thường chỉ các loại cỏ dại hoặc thực vật không quý giá. \n\nVí dụ:\n- 葎草 (ryusou): Cỏ dại.\n- 葎の葉 (ryu no ha): Lá cỏ vàng."
+  },
+  "comments": []
+}

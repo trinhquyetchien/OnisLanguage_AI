@@ -1,0 +1,88 @@
+{
+  "kanji": "胎",
+  "meta": {
+    "weight": 2184,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ"
+    ],
+    "kun": [],
+    "am_han": "THAI"
+  },
+  "meaning": {
+    "vi": "tử cung",
+    "en": "womb, uterus"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/胎.svg"
+  },
+  "frequency": 1861,
+  "examples": [
+    "胎児",
+    "受胎",
+    "胎",
+    "堕胎",
+    "胎内"
+  ],
+  "explanation": {
+    "id": "4965",
+    "text": "胎 (đọc là \"tai\") có nghĩa là \"thai nhi\", \"bào thai\" để chỉ sự phát triển của con người trong bụng mẹ. \n\nVí dụ:\n- 胎児 (taiji): Thai nhi.\n- 胎盤 (taiban): Nhau thai.\n- 妊娠胎 (ninshin-tai): Bầu thai"
+  },
+  "comments": [
+    {
+      "id": "156304",
+      "lang": "vi",
+      "content_html": "<p>Nghe đài bảo chị nguyệt mang thai</p>",
+      "content_text": "Nghe đài bảo chị nguyệt mang thai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156305",
+      "lang": "vi",
+      "content_html": "<p>Chị Nguyệt có thai với anh Đài</p>",
+      "content_text": "Chị Nguyệt có thai với anh Đài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156306",
+      "lang": "vi",
+      "content_html": "<p>chị nguyệt mang thai bên đài loan</p>",
+      "content_text": "chị nguyệt mang thai bên đài loan",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

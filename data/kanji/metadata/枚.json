@@ -1,0 +1,106 @@
+{
+  "kanji": "枚",
+  "meta": {
+    "weight": 1309,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マイ",
+      "バイ"
+    ],
+    "kun": [],
+    "am_han": "MAI"
+  },
+  "meaning": {
+    "vi": "tờ, tấm",
+    "en": "sheet of..., counter for flat thin objects or sheets"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/枚.svg"
+  },
+  "frequency": 911,
+  "examples": [
+    "枚",
+    "枚数",
+    "枚挙",
+    "二枚目",
+    "一枚岩"
+  ],
+  "explanation": {
+    "id": "7392",
+    "text": "枚 (đọc là \"mai\") có nghĩa là \"mảnh\", \"tấm\" để chỉ đơn vị đếm các vật phẳng như giấy, ảnh hoặc tiền.  \nVí dụ:  \n- 一枚 (ichimai): Một tấm, một mảnh.  \n- 二枚目 (nimaime): Tấm thứ hai, thường dùng "
+  },
+  "comments": [
+    {
+      "id": "37230",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã làm một <strong>tờ </strong>giấy từ cây (木).</p>",
+      "content_text": "Tôi đã làm một\ntờ\ngiấy từ cây (木).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd6ea42235.jpg",
+      "image_path": "assets/images/枚_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154426",
+      "lang": "vi",
+      "content_html": "<p>Đánh gãy cây<br>Mai</p>",
+      "content_text": "Đánh gãy cây\nMai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154427",
+      "lang": "vi",
+      "content_html": "<p>Đánh vào Cây Mai lấy vỏ làm Tờ giấy</p>",
+      "content_text": "Đánh vào Cây Mai lấy vỏ làm Tờ giấy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158677",
+      "lang": "vi",
+      "content_html": "<p>何枚 (なんまい): mấy cái (vật mỏng: đĩa CD, (tờ) giấy, áo...)</p><p>Trả lời: số đếm + 枚 (まい) (không có cách đọc ngoại lệ)</p>",
+      "content_text": "何枚 (なんまい): mấy cái (vật mỏng: đĩa CD, (tờ) giấy, áo...)\nTrả lời: số đếm + 枚 (まい) (không có cách đọc ngoại lệ)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

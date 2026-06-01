@@ -1,0 +1,126 @@
+{
+  "kanji": "備",
+  "meta": {
+    "weight": 234,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビ"
+    ],
+    "kun": [
+      "そな.える",
+      "そな.わる",
+      "つぶさ.に"
+    ],
+    "am_han": "BỊ"
+  },
+  "meaning": {
+    "vi": "trang bị, thiết bị",
+    "en": "equip, provision, preparation"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/備.svg"
+  },
+  "frequency": 356,
+  "examples": [
+    "準備",
+    "整備",
+    "設備",
+    "備え",
+    "装備"
+  ],
+  "explanation": {
+    "id": "6616",
+    "text": "備 (đọc là \"bi\") có nghĩa là \"chuẩn bị\", \"sẵn sàng\", thường chỉ các hành động liên quan đến việc chuẩn bị, trang bị hoặc bảo đảm.\n\nVí dụ:\n- 備え (sonae): Chuẩn bị, sự chuẩn bị.\n- 備品 (bihin): Tr"
+  },
+  "comments": [
+    {
+      "id": "151777",
+      "lang": "vi",
+      "content_html": "<p>Một người chuẩn Bị cỏ dưới sườn núi để sử dụng</p>",
+      "content_text": "Một người chuẩn Bị cỏ dưới sườn núi để sử dụng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151778",
+      "lang": "vi",
+      "content_html": "<p>Thứ tự viết : 1 người trồng cỏ ở trên sườn núi để sử dụng .</p>",
+      "content_text": "Thứ tự viết : 1 người trồng cỏ ở trên sườn núi để sử dụng .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151779",
+      "lang": "vi",
+      "content_html": "<p>Cỏ mọc trên Sườn núi để sử Dụng là do Người ta chuẩn Bị</p>",
+      "content_text": "Cỏ mọc trên Sườn núi để sử Dụng là do Người ta chuẩn Bị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222023",
+      "lang": "vi",
+      "content_html": "<p><strong>「????」</strong> là hình vẽ <strong>một túi tên (箭袋)</strong> với một mũi tên đâm xuống trong đó → tượng hình cho hành động <strong>chuẩn bị vũ khí để xuất chinh hoặc săn bắn</strong>.</p><p>Về sau thêm bộ <strong>亻</strong> trở thành <strong>「俻」</strong> → biểu thị người mang theo túi tên.</p><p>Cuối cùng định hình thành chữ <strong>備</strong> (phồn thể)</p>",
+      "content_text": "「????」\nlà hình vẽ\nmột túi tên (箭袋)\nvới một mũi tên đâm xuống trong đó → tượng hình cho hành động\nchuẩn bị vũ khí để xuất chinh hoặc săn bắn\n.\nVề sau thêm bộ\n亻\ntrở thành\n「俻」\n→ biểu thị người mang theo túi tên.\nCuối cùng định hình thành chữ\n備\n(phồn thể)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    },
+    {
+      "id": "222078",
+      "lang": "vi",
+      "content_html": "<p>giống như việc người ta trồng sẵn thảo mộc trên núi để sử dụng khi đau ốm bệnh tật, hãy luôn làm một cái gì đấy chuẩn bị trước, để khi cần đến có thể dùng được</p>",
+      "content_text": "giống như việc người ta trồng sẵn thảo mộc trên núi để sử dụng khi đau ốm bệnh tật, hãy luôn làm một cái gì đấy chuẩn bị trước, để khi cần đến có thể dùng được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "7613",
+        "name": "truongg",
+        "image_url": "https://jpdictionary.com/upload/images/683b215a55293.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "種",
+  "meta": {
+    "weight": 1942,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュ"
+    ],
+    "kun": [
+      "たね",
+      "-ぐさ"
+    ],
+    "am_han": "CHỦNG"
+  },
+  "meaning": {
+    "vi": "chủng loại, chủng tộc",
+    "en": "species, kind, class, variety, seed"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/種.svg"
+  },
+  "frequency": 461,
+  "examples": [
+    "種類",
+    "種",
+    "各種",
+    "一種",
+    "機種"
+  ],
+  "explanation": {
+    "id": "3425",
+    "text": "種 (đọc là \"shū\" hoặc \"tane\") có nghĩa là \"hạt giống\", \"loại\" để chỉ các loại cây trồng hoặc phân loại sự vật.  \nVí dụ:  \n- 種類 (shurui): Loại, phân loại.  \n- 種 (tane): Hạt giống.  \n- 無種 (mush"
+  },
+  "comments": [
+    {
+      "id": "155772",
+      "lang": "vi",
+      "content_html": "<p>Gieo Lúa cần chọn CHỦNG loại có TRọng lượng cao</p>",
+      "content_text": "Gieo Lúa cần chọn CHỦNG loại có TRọng lượng cao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190657",
+      "lang": "vi",
+      "content_html": "<p>lúa mà nặng chắc là Chủng mới</p>",
+      "content_text": "lúa mà nặng chắc là Chủng mới",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "155773",
+      "lang": "vi",
+      "content_html": "<p>gieo lúa thì nên chọn hạt giốg Nặng và chắc</p>",
+      "content_text": "gieo lúa thì nên chọn hạt giốg Nặng và chắc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155774",
+      "lang": "vi",
+      "content_html": "<p>căn cứ vào TRọng lượng của hạt LÚA để chúng ta phân biệt CHỦNG LOÀI</p>",
+      "content_text": "căn cứ vào TRọng lượng của hạt LÚA để chúng ta phân biệt CHỦNG LOÀI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

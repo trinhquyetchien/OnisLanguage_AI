@@ -1,0 +1,87 @@
+{
+  "kanji": "薫",
+  "meta": {
+    "weight": 2354,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "クン"
+    ],
+    "kun": [
+      "かお.る"
+    ],
+    "am_han": "HUÂN"
+  },
+  "meaning": {
+    "vi": "gửi ra hương thơm, thơm, được làm thơm, hút (thuốc lá)",
+    "en": "send forth fragrance, fragrant, be scented, smoke (tobacco)"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/薫.svg"
+  },
+  "frequency": 1849,
+  "examples": [
+    "薫",
+    "薫り"
+  ],
+  "explanation": {
+    "id": "1908",
+    "text": "薫 (đọc là \"kun\") có nghĩa là \"hương thơm\", \"mùi hương\" để chỉ sự nhẹ nhàng, thanh khiết của hương vị hoặc mùi sắc.  \nVí dụ:  \n- 薫陶 (kun-tou): Được nuôi dưỡng trong môi trường tốt đẹp, êm dịu"
+  },
+  "comments": [
+    {
+      "id": "156617",
+      "lang": "vi",
+      "content_html": "<p>huân chương sẽ trao tặng cho ai nấu được 1 trọng lượng cỏ thơm !</p>",
+      "content_text": "huân chương sẽ trao tặng cho ai nấu được 1 trọng lượng cỏ thơm !",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156618",
+      "lang": "vi",
+      "content_html": "<p>cỏ cháy nặng tạo ra hương thơm.</p>",
+      "content_text": "cỏ cháy nặng tạo ra hương thơm.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156619",
+      "lang": "vi",
+      "content_html": "<p>Cỏ (艹) được chất lên từng đống rất nặng (重) mang di đốt (灬 ) tạo ra hương thơm (薰)</p>",
+      "content_text": "Cỏ (艹) được chất lên từng đống rất nặng (重) mang di đốt (灬 ) tạo ra hương thơm (薰)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

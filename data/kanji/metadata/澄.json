@@ -1,0 +1,88 @@
+{
+  "kanji": "澄",
+  "meta": {
+    "weight": 1624,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "す.む",
+      "す.ます",
+      "-す.ます"
+    ],
+    "am_han": "TRỪNG"
+  },
+  "meaning": {
+    "vi": "minh mẫn, rõ ràng, làm rõ, giải quyết, căng thẳng, nhìn nghiêm trọng",
+    "en": "lucidity, be clear, clear, clarify, settle, strain, look grave"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/澄.svg"
+  },
+  "frequency": 1722,
+  "examples": [
+    "澄まし"
+  ],
+  "explanation": {
+    "id": "4273",
+    "text": "澄 (đọc là \"chō\") có nghĩa là \"trong sạch\", \"rõ ràng\", thường chỉ trạng thái nước hoặc không khí trong suốt, sạch sẽ.  \nVí dụ:  \n- 澄んだ水 (sunda mizu): Nước trong sạch.  \n- 澄明 (chōmei): Sự tron"
+  },
+  "comments": [
+    {
+      "id": "155106",
+      "lang": "vi",
+      "content_html": "<p>Thanh trừng sạch nước để đăng cai</p>",
+      "content_text": "Thanh trừng sạch nước để đăng cai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155107",
+      "lang": "vi",
+      "content_html": "<p>lên núi mới có nước trong.</p>",
+      "content_text": "lên núi mới có nước trong.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155108",
+      "lang": "vi",
+      "content_html": "<p>nước đã được đăng ký làm sạch và thanh trừng</p>",
+      "content_text": "nước đã được đăng ký làm sạch và thanh trừng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

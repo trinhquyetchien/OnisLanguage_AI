@@ -1,0 +1,90 @@
+{
+  "kanji": "枯",
+  "meta": {
+    "weight": 1314,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "か.れる",
+      "か.らす"
+    ],
+    "am_han": "KHÔ"
+  },
+  "meaning": {
+    "vi": "khô héo",
+    "en": "wither, die, dry up, be seasoned"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/枯.svg"
+  },
+  "frequency": 1749,
+  "examples": [
+    "枯渇",
+    "枯葉",
+    "枯れる",
+    "栄枯盛衰"
+  ],
+  "explanation": {
+    "id": "2281",
+    "text": "枯 (đọc là \"ko\" hoặc \"karu\") có nghĩa là \"khô héo\", \"khô cằn\", chỉ trạng thái không còn sức sống hoặc nước.  \nVí dụ:  \n- 枯れ木 (kareki): Cây khô, cây héo.  \n- 枯れる (kareru): Khô héo, tàn lụi.  \n"
+  },
+  "comments": [
+    {
+      "id": "154441",
+      "lang": "vi",
+      "content_html": "<p>Cây cổ thì khô héo là điều đương nhiên</p>",
+      "content_text": "Cây cổ thì khô héo là điều đương nhiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154442",
+      "lang": "vi",
+      "content_html": "<p>cái cây cổ chết khô</p>",
+      "content_text": "cái cây cổ chết khô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154443",
+      "lang": "vi",
+      "content_html": "<p>Cây bị cũ đi thì là Khô</p>",
+      "content_text": "Cây bị cũ đi thì là Khô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "kanji": "劉",
+  "meta": {
+    "weight": 342,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リュウ",
+      "ル"
+    ],
+    "kun": [
+      "ころ.す"
+    ],
+    "am_han": "LƯU"
+  },
+  "meaning": {
+    "vi": "vũ khí chiến tranh, rìu khai thác gỗ, giết hàng loạt, bong tróc (sơn tường, v.v.), thưa thớt, mờ nhạt",
+    "en": "weapon of war, logging axe, kill en masse, peeling (paint off a wall, etc), sparse, faded"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/劉.svg"
+  },
+  "frequency": 1947,
+  "examples": [],
+  "explanation": {
+    "id": "8048",
+    "text": "劉 (đọc là \"ryū\" hoặc \"shū\") có nghĩa là \"hiệu trưởng\" hoặc \"người đứng đầu\", thường được dùng trong các họ và tên. \n\nVí dụ:\n- 劉備 (Ryūbi): Lưu Bị, một nhân vật lịch sử nổi tiếng trong Tam Quố"
+  },
+  "comments": [
+    {
+      "id": "152060",
+      "lang": "vi",
+      "content_html": "<p>Trong Tam quốc diễn nghĩa, Lưu Bị là 劉備(りゅうび)</p>",
+      "content_text": "Trong Tam quốc diễn nghĩa, Lưu Bị là 劉備(りゅうび)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

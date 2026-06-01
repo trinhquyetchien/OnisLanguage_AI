@@ -1,0 +1,85 @@
+{
+  "kanji": "甫",
+  "meta": {
+    "weight": 1772,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホ",
+      "フ"
+    ],
+    "kun": [
+      "はじ.めて"
+    ],
+    "am_han": "PHỦ"
+  },
+  "meaning": {
+    "vi": "lần đầu tiên, không phải cho đến khi",
+    "en": "for the first time, not until"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/甫.svg"
+  },
+  "frequency": 2270,
+  "examples": [],
+  "explanation": {
+    "id": "7101",
+    "text": "甫 (đọc là \"ho\") có nghĩa là \"mới bắt đầu\", \"khởi đầu\" để chỉ các tình huống hoặc trạng thái liên quan đến sự khởi đầu của một việc gì đó.  \nVí dụ:  \n- 甫に (baho ni): Mới bắt đầu, tức thì.  \n-"
+  },
+  "comments": [
+    {
+      "id": "155388",
+      "lang": "vi",
+      "content_html": "<p>CHỦ nhân mua 10 DỤNG cụ về PHỦ</p>",
+      "content_text": "CHỦ nhân mua 10 DỤNG cụ về PHỦ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155389",
+      "lang": "vi",
+      "content_html": "<p>Phủ có 10 cách sử dụng</p>",
+      "content_text": "Phủ có 10 cách sử dụng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155390",
+      "lang": "vi",
+      "content_html": "<p>Cây thập tự cắm giữa PHỦ để sử dụng</p>",
+      "content_text": "Cây thập tự cắm giữa PHỦ để sử dụng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

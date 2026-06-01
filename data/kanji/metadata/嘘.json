@@ -1,0 +1,89 @@
+{
+  "kanji": "嘘",
+  "meta": {
+    "weight": 518,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョ",
+      "コ"
+    ],
+    "kun": [
+      "うそ",
+      "ふ.く"
+    ],
+    "am_han": "HƯ"
+  },
+  "meaning": {
+    "vi": "dối trá, giả dối",
+    "en": "lie, falsehood"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/嘘.svg"
+  },
+  "frequency": 2235,
+  "examples": [
+    "嘘",
+    "嘘つき"
+  ],
+  "explanation": {
+    "id": "319",
+    "text": "嘘 (đọc là \"uso\") có nghĩa là \"nói dối\" hoặc \"lừa gạt\" để chỉ hành động không trung thực.  \nVí dụ:  \n- 嘘をつく (uso o tsuku): Nói dối.  \n- 嘘っぱち (usoppachi): Lời nói dối, bịa đặt.  \n- 嘘のよう (uso n"
+  },
+  "comments": [
+    {
+      "id": "152488",
+      "lang": "vi",
+      "content_html": "<p>Nói dối Hư (嘘) là dùng miệng 口 nói những lời Hư(虚) cấu</p>",
+      "content_text": "Nói dối Hư (嘘) là dùng miệng 口 nói những lời Hư(虚) cấu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152489",
+      "lang": "vi",
+      "content_html": "<p>Hư quá nên phải tịnh tâm đọc thần chú 7 lần ở sườn núi</p>",
+      "content_text": "Hư quá nên phải tịnh tâm đọc thần chú 7 lần ở sườn núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152490",
+      "lang": "vi",
+      "content_html": "<p>Miệng bịa ra liền lúc 7 câu chuyện và xếp lại rất HƯ cấu</p>",
+      "content_text": "Miệng bịa ra liền lúc 7 câu chuyện và xếp lại rất HƯ cấu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

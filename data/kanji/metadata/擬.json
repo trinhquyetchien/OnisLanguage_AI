@@ -1,0 +1,91 @@
+{
+  "kanji": "擬",
+  "meta": {
+    "weight": 1164,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギ"
+    ],
+    "kun": [
+      "まが.い",
+      "もど.き"
+    ],
+    "am_han": "NGHĨ"
+  },
+  "meaning": {
+    "vi": "bắt chước, nhắm (một khẩu súng) vào, đề cử",
+    "en": "mimic, aim (a gun) at, nominate, imitate"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/擬.svg"
+  },
+  "frequency": 1990,
+  "examples": [
+    "模擬",
+    "擬似",
+    "擬態",
+    "擬",
+    "擬人"
+  ],
+  "explanation": {
+    "id": "1420",
+    "text": "擬 (đọc là \"gi\") có nghĩa là \"phỏng theo\", \"giả vờ\" để chỉ các hành động liên quan đến việc bắt chước hoặc tạo ra cái gì đó tương tự.\n\nVí dụ:\n- 擬似 (giji): Giả, giả lập.\n- 擬音 (gio): Âm thanh g"
+  },
+  "comments": [
+    {
+      "id": "154062",
+      "lang": "vi",
+      "content_html": "<p>Còn nghi ngờ gì nữa hãy bắt tay làm theo những gì bạn NGHĨ</p>",
+      "content_text": "Còn nghi ngờ gì nữa hãy bắt tay làm theo những gì bạn NGHĨ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154064",
+      "lang": "vi",
+      "content_html": "<p>Tay bắt chước làm theo sự nghi ngờ</p>",
+      "content_text": "Tay bắt chước làm theo sự nghi ngờ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154063",
+      "lang": "vi",
+      "content_html": "<p>vì vẫn còn Nghi ngờ những gì đã Nghĩ nên dùng tay làm phỏng theo xem đúng ko</p>",
+      "content_text": "vì vẫn còn Nghi ngờ những gì đã Nghĩ nên dùng tay làm phỏng theo xem đúng ko",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

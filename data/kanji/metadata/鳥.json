@@ -1,0 +1,107 @@
+{
+  "kanji": "鳥",
+  "meta": {
+    "weight": 2994,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "とり"
+    ],
+    "am_han": "ĐIỂU"
+  },
+  "meaning": {
+    "vi": "con chim",
+    "en": "bird, chicken"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/鳥.svg"
+  },
+  "frequency": 1043,
+  "examples": [
+    "鳥",
+    "鳥取",
+    "小鳥",
+    "白鳥",
+    "鳥居"
+  ],
+  "explanation": {
+    "id": "5411",
+    "text": "鳥 (đọc là \"tori\") có nghĩa là \"chim\", chỉ các loài chim và liên quan đến đặc điểm của chúng.  \nVí dụ:  \n- 鳥類 (ちょうるい, chōrui): Loài chim.  \n- 鳥の巣 (とりのす, tori no su): Tổ chim.  \n- 鳥肌 (とりはだ, to"
+  },
+  "comments": [
+    {
+      "id": "875",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của một con <strong>chim</strong>.</p>",
+      "content_text": "Hình dạng của một con\nchim\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62989e6ce6860.jpg",
+      "image_path": "assets/images/鳥_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158595",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>鳥 (とり): chim, gà</p><p>鳥肉 (とりにく): thịt gà</p>",
+      "content_text": "JLPT N4\n鳥 (とり): chim, gà\n鳥肉 (とりにく): thịt gà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "158932",
+      "lang": "vi",
+      "content_html": "<p>大鳥(おおとり): con chim lớn</p><p>黒鳥(こくちょう): thiên nga đen</p>",
+      "content_text": "大鳥(おおとり): con chim lớn\n黒鳥(こくちょう): thiên nga đen",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "158056",
+      "lang": "vi",
+      "content_html": "<p>màu trắng gắn liền với 5 ngọn lửa biểu tưởng của con chim ĐIỂU</p>",
+      "content_text": "màu trắng gắn liền với 5 ngọn lửa biểu tưởng của con chim ĐIỂU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

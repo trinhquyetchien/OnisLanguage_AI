@@ -1,0 +1,93 @@
+{
+  "kanji": "渋",
+  "meta": {
+    "weight": 1570,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュウ",
+      "シュウ"
+    ],
+    "kun": [
+      "しぶ",
+      "しぶ.い",
+      "しぶ.る"
+    ],
+    "am_han": "SÁP"
+  },
+  "meaning": {
+    "vi": "làm se, do dự, miễn cưỡng, bị tiêu chảy",
+    "en": "astringent, hesitate, reluctant, have diarrhea"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/渋.svg"
+  },
+  "frequency": 1011,
+  "examples": [
+    "渋滞",
+    "渋い",
+    "渋",
+    "苦渋",
+    "渋々"
+  ],
+  "explanation": {
+    "id": "3567",
+    "text": "渋 (đọc là \"shibu\") có nghĩa là \"chát\", \"cay đắng\" hoặc chỉ sự khó khăn, nặng nề. Chữ này thường được sử dụng để diễn tả các cảm giác không dễ chịu.\n\nVí dụ:\n- 渋滞 (jūtai): Tắc đường.\n- 渋み (shi"
+  },
+  "comments": [
+    {
+      "id": "154965",
+      "lang": "vi",
+      "content_html": "<p>Thuỷ đi mua Phấn SÁP thì phải Dừng Lại vì bị KẸT XE ở Ngã 4</p>",
+      "content_text": "Thuỷ đi mua Phấn SÁP thì phải Dừng Lại vì bị KẸT XE ở Ngã 4",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154966",
+      "lang": "vi",
+      "content_html": "<p>Mặt như ăn SÁP khi nhìn nước cống bị kẹt tắc ngay ngã tư</p>",
+      "content_text": "Mặt như ăn SÁP khi nhìn nước cống bị kẹt tắc ngay ngã tư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154967",
+      "lang": "vi",
+      "content_html": "<p>Dừng lại cắt 4 miếng sáp nhựa cây chạy ra</p>",
+      "content_text": "Dừng lại cắt 4 miếng sáp nhựa cây chạy ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

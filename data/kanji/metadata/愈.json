@@ -1,0 +1,85 @@
+{
+  "kanji": "愈",
+  "meta": {
+    "weight": 996,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユ"
+    ],
+    "kun": [
+      "いよいよ",
+      "まさ.る"
+    ],
+    "am_han": "DŨ"
+  },
+  "meaning": {
+    "vi": "vượt trội hơn, chữa lành, nhiều hơn và nhiều hơn nữa, ngày càng tăng, cuối cùng, ngoài sự nghi ngờ",
+    "en": "be superior, heal, more and more, increasingly, finally, beyond doubt"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/愈.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7719",
+    "text": "愈 (đọc là \"yuu\" hoặc \"yoku\") có nghĩa là \"hồi phục\", \"khỏi bệnh\", chỉ sự cải thiện tình trạng sức khỏe hoặc cảm xúc.\n\nVí dụ:\n- 愈合 (yuu-go): Hồi phục, liền lại (vết thương).\n- 愈す (yusu): Chữa"
+  },
+  "comments": [
+    {
+      "id": "219515",
+      "lang": "vi",
+      "content_html": "<p>Tâm đã dũ bỏ mọi thứ phù phu trên đời này</p>",
+      "content_text": "Tâm đã dũ bỏ mọi thứ phù phu trên đời này",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219516",
+      "lang": "vi",
+      "content_html": "<p>愈史郎 yuushiro _ kimetsu no yaiba</p>",
+      "content_text": "愈史郎 yuushiro _ kimetsu no yaiba",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219517",
+      "lang": "vi",
+      "content_html": "<p>Dũ bỏ muộn phiền từ Tâm để đi Du lịch</p>",
+      "content_text": "Dũ bỏ muộn phiền từ Tâm để đi Du lịch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

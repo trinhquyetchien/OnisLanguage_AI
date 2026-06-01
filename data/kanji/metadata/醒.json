@@ -1,0 +1,85 @@
+{
+  "kanji": "醒",
+  "meta": {
+    "weight": 2726,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ"
+    ],
+    "kun": [
+      "さ.ます",
+      "さ.める"
+    ],
+    "am_han": "TỈNH"
+  },
+  "meaning": {
+    "vi": "tỉnh táo, vỡ mộng",
+    "en": "awake, be disillusioned, sober up"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/醒.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4362",
+    "text": "醒 (đọc là \"sei\" hoặc \"saku\") có nghĩa là \"thức tỉnh\", \"tỉnh táo\" để chỉ trạng thái nhận thức rõ ràng hay sự hồi phục sau khi ngủ.  \nVí dụ:  \n- 醒める (sameru): Tỉnh dậy, thức dậy.  \n- 醒ます (sama"
+  },
+  "comments": [
+    {
+      "id": "220882",
+      "lang": "vi",
+      "content_html": "<p>Uống rượu ngắm sao tỉnh sự đời</p>",
+      "content_text": "Uống rượu ngắm sao tỉnh sự đời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220883",
+      "lang": "vi",
+      "content_html": "<p>tới giờ DẬU những ngôi SAO sẽ thức TỈNH trên bầu trời</p>",
+      "content_text": "tới giờ DẬU những ngôi SAO sẽ thức TỈNH trên bầu trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220884",
+      "lang": "vi",
+      "content_html": "<p>uống rượu ngắm sao cảnh tỉnh cuộc đời</p>",
+      "content_text": "uống rượu ngắm sao cảnh tỉnh cuộc đời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

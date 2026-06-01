@@ -1,0 +1,84 @@
+{
+  "kanji": "儒",
+  "meta": {
+    "weight": 250,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュ"
+    ],
+    "kun": [],
+    "am_han": "NHO"
+  },
+  "meaning": {
+    "vi": "Nho gia",
+    "en": "Confucian"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/儒.svg"
+  },
+  "frequency": 2162,
+  "examples": [
+    "儒教"
+  ],
+  "explanation": {
+    "id": "3441",
+    "text": "儒 (đọc là \"ju\") có nghĩa là \"Nho\", liên quan đến Nho giáo và tri thức. \n\nVí dụ:\n- 儒学 (jugaku): Nho học, học thuyết Nho giáo.\n- 儒者 (jusha): Người theo Nho giáo, học giả Nho.\n- 儒教 (jukyō): Tôn"
+  },
+  "comments": [
+    {
+      "id": "151816",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa mọi Người đều có Nhu cầu học chữ NHO</p>",
+      "content_text": "Ngày xưa mọi Người đều có Nhu cầu học chữ NHO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151817",
+      "lang": "vi",
+      "content_html": "<p>Người không có nhu cầu là Nho nhã</p>",
+      "content_text": "Người không có nhu cầu là Nho nhã",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151818",
+      "lang": "vi",
+      "content_html": "<p>Người Mà đứng dưới Mưa để học Nho</p>",
+      "content_text": "Người Mà đứng dưới Mưa để học Nho",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

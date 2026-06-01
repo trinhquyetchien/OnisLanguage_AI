@@ -1,0 +1,86 @@
+{
+  "kanji": "碁",
+  "meta": {
+    "weight": 1880,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴ"
+    ],
+    "kun": [],
+    "am_han": "KÌ"
+  },
+  "meaning": {
+    "vi": "Đi",
+    "en": "Go"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/碁.svg"
+  },
+  "frequency": 1609,
+  "examples": [
+    "囲碁",
+    "碁",
+    "碁盤"
+  ],
+  "explanation": {
+    "id": "2349",
+    "text": "碁 (đọc là \"go\") có nghĩa là \"cờ vây\", một trò chơi chiến thuật phổ biến ở Nhật Bản và các nước Đông Á.  \nVí dụ:  \n- 碁盤 (goban): Bàn cờ vây.  \n- 碁石 (goseki): Đá cờ vây.  \n- 碁を打つ (go o utsu): "
+  },
+  "comments": [
+    {
+      "id": "155649",
+      "lang": "vi",
+      "content_html": "<p>quân cờ vây làm từ đá,  shogi làm từ gỗ</p>",
+      "content_text": "quân cờ vây làm từ đá,  shogi làm từ gỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155650",
+      "lang": "vi",
+      "content_html": "<p>Họ Kì (其) trả tiền vào kì hạn (期) cuối tháng (月)<br>Họ Kì (其) dùng gỗ (木) làm cờ tướng (棋)<br>Họ Kì (其) dùng đá (石) làm cờ vây (碁)<br>Họ Kì (其) thiếu (欠) nợ nên hay lừa dối (欺)<br>Họ Kì (其) cho người nằm (</p>",
+      "content_text": "Họ Kì (其) trả tiền vào kì hạn (期) cuối tháng (月)\nHọ Kì (其) dùng gỗ (木) làm cờ tướng (棋)\nHọ Kì (其) dùng đá (石) làm cờ vây (碁)\nHọ Kì (其) thiếu (欠) nợ nên hay lừa dối (欺)\nHọ Kì (其) cho người nằm (",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155651",
+      "lang": "vi",
+      "content_html": "<p>cầm kì thi họa :Đánh đàn, chơi cờ, viết chữ, vẽ tranh.</p>",
+      "content_text": "cầm kì thi họa :Đánh đàn, chơi cờ, viết chữ, vẽ tranh.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

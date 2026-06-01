@@ -1,0 +1,92 @@
+{
+  "kanji": "魚",
+  "meta": {
+    "weight": 2972,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギョ"
+    ],
+    "kun": [
+      "うお",
+      "さかな",
+      "-ざかな"
+    ],
+    "am_han": "NGƯ"
+  },
+  "meaning": {
+    "vi": "con cá",
+    "en": "fish"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/魚.svg"
+  },
+  "frequency": 1208,
+  "examples": [
+    "魚",
+    "金魚",
+    "人魚",
+    "魚介類",
+    "魚屋"
+  ],
+  "explanation": {
+    "id": "1603",
+    "text": "魚 (đọc là \"uo\" hoặc \"sakana\") có nghĩa là \"cá\", chỉ các loài động vật sống trong nước, thường được sử dụng trong ẩm thực và văn hóa Nhật Bản.  \nVí dụ:  \n- 魚料理 (sakanaryōri): Món cá, món ăn c"
+  },
+  "comments": [
+    {
+      "id": "766",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của con <strong>cá</strong>.</p>",
+      "content_text": "Hình dạng của con\ncá\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62984e5c41833.jpg",
+      "image_path": "assets/images/魚_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158036",
+      "lang": "vi",
+      "content_html": "<p>Đốt lửa 灬 dưới ruộng 田, cá 魚 chết nổi lềnh bềnh.</p>",
+      "content_text": "Đốt lửa 灬 dưới ruộng 田, cá 魚 chết nổi lềnh bềnh.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158603",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>魚 (さかな): cá</p>",
+      "content_text": "JLPT N4\n魚 (さかな): cá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "kanji": "翰",
+  "meta": {
+    "weight": 2143,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "はね",
+      "ふで",
+      "やまどり",
+      "ふみ"
+    ],
+    "am_han": "HÀN"
+  },
+  "meaning": {
+    "vi": "viết thư, bút lông",
+    "en": "letter, writing brush"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/翰.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1170",
+    "text": "翰 (đọc là \"kan\") có nghĩa là \"bút\" hoặc \"thư từ\", thường liên quan đến việc viết lách, văn chương.\n\nVí dụ:\n- 翰墨 (kanboku): Văn chương, nghệ thuật viết.\n- 翰林 (kanrin): Cử nhân, học giả.\n- 翰風 "
+  },
+  "comments": []
+}

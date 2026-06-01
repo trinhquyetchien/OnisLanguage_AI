@@ -1,0 +1,91 @@
+{
+  "kanji": "予",
+  "meta": {
+    "weight": 110,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨ",
+      "シャ"
+    ],
+    "kun": [
+      "あらかじ.め"
+    ],
+    "am_han": "DỰ"
+  },
+  "meaning": {
+    "vi": "dự đoán, dự báo",
+    "en": "beforehand, previous, myself, I"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/予.svg"
+  },
+  "frequency": 180,
+  "examples": [
+    "予定",
+    "予算",
+    "予想",
+    "予約",
+    "予測"
+  ],
+  "explanation": {
+    "id": "7813",
+    "text": "予 (đọc là \"yo\") có nghĩa là \"dự đoán\", \"tiên đoán\", chỉ các hành động liên quan đến việc dự báo hoặc chuẩn bị trước.  \nVí dụ:  \n- 予約 (yoyaku): Đặt chỗ, đặt trước.  \n- 予測 (yosoku): Dự đoán, t"
+  },
+  "comments": [
+    {
+      "id": "881",
+      "lang": "vi",
+      "content_html": "<p>Mẹ cõng con đi về phía <strong>trước.</strong></p>",
+      "content_text": "Mẹ cõng con đi về phía\ntrước.",
+      "image_url": "https://jpdictionary.com/upload/images/62989f7609aab.jpg",
+      "image_path": "assets/images/予_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190864",
+      "lang": "vi",
+      "content_html": "<p><strong>dự đoán</strong></p>",
+      "content_text": "dự đoán",
+      "image_url": "https://jpdictionary.com/upload/images/648a5f7117d90.jpg",
+      "image_path": "assets/images/予_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "151478",
+      "lang": "vi",
+      "content_html": "<p>Gặp Ma dự sẽ hét Aaaaa</p>",
+      "content_text": "Gặp Ma dự sẽ hét Aaaaa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

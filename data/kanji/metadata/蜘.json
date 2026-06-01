@@ -1,0 +1,50 @@
+{
+  "kanji": "蜘",
+  "meta": {
+    "weight": 2388,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チ"
+    ],
+    "kun": [
+      "くも"
+    ],
+    "am_han": "TRI"
+  },
+  "meaning": {
+    "vi": "con nhện",
+    "en": "spider"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/蜘.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5226",
+    "text": "蜘 (đọc là \"arachnid\" trong nghĩa tiếng Nhật) có nghĩa là \"nhện\". \n\nVí dụ:\n- 蜘蛛 (kumo): Nhện.\n- 蜘蛛の巣 (kumo no su): Mạng nhện.\n- 蜘蛛膜下出血 (kumo maku ka shukketsu): Xuất huyết dưới màng nhện (thu"
+  },
+  "comments": [
+    {
+      "id": "220611",
+      "lang": "vi",
+      "content_html": "<p>cậu có biết gì về con côn trùng đó ko? là con nhện á</p>",
+      "content_text": "cậu có biết gì về con côn trùng đó ko? là con nhện á",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "胸",
+  "meta": {
+    "weight": 2189,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "むね",
+      "むな-"
+    ],
+    "am_han": "HUNG"
+  },
+  "meaning": {
+    "vi": "ngực",
+    "en": "bosom, breast, chest, heart, feelings"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/胸.svg"
+  },
+  "frequency": 1144,
+  "examples": [
+    "胸",
+    "度胸",
+    "胸元",
+    "胸部",
+    "胸中"
+  ],
+  "explanation": {
+    "id": "1690",
+    "text": "胸 (đọc là \"kyō\" hoặc \"mune\") có nghĩa là \"ngực\", chỉ phần thân trên của cơ thể con người, thường liên quan đến cảm xúc hoặc tâm trạng.  \n\nVí dụ:  \n- 胸部 (kyōbu): Vùng ngực.  \n- 胸に抱く (mune ni "
+  },
+  "comments": [
+    {
+      "id": "156317",
+      "lang": "vi",
+      "content_html": "<p>chị Nguyệt Hung dữ, lồng NGỰC có 1 vết sẹo Bao quanh</p>",
+      "content_text": "chị Nguyệt Hung dữ, lồng NGỰC có 1 vết sẹo Bao quanh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156318",
+      "lang": "vi",
+      "content_html": "<p>Chỗ  bao bọc khu vực thịt là ngực</p>",
+      "content_text": "Chỗ  bao bọc khu vực thịt là ngực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156319",
+      "lang": "vi",
+      "content_html": "<p>người có ngực to ( phụ nữ ) đến tháng rất HUNG bạo.. xin lỗi chị em nhé</p>",
+      "content_text": "người có ngực to ( phụ nữ ) đến tháng rất HUNG bạo.. xin lỗi chị em nhé",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

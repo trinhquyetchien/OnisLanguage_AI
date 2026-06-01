@@ -1,0 +1,87 @@
+{
+  "kanji": "葵",
+  "meta": {
+    "weight": 2316,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "あおい"
+    ],
+    "am_han": "QUỲ"
+  },
+  "meaning": {
+    "vi": "cây thục quỳ",
+    "en": "hollyhock"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/葵.svg"
+  },
+  "frequency": 2122,
+  "examples": [
+    "葵",
+    "向日葵"
+  ],
+  "explanation": {
+    "id": "26",
+    "text": "葵 (đọc là \"aoi\") có nghĩa là \"hoa hướng dương\" hoặc \"cây hẹ.\" Chữ này thường chỉ các loại cây thuộc họ rau thơm hoặc hoa cỏ.\n\nVí dụ:\n- 葵 (aoi): Hoa hướng dương.\n- 葵の花 (aoi no hana): Hoa hướn"
+  },
+  "comments": [
+    {
+      "id": "156573",
+      "lang": "vi",
+      "content_html": "<p>QUỲ là loại THẢO dược QUÝ giá</p>",
+      "content_text": "QUỲ là loại THẢO dược QUÝ giá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156574",
+      "lang": "vi",
+      "content_html": "<p>Quỳ là loài cỏ chữa bệnh cho trời</p>",
+      "content_text": "Quỳ là loài cỏ chữa bệnh cho trời",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156575",
+      "lang": "vi",
+      "content_html": "<p>向日葵</p>",
+      "content_text": "向日葵",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

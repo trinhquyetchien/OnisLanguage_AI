@@ -1,0 +1,92 @@
+{
+  "kanji": "草",
+  "meta": {
+    "weight": 2280,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ"
+    ],
+    "kun": [
+      "くさ",
+      "くさ-",
+      "-ぐさ"
+    ],
+    "am_han": "THẢO"
+  },
+  "meaning": {
+    "vi": "cỏ, thảo mộc",
+    "en": "grass, weeds, herbs, pasture, write, draft"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/草.svg"
+  },
+  "frequency": 967,
+  "examples": [
+    "草",
+    "煙草",
+    "草子",
+    "草原",
+    "草案"
+  ],
+  "explanation": {
+    "id": "4747",
+    "text": "草 (đọc là \"kusa\") có nghĩa là \"cỏ\" để chỉ các loại thực vật nhỏ, thường mọc gần mặt đất.  \nVí dụ:  \n- 草野球 (kusayakyū): Bóng chày phong trào.  \n- 草食 (sōshoku): Thực vật ăn, chỉ những loài ăn "
+  },
+  "comments": [
+    {
+      "id": "156518",
+      "lang": "vi",
+      "content_html": "<p>Cỏ mọc sớm & nhanh là cỏ THẢO nguyên</p>",
+      "content_text": "Cỏ mọc sớm & nhanh là cỏ THẢO nguyên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156519",
+      "lang": "vi",
+      "content_html": "<p>Chị THẢO dậy sớm đi làm cỏ</p>",
+      "content_text": "Chị THẢO dậy sớm đi làm cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156520",
+      "lang": "vi",
+      "content_html": "<p>cỏ thì thường mọc nhanh</p>",
+      "content_text": "cỏ thì thường mọc nhanh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

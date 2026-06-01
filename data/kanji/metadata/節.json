@@ -1,0 +1,93 @@
+{
+  "kanji": "節",
+  "meta": {
+    "weight": 2009,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セツ",
+      "セチ"
+    ],
+    "kun": [
+      "ふし",
+      "-ぶし",
+      "のっと"
+    ],
+    "am_han": "TIẾT, TIỆT"
+  },
+  "meaning": {
+    "vi": "Nút, Mùa, Thời kỳ, dịp, Câu, Mệnh đề, Khổ thơ, tôn vinh, chung, đốt ngón tay, núm, Điều chỉnh, giai điệu",
+    "en": "node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/節.svg"
+  },
+  "frequency": 934,
+  "examples": [
+    "季節",
+    "節",
+    "節約",
+    "調節",
+    "関節"
+  ],
+  "explanation": {
+    "id": "4451",
+    "text": "節 (đọc là \"setsu\" hoặc \"se\", \"fushi\") có nghĩa là \"tiết\" hoặc \"mùa\", thể hiện sự phân chia, giai đoạn trong thời gian hoặc những điều chỉnh, hạn chế. \n\nVí dụ:\n- 季節 (kisetsu): Mùa, thời tiết."
+  },
+  "comments": [
+    {
+      "id": "155903",
+      "lang": "vi",
+      "content_html": "<p>Dùng tre(竹) tức (即) là tiết (節）kiệm</p>",
+      "content_text": "Dùng tre(竹) tức (即) là tiết (節）kiệm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155904",
+      "lang": "vi",
+      "content_html": "<p>Thấy 竹 TRÚC mọc 即 TỨC thì;<br>anh em chớ vội đi;<br>điều tiết節 lại hành động;<br>tiết節 kiệm bớt thời gian;<br>chi tiết節 chưa vẹn toàn;<br>thời tiết節 đang khó đoán;<br>(Hoàn cảnh: CEO căn dặn anh em chú ý trước khi xuất hàng robot sang Nhật</p>",
+      "content_text": "Thấy 竹 TRÚC mọc 即 TỨC thì;\nanh em chớ vội đi;\nđiều tiết節 lại hành động;\ntiết節 kiệm bớt thời gian;\nchi tiết節 chưa vẹn toàn;\nthời tiết節 đang khó đoán;\n(Hoàn cảnh: CEO căn dặn anh em chú ý trước khi xuất hàng robot sang Nhật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155905",
+      "lang": "vi",
+      "content_html": "<p>Khi CẤN tiền quá thì bổ ống TRE TIẾT kiệm tiền ra tiêu</p>",
+      "content_text": "Khi CẤN tiền quá thì bổ ống TRE TIẾT kiệm tiền ra tiêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

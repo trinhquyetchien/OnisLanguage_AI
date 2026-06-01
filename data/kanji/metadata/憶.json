@@ -1,0 +1,103 @@
+{
+  "kanji": "憶",
+  "meta": {
+    "weight": 1022,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オク"
+    ],
+    "kun": [],
+    "am_han": "ỨC"
+  },
+  "meaning": {
+    "vi": "hồi ức, suy nghĩ, ghi nhớ",
+    "en": "recollection, think, remember"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/憶.svg"
+  },
+  "frequency": 1324,
+  "examples": [
+    "記憶",
+    "憶測",
+    "追憶"
+  ],
+  "explanation": {
+    "id": "567",
+    "text": "憶 (đọc là \"oku\") có nghĩa là \"nhớ\", \"ký ức\" để chỉ các hành động liên quan đến trí nhớ và sự hồi tưởng.\n\nVí dụ:\n- 憶測 (okusaku): Suy đoán, phỏng đoán.\n- 憶念 (okunen): Ký ức, hồi tưởng.\n- 憶える ("
+  },
+  "comments": [
+    {
+      "id": "153724",
+      "lang": "vi",
+      "content_html": "<p>Con tim dựng lên vì để ý đến kí ức</p>",
+      "content_text": "Con tim dựng lên vì để ý đến kí ức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153725",
+      "lang": "vi",
+      "content_html": "<p>tâm đầu ý hợp sẽ có ký ức đẹp</p>",
+      "content_text": "tâm đầu ý hợp sẽ có ký ức đẹp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153726",
+      "lang": "vi",
+      "content_html": "<p>Tâm đang để ý tới kí ức</p>",
+      "content_text": "Tâm đang để ý tới kí ức",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158993",
+      "lang": "vi",
+      "content_html": "<p>hay</p>",
+      "content_text": "hay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "599",
+        "name": "TIẾN PHẠM VĂN",
+        "image_url": "https://jpdictionary.com/upload/images/6390ad35c0058.png"
+      }
+    }
+  ]
+}

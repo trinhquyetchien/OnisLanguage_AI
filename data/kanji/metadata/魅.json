@@ -1,0 +1,86 @@
+{
+  "kanji": "魅",
+  "meta": {
+    "weight": 2970,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ミ"
+    ],
+    "kun": [],
+    "am_han": "MỊ"
+  },
+  "meaning": {
+    "vi": "mê hoặc, quyến rũ",
+    "en": "fascination, charm, bewitch"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/魅.svg"
+  },
+  "frequency": 1206,
+  "examples": [
+    "魅力",
+    "魅了",
+    "魅惑"
+  ],
+  "explanation": {
+    "id": "7475",
+    "text": "魅 (đọc là \"mi\") có nghĩa là \"hấp dẫn\", \"quyến rũ\" để chỉ sự thu hút hoặc sức hấp dẫn của một điều gì đó.  \nVí dụ:  \n- 魅力 (miryoku): Sức quyến rũ, sức hấp dẫn.  \n- 魅せる (miseru): Làm cho ai đó"
+  },
+  "comments": [
+    {
+      "id": "158029",
+      "lang": "vi",
+      "content_html": "<p>Ngửi phải mùi VỊ của QUỶ sẽ bị mộng MỊ</p>",
+      "content_text": "Ngửi phải mùi VỊ của QUỶ sẽ bị mộng MỊ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158030",
+      "lang": "vi",
+      "content_html": "<p>yêu quái ma Quỷ dùng những thứ có mùi Vị hấp dẫn để mê hoặc, khiến con người mông Mị (hồ ly tinh ^_^ )</p>",
+      "content_text": "yêu quái ma Quỷ dùng những thứ có mùi Vị hấp dẫn để mê hoặc, khiến con người mông Mị (hồ ly tinh ^_^ )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158031",
+      "lang": "vi",
+      "content_html": "<p>Để MỊ nói cho mà nge mùi vị của quỉ tuyệt lắm :)</p>",
+      "content_text": "Để MỊ nói cho mà nge mùi vị của quỉ tuyệt lắm :)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

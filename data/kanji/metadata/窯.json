@@ -1,0 +1,87 @@
+{
+  "kanji": "窯",
+  "meta": {
+    "weight": 1968,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "かま"
+    ],
+    "am_han": "DIÊU"
+  },
+  "meaning": {
+    "vi": "lò nung",
+    "en": "kiln, oven, furnace"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/窯.svg"
+  },
+  "frequency": 2072,
+  "examples": [
+    "窯",
+    "窯元"
+  ],
+  "explanation": {
+    "id": "7884",
+    "text": "窯 (đọc là \"yō\") có nghĩa là \"lò gốm\", chỉ các loại lò dùng để nung gốm hoặc đất sét.  \nVí dụ:  \n- 窯元 (kamamoto): Xưởng gốm, nơi sản xuất gốm.  \n- 窯焚き (yōdaki): Nung gốm trong lò.  \n- 陶窯 (tōy"
+  },
+  "comments": [
+    {
+      "id": "155828",
+      "lang": "vi",
+      "content_html": "<p>Cho con Dê vào LÒ nấu DIÊU</p>",
+      "content_text": "Cho con Dê vào LÒ nấu DIÊU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155829",
+      "lang": "vi",
+      "content_html": "<p>Đào 1 cái huyệt rồi cho con dê xuống sau đó nhóm lửa lò nung thành đồ gốm , đừng nấu DIÊU</p>",
+      "content_text": "Đào 1 cái huyệt rồi cho con dê xuống sau đó nhóm lửa lò nung thành đồ gốm , đừng nấu DIÊU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155830",
+      "lang": "vi",
+      "content_html": "<p>thổi LỬA vào cái LỖ của LÒ để nấu DIÊU con dê</p>",
+      "content_text": "thổi LỬA vào cái LỖ của LÒ để nấu DIÊU con dê",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

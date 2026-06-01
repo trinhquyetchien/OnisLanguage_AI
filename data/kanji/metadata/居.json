@@ -1,0 +1,93 @@
+{
+  "kanji": "居",
+  "meta": {
+    "weight": 774,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョ",
+      "コ"
+    ],
+    "kun": [
+      "い.る",
+      "-い",
+      "お.る"
+    ],
+    "am_han": "CƯ"
+  },
+  "meaning": {
+    "vi": "cư trú",
+    "en": "reside, to be, exist, live with"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/居.svg"
+  },
+  "frequency": 836,
+  "examples": [
+    "居",
+    "居る",
+    "居住",
+    "芝居",
+    "居酒屋"
+  ],
+  "explanation": {
+    "id": "1570",
+    "text": "居 (đọc là \"kyo\" hoặc \"ko\") có nghĩa là \"sinh sống\", \"cư trú\" để chỉ hành động ở lại hay cư ngụ tại một nơi nào đó.\n\nVí dụ:\n- 居住 (kyoju): Cư trú, sinh sống.\n- 居間 (ima): Phòng khách.\n- 御居 (おいで"
+  },
+  "comments": [
+    {
+      "id": "153104",
+      "lang": "vi",
+      "content_html": "<p>Con ma cư trú trong nhà cổ</p>",
+      "content_text": "Con ma cư trú trong nhà cổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153105",
+      "lang": "vi",
+      "content_html": "<p>Cương thi 尸 CƯ trú ở Cổ mộ</p>",
+      "content_text": "Cương thi 尸 CƯ trú ở Cổ mộ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153106",
+      "lang": "vi",
+      "content_html": "<p>Tôi sống ở nhà có cái Cửa Cổ</p>",
+      "content_text": "Tôi sống ở nhà có cái Cửa Cổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

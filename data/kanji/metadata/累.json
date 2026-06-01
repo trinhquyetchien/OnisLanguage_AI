@@ -1,0 +1,86 @@
+{
+  "kanji": "累",
+  "meta": {
+    "weight": 2064,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ルイ"
+    ],
+    "kun": [],
+    "am_han": "LUY, LŨY, LỤY"
+  },
+  "meaning": {
+    "vi": "tích lũy, tham gia, rắc rối, ràng buộc, liên tục",
+    "en": "accumulate, involvement, trouble, tie up, continually"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/累.svg"
+  },
+  "frequency": 1662,
+  "examples": [
+    "累積",
+    "累計",
+    "累進"
+  ],
+  "explanation": {
+    "id": "8197",
+    "text": "累 (đọc là \"rui\") có nghĩa là \"tích lũy\", \"chất đống\" để chỉ việc tích lũy hoặc chồng chất một cách dần dần.  \nVí dụ:  \n- 累積 (ruiseki): Tích lũy, chồng chất.  \n- 累計 (ruikei): Tổng cộng, tổng "
+  },
+  "comments": [
+    {
+      "id": "156012",
+      "lang": "vi",
+      "content_html": "<p>Chỉ vì Ruộng Đất mà liên LUỴ đến tình cảm Anh Em</p>",
+      "content_text": "Chỉ vì Ruộng Đất mà liên LUỴ đến tình cảm Anh Em",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156013",
+      "lang": "vi",
+      "content_html": "<p>Làm Ruộng để Tích Luỹ mua Chỉ</p>",
+      "content_text": "Làm Ruộng để Tích Luỹ mua Chỉ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156014",
+      "lang": "vi",
+      "content_html": "<p>Anh làm Ruộng, em se Chỉ, mình tích lũy tiền bạc.</p>",
+      "content_text": "Anh làm Ruộng, em se Chỉ, mình tích lũy tiền bạc.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

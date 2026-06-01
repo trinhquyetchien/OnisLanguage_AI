@@ -1,0 +1,105 @@
+{
+  "kanji": "講",
+  "meta": {
+    "weight": 2521,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [],
+    "am_han": "GIẢNG"
+  },
+  "meaning": {
+    "vi": "giảng dạy",
+    "en": "lecture, club, association"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/講.svg"
+  },
+  "frequency": 653,
+  "examples": [
+    "講演",
+    "講座",
+    "講師",
+    "講義",
+    "受講"
+  ],
+  "explanation": {
+    "id": "2556",
+    "text": "講 (đọc là \"kō\") có nghĩa là \"giảng dạy\", \"nói chuyện\" để chỉ các hành động liên quan đến việc giảng bài, truyền đạt kiến thức hoặc thuyết trình.\n\nVí dụ:\n- 講義 (kōgi): Bài giảng.\n- 講演 (kōen): "
+  },
+  "comments": [
+    {
+      "id": "156990",
+      "lang": "vi",
+      "content_html": "<p>NGÔN từ là một phần CẤU tạo nên bài GIẢNG</p>",
+      "content_text": "NGÔN từ là một phần CẤU tạo nên bài GIẢNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190711",
+      "lang": "vi",
+      "content_html": "<p>ngôn từ là thứ cấu tạo nên bài Giảng</p>",
+      "content_text": "ngôn từ là thứ cấu tạo nên bài Giảng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "156991",
+      "lang": "vi",
+      "content_html": "<p>Việc nói đi nói lại chất đống như 2 quả đất đè lên là giảng dạy</p>",
+      "content_text": "Việc nói đi nói lại chất đống như 2 quả đất đè lên là giảng dạy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156992",
+      "lang": "vi",
+      "content_html": "<p>Nói chuyện giảng giải cho 2 ô chủ việc tái sdung tiền yên</p>",
+      "content_text": "Nói chuyện giảng giải cho 2 ô chủ việc tái sdung tiền yên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

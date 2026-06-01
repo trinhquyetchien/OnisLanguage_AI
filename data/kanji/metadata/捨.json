@@ -1,0 +1,107 @@
+{
+  "kanji": "捨",
+  "meta": {
+    "weight": 1105,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シャ"
+    ],
+    "kun": [
+      "す.てる"
+    ],
+    "am_han": "XÁ"
+  },
+  "meaning": {
+    "vi": "vứt bỏ, xả rác",
+    "en": "discard, throw away, abandon, resign, reject, sacrifice"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/捨.svg"
+  },
+  "frequency": 1266,
+  "examples": [
+    "捨てる",
+    "切り捨て",
+    "使い捨て",
+    "取捨選択",
+    "切り捨てる"
+  ],
+  "explanation": {
+    "id": "3330",
+    "text": "捨 (đọc là \"sha\" hoặc \"sute\") có nghĩa là \"vứt bỏ\", \"bỏ đi\" để chỉ hành động từ bỏ hoặc loại bỏ vật gì đó không còn cần thiết.\n\nVí dụ:\n- 捨てる (suteru): Vứt, bỏ đi.\n- 捨て場所 (sutebasho): Nơi vứt "
+  },
+  "comments": [
+    {
+      "id": "37352",
+      "lang": "vi",
+      "content_html": "<p><strong>Vứt </strong>rác vào thứ bảy (土).</p>",
+      "content_text": "Vứt\nrác vào thứ bảy (土).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe9e2f1f4f.jpg",
+      "image_path": "assets/images/捨_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153935",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay xả rác trong phố xá</p>",
+      "content_text": "Dùng tay xả rác trong phố xá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153936",
+      "lang": "vi",
+      "content_html": "<p>tay làm, miệng nói cùng dọn Rác dưới mái nhà.</p>",
+      "content_text": "tay làm, miệng nói cùng dọn Rác dưới mái nhà.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153937",
+      "lang": "vi",
+      "content_html": "<p>1tay 扌 quản Xá舎..khó, bỏ luôn 捨XÁ</p>",
+      "content_text": "1tay 扌 quản Xá舎..khó, bỏ luôn 捨XÁ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

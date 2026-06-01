@@ -1,0 +1,36 @@
+{
+  "kanji": "牌",
+  "meta": {
+    "weight": 1689,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハイ"
+    ],
+    "kun": [
+      "ぱい",
+      "ふだ"
+    ],
+    "am_han": "BÀI"
+  },
+  "meaning": {
+    "vi": "nhãn, bảng hiệu, huy chương, gạch mạt chược",
+    "en": "label, signboard, medal, mahjong tiles"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/牌.svg"
+  },
+  "frequency": 2247,
+  "examples": [
+    "牌",
+    "位牌"
+  ],
+  "explanation": {
+    "id": "6273",
+    "text": "牌 (đọc là \"hai\") có nghĩa là \"biển hiệu\", \"thẻ\" để chỉ các vật dùng để ghi chú, đánh dấu hoặc thông báo.\n\nVí dụ:\n- 牌名 (haimei): Tên của biển hiệu, nhãn hiệu.\n- 名牌 (meihai): Nhãn hiệu nổi tiế"
+  },
+  "comments": []
+}

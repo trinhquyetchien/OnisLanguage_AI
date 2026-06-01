@@ -1,0 +1,90 @@
+{
+  "kanji": "旗",
+  "meta": {
+    "weight": 1207,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "はた"
+    ],
+    "am_han": "KÌ"
+  },
+  "meaning": {
+    "vi": "quốc kỳ, biểu ngữ, tiêu chuẩn",
+    "en": "national flag, banner, standard"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/旗.svg"
+  },
+  "frequency": 1190,
+  "examples": [
+    "旗",
+    "国旗",
+    "赤旗",
+    "星条旗",
+    "旗揚げ"
+  ],
+  "explanation": {
+    "id": "1302",
+    "text": "旗 (đọc là \"ki\") có nghĩa là \"cờ\", để chỉ các loại cờ hoặc biểu tượng được sử dụng trong các nghi lễ, sự kiện hay quân đội.  \nVí dụ:  \n- 国旗 (kokki): Cờ quốc gia.  \n- 旗手 (kishu): Người cầm cờ."
+  },
+  "comments": [
+    {
+      "id": "154172",
+      "lang": "vi",
+      "content_html": "<p>thằng phương bước hai chan lên cầu thang để lấy lá cờ đang nằm trên gác</p>",
+      "content_text": "thằng phương bước hai chan lên cầu thang để lấy lá cờ đang nằm trên gác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154173",
+      "lang": "vi",
+      "content_html": "<p>mỗi PHƯƠNG điều có KÌ NHÂN vệ sĩ lấy lá cờ để phân biệt môn phái</p>",
+      "content_text": "mỗi PHƯƠNG điều có KÌ NHÂN vệ sĩ lấy lá cờ để phân biệt môn phái",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154174",
+      "lang": "vi",
+      "content_html": "<p>Quốc Kỳ thì phải treo theo Phương Nằm Ngang</p>",
+      "content_text": "Quốc Kỳ thì phải treo theo Phương Nằm Ngang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

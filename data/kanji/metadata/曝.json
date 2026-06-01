@@ -1,0 +1,86 @@
+{
+  "kanji": "曝",
+  "meta": {
+    "weight": 1257,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バク",
+      "ホク",
+      "ボク"
+    ],
+    "kun": [
+      "さら.す"
+    ],
+    "am_han": "BỘC"
+  },
+  "meaning": {
+    "vi": "tẩy trắng, tinh luyện, phơi nhiễm, không khí",
+    "en": "bleach, refine, expose, air"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/曝.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6346",
+    "text": "曝 (đọc là \"baku\") có nghĩa là \"phơi ra\", \"phơi nắng\" hoặc chỉ các hành động liên quan đến việc làm cho cái gì đó lộ ra ngoài ánh sáng. \n\nVí dụ:\n- 曝露 (bakuro): Sự phơi bày, tiết lộ.\n- 曝け出す (b"
+  },
+  "comments": [
+    {
+      "id": "219765",
+      "lang": "vi",
+      "content_html": "<p>Ngày chủ nhật BỘC lộ rõ sự bạo loạn</p>",
+      "content_text": "Ngày chủ nhật BỘC lộ rõ sự bạo loạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219766",
+      "lang": "vi",
+      "content_html": "<p>曝される：phơi nhiễm</p>",
+      "content_text": "曝される：phơi nhiễm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219767",
+      "lang": "vi",
+      "content_html": "<p>Nô bọc xếp thành 4 hàng để bảo vệ chủ</p>",
+      "content_text": "Nô bọc xếp thành 4 hàng để bảo vệ chủ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

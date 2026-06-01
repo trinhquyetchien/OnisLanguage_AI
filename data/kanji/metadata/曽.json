@@ -1,0 +1,90 @@
+{
+  "kanji": "曽",
+  "meta": {
+    "weight": 1263,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "ソ",
+      "ゾウ"
+    ],
+    "kun": [
+      "かつ",
+      "かつて",
+      "すなわち"
+    ],
+    "am_han": "TẰNG, TỪNG"
+  },
+  "meaning": {
+    "vi": "trước đây, một lần, đã từng, không bao giờ, ví dụ:",
+    "en": "formerly, once, before, ever, never, ex-"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/曽.svg"
+  },
+  "frequency": 1320,
+  "examples": [
+    "曽"
+  ],
+  "explanation": {
+    "id": "4621",
+    "text": "曽 (đọc là \"so\") có nghĩa là \"đã từng\", chỉ các hành động hoặc trạng thái đã xảy ra trong quá khứ. \n\nVí dụ:\n- 曽祖父 (so-sofu): Ông cố.\n- 曽て (sōte): Trước đây, đã từng.\n- 曽記 (sōki): Ghi chép trư"
+  },
+  "comments": [
+    {
+      "id": "154314",
+      "lang": "vi",
+      "content_html": "<p>Ngày nào cũng làm Ruộng mà Cỏ vẫn mọc lên Tằng Tằng.</p>",
+      "content_text": "Ngày nào cũng làm Ruộng mà Cỏ vẫn mọc lên Tằng Tằng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154315",
+      "lang": "vi",
+      "content_html": "<p>Cháu chắt càng ngày càng Tăng lên Tằng tằng.</p>",
+      "content_text": "Cháu chắt càng ngày càng Tăng lên Tằng tằng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154316",
+      "lang": "vi",
+      "content_html": "<p>TẰNG là cháu chít của đường TĂNG</p>",
+      "content_text": "TẰNG là cháu chít của đường TĂNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

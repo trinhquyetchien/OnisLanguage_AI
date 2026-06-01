@@ -1,0 +1,90 @@
+{
+  "kanji": "棄",
+  "meta": {
+    "weight": 1372,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "す.てる"
+    ],
+    "am_han": "KHÍ"
+  },
+  "meaning": {
+    "vi": "từ bỏ, vứt bỏ, loại bỏ, từ chức, từ chối, hy sinh",
+    "en": "abandon, throw away, discard, resign, reject, sacrifice"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/棄.svg"
+  },
+  "frequency": 901,
+  "examples": [
+    "廃棄",
+    "放棄",
+    "破棄",
+    "棄却",
+    "投棄"
+  ],
+  "explanation": {
+    "id": "1318",
+    "text": "棄 (đọc là \"ki\" hoặc \"sū\") có nghĩa là \"vứt bỏ\", \"bỏ đi\", chỉ hành động từ chối hoặc loại bỏ cái gì đó.  \nVí dụ:  \n- 棄権 (kiken): Từ chối quyền, không tham gia.  \n- 棄てる (suteru): Vứt, bỏ đi.  "
+  },
+  "comments": [
+    {
+      "id": "154539",
+      "lang": "vi",
+      "content_html": "<p>Bỏ quên 30 cây trong quá khứ ngoài không khí</p>",
+      "content_text": "Bỏ quên 30 cây trong quá khứ ngoài không khí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154540",
+      "lang": "vi",
+      "content_html": "<p>cái cây dưới núi 1 đời bị quên lãng vào quá khứ</p>",
+      "content_text": "cái cây dưới núi 1 đời bị quên lãng vào quá khứ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154541",
+      "lang": "vi",
+      "content_html": "<p>thằng Sơn trên ngọn cây cầm cái gậy Bỏ Quên Quá Khứ ở ngoài không khí</p>",
+      "content_text": "thằng Sơn trên ngọn cây cầm cái gậy Bỏ Quên Quá Khứ ở ngoài không khí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

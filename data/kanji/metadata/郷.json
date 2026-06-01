@@ -1,0 +1,91 @@
+{
+  "kanji": "郷",
+  "meta": {
+    "weight": 2707,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ",
+      "ゴウ"
+    ],
+    "kun": [
+      "さと"
+    ],
+    "am_han": "HƯƠNG"
+  },
+  "meaning": {
+    "vi": "quê quán, làng quê, huyện",
+    "en": "home town, village, native place, district"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/郷.svg"
+  },
+  "frequency": 1077,
+  "examples": [
+    "故郷",
+    "郷",
+    "郷土",
+    "本郷",
+    "帰郷"
+  ],
+  "explanation": {
+    "id": "1700",
+    "text": "郷 (đọc là \"kyō\" hoặc \"gō\") có nghĩa là \"quê hương\", \"làng quê\", chỉ địa phương hoặc nơi có nguồn gốc sinh sống.  \nVí dụ:  \n- 郷土 (kyōdo): Quê hương, vùng đất tổ.  \n- 郷愁 (kyōshū): Nỗi nhớ quê "
+  },
+  "comments": [
+    {
+      "id": "157457",
+      "lang": "vi",
+      "content_html": "<p>Quê hương một bên là mẹ (M ) 1 bên là bố (B ) ở giữa là đồ ăn</p>",
+      "content_text": "Quê hương một bên là mẹ (M ) 1 bên là bố (B ) ở giữa là đồ ăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157458",
+      "lang": "vi",
+      "content_html": "<p>YÊU mà không TỐT với BỒ thì nó sẽ bỏ về QUÊ HƯƠNG</p>",
+      "content_text": "YÊU mà không TỐT với BỒ thì nó sẽ bỏ về QUÊ HƯƠNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157459",
+      "lang": "vi",
+      "content_html": "<p>Yêu 幺quê hương là không phụ 阝lòng người tốt 艮</p>",
+      "content_text": "Yêu 幺quê hương là không phụ 阝lòng người tốt 艮",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

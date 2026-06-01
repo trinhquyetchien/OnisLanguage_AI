@@ -1,0 +1,65 @@
+{
+  "kanji": "鋲",
+  "meta": {
+    "weight": 2766,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [],
+    "kun": [
+      "びょう"
+    ],
+    "am_han": "BENG"
+  },
+  "meaning": {
+    "vi": "đinh tán, đinh ghim, (kokuji)",
+    "en": "rivet, tack, thumbtack, (kokuji)"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/鋲.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6741",
+    "text": "鋲 (đọc là \"byō\") có nghĩa là \"đinh ghim\", chỉ các vật dụng bằng kim loại nhỏ dùng để gắn hoặc cố định.  \nVí dụ:  \n- 鋲打ち (byōuchi): Ghim, đinh ghim.  \n- 鋲で留める (byō de tomeru): Gắn lại bằng đi"
+  },
+  "comments": [
+    {
+      "id": "220910",
+      "lang": "vi",
+      "content_html": "<p>chữ ĐÍNH, do Khuê tạo</p>",
+      "content_text": "chữ ĐÍNH, do Khuê tạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220911",
+      "lang": "vi",
+      "content_html": "<p>Đinh nha . ( binh sĩ đóng đinh sắt) .</p>",
+      "content_text": "Đinh nha . ( binh sĩ đóng đinh sắt) .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

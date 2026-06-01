@@ -1,0 +1,108 @@
+{
+  "kanji": "娘",
+  "meta": {
+    "weight": 673,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ"
+    ],
+    "kun": [
+      "むすめ",
+      "こ"
+    ],
+    "am_han": "NƯƠNG"
+  },
+  "meaning": {
+    "vi": "con gái, cô nương",
+    "en": "daughter, girl"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/娘.svg"
+  },
+  "frequency": 1145,
+  "examples": [
+    "娘",
+    "孫娘",
+    "一人娘",
+    "愛娘",
+    "小娘"
+  ],
+  "explanation": {
+    "id": "7538",
+    "text": "娘 (đọc là \"musume\") có nghĩa là \"con gái\", chỉ các cô gái hoặc con cái trong gia đình. \n\nVí dụ:\n- 娘 (musume): Con gái.\n- 娘さん (musume-san): Cô gái (cách xưng hô lịch sự).\n- 長女 (chōjo): Con gá"
+  },
+  "comments": [
+    {
+      "id": "37206",
+      "lang": "vi",
+      "content_html": "<p><strong>Con gái </strong>(女) tôi là một cô gái tốt (良).</p>",
+      "content_text": "Con gái\n(女) tôi là một cô gái tốt (良).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd4a0798e0.jpg",
+      "image_path": "assets/images/娘_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152845",
+      "lang": "vi",
+      "content_html": "<p>phụ nữ tốt thường nương tay với con cái ;p</p>",
+      "content_text": "phụ nữ tốt thường nương tay với con cái ;p",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152846",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ tốt là  cô nương</p>",
+      "content_text": "Phụ nữ tốt là  cô nương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152847",
+      "lang": "vi",
+      "content_html": "<p>Nàng là người phụ Nữ Lương thiện</p>",
+      "content_text": "Nàng là người phụ Nữ Lương thiện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

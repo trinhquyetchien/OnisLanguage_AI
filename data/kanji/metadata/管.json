@@ -1,0 +1,107 @@
+{
+  "kanji": "管",
+  "meta": {
+    "weight": 2004,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カン"
+    ],
+    "kun": [
+      "くだ"
+    ],
+    "am_han": "QUẢN"
+  },
+  "meaning": {
+    "vi": "ống, quản lí",
+    "en": "pipe, tube, wind instrument, drunken talk, control, jurisdiction"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/管.svg"
+  },
+  "frequency": 517,
+  "examples": [
+    "管理",
+    "管",
+    "保管",
+    "管轄",
+    "所管"
+  ],
+  "explanation": {
+    "id": "1158",
+    "text": "管 (đọc là \"kan\") có nghĩa là \"quản lý\", \"ống\" để chỉ các hành động liên quan đến việc kiểm soát, điều hành hoặc các vật dụng hình ống.\n\nVí dụ:\n- 管理 (kanri): Quản lý, điều hành.\n- 管楽器 (kan-ga"
+  },
+  "comments": [
+    {
+      "id": "36896",
+      "lang": "vi",
+      "content_html": "<p><strong>Quản lí </strong>đang ở trong nhà.</p>",
+      "content_text": "Quản lí\nđang ở trong nhà.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc2765189b6.jpg",
+      "image_path": "assets/images/管_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155894",
+      "lang": "vi",
+      "content_html": "<p>Các QUAN lại thường lấy bút TRE để ghi chép công việc trong cung cho dễ QUẢN lí (管理</p>",
+      "content_text": "Các QUAN lại thường lấy bút TRE để ghi chép công việc trong cung cho dễ QUẢN lí (管理",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155895",
+      "lang": "vi",
+      "content_html": "<p>QUAN dùng gậy TRÚC để QUẢN lý mọi người.</p>",
+      "content_text": "QUAN dùng gậy TRÚC để QUẢN lý mọi người.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190636",
+      "lang": "vi",
+      "content_html": "<p>食管(しょっかん): Quản ý lượng thức ăn</p>",
+      "content_text": "食管(しょっかん): Quản ý lượng thức ăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

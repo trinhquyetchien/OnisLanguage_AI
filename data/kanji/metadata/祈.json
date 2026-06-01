@@ -1,0 +1,90 @@
+{
+  "kanji": "祈",
+  "meta": {
+    "weight": 1901,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "いの.る"
+    ],
+    "am_han": "KÌ"
+  },
+  "meaning": {
+    "vi": "cầu nguyện, ước",
+    "en": "pray, wish"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/祈.svg"
+  },
+  "frequency": 1462,
+  "examples": [
+    "祈り",
+    "お祈り",
+    "祈る",
+    "祈願",
+    "祈祷"
+  ],
+  "explanation": {
+    "id": "1345",
+    "text": "祈 (đọc là \"ki\") có nghĩa là \"cầu nguyện\" hoặc \"mong ước\", thường liên quan đến hành động cầu xin điều tốt đẹp.  \nVí dụ:  \n- 祈る (inoru): Cầu nguyện.  \n- 祈願 (kigan): Cầu nguyện, mong ước.  \n- "
+  },
+  "comments": [
+    {
+      "id": "155684",
+      "lang": "vi",
+      "content_html": "<p>Đốt cây nến( chữ ネ có vần nê trong nến và hình giống cây nến  )ở gần bàn thờ mà cầu nguyện</p>",
+      "content_text": "Đốt cây nến( chữ ネ có vần nê trong nến và hình giống cây nến  )ở gần bàn thờ mà cầu nguyện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155685",
+      "lang": "vi",
+      "content_html": "<p>Dòng họ Thị cầm Cân ra Cầu Nguyện thật Là Kì.</p>",
+      "content_text": "Dòng họ Thị cầm Cân ra Cầu Nguyện thật Là Kì.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155686",
+      "lang": "vi",
+      "content_html": "<p>Cắm cây nến và rừu của ng đó để cầu nguyện</p>",
+      "content_text": "Cắm cây nến và rừu của ng đó để cầu nguyện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "kanji": "析",
+  "meta": {
+    "weight": 1306,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ"
+    ],
+    "kun": [],
+    "am_han": "TÍCH"
+  },
+  "meaning": {
+    "vi": "chặt, chia, xé, phân tích",
+    "en": "chop, divide, tear, analyze"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/析.svg"
+  },
+  "frequency": 980,
+  "examples": [
+    "分析",
+    "解析",
+    "透析",
+    "析"
+  ],
+  "explanation": {
+    "id": "4399",
+    "text": "析 (đọc là \"saku\") có nghĩa là \"phân tích\", \"chia tách\" để chỉ các hành động liên quan đến việc phân chia hoặc phân tích thông tin, dữ liệu.  \nVí dụ:  \n- 分析 (bunseki): Phân tích.  \n- 析出 (saky"
+  },
+  "comments": [
+    {
+      "id": "154418",
+      "lang": "vi",
+      "content_html": "<p>Dùng rừu bổ cây ra phân tích</p>",
+      "content_text": "Dùng rừu bổ cây ra phân tích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154419",
+      "lang": "vi",
+      "content_html": "<p>Dùng rìu bổ cây ra phân tích</p>",
+      "content_text": "Dùng rìu bổ cây ra phân tích",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154420",
+      "lang": "vi",
+      "content_html": "<p>Phân TÍCH việc chặt CÂY bằng RÌU.</p>",
+      "content_text": "Phân TÍCH việc chặt CÂY bằng RÌU.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

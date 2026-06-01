@@ -1,0 +1,50 @@
+{
+  "kanji": "梧",
+  "meta": {
+    "weight": 1365,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゴ"
+    ],
+    "kun": [
+      "あおぎり"
+    ],
+    "am_han": "NGÔ, NGỘ"
+  },
+  "meaning": {
+    "vi": "Cây dù che nắng, cây phượng vĩ",
+    "en": "Chinese parasol tree, phoenix tree"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/梧.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2340",
+    "text": "梧 (đọc là \"go\") có nghĩa là \"cây ngô đồng\", thường được dùng để chỉ một loại cây có bóng mát, biểu trưng cho sự thanh cao và yên tĩnh.\n\nVí dụ:\n- 梧桐 (gotō): Cây ngô đồng.\n- 梧の木 (go no ki): Câ"
+  },
+  "comments": [
+    {
+      "id": "219819",
+      "lang": "vi",
+      "content_html": "<p>Cây có 5 miệng là cây NGÔ đồng</p>",
+      "content_text": "Cây có 5 miệng là cây NGÔ đồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

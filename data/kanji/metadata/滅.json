@@ -1,0 +1,92 @@
+{
+  "kanji": "滅",
+  "meta": {
+    "weight": 1598,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "メツ"
+    ],
+    "kun": [
+      "ほろ.びる",
+      "ほろ.ぶ",
+      "ほろ.ぼす"
+    ],
+    "am_han": "DIỆT"
+  },
+  "meaning": {
+    "vi": "phá hủy, hủy hoại, lật đổ, diệt vong",
+    "en": "destroy, ruin, overthrow, perish"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/滅.svg"
+  },
+  "frequency": 1222,
+  "examples": [
+    "消滅",
+    "絶滅",
+    "滅多に",
+    "破滅",
+    "壊滅"
+  ],
+  "explanation": {
+    "id": "7570",
+    "text": "滅 (đọc là \"metsu\") có nghĩa là \"tiêu diệt\", \"hủy diệt\" để chỉ các hành động liên quan đến việc làm cho cái gì đó không còn tồn tại hoặc bị xóa sổ.\n\nVí dụ:\n- 滅亡 (metsubō): Sự diệt vong, hủy d"
+  },
+  "comments": [
+    {
+      "id": "155037",
+      "lang": "vi",
+      "content_html": "<p>ngọn lửa nhỏ mà chiến đấu với dòng nước lớn thì sẽ thành diệt vong</p>",
+      "content_text": "ngọn lửa nhỏ mà chiến đấu với dòng nước lớn thì sẽ thành diệt vong",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155038",
+      "lang": "vi",
+      "content_html": "<p>Một ( NHẤT) ngọn lửa nhỏ (HỎA) dù đã hình thành(THÀNH) cũng ắt bị diệt bởi dòng nước lớn (THỦY)</p>",
+      "content_text": "Một ( NHẤT) ngọn lửa nhỏ (HỎA) dù đã hình thành(THÀNH) cũng ắt bị diệt bởi dòng nước lớn (THỦY)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155039",
+      "lang": "vi",
+      "content_html": "<p>bị tấn công NƯỚC ở ngoài, lửa TRONG thì THÀNH (成)chỉ bị DIỆT VONG</p>",
+      "content_text": "bị tấn công NƯỚC ở ngoài, lửa TRONG thì THÀNH (成)chỉ bị DIỆT VONG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

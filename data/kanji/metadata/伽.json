@@ -1,0 +1,56 @@
+{
+  "kanji": "伽",
+  "meta": {
+    "weight": 166,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "ガ",
+      "キャ",
+      "ギャ"
+    ],
+    "kun": [
+      "とぎ"
+    ],
+    "am_han": "GIÀ"
+  },
+  "meaning": {
+    "vi": "điều dưỡng, tham dự, giải trí",
+    "en": "nursing, attending, entertainer"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/伽.svg"
+  },
+  "frequency": 2323,
+  "examples": [
+    "伽藍",
+    "伽"
+  ],
+  "explanation": {
+    "id": "612",
+    "text": "伽 (đọc là \"ka\") có nghĩa là \"hỗ trợ\", thường được sử dụng để chỉ sự giúp đỡ hoặc hỗ trợ trong các hoạt động, đặc biệt trong ngữ cảnh tôn giáo hoặc chăm sóc.\n\nVí dụ:\n- 伽藍 (garan): Chùa, nơi t"
+  },
+  "comments": [
+    {
+      "id": "151609",
+      "lang": "vi",
+      "content_html": "<p>Mọi ng thường tham gia chăm sóc ng già</p>",
+      "content_text": "Mọi ng thường tham gia chăm sóc ng già",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

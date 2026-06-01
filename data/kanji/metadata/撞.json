@@ -1,0 +1,34 @@
+{
+  "kanji": "撞",
+  "meta": {
+    "weight": 1152,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドウ",
+      "トウ",
+      "シュ"
+    ],
+    "kun": [
+      "つ.く"
+    ],
+    "am_han": "CHÀNG"
+  },
+  "meaning": {
+    "vi": "đâm",
+    "en": "thrust, pierce, stab, prick"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/撞.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5916",
+    "text": "撞 (đọc là \"dō\" hoặc \"tsu\") có nghĩa là \"va chạm\", \"đâm vào\", thường chỉ hành động va chạm hoặc tác động mạnh giữa các vật thể.  \nVí dụ:  \n- 衝突 (shōtotsu): Va chạm, xung đột.  \n- 撞撃 (dōgeki):"
+  },
+  "comments": []
+}

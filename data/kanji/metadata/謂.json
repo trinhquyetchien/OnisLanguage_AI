@@ -1,0 +1,70 @@
+{
+  "kanji": "謂",
+  "meta": {
+    "weight": 2517,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "い.う",
+      "いい",
+      "おも.う",
+      "いわゆる"
+    ],
+    "am_han": "VỊ"
+  },
+  "meaning": {
+    "vi": "lý do, nguồn gốc, lịch sử, truyền khẩu",
+    "en": "reason, origin, history, oral tradition"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/謂.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "182",
+    "text": "謂 (đọc là \"i\") có nghĩa là \"nói\", \"gọi tên\" để chỉ việc diễn đạt hoặc định danh một điều gì đó.\n\nVí dụ:\n- 謂語 (igō): Cụm từ, thành ngữ (câu có nghĩa).\n- 自謂 (zii): Tự xưng, tự gọi mình.\n- 謂れ ("
+  },
+  "comments": [
+    {
+      "id": "220720",
+      "lang": "vi",
+      "content_html": "<p>vừa làm ruộng vừa ngắm trăng thì đau dịch vị , lại thêm nói chuyện nữa , cái gọi là chưa bục VỊ chưa sợ</p>",
+      "content_text": "vừa làm ruộng vừa ngắm trăng thì đau dịch vị , lại thêm nói chuyện nữa , cái gọi là chưa bục VỊ chưa sợ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220721",
+      "lang": "vi",
+      "content_html": "<p>Nói ở Cánh Đồng cả Tháng Nói Nôm Na là sở Vị (所謂)</p>",
+      "content_text": "Nói ở Cánh Đồng cả Tháng Nói Nôm Na là sở Vị (所謂)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

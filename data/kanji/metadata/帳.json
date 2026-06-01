@@ -1,0 +1,90 @@
+{
+  "kanji": "帳",
+  "meta": {
+    "weight": 840,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "とばり"
+    ],
+    "am_han": "TRƯỚNG"
+  },
+  "meaning": {
+    "vi": "sổ tay, sổ tài khoản, album, rèm, mạng che mặt, lưới, lều",
+    "en": "notebook, account book, album, curtain, veil, net, tent"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/帳.svg"
+  },
+  "frequency": 1459,
+  "examples": [
+    "帳",
+    "手帳",
+    "帳簿",
+    "台帳",
+    "通帳"
+  ],
+  "explanation": {
+    "id": "5340",
+    "text": "帳 (đọc là \"chō\") có nghĩa là \"sổ sách\", \"biên bản\" để chỉ các tài liệu ghi chép, lưu trữ thông tin.  \nVí dụ:  \n- 帳簿 (chōbo): Sổ sách kế toán.  \n- 簿記帳 (boki chō): Sổ ghi chép kế toán.  \n- 旅行帳"
+  },
+  "comments": [
+    {
+      "id": "153263",
+      "lang": "vi",
+      "content_html": "<p>Cái CÂN DÀI nhìn TRƯỚNG mắt</p>",
+      "content_text": "Cái CÂN DÀI nhìn TRƯỚNG mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153264",
+      "lang": "vi",
+      "content_html": "<p>Tấm vải dài làm màn rèm</p>",
+      "content_text": "Tấm vải dài làm màn rèm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153265",
+      "lang": "vi",
+      "content_html": "<p>cái KHĂN (巾) bị kéo DÀI(長)  --  để làm MÀN CHE cho những CUỐN SỔ ngân hàng</p>",
+      "content_text": "cái KHĂN (巾) bị kéo DÀI(長)  --  để làm MÀN CHE cho những CUỐN SỔ ngân hàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "風",
+  "meta": {
+    "weight": 2923,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フウ",
+      "フ"
+    ],
+    "kun": [
+      "かぜ",
+      "かざ-"
+    ],
+    "am_han": "PHONG"
+  },
+  "meaning": {
+    "vi": "gió, phong ba",
+    "en": "wind, air, style, manner"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/風.svg"
+  },
+  "frequency": 558,
+  "examples": [
+    "風",
+    "風景",
+    "風呂",
+    "風邪",
+    "台風"
+  ],
+  "explanation": {
+    "id": "6885",
+    "text": "風 (đọc là \"kaze\") có nghĩa là \"gió\" để chỉ các hiện tượng tự nhiên liên quan đến gió hoặc cảm giác thoải mái, tự do.  \nVí dụ:  \n- 風邪 (kaze): Cảm cúm, bệnh cảm.  \n- 風速 (fusoku): Tốc độ gió.  "
+  },
+  "comments": [
+    {
+      "id": "1056",
+      "lang": "vi",
+      "content_html": "<p>Côn trùng (虫) tránh <strong>gió</strong> (風)<strong> </strong>bằng lá cây.</p>",
+      "content_text": "Côn trùng (虫) tránh\ngió\n(風)\nbằng lá cây.",
+      "image_url": "https://jpdictionary.com/upload/images/62a1fb4aaf0b5.jpg",
+      "image_path": "assets/images/風_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158570",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>風 (かぜ): gió</p><p>お風呂 (おふろ): bồn tắm</p><p>風邪 (かぜ): cảm lạnh</p><p>台風 (たいふう): cơn bão</p>",
+      "content_text": "JLPT N4\n風 (かぜ): gió\nお風呂 (おふろ): bồn tắm\n風邪 (かぜ): cảm lạnh\n台風 (たいふう): cơn bão",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "157924",
+      "lang": "vi",
+      "content_html": "<p>côn trùng mà chui xuống bàn là có bão</p>",
+      "content_text": "côn trùng mà chui xuống bàn là có bão",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

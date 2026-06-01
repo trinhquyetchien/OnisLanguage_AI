@@ -1,0 +1,95 @@
+{
+  "kanji": "開",
+  "meta": {
+    "weight": 2804,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "ひら.く",
+      "ひら.き",
+      "-びら.き",
+      "ひら.ける",
+      "あ.く",
+      "あ.ける"
+    ],
+    "am_han": "KHAI"
+  },
+  "meaning": {
+    "vi": "mở, khai mạc",
+    "en": "open, unfold, unseal"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/開.svg"
+  },
+  "frequency": 59,
+  "examples": [
+    "開発",
+    "公開",
+    "開催",
+    "展開",
+    "開始"
+  ],
+  "explanation": {
+    "id": "813",
+    "text": "開 (đọc là \"kai\" hoặc \"hiraku\") có nghĩa là \"mở\" hoặc \"khai trương\", chỉ các hành động liên quan đến việc mở ra, bắt đầu hoặc khai thác.\n\nVí dụ:\n- 開く (hiraku): Mở (cửa, sách).\n- 開発 (kaihatsu)"
+  },
+  "comments": [
+    {
+      "id": "36839",
+      "lang": "vi",
+      "content_html": "<p>Hai người <strong>mở </strong>cổng (門)</p>",
+      "content_text": "Hai người\nmở\ncổng (門)",
+      "image_url": "https://jpdictionary.com/upload/images/62ac7d306b526.jpg",
+      "image_path": "assets/images/開_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158275",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>開く (あく): mở</p><p>ドアが開いている（あいている）</p><p><br>開ける (あける): mở</p><p>ドアを開けて（あけて）</p><p><br>開く (ひらく): mở</p><p>ドアを開いて（ひらいて）</p>",
+      "content_text": "JLPT N4\n開く (あく): mở\nドアが開いている（あいている）\n開ける (あける): mở\nドアを開けて（あけて）\n開く (ひらく): mở\nドアを開いて（ひらいて）",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221833",
+      "lang": "vi",
+      "content_html": "<p>Chính là hình 2 tay đang <strong>mở </strong>chốt của cánh cửa (Trung giản thể cuối cùng như hình dưới)</p>",
+      "content_text": "Chính là hình 2 tay đang\nmở\nchốt của cánh cửa (Trung giản thể cuối cùng như hình dưới)",
+      "image_url": "https://jpdictionary.com/upload/images/6772a0cf9dff3.jpg",
+      "image_path": "assets/images/開_3.jpg",
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    }
+  ]
+}

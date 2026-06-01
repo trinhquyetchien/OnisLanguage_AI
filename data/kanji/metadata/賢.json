@@ -1,0 +1,90 @@
+{
+  "kanji": "賢",
+  "meta": {
+    "weight": 2573,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケン"
+    ],
+    "kun": [
+      "かしこ.い"
+    ],
+    "am_han": "HIỀN"
+  },
+  "meaning": {
+    "vi": "thông minh, hiền nhân",
+    "en": "intelligent, wise, wisdom, cleverness"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/賢.svg"
+  },
+  "frequency": 1159,
+  "examples": [
+    "賢い",
+    "賢",
+    "賢明",
+    "賢者",
+    "賢人"
+  ],
+  "explanation": {
+    "id": "2176",
+    "text": "賢 (đọc là \"ken\" hoặc \"saka\") có nghĩa là \"khôn ngoan\", \"thông minh\", để chỉ những người có trí tuệ và sự khéo léo trong suy nghĩ và hành động.\n\nVí dụ:\n- 賢者 (kenja): Hiền giả, người khôn ngoa"
+  },
+  "comments": [
+    {
+      "id": "157123",
+      "lang": "vi",
+      "content_html": "<p>kẻ bề tôi(臣) lại(又) nhận được tiền(貝) thưởng vua ban cho chắc chắn là hiền thần(賢)</p>",
+      "content_text": "kẻ bề tôi(臣) lại(又) nhận được tiền(貝) thưởng vua ban cho chắc chắn là hiền thần(賢)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157124",
+      "lang": "vi",
+      "content_html": "<p>Vừa làm quan thần lại có tiền hẳn là người HIỀN triết thông minh</p>",
+      "content_text": "Vừa làm quan thần lại có tiền hẳn là người HIỀN triết thông minh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157125",
+      "lang": "vi",
+      "content_html": "<p>Thần Lại nhận được nhiều Tiền như vậy thì chắc phải là Hiền Nhân</p>",
+      "content_text": "Thần Lại nhận được nhiều Tiền như vậy thì chắc phải là Hiền Nhân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

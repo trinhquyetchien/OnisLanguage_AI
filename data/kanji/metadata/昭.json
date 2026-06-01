@@ -1,0 +1,85 @@
+{
+  "kanji": "昭",
+  "meta": {
+    "weight": 1230,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "CHIÊU"
+  },
+  "meaning": {
+    "vi": "sáng chói",
+    "en": "shining, bright"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/昭.svg"
+  },
+  "frequency": 697,
+  "examples": [
+    "昭和",
+    "昭"
+  ],
+  "explanation": {
+    "id": "3831",
+    "text": "昭 (đọc là \"shō\") có nghĩa là \"rõ ràng\", \"sáng tỏ\", thường được dùng để chỉ sự chiếu sáng hay làm rõ một điều gì đó. \n\nVí dụ:\n- 昭和 (Shōwa): Thời kỳ Showa, một thời kỳ trong lịch sử Nhật Bản.\n"
+  },
+  "comments": [
+    {
+      "id": "154228",
+      "lang": "vi",
+      "content_html": "<p>Triệu hồi mặt trời thì sáng. (昭)</p>",
+      "content_text": "Triệu hồi mặt trời thì sáng. (昭)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154229",
+      "lang": "vi",
+      "content_html": "<p>NGÀY mai (日) TRIỆU tập (召) nhân dân trong làng để CHIÊU mộ những gương mặt SÁNG SỦA tham gia hội thi văn nghệ.</p>",
+      "content_text": "NGÀY mai (日) TRIỆU tập (召) nhân dân trong làng để CHIÊU mộ những gương mặt SÁNG SỦA tham gia hội thi văn nghệ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154230",
+      "lang": "vi",
+      "content_html": "<p>Dùng ánh sáng của mătj trời để triệu hồi</p>",
+      "content_text": "Dùng ánh sáng của mătj trời để triệu hồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

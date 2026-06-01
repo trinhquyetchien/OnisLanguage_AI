@@ -1,0 +1,91 @@
+{
+  "kanji": "蘇",
+  "meta": {
+    "weight": 2364,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソ",
+      "ス"
+    ],
+    "kun": [
+      "よみがえ.る"
+    ],
+    "am_han": "TÔ"
+  },
+  "meaning": {
+    "vi": "được hồi sức, hồi sinh, tía tô, shiso",
+    "en": "be resuscitated, revived, perilla, shiso"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/蘇.svg"
+  },
+  "frequency": 1968,
+  "examples": [
+    "蘇る",
+    "蘇生",
+    "蘇",
+    "紫蘇",
+    "蘇り"
+  ],
+  "explanation": {
+    "id": "4652",
+    "text": "蘇 (đọc là \"so\") có nghĩa là \"hồi sinh\", \"khôi phục\" để chỉ các hành động liên quan đến việc trở lại trạng thái ban đầu hoặc sống lại.\n\nVí dụ:\n- 蘇生 (sosei): Hồi sinh, khôi phục sự sống.\n- 蘇る "
+  },
+  "comments": [
+    {
+      "id": "156639",
+      "lang": "vi",
+      "content_html": "<p>Ăn cá với rau tía tô</p>",
+      "content_text": "Ăn cá với rau tía tô",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156640",
+      "lang": "vi",
+      "content_html": "<p>Thảo và Hoà dùng bát TÔ hồi sinh con cá :))</p>",
+      "content_text": "Thảo và Hoà dùng bát TÔ hồi sinh con cá :))",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156641",
+      "lang": "vi",
+      "content_html": "<p>Người đã chết được cúng Cá với LÚA GẠO, Cây cỏ thì bổng nhiên SỐNG LẠI</p>",
+      "content_text": "Người đã chết được cúng Cá với LÚA GẠO, Cây cỏ thì bổng nhiên SỐNG LẠI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

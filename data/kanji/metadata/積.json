@@ -1,0 +1,110 @@
+{
+  "kanji": "積",
+  "meta": {
+    "weight": 1950,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ"
+    ],
+    "kun": [
+      "つ.む",
+      "-づ.み",
+      "つ.もる",
+      "つ.もり"
+    ],
+    "am_han": "TÍCH"
+  },
+  "meaning": {
+    "vi": "tích lũy",
+    "en": "volume, product (x*y), acreage, contents, pile up, stack, load, amass"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/積.svg"
+  },
+  "frequency": 541,
+  "examples": [
+    "積極",
+    "面積",
+    "蓄積",
+    "積み重ね",
+    "集積"
+  ],
+  "explanation": {
+    "id": "4403",
+    "text": "積 (đọc là \"seki\" hoặc \"tsumu\") có nghĩa là \"tích luỹ\", \"chất đống\" để chỉ các hành động liên quan đến việc tích lũy hoặc gom lại một cách có hệ thống.\n\nVí dụ:\n- 積極 (sekkyoku): Tích cực, chủ "
+  },
+  "comments": [
+    {
+      "id": "155793",
+      "lang": "vi",
+      "content_html": "<p>Ông chủ tích lúa để mua bảo bối</p>",
+      "content_text": "Ông chủ tích lúa để mua bảo bối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190668",
+      "lang": "vi",
+      "content_html": "<p>khi trồng Lúa phải có trách nhiệm (責) mới Tích lũy</p>",
+      "content_text": "khi trồng Lúa phải có trách nhiệm (責) mới Tích lũy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "155794",
+      "lang": "vi",
+      "content_html": "<p>ĐẦU tiên phải TÍCH góp TIỀN để mua ĐẤT trồng LÚA.<br><br>gt: chữ SINH thiếu bộ phiệt nên tách thành bộ ĐẦU và THỔ</p>",
+      "content_text": "ĐẦU tiên phải TÍCH góp TIỀN để mua ĐẤT trồng LÚA.\ngt: chữ SINH thiếu bộ phiệt nên tách thành bộ ĐẦU và THỔ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155795",
+      "lang": "vi",
+      "content_html": "<p>Trách nhiệm của hoà là Tích tụ</p>",
+      "content_text": "Trách nhiệm của hoà là Tích tụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "kanji": "窃",
+  "meta": {
+    "weight": 1961,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セツ"
+    ],
+    "kun": [
+      "ぬす.む",
+      "ひそ.か"
+    ],
+    "am_han": "THIẾT"
+  },
+  "meaning": {
+    "vi": "lén lút, ăn cắp, bí mật, riêng tư, giấu giếm",
+    "en": "stealth, steal, secret, private, hushed"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/窃.svg"
+  },
+  "frequency": 1871,
+  "examples": [
+    "窃盗"
+  ],
+  "explanation": {
+    "id": "4448",
+    "text": "窃 (đọc là \"setsu\" hoặc \"katsu\") có nghĩa là \"trộm cắp\", \"lén lút\" để chỉ các hành động liên quan đến việc đánh cắp hoặc hành vi không trung thực.\n\nVí dụ:\n- 窃盗 (settō): Trộm cắp.\n- 窃かに (hisak"
+  },
+  "comments": [
+    {
+      "id": "155815",
+      "lang": "vi",
+      "content_html": "<p>THIẾT nghĩ dướii hang lỗ này có bảy con dao là tên trộm đã ăn cắp vứt xuống đó...</p>",
+      "content_text": "THIẾT nghĩ dướii hang lỗ này có bảy con dao là tên trộm đã ăn cắp vứt xuống đó...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155816",
+      "lang": "vi",
+      "content_html": "<p>kẻ trộm cắp 窃 thì bị cắt 切 đầu rồi chôn xuống HUYỆT 穴</p>",
+      "content_text": "kẻ trộm cắp 窃 thì bị cắt 切 đầu rồi chôn xuống HUYỆT 穴",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155817",
+      "lang": "vi",
+      "content_html": "<p>Dưới hang có 7 con đao THIẾT nghĩ chắc của trộm cắp</p>",
+      "content_text": "Dưới hang có 7 con đao THIẾT nghĩ chắc của trộm cắp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

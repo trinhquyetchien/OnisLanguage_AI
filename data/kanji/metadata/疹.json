@@ -1,0 +1,51 @@
+{
+  "kanji": "疹",
+  "meta": {
+    "weight": 1802,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン",
+      "チン"
+    ],
+    "kun": [
+      "はしか"
+    ],
+    "am_han": "CHẨN"
+  },
+  "meaning": {
+    "vi": "bệnh sởi, bệnh",
+    "en": "measles, sickness"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/疹.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4098",
+    "text": "疹 (đọc là \"shin\") có nghĩa là \"phát ban\" hoặc \"nổi mẩn\", thường liên quan đến các triệu chứng da liễu. \n\nVí dụ:\n- 水疱瘡 (suipōsō): Bệnh thủy đậu.\n- 発疹 (hasshin): Sự phát ban, nổi mẩn ngứa.\n- 疹"
+  },
+  "comments": [
+    {
+      "id": "220134",
+      "lang": "vi",
+      "content_html": "<p>Người (人) mà chỉ còn 3 sợi tóc (彡) thì được Chẩn (疹) đoán là đang mang Bệnh (Nạch - 疒) lên sởi?!</p>",
+      "content_text": "Người (人) mà chỉ còn 3 sợi tóc (彡) thì được Chẩn (疹) đoán là đang mang Bệnh (Nạch - 疒) lên sởi?!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

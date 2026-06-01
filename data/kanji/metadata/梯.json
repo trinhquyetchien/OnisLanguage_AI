@@ -1,0 +1,53 @@
+{
+  "kanji": "梯",
+  "meta": {
+    "weight": 1367,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ",
+      "タイ"
+    ],
+    "kun": [
+      "はしご"
+    ],
+    "am_han": "THÊ, ĐỆ"
+  },
+  "meaning": {
+    "vi": "thang, uống vô độ",
+    "en": "ladder, stairs, insatiable drinking"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/梯.svg"
+  },
+  "frequency": 2218,
+  "examples": [
+    "梯子"
+  ],
+  "explanation": {
+    "id": "5573",
+    "text": "梯 (đọc là \"te\") có nghĩa là \"thang\", thường chỉ các vật dụng dùng để leo lên cao hoặc xuống thấp. \n\nVí dụ:\n- 梯子 (hashigo): Cái thang.\n- 階段梯 (kaidantei): Thang bộ.\n- 梯子乗り (hashigonori): Người"
+  },
+  "comments": [
+    {
+      "id": "154535",
+      "lang": "vi",
+      "content_html": "<p>thằng đệ  dùng cái thang bằng gỗ để trèo lên</p>",
+      "content_text": "thằng đệ  dùng cái thang bằng gỗ để trèo lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

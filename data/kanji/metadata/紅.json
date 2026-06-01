@@ -1,0 +1,93 @@
+{
+  "kanji": "紅",
+  "meta": {
+    "weight": 2049,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ク"
+    ],
+    "kun": [
+      "べに",
+      "くれない",
+      "あか.い"
+    ],
+    "am_han": "HỒNG"
+  },
+  "meaning": {
+    "vi": "màu đỏ",
+    "en": "crimson, deep red"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/紅.svg"
+  },
+  "frequency": 1299,
+  "examples": [
+    "紅茶",
+    "紅",
+    "紅葉",
+    "紅白",
+    "口紅"
+  ],
+  "explanation": {
+    "id": "2515",
+    "text": "紅 (đọc là \"kō\" hoặc \"aka\") có nghĩa là \"màu đỏ\", thường chỉ các sắc thái đỏ trong màu sắc. \n\nVí dụ:\n- 紅茶 (kōcha): Trà đen (trong tiếng Nhật, trà được gọi là \"màu đỏ\").\n- 紅葉 (kōyō): Lá phong "
+  },
+  "comments": [
+    {
+      "id": "155979",
+      "lang": "vi",
+      "content_html": "<p>Sợi dây công lý màu hồng hay đỏ</p>",
+      "content_text": "Sợi dây công lý màu hồng hay đỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155980",
+      "lang": "vi",
+      "content_html": "<p>Công việc của ông tơ là se duyên cho những cặp đôi yêu nhau bằng sợi chỉ màu hồng</p>",
+      "content_text": "Công việc của ông tơ là se duyên cho những cặp đôi yêu nhau bằng sợi chỉ màu hồng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155981",
+      "lang": "vi",
+      "content_html": "<p>chỉ thích đi hồng kông</p>",
+      "content_text": "chỉ thích đi hồng kông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

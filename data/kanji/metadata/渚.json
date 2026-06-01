@@ -1,0 +1,86 @@
+{
+  "kanji": "渚",
+  "meta": {
+    "weight": 1572,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショ"
+    ],
+    "kun": [
+      "なぎさ"
+    ],
+    "am_han": "CHỬ"
+  },
+  "meaning": {
+    "vi": "sợi, bãi biển, bờ biển",
+    "en": "strand, beach, shore"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/渚.svg"
+  },
+  "frequency": 2226,
+  "examples": [
+    "渚"
+  ],
+  "explanation": {
+    "id": "20318",
+    "text": "渚 (đọc là \"raku\") có nghĩa là \"thoải mái\", \"dễ chịu\", thường chỉ trạng thái thư giãn hoặc không bị áp lực.  \nVí dụ:  \n- 楽しい (tanoshii): Vui vẻ, thú vị.  \n- 楽器 (gakki): Nhạc cụ.  \n- 楽しむ (tano"
+  },
+  "comments": [
+    {
+      "id": "154972",
+      "lang": "vi",
+      "content_html": "<p>học Giả bị cháy (煮 CHỬ) chạy đến “bờ bến” lấy nước dập lửa</p>",
+      "content_text": "học Giả bị cháy (煮 CHỬ) chạy đến “bờ bến” lấy nước dập lửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154973",
+      "lang": "vi",
+      "content_html": "<p>nước đc học giả lấy từ bãi bồi của CHỬ đồng tử</p>",
+      "content_text": "nước đc học giả lấy từ bãi bồi của CHỬ đồng tử",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154974",
+      "lang": "vi",
+      "content_html": "<p>渚童子 chử đồng tử : Đứa trẻ ở bãi sông</p>",
+      "content_text": "渚童子 chử đồng tử : Đứa trẻ ở bãi sông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "kanji": "狼",
+  "meta": {
+    "weight": 1716,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロウ"
+    ],
+    "kun": [
+      "おおかみ"
+    ],
+    "am_han": "LANG"
+  },
+  "meaning": {
+    "vi": "chó sói",
+    "en": "wolf"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/狼.svg"
+  },
+  "frequency": 2129,
+  "examples": [
+    "狼",
+    "狼狽",
+    "一匹狼"
+  ],
+  "explanation": {
+    "id": "8344",
+    "text": "狼 (đọc là \"ōkami\") có nghĩa là \"sói\", chỉ loài động vật hoang dã thuộc họ chó. \n\nVí dụ:\n- 狼男 (ōkami otoko): Người sói.\n- 狼狽 (rōbai): Kinh hoàng, hoảng loạn.\n- 鬼狼 (kiō): Quái thú sói."
+  },
+  "comments": [
+    {
+      "id": "155279",
+      "lang": "vi",
+      "content_html": "<p>Chó Lương thiện thì sẽ ko đi Lang thang như chó sói</p>",
+      "content_text": "Chó Lương thiện thì sẽ ko đi Lang thang như chó sói",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155280",
+      "lang": "vi",
+      "content_html": "<p>con thú có lòng Lang dạ sói mà tốt ư???</p>",
+      "content_text": "con thú có lòng Lang dạ sói mà tốt ư???",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

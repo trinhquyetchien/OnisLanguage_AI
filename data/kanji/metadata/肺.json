@@ -1,0 +1,88 @@
+{
+  "kanji": "肺",
+  "meta": {
+    "weight": 2180,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハイ"
+    ],
+    "kun": [],
+    "am_han": "PHẾ"
+  },
+  "meaning": {
+    "vi": "phổi",
+    "en": "lungs"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/肺.svg"
+  },
+  "frequency": 1387,
+  "examples": [
+    "肺",
+    "肺炎",
+    "肺がん",
+    "心肺",
+    "肺癌"
+  ],
+  "explanation": {
+    "id": "6277",
+    "text": "肺 (đọc là \"hai\") có nghĩa là \"phổi\", chỉ cơ quan hô hấp trong cơ thể.  \nVí dụ:  \n- 肺炎 (haien): Viêm phổi.  \n- 肺活量 (haikatsuryō): Dung tích phổi.  \n- 肺がん (haigan): Ung thư phổi."
+  },
+  "comments": [
+    {
+      "id": "156292",
+      "lang": "vi",
+      "content_html": "<p>Tháng lên thành thị (市)  để kiểm tra hai phổi はい</p>",
+      "content_text": "Tháng lên thành thị (市)  để kiểm tra hai phổi はい",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156293",
+      "lang": "vi",
+      "content_html": "<p>Do cùng cách viết nên mazii không phân biệt \"nhục\" và \"nguyệt\".<br><br>tất cả liên quan đến cơ thể đều dùng bộ \"nhục\" nhé. có thể một số bạn chưa rõ nên cmt.</p>",
+      "content_text": "Do cùng cách viết nên mazii không phân biệt \"nhục\" và \"nguyệt\".\ntất cả liên quan đến cơ thể đều dùng bộ \"nhục\" nhé. có thể một số bạn chưa rõ nên cmt.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156294",
+      "lang": "vi",
+      "content_html": "<p>Ở đô Thị hay bị viêm PHẾ quản</p>",
+      "content_text": "Ở đô Thị hay bị viêm PHẾ quản",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

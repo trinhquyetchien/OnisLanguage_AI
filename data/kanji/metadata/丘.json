@@ -1,0 +1,88 @@
+{
+  "kanji": "丘",
+  "meta": {
+    "weight": 84,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "おか"
+    ],
+    "am_han": "KHÂU, KHIÊU"
+  },
+  "meaning": {
+    "vi": "đồi, quỳ",
+    "en": "hill, knoll"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/丘.svg"
+  },
+  "frequency": 1405,
+  "examples": [
+    "丘",
+    "丘陵",
+    "砂丘"
+  ],
+  "explanation": {
+    "id": "1497",
+    "text": "丘 (đọc là \"kyū\" hoặc \"oka\") có nghĩa là \"ngọn đồi\" hoặc \"gò\" để chỉ những vùng đất cao hơn xung quanh, thường được dùng để mô tả địa hình.\n\nVí dụ:\n- 丘陵 (kyūryō): Đồi núi, khu vực có nhiều gò"
+  },
+  "comments": [
+    {
+      "id": "151415",
+      "lang": "vi",
+      "content_html": "<p>cầm rừu lên đồi không may bị đứt tay khâu 1 mũi</p>",
+      "content_text": "cầm rừu lên đồi không may bị đứt tay khâu 1 mũi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151416",
+      "lang": "vi",
+      "content_html": "<p>ngọn đồi rất gần với mặt đất</p>",
+      "content_text": "ngọn đồi rất gần với mặt đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151417",
+      "lang": "vi",
+      "content_html": "<p>máy khâu được đặt ngần nhất với ngon núi ;p</p>",
+      "content_text": "máy khâu được đặt ngần nhất với ngon núi ;p",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

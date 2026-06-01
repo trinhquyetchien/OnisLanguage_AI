@@ -1,0 +1,90 @@
+{
+  "kanji": "堕",
+  "meta": {
+    "weight": 574,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダ"
+    ],
+    "kun": [
+      "お.ちる",
+      "くず.す",
+      "くず.れる"
+    ],
+    "am_han": "ĐỌA, ĐOẠ, HUY"
+  },
+  "meaning": {
+    "vi": "thoái hóa, giảm xuống, mất hiệu lực",
+    "en": "degenerate, descend to, lapse into"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/堕.svg"
+  },
+  "frequency": 2087,
+  "examples": [
+    "堕落",
+    "堕胎",
+    "自堕落"
+  ],
+  "explanation": {
+    "id": "4887",
+    "text": "堕 (đọc là \"da\") có nghĩa là \"suy đồi\", \"rơi xuống\" để chỉ các hành động giảm sút, sa ngã hoặc thất bại về mặt đạo đức.\n\nVí dụ:\n- 堕落 (daraku): Suy đồi, thoái hóa.\n- 堕胎 (daitai): Phá thai.\n- 堕"
+  },
+  "comments": [
+    {
+      "id": "152620",
+      "lang": "vi",
+      "content_html": "<p>Có 13 miếng đất để rồi truỵ lạc</p>",
+      "content_text": "Có 13 miếng đất để rồi truỵ lạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152621",
+      "lang": "vi",
+      "content_html": "<p>Có 13 miếng đất để sa doạ.</p>",
+      "content_text": "Có 13 miếng đất để sa doạ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152622",
+      "lang": "vi",
+      "content_html": "<p>Là chữ B đó bạn, tách nét ra nhé</p>",
+      "content_text": "Là chữ B đó bạn, tách nét ra nhé",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

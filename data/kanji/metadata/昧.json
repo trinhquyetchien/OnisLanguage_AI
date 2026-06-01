@@ -1,0 +1,86 @@
+{
+  "kanji": "昧",
+  "meta": {
+    "weight": 1228,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マイ",
+      "バイ"
+    ],
+    "kun": [
+      "くら.い",
+      "むさぼ.る"
+    ],
+    "am_han": "MUỘI"
+  },
+  "meaning": {
+    "vi": "đen tối, ngu ngốc",
+    "en": "dark, foolish"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/昧.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7389",
+    "text": "昧 (đọc là \"mai\") có nghĩa là \"mờ mịt\", \"không rõ\", thường để chỉ sự thiếu hiểu biết hoặc không rõ ràng. \n\nVí dụ:\n- 昧昧 (maimai): Mơ hồ, không rõ ràng.\n- 無知昧 (muchi mai): Sự ngu dốt, không hiể"
+  },
+  "comments": [
+    {
+      "id": "219738",
+      "lang": "vi",
+      "content_html": "<p>ngày chưa đủ tuổi làm gì cũng ngu muội</p>",
+      "content_text": "ngày chưa đủ tuổi làm gì cũng ngu muội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219739",
+      "lang": "vi",
+      "content_html": "<p>Ngày còn VỊ thành niên làm gì cũng ngu MUỘI</p>",
+      "content_text": "Ngày còn VỊ thành niên làm gì cũng ngu MUỘI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219740",
+      "lang": "vi",
+      "content_html": "<p>Ngu muội cả ngày vì mùi vị của em ;) ;)</p>",
+      "content_text": "Ngu muội cả ngày vì mùi vị của em ;) ;)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

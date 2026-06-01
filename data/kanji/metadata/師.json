@@ -1,0 +1,90 @@
+{
+  "kanji": "師",
+  "meta": {
+    "weight": 836,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "いくさ"
+    ],
+    "am_han": "SƯ"
+  },
+  "meaning": {
+    "vi": "giáo viên, tôn sư trọng đạo",
+    "en": "expert, teacher, master, model, exemplar, army (incl. counter), war"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/師.svg"
+  },
+  "frequency": 563,
+  "examples": [
+    "教師",
+    "医師",
+    "師",
+    "講師",
+    "師匠"
+  ],
+  "explanation": {
+    "id": "3079",
+    "text": "師 (đọc là \"shi\") có nghĩa là \"thầy\", \"giáo viên\" hoặc \"người hướng dẫn\". Chữ này thường chỉ những người có chuyên môn hoặc kinh nghiệm, như trong giáo dục hoặc nghề nghiệp.\n\nVí dụ:\n- 教師 (kyo"
+  },
+  "comments": [
+    {
+      "id": "153251",
+      "lang": "vi",
+      "content_html": "<p>Quan lại ở thành thị thường là giáo sư</p>",
+      "content_text": "Quan lại ở thành thị thường là giáo sư",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153252",
+      "lang": "vi",
+      "content_html": "<p>Người mà đeo kính và có râu dài thì là SƯ</p>",
+      "content_text": "Người mà đeo kính và có râu dài thì là SƯ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153253",
+      "lang": "vi",
+      "content_html": "<p>ở thành phố quan thường là SƯ</p>",
+      "content_text": "ở thành phố quan thường là SƯ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

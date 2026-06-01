@@ -1,0 +1,75 @@
+{
+  "kanji": "雛",
+  "meta": {
+    "weight": 2860,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スウ",
+      "ス",
+      "ジュ"
+    ],
+    "kun": [
+      "ひな",
+      "ひよこ"
+    ],
+    "am_han": "SỒ"
+  },
+  "meaning": {
+    "vi": "gà con, squab, vịt con, búp bê",
+    "en": "chick, squab, duckling, doll"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/雛.svg"
+  },
+  "frequency": 2241,
+  "examples": [
+    "雛",
+    "雛形",
+    "雛人形",
+    "お雛様"
+  ],
+  "explanation": {
+    "id": "4259",
+    "text": "雛 (đọc là \"hina\") có nghĩa là \"em bé\", \"con non\" hoặc chỉ các vật nhỏ, thường được dùng để chỉ búp bê hoặc hình ảnh trẻ em. \n\nVí dụ:\n- 雛祭り (Hinamatsuri): Lễ hội búp bê, lễ hội dành cho trẻ e"
+  },
+  "comments": [
+    {
+      "id": "157780",
+      "lang": "vi",
+      "content_html": "<p>Gà con hai chân chạy lon ton</p>",
+      "content_text": "Gà con hai chân chạy lon ton",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157781",
+      "lang": "vi",
+      "content_html": "<p>伏龍鳳雛 :phục long- phượng sồ: gia cát lượng -bàng thống</p>",
+      "content_text": "伏龍鳳雛 :phục long- phượng sồ: gia cát lượng -bàng thống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

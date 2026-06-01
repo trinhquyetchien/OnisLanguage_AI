@@ -1,0 +1,51 @@
+{
+  "kanji": "托",
+  "meta": {
+    "weight": 1049,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タク"
+    ],
+    "kun": [
+      "たく.する",
+      "たの.む"
+    ],
+    "am_han": "THÁC"
+  },
+  "meaning": {
+    "vi": "yêu cầu, giao phó, giả vờ, gợi ý",
+    "en": "requesting, entrusting with, pretend, hint"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/托.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5029",
+    "text": "托 (đọc là \"taku\") có nghĩa là \"giao phó\", \"ủy thác\" để chỉ việc giao nhiệm vụ hoặc trách nhiệm cho ai đó.  \nVí dụ:  \n- 托卵 (takuran): Hành vi đẻ trứng nhờ (trong sinh học).  \n- 托付 (takufu): G"
+  },
+  "comments": [
+    {
+      "id": "219578",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm mô hình nhà</p>",
+      "content_text": "Tay cầm mô hình nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

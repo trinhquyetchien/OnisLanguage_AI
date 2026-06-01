@@ -1,0 +1,88 @@
+{
+  "kanji": "演",
+  "meta": {
+    "weight": 1609,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [],
+    "am_han": "DIỄN"
+  },
+  "meaning": {
+    "vi": "biểu diễn",
+    "en": "performance, act, play, render, stage"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/演.svg"
+  },
+  "frequency": 267,
+  "examples": [
+    "演奏",
+    "出演",
+    "講演",
+    "演出",
+    "公演"
+  ],
+  "explanation": {
+    "id": "461",
+    "text": "演 (đọc là \"en\") có nghĩa là \"diễn\", \"trình diễn\" để chỉ các hành động liên quan đến việc biểu diễn, thể hiện nghệ thuật hoặc hoạt động giải trí.\n\nVí dụ:\n- 演劇 (engeki): Kịch, sân khấu.\n- 演奏 ("
+  },
+  "comments": [
+    {
+      "id": "155067",
+      "lang": "vi",
+      "content_html": "<p>DIỄN múa rối nước thì đứng trong MÁI HIÊN, thò hai chân xuống nước rồi TỰ DO múa máy cái gậy điều khiển con rối</p>",
+      "content_text": "DIỄN múa rối nước thì đứng trong MÁI HIÊN, thò hai chân xuống nước rồi TỰ DO múa máy cái gậy điều khiển con rối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155068",
+      "lang": "vi",
+      "content_html": "<p>Con hổ ở dưới nước chỉ có thể là biểu diễn</p>",
+      "content_text": "Con hổ ở dưới nước chỉ có thể là biểu diễn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155069",
+      "lang": "vi",
+      "content_html": "<p>con hổ Diễn trên nước</p>",
+      "content_text": "con hổ Diễn trên nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

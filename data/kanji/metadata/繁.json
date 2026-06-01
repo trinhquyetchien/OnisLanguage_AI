@@ -1,0 +1,108 @@
+{
+  "kanji": "繁",
+  "meta": {
+    "weight": 2113,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン"
+    ],
+    "kun": [
+      "しげ.る",
+      "しげ.く"
+    ],
+    "am_han": "PHỒN, BÀN"
+  },
+  "meaning": {
+    "vi": "um tùm, rậm rạp, mọc um tùm, tần suất, phức tạp, rắc rối",
+    "en": "luxuriant, thick, overgrown, frequency, complexity, trouble"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/繁.svg"
+  },
+  "frequency": 1198,
+  "examples": [
+    "頻繁",
+    "繁栄",
+    "繁殖",
+    "繁盛",
+    "繁華"
+  ],
+  "explanation": {
+    "id": "6481",
+    "text": "繁 (đọc là \"han\") có nghĩa là \"phồn thịnh\", \"tươi tốt\" để chỉ sự phong phú, nhiều số lượng hoặc sự phát triển của sự vật.  \nVí dụ:  \n- 繁華 (hanka): Phồn hoa, sôi động.  \n- 繁殖 (hanshoku): Sinh "
+  },
+  "comments": [
+    {
+      "id": "156148",
+      "lang": "vi",
+      "content_html": "<p>Mỗi ngày cần mẫn se chỉ, gia đình trở nên phồn thịnh</p>",
+      "content_text": "Mỗi ngày cần mẫn se chỉ, gia đình trở nên phồn thịnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156149",
+      "lang": "vi",
+      "content_html": "<p>Mỗi ngày đều đánh khẽ vào sợi chỉ để được nhiều lên</p>",
+      "content_text": "Mỗi ngày đều đánh khẽ vào sợi chỉ để được nhiều lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156150",
+      "lang": "vi",
+      "content_html": "<p>MỖI ngày ĐÁNH (phộc) 1 CHỈ vàng thì mấy mà PHỒN THỊNH!</p>",
+      "content_text": "MỖI ngày ĐÁNH (phộc) 1 CHỈ vàng thì mấy mà PHỒN THỊNH!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "218475",
+      "lang": "vi",
+      "content_html": "<p>minh mẫn &nbsp;<strong>敏 xe sợi 糸 có ngày Phồn hoa</strong></p>",
+      "content_text": "minh mẫn\n敏 xe sợi 糸 có ngày Phồn hoa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    }
+  ]
+}

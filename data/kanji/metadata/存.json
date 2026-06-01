@@ -1,0 +1,94 @@
+{
+  "kanji": "存",
+  "meta": {
+    "weight": 696,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソン",
+      "ゾン"
+    ],
+    "kun": [
+      "ながら.える",
+      "あ.る",
+      "たも.つ",
+      "と.う"
+    ],
+    "am_han": "TỒN"
+  },
+  "meaning": {
+    "vi": "tồn tại",
+    "en": "exist, suppose, be aware of, believe, feel"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/存.svg"
+  },
+  "frequency": 577,
+  "examples": [
+    "存在",
+    "保存",
+    "依存",
+    "既存",
+    "存じ"
+  ],
+  "explanation": {
+    "id": "4829",
+    "text": "存 (đọc là \"son\") có nghĩa là \"tồn tại\", \"có\" để chỉ sự hiện hữu hoặc duy trì một cái gì đó.  \nVí dụ:  \n- 存在 (sonzai): Sự tồn tại, có mặt.  \n- 保存 (hozon): Bảo quản, lưu giữ.  \n- 存じる (zonjiru)"
+  },
+  "comments": [
+    {
+      "id": "152899",
+      "lang": "vi",
+      "content_html": "<p>Đứa trẻ đang dựng lều để tồn tại</p>",
+      "content_text": "Đứa trẻ đang dựng lều để tồn tại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152900",
+      "lang": "vi",
+      "content_html": "<p>Sự tồn vong của đứa trẻ đc bao bọc che chở bởi bàn tay chéo ngang</p>",
+      "content_text": "Sự tồn vong của đứa trẻ đc bao bọc che chở bởi bàn tay chéo ngang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152901",
+      "lang": "vi",
+      "content_html": "<p>đứa trẻ tồn tại được là nhờ sự chăm sóc của 1 người đó là người mẹ</p>",
+      "content_text": "đứa trẻ tồn tại được là nhờ sự chăm sóc của 1 người đó là người mẹ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

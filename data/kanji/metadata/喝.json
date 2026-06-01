@@ -1,0 +1,88 @@
+{
+  "kanji": "喝",
+  "meta": {
+    "weight": 507,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カツ"
+    ],
+    "kun": [],
+    "am_han": "HÁT, ỚI"
+  },
+  "meaning": {
+    "vi": "khản giọng, la mắng",
+    "en": "hoarse, scold"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/喝.svg"
+  },
+  "frequency": 1858,
+  "examples": [
+    "喝采",
+    "喝",
+    "恐喝",
+    "恫喝",
+    "一喝"
+  ],
+  "explanation": {
+    "id": "20302",
+    "text": "喝 (đọc là \"soku\") có nghĩa là \"cơ sở\", \"công trình\", thường chỉ các công trình xây dựng hoặc nền tảng vật lý.  \nVí dụ:  \n- 建築物 (kenchikubutsu): Công trình xây dựng.  \n- 施設 (shisetsu): Cơ sở,"
+  },
+  "comments": [
+    {
+      "id": "152456",
+      "lang": "vi",
+      "content_html": "<p>Đang HÁT thì bị QUÁT vì Miệng có Mùi</p>",
+      "content_text": "Đang HÁT thì bị QUÁT vì Miệng có Mùi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152457",
+      "lang": "vi",
+      "content_html": "<p>Nói những lời bốc mùi giữa ban ngày là Uy hiếp, dọa nạt</p>",
+      "content_text": "Nói những lời bốc mùi giữa ban ngày là Uy hiếp, dọa nạt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152458",
+      "lang": "vi",
+      "content_html": "<p>Hát cả Ngày khiến Mồm bốc mùi nên bị QUÁT</p>",
+      "content_text": "Hát cả Ngày khiến Mồm bốc mùi nên bị QUÁT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

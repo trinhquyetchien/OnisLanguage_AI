@@ -1,0 +1,84 @@
+{
+  "kanji": "沓",
+  "meta": {
+    "weight": 1501,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "くつ"
+    ],
+    "am_han": "ĐẠP"
+  },
+  "meaning": {
+    "vi": "Ủng",
+    "en": "shoes, boots"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/沓.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1873",
+    "text": "沓 (đọc là \"kutsu\") có nghĩa là \"dép\", chỉ các loại giày dép đặc biệt, thường dùng trong văn hóa truyền thống Nhật Bản.  \nVí dụ:  \n- 沓脱 (kutsudatsu): Cởi dép.  \n- 沓石 (kutsuishi): Đá để đặt dé"
+  },
+  "comments": [
+    {
+      "id": "219922",
+      "lang": "vi",
+      "content_html": "<p>CHỒNG CHẤT nhiều NƯỚC cả NGÀY rồi đó nha</p>",
+      "content_text": "CHỒNG CHẤT nhiều NƯỚC cả NGÀY rồi đó nha",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219923",
+      "lang": "vi",
+      "content_html": "<p>Đạp cả Ngày thì ra Nhiều Nước.</p>",
+      "content_text": "Đạp cả Ngày thì ra Nhiều Nước.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219924",
+      "lang": "vi",
+      "content_html": "<p>Đạp cả ngày thì ra nhiều nước</p>",
+      "content_text": "Đạp cả ngày thì ra nhiều nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

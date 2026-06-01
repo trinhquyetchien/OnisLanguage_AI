@@ -1,0 +1,86 @@
+{
+  "kanji": "貌",
+  "meta": {
+    "weight": 2541,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ",
+      "バク"
+    ],
+    "kun": [
+      "かたち",
+      "かたどる"
+    ],
+    "am_han": "MẠO, MỘC"
+  },
+  "meaning": {
+    "vi": "hình thức, sự xuất hiện, vẻ ngoài",
+    "en": "form, appearance, countenance"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/貌.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7297",
+    "text": "貌 (đọc là \"bō\") có nghĩa là \"dáng vẻ\", \"vẻ ngoài\", dùng để chỉ hình thức bên ngoài của con người hoặc vật.  \nVí dụ:  \n- 貌似 (bōsi): Giống như, có vẻ giống.  \n- 貌面 (bōmen): Dáng vẻ, diện mạo. "
+  },
+  "comments": [
+    {
+      "id": "220744",
+      "lang": "vi",
+      "content_html": "<p>con sâu màu trắng có 2 chân dung mao khá đẹp</p>",
+      "content_text": "con sâu màu trắng có 2 chân dung mao khá đẹp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220745",
+      "lang": "vi",
+      "content_html": "<p>Con sâu không chân đến thời kì chuyển sang màu trắng là sẽ có chân đi được.</p>",
+      "content_text": "Con sâu không chân đến thời kì chuyển sang màu trắng là sẽ có chân đi được.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220746",
+      "lang": "vi",
+      "content_html": "<p>con sâu không có chân(豸) phải đứng nhìn kỹ mới thấy mặt nó như dung mạo con người.</p>",
+      "content_text": "con sâu không có chân(豸) phải đứng nhìn kỹ mới thấy mặt nó như dung mạo con người.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "kanji": "惹",
+  "meta": {
+    "weight": 994,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジャク",
+      "ジャ"
+    ],
+    "kun": [
+      "ひ.く"
+    ],
+    "am_han": "NHẠ"
+  },
+  "meaning": {
+    "vi": "thu hút, quyến rũ",
+    "en": "attract, captivate"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/惹.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "3400",
+    "text": "惹 (đọc là \"ja\") có nghĩa là \"khiêu khích\", \"gây ra\" để chỉ các hành động liên quan đến việc kích thích cảm xúc hoặc vấn đề nào đó.  \nVí dụ:  \n- 惹かれる (hikaru): Bị thu hút, bị quyến rũ.  \n- 惹起"
+  },
+  "comments": [
+    {
+      "id": "219511",
+      "lang": "vi",
+      "content_html": "<p>Gặp gái TRẺ(nhược 若い) nhiều thì tim rung động dần bị mê hoặc( thích) <br>惹かれる</p>",
+      "content_text": "Gặp gái TRẺ(nhược 若い) nhiều thì tim rung động dần bị mê hoặc( thích)\n惹かれる",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219512",
+      "lang": "vi",
+      "content_html": "<p>Trái tim bị cuốn hút bởi cô gái trẻ dưới bãi cỏ</p>",
+      "content_text": "Trái tim bị cuốn hút bởi cô gái trẻ dưới bãi cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219513",
+      "lang": "vi",
+      "content_html": "<p>cô thảo bị thằng hữu cuốn hút mất trái tim</p>",
+      "content_text": "cô thảo bị thằng hữu cuốn hút mất trái tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

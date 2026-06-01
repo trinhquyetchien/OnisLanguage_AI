@@ -1,0 +1,88 @@
+{
+  "kanji": "熊",
+  "meta": {
+    "weight": 1669,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ"
+    ],
+    "kun": [
+      "くま"
+    ],
+    "am_han": "HÙNG"
+  },
+  "meaning": {
+    "vi": "chịu",
+    "en": "bear"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/熊.svg"
+  },
+  "frequency": 1105,
+  "examples": [
+    "熊本",
+    "熊",
+    "小熊"
+  ],
+  "explanation": {
+    "id": "1883",
+    "text": "熊 (đọc là \"yū\" hoặc \"kuma\") có nghĩa là \"gấu\", chỉ các loài gấu trong tự nhiên. \n\nVí dụ:\n- 熊 (kuma): Gấu.\n- 熊本 (Kumamoto): Tên một thành phố ở Nhật Bản, có chữ 熊 (gấu) trong tên.\n- 熊胆 (yūtan"
+  },
+  "comments": [
+    {
+      "id": "155196",
+      "lang": "vi",
+      "content_html": "<p>Anh HÙNG cứu Hoả phải có Năng lực bắt GẤU</p>",
+      "content_text": "Anh HÙNG cứu Hoả phải có Năng lực bắt GẤU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155197",
+      "lang": "vi",
+      "content_html": "<p>Gấu có khả nắng nhóm lửa</p>",
+      "content_text": "Gấu có khả nắng nhóm lửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155198",
+      "lang": "vi",
+      "content_html": "<p>con gấu oai HÙNG đi qua đống lửa</p>",
+      "content_text": "con gấu oai HÙNG đi qua đống lửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

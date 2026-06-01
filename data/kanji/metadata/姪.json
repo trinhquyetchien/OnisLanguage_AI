@@ -1,0 +1,72 @@
+{
+  "kanji": "姪",
+  "meta": {
+    "weight": 666,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テツ",
+      "チツ",
+      "ジチ",
+      "イツ",
+      "イチ"
+    ],
+    "kun": [
+      "めい",
+      "おい"
+    ],
+    "am_han": "ĐIỆT"
+  },
+  "meaning": {
+    "vi": "cháu gái",
+    "en": "niece"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/姪.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "7564",
+    "text": "姪 (đọc là \"mei\") có nghĩa là \"cháu gái\" hoặc \"cháu trai\", chỉ mối quan hệ giữa một người với con của anh chị em mình.\n\nVí dụ:\n- 姪っ子 (meikko): Cháu trai, cháu gái (cách gọi thân mật).\n- 姪 (me"
+  },
+  "comments": [
+    {
+      "id": "219302",
+      "lang": "vi",
+      "content_html": "<p>cháu gái là ng phụ nữ có chí</p>",
+      "content_text": "cháu gái là ng phụ nữ có chí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219303",
+      "lang": "vi",
+      "content_html": "<p>ĐIỆT NỮ của ta rất có CHÍ</p>",
+      "content_text": "ĐIỆT NỮ của ta rất có CHÍ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

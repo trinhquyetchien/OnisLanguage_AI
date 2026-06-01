@@ -1,0 +1,86 @@
+{
+  "kanji": "蛙",
+  "meta": {
+    "weight": 2381,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ア",
+      "ワ"
+    ],
+    "kun": [
+      "かえる",
+      "かわず"
+    ],
+    "am_han": "OA"
+  },
+  "meaning": {
+    "vi": "con ếch",
+    "en": "frog"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/蛙.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "873",
+    "text": "蛙 (đọc là \"kaeru\" hoặc \"gawa\") có nghĩa là \"ếch\", thường dùng để chỉ loài động vật lưỡng cư này. \n\nVí dụ:\n- 蛙 (kaeru): Ếch.\n- 蛙飛び (kawatori): Nhảy như ếch.\n- 蛙音 (kaeru ne): Âm thanh của ếch "
+  },
+  "comments": [
+    {
+      "id": "220604",
+      "lang": "vi",
+      "content_html": "<p>Ếch ăn côn trùng cả trên và dưới mặt đất</p>",
+      "content_text": "Ếch ăn côn trùng cả trên và dưới mặt đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220605",
+      "lang": "vi",
+      "content_html": "<p>côn trùng 虫 sống trên mặt đất　土　 và dưới đất　土　 ( nước) là con ẾCH</p>",
+      "content_text": "côn trùng 虫 sống trên mặt đất　土　 và dưới đất　土　 ( nước) là con ẾCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220606",
+      "lang": "vi",
+      "content_html": "<p>ẾCH tiến hóa từ loài côn TRÙNG sống dưới 2 lớp ĐẤT</p>",
+      "content_text": "ẾCH tiến hóa từ loài côn TRÙNG sống dưới 2 lớp ĐẤT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

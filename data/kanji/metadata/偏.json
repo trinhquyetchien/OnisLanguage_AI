@@ -1,0 +1,90 @@
+{
+  "kanji": "偏",
+  "meta": {
+    "weight": 223,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘン"
+    ],
+    "kun": [
+      "かたよ.る"
+    ],
+    "am_han": "THIÊN"
+  },
+  "meaning": {
+    "vi": "một phần, bên, bên trái triệt để, nghiêng, thiên vị",
+    "en": "partial, side, left-side radical, inclining, biased"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/偏.svg"
+  },
+  "frequency": 1340,
+  "examples": [
+    "偏見",
+    "偏差",
+    "偏り",
+    "偏",
+    "偏向"
+  ],
+  "explanation": {
+    "id": "7046",
+    "text": "偏 (đọc là \"hen\") có nghĩa là \"thiên lệch\", \"bất bình đẳng\" để chỉ các tình huống hoặc quan điểm không công bằng, thiên vị.  \nVí dụ:  \n- 偏見 (henken): Thành kiến, định kiến.  \n- 偏り (katayori):"
+  },
+  "comments": [
+    {
+      "id": "151746",
+      "lang": "vi",
+      "content_html": "<p>Người có thiên hướng bày sách ngoài cửa!</p>",
+      "content_text": "Người có thiên hướng bày sách ngoài cửa!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151747",
+      "lang": "vi",
+      "content_html": "<p>Người biến thiên lúc này lúc nọ thì tâm hồn lệch lạc</p>",
+      "content_text": "Người biến thiên lúc này lúc nọ thì tâm hồn lệch lạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151748",
+      "lang": "vi",
+      "content_html": "<p>BIển là Người THIÊN vị</p>",
+      "content_text": "BIển là Người THIÊN vị",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

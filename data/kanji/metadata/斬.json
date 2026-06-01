@@ -1,0 +1,91 @@
+{
+  "kanji": "斬",
+  "meta": {
+    "weight": 1197,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ザン",
+      "サン",
+      "セン",
+      "ゼン"
+    ],
+    "kun": [
+      "き.る"
+    ],
+    "am_han": "TRẢM"
+  },
+  "meaning": {
+    "vi": "chặt đầu, giết người",
+    "en": "beheading, kill, murder"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/斬.svg"
+  },
+  "frequency": 2132,
+  "examples": [
+    "斬新",
+    "斬る",
+    "斬"
+  ],
+  "explanation": {
+    "id": "3029",
+    "text": "斬 (đọc là \"zan\") có nghĩa là \"chém\", \"đánh bại\" để chỉ các hành động liên quan đến việc tấn công hoặc tiêu diệt kẻ thù.  \nVí dụ:  \n- 斬新 (zanshin): Tính mới mẻ, độc đáo.  \n- 斬首 (zanshu): Chém"
+  },
+  "comments": [
+    {
+      "id": "154146",
+      "lang": "vi",
+      "content_html": "<p>Xe có Dao là Cẩu đầu TRẢM của bao thanh Thiên</p>",
+      "content_text": "Xe có Dao là Cẩu đầu TRẢM của bao thanh Thiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154147",
+      "lang": "vi",
+      "content_html": "<p>Trảm xe bằng đao ok ko?</p>",
+      "content_text": "Trảm xe bằng đao ok ko?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154148",
+      "lang": "vi",
+      "content_html": "<p>chiếc XE có gắn cái BÚA  --  là cẩu đầu TRẢM để CHÉM đầu</p>",
+      "content_text": "chiếc XE có gắn cái BÚA  --  là cẩu đầu TRẢM để CHÉM đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

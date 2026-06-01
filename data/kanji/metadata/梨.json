@@ -1,0 +1,88 @@
+{
+  "kanji": "梨",
+  "meta": {
+    "weight": 1366,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リ"
+    ],
+    "kun": [
+      "なし"
+    ],
+    "am_han": "LÊ"
+  },
+  "meaning": {
+    "vi": "cây lê",
+    "en": "pear tree"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/梨.svg"
+  },
+  "frequency": 1331,
+  "examples": [
+    "山梨",
+    "梨",
+    "梨花"
+  ],
+  "explanation": {
+    "id": "8009",
+    "text": "梨 (đọc là \"nashi\") có nghĩa là \"quả lê\", chỉ loại trái cây có vị ngọt và giòn, thường được ăn tươi hoặc dùng trong chế biến món ăn.\n\nVí dụ:\n- 梨果 (nashika): Trái lê.\n- 梨の木 (nashi no ki): Cây "
+  },
+  "comments": [
+    {
+      "id": "154532",
+      "lang": "vi",
+      "content_html": "<p>Có lợi nhất trong các loại cây là cây LÊ. Có Lê là có Lợi</p>",
+      "content_text": "Có lợi nhất trong các loại cây là cây LÊ. Có Lê là có Lợi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154533",
+      "lang": "vi",
+      "content_html": "<p>Cây có lợi là cây lê</p>",
+      "content_text": "Cây có lợi là cây lê",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154534",
+      "lang": "vi",
+      "content_html": "<p>đem LỢI ÍCH nhiều nhất trong các CÂY  --  quả LÊ</p>",
+      "content_text": "đem LỢI ÍCH nhiều nhất trong các CÂY  --  quả LÊ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

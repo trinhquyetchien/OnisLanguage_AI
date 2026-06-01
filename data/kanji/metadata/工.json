@@ -1,0 +1,107 @@
+{
+  "kanji": "工",
+  "meta": {
+    "weight": 817,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ク",
+      "グ"
+    ],
+    "kun": [],
+    "am_han": "CÔNG"
+  },
+  "meaning": {
+    "vi": "thủ công, xây dựng",
+    "en": "craft, construction, katakana e radical (no. 48)"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/工.svg"
+  },
+  "frequency": 299,
+  "examples": [
+    "工場",
+    "工事",
+    "工業",
+    "工夫",
+    "加工"
+  ],
+  "explanation": {
+    "id": "2423",
+    "text": "工 (đọc là \"kō\") có nghĩa là \"công việc\", \"nghề nghiệp\", thường liên quan đến các hoạt động sản xuất, chế tạo.  \nVí dụ:  \n- 工場 (kōjō): Nhà máy, xưởng sản xuất.  \n- 工事 (kōji): Công trình xây d"
+  },
+  "comments": [
+    {
+      "id": "517",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng cây thước của thợ thủ <strong>công</strong></p>",
+      "content_text": "Hình dạng cây thước của thợ thủ\ncông",
+      "image_url": "https://jpdictionary.com/upload/images/629767f5df033.jpg",
+      "image_path": "assets/images/工_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153201",
+      "lang": "vi",
+      "content_html": "<p>ê (エ) ! CÔNG nhân.</p>",
+      "content_text": "ê (エ) ! CÔNG nhân.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158473",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>工業 (こうぎょう): công nghiệp<br>工場 (こうじょう): công trường</p>",
+      "content_text": "JLPT N4\n工業 (こうぎょう): công nghiệp\n工場 (こうじょう): công trường",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "158936",
+      "lang": "vi",
+      "content_html": "<p>大工(だいく): Thợ mộc</p><p>&nbsp;</p>",
+      "content_text": "大工(だいく): Thợ mộc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

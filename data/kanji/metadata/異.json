@@ -1,0 +1,92 @@
+{
+  "kanji": "異",
+  "meta": {
+    "weight": 1792,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "こと",
+      "こと.なる",
+      "け"
+    ],
+    "am_han": "DỊ"
+  },
+  "meaning": {
+    "vi": "không phổ biến, khác biệt, kỳ lạ, tuyệt vời, tò mò, bất thường",
+    "en": "uncommon, different, queerness, strangeness, wonderful, curious, unusual"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/異.svg"
+  },
+  "frequency": 631,
+  "examples": [
+    "異なる",
+    "異常",
+    "異",
+    "異なり",
+    "異議"
+  ],
+  "explanation": {
+    "id": "161",
+    "text": "異 (đọc là \"i\") có nghĩa là \"khác biệt\", \"lạ\" để chỉ sự khác nhau hoặc điều gì đó không bình thường.\n\nVí dụ:\n- 異なる (kotonaru): Khác nhau, khác biệt.\n- 異議 (igi): Ý kiến phản đối, tranh cãi.\n- "
+  },
+  "comments": [
+    {
+      "id": "155438",
+      "lang": "vi",
+      "content_html": "<p>Tự nhiên đc CUNG cấp cho thửa RUỘNG thật là DỊ thường (khác thường)</p>",
+      "content_text": "Tự nhiên đc CUNG cấp cho thửa RUỘNG thật là DỊ thường (khác thường)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155439",
+      "lang": "vi",
+      "content_html": "<p>RUỘNG mà ruộng chung, ruộng công CỘNG, nghe qua đã thấy quái DỊ.</p>",
+      "content_text": "RUỘNG mà ruộng chung, ruộng công CỘNG, nghe qua đã thấy quái DỊ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155440",
+      "lang": "vi",
+      "content_html": "<p>Cộng 共 đồng 田 những dị nhân 異人</p>",
+      "content_text": "Cộng 共 đồng 田 những dị nhân 異人",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "kanji": "甜",
+  "meta": {
+    "weight": 1767,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テン"
+    ],
+    "kun": [
+      "うま.い",
+      "あま.い"
+    ],
+    "am_han": "ĐIỀM"
+  },
+  "meaning": {
+    "vi": "kẹo",
+    "en": "sweet"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/甜.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5669",
+    "text": "甜 (đọc là \"ten\") có nghĩa là \"ngọt\" để chỉ hương vị hoặc cảm giác ngọt ngào.  \nVí dụ:  \n- 甘甜 (amaten): Ngọt ngào, dễ chịu.  \n- 甜美 (tenbi): Ngọt ngào, xinh đẹp.  \n- 甜食 (tenshoku): Đồ ăn ngọt."
+  },
+  "comments": [
+    {
+      "id": "220109",
+      "lang": "vi",
+      "content_html": "<p>Người điềm đạm là có cái lưỡi ngọt</p>",
+      "content_text": "Người điềm đạm là có cái lưỡi ngọt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "kanji": "困",
+  "meta": {
+    "weight": 535,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン"
+    ],
+    "kun": [
+      "こま.る"
+    ],
+    "am_han": "KHỐN"
+  },
+  "meaning": {
+    "vi": "khốn đốn, khó khăn",
+    "en": "quandary, become distressed, annoyed"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/困.svg"
+  },
+  "frequency": 843,
+  "examples": [
+    "困難",
+    "困る",
+    "貧困",
+    "困惑",
+    "困窮"
+  ],
+  "explanation": {
+    "id": "2683",
+    "text": "困 (đọc là \"kun\") có nghĩa là \"khó khăn\", \"bế tắc\" để chỉ trạng thái bị rơi vào tình huống không thể thoát ra hoặc gặp trở ngại.\n\nVí dụ:\n- 困難 (konnan): Khó khăn, thử thách.\n- 困る (komaru): Gặp"
+  },
+  "comments": [
+    {
+      "id": "37040",
+      "lang": "vi",
+      "content_html": "<p>Chúng ta gặp <strong>khó khăn</strong> vì có cái cây (木) to.</p>",
+      "content_text": "Chúng ta gặp\nkhó khăn\nvì có cái cây (木) to.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc526a8e42d.jpg",
+      "image_path": "assets/images/困_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152524",
+      "lang": "vi",
+      "content_html": "<p>cây sống 1 mình giữa 4 bức tường đúng là khốn khổ</p>",
+      "content_text": "cây sống 1 mình giữa 4 bức tường đúng là khốn khổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152525",
+      "lang": "vi",
+      "content_html": "<p>Trong Miệng mà mọc  Cây thì thật Khốn khổ</p>",
+      "content_text": "Trong Miệng mà mọc  Cây thì thật Khốn khổ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152526",
+      "lang": "vi",
+      "content_html": "<p>Người xưa kiếm ăn trong rừng nhưng bị bao vây cây cối thì đúng là khốn cùng</p>",
+      "content_text": "Người xưa kiếm ăn trong rừng nhưng bị bao vây cây cối thì đúng là khốn cùng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

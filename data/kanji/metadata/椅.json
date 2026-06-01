@@ -1,0 +1,85 @@
+{
+  "kanji": "椅",
+  "meta": {
+    "weight": 1382,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [],
+    "am_han": "Y, Ỷ"
+  },
+  "meaning": {
+    "vi": "cái ghế",
+    "en": "chair"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/椅.svg"
+  },
+  "frequency": 2245,
+  "examples": [
+    "椅子",
+    "車椅子"
+  ],
+  "explanation": {
+    "id": "152",
+    "text": "椅 (đọc là \"ishi\") có nghĩa là \"ghế\", dùng để chỉ các loại ghế ngồi, đặc biệt là ghế tựa.  \nVí dụ:  \n- 椅子 (isu): Ghế.  \n- 椅子取りゲーム (isu tori gēmu): Trò chơi ghế.  \n- 椅子に座る (isu ni suwaru): Ngồ"
+  },
+  "comments": [
+    {
+      "id": "154560",
+      "lang": "vi",
+      "content_html": "<p>cái Cây Kì Quái hình thù Y hệt cái GHẾ</p>",
+      "content_text": "cái Cây Kì Quái hình thù Y hệt cái GHẾ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154562",
+      "lang": "vi",
+      "content_html": "<p>Chiếc GHẾ Kì quái Y hệt cái Cây</p>",
+      "content_text": "Chiếc GHẾ Kì quái Y hệt cái Cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154561",
+      "lang": "vi",
+      "content_html": "<p>trông hình dáng Y hệt một người đang đứng trên ghế gỗ</p>",
+      "content_text": "trông hình dáng Y hệt một người đang đứng trên ghế gỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "城",
+  "meta": {
+    "weight": 561,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョウ",
+      "セイ"
+    ],
+    "kun": [
+      "しろ"
+    ],
+    "am_han": "THÀNH"
+  },
+  "meaning": {
+    "vi": "thành trì",
+    "en": "castle"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/城.svg"
+  },
+  "frequency": 795,
+  "examples": [
+    "城",
+    "茨城",
+    "宮城",
+    "城壁",
+    "山城"
+  ],
+  "explanation": {
+    "id": "3953",
+    "text": "城 (đọc là \"shiro\" hoặc \"jou\") có nghĩa là \"thành phố\", \"thành trì\", chỉ các công trình kiến trúc quân sự hoặc nơi cư trú.  \nVí dụ:  \n- 城郭 (joukaku): Thành lũy, thành trì.  \n- 大城 (oomaru): Th"
+  },
+  "comments": [
+    {
+      "id": "152588",
+      "lang": "vi",
+      "content_html": "<p>Lấy Đất đắp Thành lâu đài</p>",
+      "content_text": "Lấy Đất đắp Thành lâu đài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152589",
+      "lang": "vi",
+      "content_html": "<p>miếng ĐẤT có THÀNH TỰU được HOÀN THÀNH  --»  THÀNH osaka</p>",
+      "content_text": "miếng ĐẤT có THÀNH TỰU được HOÀN THÀNH  --»  THÀNH osaka",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152590",
+      "lang": "vi",
+      "content_html": "<p>Lấy đất đắp thành luỹ</p>",
+      "content_text": "Lấy đất đắp thành luỹ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

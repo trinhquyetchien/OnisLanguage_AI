@@ -1,0 +1,90 @@
+{
+  "kanji": "叫",
+  "meta": {
+    "weight": 436,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "さけ.ぶ"
+    ],
+    "am_han": "KHIẾU"
+  },
+  "meaning": {
+    "vi": "hét",
+    "en": "shout, exclaim, yell"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/叫.svg"
+  },
+  "frequency": 1426,
+  "examples": [
+    "叫び",
+    "叫ぶ",
+    "絶叫",
+    "叫び声",
+    "雄叫び"
+  ],
+  "explanation": {
+    "id": "1643",
+    "text": "叫 (đọc là \"kyou\" hoặc \"sakebu\") có nghĩa là \"kêu,\" \"hét,\" chỉ các hành động phát ra âm thanh lớn hoặc gọi ai đó.  \nVí dụ:  \n- 叫ぶ (sakebu): Hét lên, kêu gọi.  \n- 叫び声 (sakebigoe): Tiếng kêu, t"
+  },
+  "comments": [
+    {
+      "id": "152277",
+      "lang": "vi",
+      "content_html": "<p>Mồm kêu 4 tiếng :”mang rượu ra đê :sakebu</p>",
+      "content_text": "Mồm kêu 4 tiếng :”mang rượu ra đê :sakebu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152278",
+      "lang": "vi",
+      "content_html": "<p>Miệng Kêu 叫 : mang 4 chai rượu sake bự (さけぶ) ra cho tôi</p>",
+      "content_text": "Miệng Kêu 叫 : mang 4 chai rượu sake bự (さけぶ) ra cho tôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152279",
+      "lang": "vi",
+      "content_html": "<p>MỒM KÊU như con KHIẾU</p>",
+      "content_text": "MỒM KÊU như con KHIẾU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

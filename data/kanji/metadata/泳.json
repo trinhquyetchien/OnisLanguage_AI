@@ -1,0 +1,107 @@
+{
+  "kanji": "泳",
+  "meta": {
+    "weight": 1524,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エイ"
+    ],
+    "kun": [
+      "およ.ぐ"
+    ],
+    "am_han": "VỊNH"
+  },
+  "meaning": {
+    "vi": "bơi",
+    "en": "swim"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/泳.svg"
+  },
+  "frequency": 1223,
+  "examples": [
+    "水泳",
+    "泳ぐ",
+    "泳ぎ",
+    "遊泳",
+    "競泳"
+  ],
+  "explanation": {
+    "id": "383",
+    "text": "泳 (đọc là \"oyogu\") có nghĩa là \"bơi\", chỉ các hành động liên quan đến việc bơi lội trong nước.  \nVí dụ:  \n- 泳ぐ (oyogu): Bơi.  \n- 泳ぎ方 (oyogikata): Cách bơi.  \n- 水泳 (suiei): Môn bơi lội."
+  },
+  "comments": [
+    {
+      "id": "37158",
+      "lang": "vi",
+      "content_html": "<p>Tôi <strong>bơi </strong>trong nước.</p>",
+      "content_text": "Tôi\nbơi\ntrong nước.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd005493f1.jpg",
+      "image_path": "assets/images/泳_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154856",
+      "lang": "vi",
+      "content_html": "<p>song thủy hóa vịnh đầy</p>",
+      "content_text": "song thủy hóa vịnh đầy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154857",
+      "lang": "vi",
+      "content_html": "<p>biết bơi thì sẽ nổi trên mặt nước Vĩnh viễn</p>",
+      "content_text": "biết bơi thì sẽ nổi trên mặt nước Vĩnh viễn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154858",
+      "lang": "vi",
+      "content_html": "<p>Tắm 泳ぎ nước 水 biển ở Vịnh 泳 hạ long. thì còn lâu 永 mới biết chán</p>",
+      "content_text": "Tắm 泳ぎ nước 水 biển ở Vịnh 泳 hạ long. thì còn lâu 永 mới biết chán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

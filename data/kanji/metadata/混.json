@@ -1,0 +1,94 @@
+{
+  "kanji": "混",
+  "meta": {
+    "weight": 1564,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コン"
+    ],
+    "kun": [
+      "ま.じる",
+      "-ま.じり",
+      "ま.ざる",
+      "ま.ぜる",
+      "こ.む"
+    ],
+    "am_han": "HỖN"
+  },
+  "meaning": {
+    "vi": "pha trộn, hỗn hợp",
+    "en": "mix, blend, confuse"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/混.svg"
+  },
+  "frequency": 824,
+  "examples": [
+    "混乱",
+    "混雑",
+    "混合",
+    "混同",
+    "混在"
+  ],
+  "explanation": {
+    "id": "2709",
+    "text": "混 (đọc là \"kon\") có nghĩa là \"hỗn hợp\", \"trộn lẫn\" để chỉ sự pha trộn hoặc không rõ ràng của các yếu tố khác nhau.\n\nVí dụ:\n- 混乱 (konran): Hỗn loạn, rối ren.\n- 混合 (kon-gō): Sự pha trộn, hỗn h"
+  },
+  "comments": [
+    {
+      "id": "154947",
+      "lang": "vi",
+      "content_html": "<p>Dươi ánh mặt trời tập trung hỗn loạn  đông đúc chảy mồ hôi nhưng vẫn có tiếng cười ヒヒ</p>",
+      "content_text": "Dươi ánh mặt trời tập trung hỗn loạn  đông đúc chảy mồ hôi nhưng vẫn có tiếng cười ヒヒ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154948",
+      "lang": "vi",
+      "content_html": "<p>nước và mặt trời nếu đem ra so sánh(比) sẽ tạo nên sự hỗn độn</p>",
+      "content_text": "nước và mặt trời nếu đem ra so sánh(比) sẽ tạo nên sự hỗn độn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154949",
+      "lang": "vi",
+      "content_html": "<p>TỶ giá tiền tệ NƯỚC NHẬT ngày càng HỖN loạn</p>",
+      "content_text": "TỶ giá tiền tệ NƯỚC NHẬT ngày càng HỖN loạn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

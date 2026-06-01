@@ -1,0 +1,88 @@
+{
+  "kanji": "欺",
+  "meta": {
+    "weight": 1444,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギ"
+    ],
+    "kun": [
+      "あざむ.く"
+    ],
+    "am_han": "KHI"
+  },
+  "meaning": {
+    "vi": "lừa dối",
+    "en": "deceit, cheat, delude"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/欺.svg"
+  },
+  "frequency": 1541,
+  "examples": [
+    "詐欺",
+    "欺瞞",
+    "欺く"
+  ],
+  "explanation": {
+    "id": "1423",
+    "text": "欺 (đọc là \"gi\") có nghĩa là \"lừa dối\", \"gian lận\" để chỉ các hành động liên quan đến việc đánh lừa hoặc deception.  \nVí dụ:  \n- 欺く (azuku): Lừa gạt, lừa dối.  \n- 欺瞞 (giman): Sự lừa dối, sự g"
+  },
+  "comments": [
+    {
+      "id": "154655",
+      "lang": "vi",
+      "content_html": "<p>KHI đến Kì mà Thiếu nợ thì hay LỪA DỐI</p>",
+      "content_text": "KHI đến Kì mà Thiếu nợ thì hay LỪA DỐI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154656",
+      "lang": "vi",
+      "content_html": "<p>Thiếu kì là lừa dối</p>",
+      "content_text": "Thiếu kì là lừa dối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154657",
+      "lang": "vi",
+      "content_html": "<p>Họ Kì (其) trả tiền vào kì hạn (期) cuối tháng (月)<br>Họ Kì (其) dùng gỗ (木) làm cờ tướng (棋)<br>Họ Kì (其) dùng đá (石) làm cờ vây (碁)<br>Họ Kì (其) thiếu (欠) nợ nên hay lừa dối (欺)<br>Họ Kì (其) cho người nằm (</p>",
+      "content_text": "Họ Kì (其) trả tiền vào kì hạn (期) cuối tháng (月)\nHọ Kì (其) dùng gỗ (木) làm cờ tướng (棋)\nHọ Kì (其) dùng đá (石) làm cờ vây (碁)\nHọ Kì (其) thiếu (欠) nợ nên hay lừa dối (欺)\nHọ Kì (其) cho người nằm (",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "kanji": "現",
+  "meta": {
+    "weight": 1743,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲン"
+    ],
+    "kun": [
+      "あらわ.れる",
+      "あらわ.す",
+      "うつつ",
+      "うつ.つ"
+    ],
+    "am_han": "HIỆN"
+  },
+  "meaning": {
+    "vi": "xuất hiện, hiện tại",
+    "en": "present, existing, actual"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/現.svg"
+  },
+  "frequency": 85,
+  "examples": [
+    "現在",
+    "表現",
+    "現実",
+    "実現",
+    "現代"
+  ],
+  "explanation": {
+    "id": "2224",
+    "text": "現 (đọc là \"gen\" hoặc \"aru\") có nghĩa là \"hiện tại\", \"xuất hiện\" để chỉ các khái niệm liên quan đến sự hiện diện, thực tế, hoặc những gì đang diễn ra.  \nVí dụ:  \n- 現在 (genzai): Hiện tại, bây "
+  },
+  "comments": [
+    {
+      "id": "155337",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa thấy vua xuất hiện mọi người kéo nhau đi xem( giờ cũng vậy mà )</p>",
+      "content_text": "Ngày xưa thấy vua xuất hiện mọi người kéo nhau đi xem( giờ cũng vậy mà )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155338",
+      "lang": "vi",
+      "content_html": "<p>Thế giới Hiện 現 đại không còn ai đi xem 見 vua 王 nữa</p>",
+      "content_text": "Thế giới Hiện 現 đại không còn ai đi xem 見 vua 王 nữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155339",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa thấy vua chạy ra xem mặt vua là bị chém đầu. (Rep bạn trên) kk</p>",
+      "content_text": "Ngày xưa thấy vua chạy ra xem mặt vua là bị chém đầu. (Rep bạn trên) kk",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

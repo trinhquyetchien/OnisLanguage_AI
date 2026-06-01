@@ -1,0 +1,88 @@
+{
+  "kanji": "鈴",
+  "meta": {
+    "weight": 2747,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ",
+      "リン"
+    ],
+    "kun": [
+      "すず"
+    ],
+    "am_han": "LINH"
+  },
+  "meaning": {
+    "vi": "chuông nhỏ, còi",
+    "en": "small bell, buzzer"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/鈴.svg"
+  },
+  "frequency": 880,
+  "examples": [
+    "鈴",
+    "風鈴"
+  ],
+  "explanation": {
+    "id": "8231",
+    "text": "鈴 (đọc là \"suzu\") có nghĩa là \"chuông\", thường được dùng để chỉ loại chuông nhỏ phát ra âm thanh nhẹ nhàng, thường liên quan đến tín hiệu hoặc trang trí.  \nVí dụ:  \n- 鈴虫 (suzumushi): Cào cào"
+  },
+  "comments": [
+    {
+      "id": "157537",
+      "lang": "vi",
+      "content_html": "<p>chuông LỆNH làm bằng KIM loại</p>",
+      "content_text": "chuông LỆNH làm bằng KIM loại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157538",
+      "lang": "vi",
+      "content_html": "<p>vật kim loại mà truyền lệnh được chính là cái chuông. hay</p>",
+      "content_text": "vật kim loại mà truyền lệnh được chính là cái chuông. hay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157539",
+      "lang": "vi",
+      "content_html": "<p>LINH ra lệnh làm cái chuông bằng kim loại</p>",
+      "content_text": "LINH ra lệnh làm cái chuông bằng kim loại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

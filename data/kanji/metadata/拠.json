@@ -1,0 +1,91 @@
+{
+  "kanji": "拠",
+  "meta": {
+    "weight": 1079,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョ",
+      "コ"
+    ],
+    "kun": [
+      "よ.る"
+    ],
+    "am_han": "CỨ"
+  },
+  "meaning": {
+    "vi": "chỗ đứng, dựa trên, theo sau, do đó",
+    "en": "foothold, based on, follow, therefore"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/拠.svg"
+  },
+  "frequency": 858,
+  "examples": [
+    "証拠",
+    "根拠",
+    "拠点",
+    "拠出",
+    "準拠"
+  ],
+  "explanation": {
+    "id": "1579",
+    "text": "拠 (đọc là \"kyo\" hoặc \"yoru\") có nghĩa là \"nơi dựa vào\", \"căn cứ\", chỉ việc dựa vào một nguồn lực hay địa điểm để hành động hoặc quyết định.  \nVí dụ:  \n- 拠点 (kyoten): Căn cứ, địa điểm hoạt độ"
+  },
+  "comments": [
+    {
+      "id": "153877",
+      "lang": "vi",
+      "content_html": "<p>Muốn xử lí 処 trong tay 扌 phải có chứng cứ 拠</p>",
+      "content_text": "Muốn xử lí 処 trong tay 扌 phải có chứng cứ 拠",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153878",
+      "lang": "vi",
+      "content_html": "<p>Tay xử lí.. vì đã có căn cứ</p>",
+      "content_text": "Tay xử lí.. vì đã có căn cứ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153879",
+      "lang": "vi",
+      "content_html": "<p>Xứ này  là căn cứ trong tay ta</p>",
+      "content_text": "Xứ này  là căn cứ trong tay ta",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

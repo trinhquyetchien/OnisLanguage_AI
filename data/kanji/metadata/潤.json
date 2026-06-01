@@ -1,0 +1,92 @@
+{
+  "kanji": "潤",
+  "meta": {
+    "weight": 1621,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュン"
+    ],
+    "kun": [
+      "うるお.う",
+      "うるお.す",
+      "うる.む"
+    ],
+    "am_han": "NHUẬN"
+  },
+  "meaning": {
+    "vi": "ướt, được tưới, lợi nhuận bằng, nhận lợi ích, ưu ái, quyến rũ, dốc",
+    "en": "wet, be watered, profit by, receive benefits, favor, charm, steep"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/潤.svg"
+  },
+  "frequency": 1644,
+  "examples": [
+    "利潤",
+    "潤い",
+    "潤沢",
+    "潤う",
+    "潤滑油"
+  ],
+  "explanation": {
+    "id": "3658",
+    "text": "潤 (đọc là \"jun\") có nghĩa là \"ẩm ướt\", \"nuôi dưỡng\", hoặc \"làm phong phú\". Từ này thường chỉ trạng thái hoặc hành động liên quan đến sự cải thiện hoặc làm cho điều gì đó trở nên tốt hơn.\n\nVí"
+  },
+  "comments": [
+    {
+      "id": "155100",
+      "lang": "vi",
+      "content_html": "<p>Vua đứng trước cổng chia lợi nhuận cho mọi người</p>",
+      "content_text": "Vua đứng trước cổng chia lợi nhuận cho mọi người",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155101",
+      "lang": "vi",
+      "content_html": "<p>VUA QUAN làm nên lợi NHUẬN là vì NƯỚC</p>",
+      "content_text": "VUA QUAN làm nên lợi NHUẬN là vì NƯỚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155102",
+      "lang": "vi",
+      "content_html": "<p>vua đứng trong cổng chia lợi nhuận</p>",
+      "content_text": "vua đứng trong cổng chia lợi nhuận",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

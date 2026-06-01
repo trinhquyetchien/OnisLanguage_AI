@@ -1,0 +1,91 @@
+{
+  "kanji": "恒",
+  "meta": {
+    "weight": 962,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "つね",
+      "つねに"
+    ],
+    "am_han": "HẰNG, CẮNG, CĂNG"
+  },
+  "meaning": {
+    "vi": "hằng số, luôn luôn",
+    "en": "constancy, always"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/恒.svg"
+  },
+  "frequency": 1314,
+  "examples": [
+    "恒例",
+    "恒久",
+    "恒",
+    "恒常",
+    "恒星"
+  ],
+  "explanation": {
+    "id": "2447",
+    "text": "恒 (đọc là \"kō\") có nghĩa là \"vĩnh cửu\", \"bất biến\" để chỉ những điều không thay đổi theo thời gian.  \nVí dụ:  \n- 恒久 (kōkyū): Vĩnh cửu, mãi mãi.  \n- 恒星 (kōsei): Sao cố định, ngôi sao không di"
+  },
+  "comments": [
+    {
+      "id": "153569",
+      "lang": "vi",
+      "content_html": "<p>1001 con tim HẰNG ngày chờ mong</p>",
+      "content_text": "1001 con tim HẰNG ngày chờ mong",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153570",
+      "lang": "vi",
+      "content_html": "<p>Người mà có 1001 con tim thì Vĩnh hằng cmnr</p>",
+      "content_text": "Người mà có 1001 con tim thì Vĩnh hằng cmnr",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153571",
+      "lang": "vi",
+      "content_html": "<p>1001 con tim là vĩnh hằng</p>",
+      "content_text": "1001 con tim là vĩnh hằng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

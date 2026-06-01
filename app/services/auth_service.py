@@ -32,6 +32,9 @@ from app.services.email_service import email_service
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
 class AuthService:
+    OTP_TTL_MINUTES = 10
+    OTP_RESEND_COOLDOWN_SECONDS = 45
+
     def __init__(self) -> None:
         # Stores OTPs: {email: {"otp": code, "expires": datetime, "data": pending_user_data, "type": str, "user_id": str}}
         self._pending_otps: Dict[str, dict] = {}
@@ -40,39 +43,59 @@ class AuthService:
     def _password_change_key(user_id: str) -> str:
         return f"password_change:{user_id}"
 
+    def _enforce_otp_cooldown(self, key: str) -> None:
+        pending = self._pending_otps.get(key)
+        if not pending:
+            return
+        issued_at: datetime | None = pending.get("issued_at")
+        if issued_at is None:
+            return
+        elapsed = (datetime.now(timezone.utc) - issued_at).total_seconds()
+        if elapsed < self.OTP_RESEND_COOLDOWN_SECONDS:
+            wait_seconds = int(self.OTP_RESEND_COOLDOWN_SECONDS - elapsed) + 1
+            raise HTTPException(
+                status_code=429,
+                detail=f"Please wait {wait_seconds}s before requesting a new OTP.",
+            )
+
     async def initiate_register(self, request: AuthRegisterRequest) -> OtpResponse:
+        normalized_email = request.email.lower().strip()
         db = SessionLocal()
         try:
-            existing_user = db.query(User).filter(User.email == request.email).first()
+            existing_user = db.query(User).filter(User.email == normalized_email).first()
             if existing_user:
                 raise HTTPException(status_code=400, detail="User already exists")
+            self._enforce_otp_cooldown(normalized_email)
             
             otp = self._generate_otp()
-            expiry = datetime.now(timezone.utc) + timedelta(minutes=10)
+            now = datetime.now(timezone.utc)
+            expiry = now + timedelta(minutes=self.OTP_TTL_MINUTES)
             
-            self._pending_otps[request.email] = {
+            self._pending_otps[normalized_email] = {
                 "otp": otp,
                 "expires": expiry,
+                "issued_at": now,
                 "data": request.model_dump(),
                 "type": "registration"
             }
             
-            await email_service.send_otp_email(request.email, otp)
+            await email_service.send_otp_email(normalized_email, otp)
             
             return OtpResponse(
                 message="OTP đã được gửi về email của bạn.",
-                email=request.email
+                email=normalized_email
             )
         finally:
             db.close()
 
     def verify_registration(self, request: OtpVerifyRequest) -> AuthResponse:
-        pending = self._pending_otps.get(request.email)
+        normalized_email = request.email.lower().strip()
+        pending = self._pending_otps.get(normalized_email)
         if not pending or pending.get("type") != "registration":
             raise HTTPException(status_code=400, detail="No pending registration found")
         
         if datetime.now(timezone.utc) > pending["expires"]:
-            del self._pending_otps[request.email]
+            del self._pending_otps[normalized_email]
             raise HTTPException(status_code=400, detail="OTP expired")
         
         if pending["otp"] != request.otp:
@@ -83,16 +106,16 @@ class AuthService:
         try:
             user_data = pending["data"]
             new_user = User(
-                email=user_data["email"],
+                email=normalized_email,
                 password_hash=self._hash_password(user_data["password"]),
-                display_name=user_data["display_name"] or user_data["email"].split("@")[0],
+                display_name=user_data["display_name"] or normalized_email.split("@")[0],
             )
             db.add(new_user)
             db.commit()
             db.refresh(new_user)
             
             # Cleanup
-            del self._pending_otps[request.email]
+            del self._pending_otps[normalized_email]
             
             token = self.create_access_token({"sub": str(new_user.user_id)})
             return AuthResponse(
@@ -150,11 +173,14 @@ class AuthService:
                     raise HTTPException(status_code=400, detail="Email already in use")
                 
                 otp = self._generate_otp()
-                expiry = datetime.now(timezone.utc) + timedelta(minutes=10)
+                self._enforce_otp_cooldown(request.email.lower())
+                now = datetime.now(timezone.utc)
+                expiry = now + timedelta(minutes=self.OTP_TTL_MINUTES)
                 
                 self._pending_otps[request.email.lower()] = {
                     "otp": otp,
                     "expires": expiry,
+                    "issued_at": now,
                     "type": "email_change",
                     "user_id": user_id
                 }
@@ -204,11 +230,14 @@ class AuthService:
                 raise HTTPException(status_code=400, detail="Current password is incorrect")
 
             otp = self._generate_otp()
-            expiry = datetime.now(timezone.utc) + timedelta(minutes=10)
             key = self._password_change_key(user_id)
+            self._enforce_otp_cooldown(key)
+            now = datetime.now(timezone.utc)
+            expiry = now + timedelta(minutes=self.OTP_TTL_MINUTES)
             self._pending_otps[key] = {
                 "otp": otp,
                 "expires": expiry,
+                "issued_at": now,
                 "type": "password_change",
                 "user_id": user_id,
                 "new_password": request.new_password,

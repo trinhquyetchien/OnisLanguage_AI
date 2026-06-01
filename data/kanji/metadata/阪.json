@@ -1,0 +1,90 @@
+{
+  "kanji": "阪",
+  "meta": {
+    "weight": 2816,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン"
+    ],
+    "kun": [
+      "さか"
+    ],
+    "am_han": "PHẢN"
+  },
+  "meaning": {
+    "vi": "độ cao, độ dốc",
+    "en": "heights, slope"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/阪.svg"
+  },
+  "frequency": 503,
+  "examples": [
+    "大阪",
+    "阪神",
+    "阪",
+    "京阪",
+    "京阪神"
+  ],
+  "explanation": {
+    "id": "2863",
+    "text": "阪 (đọc là \"ban\") có nghĩa là \"dốc\" hoặc \"máng dốc\" để chỉ những địa điểm có độ dốc hoặc những con đường gồ ghề.  \nVí dụ:  \n- 阪道 (bandō): Đường dốc, con đường lên xuống.  \n- 大阪 (Ōsaka): Thành"
+  },
+  "comments": [
+    {
+      "id": "157660",
+      "lang": "vi",
+      "content_html": "<p>PHẢN đối việc Bán Mông ở OSAKA</p>",
+      "content_text": "PHẢN đối việc Bán Mông ở OSAKA",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157661",
+      "lang": "vi",
+      "content_html": "<p>ở osaka phản đối việc kì thị người Béo</p>",
+      "content_text": "ở osaka phản đối việc kì thị người Béo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157662",
+      "lang": "vi",
+      "content_html": "<p>GÒ ĐẤT bị PHẢN ĐỐI  --» là nơi có MÁI DỐC như 大阪</p>",
+      "content_text": "GÒ ĐẤT bị PHẢN ĐỐI  --» là nơi có MÁI DỐC như 大阪",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

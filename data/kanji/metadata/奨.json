@@ -1,0 +1,91 @@
+{
+  "kanji": "奨",
+  "meta": {
+    "weight": 639,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ",
+      "ソウ"
+    ],
+    "kun": [
+      "すす.める"
+    ],
+    "am_han": "TƯỞNG"
+  },
+  "meaning": {
+    "vi": "khuyên nhủ, thúc giục, khuyến khích",
+    "en": "exhort, urge, encourage"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/奨.svg"
+  },
+  "frequency": 1445,
+  "examples": [
+    "推奨",
+    "奨励",
+    "奨学",
+    "奨め",
+    "奨学生"
+  ],
+  "explanation": {
+    "id": "3773",
+    "text": "奨 (đọc là \"shou\") có nghĩa là \"khuyến khích\", \"tán thành\" để chỉ các hành động liên quan đến việc khuyến khích, hỗ trợ hoặc khen thưởng.\n\nVí dụ:\n- 奨励 (shoureki): Khuyến khích, động viên.\n- 奨"
+  },
+  "comments": [
+    {
+      "id": "152768",
+      "lang": "vi",
+      "content_html": "<p>Tương lai vào Đại học được TƯỞNG THƯỞNG</p>",
+      "content_text": "Tương lai vào Đại học được TƯỞNG THƯỞNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152769",
+      "lang": "vi",
+      "content_html": "<p>Tưởng tượng Tương lai vào Đại học</p>",
+      "content_text": "Tưởng tượng Tương lai vào Đại học",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152770",
+      "lang": "vi",
+      "content_html": "<p>Vị TƯỚNG TO chắc được TƯỞNG thưởng nhiều lắm</p>",
+      "content_text": "Vị TƯỚNG TO chắc được TƯỞNG thưởng nhiều lắm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

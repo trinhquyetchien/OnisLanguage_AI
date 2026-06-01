@@ -1,0 +1,87 @@
+{
+  "kanji": "頬",
+  "meta": {
+    "weight": 2909,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "ほお",
+      "ほほ"
+    ],
+    "am_han": "GIÁP"
+  },
+  "meaning": {
+    "vi": "má, hàm",
+    "en": "cheeks, jaw"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/頬.svg"
+  },
+  "frequency": 2424,
+  "examples": [
+    "頬"
+  ],
+  "explanation": {
+    "id": "7310",
+    "text": "頬 (đọc là \"ho\" hoặc \"kaku\") có nghĩa là \"má\", chỉ phần bên ngoài của khuôn mặt, nơi có cơ mặt và da. \n\nVí dụ:\n- 頬杖 (hojō): Chống tay lên má.\n- 頬骨 (hokotsu): Xương gò má.\n- 頬紅 (hōkun): Phấn m"
+  },
+  "comments": [
+    {
+      "id": "157889",
+      "lang": "vi",
+      "content_html": "<p>GIÁP gần Đầu là Gò Má ...ほほえむ-&#62; mĩm cười</p>",
+      "content_text": "GIÁP gần Đầu là Gò Má ...ほほえむ-> mĩm cười",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157890",
+      "lang": "vi",
+      "content_html": "<p>Ông chồng (夫) dùng 2 Tay  ( 丷 ) Giáp cái Đầu (頁) vào Cái Má</p>",
+      "content_text": "Ông chồng (夫) dùng 2 Tay  ( 丷 ) Giáp cái Đầu (頁) vào Cái Má",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157891",
+      "lang": "vi",
+      "content_html": "<p>Đầu kẹp giữa 2 cái Má đỏ như Lửa</p>",
+      "content_text": "Đầu kẹp giữa 2 cái Má đỏ như Lửa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

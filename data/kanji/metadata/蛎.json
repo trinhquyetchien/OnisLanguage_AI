@@ -1,0 +1,32 @@
+{
+  "kanji": "蛎",
+  "meta": {
+    "weight": 2380,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ"
+    ],
+    "kun": [
+      "かき"
+    ],
+    "am_han": "LẠI, LỆ, LỊ, LỢI, LỴ"
+  },
+  "meaning": {
+    "vi": "con hàu",
+    "en": "oyster"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/蛎.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "882",
+    "text": "蛎 (đọc là \"kaki\") có nghĩa là \"nghêu\", chỉ các loại động vật thân mềm sống dưới nước, đặc biệt là hàu.  \nVí dụ:  \n- 蛎食 (kakishoku): Ăn hàu.  \n- 蛎の味噌汁 (kaki no misoshiru): Súp miso với hàu.  "
+  },
+  "comments": []
+}

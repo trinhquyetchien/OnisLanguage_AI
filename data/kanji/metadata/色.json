@@ -1,0 +1,108 @@
+{
+  "kanji": "色",
+  "meta": {
+    "weight": 2247,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショク",
+      "シキ"
+    ],
+    "kun": [
+      "いろ"
+    ],
+    "am_han": "SẮC"
+  },
+  "meaning": {
+    "vi": "màu sắc",
+    "en": "color"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/色.svg"
+  },
+  "frequency": 621,
+  "examples": [
+    "色",
+    "色々",
+    "景色",
+    "色んな",
+    "黄色"
+  ],
+  "explanation": {
+    "id": "4030",
+    "text": "色 (đọc là \"shiki\" hoặc \"iro\") có nghĩa là \"màu sắc\", chỉ các khía cạnh liên quan đến màu sắc và cảm nhận thị giác.  \nVí dụ:  \n- 色彩 (shikisai): Màu sắc, sự phối hợp màu.  \n- 色々 (iroiro): Nhiề"
+  },
+  "comments": [
+    {
+      "id": "765",
+      "lang": "vi",
+      "content_html": "<p>Hình bát quái có hai <strong>màu </strong>(色).</p>",
+      "content_text": "Hình bát quái có hai\nmàu\n(色).",
+      "image_url": "https://jpdictionary.com/upload/images/62984e1f57497.png",
+      "image_path": "assets/images/色_1.png",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156451",
+      "lang": "vi",
+      "content_html": "<p>Hình vẽ con Kỳ nhông, vì nó là loài thay đổi màu sắc rất nhanh nên cổ nhân dùng nó để chỉ chữ Sắc: màu sắc.</p>",
+      "content_text": "Hình vẽ con Kỳ nhông, vì nó là loài thay đổi màu sắc rất nhanh nên cổ nhân dùng nó để chỉ chữ Sắc: màu sắc.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158579",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>色 (いろ): màu sắc</p><p>黄色い (きいろい): màu vàng</p><p>茶色 (ちゃいろ): màu nâu</p><p>景色 (けしき): phong cảnh</p>",
+      "content_text": "JLPT N4\n色 (いろ): màu sắc\n黄色い (きいろい): màu vàng\n茶色 (ちゃいろ): màu nâu\n景色 (けしき): phong cảnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "156453",
+      "lang": "vi",
+      "content_html": "<p>trên đầu chữ Sắc có con dao nha mấy thằng dê</p>",
+      "content_text": "trên đầu chữ Sắc có con dao nha mấy thằng dê",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

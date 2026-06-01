@@ -1,0 +1,91 @@
+{
+  "kanji": "要",
+  "meta": {
+    "weight": 2438,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "い.る",
+      "かなめ"
+    ],
+    "am_han": "YÊU, YẾU"
+  },
+  "meaning": {
+    "vi": "yêu cầu, chủ yếu",
+    "en": "need, main point, essence, pivot, key to"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/要.svg"
+  },
+  "frequency": 106,
+  "examples": [
+    "必要",
+    "重要",
+    "要求",
+    "要素",
+    "需要"
+  ],
+  "explanation": {
+    "id": "7899",
+    "text": "要 (đọc là \"yō\") có nghĩa là \"cần\", \"yêu cầu\" để chỉ những điều cần thiết hoặc mong muốn đạt được.  \nVí dụ:  \n- 要求 (yōkyū): Yêu cầu, đòi hỏi.  \n- 必要 (hitsuyō): Cần thiết.  \n- 重要 (jūyō): Quan "
+  },
+  "comments": [
+    {
+      "id": "37097",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ (女) cất những thứ <strong>cần thiết </strong>trong giỏ.</p>",
+      "content_text": "Phụ nữ (女) cất những thứ\ncần thiết\ntrong giỏ.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb2d7c2bd4.jpg",
+      "image_path": "assets/images/要_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156786",
+      "lang": "vi",
+      "content_html": "<p>Phụ Nữ phương Tây YÊU nhiều thì YẾU</p>",
+      "content_text": "Phụ Nữ phương Tây YÊU nhiều thì YẾU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191179",
+      "lang": "vi",
+      "content_html": "<p>Chum <strong>cần </strong>nắp</p><p><strong>cần </strong>thiết - 必要</p>",
+      "content_text": "Chum\ncần\nnắp\ncần\nthiết - 必要",
+      "image_url": "https://jpdictionary.com/upload/images/648ad6c63439d.jpg",
+      "image_path": "assets/images/要_3.jpg",
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

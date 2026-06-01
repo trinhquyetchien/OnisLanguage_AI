@@ -1,0 +1,107 @@
+{
+  "kanji": "朝",
+  "meta": {
+    "weight": 1275,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "あさ"
+    ],
+    "am_han": "TRIỀU"
+  },
+  "meaning": {
+    "vi": "buổi sáng, triều đại",
+    "en": "morning, dynasty, regime, epoch, period, (North) Korea"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/朝.svg"
+  },
+  "frequency": 248,
+  "examples": [
+    "朝",
+    "北朝鮮",
+    "朝鮮",
+    "今朝",
+    "朝日"
+  ],
+  "explanation": {
+    "id": "5367",
+    "text": "朝 (đọc là \"chō\" hoặc \"asa\") có nghĩa là \"buổi sáng\" hoặc \"triều\" để chỉ thời gian trong ngày hoặc một triều đại, chính quyền.  \nVí dụ:  \n- 朝食 (chōshoku): Bữa sáng.  \n- 朝日 (asahi): Ánh nắng b"
+  },
+  "comments": [
+    {
+      "id": "714",
+      "lang": "vi",
+      "content_html": "<p>Buổi <strong>sáng </strong>ngày 10 tháng 10 (十月十日).</p>",
+      "content_text": "Buổi\nsáng\nngày 10 tháng 10 (十月十日).",
+      "image_url": "https://jpdictionary.com/upload/images/62983f84e0003.jpg",
+      "image_path": "assets/images/朝_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190625",
+      "lang": "vi",
+      "content_html": "<p>朝活(あさかつ): Hoạt động buổi sáng</p><p>早朝(そうちょう): Sáng sớm</p>",
+      "content_text": "朝活(あさかつ): Hoạt động buổi sáng\n早朝(そうちょう): Sáng sớm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "158384",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>朝 (あさ): buổi sáng<br>朝御飯 (あさごはん): bữa sáng<br>今朝 (けさ): sáng nay<br>毎朝 (まいあさ): mỗi sáng</p>",
+      "content_text": "JLPT N4\n朝 (あさ): buổi sáng\n朝御飯 (あさごはん): bữa sáng\n今朝 (けさ): sáng nay\n毎朝 (まいあさ): mỗi sáng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "154345",
+      "lang": "vi",
+      "content_html": "<p>10 giờ mặt trời lặn, 10 giờ mặt trăng lên</p>",
+      "content_text": "10 giờ mặt trời lặn, 10 giờ mặt trăng lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

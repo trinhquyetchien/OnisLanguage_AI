@@ -1,0 +1,50 @@
+{
+  "kanji": "砿",
+  "meta": {
+    "weight": 1874,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "あらがね"
+    ],
+    "am_han": "KHOÁNG"
+  },
+  "meaning": {
+    "vi": "quặng",
+    "en": "ore"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/砿.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2574",
+    "text": "砿 (đọc là \"kō\") có nghĩa là \"mỏ\" hoặc \"quặng\", chỉ các loại khoáng sản được khai thác từ lòng đất.\n\nVí dụ:\n- 鉱鉱 (kōkō): Mỏ khoáng sản.\n- 鉱石 (kōseki): Quặng.\n- 鉱業 (kōgyō): Ngành công nghiệp k"
+  },
+  "comments": [
+    {
+      "id": "220213",
+      "lang": "vi",
+      "content_html": "<p>Quặng</p>",
+      "content_text": "Quặng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

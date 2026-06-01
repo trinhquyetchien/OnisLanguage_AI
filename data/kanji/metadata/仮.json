@@ -1,0 +1,92 @@
+{
+  "kanji": "仮",
+  "meta": {
+    "weight": 146,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "ケ"
+    ],
+    "kun": [
+      "かり",
+      "かり-"
+    ],
+    "am_han": "PHẢN"
+  },
+  "meaning": {
+    "vi": "giả tạo, tạm thời, giả định (tên), không chính thức",
+    "en": "sham, temporary, interim, assumed (name), informal"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/仮.svg"
+  },
+  "frequency": 1039,
+  "examples": [
+    "仮に",
+    "仮",
+    "仮説",
+    "仮定",
+    "仮想"
+  ],
+  "explanation": {
+    "id": "606",
+    "text": "仮 (đọc là \"kara\" hoặc \"gi\") có nghĩa là \"giả\", \"tạm thời\" để chỉ những thứ không phải thật hay mang tính chất tạm bợ.  \nVí dụ:  \n- 仮設 (kasetsu): Lắp đặt tạm thời, công trình tạm.  \n- 仮面 (kam"
+  },
+  "comments": [
+    {
+      "id": "151556",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI làm PHẢN thì bị gọi là kẻ GIẢ nhân GIẢ nghĩa</p>",
+      "content_text": "NGƯỜI làm PHẢN thì bị gọi là kẻ GIẢ nhân GIẢ nghĩa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151557",
+      "lang": "vi",
+      "content_html": "<p>giả định bị người phản lại...</p>",
+      "content_text": "giả định bị người phản lại...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151558",
+      "lang": "vi",
+      "content_html": "<p>bị người khác phản lại chỉ là giả định thôi</p>",
+      "content_text": "bị người khác phản lại chỉ là giả định thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "kanji": "檀",
+  "meta": {
+    "weight": 1432,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダン",
+      "タン"
+    ],
+    "kun": [
+      "まゆみ"
+    ],
+    "am_han": "ĐÀN"
+  },
+  "meaning": {
+    "vi": "cây tuyết tùng, cây cát tường, cây trục chính",
+    "en": "cedar, sandlewood, spindle tree"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/檀.svg"
+  },
+  "frequency": 2291,
+  "examples": [
+    "檀家"
+  ],
+  "explanation": {
+    "id": "5181",
+    "text": "檀 (đọc là \"dan\") có nghĩa là \"gỗ đàn hương\", thường chỉ loại gỗ quý, thơm, dùng trong chế tác đồ nội thất hoặc làm trầm hương.  \nVí dụ:  \n- 檀香 (dankō): Trầm hương, hương từ gỗ đàn hương.  \n-"
+  },
+  "comments": [
+    {
+      "id": "154633",
+      "lang": "vi",
+      "content_html": "<p>cây bạch đàn</p>",
+      "content_text": "cây bạch đàn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

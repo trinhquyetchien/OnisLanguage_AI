@@ -1,0 +1,92 @@
+{
+  "kanji": "字",
+  "meta": {
+    "weight": 695,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ"
+    ],
+    "kun": [
+      "あざ",
+      "あざな",
+      "-な"
+    ],
+    "am_han": "TỰ"
+  },
+  "meaning": {
+    "vi": "ký tự, chữ",
+    "en": "character, letter, word, section of village"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/字.svg"
+  },
+  "frequency": 485,
+  "examples": [
+    "文字",
+    "数字",
+    "字",
+    "漢字",
+    "赤字"
+  ],
+  "explanation": {
+    "id": "3186",
+    "text": "字 (đọc là \"ji\") có nghĩa là \"chữ\", \"ký tự\" trong tiếng Nhật, chỉ các ký tự viết hoặc biểu tượng ngôn ngữ.  \nVí dụ:  \n- 漢字 (kanji): Chữ Hán, ký tự chữ Hán.  \n- 文字 (moji): Ký tự, văn tự.  \n- 字"
+  },
+  "comments": [
+    {
+      "id": "1004",
+      "lang": "vi",
+      "content_html": "<p>Đứa trẻ (子) học <strong>chữ </strong>ở trường.</p>",
+      "content_text": "Đứa trẻ (子) học\nchữ\nở trường.",
+      "image_url": "https://jpdictionary.com/upload/images/62a0a24099980.jpg",
+      "image_path": "assets/images/字_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152896",
+      "lang": "vi",
+      "content_html": "<p>dưới mái nhà đứa trẻ Tự học Chữ</p>",
+      "content_text": "dưới mái nhà đứa trẻ Tự học Chữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158555",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>字 (じ): chữ</p><p>漢字 (かんじ): chữ Hán</p><p>ローマ字 (ローマじ): chữ Romaji</p>",
+      "content_text": "JLPT N4\n字 (じ): chữ\n漢字 (かんじ): chữ Hán\nローマ字 (ローマじ): chữ Romaji",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

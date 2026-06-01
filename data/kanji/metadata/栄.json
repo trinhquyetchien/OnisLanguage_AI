@@ -1,0 +1,95 @@
+{
+  "kanji": "栄",
+  "meta": {
+    "weight": 1335,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エイ",
+      "ヨウ"
+    ],
+    "kun": [
+      "さか.える",
+      "は.え",
+      "-ば.え",
+      "は.える",
+      "え"
+    ],
+    "am_han": "VINH"
+  },
+  "meaning": {
+    "vi": "vinh quang, thịnh vượng",
+    "en": "flourish, prosperity, honor, glory, splendor"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/栄.svg"
+  },
+  "frequency": 920,
+  "examples": [
+    "栄養",
+    "繁栄",
+    "栄光",
+    "栄",
+    "光栄"
+  ],
+  "explanation": {
+    "id": "377",
+    "text": "栄 (đọc là \"ei\") có nghĩa là \"vinh quang\", \"phồn thịnh\", thường chỉ sự phát triển và thành công.  \nVí dụ:  \n- 栄光 (eikou): Vinh quang.  \n- 栄える (sakaeru): Phát triển, thịnh vượng.  \n- 繁栄 (han'e"
+  },
+  "comments": [
+    {
+      "id": "154477",
+      "lang": "vi",
+      "content_html": "<p>CÂY đc đội vương miệng nên cảm thấy rất VINH dự</p>",
+      "content_text": "CÂY đc đội vương miệng nên cảm thấy rất VINH dự",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154478",
+      "lang": "vi",
+      "content_html": "<p>Cây trùm ở trên vẫn phát 3 tia sáng thể hiện sự phồn vinh</p>",
+      "content_text": "Cây trùm ở trên vẫn phát 3 tia sáng thể hiện sự phồn vinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154479",
+      "lang": "vi",
+      "content_html": "<p>mộc mạc nhưng được đội vương miện nên rất vinh dự...</p>",
+      "content_text": "mộc mạc nhưng được đội vương miện nên rất vinh dự...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

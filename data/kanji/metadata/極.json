@@ -1,0 +1,97 @@
+{
+  "kanji": "極",
+  "meta": {
+    "weight": 1400,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョク",
+      "ゴク"
+    ],
+    "kun": [
+      "きわ.める",
+      "きわ.まる",
+      "きわ.まり",
+      "きわ.み",
+      "き.める",
+      "-ぎ.め",
+      "き.まる"
+    ],
+    "am_han": "CỰC"
+  },
+  "meaning": {
+    "vi": "cực, cùng cực",
+    "en": "poles, settlement, conclusion, end, highest rank, electric poles, very, extremely, most, highly, 10**48"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/極.svg"
+  },
+  "frequency": 460,
+  "examples": [
+    "積極",
+    "極めて",
+    "極端",
+    "究極",
+    "極"
+  ],
+  "explanation": {
+    "id": "1732",
+    "text": "極 (đọc là \"kyoku\") có nghĩa là \"cực điểm\", \"tột cùng\", chỉ trạng thái hoặc mức độ cao nhất của một cái gì đó. \n\nVí dụ:\n- 極端 (kyokutan): Cực đoan, quá mức.\n- 極限 (kyokugen): Giới hạn tối đa, c"
+  },
+  "comments": [
+    {
+      "id": "154580",
+      "lang": "vi",
+      "content_html": "<p>1bàn tay nuôi 5 cái miệng với một cái cây thì thật khổ cực</p>",
+      "content_text": "1bàn tay nuôi 5 cái miệng với một cái cây thì thật khổ cực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154581",
+      "lang": "vi",
+      "content_html": "<p>Một Cây Lại nuôi 5 Miệng thì rất cùng Cực.</p>",
+      "content_text": "Một Cây Lại nuôi 5 Miệng thì rất cùng Cực.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154582",
+      "lang": "vi",
+      "content_html": "<p>Nhìn ra 057 thì IQ vô CỰC</p>",
+      "content_text": "Nhìn ra 057 thì IQ vô CỰC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

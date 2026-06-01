@@ -1,0 +1,87 @@
+{
+  "kanji": "窟",
+  "meta": {
+    "weight": 1965,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "クツ",
+      "コツ"
+    ],
+    "kun": [
+      "いわや",
+      "いはや",
+      "あな"
+    ],
+    "am_han": "QUẬT"
+  },
+  "meaning": {
+    "vi": "hang đá",
+    "en": "cavern"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/窟.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1871",
+    "text": "窟 (đọc là \"kutsu\") có nghĩa là \"hang động\" hoặc \"ổ\" để chỉ một không gian kín, thường là nơi trú ẩn hoặc nơi sinh sống của động vật, hoặc một nơi bí mật.  \nVí dụ:  \n- 窟窿 (kurou): Hang động, "
+  },
+  "comments": [
+    {
+      "id": "220266",
+      "lang": "vi",
+      "content_html": "<p>đào lỗ bất khuất lắm mới khai QUẬT được cái hang</p>",
+      "content_text": "đào lỗ bất khuất lắm mới khai QUẬT được cái hang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220267",
+      "lang": "vi",
+      "content_html": "<p>Khai Quật được ở núi có cái cửa đi vào Huyệt của thây ma</p>",
+      "content_text": "Khai Quật được ở núi có cái cửa đi vào Huyệt của thây ma",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220268",
+      "lang": "vi",
+      "content_html": "<p>đào lỗ khai quật được cái hang có cánh cửa đi ra</p>",
+      "content_text": "đào lỗ khai quật được cái hang có cánh cửa đi ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

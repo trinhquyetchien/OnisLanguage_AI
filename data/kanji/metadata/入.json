@@ -1,0 +1,96 @@
+{
+  "kanji": "入",
+  "meta": {
+    "weight": 268,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ニュウ",
+      "ジュ"
+    ],
+    "kun": [
+      "い.る",
+      "-い.る",
+      "-い.り",
+      "い.れる",
+      "-い.れ",
+      "はい.る"
+    ],
+    "am_han": "NHẬP"
+  },
+  "meaning": {
+    "vi": "đi vào, nhập cảnh",
+    "en": "enter, insert"
+  },
+  "stroke": {
+    "count": 2,
+    "svg": "assets/svg/入.svg"
+  },
+  "frequency": 56,
+  "examples": [
+    "入れ",
+    "購入",
+    "入り",
+    "入る",
+    "導入"
+  ],
+  "explanation": {
+    "id": "6117",
+    "text": "入 (đọc là \"nyuu\" hoặc \"iru\") có nghĩa là \"nhập\", \"vào\" để chỉ hành động đi vào hoặc gia nhập một không gian, nhóm nào đó.  \nVí dụ:  \n- 入学 (nyuugaku): Nhập học, vào trường.  \n- 入る (hairu): Và"
+  },
+  "comments": [
+    {
+      "id": "610",
+      "lang": "vi",
+      "content_html": "<p>&nbsp;Một người đang chui <strong>vào </strong>lều.</p>",
+      "content_text": "Một người đang chui\nvào\nlều.",
+      "image_url": "https://jpdictionary.com/upload/images/62978768e9c33.jpg",
+      "image_path": "assets/images/入_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190895",
+      "lang": "vi",
+      "content_html": "<p>chui <strong>vào</strong></p>",
+      "content_text": "chui\nvào",
+      "image_url": "https://jpdictionary.com/upload/images/648a65566252c.jpg",
+      "image_path": "assets/images/入_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "151861",
+      "lang": "vi",
+      "content_html": "<p>ngược với chữ Nhân 人</p>",
+      "content_text": "ngược với chữ Nhân 人",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

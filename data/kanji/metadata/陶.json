@@ -1,0 +1,90 @@
+{
+  "kanji": "陶",
+  "meta": {
+    "weight": 2833,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "すえ"
+    ],
+    "am_han": "ĐÀO, GIAO"
+  },
+  "meaning": {
+    "vi": "gốm sứ",
+    "en": "pottery, porcelain"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/陶.svg"
+  },
+  "frequency": 1680,
+  "examples": [
+    "陶器",
+    "陶芸",
+    "陶",
+    "陶酔",
+    "陶磁器"
+  ],
+  "explanation": {
+    "id": "5888",
+    "text": "陶 (đọc là \"tou\") có nghĩa là \"gốm\" hoặc \"sành\", chỉ các sản phẩm làm từ đất sét hoặc gốm. \n\nVí dụ:\n- 陶器 (touki): Đồ gốm.\n- 陶芸 (tougei): Nghệ thuật gốm.\n- 陶磁器 (toujiki): Đồ sứ."
+  },
+  "comments": [
+    {
+      "id": "157708",
+      "lang": "vi",
+      "content_html": "<p>Sau bờ bao can làm gốm</p>",
+      "content_text": "Sau bờ bao can làm gốm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157709",
+      "lang": "vi",
+      "content_html": "<p>ĐÀO Đất cho vào Bao mang về nặn đồ Sành Sứ.</p>",
+      "content_text": "ĐÀO Đất cho vào Bao mang về nặn đồ Sành Sứ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157710",
+      "lang": "vi",
+      "content_html": "<p>Phụ. ( người  cha)  đào đất Bao quanh rồi bỏ vào cái Can mang về làm đồ gốm</p>",
+      "content_text": "Phụ. ( người  cha)  đào đất Bao quanh rồi bỏ vào cái Can mang về làm đồ gốm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

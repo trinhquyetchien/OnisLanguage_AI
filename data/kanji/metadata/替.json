@@ -1,0 +1,92 @@
+{
+  "kanji": "替",
+  "meta": {
+    "weight": 1265,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ"
+    ],
+    "kun": [
+      "か.える",
+      "か.え-",
+      "か.わる"
+    ],
+    "am_han": "THẾ"
+  },
+  "meaning": {
+    "vi": "thay thế",
+    "en": "exchange, spare, substitute, per-"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/替.svg"
+  },
+  "frequency": 979,
+  "examples": [
+    "為替",
+    "代替",
+    "替え",
+    "切り替え",
+    "着替え"
+  ],
+  "explanation": {
+    "id": "4956",
+    "text": "替 (đọc là \"tai\" hoặc \"kaeru\") có nghĩa là \"thay thế\", \"thay đổi\" để chỉ các hành động liên quan đến việc thay thế hoặc thay đổi một thứ gì đó.  \nVí dụ:  \n- 代替 (daitai): Thay thế, sự thay thế"
+  },
+  "comments": [
+    {
+      "id": "154317",
+      "lang": "vi",
+      "content_html": "<p>Mấy ông CHỒNG(夫) CÀ Ế RỦ(かえる) kiểu gì cũng có NGÀY(日) bị vợ bỏ thay THẾ(替)  ông khác.</p>",
+      "content_text": "Mấy ông CHỒNG(夫) CÀ Ế RỦ(かえる) kiểu gì cũng có NGÀY(日) bị vợ bỏ thay THẾ(替)  ông khác.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154318",
+      "lang": "vi",
+      "content_html": "<p>Thay THẾ 2 ông chồng (夫夫) trong 1 ngày (日) * dễ nhầm với TÁN (替)</p>",
+      "content_text": "Thay THẾ 2 ông chồng (夫夫) trong 1 ngày (日) * dễ nhầm với TÁN (替)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154319",
+      "lang": "vi",
+      "content_html": "<p>chữ thế là nhật dưới, chữ tán là bối dưới. rất nhiều bạn hay nhầm giống mình.</p>",
+      "content_text": "chữ thế là nhật dưới, chữ tán là bối dưới. rất nhiều bạn hay nhầm giống mình.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

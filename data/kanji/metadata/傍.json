@@ -1,0 +1,111 @@
+{
+  "kanji": "傍",
+  "meta": {
+    "weight": 231,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ"
+    ],
+    "kun": [
+      "かたわ.ら",
+      "わき",
+      "おか-",
+      "はた",
+      "そば"
+    ],
+    "am_han": "BÀNG, BẠNG"
+  },
+  "meaning": {
+    "vi": "người ngoài cuộc, bên cạnh, trong khi, ở gần, người thứ ba",
+    "en": "bystander, side, besides, while, nearby, third person"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/傍.svg"
+  },
+  "frequency": 1660,
+  "examples": [
+    "傍聴",
+    "傍",
+    "傍ら",
+    "傍観",
+    "傍点"
+  ],
+  "explanation": {
+    "id": "7247",
+    "text": "傍 (đọc là \"bō\") có nghĩa là \"bên cạnh\", \"gần gũi\" để chỉ vị trí hoặc sự hỗ trợ bên lề.  \nVí dụ:  \n- 傍観 (bōkan): Quan sát, đứng ngoài cuộc.  \n- 傍ら (katawara): Bên cạnh, gần kề.  \n- 傍聴 (bōchō)"
+  },
+  "comments": [
+    {
+      "id": "151768",
+      "lang": "vi",
+      "content_html": "<p>Đứng CẠNH Phương BÀNG hoàng không biết nói gì</p>",
+      "content_text": "Đứng CẠNH Phương BÀNG hoàng không biết nói gì",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151769",
+      "lang": "vi",
+      "content_html": "<p>Người đứng ngoảnh mặt (về 1 Phuong  khác) ko giúp người gặp nạn là bàng quan</p>",
+      "content_text": "Người đứng ngoảnh mặt (về 1 Phuong  khác) ko giúp người gặp nạn là bàng quan",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151770",
+      "lang": "vi",
+      "content_html": "<p>Tôi mãi đứng nhìn Phương ở BÀNG bên cạnh</p>",
+      "content_text": "Tôi mãi đứng nhìn Phương ở BÀNG bên cạnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221711",
+      "lang": "vi",
+      "content_html": "<p>Nhân biết khối Lâp Phương này làm từ cây Bàng của nhà Bên Cạnh</p>",
+      "content_text": "Nhân biết khối Lâp Phương này làm từ cây Bàng của nhà Bên Cạnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "2701",
+        "name": "Mo Mo",
+        "image_url": "https://jpdictionary.com/upload/images/651f56cbb3aa1.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "kanji": "玖",
+  "meta": {
+    "weight": 1734,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ",
+      "ク"
+    ],
+    "kun": [],
+    "am_han": "CỬU"
+  },
+  "meaning": {
+    "vi": "viên ngọc đen đẹp, chín",
+    "en": "beautiful black jewel, nine"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/玖.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "1820",
+    "text": "玖 (đọc là \"kyuu\") có nghĩa là \"chín\", thường dùng để chỉ số lượng, thứ tự. \n\nVí dụ:\n- 玖珠 (kyuushu): Ngọc chín màu.\n- 玖音 (kyuuon): Âm thanh chín.\n- 玖の字 (kyuu no ji): Chữ số chín."
+  },
+  "comments": [
+    {
+      "id": "220080",
+      "lang": "vi",
+      "content_html": "<p>đá cuội đen</p>",
+      "content_text": "đá cuội đen",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

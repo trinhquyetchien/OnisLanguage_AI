@@ -1,0 +1,68 @@
+{
+  "kanji": "哉",
+  "meta": {
+    "weight": 485,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ"
+    ],
+    "kun": [
+      "かな",
+      "や"
+    ],
+    "am_han": "TAI"
+  },
+  "meaning": {
+    "vi": "how, what, than ôi, dấu chấm hỏi, dấu chấm than",
+    "en": "how, what, alas, question mark, exclamation mark"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/哉.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2784",
+    "text": "哉 (đọc là \"zai\") có nghĩa là \"thật\" hoặc \"hay sao\", thường được dùng trong văn viết để nhấn mạnh hoặc biểu thị sự ngạc nhiên, cảm thán. \n\nVí dụ:\n- 哉 (zai): Thật vậy, hay sao.\n- 感嘆哉 (kantanza"
+  },
+  "comments": [
+    {
+      "id": "219116",
+      "lang": "vi",
+      "content_html": "<p>10 cái miệng vui vì TAI qua nạn khỏi</p>",
+      "content_text": "10 cái miệng vui vì TAI qua nạn khỏi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219117",
+      "lang": "vi",
+      "content_html": "<p>Cát ( sĩ + khẩu) ,không Qua khỏi mai mắn thì là Tai họa,( khổ trước sướng sau thế mới giàu)</p>",
+      "content_text": "Cát ( sĩ + khẩu) ,không Qua khỏi mai mắn thì là Tai họa,( khổ trước sướng sau thế mới giàu)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

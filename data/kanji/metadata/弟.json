@@ -1,0 +1,92 @@
+{
+  "kanji": "弟",
+  "meta": {
+    "weight": 899,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ",
+      "ダイ",
+      "デ"
+    ],
+    "kun": [
+      "おとうと"
+    ],
+    "am_han": "ĐỆ"
+  },
+  "meaning": {
+    "vi": "em trai",
+    "en": "younger brother, faithful service to elders"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/弟.svg"
+  },
+  "frequency": 1161,
+  "examples": [
+    "兄弟",
+    "弟",
+    "弟子",
+    "従兄弟",
+    "子弟"
+  ],
+  "explanation": {
+    "id": "5561",
+    "text": "弟 (đọc là \"tei\" hoặc \"ototo\") có nghĩa là \"em trai\", chỉ mối quan hệ gia đình giữa anh/chị và em trai.  \nVí dụ:  \n- 弟 (ototo): Em trai.  \n- 弟子 (deshi): Đệ tử, học trò.  \n- 兄弟 (kyoudai): Anh "
+  },
+  "comments": [
+    {
+      "id": "191010",
+      "lang": "vi",
+      "content_html": "<p><strong>em trai</strong></p>",
+      "content_text": "em trai",
+      "image_url": "https://jpdictionary.com/upload/images/648a8d7b8db67.jpg",
+      "image_path": "assets/images/弟_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "941",
+      "lang": "vi",
+      "content_html": "<p><strong>Em trai </strong>tôi chơi cung (弓).</p>",
+      "content_text": "Em trai\ntôi chơi cung (弓).",
+      "image_url": "https://jpdictionary.com/upload/images/6298c89d95d30.jpg",
+      "image_path": "assets/images/弟_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153398",
+      "lang": "vi",
+      "content_html": "<p>thằng e trai nghịch có sừng có đuôi cầm cung cầm gậy đi quậy phá</p>",
+      "content_text": "thằng e trai nghịch có sừng có đuôi cầm cung cầm gậy đi quậy phá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

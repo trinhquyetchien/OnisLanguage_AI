@@ -1,0 +1,108 @@
+{
+  "kanji": "消",
+  "meta": {
+    "weight": 1547,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "き.える",
+      "け.す"
+    ],
+    "am_han": "TIÊU"
+  },
+  "meaning": {
+    "vi": "tiêu hủy, tiêu diệt",
+    "en": "extinguish, blow out, turn off, neutralize, cancel"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/消.svg"
+  },
+  "frequency": 345,
+  "examples": [
+    "消費",
+    "解消",
+    "消化",
+    "消滅",
+    "消防"
+  ],
+  "explanation": {
+    "id": "3853",
+    "text": "消 (đọc là \"shou\" hoặc \"kesu\") có nghĩa là \"tiêu diệt\", \"xóa bỏ\" để chỉ các hành động liên quan đến việc làm mất đi, xóa sạch hoặc làm giảm thiểu.\n\nVí dụ:\n- 消火 (shouka): Dập lửa, chữa cháy.\n-"
+  },
+  "comments": [
+    {
+      "id": "37016",
+      "lang": "vi",
+      "content_html": "<p>Mặt trăng (月) <strong>biến mất</strong> trong làn nước.</p>",
+      "content_text": "Mặt trăng (月)\nbiến mất\ntrong làn nước.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc4fce544a7.jpg",
+      "image_path": "assets/images/消_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154920",
+      "lang": "vi",
+      "content_html": "<p>trăng nhỏ trong nước có thể bị tiêu biến</p>",
+      "content_text": "trăng nhỏ trong nước có thể bị tiêu biến",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154921",
+      "lang": "vi",
+      "content_html": "<p>dùng nước nhỏ 3 giọt vào mặt trăng, mặt trăng sẽ tiêu biến mất</p>",
+      "content_text": "dùng nước nhỏ 3 giọt vào mặt trăng, mặt trăng sẽ tiêu biến mất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154922",
+      "lang": "vi",
+      "content_html": "<p>Vào đêm trăng, chị Nguyệt dùng quả chuối tiêu làm j đó rồi ra nước ^_^</p>",
+      "content_text": "Vào đêm trăng, chị Nguyệt dùng quả chuối tiêu làm j đó rồi ra nước ^_^",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

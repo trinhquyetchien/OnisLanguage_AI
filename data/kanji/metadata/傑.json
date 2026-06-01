@@ -1,0 +1,89 @@
+{
+  "kanji": "傑",
+  "meta": {
+    "weight": 232,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケツ"
+    ],
+    "kun": [
+      "すぐ.れる"
+    ],
+    "am_han": "KIỆT"
+  },
+  "meaning": {
+    "vi": "sự vĩ đại, xuất sắc",
+    "en": "greatness, excellence"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/傑.svg"
+  },
+  "frequency": 1926,
+  "examples": [
+    "傑作",
+    "傑出",
+    "傑",
+    "豪傑"
+  ],
+  "explanation": {
+    "id": "2066",
+    "text": "傑 (đọc là \"ketsu\" hoặc \"ken\") có nghĩa là \"xuất sắc\", \"kiệt xuất\" để chỉ những người hoặc vật nổi bật, vượt trội trong lĩnh vực nào đó.\n\nVí dụ:\n- 傑出 (ketsushutsu): Xuất chúng, nổi bật.\n- 傑作 "
+  },
+  "comments": [
+    {
+      "id": "151771",
+      "lang": "vi",
+      "content_html": "<p>Người kiệt xuất đứng trên cây đến chiều tối cả năm</p>",
+      "content_text": "Người kiệt xuất đứng trên cây đến chiều tối cả năm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151772",
+      "lang": "vi",
+      "content_html": "<p>người đứng trên cây chiều cuối năm để làm nên kiệt tác</p>",
+      "content_text": "người đứng trên cây chiều cuối năm để làm nên kiệt tác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151773",
+      "lang": "vi",
+      "content_html": "<p>Bức tranh người trên cây vào buổi chiều cuối năm là 1 kiệt tác.</p>",
+      "content_text": "Bức tranh người trên cây vào buổi chiều cuối năm là 1 kiệt tác.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

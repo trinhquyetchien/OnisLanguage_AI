@@ -1,0 +1,92 @@
+{
+  "kanji": "或",
+  "meta": {
+    "weight": 1033,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ワク",
+      "コク",
+      "イキ"
+    ],
+    "kun": [
+      "あ.る",
+      "あるい",
+      "あるいは"
+    ],
+    "am_han": "HOẶC"
+  },
+  "meaning": {
+    "vi": "một số, một hoặc, có thể",
+    "en": "some, one, or, possibly, a certain"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/或.svg"
+  },
+  "frequency": 2378,
+  "examples": [
+    "或いは",
+    "或",
+    "或は"
+  ],
+  "explanation": {
+    "id": "81",
+    "text": "或 (đọc là \"waku\" hoặc \"aru\") có nghĩa là \"hoặc\", dùng để chỉ sự lựa chọn hoặc khả năng có nhiều phương án khác nhau. \n\nVí dụ:\n- 或いは (arui wa): Hoặc là, hoặc.\n- 或る (aru): Một cái nào đó, một "
+  },
+  "comments": [
+    {
+      "id": "153751",
+      "lang": "vi",
+      "content_html": "<p>Mồm chỉ nói Qua loa thì nội dung khá là nghi HOẶC</p>",
+      "content_text": "Mồm chỉ nói Qua loa thì nội dung khá là nghi HOẶC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153752",
+      "lang": "vi",
+      "content_html": "<p>Nói Hoặc 1 chém (QUA là loại vũ khí)</p>",
+      "content_text": "Nói Hoặc 1 chém (QUA là loại vũ khí)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153753",
+      "lang": "vi",
+      "content_html": "<p>Đã là giặc thì nói 1 lời cũng k tin.</p>",
+      "content_text": "Đã là giặc thì nói 1 lời cũng k tin.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

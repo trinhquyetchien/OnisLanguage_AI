@@ -1,0 +1,90 @@
+{
+  "kanji": "本",
+  "meta": {
+    "weight": 1280,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホン"
+    ],
+    "kun": [
+      "もと"
+    ],
+    "am_han": "BẢN"
+  },
+  "meaning": {
+    "vi": "cuốn sách, cơ bản",
+    "en": "book, present, main, origin, true, real, counter for long cylindrical things"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/本.svg"
+  },
+  "frequency": 10,
+  "examples": [
+    "日本",
+    "本",
+    "本当に",
+    "基本",
+    "日本人"
+  ],
+  "explanation": {
+    "id": "7359",
+    "text": "本 (đọc là \"hon\") có nghĩa là \"gốc\", \"cơ bản\" hoặc \"quyển sách\". Chữ này thường dùng để chỉ nguồn gốc, vật thể chính hoặc tài liệu.\n\nVí dụ:\n- 本 (hon): Quyển sách.\n- 本屋 (honya): Hiệu sách.\n- 本"
+  },
+  "comments": [
+    {
+      "id": "191065",
+      "lang": "vi",
+      "content_html": "<p><strong>gốc </strong>cây</p>",
+      "content_text": "gốc\ncây",
+      "image_url": "https://jpdictionary.com/upload/images/648a93a3c1b2a.jpg",
+      "image_path": "assets/images/本_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "491",
+      "lang": "vi",
+      "content_html": "<p>Đây là <strong>gốc </strong>của cái cây. Hãy đánh dấu 「一」</p>",
+      "content_text": "Đây là\ngốc\ncủa cái cây. Hãy đánh dấu 「一」",
+      "image_url": "https://jpdictionary.com/upload/images/6297645770c0b.jpg",
+      "image_path": "assets/images/本_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158218",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>本 (ほん): quyển sách</p><p>日本 (にほん): Nhật Bản</p>",
+      "content_text": "JLPT N5\n本 (ほん): quyển sách\n日本 (にほん): Nhật Bản",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

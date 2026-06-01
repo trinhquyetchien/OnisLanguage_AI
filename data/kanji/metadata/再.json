@@ -1,0 +1,91 @@
+{
+  "kanji": "再",
+  "meta": {
+    "weight": 282,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サイ",
+      "サ"
+    ],
+    "kun": [
+      "ふたた.び"
+    ],
+    "am_han": "TÁI"
+  },
+  "meaning": {
+    "vi": "một lần nữa, tái phát",
+    "en": "again, twice, second time"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/再.svg"
+  },
+  "frequency": 275,
+  "examples": [
+    "再",
+    "再び",
+    "再生",
+    "再開",
+    "再度"
+  ],
+  "explanation": {
+    "id": "2780",
+    "text": "再 (đọc là \"sai\" hoặc \"zai\") có nghĩa là \"làm lại\", \"tái\" để chỉ hành động lặp lại hoặc phục hồi một điều gì đó.\n\nVí dụ:\n- 再生 (saisei): Tái sinh, phục hồi.\n- 再評価 (saihyouka): Đánh giá lại.\n- "
+  },
+  "comments": [
+    {
+      "id": "151900",
+      "lang": "vi",
+      "content_html": "<p>Công việc của đồng yên là tái sử dụng</p>",
+      "content_text": "Công việc của đồng yên là tái sử dụng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151901",
+      "lang": "vi",
+      "content_html": "<p>Tái Tạo lại Công Viên (工円)</p>",
+      "content_text": "Tái Tạo lại Công Viên (工円)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151902",
+      "lang": "vi",
+      "content_html": "<p>Để Tái định cư, việc trước Nhất là bao quanh (冂 QUYNH) vùng đất (土 THỔ) .</p>",
+      "content_text": "Để Tái định cư, việc trước Nhất là bao quanh (冂 QUYNH) vùng đất (土 THỔ) .",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

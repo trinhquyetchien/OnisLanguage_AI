@@ -1,0 +1,108 @@
+{
+  "kanji": "失",
+  "meta": {
+    "weight": 628,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シツ"
+    ],
+    "kun": [
+      "うしな.う",
+      "う.せる"
+    ],
+    "am_han": "THẤT"
+  },
+  "meaning": {
+    "vi": "mất, thất bại",
+    "en": "lose, error, fault, disadvantage, loss"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/失.svg"
+  },
+  "frequency": 447,
+  "examples": [
+    "失敗",
+    "失礼",
+    "失業",
+    "損失",
+    "失う"
+  ],
+  "explanation": {
+    "id": "3269",
+    "text": "失 (đọc là \"shitsu\" hoặc \"ushinau\") có nghĩa là \"mất\", \"thất bại\", thường chỉ sự mất mát hoặc không thành công trong một việc gì đó.  \nVí dụ:  \n- 失敗 (shippai): Thất bại.  \n- 失う (ushinau): Mất"
+  },
+  "comments": [
+    {
+      "id": "37286",
+      "lang": "vi",
+      "content_html": "<p>Chồng (夫) tôi đang khóc vì <strong>mất </strong>việc .</p>",
+      "content_text": "Chồng (夫) tôi đang khóc vì\nmất\nviệc .",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdf9bd6bf2.jpg",
+      "image_path": "assets/images/失_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152743",
+      "lang": "vi",
+      "content_html": "<p>ông chồng mọc sừng là thất bại</p>",
+      "content_text": "ông chồng mọc sừng là thất bại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152744",
+      "lang": "vi",
+      "content_html": "<p>1 người CHỒNG  thất bại</p>",
+      "content_text": "1 người CHỒNG  thất bại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152745",
+      "lang": "vi",
+      "content_html": "<p>Chồng nằm dài là đại thất bại</p>",
+      "content_text": "Chồng nằm dài là đại thất bại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

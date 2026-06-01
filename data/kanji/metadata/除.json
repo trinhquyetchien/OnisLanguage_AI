@@ -1,0 +1,126 @@
+{
+  "kanji": "除",
+  "meta": {
+    "weight": 2827,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジョ",
+      "ジ"
+    ],
+    "kun": [
+      "のぞ.く",
+      "-よ.け"
+    ],
+    "am_han": "TRỪ"
+  },
+  "meaning": {
+    "vi": "loại trừ",
+    "en": "exclude, division (x/3), remove, abolish, cancel, except"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/除.svg"
+  },
+  "frequency": 594,
+  "examples": [
+    "削除",
+    "掃除",
+    "排除",
+    "解除",
+    "除く"
+  ],
+  "explanation": {
+    "id": "3740",
+    "text": "除 (đọc là \"jo\" hoặc \"shuku\") có nghĩa là \"loại bỏ\", \"xóa bỏ\" để chỉ các hành động liên quan đến việc loại trừ hoặc xóa bỏ cái gì đó.\n\nVí dụ:\n- 除去 (jokyo): Sự loại bỏ, xóa bỏ.\n- 除湿 (joshitsu)"
+  },
+  "comments": [
+    {
+      "id": "157690",
+      "lang": "vi",
+      "content_html": "<p>2 thằng nhỏ đội nón đi vào tường thành thì được miễn trừ chi phí</p>",
+      "content_text": "2 thằng nhỏ đội nón đi vào tường thành thì được miễn trừ chi phí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190674",
+      "lang": "vi",
+      "content_html": "<p>đi Phụ mà Dư thì loại Trừ ra</p>",
+      "content_text": "đi Phụ mà Dư thì loại Trừ ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157691",
+      "lang": "vi",
+      "content_html": "<p>Bồ dư thì phải bài trừ</p>",
+      "content_text": "Bồ dư thì phải bài trừ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221812",
+      "lang": "vi",
+      "content_html": "<p>Bên trái là <strong>Phụ</strong>, chữ cổ đấy là tượng hình của cái <strong>Thang</strong>. Bộ bên trái là <strong>Dư</strong>, ở đây mang nghĩa là <strong>Tôi </strong>(ý chỉ người).<br>Người leo bậc thang, từ bậc thấp lên bậc cao, ý là bỏ cái cũ và tiến đến cái mới =&gt; <strong>Trừ </strong>(xóa bỏ, loại bỏ, làm mới)</p>",
+      "content_text": "Bên trái là\nPhụ\n, chữ cổ đấy là tượng hình của cái\nThang\n. Bộ bên trái là\nDư\n, ở đây mang nghĩa là\nTôi\n(ý chỉ người).\nNgười leo bậc thang, từ bậc thấp lên bậc cao, ý là bỏ cái cũ và tiến đến cái mới =>\nTrừ\n(xóa bỏ, loại bỏ, làm mới)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "4890",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6778e91b9bcae.jpg"
+      }
+    },
+    {
+      "id": "157692",
+      "lang": "vi",
+      "content_html": "<p>2 chú tiểu đội nón được miễn TRỪ  phụ phí</p>",
+      "content_text": "2 chú tiểu đội nón được miễn TRỪ  phụ phí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

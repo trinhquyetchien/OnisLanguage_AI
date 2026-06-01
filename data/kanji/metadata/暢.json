@@ -1,0 +1,87 @@
+{
+  "kanji": "暢",
+  "meta": {
+    "weight": 1249,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "のび.る"
+    ],
+    "am_han": "SƯỚNG"
+  },
+  "meaning": {
+    "vi": "kéo dài",
+    "en": "stretch"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/暢.svg"
+  },
+  "frequency": 2144,
+  "examples": [
+    "流暢",
+    "暢気"
+  ],
+  "explanation": {
+    "id": "5364",
+    "text": "暢 (đọc là \"chō\") có nghĩa là \"thông suốt\", \"trôi chảy\", chỉ sự lưu thông hoặc diễn đạt mạch lạc.  \nVí dụ:  \n- 暢気 (nōki): Thoải mái, dễ chịu.  \n- 暢談 (chōdan): Nói chuyện thoải mái, trò chuyện"
+  },
+  "comments": [
+    {
+      "id": "154277",
+      "lang": "vi",
+      "content_html": "<p>chơi Thân với anh Dương thì rất sướng.</p>",
+      "content_text": "chơi Thân với anh Dương thì rất sướng.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154279",
+      "lang": "vi",
+      "content_html": "<p>THÂN DƯƠNG v... càng to chơi càng SƯỚNG :v</p>",
+      "content_text": "THÂN DƯƠNG v... càng to chơi càng SƯỚNG :v",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154278",
+      "lang": "vi",
+      "content_html": "<p>Được mặt trời soi sáng thân mình là sung sướng rồi</p>",
+      "content_text": "Được mặt trời soi sáng thân mình là sung sướng rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

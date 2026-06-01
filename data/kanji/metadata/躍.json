@@ -1,0 +1,90 @@
+{
+  "kanji": "躍",
+  "meta": {
+    "weight": 2602,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヤク"
+    ],
+    "kun": [
+      "おど.る"
+    ],
+    "am_han": "DƯỢC"
+  },
+  "meaning": {
+    "vi": "nhảy, bỏ qua",
+    "en": "leap, dance, skip"
+  },
+  "stroke": {
+    "count": 21,
+    "svg": "assets/svg/躍.svg"
+  },
+  "frequency": 900,
+  "examples": [
+    "活躍",
+    "飛躍",
+    "躍進",
+    "一躍",
+    "躍動"
+  ],
+  "explanation": {
+    "id": "7703",
+    "text": "躍 (đọc là \"yaku\") có nghĩa là \"nhảy\", \"vươn lên\", thể hiện sự chuyển động hoặc phát triển mạnh mẽ.  \nVí dụ:  \n- 躍進 (yakushin): Tiến bộ, phát triển nhanh chóng.  \n- 躍動 (yakudō): Sự sống động,"
+  },
+  "comments": [
+    {
+      "id": "157197",
+      "lang": "vi",
+      "content_html": "<p>em Diệu có Chân trong ngành Dược, mừng nhảy cả người lên</p>",
+      "content_text": "em Diệu có Chân trong ngành Dược, mừng nhảy cả người lên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157198",
+      "lang": "vi",
+      "content_html": "<p>mấy con chim chân vừa nhảy nhót miệng vừa hót yo yo!</p>",
+      "content_text": "mấy con chim chân vừa nhảy nhót miệng vừa hót yo yo!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157199",
+      "lang": "vi",
+      "content_html": "<p>Chân của 33 con chim kia là thần DƯỢC</p>",
+      "content_text": "Chân của 33 con chim kia là thần DƯỢC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

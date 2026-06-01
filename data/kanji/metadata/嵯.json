@@ -1,0 +1,68 @@
+{
+  "kanji": "嵯",
+  "meta": {
+    "weight": 809,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サ",
+      "シ"
+    ],
+    "kun": [],
+    "am_han": "THA"
+  },
+  "meaning": {
+    "vi": "dốc, cheo leo, gồ ghề",
+    "en": "steep, craggy, rugged"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/嵯.svg"
+  },
+  "frequency": 2191,
+  "examples": [
+    "嵯峨"
+  ],
+  "explanation": {
+    "id": "2736",
+    "text": "嵯 (đọc là \"sa\") có nghĩa là \"đỉnh núi\" hoặc chỉ những nơi cao và hiểm trở. \n\nVí dụ:\n- 嵯峨 (Saga): Là tên một khu vực ở Kyoto, nổi tiếng với cảnh đẹp núi non.\n- 嵯峨野 (Saganoyama): Khu vực núi S"
+  },
+  "comments": [
+    {
+      "id": "153181",
+      "lang": "vi",
+      "content_html": "<p>THA thứ cho việc làm SAI trái ở trên NÚI</p>",
+      "content_text": "THA thứ cho việc làm SAI trái ở trên NÚI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153182",
+      "lang": "vi",
+      "content_html": "<p>Công công tha con cừu lên núi cao chót vót</p>",
+      "content_text": "Công công tha con cừu lên núi cao chót vót",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

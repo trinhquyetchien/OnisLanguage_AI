@@ -1,0 +1,91 @@
+{
+  "kanji": "秋",
+  "meta": {
+    "weight": 1925,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "あき",
+      "とき"
+    ],
+    "am_han": "THU"
+  },
+  "meaning": {
+    "vi": "mùa thu",
+    "en": "autumn"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/秋.svg"
+  },
+  "frequency": 635,
+  "examples": [
+    "秋",
+    "秋田",
+    "春秋",
+    "今秋",
+    "千秋"
+  ],
+  "explanation": {
+    "id": "3496",
+    "text": "秋 (đọc là \"aki\") có nghĩa là \"mùa thu\". Chữ này thể hiện sự chuyển mình của thiên nhiên và các hoạt động liên quan đến mùa thu.  \nVí dụ:  \n- 秋祭り (aki matsuri): Lễ hội mùa thu.  \n- 秋刀魚 (sanma"
+  },
+  "comments": [
+    {
+      "id": "710",
+      "lang": "vi",
+      "content_html": "<p>Vào mùa <strong>Thu</strong> (秋), người ta dùng (火) để đốt rơm.</p>",
+      "content_text": "Vào mùa\nThu\n(秋), người ta dùng (火) để đốt rơm.",
+      "image_url": "https://jpdictionary.com/upload/images/62983ee77bef3.jpg",
+      "image_path": "assets/images/秋_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158723",
+      "lang": "vi",
+      "content_html": "<p>秋分(しゅうぶん ): Thu Phân</p><p>立秋 (りっしゅう ): Lập thu</p><p>初秋(しょしゅう): đầu thu<br><br><br><br>&nbsp;<br>&nbsp;</p>",
+      "content_text": "秋分(しゅうぶん ): Thu Phân\n立秋 (りっしゅう ): Lập thu\n初秋(しょしゅう): đầu thu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "158581",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>秋 (あき): mùa thu</p>",
+      "content_text": "JLPT N4\n秋 (あき): mùa thu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

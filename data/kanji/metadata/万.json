@@ -1,0 +1,74 @@
+{
+  "kanji": "万",
+  "meta": {
+    "weight": 74,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マン",
+      "バン"
+    ],
+    "kun": [
+      "よろず"
+    ],
+    "am_han": "VẠN"
+  },
+  "meaning": {
+    "vi": "vạn (10.000)",
+    "en": "ten thousand, 10,000"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/万.svg"
+  },
+  "frequency": 375,
+  "examples": [
+    "万",
+    "万博",
+    "万全",
+    "万が一",
+    "万一"
+  ],
+  "explanation": {
+    "id": "7451",
+    "text": "万 (đọc là \"man\" hoặc \"ban\") có nghĩa là \"mười nghìn\", \"vô số\", chỉ sự lớn lao hoặc số lượng nhiều. \n\nVí dụ:\n- 万里 (banri): Vạn lý, khoảng cách xa.\n- 万能 (bannō): Vạn năng, có khả năng làm mọi "
+  },
+  "comments": [
+    {
+      "id": "465",
+      "lang": "vi",
+      "content_html": "<p>Số <strong>10.000</strong> là số có 5 chữ số.</p>",
+      "content_text": "Số\n10.000\nlà số có 5 chữ số.",
+      "image_url": "https://jpdictionary.com/upload/images/6297619b7147c.jpg",
+      "image_path": "assets/images/万_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158447",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>万 (まん): vạn<br>万年筆 (まんねんひつ): bút máy</p>",
+      "content_text": "JLPT N5\n万 (まん): vạn\n万年筆 (まんねんひつ): bút máy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "勅",
+  "meta": {
+    "weight": 355,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョク"
+    ],
+    "kun": [
+      "いまし.める",
+      "みことのり"
+    ],
+    "am_han": "SẮC"
+  },
+  "meaning": {
+    "vi": "mệnh lệnh hoàng gia",
+    "en": "imperial order"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/勅.svg"
+  },
+  "frequency": 2157,
+  "examples": [
+    "勅",
+    "勅語"
+  ],
+  "explanation": {
+    "id": "5414",
+    "text": "勅 (đọc là \"choku\") có nghĩa là \"sắc lệnh\" hoặc \"mệnh lệnh\", thường chỉ các chỉ thị chính thức từ nhà vua hoặc chính quyền.  \nVí dụ:  \n- 勅令 (chokurei): Sắc lệnh, mệnh lệnh chính thức.  \n- 勅使 "
+  },
+  "comments": [
+    {
+      "id": "152091",
+      "lang": "vi",
+      "content_html": "<p>Ra SẮC lệnh Thúc đẩy Lực lượng</p>",
+      "content_text": "Ra SẮC lệnh Thúc đẩy Lực lượng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152092",
+      "lang": "vi",
+      "content_html": "<p>Thúc đẩy Lực lượng là Sắc lệnh</p>",
+      "content_text": "Thúc đẩy Lực lượng là Sắc lệnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152093",
+      "lang": "vi",
+      "content_html": "<p>SẮC LỆNH là những quy định BÓ BUỘC để tạo nên QUYỀN LỰC.</p>",
+      "content_text": "SẮC LỆNH là những quy định BÓ BUỘC để tạo nên QUYỀN LỰC.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

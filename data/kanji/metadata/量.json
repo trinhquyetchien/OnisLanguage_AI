@@ -1,0 +1,90 @@
+{
+  "kanji": "量",
+  "meta": {
+    "weight": 2737,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [
+      "はか.る"
+    ],
+    "am_han": "LƯỢNG"
+  },
+  "meaning": {
+    "vi": "số lượng, trọng lượng",
+    "en": "quantity, measure, weight, amount, consider, estimate, surmise"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/量.svg"
+  },
+  "frequency": 469,
+  "examples": [
+    "量",
+    "大量",
+    "容量",
+    "計量",
+    "重量"
+  ],
+  "explanation": {
+    "id": "8141",
+    "text": "量 (đọc là \"ryō\") có nghĩa là \"lượng\", \"cân đo\" để chỉ các khía cạnh liên quan đến số lượng hoặc kích thước.  \nVí dụ:  \n- 量る (hakaru): Cân, đo.  \n- 量子 (ryōshi): Hạt lượng tử.  \n- 量販店 (ryōhant"
+  },
+  "comments": [
+    {
+      "id": "157518",
+      "lang": "vi",
+      "content_html": "<p>Khối lượng làm việc 1 ngày ngoài ruộng đất</p>",
+      "content_text": "Khối lượng làm việc 1 ngày ngoài ruộng đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157519",
+      "lang": "vi",
+      "content_html": "<p>Số Lượng bài Vật Lý làm trong một ngày.</p>",
+      "content_text": "Số Lượng bài Vật Lý làm trong một ngày.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157520",
+      "lang": "vi",
+      "content_html": "<p>Một ngày phải xử lí một số lượng công việc nhất định</p>",
+      "content_text": "Một ngày phải xử lí một số lượng công việc nhất định",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

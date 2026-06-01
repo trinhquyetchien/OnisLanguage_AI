@@ -1,0 +1,107 @@
+{
+  "kanji": "抗",
+  "meta": {
+    "weight": 1060,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "あらが.う"
+    ],
+    "am_han": "KHÁNG"
+  },
+  "meaning": {
+    "vi": "đối đầu, chống lại, thách thức, chống đối",
+    "en": "confront, resist, defy, oppose"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/抗.svg"
+  },
+  "frequency": 666,
+  "examples": [
+    "抵抗",
+    "抗議",
+    "対抗",
+    "抗",
+    "反抗"
+  ],
+  "explanation": {
+    "id": "2453",
+    "text": "抗 (đọc là \"kō\") có nghĩa là \"kháng cự\", \"chống lại\" để chỉ các hành động liên quan đến việc chống đối, phản kháng hoặc kháng lại điều gì đó.\n\nVí dụ:\n- 抗議 (kōgi): Kháng nghị, phản đối.\n- 抗体 ("
+  },
+  "comments": [
+    {
+      "id": "153820",
+      "lang": "vi",
+      "content_html": "<p>Tay không chân đất đầu đội mũ kháng chiến thời xưa</p>",
+      "content_text": "Tay không chân đất đầu đội mũ kháng chiến thời xưa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158189",
+      "lang": "vi",
+      "content_html": "<p>cách nhớ âm kun : ĂN RỒI GÀO -あらがう</p>",
+      "content_text": "cách nhớ âm kun : ĂN RỒI GÀO -あらがう",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "173",
+        "name": "Vinh Trường Nguyễn",
+        "image_url": "https://jpdictionary.com/upload/images/62f9fc079ec88.png"
+      }
+    },
+    {
+      "id": "153821",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm Ghế giơ lên Đầu xung phong Kháng chiến</p>",
+      "content_text": "Tay cầm Ghế giơ lên Đầu xung phong Kháng chiến",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153822",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm Ghế chọi thẳng vào Đầu đứa nào phản Kháng</p>",
+      "content_text": "Tay cầm Ghế chọi thẳng vào Đầu đứa nào phản Kháng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "kanji": "過",
+  "meta": {
+    "weight": 2676,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "す.ぎる",
+      "す.ごす",
+      "あやま.ち",
+      "あやま.つ",
+      "よぎ.る",
+      "よ.ぎる"
+    ],
+    "am_han": "QUA, QUÁ"
+  },
+  "meaning": {
+    "vi": "quá độ, quá khứ",
+    "en": "overdo, exceed, go beyond, error"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/過.svg"
+  },
+  "frequency": 285,
+  "examples": [
+    "過去",
+    "過ぎ",
+    "過程",
+    "経過",
+    "過ぎる"
+  ],
+  "explanation": {
+    "id": "707",
+    "text": "過 (đọc là \"ka\" hoặc \"sugiru\") có nghĩa là \"quá\", \"vượt quá\" để chỉ các hành động vượt qua giới hạn hoặc thời gian.  \nVí dụ:  \n- 過去 (kako): Quá khứ.  \n- 過ぎる (sugiru): Vượt qua, đi qua.  \n- 過失"
+  },
+  "comments": [
+    {
+      "id": "37276",
+      "lang": "vi",
+      "content_html": "<p>Hãy đi <strong>qua </strong>toà nhà lớn ở con đường kia.</p>",
+      "content_text": "Hãy đi\nqua\ntoà nhà lớn ở con đường kia.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfdc5135501.jpg",
+      "image_path": "assets/images/過_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157375",
+      "lang": "vi",
+      "content_html": "<p>Đi qua nhà người yêu cũ</p>",
+      "content_text": "Đi qua nhà người yêu cũ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157376",
+      "lang": "vi",
+      "content_html": "<p>Vượt quá qua nhà 2 tầng</p>",
+      "content_text": "Vượt quá qua nhà 2 tầng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157377",
+      "lang": "vi",
+      "content_html": "<p>đi Quá nhà người yêu cũ</p>",
+      "content_text": "đi Quá nhà người yêu cũ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

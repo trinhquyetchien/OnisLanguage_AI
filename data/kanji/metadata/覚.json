@@ -1,0 +1,110 @@
+{
+  "kanji": "覚",
+  "meta": {
+    "weight": 2445,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク"
+    ],
+    "kun": [
+      "おぼ.える",
+      "さ.ます",
+      "さ.める",
+      "さと.る"
+    ],
+    "am_han": "GIÁC"
+  },
+  "meaning": {
+    "vi": "ghi nhớ",
+    "en": "memorize, learn, remember, awake, sober up"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/覚.svg"
+  },
+  "frequency": 710,
+  "examples": [
+    "覚え",
+    "感覚",
+    "自覚",
+    "覚悟",
+    "視覚"
+  ],
+  "explanation": {
+    "id": "916",
+    "text": "覚 (đọc là \"kaku\") có nghĩa là \"nhớ\", \"nhận ra\" để chỉ các hành động liên quan đến việc nhớ lại hoặc nhận thức.\n\nVí dụ:\n- 覚える (oboeru): Nhớ, ghi nhớ.\n- 自覚 (jikaku): Nhận thức bản thân.\n- 覚醒 ("
+  },
+  "comments": [
+    {
+      "id": "37058",
+      "lang": "vi",
+      "content_html": "<p><strong>Nhớ </strong>những điều đã thấy (見) ở trường.</p>",
+      "content_text": "Nhớ\nnhững điều đã thấy (見) ở trường.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb0bcb170f.jpg",
+      "image_path": "assets/images/覚_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156804",
+      "lang": "vi",
+      "content_html": "<p>Ở Trường học Nhìn bằng thị Giác</p>",
+      "content_text": "Ở Trường học Nhìn bằng thị Giác",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156805",
+      "lang": "vi",
+      "content_html": "<p>Nhìn về mái trường ta bất Giác nhớ về những kỉ niệm.</p>",
+      "content_text": "Nhìn về mái trường ta bất Giác nhớ về những kỉ niệm.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156806",
+      "lang": "vi",
+      "content_html": "<p>cảm giác khi nhìn vương miện</p>",
+      "content_text": "cảm giác khi nhìn vương miện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

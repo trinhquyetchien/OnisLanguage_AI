@@ -1,0 +1,86 @@
+{
+  "kanji": "扉",
+  "meta": {
+    "weight": 1044,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "とびら"
+    ],
+    "am_han": "PHI"
+  },
+  "meaning": {
+    "vi": "cửa trước, trang tiêu đề, trang đầu",
+    "en": "front door, title page, front page"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/扉.svg"
+  },
+  "frequency": 1866,
+  "examples": [
+    "扉"
+  ],
+  "explanation": {
+    "id": "6547",
+    "text": "扉 (đọc là \"tobira\") có nghĩa là \"cánh cửa\" hoặc \"cửa ra vào\", chỉ các loại cửa, thường là cửa lớn hoặc đặc biệt.  \nVí dụ:  \n- 扉 (tobira): Cánh cửa, cửa chính.  \n- 開扉 (kaibi): Mở cửa.  \n- 扉絵 "
+  },
+  "comments": [
+    {
+      "id": "153778",
+      "lang": "vi",
+      "content_html": "<p>Người PHI ( 非 ) thường mở CÁNH CỬA ( 扉</p>",
+      "content_text": "Người PHI ( 非 ) thường mở CÁNH CỬA ( 扉",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153779",
+      "lang": "vi",
+      "content_html": "<p>Cánh cửa 戸 phi 非 thường đặc biệt</p>",
+      "content_text": "Cánh cửa 戸 phi 非 thường đặc biệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153780",
+      "lang": "vi",
+      "content_html": "<p>Vội vàng phi ra khỏi cánh cửa!</p>",
+      "content_text": "Vội vàng phi ra khỏi cánh cửa!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

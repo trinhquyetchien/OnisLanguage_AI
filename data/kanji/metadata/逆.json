@@ -1,0 +1,93 @@
+{
+  "kanji": "逆",
+  "meta": {
+    "weight": 2651,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギャク",
+      "ゲキ"
+    ],
+    "kun": [
+      "さか",
+      "さか.さ",
+      "さか.らう"
+    ],
+    "am_han": "NGHỊCH"
+  },
+  "meaning": {
+    "vi": "ngược, phản nghịch",
+    "en": "inverted, reverse, opposite, wicked"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/逆.svg"
+  },
+  "frequency": 683,
+  "examples": [
+    "逆",
+    "逆に",
+    "逆転",
+    "逆行",
+    "逆説"
+  ],
+  "explanation": {
+    "id": "1494",
+    "text": "逆 (đọc là \"gyaku\" hoặc \"saku\") có nghĩa là \"ngược lại\", \"đảo ngược\" để chỉ các trạng thái hoặc hành động trái ngược, đối lập.\n\nVí dụ:\n- 逆転 (gyakuten): Lật ngược tình thế, thay đổi hoàn toàn."
+  },
+  "comments": [
+    {
+      "id": "157312",
+      "lang": "vi",
+      "content_html": "<p>Tưởng tượng tí, có phải giống người cắm đầu xuống chổng hai chân lên trời chạy k. Vậy thì trái với tự nhiên nên NGHỊCH là đúng rồi</p>",
+      "content_text": "Tưởng tượng tí, có phải giống người cắm đầu xuống chổng hai chân lên trời chạy k. Vậy thì trái với tự nhiên nên NGHỊCH là đúng rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157313",
+      "lang": "vi",
+      "content_html": "<p>Đứa trẻ mầm non 屮 đang chạy 辶 thật là nghịch</p>",
+      "content_text": "Đứa trẻ mầm non 屮 đang chạy 辶 thật là nghịch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157314",
+      "lang": "vi",
+      "content_html": "<p>Mầm non mọc trên đường là nghịch</p>",
+      "content_text": "Mầm non mọc trên đường là nghịch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

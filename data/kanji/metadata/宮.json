@@ -1,0 +1,93 @@
+{
+  "kanji": "宮",
+  "meta": {
+    "weight": 725,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ",
+      "グウ",
+      "ク",
+      "クウ"
+    ],
+    "kun": [
+      "みや"
+    ],
+    "am_han": "CUNG"
+  },
+  "meaning": {
+    "vi": "Đền thờ thần đạo, các chòm sao, cung điện, công chúa",
+    "en": "Shinto shrine, constellations, palace, princess"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/宮.svg"
+  },
+  "frequency": 367,
+  "examples": [
+    "宮崎",
+    "宮",
+    "宮城",
+    "宮殿",
+    "子宮"
+  ],
+  "explanation": {
+    "id": "1515",
+    "text": "宮 (đọc là \"kyū\" hoặc \"miya\") có nghĩa là \"cung điện\", \"ngôi đền\" hoặc \"nhà thờ\" để chỉ các công trình tôn nghiêm hoặc nơi ở của hoàng gia.  \nVí dụ:  \n- 宮殿 (kyūden): Cung điện.  \n- 神宮 (jingū)"
+  },
+  "comments": [
+    {
+      "id": "152965",
+      "lang": "vi",
+      "content_html": "<p>nhà của lữ bố là cái cung</p>",
+      "content_text": "nhà của lữ bố là cái cung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152966",
+      "lang": "vi",
+      "content_html": "<p>Cung của vua có bồn tắm lớn</p>",
+      "content_text": "Cung của vua có bồn tắm lớn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152967",
+      "lang": "vi",
+      "content_html": "<p>trong một mái nhà  ó hai gian gọi là miếu thờ</p>",
+      "content_text": "trong một mái nhà  ó hai gian gọi là miếu thờ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

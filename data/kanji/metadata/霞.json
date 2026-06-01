@@ -1,0 +1,91 @@
+{
+  "kanji": "霞",
+  "meta": {
+    "weight": 2875,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "ゲ"
+    ],
+    "kun": [
+      "かすみ",
+      "かす.む"
+    ],
+    "am_han": "HÀ"
+  },
+  "meaning": {
+    "vi": "mờ",
+    "en": "be hazy, grow dim, blurred"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/霞.svg"
+  },
+  "frequency": 1603,
+  "examples": [
+    "霞",
+    "霞ヶ関",
+    "霞が関",
+    "朝霞"
+  ],
+  "explanation": {
+    "id": "710",
+    "text": "霞 (đọc là \"ka\") có nghĩa là \"sương mù\", \"hơi sương\" để chỉ hiện tượng không khí có độ ẩm cao, tạo ra một lớp sương mờ ảo.  \nVí dụ:  \n- 霞む (kasumu): Mờ đi, bị sương mù che phủ.  \n- 霞ヶ関 (Kasum"
+  },
+  "comments": [
+    {
+      "id": "157822",
+      "lang": "vi",
+      "content_html": "<p>Con Zombie (chữ Thi ⼫ với 2 nét<br>ngang biểu thị cho cánh tay dơ lên như trong film Cương Thi).<br>Tay nó cầm lon kocakola (chữ ko コ trong katakana). Nó nhìn<br>lên trời tưởng mưa, nhưng thực tế lại chính là sương mù và mây<br>mù (vì zombie ko nhận thức dc như con n</p>",
+      "content_text": "Con Zombie (chữ Thi ⼫ với 2 nét\nngang biểu thị cho cánh tay dơ lên như trong film Cương Thi).\nTay nó cầm lon kocakola (chữ ko コ trong katakana). Nó nhìn\nlên trời tưởng mưa, nhưng thực tế lại chính là sương mù và mây\nmù (vì zombie ko nhận thức dc như con n",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157823",
+      "lang": "vi",
+      "content_html": "<p>Rảnh rỗi nhàn hạ đi dưới trời đầy mây và sương.</p>",
+      "content_text": "Rảnh rỗi nhàn hạ đi dưới trời đầy mây và sương.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157824",
+      "lang": "vi",
+      "content_html": "<p>HAI(二) CÔ(コ) THI(尸) đi dưới trời MƯA(雨) LẠI(又) tưởng là SƯƠNG MÙ(霞)</p>",
+      "content_text": "HAI(二) CÔ(コ) THI(尸) đi dưới trời MƯA(雨) LẠI(又) tưởng là SƯƠNG MÙ(霞)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

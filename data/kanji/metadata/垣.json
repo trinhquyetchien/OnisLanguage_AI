@@ -1,0 +1,90 @@
+{
+  "kanji": "垣",
+  "meta": {
+    "weight": 559,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン"
+    ],
+    "kun": [
+      "かき"
+    ],
+    "am_han": "VIÊN"
+  },
+  "meaning": {
+    "vi": "hàng rào, tường",
+    "en": "hedge, fence, wall"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/垣.svg"
+  },
+  "frequency": 1539,
+  "examples": [
+    "石垣",
+    "垣根",
+    "垣",
+    "垣間見る",
+    "大垣"
+  ],
+  "explanation": {
+    "id": "876",
+    "text": "垣 (đọc là \"kaki\") có nghĩa là \"hàng rào\", chỉ các cấu trúc bao quanh để bảo vệ hoặc phân chia không gian.  \nVí dụ:  \n- 垣根 (kakine): Hàng rào, bức tường cây.  \n- 垣間見 (kaimake): Nhìn trộm qua "
+  },
+  "comments": [
+    {
+      "id": "152582",
+      "lang": "vi",
+      "content_html": "<p>Đắp đất 2 ngày ra khuôn viên hàng rào</p>",
+      "content_text": "Đắp đất 2 ngày ra khuôn viên hàng rào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152583",
+      "lang": "vi",
+      "content_html": "<p>đắp 1001 Viên đất mới ra cái hàng rào</p>",
+      "content_text": "đắp 1001 Viên đất mới ra cái hàng rào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152584",
+      "lang": "vi",
+      "content_html": "<p>bãi đất 土 này được tuyên 亘 bố làm những Viên 垣 gạch để xây hàng rào.</p>",
+      "content_text": "bãi đất 土 này được tuyên 亘 bố làm những Viên 垣 gạch để xây hàng rào.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

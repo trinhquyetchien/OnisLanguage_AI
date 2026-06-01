@@ -1,0 +1,103 @@
+{
+  "kanji": "央",
+  "meta": {
+    "weight": 627,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オウ"
+    ],
+    "kun": [],
+    "am_han": "ƯƠNG"
+  },
+  "meaning": {
+    "vi": "giữa, trung ương",
+    "en": "center, middle"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/央.svg"
+  },
+  "frequency": 582,
+  "examples": [
+    "中央",
+    "中央アジア",
+    "央"
+  ],
+  "explanation": {
+    "id": "512",
+    "text": "央 (đọc là \"ō\") có nghĩa là \"trung tâm\", \"giữa\". Ví dụ:  \n- 中央 (chūō): Trung ương, trung tâm.  \n- 央点 (ōten): Điểm giữa, trung điểm.  \n- 央流 (ōryū): Dòng chảy trung tâm."
+  },
+  "comments": [
+    {
+      "id": "912",
+      "lang": "vi",
+      "content_html": "<p>Siêu anh hùng ở <strong>trung tâm </strong>câu chuyện.</p>",
+      "content_text": "Siêu anh hùng ở\ntrung tâm\ncâu chuyện.",
+      "image_url": "https://jpdictionary.com/upload/images/6298b390b0b9c.jpg",
+      "image_path": "assets/images/央_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152740",
+      "lang": "vi",
+      "content_html": "<p>trung ƯƠNG là cơ quan cỡ ĐẠI</p>",
+      "content_text": "trung ƯƠNG là cơ quan cỡ ĐẠI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152742",
+      "lang": "vi",
+      "content_html": "<p>Mồm to là người rất ương ngạnh</p>",
+      "content_text": "Mồm to là người rất ương ngạnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152741",
+      "lang": "vi",
+      "content_html": "<p>Trong(trung) người(nhân) dỡ dỡ, ương ương</p>",
+      "content_text": "Trong(trung) người(nhân) dỡ dỡ, ương ương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

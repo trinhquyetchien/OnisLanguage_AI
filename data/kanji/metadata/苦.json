@@ -1,0 +1,95 @@
+{
+  "kanji": "苦",
+  "meta": {
+    "weight": 2268,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ク"
+    ],
+    "kun": [
+      "くる.しい",
+      "-ぐる.しい",
+      "くる.しむ",
+      "くる.しめる",
+      "にが.い",
+      "にが.る"
+    ],
+    "am_han": "KHỔ"
+  },
+  "meaning": {
+    "vi": "đau khổ",
+    "en": "suffering, trial, worry, hardship, feel bitter, scowl"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/苦.svg"
+  },
+  "frequency": 623,
+  "examples": [
+    "苦労",
+    "苦手",
+    "苦笑",
+    "苦しみ",
+    "苦しい"
+  ],
+  "explanation": {
+    "id": "1826",
+    "text": "苦 (đọc là \"ku\") có nghĩa là \"khổ\", \"đau khổ\" để chỉ những cảm giác tiêu cực hoặc trạng thái khó chịu.  \nVí dụ:  \n- 苦しい (kurushii): Đau đớn, khổ sở.  \n- 苦痛 (kutsuu): Nỗi đau, sự đau khổ.  \n- "
+  },
+  "comments": [
+    {
+      "id": "37032",
+      "lang": "vi",
+      "content_html": "<p>Nếu ăn cỏ cũ (古) sẽ bị <strong>đau </strong>bụng.</p>",
+      "content_text": "Nếu ăn cỏ cũ (古) sẽ bị\nđau\nbụng.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc51c478fe3.jpg",
+      "image_path": "assets/images/苦_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156493",
+      "lang": "vi",
+      "content_html": "<p>Già CỔ lỗ sĩ rồi mà phải nằm ở bãi cỏ ngủ thì KHỔ lắm</p>",
+      "content_text": "Già CỔ lỗ sĩ rồi mà phải nằm ở bãi cỏ ngủ thì KHỔ lắm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191173",
+      "lang": "vi",
+      "content_html": "<p><strong>đắng </strong>- 苦い (にがい)</p><p><strong>khổ </strong>sở - 苦しい (くるしい)</p>",
+      "content_text": "đắng\n- 苦い (にがい)\nkhổ\nsở - 苦しい (くるしい)",
+      "image_url": "https://jpdictionary.com/upload/images/648ad45b55531.jpg",
+      "image_path": "assets/images/苦_3.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

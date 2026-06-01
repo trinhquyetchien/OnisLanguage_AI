@@ -1,0 +1,83 @@
+{
+  "kanji": "賦",
+  "meta": {
+    "weight": 2574,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ",
+      "ブ"
+    ],
+    "kun": [],
+    "am_han": "PHÚ"
+  },
+  "meaning": {
+    "vi": "thu, ode, văn xuôi, thơ, tưởng nhớ, cài đặt",
+    "en": "levy, ode, prose, poem, tribute, installment"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/賦.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6849",
+    "text": "賦 (đọc là \"fu\") có nghĩa là \"thơ ca\", \"bài thơ\" để chỉ các tác phẩm văn học, đặc biệt là thể loại thơ phú truyền thống.  \nVí dụ:  \n- 賦活 (fukatsu): Sự hồi sinh, phục hồi.  \n- 賦詩 (fushi): Viết"
+  },
+  "comments": [
+    {
+      "id": "220763",
+      "lang": "vi",
+      "content_html": "<p>tỉ phú giải quyết vũ lực bằng tiền</p>",
+      "content_text": "tỉ phú giải quyết vũ lực bằng tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220764",
+      "lang": "vi",
+      "content_html": "<p>Tỉ PHÚ Chỉ cần nộp THUẾ cho Giặc bằng Tiền là xong</p>",
+      "content_text": "Tỉ PHÚ Chỉ cần nộp THUẾ cho Giặc bằng Tiền là xong",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220765",
+      "lang": "vi",
+      "content_html": "<p>Làm tỉ Phú nhờ tiền bán vũ khí</p>",
+      "content_text": "Làm tỉ Phú nhờ tiền bán vũ khí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

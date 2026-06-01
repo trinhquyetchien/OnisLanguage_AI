@@ -1,0 +1,90 @@
+{
+  "kanji": "岡",
+  "meta": {
+    "weight": 789,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "おか"
+    ],
+    "am_han": "CƯƠNG"
+  },
+  "meaning": {
+    "vi": "Mount, hill, knoll",
+    "en": "mount, hill, knoll"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/岡.svg"
+  },
+  "frequency": 463,
+  "examples": [
+    "福岡",
+    "静岡",
+    "岡山",
+    "岡",
+    "盛岡"
+  ],
+  "explanation": {
+    "id": "552",
+    "text": "岡 (đọc là \"oka\") có nghĩa là \"đồi\" hoặc \"gò\" để chỉ các vùng đất cao, thường nhô lên trong cảnh quan.  \nVí dụ:  \n- 岡山 (Okayama): Tên một tỉnh ở Nhật Bản.  \n- 岡 (oka): Đồi, gò.  \n- 高岡 (Takaok"
+  },
+  "comments": [
+    {
+      "id": "153137",
+      "lang": "vi",
+      "content_html": "<p>khu vực  xung quanh ngọn NÚI có CỎ mọc đầy người ta gọi là CƯƠNG</p>",
+      "content_text": "khu vực  xung quanh ngọn NÚI có CỎ mọc đầy người ta gọi là CƯƠNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153138",
+      "lang": "vi",
+      "content_html": "<p>khu vực biên cương này là những sườn núi dc bao bọc bởi 21 ngọn núi</p>",
+      "content_text": "khu vực biên cương này là những sườn núi dc bao bọc bởi 21 ngọn núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153139",
+      "lang": "vi",
+      "content_html": "<p>Ở biên CƯƠNG xung quanh(QUYNH) ngọn núi (SƠN) có cỏ mọc nhiều.</p>",
+      "content_text": "Ở biên CƯƠNG xung quanh(QUYNH) ngọn núi (SƠN) có cỏ mọc nhiều.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

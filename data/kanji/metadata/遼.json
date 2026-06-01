@@ -1,0 +1,50 @@
+{
+  "kanji": "遼",
+  "meta": {
+    "weight": 2692,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リョウ"
+    ],
+    "kun": [],
+    "am_han": "LIÊU"
+  },
+  "meaning": {
+    "vi": "xa xôi",
+    "en": "distant"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/遼.svg"
+  },
+  "frequency": 2050,
+  "examples": [
+    "遼"
+  ],
+  "explanation": {
+    "id": "8138",
+    "text": "遼 (đọc là \"ryō\") có nghĩa là \"xa xôi\", \"khoảng cách lớn\" để chỉ sự rộng lớn hoặc xa vời về thời gian và không gian. \n\nVí dụ:\n- 遼遠 (ryōen): Xa xôi, khoảng cách lớn.\n- 遼河 (Ryōgawa): Tên gọi củ"
+  },
+  "comments": [
+    {
+      "id": "157414",
+      "lang": "vi",
+      "content_html": "<p>Từ bé đến lớn ngày ngày đi trên con đường của truyền thuyết LIÊU trai</p>",
+      "content_text": "Từ bé đến lớn ngày ngày đi trên con đường của truyền thuyết LIÊU trai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "kanji": "緯",
+  "meta": {
+    "weight": 2103,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "よこいと",
+      "ぬき"
+    ],
+    "am_han": "VĨ"
+  },
+  "meaning": {
+    "vi": "ngang, gâu gâu, trái & phải, (song song) vĩ độ, dự đoán",
+    "en": "horizontal, woof, left & right, (parallels of) latitude, prediction"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/緯.svg"
+  },
+  "frequency": 1430,
+  "examples": [
+    "経緯",
+    "緯度",
+    "北緯"
+  ],
+  "explanation": {
+    "id": "170",
+    "text": "緯 (đọc là \"i\") có nghĩa là \"chỉ\" hoặc \"dệt\" để chỉ các yếu tố liên quan đến cấu trúc hoặc tổ chức, đặc biệt trong lĩnh vực dệt may.\n\nVí dụ:\n- 緯度 (ido): Vĩ độ, chỉ vị trí địa lý theo chiều ng"
+  },
+  "comments": [
+    {
+      "id": "156116",
+      "lang": "vi",
+      "content_html": "<p>Sợi Dây tinh Vi nhất là Vĩ tuyến</p>",
+      "content_text": "Sợi Dây tinh Vi nhất là Vĩ tuyến",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156117",
+      "lang": "vi",
+      "content_html": "<p>Có bộ NHÂN là VĨ ĐẠI, có bộ MỊCH là VĨ TUYẾN</p>",
+      "content_text": "Có bộ NHÂN là VĨ ĐẠI, có bộ MỊCH là VĨ TUYẾN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156118",
+      "lang": "vi",
+      "content_html": "<p>Vi dài như sợi dây là vĩ tuyến</p>",
+      "content_text": "Vi dài như sợi dây là vĩ tuyến",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "宇",
+  "meta": {
+    "weight": 705,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ウ"
+    ],
+    "kun": [],
+    "am_han": "VŨ"
+  },
+  "meaning": {
+    "vi": "vũ trụ",
+    "en": "eaves, roof, house, heaven"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/宇.svg"
+  },
+  "frequency": 883,
+  "examples": [
+    "宇宙",
+    "宇宙船",
+    "宇",
+    "宇都宮",
+    "小宇宙"
+  ],
+  "explanation": {
+    "id": "285",
+    "text": "宇 (đọc là \"u\") có nghĩa là \"vũ trụ\", \"không gian\" để chỉ những điều liên quan đến không gian rộng lớn và vũ trụ.\n\nVí dụ:\n- 宇宙 (uchuu): Vũ trụ.\n- 宇宙人 (uchuu-jin): Người ngoài hành tinh.\n- 宇宙船"
+  },
+  "comments": [
+    {
+      "id": "152922",
+      "lang": "vi",
+      "content_html": "<p>Chữ VŨ gần giống chữ TỰ. Vũ trụ hán tự</p>",
+      "content_text": "Chữ VŨ gần giống chữ TỰ. Vũ trụ hán tự",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152923",
+      "lang": "vi",
+      "content_html": "<p>tượng hình: chiếc máy bay từ nhà bay vào vũ trụ</p>",
+      "content_text": "tượng hình: chiếc máy bay từ nhà bay vào vũ trụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152924",
+      "lang": "vi",
+      "content_html": "<p>Mái nhà khô cằn không có nước chính là vũ trụ</p>",
+      "content_text": "Mái nhà khô cằn không có nước chính là vũ trụ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

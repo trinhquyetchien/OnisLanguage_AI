@@ -1,0 +1,88 @@
+{
+  "kanji": "癌",
+  "meta": {
+    "weight": 1814,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガン"
+    ],
+    "kun": [],
+    "am_han": "NHAM"
+  },
+  "meaning": {
+    "vi": "ung thư, ung thư quái ác",
+    "en": "cancer, cancerous evil"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/癌.svg"
+  },
+  "frequency": 2233,
+  "examples": [
+    "癌",
+    "乳癌",
+    "肺癌",
+    "抗癌剤",
+    "癌腫"
+  ],
+  "explanation": {
+    "id": "1216",
+    "text": "癌 (đọc là \"gan\") có nghĩa là \"ung thư\", liên quan đến bệnh lý và tình trạng sức khỏe nghiêm trọng.  \nVí dụ:  \n- 癌症 (ganshō): Bệnh ung thư.  \n- 肺癌 (haigan): Ung thư phổi.  \n- 胃癌 (i gan): Ung "
+  },
+  "comments": [
+    {
+      "id": "155482",
+      "lang": "vi",
+      "content_html": "<p>NHAM nghĩa là bệnh ung thư, dấu hiệu của căn bệnh(NẠCH) là trong cơ thể, nổi tầm 3 cục vuông vuông xếp theo chữ PHẨM, lại to như NÚI</p>",
+      "content_text": "NHAM nghĩa là bệnh ung thư, dấu hiệu của căn bệnh(NẠCH) là trong cơ thể, nổi tầm 3 cục vuông vuông xếp theo chữ PHẨM, lại to như NÚI",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155483",
+      "lang": "vi",
+      "content_html": "<p>Viêt Nam người mắc BỆNH ung thư nhiều như HÀNG HOÁ chất trên NÚI NHAM thạch</p>",
+      "content_text": "Viêt Nam người mắc BỆNH ung thư nhiều như HÀNG HOÁ chất trên NÚI NHAM thạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155484",
+      "lang": "vi",
+      "content_html": "<p>nếu ăn phải những thực PHẨM nhiễm NHAM thạch của NÚI lửa thì sẽ mắc BỆNH UNG THƯ</p>",
+      "content_text": "nếu ăn phải những thực PHẨM nhiễm NHAM thạch của NÚI lửa thì sẽ mắc BỆNH UNG THƯ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

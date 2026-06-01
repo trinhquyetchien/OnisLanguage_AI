@@ -1,0 +1,93 @@
+{
+  "kanji": "家",
+  "meta": {
+    "weight": 730,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ",
+      "ケ"
+    ],
+    "kun": [
+      "いえ",
+      "や",
+      "うち"
+    ],
+    "am_han": "GIA"
+  },
+  "meaning": {
+    "vi": "nhà, gia đình",
+    "en": "house, home, family, professional, expert, performer"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/家.svg"
+  },
+  "frequency": 133,
+  "examples": [
+    "家",
+    "家族",
+    "国家",
+    "家庭",
+    "作家"
+  ],
+  "explanation": {
+    "id": "636",
+    "text": "家 (đọc là \"ie\" hoặc \"ka\") có nghĩa là \"nhà\", \"gia đình\" để chỉ nơi ở hoặc tổ ấm của con người, cũng như khái niệm về gia đình.\n\nVí dụ:\n- 家族 (kazoku): Gia đình.\n- 家庭 (katei): Gia đình, hộ gia"
+  },
+  "comments": [
+    {
+      "id": "190980",
+      "lang": "vi",
+      "content_html": "<p><strong>nhà</strong></p>",
+      "content_text": "nhà",
+      "image_url": "https://jpdictionary.com/upload/images/648a7e89d866e.jpg",
+      "image_path": "assets/images/家_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "929",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa mọi người nuôi heo ở trong <strong>nhà</strong>.</p>",
+      "content_text": "Ngày xưa mọi người nuôi heo ở trong\nnhà\n.",
+      "image_url": "https://jpdictionary.com/upload/images/6298c69e673c2.jpg",
+      "image_path": "assets/images/家_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152981",
+      "lang": "vi",
+      "content_html": "<p>Tân Gia 家 trong Nhà 宀 chỉ đãi mỗi con Lợn 豕 quay.</p>",
+      "content_text": "Tân Gia 家 trong Nhà 宀 chỉ đãi mỗi con Lợn 豕 quay.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "kanji": "鯉",
+  "meta": {
+    "weight": 2980,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リ"
+    ],
+    "kun": [
+      "こい"
+    ],
+    "am_han": "LÍ"
+  },
+  "meaning": {
+    "vi": "cá chép",
+    "en": "carp"
+  },
+  "stroke": {
+    "count": 18,
+    "svg": "assets/svg/鯉.svg"
+  },
+  "frequency": 2369,
+  "examples": [
+    "鯉",
+    "鯉のぼり"
+  ],
+  "explanation": {
+    "id": "2367",
+    "text": "鯉 (đọc là \"koi\") có nghĩa là \"cá chép\", thường liên kết với biểu tượng sức mạnh, sự kiên nhẫn và tình yêu trong văn hóa Nhật Bản. \n\nVí dụ:\n- 鯉のぼり (koinobori): Cờ cá chép, treo lên vào Ngày t"
+  },
+  "comments": [
+    {
+      "id": "158046",
+      "lang": "vi",
+      "content_html": "<p>Lí do cá chép</p>",
+      "content_text": "Lí do cá chép",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158047",
+      "lang": "vi",
+      "content_html": "<p>錦鯉： cá chep hay bơi ở suối</p>",
+      "content_text": "錦鯉： cá chep hay bơi ở suối",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158048",
+      "lang": "vi",
+      "content_html": "<p>Cá có ở khắp ruộng đất của nhật là cá chép koi</p>",
+      "content_text": "Cá có ở khắp ruộng đất của nhật là cá chép koi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

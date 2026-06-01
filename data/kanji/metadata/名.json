@@ -1,0 +1,92 @@
+{
+  "kanji": "名",
+  "meta": {
+    "weight": 453,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "メイ",
+      "ミョウ"
+    ],
+    "kun": [
+      "な",
+      "-な"
+    ],
+    "am_han": "DANH"
+  },
+  "meaning": {
+    "vi": "tên, địa danh",
+    "en": "name, noted, distinguished, reputation"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/名.svg"
+  },
+  "frequency": 177,
+  "examples": [
+    "名",
+    "名前",
+    "有名",
+    "名無し",
+    "名古屋"
+  ],
+  "explanation": {
+    "id": "7544",
+    "text": "名 (đọc là \"mei\" hoặc \"na\") có nghĩa là \"tên\", \"danh tính\" để chỉ các khái niệm liên quan đến danh xưng, tên gọi của một người, vật hay địa điểm.  \nVí dụ:  \n- 名前 (namae): Tên.  \n- 名刺 (meishi)"
+  },
+  "comments": [
+    {
+      "id": "669",
+      "lang": "vi",
+      "content_html": "<p><strong>Tên </strong>của con chó là Taro 「タロ」.</p>",
+      "content_text": "Tên\ncủa con chó là Taro 「タロ」.",
+      "image_url": "https://jpdictionary.com/upload/images/62983013a7d99.jpg",
+      "image_path": "assets/images/名_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190929",
+      "lang": "vi",
+      "content_html": "<p><strong>tên</strong></p>",
+      "content_text": "tên",
+      "image_url": "https://jpdictionary.com/upload/images/648a7121f07e4.jpg",
+      "image_path": "assets/images/名_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158429",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>名前 (なまえ): tên<br>有名 (ゆうめい): nổi tiếng</p>",
+      "content_text": "JLPT N5\n名前 (なまえ): tên\n有名 (ゆうめい): nổi tiếng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

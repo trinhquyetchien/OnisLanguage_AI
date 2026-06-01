@@ -1,0 +1,89 @@
+{
+  "kanji": "鴻",
+  "meta": {
+    "weight": 3005,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ゴウ"
+    ],
+    "kun": [
+      "おおとり",
+      "ひしくい",
+      "おおがり"
+    ],
+    "am_han": "HỒNG"
+  },
+  "meaning": {
+    "vi": "chim lớn, ngỗng hoang dã, lớn, vĩ đại, mạnh mẽ, thịnh vượng",
+    "en": "large bird, wild goose, large, great, powerful, prosperous"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/鴻.svg"
+  },
+  "frequency": 2111,
+  "examples": [
+    "鴻"
+  ],
+  "explanation": {
+    "id": "2595",
+    "text": "鴻 (đọc là \"kō\") có nghĩa là \"chim hồng\" hoặc biểu trưng cho sự lớn lao, vĩ đại. Trong tiếng Nhật, nó thường liên quan đến những điều to lớn và oai nghiêm.\n\nVí dụ:\n- 鴻毛 (kōmō): Lông chim hồng"
+  },
+  "comments": [
+    {
+      "id": "158067",
+      "lang": "vi",
+      "content_html": "<p>Chim công vỗ cánh nước tung toé là chim Hồng hạc</p>",
+      "content_text": "Chim công vỗ cánh nước tung toé là chim Hồng hạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158068",
+      "lang": "vi",
+      "content_html": "<p>hồng hoang ,hồng mao</p>",
+      "content_text": "hồng hoang ,hồng mao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158069",
+      "lang": "vi",
+      "content_html": "<p>Ở sông trường giang có chim HỒNG hạc</p>",
+      "content_text": "Ở sông trường giang có chim HỒNG hạc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

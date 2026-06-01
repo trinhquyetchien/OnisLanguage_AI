@@ -1,6 +1,8 @@
 # Environment
 .env
 .venv/
+.runtime-venv/
+.yt-dlp-venv/
 __pycache__/
 
 # macOS
@@ -25,6 +27,12 @@ merged_data/
 whisper-tiny-ja-best/
 common-voice/
 model-transcribe-v1/
+data/logs/
+data/uploads/
+data/models/chat/
+data/models/paddleocr/
+data/models/translation/
+data/models/whisper/
 
 # Specific files
 api_key.docx

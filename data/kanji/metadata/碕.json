@@ -1,0 +1,34 @@
+{
+  "kanji": "碕",
+  "meta": {
+    "weight": 1885,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "さき",
+      "さい",
+      "みさき"
+    ],
+    "am_han": "KÌ, KỲ"
+  },
+  "meaning": {
+    "vi": "mũi đất, mỏm đất",
+    "en": "cape, spit, promontory"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/碕.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2880",
+    "text": "碕 (đọc là \"ki\") có nghĩa là \"mũi đất\", chỉ những vùng đất nhô ra biển hoặc các điểm nhô ra. \n\nVí dụ:\n- 碕の岬 (ki no misaki): Mũi đất Ki.\n- 碕水 (kisu): Nước ở mũi đất, thường dùng trong tên địa "
+  },
+  "comments": []
+}

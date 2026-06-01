@@ -1,0 +1,87 @@
+{
+  "kanji": "卯",
+  "meta": {
+    "weight": 399,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボウ",
+      "モウ"
+    ],
+    "kun": [
+      "う"
+    ],
+    "am_han": "MÃO"
+  },
+  "meaning": {
+    "vi": "dấu hiệu của thỏ hoặc thỏ, dấu hiệu thứ tư của hoàng đạo Trung Quốc, 5-7 giờ sáng, hướng đông",
+    "en": "sign of the hare or rabbit, fourth sign of Chinese zodiac, 5-7AM, east"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/卯.svg"
+  },
+  "frequency": 2400,
+  "examples": [
+    "卯"
+  ],
+  "explanation": {
+    "id": "300",
+    "text": "卯 (đọc là \"mō\") có nghĩa là \"thỏ\", đồng thời cũng chỉ một trong 12 chi trong hệ thống hoàng đạo, liên quan đến năm và tháng trong văn hóa Nhật Bản.\nVí dụ:\n- 卯年 (mōnen): Năm Thỏ.\n- 卯月 (Uzuki)"
+  },
+  "comments": [
+    {
+      "id": "152192",
+      "lang": "vi",
+      "content_html": "<p>thằng MÃO 卯 có MẸO lấy lòng đỏ của quả trứng 卵</p>",
+      "content_text": "thằng MÃO 卯 có MẸO lấy lòng đỏ của quả trứng 卵",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152193",
+      "lang": "vi",
+      "content_html": "<p>Có Mẹo dùng Tre sửa cây Đao bị Cong.</p>",
+      "content_text": "Có Mẹo dùng Tre sửa cây Đao bị Cong.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152194",
+      "lang": "vi",
+      "content_html": "<p>90 mẹo</p>",
+      "content_text": "90 mẹo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

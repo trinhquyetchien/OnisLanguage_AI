@@ -1,0 +1,90 @@
+{
+  "kanji": "憤",
+  "meta": {
+    "weight": 1018,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フン"
+    ],
+    "kun": [
+      "いきどお.る"
+    ],
+    "am_han": "PHẪN, PHẤN"
+  },
+  "meaning": {
+    "vi": "kích động, phẫn nộ, tức giận",
+    "en": "aroused, resent, be indignant, anger"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/憤.svg"
+  },
+  "frequency": 1863,
+  "examples": [
+    "憤り",
+    "憤慨",
+    "鬱憤",
+    "憤怒",
+    "憤激"
+  ],
+  "explanation": {
+    "id": "6955",
+    "text": "憤 (đọc là \"fun\") có nghĩa là \"phẫn nộ\", chỉ sự tức giận hay cảm giác không hài lòng sâu sắc về một điều gì đó.  \nVí dụ:  \n- 憤慨 (fungai): Phẫn uất, phẫn nộ.  \n- 憤怒 (fundo): Cơn giận dữ.  \n- 憤"
+  },
+  "comments": [
+    {
+      "id": "153712",
+      "lang": "vi",
+      "content_html": "<p>Con tim phẩn uất vì mất tiền mua 10 bông hoa</p>",
+      "content_text": "Con tim phẩn uất vì mất tiền mua 10 bông hoa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153713",
+      "lang": "vi",
+      "content_html": "<p>Tâm(忄) phẫn uất (憤) vì mất tiền (貝) cho 10 (十）ngọn cỏ (艹)</p>",
+      "content_text": "Tâm(忄) phẫn uất (憤) vì mất tiền (貝) cho 10 (十）ngọn cỏ (艹)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153714",
+      "lang": "vi",
+      "content_html": "<p>Nhớ này dễ hơn nè :v<br>Tim phẫn uất vì có 10 bông cỏ cũng mất tiền</p>",
+      "content_text": "Nhớ này dễ hơn nè :v\nTim phẫn uất vì có 10 bông cỏ cũng mất tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

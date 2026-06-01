@@ -1,0 +1,65 @@
+{
+  "kanji": "麟",
+  "meta": {
+    "weight": 3019,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "リン"
+    ],
+    "kun": [],
+    "am_han": "LÂN"
+  },
+  "meaning": {
+    "vi": "Kỳ lân Trung Quốc, thiên tài, hươu cao cổ, sáng, tỏa sáng",
+    "en": "Chinese unicorn, genius, giraffe, bright, shining"
+  },
+  "stroke": {
+    "count": 24,
+    "svg": "assets/svg/麟.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8185",
+    "text": "麟 (đọc là \"rin\") có nghĩa là \"lân\", một sinh vật huyền thoại trong văn hóa Á Đông, thường được coi là điềm lành. \n\nVí dụ:\n- 麒麟 (kirin): Kỳ lân, sinh vật huyền bí biểu tượng cho sự tốt lành.\n"
+  },
+  "comments": [
+    {
+      "id": "221134",
+      "lang": "vi",
+      "content_html": "<p>kì lân , kỳ lân</p>",
+      "content_text": "kì lân , kỳ lân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "221135",
+      "lang": "vi",
+      "content_html": "<p>Dưới mái hiên cắm sừng múa LÂN xin gạo buổi tối quanh năm</p>",
+      "content_text": "Dưới mái hiên cắm sừng múa LÂN xin gạo buổi tối quanh năm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

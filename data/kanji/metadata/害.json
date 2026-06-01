@@ -1,0 +1,88 @@
+{
+  "kanji": "害",
+  "meta": {
+    "weight": 727,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガイ"
+    ],
+    "kun": [],
+    "am_han": "HẠI"
+  },
+  "meaning": {
+    "vi": "có hại, tổn hại",
+    "en": "harm, injury"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/害.svg"
+  },
+  "frequency": 358,
+  "examples": [
+    "障害",
+    "被害",
+    "災害",
+    "侵害",
+    "損害"
+  ],
+  "explanation": {
+    "id": "834",
+    "text": "害 (đọc là \"gai\") có nghĩa là \"gây hại\", \"tổn thương\" để chỉ các hành động hoặc tình huống gây thiệt hại hoặc tác động xấu đến người khác hoặc môi trường.\n\nVí dụ:\n- 害虫 (gaichū): Côn trùng gây"
+  },
+  "comments": [
+    {
+      "id": "152971",
+      "lang": "vi",
+      "content_html": "<p>Nhà 3 miệng ăn hại</p>",
+      "content_text": "Nhà 3 miệng ăn hại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152972",
+      "lang": "vi",
+      "content_html": "<p>Dưới mái nhà 宀 ông vua 王 nói 口 sẽ lấy lại công bằng cho người bị Hại</p>",
+      "content_text": "Dưới mái nhà 宀 ông vua 王 nói 口 sẽ lấy lại công bằng cho người bị Hại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152973",
+      "lang": "vi",
+      "content_html": "<p>Hại (害) chết Ba (三) người trong Nhà (宀), anh còn muốn Nói (口) gì nữa !?</p>",
+      "content_text": "Hại (害) chết Ba (三) người trong Nhà (宀), anh còn muốn Nói (口) gì nữa !?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

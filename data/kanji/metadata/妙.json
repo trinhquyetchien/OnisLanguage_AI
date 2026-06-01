@@ -1,0 +1,91 @@
+{
+  "kanji": "妙",
+  "meta": {
+    "weight": 651,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ミョウ",
+      "ビョウ"
+    ],
+    "kun": [
+      "たえ"
+    ],
+    "am_han": "DIỆU"
+  },
+  "meaning": {
+    "vi": "tinh tế, kỳ lạ, bí ẩn, phép màu, xuất sắc, quyến rũ",
+    "en": "exquisite, strange, queer, mystery, miracle, excellent, delicate, charming"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/妙.svg"
+  },
+  "frequency": 1122,
+  "examples": [
+    "微妙",
+    "妙",
+    "奇妙",
+    "絶妙",
+    "巧妙"
+  ],
+  "explanation": {
+    "id": "7501",
+    "text": "妙 (đọc là \"myou\" hoặc \"mitsu\") có nghĩa là \"tuyệt diệu\", \"kỳ diệu\", thường chỉ những điều tinh tế, đẹp đẽ hoặc thông minh.  \nVí dụ:  \n- 妙技 (myougi): Kỹ thuật tuyệt diệu, tài năng phi thường."
+  },
+  "comments": [
+    {
+      "id": "152800",
+      "lang": "vi",
+      "content_html": "<p>Phụ nữ nhỏ thì rất vi diệu</p>",
+      "content_text": "Phụ nữ nhỏ thì rất vi diệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152801",
+      "lang": "vi",
+      "content_html": "<p>Người phụ nữ ( 女) mà nói ít (少) thì đó là điều kì Diệu</p>",
+      "content_text": "Người phụ nữ ( 女) mà nói ít (少) thì đó là điều kì Diệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152802",
+      "lang": "vi",
+      "content_html": "<p>Nhà ít con gái thì là con gái Diệu</p>",
+      "content_text": "Nhà ít con gái thì là con gái Diệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

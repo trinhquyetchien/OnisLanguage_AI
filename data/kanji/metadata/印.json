@@ -1,0 +1,92 @@
+{
+  "kanji": "印",
+  "meta": {
+    "weight": 400,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イン"
+    ],
+    "kun": [
+      "しるし",
+      "-じるし",
+      "しる.す"
+    ],
+    "am_han": "ẤN"
+  },
+  "meaning": {
+    "vi": "con dấu, in ấn",
+    "en": "stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/印.svg"
+  },
+  "frequency": 682,
+  "examples": [
+    "印象",
+    "印刷",
+    "印",
+    "封印",
+    "矢印"
+  ],
+  "explanation": {
+    "id": "239",
+    "text": "印 (đọc là \"in\") có nghĩa là \"dấu\", \"ấn\" để chỉ các dấu hiệu, con dấu hoặc hình ảnh in ấn.\n\nVí dụ:\n- 印刷 (insatsu): In ấn.\n- 印章 (inshō): Con dấu, dấu mộc.\n- 印象 (inshou): Ấn tượng."
+  },
+  "comments": [
+    {
+      "id": "152195",
+      "lang": "vi",
+      "content_html": "<p>chữ latinh : chữ E và chữ P đọc là ép nghĩa là ấn xuống</p>",
+      "content_text": "chữ latinh : chữ E và chữ P đọc là ép nghĩa là ấn xuống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152196",
+      "lang": "vi",
+      "content_html": "<p>ép xuống = ấn xuống</p>",
+      "content_text": "ép xuống = ấn xuống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152197",
+      "lang": "vi",
+      "content_html": "<p>印刷はプリンターと言う意味です</p>",
+      "content_text": "印刷はプリンターと言う意味です",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "傷",
+  "meta": {
+    "weight": 238,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "きず",
+      "いた.む",
+      "いた.める"
+    ],
+    "am_han": "THƯƠNG"
+  },
+  "meaning": {
+    "vi": "vết thương, bị thương, làm suy yếu, đau đớn, cắt đứt, Vết thương, vết sẹo, điểm yếu",
+    "en": "wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/傷.svg"
+  },
+  "frequency": 845,
+  "examples": [
+    "傷",
+    "負傷",
+    "中傷",
+    "損傷",
+    "傷害"
+  ],
+  "explanation": {
+    "id": "3743",
+    "text": "傷 (đọc là \"shō\" hoặc \"kizu\") có nghĩa là \"vết thương\", \"thiệt hại\" để chỉ các tổn thương về thể xác hoặc tinh thần.  \nVí dụ:  \n- 傷害 (shōgai): Tổn thương, thiệt hại về cơ thể.  \n- 傷つく (kizuts"
+  },
+  "comments": [
+    {
+      "id": "151786",
+      "lang": "vi",
+      "content_html": "<p>Thằng Dương đứng nằm không yên vì vết thương đau</p>",
+      "content_text": "Thằng Dương đứng nằm không yên vì vết thương đau",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151787",
+      "lang": "vi",
+      "content_html": "<p>Người dùng tay chắn mặt trời để che lấy một nải chuối đang bị THƯƠNG</p>",
+      "content_text": "Người dùng tay chắn mặt trời để che lấy một nải chuối đang bị THƯƠNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151788",
+      "lang": "vi",
+      "content_html": "<p>Hình giống: một người đang dắt một con ngựa cõng trên lưng người nằm bị THƯƠNG</p>",
+      "content_text": "Hình giống: một người đang dắt một con ngựa cõng trên lưng người nằm bị THƯƠNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "kanji": "鍋",
+  "meta": {
+    "weight": 2780,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "なべ"
+    ],
+    "am_han": "OA"
+  },
+  "meaning": {
+    "vi": "nồi, chảo, ấm đun nước",
+    "en": "pot, pan, kettle"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/鍋.svg"
+  },
+  "frequency": 1810,
+  "examples": [
+    "鍋",
+    "お鍋",
+    "土鍋"
+  ],
+  "explanation": {
+    "id": "6058",
+    "text": "鍋 (đọc là \"nabe\") có nghĩa là \"nồi\" để chỉ các dụng cụ nấu ăn thường dùng trong ẩm thực Nhật Bản.\nVí dụ:\n- 鍋料理 (naberyouri): Món ăn nấu trong nồi, thường là các món lẩu.\n- おでん鍋 (oden nabe): "
+  },
+  "comments": [
+    {
+      "id": "157592",
+      "lang": "vi",
+      "content_html": "<p>Kim loại trải qua luyện thì thành oa nồi</p>",
+      "content_text": "Kim loại trải qua luyện thì thành oa nồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157593",
+      "lang": "vi",
+      "content_html": "<p>Nhiều tiền 金 quá過 thì kêu oa oa</p>",
+      "content_text": "Nhiều tiền 金 quá過 thì kêu oa oa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157594",
+      "lang": "vi",
+      "content_html": "<p>Vượt Qua được cám dỗ Đồng Tiền tôi sẽ tặng bạn 1 cái Nồi đầy thức ăn</p>",
+      "content_text": "Vượt Qua được cám dỗ Đồng Tiền tôi sẽ tặng bạn 1 cái Nồi đầy thức ăn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

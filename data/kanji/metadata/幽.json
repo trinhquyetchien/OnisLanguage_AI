@@ -1,0 +1,90 @@
+{
+  "kanji": "幽",
+  "meta": {
+    "weight": 855,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユウ"
+    ],
+    "kun": [
+      "ふか.い",
+      "かす.か",
+      "くら.い",
+      "しろ.い"
+    ],
+    "am_han": "U"
+  },
+  "meaning": {
+    "vi": "tách biệt, giam giữ trong một căn phòng, sâu, hẻo lánh, mờ nhạt, tối tăm, yên tĩnh, bình tĩnh",
+    "en": "seclude, confine to a room, deep, profound, secluded, faint, dark, tranquil, calm"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/幽.svg"
+  },
+  "frequency": 1996,
+  "examples": [
+    "幽霊",
+    "幽閉"
+  ],
+  "explanation": {
+    "id": "7752",
+    "text": "幽 (đọc là \"yū\") có nghĩa là \"u tối\", \"âm u\", thường chỉ đến những điều huyền bí hoặc cảm giác tĩnh lặng, tăm tối. \n\nVí dụ:\n- 幽霊 (yūrei): Ma, hồn ma.\n- 幽玄 (yūgen): Sự sâu sắc, huyền bí.\n- 幽暗 "
+  },
+  "comments": [
+    {
+      "id": "153305",
+      "lang": "vi",
+      "content_html": "<p>hai đôi yêu nhau đã bị thầy U rốt vào núi</p>",
+      "content_text": "hai đôi yêu nhau đã bị thầy U rốt vào núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153306",
+      "lang": "vi",
+      "content_html": "<p>Ma ma khuất núi u ám vì mệt mỏi</p>",
+      "content_text": "Ma ma khuất núi u ám vì mệt mỏi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153307",
+      "lang": "vi",
+      "content_html": "<p>yêu quái ở trong núi u ám</p>",
+      "content_text": "yêu quái ở trong núi u ám",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

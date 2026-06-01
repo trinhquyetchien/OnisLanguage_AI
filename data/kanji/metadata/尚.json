@@ -1,0 +1,90 @@
+{
+  "kanji": "尚",
+  "meta": {
+    "weight": 763,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "なお"
+    ],
+    "am_han": "THƯỢNG, CHUỘNG, SƯỢNG, THẰNG"
+  },
+  "meaning": {
+    "vi": "quý trọng, hơn nữa, vẫn còn, nhưng",
+    "en": "esteem, furthermore, still, yet"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/尚.svg"
+  },
+  "frequency": 1531,
+  "examples": [
+    "尚",
+    "和尚",
+    "尚更",
+    "尚早",
+    "高尚"
+  ],
+  "explanation": {
+    "id": "3793",
+    "text": "尚 (đọc là \"shō\" hoặc \"nao\") có nghĩa là \"tôn trọng\", \"vẫn còn\", thường chỉ sự tôn kính hoặc giá trị cao. \n\nVí dụ:\n- 尚書 (shōsho): Bộ trưởng, người có chức vụ cao trong chính phủ.\n- 尚未 (shōmi)"
+  },
+  "comments": [
+    {
+      "id": "153071",
+      "lang": "vi",
+      "content_html": "<p>Hoà THƯỢNG là người trên đầu có cái chấm và MIỆNG đọc kinh</p>",
+      "content_text": "Hoà THƯỢNG là người trên đầu có cái chấm và MIỆNG đọc kinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153072",
+      "lang": "vi",
+      "content_html": "<p>có hơn hai chí HƯỚNG là hòa THƯỢNG</p>",
+      "content_text": "có hơn hai chí HƯỚNG là hòa THƯỢNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153073",
+      "lang": "vi",
+      "content_html": "<p>Tiểu Hoà THƯỢNG loanh quanh có 3 sợi tóc</p>",
+      "content_text": "Tiểu Hoà THƯỢNG loanh quanh có 3 sợi tóc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

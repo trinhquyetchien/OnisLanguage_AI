@@ -1,0 +1,54 @@
+{
+  "kanji": "佃",
+  "meta": {
+    "weight": 167,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テン",
+      "デン"
+    ],
+    "kun": [
+      "つくだ"
+    ],
+    "am_han": "ĐIỀN"
+  },
+  "meaning": {
+    "vi": "ruộng lúa",
+    "en": "cultivated rice field"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/佃.svg"
+  },
+  "frequency": 2193,
+  "examples": [
+    "佃",
+    "佃煮"
+  ],
+  "explanation": {
+    "id": "5476",
+    "text": "佃 (đọc là \"tsukuda\") có nghĩa là \"đầm lầy\" hoặc \"khu vực ven sông, nơi trồng trọt\". Chữ này thường liên quan đến nông nghiệp và các hoạt động ven nước.\n\nVí dụ:\n- 佃煮 (tsukudani): Món ăn được "
+  },
+  "comments": [
+    {
+      "id": "151610",
+      "lang": "vi",
+      "content_html": "<p>Người đứng bên ruộng ĐIỀN của mình</p>",
+      "content_text": "Người đứng bên ruộng ĐIỀN của mình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

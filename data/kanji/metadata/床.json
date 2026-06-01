@@ -1,0 +1,91 @@
+{
+  "kanji": "床",
+  "meta": {
+    "weight": 861,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [
+      "とこ",
+      "ゆか"
+    ],
+    "am_han": "SÀNG"
+  },
+  "meaning": {
+    "vi": "giường",
+    "en": "bed, counter for beds, floor, padding, tatami"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/床.svg"
+  },
+  "frequency": 1175,
+  "examples": [
+    "床",
+    "臨床",
+    "起床",
+    "床屋",
+    "床下"
+  ],
+  "explanation": {
+    "id": "3799",
+    "text": "床 (đọc là \"shiki\" hoặc \"tokoro\") có nghĩa là \"giường\" hoặc \"sàn\" để chỉ các vật dụng nằm, ngủ hoặc nơi tiếp xúc với mặt đất.\n\nVí dụ:\n- 床 (yukika): Giường.\n- 床屋 (tokoya): Tiệm cắt tóc.\n- 床敷き "
+  },
+  "comments": [
+    {
+      "id": "153320",
+      "lang": "vi",
+      "content_html": "<p>GỖ MỘC để dưới HIÊN NHÀ  --  là cái SÀNG GIƯỜNG hóng mát</p>",
+      "content_text": "GỖ MỘC để dưới HIÊN NHÀ  --  là cái SÀNG GIƯỜNG hóng mát",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153321",
+      "lang": "vi",
+      "content_html": "<p>Ở dưới Hiên Nhà có Cây dùng để làm Sàng</p>",
+      "content_text": "Ở dưới Hiên Nhà có Cây dùng để làm Sàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153322",
+      "lang": "vi",
+      "content_html": "<p>Cây đc SÀNG lọc để làm sàn nhà!</p>",
+      "content_text": "Cây đc SÀNG lọc để làm sàn nhà!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "浜",
+  "meta": {
+    "weight": 1538,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒン"
+    ],
+    "kun": [
+      "はま"
+    ],
+    "am_han": "BANH"
+  },
+  "meaning": {
+    "vi": "seacoast, bãi biển, bờ biển",
+    "en": "seacoast, beach, seashore"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/浜.svg"
+  },
+  "frequency": 645,
+  "examples": [
+    "横浜",
+    "浜",
+    "浜松",
+    "砂浜",
+    "浜辺"
+  ],
+  "explanation": {
+    "id": "6759",
+    "text": "浜 (đọc là \"hama\") có nghĩa là \"bờ biển\", \"bãi cát\" để chỉ các khu vực ven biển hoặc bãi biển.  \nVí dụ:  \n- 浜辺 (hamabe): Bãi biển.  \n- 浜田 (hamada): Tên địa danh, có thể hiểu là \"người sống gầ"
+  },
+  "comments": [
+    {
+      "id": "154896",
+      "lang": "vi",
+      "content_html": "<p>Binh lính đánh Thuỷ đang tập trận ở BỜ BIỂN</p>",
+      "content_text": "Binh lính đánh Thuỷ đang tập trận ở BỜ BIỂN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154897",
+      "lang": "vi",
+      "content_html": "<p>Binh lính đang đá banh ở bờ biển</p>",
+      "content_text": "Binh lính đang đá banh ở bờ biển",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154898",
+      "lang": "vi",
+      "content_html": "<p>yokohama</p>",
+      "content_text": "yokohama",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

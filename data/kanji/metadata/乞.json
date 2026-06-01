@@ -1,0 +1,92 @@
+{
+  "kanji": "乞",
+  "meta": {
+    "weight": 103,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コツ",
+      "キツ",
+      "キ",
+      "キケ",
+      "コチ"
+    ],
+    "kun": [
+      "こ.う"
+    ],
+    "am_han": "KHẤT, KHÍ"
+  },
+  "meaning": {
+    "vi": "cầu xin, mời, yêu cầu",
+    "en": "beg, invite, ask"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/乞.svg"
+  },
+  "frequency": 2478,
+  "examples": [
+    "乞う",
+    "乞食",
+    "物乞い"
+  ],
+  "explanation": {
+    "id": "2364",
+    "text": "乞 (đọc là \"ki\") có nghĩa là \"xin\", \"khẩn cầu\" để chỉ các hành động liên quan đến việc xin xỏ hoặc cầu khẩn.\nVí dụ:\n- 乞食 (kijiki): Xin ăn, sống nhờ vào sự bố thí.\n- 乞う (kou): Xin, cầu xin. \n-"
+  },
+  "comments": [
+    {
+      "id": "151460",
+      "lang": "vi",
+      "content_html": "<p>thằng ất nằm xin khất nợ</p>",
+      "content_text": "thằng ất nằm xin khất nợ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151461",
+      "lang": "vi",
+      "content_html": "<p>Người kia cúi đầu quì gối hay tay chấp lại với nhau Xin (KHẤT) nợ</p>",
+      "content_text": "Người kia cúi đầu quì gối hay tay chấp lại với nhau Xin (KHẤT) nợ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151462",
+      "lang": "vi",
+      "content_html": "<p>Khất thực Người nằm xuống làm thằng Ất ơ.</p>",
+      "content_text": "Khất thực Người nằm xuống làm thằng Ất ơ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

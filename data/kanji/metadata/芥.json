@@ -1,0 +1,55 @@
+{
+  "kanji": "芥",
+  "meta": {
+    "weight": 2252,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ",
+      "ケ"
+    ],
+    "kun": [
+      "からし",
+      "ごみ",
+      "あくた"
+    ],
+    "am_han": "GIỚI"
+  },
+  "meaning": {
+    "vi": "mù tạt, hiếp dâm, bụi, rác rưởi",
+    "en": "mustard, rape, dust, trash, rubbish"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/芥.svg"
+  },
+  "frequency": 1929,
+  "examples": [
+    "芥川賞"
+  ],
+  "explanation": {
+    "id": "807",
+    "text": "芥 (đọc là \"ka\") có nghĩa là \"cỏ dại\" hoặc \"rác\". Nó thường chỉ những thứ không cần thiết hoặc thừa thãi.\n\nVí dụ:\n- 芥川 (Akutagawa): Tên một tác giả nổi tiếng, nghĩa đen là \"sông cỏ dại\".\n- ゴミ"
+  },
+  "comments": [
+    {
+      "id": "156464",
+      "lang": "vi",
+      "content_html": "<p>thế giới của con người là dưới ruộng 田 thế giới của vật nhỏ bé  là dưới đám cỏ</p>",
+      "content_text": "thế giới của con người là dưới ruộng 田 thế giới của vật nhỏ bé  là dưới đám cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

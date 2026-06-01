@@ -1,0 +1,52 @@
+{
+  "kanji": "冨",
+  "meta": {
+    "weight": 288,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ",
+      "フウ"
+    ],
+    "kun": [
+      "と.む",
+      "とみ"
+    ],
+    "am_han": "PHÚ"
+  },
+  "meaning": {
+    "vi": "giàu có, dồi dào",
+    "en": "enrich, wealthy, abundant"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/冨.svg"
+  },
+  "frequency": 1906,
+  "examples": [],
+  "explanation": {
+    "id": "6800",
+    "text": "冨 (đọc là \"fu\") có nghĩa là \"giàu có\", \"thịnh vượng\" để chỉ sự giàu sang, phú quý.\n\nVí dụ:\n- 冨豪 (fugō): Người giàu có, triệu phú.\n- 富裕 (fuyū): Sự giàu có, thịnh vượng.\n- 富士山 (Fujisan): Núi P"
+  },
+  "comments": [
+    {
+      "id": "151918",
+      "lang": "vi",
+      "content_html": "<p>富 PHÚ ông mất nhà (miên), chỉ còn lại cái khăn (mịch) trên đầu thì cũng còn rất PHÚ quý 冨, do “phú” nào cũng có 10 mảnh ruộng hết nên Bộ miên hay Bộ mịch thì vẫn cứ giàu.</p>",
+      "content_text": "富 PHÚ ông mất nhà (miên), chỉ còn lại cái khăn (mịch) trên đầu thì cũng còn rất PHÚ quý 冨, do “phú” nào cũng có 10 mảnh ruộng hết nên Bộ miên hay Bộ mịch thì vẫn cứ giàu.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "kanji": "窓",
+  "meta": {
+    "weight": 1964,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "ス"
+    ],
+    "kun": [
+      "まど",
+      "てんまど",
+      "けむだし"
+    ],
+    "am_han": "SONG"
+  },
+  "meaning": {
+    "vi": "cửa sổ",
+    "en": "window, pane"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/窓.svg"
+  },
+  "frequency": 1186,
+  "examples": [
+    "窓",
+    "窓口",
+    "同窓会",
+    "車窓",
+    "窓際"
+  ],
+  "explanation": {
+    "id": "4738",
+    "text": "窓 (đọc là \"mado\") có nghĩa là \"cửa sổ\", chỉ về các cấu trúc mở cho ánh sáng và không khí vào trong nhà hoặc tòa nhà.\n\nVí dụ:\n- 窓口 (madoguchi): Quầy tiếp nhận, nơi giao dịch.\n- 窓明かり (madoakar"
+  },
+  "comments": [
+    {
+      "id": "37176",
+      "lang": "vi",
+      "content_html": "<p>Hãy mở <strong>cửa sổ </strong>trái tim (心)</p>",
+      "content_text": "Hãy mở\ncửa sổ\ntrái tim (心)",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd1c289e77.jpg",
+      "image_path": "assets/images/窓_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155821",
+      "lang": "vi",
+      "content_html": "<p>Ở trong hang (Huyệt) 穴 gửi Tâm ⼼ Tư ⼛ ra ngoài cửa sổ (Song) 窓</p>",
+      "content_text": "Ở trong hang (Huyệt) 穴 gửi Tâm ⼼ Tư ⼛ ra ngoài cửa sổ (Song) 窓",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155822",
+      "lang": "vi",
+      "content_html": "<p>Đóng CỬA trái tim để riêng tư trong hang động</p>",
+      "content_text": "Đóng CỬA trái tim để riêng tư trong hang động",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155823",
+      "lang": "vi",
+      "content_html": "<p>Bên SONG cửa sổ là không gian riêng tư của trái tim</p>",
+      "content_text": "Bên SONG cửa sổ là không gian riêng tư của trái tim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

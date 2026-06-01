@@ -1,0 +1,94 @@
+{
+  "kanji": "厳",
+  "meta": {
+    "weight": 414,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゲン",
+      "ゴン"
+    ],
+    "kun": [
+      "おごそ.か",
+      "きび.しい",
+      "いか.めしい",
+      "いつくし"
+    ],
+    "am_han": "NGHIÊM"
+  },
+  "meaning": {
+    "vi": "nghiêm khắc, nghiêm trọng, cứng nhắc",
+    "en": "stern, strictness, severity, rigidity"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/厳.svg"
+  },
+  "frequency": 638,
+  "examples": [
+    "厳しい",
+    "厳密",
+    "厳格",
+    "厳選",
+    "尊厳"
+  ],
+  "explanation": {
+    "id": "2206",
+    "text": "厳 (đọc là \"gen\" hoặc \"kim\") có nghĩa là \"nghiêm khắc\", \"chặt chẽ\", thường chỉ sự nghiêm ngặt trong quy tắc hoặc thái độ. \n\nVí dụ:\n- 厳しい (kibishii): Nghiêm khắc, khắt khe.\n- 厳格 (genkaku): Ngh"
+  },
+  "comments": [
+    {
+      "id": "152226",
+      "lang": "vi",
+      "content_html": "<p>Nếu k nghiêm khắc sẽ béo tai đánh vào mông cột dưới sườn núi 3 hôm</p>",
+      "content_text": "Nếu k nghiêm khắc sẽ béo tai đánh vào mông cột dưới sườn núi 3 hôm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152227",
+      "lang": "vi",
+      "content_html": "<p>Nghiêm 厳 khắc trừng phạt ba người luyện công エ trên sườn núi 厂 bằng cách đánh 攵vào tai 耳</p>",
+      "content_text": "Nghiêm 厳 khắc trừng phạt ba người luyện công エ trên sườn núi 厂 bằng cách đánh 攵vào tai 耳",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152228",
+      "lang": "vi",
+      "content_html": "<p>bộ bên trong là CẢM trong 勇敢 ( ゆうかん : dũng cảm )</p>",
+      "content_text": "bộ bên trong là CẢM trong 勇敢 ( ゆうかん : dũng cảm )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

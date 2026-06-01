@@ -1,0 +1,48 @@
+{
+  "kanji": "芙",
+  "meta": {
+    "weight": 2250,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フ"
+    ],
+    "kun": [],
+    "am_han": "PHÙ"
+  },
+  "meaning": {
+    "vi": "hoa sen, núi Phú Sĩ",
+    "en": "lotus, Mt Fuji"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/芙.svg"
+  },
+  "frequency": 2238,
+  "examples": [],
+  "explanation": {
+    "id": "6840",
+    "text": "芙 (đọc là \"fu\") có nghĩa là \"hoa sen\", thường dùng để chỉ sự thanh khiết và đẹp đẽ. \n\nVí dụ:\n- 芙蓉 (fuyou): Hoa phù dung, một loại hoa đẹp.\n- 芙蓉の花 (fuyou no hana): Hoa của cây phù dung.\n- 芙蓉池"
+  },
+  "comments": [
+    {
+      "id": "156460",
+      "lang": "vi",
+      "content_html": "<p>Hoa cỏ mà phu quân tặng là hoa PHÙ dung</p>",
+      "content_text": "Hoa cỏ mà phu quân tặng là hoa PHÙ dung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

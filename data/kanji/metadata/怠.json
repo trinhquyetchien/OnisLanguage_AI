@@ -1,0 +1,91 @@
+{
+  "kanji": "怠",
+  "meta": {
+    "weight": 954,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タイ"
+    ],
+    "kun": [
+      "おこた.る",
+      "なま.ける"
+    ],
+    "am_han": "ĐÃI"
+  },
+  "meaning": {
+    "vi": "bỏ bê, lười biếng",
+    "en": "neglect, laziness"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/怠.svg"
+  },
+  "frequency": 1703,
+  "examples": [
+    "怠慢",
+    "怠惰",
+    "怠け者",
+    "怠る",
+    "倦怠"
+  ],
+  "explanation": {
+    "id": "4946",
+    "text": "怠 (đọc là \"tai\") có nghĩa là \"lười biếng\", \"không nỗ lực\" để chỉ trạng thái hoặc hành động thiếu sự chăm chỉ, chểnh mảng trong công việc hay nhiệm vụ.\n\nVí dụ:\n- 怠惰 (taida): Lười biếng, không"
+  },
+  "comments": [
+    {
+      "id": "153548",
+      "lang": "vi",
+      "content_html": "<p>lười biếng chỉ để Tâm đến cái Mồm của mình</p>",
+      "content_text": "lười biếng chỉ để Tâm đến cái Mồm của mình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153549",
+      "lang": "vi",
+      "content_html": "<p>bé Đài làm việc với Tâm lười biếng thì bị Đãi ngộ thấp</p>",
+      "content_text": "bé Đài làm việc với Tâm lười biếng thì bị Đãi ngộ thấp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153550",
+      "lang": "vi",
+      "content_html": "<p>người Đài Loan 台湾　có tâm nên ĐÃI luôn cả những kẻ lười</p>",
+      "content_text": "người Đài Loan 台湾　có tâm nên ĐÃI luôn cả những kẻ lười",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

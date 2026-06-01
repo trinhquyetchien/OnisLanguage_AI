@@ -1,0 +1,105 @@
+{
+  "kanji": "念",
+  "meta": {
+    "weight": 948,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ネン"
+    ],
+    "kun": [],
+    "am_han": "NIỆM"
+  },
+  "meaning": {
+    "vi": "mong muốn, ý thức, ý tưởng, suy nghĩ, cảm giác, chú ý",
+    "en": "wish, sense, idea, thought, feeling, desire, attention"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/念.svg"
+  },
+  "frequency": 390,
+  "examples": [
+    "残念",
+    "記念",
+    "概念",
+    "懸念",
+    "理念"
+  ],
+  "explanation": {
+    "id": "6162",
+    "text": "念 (đọc là \"nen\") có nghĩa là \"suy nghĩ\", \"tưởng nhớ\" để chỉ các hành động liên quan đến tâm trí, sự chú ý hoặc cảm xúc.\n\nVí dụ:\n- 念仏 (nenbutsu): Sự niệm Phật, tụng kinh.\n- 思念 (shinen): Tư tư"
+  },
+  "comments": [
+    {
+      "id": "37048",
+      "lang": "vi",
+      "content_html": "<p>Bây giờ (今) tôi đang nghĩ những <strong>kỉ niệm</strong> về em.</p>",
+      "content_text": "Bây giờ (今) tôi đang nghĩ những\nkỉ niệm\nvề em.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc533bc2cf6.jpg",
+      "image_path": "assets/images/念_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153535",
+      "lang": "vi",
+      "content_html": "<p>kỷ NIỆM đến BÂY GIỜ vẫn còn khắc trong TÂM</p>",
+      "content_text": "kỷ NIỆM đến BÂY GIỜ vẫn còn khắc trong TÂM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153536",
+      "lang": "vi",
+      "content_html": "<p>trong tim tôi bây giờ em chỉ là  kỷ niệm</p>",
+      "content_text": "trong tim tôi bây giờ em chỉ là  kỷ niệm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153537",
+      "lang": "vi",
+      "content_html": "<p>tình cũ như là kim 今 trong tim心,nhắc tới chỉ là kỉ niệm念 nhạt nhòa</p>",
+      "content_text": "tình cũ như là kim 今 trong tim心,nhắc tới chỉ là kỉ niệm念 nhạt nhòa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

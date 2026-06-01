@@ -1,0 +1,84 @@
+{
+  "kanji": "喬",
+  "meta": {
+    "weight": 511,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ"
+    ],
+    "kun": [
+      "たか.い"
+    ],
+    "am_han": "KIỀU"
+  },
+  "meaning": {
+    "vi": "cao, khoe khoang",
+    "en": "high, boasting"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/喬.svg"
+  },
+  "frequency": 1962,
+  "examples": [],
+  "explanation": {
+    "id": "1646",
+    "text": "喬 (đọc là \"kyo\") có nghĩa là \"cao lớn\", \"nâng cao\", thường chỉ sự vươn lên hoặc sự to lớn của một vật thể nào đó. \n\nVí dụ:\n- 喬木 (kyōboku): Cây cao, cây lớn.\n- 喬舸 (kyōka): Thuyền lớn, thuyền "
+  },
+  "comments": [
+    {
+      "id": "152468",
+      "lang": "vi",
+      "content_html": "<p>Người ở trên cao thì hay kiêu</p>",
+      "content_text": "Người ở trên cao thì hay kiêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152469",
+      "lang": "vi",
+      "content_html": "<p>Qua sông thì bắc cầu KIỀU ( 橋 ) , qua rồi bỏ cây nói rằng cầu cao</p>",
+      "content_text": "Qua sông thì bắc cầu KIỀU ( 橋 ) , qua rồi bỏ cây nói rằng cầu cao",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152470",
+      "lang": "vi",
+      "content_html": "<p>THIÊN CAO KIỀU</p>",
+      "content_text": "THIÊN CAO KIỀU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "kanji": "自",
+  "meta": {
+    "weight": 2223,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ",
+      "シ"
+    ],
+    "kun": [
+      "みずか.ら",
+      "おの.ずから",
+      "おの.ずと"
+    ],
+    "am_han": "TỰ"
+  },
+  "meaning": {
+    "vi": "bản thân, tự thân",
+    "en": "oneself"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/自.svg"
+  },
+  "frequency": 19,
+  "examples": [
+    "自分",
+    "自身",
+    "自由",
+    "自然",
+    "自己"
+  ],
+  "explanation": {
+    "id": "3230",
+    "text": "自 (đọc là \"ji\" hoặc \"shi\") có nghĩa là \"tự\", chỉ sự tự chủ, bản thân hoặc điều gì đó thuộc về chính mình.  \nVí dụ:  \n- 自分 (jibun): Bản thân, chính mình.  \n- 自然 (shizen): Tự nhiên.  \n- 自立 (ji"
+  },
+  "comments": [
+    {
+      "id": "902",
+      "lang": "vi",
+      "content_html": "<p>Ở Nhật người ta ám chỉ \"<strong>bản thân</strong>\" bằng cách chỉ vào mũi của mình.</p>",
+      "content_text": "Ở Nhật người ta ám chỉ \"\nbản thân\n\" bằng cách chỉ vào mũi của mình.",
+      "image_url": "https://jpdictionary.com/upload/images/6298b19cd8674.jpg",
+      "image_path": "assets/images/自_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156391",
+      "lang": "vi",
+      "content_html": "<p>Tự nhiên gai đâm vào mắt</p>",
+      "content_text": "Tự nhiên gai đâm vào mắt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191167",
+      "lang": "vi",
+      "content_html": "<p><strong>tự mình</strong></p>",
+      "content_text": "tự mình",
+      "image_url": "https://jpdictionary.com/upload/images/648aced603637.jpg",
+      "image_path": "assets/images/自_3.jpg",
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    }
+  ]
+}

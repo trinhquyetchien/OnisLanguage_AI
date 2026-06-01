@@ -1,0 +1,84 @@
+{
+  "kanji": "紳",
+  "meta": {
+    "weight": 2066,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シン"
+    ],
+    "kun": [],
+    "am_han": "THÂN"
+  },
+  "meaning": {
+    "vi": "thưa đức vua, thắt lưng tốt, quý ông",
+    "en": "sire, good belt, gentleman"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/紳.svg"
+  },
+  "frequency": 1790,
+  "examples": [
+    "紳士"
+  ],
+  "explanation": {
+    "id": "4110",
+    "text": "紳 (đọc là \"shin\") có nghĩa là \"quý ông\", \"người thanh lịch\" để chỉ những người đàn ông có phong cách và phẩm giá cao.  \nVí dụ:  \n- 紳士 (shinshi): Quý ông, người đàn ông lịch thiệp.  \n- 紳士服 (s"
+  },
+  "comments": [
+    {
+      "id": "156018",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa chỉ có những người làm quan lớn mang thân phận quyền quí với đc phép quấn một cái đai lớn, dệt từ những sợi CHỈ quanh THÂN mình gọi là THÂN SĨ</p>",
+      "content_text": "Ngày xưa chỉ có những người làm quan lớn mang thân phận quyền quí với đc phép quấn một cái đai lớn, dệt từ những sợi CHỈ quanh THÂN mình gọi là THÂN SĨ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156019",
+      "lang": "vi",
+      "content_html": "<p>thân phận đàn ông như sợi chỉ đào</p>",
+      "content_text": "thân phận đàn ông như sợi chỉ đào",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156020",
+      "lang": "vi",
+      "content_html": "<p>Dùng chỉ đo Thân để may “cái dải áo to”</p>",
+      "content_text": "Dùng chỉ đo Thân để may “cái dải áo to”",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

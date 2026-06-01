@@ -1,0 +1,90 @@
+{
+  "kanji": "挫",
+  "meta": {
+    "weight": 1094,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ザ",
+      "サ"
+    ],
+    "kun": [
+      "くじ.く",
+      "くじ.ける"
+    ],
+    "am_han": "TỎA"
+  },
+  "meaning": {
+    "vi": "nghiền nát, phá vỡ, bong gân, nản lòng",
+    "en": "crush, break, sprain, discourage"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/挫.svg"
+  },
+  "frequency": 1869,
+  "examples": [
+    "挫折",
+    "頓挫",
+    "捻挫"
+  ],
+  "explanation": {
+    "id": "2772",
+    "text": "挫 (đọc là \"za\") có nghĩa là \"cản trở\", \"chỉ trích\" để chỉ các hành động liên quan đến việc làm giảm sức mạnh hoặc ngăn chặn sự phát triển.  \nVí dụ:  \n- 挫折 (zaseki): Sự thất bại, cản trở tron"
+  },
+  "comments": [
+    {
+      "id": "153916",
+      "lang": "vi",
+      "content_html": "<p>TOẠ lấy Tay BẺ TOẢ</p>",
+      "content_text": "TOẠ lấy Tay BẺ TOẢ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153917",
+      "lang": "vi",
+      "content_html": "<p>dùng tay 扌bẻ cong thanh sắt trong khi đang ngồi 坐 thì (TOẢ) 挫 nhiều năng lượng</p>",
+      "content_text": "dùng tay 扌bẻ cong thanh sắt trong khi đang ngồi 坐 thì (TOẢ) 挫 nhiều năng lượng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153918",
+      "lang": "vi",
+      "content_html": "<p>(Yoga) hãy ngồi Toả ra để “bẻ cong” tay cho dễ</p>",
+      "content_text": "(Yoga) hãy ngồi Toả ra để “bẻ cong” tay cho dễ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

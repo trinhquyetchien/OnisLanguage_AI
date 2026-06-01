@@ -1,0 +1,88 @@
+{
+  "kanji": "秒",
+  "meta": {
+    "weight": 1927,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ビョウ"
+    ],
+    "kun": [],
+    "am_han": "MIỂU"
+  },
+  "meaning": {
+    "vi": "giây",
+    "en": "second (1/60 minute)"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/秒.svg"
+  },
+  "frequency": 1015,
+  "examples": [
+    "秒",
+    "毎秒",
+    "秒読み",
+    "秒速",
+    "秒針"
+  ],
+  "explanation": {
+    "id": "6732",
+    "text": "秒 (đọc là \"byō\") có nghĩa là \"giây\", đơn vị thời gian trong hệ đo lường. \n\nVí dụ:\n- 秒針 (byōshin): Kim giây (trên đồng hồ).\n- 一秒 (ichibyou): Một giây.\n- 秒読み (byōyomi): Đếm ngược, đếm giây."
+  },
+  "comments": [
+    {
+      "id": "155738",
+      "lang": "vi",
+      "content_html": "<p>Thiếu gạo một giây mặt cũng miểu (mếu)</p>",
+      "content_text": "Thiếu gạo một giây mặt cũng miểu (mếu)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155739",
+      "lang": "vi",
+      "content_html": "<p>Gặt ít lúa tốn vài giây</p>",
+      "content_text": "Gặt ít lúa tốn vài giây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155740",
+      "lang": "vi",
+      "content_html": "<p>lúa (HOÀ) mà ít (THIỂU) thì giây (MIỂU) phút sau này sẽ khó sống</p>",
+      "content_text": "lúa (HOÀ) mà ít (THIỂU) thì giây (MIỂU) phút sau này sẽ khó sống",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "湯",
+  "meta": {
+    "weight": 1586,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [
+      "ゆ"
+    ],
+    "am_han": "THANG"
+  },
+  "meaning": {
+    "vi": "nước nóng",
+    "en": "hot water, bath, hot spring"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/湯.svg"
+  },
+  "frequency": 1356,
+  "examples": [
+    "湯",
+    "お湯",
+    "銭湯",
+    "湯船",
+    "湯気"
+  ],
+  "explanation": {
+    "id": "5820",
+    "text": "湯 (đọc là \"yuu\") có nghĩa là \"nước nóng\", chỉ các loại nước dùng cho tắm hoặc nấu ăn. \n\nVí dụ:\n- 湯船 (yubune): Bồn tắm.\n- 温泉 (onsen): Suối nước nóng.\n- 茶湯 (chadou): Trà nóng."
+  },
+  "comments": [
+    {
+      "id": "155004",
+      "lang": "vi",
+      "content_html": "<p>Nước để dưới mặt trời (陽) thì nóng là điều tất nhiên</p>",
+      "content_text": "Nước để dưới mặt trời (陽) thì nóng là điều tất nhiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155005",
+      "lang": "vi",
+      "content_html": "<p>thủy rủ dương đi tắm suối NƯỚC NÓNG...</p>",
+      "content_text": "thủy rủ dương đi tắm suối NƯỚC NÓNG...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155006",
+      "lang": "vi",
+      "content_html": "<p>dùng nước sôi làm lông động vật ăn mừng ngày 1( 旦、tết nguyên đán)</p>",
+      "content_text": "dùng nước sôi làm lông động vật ăn mừng ngày 1( 旦、tết nguyên đán)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

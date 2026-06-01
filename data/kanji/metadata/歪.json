@@ -1,0 +1,93 @@
+{
+  "kanji": "歪",
+  "meta": {
+    "weight": 1455,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ワイ",
+      "エ"
+    ],
+    "kun": [
+      "いが.む",
+      "いびつ",
+      "ひず.む",
+      "ゆが.む"
+    ],
+    "am_han": "OAI, OA"
+  },
+  "meaning": {
+    "vi": "cong vênh, uốn cong, căng thẳng, biến dạng",
+    "en": "warp, bend, strained, distort"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/歪.svg"
+  },
+  "frequency": 2348,
+  "examples": [
+    "歪み",
+    "歪曲",
+    "歪",
+    "歪む"
+  ],
+  "explanation": {
+    "id": "8393",
+    "text": "歪 (đọc là \"iwa\" hoặc \"yawai\") có nghĩa là \"cong\", \"méo\", chỉ sự không thẳng, không đúng hình dạng hoặc lệch lạc.  \nVí dụ:  \n- 歪み (iwami): Sự cong, sự méo mó.  \n- 歪曲 (iwakyoku): Sự bóp méo, x"
+  },
+  "comments": [
+    {
+      "id": "154684",
+      "lang": "vi",
+      "content_html": "<p>Việc bất chính mà oai</p>",
+      "content_text": "Việc bất chính mà oai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154685",
+      "lang": "vi",
+      "content_html": "<p>việc bất chính làm méo mó</p>",
+      "content_text": "việc bất chính làm méo mó",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154686",
+      "lang": "vi",
+      "content_html": "<p>Làm việc bất chính mà còn ra oai</p>",
+      "content_text": "Làm việc bất chính mà còn ra oai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "探",
+  "meta": {
+    "weight": 1119,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "さぐ.る",
+      "さが.す"
+    ],
+    "am_han": "THÁM"
+  },
+  "meaning": {
+    "vi": "tìm kiếm, do thám",
+    "en": "grope, search, look for"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/探.svg"
+  },
+  "frequency": 930,
+  "examples": [
+    "探す",
+    "探偵",
+    "探る",
+    "探検",
+    "探索"
+  ],
+  "explanation": {
+    "id": "5125",
+    "text": "探 (đọc là \"tan\") có nghĩa là \"khám phá\", \"tìm kiếm\" để chỉ các hành động liên quan đến việc tìm hiểu hoặc phát hiện ra điều gì đó.\n\nVí dụ:\n- 探索 (tansaku): Khám phá, tìm kiếm.\n- 探検 (tanken): "
+  },
+  "comments": [
+    {
+      "id": "153962",
+      "lang": "vi",
+      "content_html": "<p>Tìm kiếm tay chân treo trên cây</p>",
+      "content_text": "Tìm kiếm tay chân treo trên cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153963",
+      "lang": "vi",
+      "content_html": "<p>Tìm kiếm chân. tay của nhà thám hiểm trên cây</p>",
+      "content_text": "Tìm kiếm chân. tay của nhà thám hiểm trên cây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190621",
+      "lang": "vi",
+      "content_html": "<p>探究(たんきゅう): Tìm kiếm</p><p>探知(たんち): Tìm ra</p>",
+      "content_text": "探究(たんきゅう): Tìm kiếm\n探知(たんち): Tìm ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "153964",
+      "lang": "vi",
+      "content_html": "<p>Tay mò mẫm tìm cái CÂY dưới vực</p>",
+      "content_text": "Tay mò mẫm tìm cái CÂY dưới vực",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "kanji": "技",
+  "meta": {
+    "weight": 1055,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギ"
+    ],
+    "kun": [
+      "わざ"
+    ],
+    "am_han": "KĨ"
+  },
+  "meaning": {
+    "vi": "kĩ thuật, kỹ năng",
+    "en": "skill, art, craft, ability, feat, performance, vocation, arts"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/技.svg"
+  },
+  "frequency": 434,
+  "examples": [
+    "技術",
+    "技",
+    "競技",
+    "演技",
+    "技能"
+  ],
+  "explanation": {
+    "id": "1417",
+    "text": "技 (đọc là \"gi\") có nghĩa là \"kỹ năng\", \"kỹ thuật\" để chỉ khả năng hoặc nghệ thuật trong một lĩnh vực nào đó.  \nVí dụ:  \n- 技術 (gijutsu): Kỹ thuật, công nghệ.  \n- 技師 (gishi): Kỹ sư.  \n- 武技 (bu"
+  },
+  "comments": [
+    {
+      "id": "153805",
+      "lang": "vi",
+      "content_html": "<p>Tay chi tiết thể hiện kỹ thuật</p>",
+      "content_text": "Tay chi tiết thể hiện kỹ thuật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190702",
+      "lang": "vi",
+      "content_html": "<p>Tay không cầm cành cây đánh chó đầy Kĩ Thuật</p>",
+      "content_text": "Tay không cầm cành cây đánh chó đầy Kĩ Thuật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "153806",
+      "lang": "vi",
+      "content_html": "<p>tay và chi đều có KĨ năg</p>",
+      "content_text": "tay và chi đều có KĨ năg",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153807",
+      "lang": "vi",
+      "content_html": "<p>Chi nhánh này toàn người có Tay nghề Kĩ thuật.</p>",
+      "content_text": "Chi nhánh này toàn người có Tay nghề Kĩ thuật.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

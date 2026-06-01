@@ -1,0 +1,113 @@
+{
+  "kanji": "経",
+  "meta": {
+    "weight": 2072,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ",
+      "キョウ",
+      "キン"
+    ],
+    "kun": [
+      "へ.る",
+      "た.つ",
+      "たていと",
+      "はか.る",
+      "のり"
+    ],
+    "am_han": "KINH"
+  },
+  "meaning": {
+    "vi": "kinh tế, kinh nghiệm",
+    "en": "sutra, longitude, pass thru, expire, warp"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/経.svg"
+  },
+  "frequency": 79,
+  "examples": [
+    "経済",
+    "経験",
+    "経営",
+    "経",
+    "経過"
+  ],
+  "explanation": {
+    "id": "2002",
+    "text": "経 (đọc là \"kei\" hoặc \"kyou\") có nghĩa là \"kinh nghiệm\", \"quản lý\", \"trải qua\" hoặc liên quan đến các tài liệu kinh điển. Nó thường được sử dụng để chỉ những khía cạnh về quy trình, điều hành"
+  },
+  "comments": [
+    {
+      "id": "37135",
+      "lang": "vi",
+      "content_html": "<p>Khi thì cày đất, khi thì kéo sợi (糸), thời gian dài đã <strong>trôi qua</strong>.</p>",
+      "content_text": "Khi thì cày đất, khi thì kéo sợi (糸), thời gian dài đã\ntrôi qua\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb9d2824d2.jpg",
+      "image_path": "assets/images/経_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156035",
+      "lang": "vi",
+      "content_html": "<p>Sợi CHỉ LẠI rơi đầy xuống ĐẤT nhìn KiNH quá</p>",
+      "content_text": "Sợi CHỉ LẠI rơi đầy xuống ĐẤT nhìn KiNH quá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156036",
+      "lang": "vi",
+      "content_html": "<p>thấy Thánh Chỉ là Kinh sợ</p>",
+      "content_text": "thấy Thánh Chỉ là Kinh sợ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156037",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa sư đi chân đất viết kinh dài như dây</p>",
+      "content_text": "Thời xưa sư đi chân đất viết kinh dài như dây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

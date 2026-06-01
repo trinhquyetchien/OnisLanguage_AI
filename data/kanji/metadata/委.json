@@ -1,0 +1,90 @@
+{
+  "kanji": "委",
+  "meta": {
+    "weight": 663,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "イ"
+    ],
+    "kun": [
+      "ゆだ.ねる"
+    ],
+    "am_han": "ỦY"
+  },
+  "meaning": {
+    "vi": "ủy thác",
+    "en": "committee, entrust to, leave to, devote, discard"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/委.svg"
+  },
+  "frequency": 187,
+  "examples": [
+    "委員",
+    "委託",
+    "委任",
+    "教委",
+    "委ねる"
+  ],
+  "explanation": {
+    "id": "131",
+    "text": "委 (đọc là \"i\") có nghĩa là \"ủy thác\", \"giao phó\" để chỉ các hành động liên quan đến việc giao quyền hoặc trách nhiệm cho người khác.\n\nVí dụ:\n- 委員会 (Iinkai): Ủy ban.\n- 委託 (itaku): Ủy thác, gi"
+  },
+  "comments": [
+    {
+      "id": "152827",
+      "lang": "vi",
+      "content_html": "<p>Uỷ thác cho người phụ nữ tên hoà</p>",
+      "content_text": "Uỷ thác cho người phụ nữ tên hoà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152828",
+      "lang": "vi",
+      "content_html": "<p>Nữ ủy viên tên Hòa.</p>",
+      "content_text": "Nữ ủy viên tên Hòa.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152829",
+      "lang": "vi",
+      "content_html": "<p>PHỤ NỮ(女) thường được UỶ THÁC(委) việc cấy LÚA(禾).</p>",
+      "content_text": "PHỤ NỮ(女) thường được UỶ THÁC(委) việc cấy LÚA(禾).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "油",
+  "meta": {
+    "weight": 1509,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユ",
+      "ユウ"
+    ],
+    "kun": [
+      "あぶら"
+    ],
+    "am_han": "DU"
+  },
+  "meaning": {
+    "vi": "dầu",
+    "en": "oil, fat"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/油.svg"
+  },
+  "frequency": 690,
+  "examples": [
+    "石油",
+    "油",
+    "原油",
+    "醤油",
+    "油断"
+  ],
+  "explanation": {
+    "id": "7722",
+    "text": "油 (đọc là \"yuu\" hoặc \"abura\") có nghĩa là \"dầu\", chỉ các loại dầu mỡ hoặc chất lỏng có tính chất béo. \n\nVí dụ:\n- 油田 (yuiden): Mỏ dầu.\n- 油性 (yusei): Tính chất dầu, dầu mỡ.\n- 食用油 (shokuyou abu"
+  },
+  "comments": [
+    {
+      "id": "191087",
+      "lang": "vi",
+      "content_html": "<p><strong>dầu</strong></p>",
+      "content_text": "dầu",
+      "image_url": "https://jpdictionary.com/upload/images/648abe871f9fa.jpg",
+      "image_path": "assets/images/油_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "154811",
+      "lang": "vi",
+      "content_html": "<p>Dầu nổi tự do ngao du trên nước</p>",
+      "content_text": "Dầu nổi tự do ngao du trên nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154812",
+      "lang": "vi",
+      "content_html": "<p>Muốn tự do đi đường thuỷ DU lịch thì phải mua DẦU cho vào máy</p>",
+      "content_text": "Muốn tự do đi đường thuỷ DU lịch thì phải mua DẦU cho vào máy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154813",
+      "lang": "vi",
+      "content_html": "<p>DU lịch trên một đất nước tự do</p>",
+      "content_text": "DU lịch trên một đất nước tự do",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "kanji": "槍",
+  "meta": {
+    "weight": 1410,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ソウ",
+      "ショウ"
+    ],
+    "kun": [
+      "やり"
+    ],
+    "am_han": "THƯƠNG, SANH"
+  },
+  "meaning": {
+    "vi": "giáo, thương, lao",
+    "en": "spear, lance, javelin"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/槍.svg"
+  },
+  "frequency": 2261,
+  "examples": [
+    "槍",
+    "槍玉"
+  ],
+  "explanation": {
+    "id": "4725",
+    "text": "槍 (đọc là \"yari\") có nghĩa là \"giáo\" hoặc \"mũi nhọn\" để chỉ vũ khí dài, sắc nhọn thường được sử dụng trong chiến tranh hoặc săn bắn.  \nVí dụ:  \n- 槍術 (yajutsu): Nghệ thuật sử dụng giáo.  \n- 槍"
+  },
+  "comments": []
+}

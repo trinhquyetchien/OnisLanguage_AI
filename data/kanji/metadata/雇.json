@@ -1,0 +1,90 @@
+{
+  "kanji": "雇",
+  "meta": {
+    "weight": 2857,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "やと.う"
+    ],
+    "am_han": "CỐ"
+  },
+  "meaning": {
+    "vi": "thuê mướn, cố nông",
+    "en": "employ, hire"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/雇.svg"
+  },
+  "frequency": 975,
+  "examples": [
+    "雇用",
+    "解雇",
+    "雇う",
+    "雇い",
+    "日雇い"
+  ],
+  "explanation": {
+    "id": "2310",
+    "text": "雇 (đọc là \"ko\") có nghĩa là \"thuê\" hoặc \"làm thuê\" để chỉ các hành động liên quan đến việc tuyển dụng hoặc làm việc cho người khác.  \nVí dụ:  \n- 雇用 (koyou): Sự tuyển dụng, công việc.  \n- 雇われ"
+  },
+  "comments": [
+    {
+      "id": "157771",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa treo chim trước cửa nhà để ám chỉ thông báo tuyển người làm</p>",
+      "content_text": "Thời xưa treo chim trước cửa nhà để ám chỉ thông báo tuyển người làm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157772",
+      "lang": "vi",
+      "content_html": "<p>CỐ tình để HỘ chiếu dưới CHIM...</p>",
+      "content_text": "CỐ tình để HỘ chiếu dưới CHIM...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157773",
+      "lang": "vi",
+      "content_html": "<p>Già Tôi (やとい) vẫn CỐ làm ở Cửa hàng bán Chim</p>",
+      "content_text": "Già Tôi (やとい) vẫn CỐ làm ở Cửa hàng bán Chim",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

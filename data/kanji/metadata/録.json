@@ -1,0 +1,125 @@
+{
+  "kanji": "録",
+  "meta": {
+    "weight": 2779,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロク"
+    ],
+    "kun": [
+      "しる.す",
+      "と.る"
+    ],
+    "am_han": "LỤC"
+  },
+  "meaning": {
+    "vi": "ghi lại",
+    "en": "record"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/録.svg"
+  },
+  "frequency": 546,
+  "examples": [
+    "登録",
+    "記録",
+    "録音",
+    "収録",
+    "録"
+  ],
+  "explanation": {
+    "id": "8377",
+    "text": "録 (đọc là \"roku\") có nghĩa là \"ghi chép\", \"thu âm\" để chỉ các hành động liên quan đến việc ghi lại thông tin hoặc âm thanh.  \nVí dụ:  \n- 録音 (rokuon): Ghi âm.  \n- 記録 (kiroku): Hồ sơ, ghi chép"
+  },
+  "comments": [
+    {
+      "id": "157589",
+      "lang": "vi",
+      "content_html": "<p>tiền　金 yô (ヨ）như nước 水</p>",
+      "content_text": "tiền　金 yô (ヨ）như nước 水",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190704",
+      "lang": "vi",
+      "content_html": "<p>dùng Kim đâm đầu heo máu chảy xuống nước màu lục nên ghi lại</p>",
+      "content_text": "dùng Kim đâm đầu heo máu chảy xuống nước màu lục nên ghi lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "157590",
+      "lang": "vi",
+      "content_html": "<p>lục tung 3 dòng nước tìm vàng</p>",
+      "content_text": "lục tung 3 dòng nước tìm vàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157591",
+      "lang": "vi",
+      "content_html": "<p>PHÁ KỈ LỤC ĐƯƠNG NHIÊN CÓ HUY CHƯƠNG VÀNG</p>",
+      "content_text": "PHÁ KỈ LỤC ĐƯƠNG NHIÊN CÓ HUY CHƯƠNG VÀNG",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222070",
+      "lang": "vi",
+      "content_html": "<p><strong>彔 (âm thanh, biểu ý)</strong> — bộ lục, có liên quan đến “bắt giữ, ghi chép” trong chữ Hán cổ<br><strong>金(kim, kim loại)</strong></p><p><br>Có thể tưởng tượng hành vi đếm tiền, vừa đếm vừa <strong>ghi chép</strong></p>",
+      "content_text": "彔 (âm thanh, biểu ý)\n— bộ lục, có liên quan đến “bắt giữ, ghi chép” trong chữ Hán cổ\n金(kim, kim loại)\nCó thể tưởng tượng hành vi đếm tiền, vừa đếm vừa\nghi chép",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

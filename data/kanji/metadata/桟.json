@@ -1,0 +1,88 @@
+{
+  "kanji": "桟",
+  "meta": {
+    "weight": 1357,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "サン",
+      "セン"
+    ],
+    "kun": [
+      "かけはし"
+    ],
+    "am_han": "SẠN"
+  },
+  "meaning": {
+    "vi": "giàn giáo, cleat, khung, cầu cảng, bu lông (cửa)",
+    "en": "scaffold, cleat, frame, jetty, bolt (door)"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/桟.svg"
+  },
+  "frequency": 2093,
+  "examples": [
+    "桟橋",
+    "桟敷"
+  ],
+  "explanation": {
+    "id": "2997",
+    "text": "桟 (đọc là \"san\") có nghĩa là \"bệ\" hoặc \"giá đỡ\" để chỉ các cấu trúc hỗ trợ, thường liên quan đến việc xây dựng hoặc vật dụng dùng để đặt đồ vật lên.\nVí dụ:\n- 桟橋 (sanjō): Cầu bến, cầu cảng.\n-"
+  },
+  "comments": [
+    {
+      "id": "154520",
+      "lang": "vi",
+      "content_html": "<p>hai(二) người qua (戈) khách \u001dSẠN Mộc(木) mạc đến nỗi chả có \"giá để đồ\"</p>",
+      "content_text": "hai(二) người qua (戈) khách \u001dSẠN Mộc(木) mạc đến nỗi chả có \"giá để đồ\"",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154521",
+      "lang": "vi",
+      "content_html": "<p>桟. là những thanh mà bắc ngang lồi lên trên vật (phần lớn làm bằng gỗ).<br>VD -thanh ngang lồi lên ở giữa khe cửa, để làm đường chạy cho cửa trượt.<br>-cái đường gờ làm bằng gỗ bám theo các vách núi nguy hiểm, đặt ra để làm đường cho người đi.</p>",
+      "content_text": "桟. là những thanh mà bắc ngang lồi lên trên vật (phần lớn làm bằng gỗ).\nVD -thanh ngang lồi lên ở giữa khe cửa, để làm đường chạy cho cửa trượt.\n-cái đường gờ làm bằng gỗ bám theo các vách núi nguy hiểm, đặt ra để làm đường cho người đi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154522",
+      "lang": "vi",
+      "content_html": "<p>cái  giá ở khách sạn phải qua 2 lần mới chế thành gỗ</p>",
+      "content_text": "cái  giá ở khách sạn phải qua 2 lần mới chế thành gỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

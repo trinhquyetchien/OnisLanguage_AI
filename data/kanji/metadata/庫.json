@@ -1,0 +1,91 @@
+{
+  "kanji": "庫",
+  "meta": {
+    "weight": 870,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ",
+      "ク"
+    ],
+    "kun": [
+      "くら"
+    ],
+    "am_han": "KHỐ"
+  },
+  "meaning": {
+    "vi": "kho, kim khố",
+    "en": "warehouse, storehouse"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/庫.svg"
+  },
+  "frequency": 852,
+  "examples": [
+    "文庫",
+    "在庫",
+    "兵庫",
+    "冷蔵庫",
+    "倉庫"
+  ],
+  "explanation": {
+    "id": "2269",
+    "text": "庫 (đọc là \"kū\" hoặc \"ko\") có nghĩa là \"kho\", \"nhà kho\" để chỉ nơi lưu trữ, bảo quản hàng hóa hoặc tài sản.  \nVí dụ:  \n- 倉庫 (sōko): Nhà kho, kho chứa.  \n- 在庫 (zaiko): Hàng tồn kho.  \n- 蔵庫 (zō"
+  },
+  "comments": [
+    {
+      "id": "153341",
+      "lang": "vi",
+      "content_html": "<p>XE trong nhà là đồ quốc KHỐ</p>",
+      "content_text": "XE trong nhà là đồ quốc KHỐ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 1,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153342",
+      "lang": "vi",
+      "content_html": "<p>dưới mái hiên để oto là nhà kho</p>",
+      "content_text": "dưới mái hiên để oto là nhà kho",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153343",
+      "lang": "vi",
+      "content_html": "<p>MÁI HIÊN để chứa chiếc XE --» là cái NHÀ KHO</p>",
+      "content_text": "MÁI HIÊN để chứa chiếc XE --» là cái NHÀ KHO",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

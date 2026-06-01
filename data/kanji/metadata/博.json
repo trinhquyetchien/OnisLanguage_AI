@@ -1,0 +1,106 @@
+{
+  "kanji": "博",
+  "meta": {
+    "weight": 395,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハク",
+      "バク"
+    ],
+    "kun": [],
+    "am_han": "BÁC"
+  },
+  "meaning": {
+    "vi": "Tiến sĩ, mệnh lệnh, quý trọng, giành được sự hoan nghênh, giải thích, công bằng",
+    "en": "Dr., command, esteem, win acclaim, Ph.D., exposition, fair"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/博.svg"
+  },
+  "frequency": 794,
+  "examples": [
+    "博士",
+    "博物館",
+    "博",
+    "万博",
+    "博覧"
+  ],
+  "explanation": {
+    "id": "6321",
+    "text": "博 (đọc là \"haku\" hoặc \"baku\") có nghĩa là \"rộng lớn\", \"phổ quát\", thường được sử dụng để chỉ sự hiểu biết rộng hoặc kiến thức sâu. \n\nVí dụ:\n- 博士 (hakase): Tiến sĩ, người có trình độ chuyên m"
+  },
+  "comments": [
+    {
+      "id": "190917",
+      "lang": "vi",
+      "content_html": "<p><strong>bảo tàng</strong> - 博物館</p>",
+      "content_text": "bảo tàng\n- 博物館",
+      "image_url": "https://jpdictionary.com/upload/images/648a6f0b24a75.jpg",
+      "image_path": "assets/images/博_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "152186",
+      "lang": "vi",
+      "content_html": "<p>Bác học nắm 10 chuyên môn</p>",
+      "content_text": "Bác học nắm 10 chuyên môn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152187",
+      "lang": "vi",
+      "content_html": "<p>Nhà BÁC học điểm 10 về CHUYÊN môn</p>",
+      "content_text": "Nhà BÁC học điểm 10 về CHUYÊN môn",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152188",
+      "lang": "vi",
+      "content_html": "<p>bác học cùng lắm chỉ đo ( Thốn) dc 10 cái ruog mà thôi</p>",
+      "content_text": "bác học cùng lắm chỉ đo ( Thốn) dc 10 cái ruog mà thôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

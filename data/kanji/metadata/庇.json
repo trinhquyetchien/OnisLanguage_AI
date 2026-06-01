@@ -1,0 +1,86 @@
+{
+  "kanji": "庇",
+  "meta": {
+    "weight": 860,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒ"
+    ],
+    "kun": [
+      "ひさし",
+      "おお.う",
+      "かば.う"
+    ],
+    "am_han": "TÍ"
+  },
+  "meaning": {
+    "vi": "bảo vệ, lá chắn, mái hiên, tán, căn hộ áp mái, tấm che",
+    "en": "protect, shield, defend, eaves, canopy, penthouse, visor"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/庇.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "6538",
+    "text": "庇 (đọc là \"hi\") có nghĩa là \"che chở\", \"bảo vệ\" để chỉ hành động bảo vệ hoặc che chắn khỏi những tác động bên ngoài.\n\nVí dụ:\n- 庇護 (higo): Bảo hộ, che chở.\n- 庇う (hibau): Che chở, bảo vệ ai đó"
+  },
+  "comments": [
+    {
+      "id": "219415",
+      "lang": "vi",
+      "content_html": "<p>Ngôi nhà được so sánh như vị thần che chở cho con người trước bão giông</p>",
+      "content_text": "Ngôi nhà được so sánh như vị thần che chở cho con người trước bão giông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219416",
+      "lang": "vi",
+      "content_html": "<p>Không gì so sánh được với Mái Nhà vì luôn được che chở bảo vệ!</p>",
+      "content_text": "Không gì so sánh được với Mái Nhà vì luôn được che chở bảo vệ!",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219417",
+      "lang": "vi",
+      "content_html": "<p>Trạng TÍ say BÍ TỈ trong nhà</p>",
+      "content_text": "Trạng TÍ say BÍ TỈ trong nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

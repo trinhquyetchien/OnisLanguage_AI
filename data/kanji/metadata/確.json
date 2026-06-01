@@ -1,0 +1,109 @@
+{
+  "kanji": "確",
+  "meta": {
+    "weight": 1889,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク",
+      "コウ"
+    ],
+    "kun": [
+      "たし.か",
+      "たし.かめる"
+    ],
+    "am_han": "XÁC"
+  },
+  "meaning": {
+    "vi": "xác định, chính xác",
+    "en": "assurance, firm, tight, hard, solid, confirm, clear, evident"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/確.svg"
+  },
+  "frequency": 252,
+  "examples": [
+    "確か",
+    "確認",
+    "確保",
+    "明確",
+    "正確"
+  ],
+  "explanation": {
+    "id": "911",
+    "text": "確 (đọc là \"kaku\") có nghĩa là \"chắc chắn\", \"xác thực\" để chỉ sự khẳng định, tính chính xác hoặc độ tin cậy của thông tin.  \nVí dụ:  \n- 確認 (kakunin): Xác nhận, kiểm tra.  \n- 確実 (kakujitsu): C"
+  },
+  "comments": [
+    {
+      "id": "155658",
+      "lang": "vi",
+      "content_html": "<p>XÁC con CHIM nằm trên tảng ĐÁ</p>",
+      "content_text": "XÁC con CHIM nằm trên tảng ĐÁ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155659",
+      "lang": "vi",
+      "content_html": "<p>XÁC CHIM chết do trúng ĐÁ rơi xuống MÁI NHÀ</p>",
+      "content_text": "XÁC CHIM chết do trúng ĐÁ rơi xuống MÁI NHÀ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155660",
+      "lang": "vi",
+      "content_html": "<p>XÁC nhận lại xem đã kê hòn đá 石 lên chuồng 宀 Chim 隹 chưa, ko nhỡ nó bay mất</p>",
+      "content_text": "XÁC nhận lại xem đã kê hòn đá 石 lên chuồng 宀 Chim 隹 chưa, ko nhỡ nó bay mất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222068",
+      "lang": "vi",
+      "content_html": "<p>Chữ <strong>確 </strong>là chữ hình thanh gồm 2 phần:&nbsp;</p><ul><li><strong>石</strong> <strong>(thạch)</strong> đá, biểu thị sự <strong>vững chắc, rắn rỏi</strong></li><li><strong>隺 (Hạc/Hộc)</strong> âm đọc Hán: <strong>kaku</strong>&nbsp;</li></ul><p>Theo <strong>Khang Hy Tự Điển</strong>, <strong>確</strong> nghĩa là:</p><ul><li><strong>Kiên cố, vững chắc</strong>（堅也，靳固也）</li><li><strong>Chắc chắn không dao động</strong>（確乎其不可拔）</li><li>Là từ diễn tả tính <strong>kiên định</strong>, <strong>chính xác</strong>, <strong>không thay đổi</strong></li></ul>",
+      "content_text": "Chữ\n確\nlà chữ hình thanh gồm 2 phần:\n石\n(thạch)\nđá, biểu thị sự\nvững chắc, rắn rỏi\n隺 (Hạc/Hộc)\nâm đọc Hán:\nkaku\nTheo\nKhang Hy Tự Điển\n,\n確\nnghĩa là:\nKiên cố, vững chắc\n（堅也，靳固也）\nChắc chắn không dao động\n（確乎其不可拔）\nLà từ diễn tả tính\nkiên định\n,\nchính xác\n,\nkhông thay đổi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

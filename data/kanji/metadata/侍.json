@@ -1,0 +1,89 @@
+{
+  "kanji": "侍",
+  "meta": {
+    "weight": 184,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ",
+      "シ"
+    ],
+    "kun": [
+      "さむらい",
+      "はべ.る"
+    ],
+    "am_han": "THỊ"
+  },
+  "meaning": {
+    "vi": "bồi bàn, samurai, chờ đợi, phục vụ",
+    "en": "waiter, samurai, wait upon, serve"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/侍.svg"
+  },
+  "frequency": 1939,
+  "examples": [
+    "侍",
+    "侍従"
+  ],
+  "explanation": {
+    "id": "3180",
+    "text": "侍 (đọc là \"ji\" hoặc \"samurai\") có nghĩa là \"người hầu\", \"đầy tớ\" nhưng thường được hiểu là \"samurai\", chỉ những chiến binh trong thời kỳ phong kiến Nhật Bản. \n\nVí dụ:\n- 侍女 (jijo): Người hầu "
+  },
+  "comments": [
+    {
+      "id": "151652",
+      "lang": "vi",
+      "content_html": "<p>Người bảo vệ chùa đích thị samurai</p>",
+      "content_text": "Người bảo vệ chùa đích thị samurai",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151653",
+      "lang": "vi",
+      "content_html": "<p>Người ở chùa đích thị là người hầu của phật</p>",
+      "content_text": "Người ở chùa đích thị là người hầu của phật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151654",
+      "lang": "vi",
+      "content_html": "<p>thị lang , thị vệ</p>",
+      "content_text": "thị lang , thị vệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "枕",
+  "meta": {
+    "weight": 1307,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チン",
+      "シン"
+    ],
+    "kun": [
+      "まくら"
+    ],
+    "am_han": "CHẨM, CHẤM"
+  },
+  "meaning": {
+    "vi": "cái gối",
+    "en": "pillow"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/枕.svg"
+  },
+  "frequency": 2084,
+  "examples": [
+    "枕",
+    "枕元",
+    "夢枕",
+    "枕草子"
+  ],
+  "explanation": {
+    "id": "7410",
+    "text": "枕 (đọc là \"makura\") có nghĩa là \"gối\", chỉ vật dụng dùng để nâng đầu khi ngủ.  \nVí dụ:  \n- 枕元 (makuramoto): Nơi để gối, thường chỉ vị trí bên cạnh gối khi ngủ.  \n- 枕詞 (makurakotoba): Từ ngữ "
+  },
+  "comments": [
+    {
+      "id": "154421",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa gối làm bằng cây lúc ngủ buông tay chân duỗi chân co</p>",
+      "content_text": "Thời xưa gối làm bằng cây lúc ngủ buông tay chân duỗi chân co",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154423",
+      "lang": "vi",
+      "content_html": "<p>người để khúc cây ngang đầu thì làm gối　枕<br>người để nước ngập ngang đầu thì là chìm xuống nước 沈む</p>",
+      "content_text": "người để khúc cây ngang đầu thì làm gối　枕\nngười để nước ngập ngang đầu thì là chìm xuống nước 沈む",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154422",
+      "lang": "vi",
+      "content_html": "<p>chẩm chậm tiến sát cái cây đê làm gối ngủ 1 giấc</p>",
+      "content_text": "chẩm chậm tiến sát cái cây đê làm gối ngủ 1 giấc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

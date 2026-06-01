@@ -1,0 +1,89 @@
+{
+  "kanji": "汐",
+  "meta": {
+    "weight": 1488,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ"
+    ],
+    "kun": [
+      "しお",
+      "うしお",
+      "せい"
+    ],
+    "am_han": "TỊCH"
+  },
+  "meaning": {
+    "vi": "sự kiện, thủy triều, nước mặn, cơ hội",
+    "en": "eventide, tide, salt water, opportunity"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/汐.svg"
+  },
+  "frequency": 2314,
+  "examples": [
+    "汐",
+    "潮汐"
+  ],
+  "explanation": {
+    "id": "3239",
+    "text": "汐 (đọc là \"shio\") có nghĩa là \"thủy triều\", chỉ những biến động của nước biển do ảnh hưởng của mặt trăng và các yếu tố thiên nhiên khác.  \nVí dụ:  \n- 潮汐 (choushaku): Thủy triều, dòng chảy củ"
+  },
+  "comments": [
+    {
+      "id": "154769",
+      "lang": "vi",
+      "content_html": "<p>Nước thuỷ triều dâng vào nước ta đêm khuya TỊCH</p>",
+      "content_text": "Nước thuỷ triều dâng vào nước ta đêm khuya TỊCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154770",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa chỉ cần nhìn cây TRÚC với cái CÀY là biết ngay Quốc TỊCH</p>",
+      "content_text": "Ngày xưa chỉ cần nhìn cây TRÚC với cái CÀY là biết ngay Quốc TỊCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154771",
+      "lang": "vi",
+      "content_html": "<p>Chiều tối(Tịch) nước thuỷ triều dâng</p>",
+      "content_text": "Chiều tối(Tịch) nước thuỷ triều dâng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

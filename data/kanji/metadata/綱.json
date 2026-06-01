@@ -1,0 +1,90 @@
+{
+  "kanji": "綱",
+  "meta": {
+    "weight": 2087,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "つな"
+    ],
+    "am_han": "CƯƠNG"
+  },
+  "meaning": {
+    "vi": "hawser, lớp (chi), dây, cáp",
+    "en": "hawser, class (genus), rope, cord, cable"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/綱.svg"
+  },
+  "frequency": 1053,
+  "examples": [
+    "綱",
+    "大綱",
+    "綱領",
+    "要綱",
+    "横綱"
+  ],
+  "explanation": {
+    "id": "2522",
+    "text": "綱 (đọc là \"kou\" hoặc \"tsuna\") có nghĩa là \"dây thừng\", \"mối liên kết\" để chỉ các khái niệm liên quan đến sự kết nối hoặc cơ cấu tổ chức.  \nVí dụ:  \n- 綱領 (kouryou): Chương trình, đường lối.  "
+  },
+  "comments": [
+    {
+      "id": "156075",
+      "lang": "vi",
+      "content_html": "<p>Dùng Dây Cương để leo Đồi núi</p>",
+      "content_text": "Dùng Dây Cương để leo Đồi núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156076",
+      "lang": "vi",
+      "content_html": "<p>親綱（おやづな）dây cứu sinh, dây an toàn. Chuyên ngành XD</p>",
+      "content_text": "親綱（おやづな）dây cứu sinh, dây an toàn. Chuyên ngành XD",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156077",
+      "lang": "vi",
+      "content_html": "<p>Dùng dây thừng leo lên đồi ở biên cương</p>",
+      "content_text": "Dùng dây thừng leo lên đồi ở biên cương",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

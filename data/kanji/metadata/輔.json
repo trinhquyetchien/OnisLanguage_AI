@@ -1,0 +1,53 @@
+{
+  "kanji": "輔",
+  "meta": {
+    "weight": 2615,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホ",
+      "フ"
+    ],
+    "kun": [
+      "たす.ける"
+    ],
+    "am_han": "PHỤ"
+  },
+  "meaning": {
+    "vi": "Cứu giúp",
+    "en": "help"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/輔.svg"
+  },
+  "frequency": 1898,
+  "examples": [
+    "大輔"
+  ],
+  "explanation": {
+    "id": "7107",
+    "text": "輔 (đọc là \"ho\") có nghĩa là \"hỗ trợ\", \"trợ giúp\" để chỉ các hành động liên quan đến việc giúp đỡ, hỗ trợ người khác.  \nVí dụ:  \n- 輔助 (hojo): Hỗ trợ, trợ giúp.  \n- 輔食 (hoshoku): Hỗ trợ ăn uốn"
+  },
+  "comments": [
+    {
+      "id": "157233",
+      "lang": "vi",
+      "content_html": "<p>Xe chuyên dụng ở phủ dùng chở PHỤ tá đi giúp đỡ</p>",
+      "content_text": "Xe chuyên dụng ở phủ dùng chở PHỤ tá đi giúp đỡ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

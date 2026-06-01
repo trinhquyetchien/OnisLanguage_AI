@@ -1,0 +1,107 @@
+{
+  "kanji": "募",
+  "meta": {
+    "weight": 362,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ボ"
+    ],
+    "kun": [
+      "つの.る"
+    ],
+    "am_han": "MỘ"
+  },
+  "meaning": {
+    "vi": "tuyển dụng, chiêu mộ",
+    "en": "recruit, campaign, gather (contributions), enlist, grow violent"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/募.svg"
+  },
+  "frequency": 809,
+  "examples": [
+    "募集",
+    "応募",
+    "募金",
+    "公募",
+    "募る"
+  ],
+  "explanation": {
+    "id": "7114",
+    "text": "募 (đọc là \"bo\") có nghĩa là \"tuyển mộ\", \"huy động\" để chỉ các hành động liên quan đến việc thu hút người tham gia hoặc quyên góp.\n\nVí dụ:\n- 募集 (boshuu): Tuyển dụng, tuyển mộ.\n- 募金 (bokin): Q"
+  },
+  "comments": [
+    {
+      "id": "152112",
+      "lang": "vi",
+      "content_html": "<p>Chiêu mộ một lực lượng to lớn để dọn cỏ trong 1 ngày</p>",
+      "content_text": "Chiêu mộ một lực lượng to lớn để dọn cỏ trong 1 ngày",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152113",
+      "lang": "vi",
+      "content_html": "<p>莫 : Lượng lớn莫 cỏ艹 trên mặt trời 日 to 大<br>募 : Chiêu mộ 募 lượng lớn 莫 lực sĩ 力 <br>漠 : Sa mạc漠 cần một lượng lớn莫 nước 氵 <br>幕 : Mạc phủ 幕 dùng một lượng lớn莫 khăn巾<br>墓 : Mộ墓 là nơi có nhiều莫 đất土<br>暮 : Cuộc sống暮 = lượng lớn莫 ngày日<br>模 : Mô hình模 cần lượng lớn莫 gỗ木</p>",
+      "content_text": "莫 : Lượng lớn莫 cỏ艹 trên mặt trời 日 to 大\n募 : Chiêu mộ 募 lượng lớn 莫 lực sĩ 力\n漠 : Sa mạc漠 cần một lượng lớn莫 nước 氵\n幕 : Mạc phủ 幕 dùng một lượng lớn莫 khăn巾\n墓 : Mộ墓 là nơi có nhiều莫 đất土\n暮 : Cuộc sống暮 = lượng lớn莫 ngày日\n模 : Mô hình模 cần lượng lớn莫 gỗ木",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190730",
+      "lang": "vi",
+      "content_html": "<p>cắt Cỏ trong ngày cần nhiều sức Lực nên phải đi chiêu Mộ</p>",
+      "content_text": "cắt Cỏ trong ngày cần nhiều sức Lực nên phải đi chiêu Mộ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "152114",
+      "lang": "vi",
+      "content_html": "<p>Để chiêu MỘ được đống cỏ LỚN phơi trong môt ngày cần có súc LỰC</p>",
+      "content_text": "Để chiêu MỘ được đống cỏ LỚN phơi trong môt ngày cần có súc LỰC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

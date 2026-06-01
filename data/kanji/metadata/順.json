@@ -1,0 +1,88 @@
+{
+  "kanji": "順",
+  "meta": {
+    "weight": 2900,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジュン"
+    ],
+    "kun": [],
+    "am_han": "THUẬN"
+  },
+  "meaning": {
+    "vi": "tuân theo, thuận theo",
+    "en": "obey, order, turn, right, docility, occasion"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/順.svg"
+  },
+  "frequency": 779,
+  "examples": [
+    "順",
+    "順位",
+    "手順",
+    "順番",
+    "順調"
+  ],
+  "explanation": {
+    "id": "3676",
+    "text": "順 (đọc là \"jun\") có nghĩa là \"trật tự\", \"tuân theo\" để chỉ các hành động liên quan đến việc theo thứ tự, tuân thủ hoặc thuận theo.\n\nVí dụ:\n- 順番 (junban): Thứ tự, lượt.\n- 順調 (junchō): Trôi ch"
+  },
+  "comments": [
+    {
+      "id": "157871",
+      "lang": "vi",
+      "content_html": "<p>Nước lúc nào cũng chẩy THUẬN chiều từ ĐẦU (thượng nguồn) dòng sông</p>",
+      "content_text": "Nước lúc nào cũng chẩy THUẬN chiều từ ĐẦU (thượng nguồn) dòng sông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157872",
+      "lang": "vi",
+      "content_html": "<p>Nước chảy đầu nguồn nên rất thuận tiện</p>",
+      "content_text": "Nước chảy đầu nguồn nên rất thuận tiện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157873",
+      "lang": "vi",
+      "content_html": "<p>con sò thuận theo dòng nước trôi đi.</p>",
+      "content_text": "con sò thuận theo dòng nước trôi đi.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

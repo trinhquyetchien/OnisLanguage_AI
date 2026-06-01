@@ -1,0 +1,85 @@
+{
+  "kanji": "硝",
+  "meta": {
+    "weight": 1875,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ショウ"
+    ],
+    "kun": [],
+    "am_han": "TIÊU"
+  },
+  "meaning": {
+    "vi": "nitrat, muối",
+    "en": "nitrate, saltpeter"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/硝.svg"
+  },
+  "frequency": 2154,
+  "examples": [
+    "硝子",
+    "硝酸"
+  ],
+  "explanation": {
+    "id": "3877",
+    "text": "硝 (đọc là \"shō\") có nghĩa là \"nitrat\", thường được sử dụng trong hóa học để chỉ các hợp chất chứa nitrat, đặc biệt là kali nitrat. \n\nVí dụ:\n- 硝酸 (shōsan): Axit nitric.\n- 硝石 (shōseki): Muối n"
+  },
+  "comments": [
+    {
+      "id": "155639",
+      "lang": "vi",
+      "content_html": "<p>hòn đá để qua đêm trăng sẽ tỏa ra mùi thuốc súng</p>",
+      "content_text": "hòn đá để qua đêm trăng sẽ tỏa ra mùi thuốc súng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155640",
+      "lang": "vi",
+      "content_html": "<p>Nitrat là chất làm Đá bị Tiêu hủy</p>",
+      "content_text": "Nitrat là chất làm Đá bị Tiêu hủy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155641",
+      "lang": "vi",
+      "content_html": "<p>Đá tiêu thành làm ra kính</p>",
+      "content_text": "Đá tiêu thành làm ra kính",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

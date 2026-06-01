@@ -1,0 +1,88 @@
+{
+  "kanji": "玩",
+  "meta": {
+    "weight": 1735,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ガン"
+    ],
+    "kun": [
+      "もちあそ.ぶ",
+      "もてあそ.ぶ"
+    ],
+    "am_han": "NGOẠN"
+  },
+  "meaning": {
+    "vi": "chơi, tận hưởng niềm vui, trò chuyện với, làm cho thể thao",
+    "en": "play, take pleasure in, trifle with, make sport of"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/玩.svg"
+  },
+  "frequency": 2216,
+  "examples": [
+    "玩具",
+    "愛玩"
+  ],
+  "explanation": {
+    "id": "1213",
+    "text": "玩 (đọc là \"wan\" hoặc \"asobu\") có nghĩa là \"chơi\", \"vui vẻ\" để chỉ các hành động liên quan đến giải trí, thư giãn hoặc tham gia vào hoạt động vui chơi.\n\nVí dụ:\n- 玩具 (ongu): Đồ chơi.\n- 遊ぶ (aso"
+  },
+  "comments": [
+    {
+      "id": "155323",
+      "lang": "vi",
+      "content_html": "<p>Vua Nguyên du NGOẠN đó đây</p>",
+      "content_text": "Vua Nguyên du NGOẠN đó đây",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155324",
+      "lang": "vi",
+      "content_html": "<p>Vua chúa thích thưởng NGOẠN trinh nguyên ( hàng nguyên tem &#62;,&#60; )</p>",
+      "content_text": "Vua chúa thích thưởng NGOẠN trinh nguyên ( hàng nguyên tem >,< )",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155325",
+      "lang": "vi",
+      "content_html": "<p>VUA mà KHOẺ MẠNH thì hay đi du NGOẠN.</p>",
+      "content_text": "VUA mà KHOẺ MẠNH thì hay đi du NGOẠN.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "kanji": "奉",
+  "meta": {
+    "weight": 633,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ",
+      "ブ"
+    ],
+    "kun": [
+      "たてまつ.る",
+      "まつ.る",
+      "ほう.ずる"
+    ],
+    "am_han": "PHỤNG, BỔNG"
+  },
+  "meaning": {
+    "vi": "chấp hành, đề nghị, trình bày, cống hiến",
+    "en": "observance, offer, present, dedicate"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/奉.svg"
+  },
+  "frequency": 1624,
+  "examples": [
+    "奉仕",
+    "信奉",
+    "奉納",
+    "奉公",
+    "奉行"
+  ],
+  "explanation": {
+    "id": "7154",
+    "text": "奉 (đọc là \"hou\") có nghĩa là \"cống hiến\", \"dâng tặng\" để chỉ các hành động liên quan đến việc phục vụ, tôn kính hoặc dâng lên ai đó.\n\nVí dụ:\n- 奉仕 (houshi): Sự phục vụ, cống hiến.\n- 奉納 (houno"
+  },
+  "comments": [
+    {
+      "id": "152754",
+      "lang": "vi",
+      "content_html": "<p>3 người tặng bò chặt sừng rồi để cung phụng</p>",
+      "content_text": "3 người tặng bò chặt sừng rồi để cung phụng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152755",
+      "lang": "vi",
+      "content_html": "<p>Phụng mệnh 3 người nghe lòi chặt sừng bò</p>",
+      "content_text": "Phụng mệnh 3 người nghe lòi chặt sừng bò",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152756",
+      "lang": "vi",
+      "content_html": "<p>3 người nghe lời chặt mất sừng con trâu</p>",
+      "content_text": "3 người nghe lời chặt mất sừng con trâu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "kanji": "接",
+  "meta": {
+    "weight": 1120,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セツ",
+      "ショウ"
+    ],
+    "kun": [
+      "つ.ぐ"
+    ],
+    "am_han": "TIẾP"
+  },
+  "meaning": {
+    "vi": "tiếp xúc",
+    "en": "touch, contact, adjoin, piece together"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/接.svg"
+  },
+  "frequency": 523,
+  "examples": [
+    "直接",
+    "接続",
+    "面接",
+    "接触",
+    "間接"
+  ],
+  "explanation": {
+    "id": "4436",
+    "text": "接 (đọc là \"setsu\") có nghĩa là \"tiếp xúc\", \"kết nối\" để chỉ các hành động liên quan đến việc tiếp nhận hoặc kết nối với cái gì đó.\n\nVí dụ:\n- 接触 (sesshoku): Tiếp xúc, giao tiếp.\n- 接続 (setsuzo"
+  },
+  "comments": [
+    {
+      "id": "153965",
+      "lang": "vi",
+      "content_html": "<p>Muốn lấy vợ lẽ (xưa gọi là THIẾP) thì phải TRỰC tiếp dắt TAY về báo cáo với vợ cả</p>",
+      "content_text": "Muốn lấy vợ lẽ (xưa gọi là THIẾP) thì phải TRỰC tiếp dắt TAY về báo cáo với vợ cả",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190703",
+      "lang": "vi",
+      "content_html": "<p>Tay cầm hoa đứng gần cô gái để Tiếp xúc</p>",
+      "content_text": "Tay cầm hoa đứng gần cô gái để Tiếp xúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "153966",
+      "lang": "vi",
+      "content_html": "<p>cầm tay đứng tiếp giáp người con gái mình yêu</p>",
+      "content_text": "cầm tay đứng tiếp giáp người con gái mình yêu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153967",
+      "lang": "vi",
+      "content_html": "<p>người phụ nữ đứng yên dùng tay tiếp khách</p>",
+      "content_text": "người phụ nữ đứng yên dùng tay tiếp khách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222071",
+      "lang": "vi",
+      "content_html": "<p>Theo <strong>Thuyết Văn Giải Tự</strong>:</p><p>「交也。从手，妾聲。」– <strong>“Tiếp”</strong> nghĩa là giao tiếp, kết nối. Từ tay <strong>(扌)</strong> + thanh mẫu <strong>妾 (Thiếp aka vợ lẽ)</strong>.<br>&nbsp;</p>",
+      "content_text": "Theo\nThuyết Văn Giải Tự\n:\n「交也。从手，妾聲。」–\n“Tiếp”\nnghĩa là giao tiếp, kết nối. Từ tay\n(扌)\n+ thanh mẫu\n妾 (Thiếp aka vợ lẽ)\n.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "kanji": "錐",
+  "meta": {
+    "weight": 2771,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "スイ"
+    ],
+    "kun": [
+      "きり"
+    ],
+    "am_han": "TRÙY"
+  },
+  "meaning": {
+    "vi": "khoan, dùi, kim tự tháp, hình nón",
+    "en": "auger, drill, awl, pyramid, cone"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/錐.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4239",
+    "text": "錐 (đọc là \"sui\") có nghĩa là \"mũi khoan\" hoặc \"cái khoan\" để chỉ các dụng cụ sắc nhọn dùng để khoan lỗ hoặc tạo hình.\nVí dụ:\n- 錐描き (suidaki): Kỹ thuật vẽ bằng cách sử dụng mũi khoan.\n- 錐型 (s"
+  },
+  "comments": [
+    {
+      "id": "220917",
+      "lang": "vi",
+      "content_html": "<p>Con chim có cái mỏ nhọn bằng vàng</p>",
+      "content_text": "Con chim có cái mỏ nhọn bằng vàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

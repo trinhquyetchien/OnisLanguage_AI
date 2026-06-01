@@ -1,0 +1,90 @@
+{
+  "kanji": "単",
+  "meta": {
+    "weight": 394,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "ひとえ"
+    ],
+    "am_han": "ĐƠN"
+  },
+  "meaning": {
+    "vi": "đơn giản",
+    "en": "simple, one, single, merely"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/単.svg"
+  },
+  "frequency": 586,
+  "examples": [
+    "簡単",
+    "単純",
+    "単位",
+    "単に",
+    "単語"
+  ],
+  "explanation": {
+    "id": "5115",
+    "text": "単 (đọc là \"tan\") có nghĩa là \"đơn giản\", \"đơn lẻ\". \n\nVí dụ:\n- 単純 (tanjun): Đơn giản, dễ hiểu.\n- 単位 (tan'i): Đơn vị.\n- 単独 (tandoku): Độc lập, một mình."
+  },
+  "comments": [
+    {
+      "id": "152183",
+      "lang": "vi",
+      "content_html": "<p>3 cái cây trên đồng quá đơn giản, 10h ra làm cũng dc</p>",
+      "content_text": "3 cái cây trên đồng quá đơn giản, 10h ra làm cũng dc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152184",
+      "lang": "vi",
+      "content_html": "<p>ĐƠN giản dậy sớm lúc 3h</p>",
+      "content_text": "ĐƠN giản dậy sớm lúc 3h",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152185",
+      "lang": "vi",
+      "content_html": "<p>3h [ĐƠN độc] [giáp] chiến</p>",
+      "content_text": "3h [ĐƠN độc] [giáp] chiến",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

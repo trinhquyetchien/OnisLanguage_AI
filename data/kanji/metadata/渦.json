@@ -1,0 +1,89 @@
+{
+  "kanji": "渦",
+  "meta": {
+    "weight": 1577,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カ"
+    ],
+    "kun": [
+      "うず"
+    ],
+    "am_han": "QUA, OA"
+  },
+  "meaning": {
+    "vi": "xoáy nước",
+    "en": "whirlpool, eddy, vortex"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/渦.svg"
+  },
+  "frequency": 1789,
+  "examples": [
+    "渦",
+    "渦中",
+    "渦巻き",
+    "渦巻く"
+  ],
+  "explanation": {
+    "id": "316",
+    "text": "渦 (đọc là \"uze\" hoặc \"ka\") có nghĩa là \"xoáy nước\", chỉ những dòng chảy nước cuộn tròn, hay sự hỗn loạn.  \nVí dụ:  \n- 渦巻き (uzumaki): Cuộn xoáy, hình xoáy.  \n- 渦潮 (uzushio): Thủy triều xoáy, "
+  },
+  "comments": [
+    {
+      "id": "154984",
+      "lang": "vi",
+      "content_html": "<p>Qua sông thì gặp dòng XOÁY</p>",
+      "content_text": "Qua sông thì gặp dòng XOÁY",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154985",
+      "lang": "vi",
+      "content_html": "<p>Nước chảy QUA chảy lại tạo ra dòng xoáy</p>",
+      "content_text": "Nước chảy QUA chảy lại tạo ra dòng xoáy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154986",
+      "lang": "vi",
+      "content_html": "<p>NƯỚC XOÁY QUA XOÁY LẠI tạo thành XOÁY NƯỚC</p>",
+      "content_text": "NƯỚC XOÁY QUA XOÁY LẠI tạo thành XOÁY NƯỚC",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

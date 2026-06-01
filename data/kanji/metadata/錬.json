@@ -1,0 +1,88 @@
+{
+  "kanji": "錬",
+  "meta": {
+    "weight": 2777,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レン"
+    ],
+    "kun": [
+      "ね.る"
+    ],
+    "am_han": "LUYỆN, CHƯƠNG, RÈN"
+  },
+  "meaning": {
+    "vi": "tôi luyện, tinh luyện, khoan, đào tạo, đánh bóng",
+    "en": "tempering, refine, drill, train, polish"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/錬.svg"
+  },
+  "frequency": 2221,
+  "examples": [
+    "錬金術",
+    "鍛錬",
+    "精錬"
+  ],
+  "explanation": {
+    "id": "8298",
+    "text": "錬 (đọc là \"ren\") có nghĩa là \"huấn luyện\", \"rèn luyện\" để chỉ các hành động liên quan đến việc luyện tập, cải thiện kỹ năng hoặc chất liệu.  \nVí dụ:  \n- 錬金術 (renkinjutsu): Giả kim thuật.  \n-"
+  },
+  "comments": [
+    {
+      "id": "157583",
+      "lang": "vi",
+      "content_html": "<p>Luyện kim ở phía đông</p>",
+      "content_text": "Luyện kim ở phía đông",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157584",
+      "lang": "vi",
+      "content_html": "<p>Luyện kim là quá trình nhiều lần cho Kim loại nóng chảy rồi lại Đông cứng lại</p>",
+      "content_text": "Luyện kim là quá trình nhiều lần cho Kim loại nóng chảy rồi lại Đông cứng lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157585",
+      "lang": "vi",
+      "content_html": "<p>vàng thường được tinh LUYỆN vào mùa ĐÔNG...</p>",
+      "content_text": "vàng thường được tinh LUYỆN vào mùa ĐÔNG...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

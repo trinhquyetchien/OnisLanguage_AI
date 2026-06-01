@@ -1,0 +1,88 @@
+{
+  "kanji": "揮",
+  "meta": {
+    "weight": 1136,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "ふる.う"
+    ],
+    "am_han": "HUY"
+  },
+  "meaning": {
+    "vi": "rượu mạnh, vẫy tay, lắc lư",
+    "en": "brandish, wave, wag, swing, shake"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/揮.svg"
+  },
+  "frequency": 946,
+  "examples": [
+    "発揮",
+    "指揮",
+    "揮発"
+  ],
+  "explanation": {
+    "id": "1294",
+    "text": "揮 (đọc là \"ki\") có nghĩa là \"vung\", \"quơ\" để chỉ các hành động liên quan đến việc sử dụng hoặc thao tác với một vật gì đó, thường là trong nghệ thuật hoặc thể thao.\n\nVí dụ:\n- 揮発 (ki hatsu): "
+  },
+  "comments": [
+    {
+      "id": "153998",
+      "lang": "vi",
+      "content_html": "<p>Tay chỉ huy quân đội</p>",
+      "content_text": "Tay chỉ huy quân đội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153999",
+      "lang": "vi",
+      "content_html": "<p>Quân 軍 đội đang cố gắng phát huy 発揮 đôi tay 手 cơ bắp của mình</p>",
+      "content_text": "Quân 軍 đội đang cố gắng phát huy 発揮 đôi tay 手 cơ bắp của mình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154000",
+      "lang": "vi",
+      "content_html": "<p>Dùng tay chỉ huy quân đội</p>",
+      "content_text": "Dùng tay chỉ huy quân đội",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

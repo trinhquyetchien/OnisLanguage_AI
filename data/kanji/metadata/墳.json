@@ -1,0 +1,84 @@
+{
+  "kanji": "墳",
+  "meta": {
+    "weight": 601,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "フン"
+    ],
+    "kun": [],
+    "am_han": "PHẦN, PHẪN, BỔN"
+  },
+  "meaning": {
+    "vi": "mộ, gò",
+    "en": "tomb, mound"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/墳.svg"
+  },
+  "frequency": 1822,
+  "examples": [
+    "古墳"
+  ],
+  "explanation": {
+    "id": "6952",
+    "text": "墳 (đọc là \"fun\") có nghĩa là \"mộ\" hoặc \"mồ\" để chỉ các công trình chôn cất.  \nVí dụ:  \n- 墳墓 (funbo): Mồ mả, nơi chôn cất.  \n- 古墳 (kofun): Cổ mộ, cụm từ chỉ các ngôi mộ cổ ở Nhật Bản.  \n- 墳場 "
+  },
+  "comments": [
+    {
+      "id": "152675",
+      "lang": "vi",
+      "content_html": "<p>Trả 10 tờ tiền hoa xây mộ PHẦN trên đất</p>",
+      "content_text": "Trả 10 tờ tiền hoa xây mộ PHẦN trên đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152676",
+      "lang": "vi",
+      "content_html": "<p>Khu Đất cắm 10 bông Hoa và tiền chính là PHẦN mộ.</p>",
+      "content_text": "Khu Đất cắm 10 bông Hoa và tiền chính là PHẦN mộ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152677",
+      "lang": "vi",
+      "content_html": "<p>Khi nằm xuống đất (土) dù có tiền(貝 ) thì cũng bị hủy(卉) hết rồi thành mộ Phần</p>",
+      "content_text": "Khi nằm xuống đất (土) dù có tiền(貝 ) thì cũng bị hủy(卉) hết rồi thành mộ Phần",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

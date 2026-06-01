@@ -1,0 +1,89 @@
+{
+  "kanji": "第",
+  "meta": {
+    "weight": 1988,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ダイ",
+      "テイ"
+    ],
+    "kun": [],
+    "am_han": "ĐỆ"
+  },
+  "meaning": {
+    "vi": "thứ, đệ nhất, đệ nhị",
+    "en": "No., residence"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/第.svg"
+  },
+  "frequency": 160,
+  "examples": [
+    "第",
+    "次第",
+    "第三者",
+    "次第に",
+    "第一歩"
+  ],
+  "explanation": {
+    "id": "5004",
+    "text": "第 (đọc là \"dai\" hoặc \"te\") có nghĩa là \"thứ\", \"bậc\" để chỉ thứ tự trong một danh sách hoặc phân loại.  \nVí dụ:  \n- 第一 (daiichi): Thứ nhất, đầu tiên.  \n- 第三者 (daisansha): Bên thứ ba.  \n- 第1巻 "
+  },
+  "comments": [
+    {
+      "id": "155864",
+      "lang": "vi",
+      "content_html": "<p>Em trai đội trúc là đệ</p>",
+      "content_text": "Em trai đội trúc là đệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155865",
+      "lang": "vi",
+      "content_html": "<p>Thằng đệ đội trúc lên đầu</p>",
+      "content_text": "Thằng đệ đội trúc lên đầu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155866",
+      "lang": "vi",
+      "content_html": "<p>Đệ nhất chặt tre vẫn là thằng đệ</p>",
+      "content_text": "Đệ nhất chặt tre vẫn là thằng đệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

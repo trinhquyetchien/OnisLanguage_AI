@@ -1,0 +1,52 @@
+{
+  "kanji": "佼",
+  "meta": {
+    "weight": 180,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ",
+      "コウ"
+    ],
+    "kun": [
+      "こう.す",
+      "うつく.しい"
+    ],
+    "am_han": "GIẢO, GIAO, KIỂU, THỨ"
+  },
+  "meaning": {
+    "vi": "xinh đẹp, thông minh, lừa dối, ranh mãnh",
+    "en": "beautiful, clever, deceive, sly"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/佼.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "2373",
+    "text": "佼 (đọc là \"kō\") có nghĩa là \"tốt đẹp\", \"lấp lánh\", thường chỉ những điều tươi sáng, tốt lành. \n\nVí dụ:\n- 佼佼 (kōkō): Xuất sắc, nổi bật.\n- 佼人 (kōjin): Người tốt, người tài giỏi.\n- 佼佳 (kōka): T"
+  },
+  "comments": [
+    {
+      "id": "218853",
+      "lang": "vi",
+      "content_html": "<p>Người hay GIAO lưu thì thường là người có duyên.</p>",
+      "content_text": "Người hay GIAO lưu thì thường là người có duyên.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

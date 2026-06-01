@@ -1,0 +1,110 @@
+{
+  "kanji": "由",
+  "meta": {
+    "weight": 1774,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ユ",
+      "ユウ",
+      "ユイ"
+    ],
+    "kun": [
+      "よし",
+      "よ.る"
+    ],
+    "am_han": "DO"
+  },
+  "meaning": {
+    "vi": "lý do, tự do",
+    "en": "wherefore, a reason"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/由.svg"
+  },
+  "frequency": 325,
+  "examples": [
+    "理由",
+    "自由",
+    "経由",
+    "由来",
+    "不自由"
+  ],
+  "explanation": {
+    "id": "7778",
+    "text": "由 (đọc là \"yuu\" hoặc \"yoshi\") có nghĩa là \"nguồn gốc\", \"lý do\" để chỉ sự bắt đầu hoặc nguyên nhân của một sự việc.  \nVí dụ:  \n- 由来 (yurai): Nguồn gốc, lai lịch.  \n- 由緒 (yoshiki): Lịch sử, tr"
+  },
+  "comments": [
+    {
+      "id": "37101",
+      "lang": "vi",
+      "content_html": "<p>Đừng mở cái hộp ra.</p><p><strong>Vì </strong>không chừng sẽ có vật gì đó đáng sợ xuất hiện.</p>",
+      "content_text": "Đừng mở cái hộp ra.\nVì\nkhông chừng sẽ có vật gì đó đáng sợ xuất hiện.",
+      "image_url": "https://jpdictionary.com/upload/images/62bdb3327a418.jpg",
+      "image_path": "assets/images/由_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155393",
+      "lang": "vi",
+      "content_html": "<p>Tự DO cắm cọc trên ruộng</p>",
+      "content_text": "Tự DO cắm cọc trên ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155394",
+      "lang": "vi",
+      "content_html": "<p>đất nước tự do ai cũng có ruộng</p>",
+      "content_text": "đất nước tự do ai cũng có ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155395",
+      "lang": "vi",
+      "content_html": "<p>Ruộng bị đốt thành Do</p>",
+      "content_text": "Ruộng bị đốt thành Do",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "kanji": "鳳",
+  "meta": {
+    "weight": 2996,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ",
+      "フウ"
+    ],
+    "kun": [],
+    "am_han": "PHƯỢNG"
+  },
+  "meaning": {
+    "vi": "chim thần thoại đực",
+    "en": "male mythical bird"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/鳳.svg"
+  },
+  "frequency": 2163,
+  "examples": [
+    "鳳"
+  ],
+  "explanation": {
+    "id": "7235",
+    "text": "鳳 (đọc là \"hō\") có nghĩa là \"phượng hoàng\", biểu tượng của sự tái sinh và may mắn trong văn hóa Nhật Bản. \n\nVí dụ:\n- 鳳凰 (hōō): Phượng hoàng, một sinh vật thần thoại.\n- 鳳求凰 (hōkyūō): Tìm kiếm"
+  },
+  "comments": [
+    {
+      "id": "158060",
+      "lang": "vi",
+      "content_html": "<p>Con chim (điểu) đeo vương miện trên đầu và ở trong ngôi nhà lớn là phượng hoàng</p>",
+      "content_text": "Con chim (điểu) đeo vương miện trên đầu và ở trong ngôi nhà lớn là phượng hoàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158061",
+      "lang": "vi",
+      "content_html": "<p>chim sống trong nhà hình cái ghế là chim PHƯỢNG hoàng</p>",
+      "content_text": "chim sống trong nhà hình cái ghế là chim PHƯỢNG hoàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

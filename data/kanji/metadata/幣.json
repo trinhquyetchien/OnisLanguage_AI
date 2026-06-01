@@ -1,0 +1,89 @@
+{
+  "kanji": "幣",
+  "meta": {
+    "weight": 847,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヘイ"
+    ],
+    "kun": [
+      "ぬさ"
+    ],
+    "am_han": "TỆ"
+  },
+  "meaning": {
+    "vi": "Tiền mặt, thói quen xấu, tiền tố khiêm tốn, món quà, Đồ cúng của Thần đạo bằng vải, dây thừng, cắt giấy",
+    "en": "cash, bad habit, humble prefix, gift, Shinto offerings of cloth, rope, cut paper"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/幣.svg"
+  },
+  "frequency": 1803,
+  "examples": [
+    "貨幣",
+    "紙幣",
+    "幣",
+    "造幣局"
+  ],
+  "explanation": {
+    "id": "6996",
+    "text": "幣 (đọc là \"hei\" hoặc \"ni\") có nghĩa là \"tiền tệ\", \"đồng tiền\" hoặc \"đồ tế lễ\" trong các bối cảnh liên quan đến tài chính hoặc nghi thức.\n\nVí dụ:\n- 幣札 (heisatsu): Tiền giấy.\n- 幣物 (temizuke): "
+  },
+  "comments": [
+    {
+      "id": "153281",
+      "lang": "vi",
+      "content_html": "<p>dùng gạo và vải để thay cho tiền tệ</p>",
+      "content_text": "dùng gạo và vải để thay cho tiền tệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153282",
+      "lang": "vi",
+      "content_html": "<p>Ngày xưa lấy bao gạo đã được xay đập (bộ phộc 攵: ý là đập) cân (巾) lên làm thước đo tiền tệ</p>",
+      "content_text": "Ngày xưa lấy bao gạo đã được xay đập (bộ phộc 攵: ý là đập) cân (巾) lên làm thước đo tiền tệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153283",
+      "lang": "vi",
+      "content_html": "<p>gạo ở vùng đất xa, đập nhỏ ( phộc) cho vào khăn mang đi bán lấy tiền</p>",
+      "content_text": "gạo ở vùng đất xa, đập nhỏ ( phộc) cho vào khăn mang đi bán lấy tiền",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

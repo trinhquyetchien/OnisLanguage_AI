@@ -1,0 +1,90 @@
+{
+  "kanji": "年",
+  "meta": {
+    "weight": 850,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ネン"
+    ],
+    "kun": [
+      "とし"
+    ],
+    "am_han": "NIÊN"
+  },
+  "meaning": {
+    "vi": "năm",
+    "en": "year, counter for years"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/年.svg"
+  },
+  "frequency": 6,
+  "examples": [
+    "年",
+    "今年",
+    "年間",
+    "年度",
+    "昨年"
+  ],
+  "explanation": {
+    "id": "6158",
+    "text": "年 (đọc là \"nen\" hoặc \"toshi\") có nghĩa là \"năm\" để chỉ thời gian hay tuổi tác. \n\nVí dụ:\n- 年齢 (nenrei): Tuổi tác.\n- 年末 (nenmatsu): Cuối năm.\n- 一年 (ichinen): Một năm."
+  },
+  "comments": [
+    {
+      "id": "562",
+      "lang": "vi",
+      "content_html": "<p>Mất một <strong>năm </strong>để thu hoạch lúa.</p>",
+      "content_text": "Mất một\nnăm\nđể thu hoạch lúa.",
+      "image_url": "https://jpdictionary.com/upload/images/62977e2a37179.jpg",
+      "image_path": "assets/images/年_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190998",
+      "lang": "vi",
+      "content_html": "<p><strong>năm</strong></p>",
+      "content_text": "năm",
+      "image_url": "https://jpdictionary.com/upload/images/648a8c74d4efd.jpg",
+      "image_path": "assets/images/年_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "158211",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>一昨年 (おととし): năm kia</p><p>去年 (きょねん): năm ngoái</p><p>今年 (ことし): năm nay</p><p>来年 (らいねん): năm sau</p><p>再来年 (さらいねん): năm sau nữa</p><p>毎年 (まいとし): mỗi năm</p><p>&nbsp;</p><p><strong>〜年 (～ねん): năm ～</strong><br>2022年 (にせんにじゅうにねん): năm 2022</p><p>&nbsp;</p><p><strong>〜年間 (～ねんかん): ～ năm</strong></p><p>２年間 (にねんかん): 2 năm</p><p>&nbsp;</p><p><strong>〜年目 (～ねんめ): năm thứ ～</strong></p><p>５年目 (ごねんめ): năm thứ 5</p><p>&nbsp;</p>",
+      "content_text": "JLPT N5\n一昨年 (おととし): năm kia\n去年 (きょねん): năm ngoái\n今年 (ことし): năm nay\n来年 (らいねん): năm sau\n再来年 (さらいねん): năm sau nữa\n毎年 (まいとし): mỗi năm\n〜年 (～ねん): năm ～\n2022年 (にせんにじゅうにねん): năm 2022\n〜年間 (～ねんかん): ～ năm\n２年間 (にねんかん): 2 năm\n〜年目 (～ねんめ): năm thứ ～\n５年目 (ごねんめ): năm thứ 5",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

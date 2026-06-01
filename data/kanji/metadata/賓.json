@@ -1,0 +1,85 @@
+{
+  "kanji": "賓",
+  "meta": {
+    "weight": 2568,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒン"
+    ],
+    "kun": [],
+    "am_han": "TÂN, THẤN"
+  },
+  "meaning": {
+    "vi": "VIP, khách",
+    "en": "V.I.P., guest"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/賓.svg"
+  },
+  "frequency": 1677,
+  "examples": [
+    "来賓",
+    "国賓"
+  ],
+  "explanation": {
+    "id": "6769",
+    "text": "賓 (đọc là \"hin\") có nghĩa là \"khách\", \"khách mời\" để chỉ những người đến tham dự, được chào đón trong một sự kiện hoặc địa điểm nào đó.\n\nVí dụ:\n- 賓客 (hinkaku): Khách mời.\n- 賓館 (hinkan): Nhà "
+  },
+  "comments": [
+    {
+      "id": "157109",
+      "lang": "vi",
+      "content_html": "<p>Người có Sò nhỏ sẽ được đứng tiếp Tân (tiếp Tân là tiếp khách quý)</p>",
+      "content_text": "Người có Sò nhỏ sẽ được đứng tiếp Tân (tiếp Tân là tiếp khách quý)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157110",
+      "lang": "vi",
+      "content_html": "<p>ÍT NHÀ hàng có TIỀN làm quầy lễ TÂN đón khách</p>",
+      "content_text": "ÍT NHÀ hàng có TIỀN làm quầy lễ TÂN đón khách",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157111",
+      "lang": "vi",
+      "content_html": "<p>Dưới nhà có 1 ít sò để đãi TÂN khách quý</p>",
+      "content_text": "Dưới nhà có 1 ít sò để đãi TÂN khách quý",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

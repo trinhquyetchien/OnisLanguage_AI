@@ -1,0 +1,35 @@
+{
+  "kanji": "庵",
+  "meta": {
+    "weight": 872,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "アン"
+    ],
+    "kun": [
+      "いおり",
+      "いお"
+    ],
+    "am_han": "AM"
+  },
+  "meaning": {
+    "vi": "ẩn cư, rút lui",
+    "en": "hermitage, retreat"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/庵.svg"
+  },
+  "frequency": 2119,
+  "examples": [
+    "庵"
+  ],
+  "explanation": {
+    "id": "93",
+    "text": "庵 (đọc là \"an\") có nghĩa là \"tu viện nhỏ\", \"nhà tranh\" để chỉ các nơi ở hoặc tu tập đơn giản và yên tĩnh, thường liên quan đến thiền định hoặc cuộc sống tách biệt.  \nVí dụ:  \n- 庵室 (anshitsu)"
+  },
+  "comments": []
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "欲",
+  "meta": {
+    "weight": 1443,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨク"
+    ],
+    "kun": [
+      "ほっ.する",
+      "ほ.しい"
+    ],
+    "am_han": "DỤC"
+  },
+  "meaning": {
+    "vi": "khao khát, dục vọng",
+    "en": "longing, covetousness, greed, passion, desire, craving"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/欲.svg"
+  },
+  "frequency": 902,
+  "examples": [
+    "欲しい",
+    "意欲",
+    "欲望",
+    "欲",
+    "欲求"
+  ],
+  "explanation": {
+    "id": "7921",
+    "text": "欲 (đọc là \"yoku\") có nghĩa là \"khao khát\", \"mong muốn\" để chỉ các cảm xúc hoặc nhu cầu về một điều gì đó.  \nVí dụ:  \n- 欲望 (yokubou): Ham muốn, khao khát.  \n- 食欲 (shokuyoku): Cảm giác thèm ăn"
+  },
+  "comments": [
+    {
+      "id": "154652",
+      "lang": "vi",
+      "content_html": "<p>DỤC ( 欲) vọng lòng tham của con người  như thung lũng (谷) không (欠) đáy</p>",
+      "content_text": "DỤC ( 欲) vọng lòng tham của con người  như thung lũng (谷) không (欠) đáy",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154653",
+      "lang": "vi",
+      "content_html": "<p>Thiếu tuyệt tình cốc =&#62; thèm muốn có</p>",
+      "content_text": "Thiếu tuyệt tình cốc => thèm muốn có",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154654",
+      "lang": "vi",
+      "content_html": "<p>ở thung lũng thiếu tình Dục</p>",
+      "content_text": "ở thung lũng thiếu tình Dục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

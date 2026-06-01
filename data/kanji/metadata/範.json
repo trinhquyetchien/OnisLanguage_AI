@@ -1,0 +1,88 @@
+{
+  "kanji": "範",
+  "meta": {
+    "weight": 2010,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ハン"
+    ],
+    "kun": [],
+    "am_han": "PHẠM"
+  },
+  "meaning": {
+    "vi": "mô hình, ví dụ",
+    "en": "pattern, example, model"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/範.svg"
+  },
+  "frequency": 1088,
+  "examples": [
+    "範囲",
+    "規範",
+    "広範",
+    "広範囲",
+    "範疇"
+  ],
+  "explanation": {
+    "id": "6493",
+    "text": "範 (đọc là \"han\") có nghĩa là \"mẫu mực\", \"tiêu chuẩn\" để chỉ các khái niệm liên quan đến sự hướng dẫn, mô hình hoặc quy tắc.\n\nVí dụ:\n- 範囲 (han'i): Phạm vi, lĩnh vực.\n- 規範 (kihan): Quy phạm, t"
+  },
+  "comments": [
+    {
+      "id": "155906",
+      "lang": "vi",
+      "content_html": "<p>Ở rừng TRÚC Xe chỉ được chạy trong PHẠM VI cho phép</p>",
+      "content_text": "Ở rừng TRÚC Xe chỉ được chạy trong PHẠM VI cho phép",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155907",
+      "lang": "vi",
+      "content_html": "<p>xe chạy trong rừng trúc chỉ được chạy trong phạm vi số 9 ngược</p>",
+      "content_text": "xe chạy trong rừng trúc chỉ được chạy trong phạm vi số 9 ngược",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155908",
+      "lang": "vi",
+      "content_html": "<p>Phạm vi rừng tre thì cả xe lẫn người quỳ xin cũng ko vào đc</p>",
+      "content_text": "Phạm vi rừng tre thì cả xe lẫn người quỳ xin cũng ko vào đc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

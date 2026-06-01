@@ -1,0 +1,53 @@
+{
+  "kanji": "巳",
+  "meta": {
+    "weight": 823,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "み"
+    ],
+    "am_han": "TỊ"
+  },
+  "meaning": {
+    "vi": "dấu hiệu của con rắn hoặc con rắn, 9-11 giờ sáng, dấu hiệu thứ sáu của hoàng đạo Trung Quốc",
+    "en": "sign of the snake or serpent, 9-11AM, sixth sign of Chinese zodiac"
+  },
+  "stroke": {
+    "count": 3,
+    "svg": "assets/svg/巳.svg"
+  },
+  "frequency": 2142,
+  "examples": [
+    "巳",
+    "辰巳"
+  ],
+  "explanation": {
+    "id": "7478",
+    "text": "巳 (đọc là \"mi\") có nghĩa là \"năm thứ năm trong chu kỳ 60 năm\" và thường liên quan đến thời gian hoặc các yếu tố lịch sử, văn hóa trong tiếng Nhật.\n\nVí dụ:\n- 巳年 (mi-doshi): Năm Thìn (trong 12"
+  },
+  "comments": [
+    {
+      "id": "153219",
+      "lang": "vi",
+      "content_html": "<p>Con rắn tự kỉ cuộn hình số 2</p>",
+      "content_text": "Con rắn tự kỉ cuộn hình số 2",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

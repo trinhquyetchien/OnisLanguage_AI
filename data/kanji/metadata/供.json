@@ -1,0 +1,112 @@
+{
+  "kanji": "供",
+  "meta": {
+    "weight": 185,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ",
+      "ク",
+      "クウ",
+      "グ"
+    ],
+    "kun": [
+      "そな.える",
+      "とも",
+      "-ども"
+    ],
+    "am_han": "CUNG"
+  },
+  "meaning": {
+    "vi": "cung cấp",
+    "en": "submit, offer, present, serve (meal), accompany"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/供.svg"
+  },
+  "frequency": 313,
+  "examples": [
+    "子供",
+    "提供",
+    "供給",
+    "供",
+    "供述"
+  ],
+  "explanation": {
+    "id": "1615",
+    "text": "供 (đọc là \"kyou\" hoặc \"son\" trong một số ngữ cảnh) có nghĩa là \"cung cấp\", \"dâng hiến\", thường liên quan đến việc cung cấp cho người khác hoặc thần linh. \n\nVí dụ:\n- 供給 (kyoukyuu): Cung cấp, "
+  },
+  "comments": [
+    {
+      "id": "37196",
+      "lang": "vi",
+      "content_html": "<p>Cùng nhau <strong>đề nghị</strong> (共) giúp đỡ bạn.</p>",
+      "content_text": "Cùng nhau\nđề nghị\n(共) giúp đỡ bạn.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd3fa28b61.jpg",
+      "image_path": "assets/images/供_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151655",
+      "lang": "vi",
+      "content_html": "<p>Cung Cấp Người làm dịch vụ Công Cộng</p>",
+      "content_text": "Cung Cấp Người làm dịch vụ Công Cộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190577",
+      "lang": "vi",
+      "content_html": "<p>お供(おとも): Bạn đồng hành</p>",
+      "content_text": "お供(おとも): Bạn đồng hành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "151656",
+      "lang": "vi",
+      "content_html": "<p>NGƯỜI làm CÔNG có nghĩa vũ CUNG CẤP</p>",
+      "content_text": "NGƯỜI làm CÔNG có nghĩa vũ CUNG CẤP",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

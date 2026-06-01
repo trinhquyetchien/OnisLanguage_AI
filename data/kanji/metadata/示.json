@@ -1,0 +1,108 @@
+{
+  "kanji": "示",
+  "meta": {
+    "weight": 1896,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ジ",
+      "シ"
+    ],
+    "kun": [
+      "しめ.す"
+    ],
+    "am_han": "THỊ"
+  },
+  "meaning": {
+    "vi": "hiển thị, biểu thị",
+    "en": "show, indicate, point out, express, display"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/示.svg"
+  },
+  "frequency": 237,
+  "examples": [
+    "表示",
+    "示し",
+    "掲示板",
+    "示す",
+    "展示"
+  ],
+  "explanation": {
+    "id": "3221",
+    "text": "示 (đọc là \"shi\" hoặc \"shimesu\") có nghĩa là \"biểu thị\", \"chỉ ra\" để chỉ các hành động liên quan đến việc thể hiện, chỉ dẫn hoặc thông báo điều gì đó.\n\nVí dụ:\n- 指示 (shiji): Chỉ dẫn, hướng dẫn"
+  },
+  "comments": [
+    {
+      "id": "155674",
+      "lang": "vi",
+      "content_html": "<p>示 礻\tTHỊ; KỲ\t\tchỉ thị; thần đất\tÍt phổ biến, khoảng 19 từ chứa bộ này trong 2000 chữ kanji phổ biến . 礻là biến thể của 示</p>",
+      "content_text": "示 礻\tTHỊ; KỲ\t\tchỉ thị; thần đất\tÍt phổ biến, khoảng 19 từ chứa bộ này trong 2000 chữ kanji phổ biến . 礻là biến thể của 示",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155675",
+      "lang": "vi",
+      "content_html": "<p>2 二 chú tiểu 小 bày tỏ quan điểm về kỳ thi</p>",
+      "content_text": "2 二 chú tiểu 小 bày tỏ quan điểm về kỳ thi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155676",
+      "lang": "vi",
+      "content_html": "<p>2 二 chú tiểu 小 bị kì thị 示</p>",
+      "content_text": "2 二 chú tiểu 小 bị kì thị 示",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "222073",
+      "lang": "vi",
+      "content_html": "<p><strong>二</strong> (hai nét trên cùng) trời</p><p><strong>小</strong> (ba nét dưới) ánh sáng của sao (ý là sao trời, nhật nguyệt tinh)</p><p>-&gt; Ám chỉ <strong>“thiên ý” tỏ lộ”</strong> từ trời cao xuống cho người biết</p>",
+      "content_text": "二\n(hai nét trên cùng) trời\n小\n(ba nét dưới) ánh sáng của sao (ý là sao trời, nhật nguyệt tinh)\n-> Ám chỉ\n“thiên ý” tỏ lộ”\ntừ trời cao xuống cho người biết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "6033",
+        "name": "Dang Thanh Hai (K18 HL)",
+        "image_url": "https://jpdictionary.com/upload/images/6780fcc7bd6b1.jpg"
+      }
+    }
+  ]
+}

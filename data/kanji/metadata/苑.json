@@ -1,0 +1,74 @@
+{
+  "kanji": "苑",
+  "meta": {
+    "weight": 2262,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "エン",
+      "オン"
+    ],
+    "kun": [
+      "その",
+      "う.つ"
+    ],
+    "am_han": "UYỂN, UẤT, UẨN"
+  },
+  "meaning": {
+    "vi": "vườn, trang trại, công viên",
+    "en": "garden, farm, park"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/苑.svg"
+  },
+  "frequency": 2060,
+  "examples": [
+    "苑",
+    "広辞苑",
+    "外苑",
+    "御苑"
+  ],
+  "explanation": {
+    "id": "483",
+    "text": "苑 (đọc là \"en\") có nghĩa là \"vườn\", \"khu vực trồng cây\" để chỉ các khu vườn hoặc nơi trồng cây cảnh.  \nVí dụ:  \n- 公苑 (kouen): Công viên, khu vườn công cộng.  \n- 植物苑 (shokubutsuen): Vườn thực"
+  },
+  "comments": [
+    {
+      "id": "156485",
+      "lang": "vi",
+      "content_html": "<p>Những cái vườn (công viên) là nơi có<br>thể vào đó buổi tối ⼣ rồi nằm ngủ (cong người 㔾) trên bãi cỏ.</p>",
+      "content_text": "Những cái vườn (công viên) là nơi có\nthể vào đó buổi tối ⼣ rồi nằm ngủ (cong người 㔾) trên bãi cỏ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156486",
+      "lang": "vi",
+      "content_html": "<p>Hoa cỏ ở vườn thượng UYỂN vào đêm khuya thường cuộn mình lại</p>",
+      "content_text": "Hoa cỏ ở vườn thượng UYỂN vào đêm khuya thường cuộn mình lại",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

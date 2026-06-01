@@ -1,0 +1,88 @@
+{
+  "kanji": "畜",
+  "meta": {
+    "weight": 1785,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チク"
+    ],
+    "kun": [],
+    "am_han": "SÚC"
+  },
+  "meaning": {
+    "vi": "gia súc",
+    "en": "livestock, domestic fowl and animals"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/畜.svg"
+  },
+  "frequency": 1824,
+  "examples": [
+    "家畜",
+    "畜産",
+    "畜生",
+    "鬼畜",
+    "牧畜"
+  ],
+  "explanation": {
+    "id": "5238",
+    "text": "畜 (đọc là \"chiku\") có nghĩa là \"nuôi dưỡng\" hoặc \"chăn nuôi\" để chỉ các hành động liên quan đến việc nuôi động vật.  \nVí dụ:  \n- 畜産 (chikusan): Ngành chăn nuôi, sản xuất động vật.  \n- 家畜 (ka"
+  },
+  "comments": [
+    {
+      "id": "155426",
+      "lang": "vi",
+      "content_html": "<p>Những đốm đen ngoài đồng là xúc vật</p>",
+      "content_text": "Những đốm đen ngoài đồng là xúc vật",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155427",
+      "lang": "vi",
+      "content_html": "<p>Em Huyền đang chăn gia Súc trên ruộng</p>",
+      "content_text": "Em Huyền đang chăn gia Súc trên ruộng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155428",
+      "lang": "vi",
+      "content_html": "<p>Súc vật đc nuôi ngoài đồng có người đội mũ trômg coi</p>",
+      "content_text": "Súc vật đc nuôi ngoài đồng có người đội mũ trômg coi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

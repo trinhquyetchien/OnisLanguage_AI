@@ -1,0 +1,87 @@
+{
+  "kanji": "廊",
+  "meta": {
+    "weight": 878,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロウ"
+    ],
+    "kun": [],
+    "am_han": "LANG"
+  },
+  "meaning": {
+    "vi": "hành lang, hội trường, tháp",
+    "en": "corridor, hall, tower"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/廊.svg"
+  },
+  "frequency": 1598,
+  "examples": [
+    "廊下",
+    "画廊",
+    "回廊",
+    "廊"
+  ],
+  "explanation": {
+    "id": "20273",
+    "text": "廊 (đọc là \"kan\") có nghĩa là \"trạch\" chỉ sự chọn lọc hoặc quyết định về một điều gì đó, thường liên quan đến việc lựa chọn nơi ở hay địa điểm cư trú.\n\nVí dụ:\n- 廊 (kan): Nơi ở, chỗ ở.\n- 廊地 (k"
+  },
+  "comments": [
+    {
+      "id": "153362",
+      "lang": "vi",
+      "content_html": "<p>người tốt bụng đội mũ đi dưới hành lang</p>",
+      "content_text": "người tốt bụng đội mũ đi dưới hành lang",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153363",
+      "lang": "vi",
+      "content_html": "<p>dưới NHÀ có 13 thầy LANG rất TỐT</p>",
+      "content_text": "dưới NHÀ có 13 thầy LANG rất TỐT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153364",
+      "lang": "vi",
+      "content_html": "<p>Hành lang trong căn nhà có người k có chỗ ở đang ăn cơm cạnh cái cột</p>",
+      "content_text": "Hành lang trong căn nhà có người k có chỗ ở đang ăn cơm cạnh cái cột",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

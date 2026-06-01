@@ -1,0 +1,53 @@
+{
+  "kanji": "芦",
+  "meta": {
+    "weight": 2253,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ロ"
+    ],
+    "kun": [
+      "あし",
+      "よし"
+    ],
+    "am_han": "LÔ, LƯ"
+  },
+  "meaning": {
+    "vi": "cây sậy, bullrush",
+    "en": "reed, bullrush"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/芦.svg"
+  },
+  "frequency": 1733,
+  "examples": [
+    "芦"
+  ],
+  "explanation": {
+    "id": "48",
+    "text": "芦 (đọc là \"ro\") có nghĩa là \"sậy\", chỉ các loài thực vật mọc ven nước, thường được dùng để chỉ những hình ảnh liên quan đến thiên nhiên và bờ sông.\n\nVí dụ:\n- 芦屋 (Ashiya): Tên một thành phố ở"
+  },
+  "comments": [
+    {
+      "id": "156465",
+      "lang": "vi",
+      "content_html": "<p>nhiệt</p>",
+      "content_text": "nhiệt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

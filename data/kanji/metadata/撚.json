@@ -1,0 +1,53 @@
+{
+  "kanji": "撚",
+  "meta": {
+    "weight": 1151,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ネン"
+    ],
+    "kun": [
+      "よ.る",
+      "よ.れる",
+      "より",
+      "ひね.る"
+    ],
+    "am_han": "NIÊN, NIỄN, NHIÊN"
+  },
+  "meaning": {
+    "vi": "xoắn, gấp khúc",
+    "en": "twist, twine, kinky"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/撚.svg"
+  },
+  "frequency": 2398,
+  "examples": [],
+  "explanation": {
+    "id": "6168",
+    "text": "撚 (đọc là \"nen\") có nghĩa là \"cuộn\", \"xoắn\" để chỉ hành động cuộn, xoắn hoặc làm cho một vật trở nên chặt chẽ hơn.\n\nVí dụ:\n- 撚糸 (nenshi): Sợi dây xoắn.\n- 撚る (neru): Cuộn lại, xoắn lại.\n- 撚り毛"
+  },
+  "comments": [
+    {
+      "id": "154038",
+      "lang": "vi",
+      "content_html": "<p>撚り線：より線：　day dien loi xoan</p>",
+      "content_text": "撚り線：より線：　day dien loi xoan",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "kanji": "呼",
+  "meta": {
+    "weight": 476,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コ"
+    ],
+    "kun": [
+      "よ.ぶ"
+    ],
+    "am_han": "HÔ"
+  },
+  "meaning": {
+    "vi": "gọi, hô hoán",
+    "en": "call, call out to, invite"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/呼.svg"
+  },
+  "frequency": 498,
+  "examples": [
+    "呼ぶ",
+    "呼吸",
+    "呼び",
+    "呼びかけ",
+    "呼び出し"
+  ],
+  "explanation": {
+    "id": "2253",
+    "text": "呼 (đọc là \"ko\" hoặc \"yobu\") có nghĩa là \"gọi\", \"hô\" để chỉ các hành động liên quan đến việc gọi tên hoặc kêu gọi ai đó.\n\nVí dụ:\n- 呼ぶ (yobu): Gọi, hô.\n- 呼気 (kokki): Hơi thở.\n- 呼称 (koshou): Tê"
+  },
+  "comments": [
+    {
+      "id": "152382",
+      "lang": "vi",
+      "content_html": "<p>Miệng hô vang HÒA bình</p>",
+      "content_text": "Miệng hô vang HÒA bình",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152383",
+      "lang": "vi",
+      "content_html": "<p>hoà Bình Miệng ai cũng Hô to</p>",
+      "content_text": "hoà Bình Miệng ai cũng Hô to",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152384",
+      "lang": "vi",
+      "content_html": "<p>Chữ chi (kata) チ giơ hai tay Hô thật to 呼</p>",
+      "content_text": "Chữ chi (kata) チ giơ hai tay Hô thật to 呼",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

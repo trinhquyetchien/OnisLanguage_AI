@@ -1,0 +1,90 @@
+{
+  "kanji": "底",
+  "meta": {
+    "weight": 863,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "そこ"
+    ],
+    "am_han": "ĐỂ"
+  },
+  "meaning": {
+    "vi": "đáy",
+    "en": "bottom, sole, depth, bottom price, base, kind, sort"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/底.svg"
+  },
+  "frequency": 867,
+  "examples": [
+    "徹底",
+    "底",
+    "徹底的",
+    "根底",
+    "到底"
+  ],
+  "explanation": {
+    "id": "5552",
+    "text": "底 (đọc là \"te\") có nghĩa là \"đáy\", \"cơ sở\" để chỉ phần dưới cùng hoặc nền tảng của một vật thể. \n\nVí dụ:\n- 底辺 (teihen): Cạnh đáy, cơ sở (trong toán học hoặc xã hội).\n- 底力 (sokuryoku): Năng l"
+  },
+  "comments": [
+    {
+      "id": "153326",
+      "lang": "vi",
+      "content_html": "<p>Để tờ giấy dưới đáy ngôi nhà</p>",
+      "content_text": "Để tờ giấy dưới đáy ngôi nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153327",
+      "lang": "vi",
+      "content_html": "<p>Dưới cái MÁI HIÊN chỗ thấp nhất là nền, chình là ĐẾ nhà.</p>",
+      "content_text": "Dưới cái MÁI HIÊN chỗ thấp nhất là nền, chình là ĐẾ nhà.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153328",
+      "lang": "vi",
+      "content_html": "<p>Để cái Họ dưới Sàn nhà có Mái che.</p>",
+      "content_text": "Để cái Họ dưới Sàn nhà có Mái che.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

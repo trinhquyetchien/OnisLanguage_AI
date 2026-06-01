@@ -1,0 +1,87 @@
+{
+  "kanji": "舗",
+  "meta": {
+    "weight": 2231,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホ"
+    ],
+    "kun": [],
+    "am_han": "PHỐ"
+  },
+  "meaning": {
+    "vi": "cửa hàng, vỉa hè",
+    "en": "shop, store, pave"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/舗.svg"
+  },
+  "frequency": 1412,
+  "examples": [
+    "店舗",
+    "老舗",
+    "舗装",
+    "本舗"
+  ],
+  "explanation": {
+    "id": "7088",
+    "text": "舗 (đọc là \"ho\") có nghĩa là \"bê tông hóa\", \"lát đường\" để chỉ các hành động liên quan đến việc xây dựng, lát nền hoặc mặt đường.\n\nVí dụ:\n- 舗装 (hosō): Lớp phủ đường, lát đường.\n- 舗館 (hokkan):"
+  },
+  "comments": [
+    {
+      "id": "156415",
+      "lang": "vi",
+      "content_html": "<p>PHỐ xá là nơi có trạm Xá có nhà THờ</p>",
+      "content_text": "PHỐ xá là nơi có trạm Xá có nhà THờ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156416",
+      "lang": "vi",
+      "content_html": "<p>Đưa A PHỦ 甫 lên trạm XÁ 舍 ở trên PHỐ 舖</p>",
+      "content_text": "Đưa A PHỦ 甫 lên trạm XÁ 舍 ở trên PHỐ 舖",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156417",
+      "lang": "vi",
+      "content_html": "<p>Phố xá thì có nhà đất có miệng đời và tôn giáo ( sử dụng cây thánh giá)</p>",
+      "content_text": "Phố xá thì có nhà đất có miệng đời và tôn giáo ( sử dụng cây thánh giá)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

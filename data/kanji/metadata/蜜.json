@@ -1,0 +1,89 @@
+{
+  "kanji": "蜜",
+  "meta": {
+    "weight": 2389,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ミツ",
+      "ビツ"
+    ],
+    "kun": [],
+    "am_han": "MẬT"
+  },
+  "meaning": {
+    "vi": "mật ong, mật hoa, mật đường",
+    "en": "honey, nectar, molasses"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/蜜.svg"
+  },
+  "frequency": 2203,
+  "examples": [
+    "蜜",
+    "蜂蜜",
+    "蜜蜂",
+    "蜜月",
+    "蜜柑"
+  ],
+  "explanation": {
+    "id": "7488",
+    "text": "蜜 (đọc là \"mitsu\") có nghĩa là \"mật\", thường chỉ về mật ong hoặc sự ngọt ngào. \n\nVí dụ:\n- 蜜蜂 (mitsubee): Ong mật.\n- 蜜柑 (mikan): Quýt (loại trái cây).\n- 甘蜜 (kanmitsu): Mật ngọt, sự ngọt ngào."
+  },
+  "comments": [
+    {
+      "id": "156679",
+      "lang": "vi",
+      "content_html": "<p>Trong tim côn trùng tất nhiên có mật ngọt</p>",
+      "content_text": "Trong tim côn trùng tất nhiên có mật ngọt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156680",
+      "lang": "vi",
+      "content_html": "<p>nhà của côn trùng tất yếu là chứa mật ngọt.</p>",
+      "content_text": "nhà của côn trùng tất yếu là chứa mật ngọt.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156681",
+      "lang": "vi",
+      "content_html": "<p>mật ong(蜜) là của côn trùng còn bí mật (密)thì ở trong núi</p>",
+      "content_text": "mật ong(蜜) là của côn trùng còn bí mật (密)thì ở trong núi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

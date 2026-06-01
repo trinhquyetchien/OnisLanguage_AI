@@ -1,0 +1,95 @@
+{
+  "kanji": "強",
+  "meta": {
+    "weight": 905,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キョウ",
+      "ゴウ"
+    ],
+    "kun": [
+      "つよ.い",
+      "つよ.まる",
+      "つよ.める",
+      "し.いる",
+      "こわ.い"
+    ],
+    "am_han": "CƯỜNG, CƯỠNG"
+  },
+  "meaning": {
+    "vi": "mạnh mẽ, cường quốc",
+    "en": "strong"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/強.svg"
+  },
+  "frequency": 112,
+  "examples": [
+    "勉強",
+    "強い",
+    "強化",
+    "強",
+    "強制"
+  ],
+  "explanation": {
+    "id": "1657",
+    "text": "強 (đọc là \"kyou\" hoặc \"tsuyo-i\") có nghĩa là \"mạnh mẽ\", \"cường tráng\" để chỉ sức mạnh, khả năng hoặc sức ảnh hưởng.  \nVí dụ:  \n- 強力 (kyouryoku): Sức mạnh, quyền lực mạnh mẽ.  \n- 強い (tsuyoi):"
+  },
+  "comments": [
+    {
+      "id": "666",
+      "lang": "vi",
+      "content_html": "<p>Cả bọ cánh cứng (虫) lẫn cây cung (弓) đều <strong>mạnh</strong>.</p>",
+      "content_text": "Cả bọ cánh cứng (虫) lẫn cây cung (弓) đều\nmạnh\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62982fc8dc429.jpg",
+      "image_path": "assets/images/強_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153417",
+      "lang": "vi",
+      "content_html": "<p>Có 4 con côn trùng kiên cường giữ cái cung</p>",
+      "content_text": "Có 4 con côn trùng kiên cường giữ cái cung",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158297",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>強い (つよい): mạnh<br>勉強 (べんきょう): học</p>",
+      "content_text": "JLPT N4\n強い (つよい): mạnh\n勉強 (べんきょう): học",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

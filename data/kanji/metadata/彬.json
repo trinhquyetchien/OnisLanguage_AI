@@ -1,0 +1,52 @@
+{
+  "kanji": "彬",
+  "meta": {
+    "weight": 915,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒン",
+      "フン"
+    ],
+    "kun": [
+      "うるわ.しい",
+      "あき.らか"
+    ],
+    "am_han": "BÂN"
+  },
+  "meaning": {
+    "vi": "tinh tế, nhẹ nhàng",
+    "en": "refined, gentle"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/彬.svg"
+  },
+  "frequency": 2174,
+  "examples": [],
+  "explanation": {
+    "id": "6753",
+    "text": "彬 (đọc là \"bin\") có nghĩa là \"thanh nhã\", \"tinh tế\", thường được sử dụng để chỉ sự tinh tế trong văn hóa và nghệ thuật. \n\nVí dụ:\n- 彬彬 (binbin): Thanh nhã, lịch thiệp.\n- 彬才 (binsai): Tài năng"
+  },
+  "comments": [
+    {
+      "id": "153440",
+      "lang": "vi",
+      "content_html": "<p>Rừng cây sam mộc mạc ở làng BÂN</p>",
+      "content_text": "Rừng cây sam mộc mạc ở làng BÂN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

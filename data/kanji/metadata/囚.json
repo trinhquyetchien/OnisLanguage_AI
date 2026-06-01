@@ -1,0 +1,89 @@
+{
+  "kanji": "囚",
+  "meta": {
+    "weight": 530,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ"
+    ],
+    "kun": [
+      "とら.われる"
+    ],
+    "am_han": "TÙ"
+  },
+  "meaning": {
+    "vi": "bị bắt, tội phạm, bắt giữ, bắt",
+    "en": "captured, criminal, arrest, catch"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/囚.svg"
+  },
+  "frequency": 2107,
+  "examples": [
+    "囚人",
+    "囚われ",
+    "囚",
+    "死刑囚"
+  ],
+  "explanation": {
+    "id": "3463",
+    "text": "囚 (đọc là \"shuu\") có nghĩa là \"tù nhân\", \"người bị giam giữ\" để chỉ những người bị bắt giữ hoặc giam cầm.  \nVí dụ:  \n- 囚人 (shuujin): Tù nhân.  \n- 囚われる (torawareru): Bị giam giữ, bị bắt.  \n- "
+  },
+  "comments": [
+    {
+      "id": "152509",
+      "lang": "vi",
+      "content_html": "<p>Người bị giam trong 4 bức tường là tù nhân</p>",
+      "content_text": "Người bị giam trong 4 bức tường là tù nhân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152510",
+      "lang": "vi",
+      "content_html": "<p>Người bị nhốt và hạn chế trong phạm vi nào đó gọi là TÙ nhân</p>",
+      "content_text": "Người bị nhốt và hạn chế trong phạm vi nào đó gọi là TÙ nhân",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152511",
+      "lang": "vi",
+      "content_html": "<p>tường cao 4 bức TÙ lao, gió chẳng lọt vào NHÂN mỏi mắt mong</p>",
+      "content_text": "tường cao 4 bức TÙ lao, gió chẳng lọt vào NHÂN mỏi mắt mong",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

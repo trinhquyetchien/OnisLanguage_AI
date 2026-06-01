@@ -1,0 +1,91 @@
+{
+  "kanji": "長",
+  "meta": {
+    "weight": 2800,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "なが.い",
+      "おさ"
+    ],
+    "am_han": "TRƯỜNG, TRƯỞNG"
+  },
+  "meaning": {
+    "vi": "dài, hiệu trưởng",
+    "en": "long, leader, superior, senior"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/長.svg"
+  },
+  "frequency": 12,
+  "examples": [
+    "長",
+    "成長",
+    "社長",
+    "長い",
+    "会長"
+  ],
+  "explanation": {
+    "id": "5405",
+    "text": "長 (đọc là \"naga\" hoặc \"cho\") có nghĩa là \"dài\" hoặc \"lãnh đạo\", chỉ kích thước dài hoặc vị trí lãnh đạo trong một tổ chức.  \nVí dụ:  \n- 長い (nagai): Dài.  \n- 長官 (chōkan): Bộ trưởng, người đứn"
+  },
+  "comments": [
+    {
+      "id": "597",
+      "lang": "vi",
+      "content_html": "<p>Hình dáng của một người có mái tóc <strong>dài</strong>.</p>",
+      "content_text": "Hình dáng của một người có mái tóc\ndài\n.",
+      "image_url": "https://jpdictionary.com/upload/images/6297833b2f59e.jpg",
+      "image_path": "assets/images/長_1.jpg",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "191221",
+      "lang": "vi",
+      "content_html": "<p>tóc <strong>dài</strong></p>",
+      "content_text": "tóc\ndài",
+      "image_url": "https://jpdictionary.com/upload/images/648add461685c.jpg",
+      "image_path": "assets/images/長_2.jpg",
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "157622",
+      "lang": "vi",
+      "content_html": "<p>Nhìn vào ba nét 687 sẽ giống chữ Ly =&#62; Bạn Ly tóc Dài chải Lược có ba răng</p>",
+      "content_text": "Nhìn vào ba nét 687 sẽ giống chữ Ly => Bạn Ly tóc Dài chải Lược có ba răng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

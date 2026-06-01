@@ -1,0 +1,112 @@
+{
+  "kanji": "埋",
+  "meta": {
+    "weight": 560,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "マイ"
+    ],
+    "kun": [
+      "う.める",
+      "う.まる",
+      "う.もれる",
+      "うず.める",
+      "うず.まる",
+      "い.ける"
+    ],
+    "am_han": "MAI"
+  },
+  "meaning": {
+    "vi": "chôn",
+    "en": "bury, be filled up, embedded"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/埋.svg"
+  },
+  "frequency": 1110,
+  "examples": [
+    "埋める",
+    "埋葬",
+    "埋め立て",
+    "埋蔵",
+    "穴埋め"
+  ],
+  "explanation": {
+    "id": "7383",
+    "text": "埋 (đọc là \"mai\") có nghĩa là \"chôn\" hoặc \"göm\". Chữ này thường được sử dụng để chỉ các hành động liên quan đến việc chôn lấp hay giấu kín một cái gì đó.\n\nVí dụ:\n- 埋葬 (maizō): Chôn cất.\n- 埋まる"
+  },
+  "comments": [
+    {
+      "id": "152585",
+      "lang": "vi",
+      "content_html": "<p>MAI táng thì chẳng có LÍ gì mà k chôn xuống ĐẤT</p>",
+      "content_text": "MAI táng thì chẳng có LÍ gì mà k chôn xuống ĐẤT",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190749",
+      "lang": "vi",
+      "content_html": "<p>Đất của làng không dùng để Mai táng</p>",
+      "content_text": "Đất của làng không dùng để Mai táng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "849",
+        "name": "Xuân Trường Ngô",
+        "image_url": "https://jpdictionary.com/upload/images/641c4e143e61b.png"
+      }
+    },
+    {
+      "id": "152586",
+      "lang": "vi",
+      "content_html": "<p>ông THỔ được mai táng bên cạnh ông Lí :v</p>",
+      "content_text": "ông THỔ được mai táng bên cạnh ông Lí :v",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152587",
+      "lang": "vi",
+      "content_html": "<p>Đất ở quê hương là nơi để MAI táng</p>",
+      "content_text": "Đất ở quê hương là nơi để MAI táng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

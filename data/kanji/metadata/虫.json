@@ -1,0 +1,108 @@
+{
+  "kanji": "虫",
+  "meta": {
+    "weight": 2371,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ",
+      "キ"
+    ],
+    "kun": [
+      "むし"
+    ],
+    "am_han": "TRÙNG"
+  },
+  "meaning": {
+    "vi": "côn trùng",
+    "en": "insect, bug, temper"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/虫.svg"
+  },
+  "frequency": 1351,
+  "examples": [
+    "虫",
+    "昆虫",
+    "虫歯",
+    "寄生虫",
+    "幼虫"
+  ],
+  "explanation": {
+    "id": "5292",
+    "text": "虫 (đọc là \"mushi\") có nghĩa là \"côn trùng\" hoặc \"sinh vật nhỏ\", thường dùng để chỉ các loại động vật nhỏ như côn trùng và sâu bọ. \n\nVí dụ:\n- 虫歯 (mushiba): Sâu răng.\n- 虫けら (mushikera): Côn tr"
+  },
+  "comments": [
+    {
+      "id": "665",
+      "lang": "vi",
+      "content_html": "<p>Hình dạng của <strong>côn trùng</strong>.</p>",
+      "content_text": "Hình dạng của\ncôn trùng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62982faab8ec7.jpg",
+      "image_path": "assets/images/虫_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156655",
+      "lang": "vi",
+      "content_html": "<p>Trung huyền Trùng ^^</p>",
+      "content_text": "Trung huyền Trùng ^^",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156656",
+      "lang": "vi",
+      "content_html": "<p>Trung中 sắc㇀ huyền㇔ Trùng虫 (edit của Mì Quảng)</p>",
+      "content_text": "Trung中 sắc㇀ huyền㇔ Trùng虫 (edit của Mì Quảng)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156657",
+      "lang": "vi",
+      "content_html": "<p>chữ Trung thêm cái móc giống con châu chấu thì thành chữ Trùng</p>",
+      "content_text": "chữ Trung thêm cái móc giống con châu chấu thì thành chữ Trùng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

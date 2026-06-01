@@ -1,0 +1,90 @@
+{
+  "kanji": "設",
+  "meta": {
+    "weight": 2463,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セツ"
+    ],
+    "kun": [
+      "もう.ける"
+    ],
+    "am_han": "THIẾT"
+  },
+  "meaning": {
+    "vi": "thiết lập, kiến thiết",
+    "en": "establishment, provision, prepare"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/設.svg"
+  },
+  "frequency": 145,
+  "examples": [
+    "設定",
+    "施設",
+    "設計",
+    "建設",
+    "設置"
+  ],
+  "explanation": {
+    "id": "4445",
+    "text": "設 (đọc là \"setsu\" hoặc \"shaku\") có nghĩa là \"thiết lập\", \"cài đặt\" để chỉ các hành động liên quan đến việc tạo ra, thiết kế hoặc bố trí một cái gì đó.\n\nVí dụ:\n- 設計 (sekkei): Thiết kế.\n- 設立 ("
+  },
+  "comments": [
+    {
+      "id": "156853",
+      "lang": "vi",
+      "content_html": "<p>Nói chuyện với kẻ Thù để Thiết lập quan hệ</p>",
+      "content_text": "Nói chuyện với kẻ Thù để Thiết lập quan hệ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156854",
+      "lang": "vi",
+      "content_html": "<p>Nói với kẻ Thù là không cần Thiết</p>",
+      "content_text": "Nói với kẻ Thù là không cần Thiết",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156855",
+      "lang": "vi",
+      "content_html": "<p>Người hùng đứng lên nói 言. chỉ bằng 1 cây thù 殳 cũng đủ để tôi thiết lập 設 lại trật tự vùng đất này</p>",
+      "content_text": "Người hùng đứng lên nói 言. chỉ bằng 1 cây thù 殳 cũng đủ để tôi thiết lập 設 lại trật tự vùng đất này",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

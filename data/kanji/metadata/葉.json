@@ -1,0 +1,107 @@
+{
+  "kanji": "葉",
+  "meta": {
+    "weight": 2307,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヨウ"
+    ],
+    "kun": [
+      "は"
+    ],
+    "am_han": "DIỆP"
+  },
+  "meaning": {
+    "vi": "lá",
+    "en": "leaf, plane, lobe, needle, blade, spear, counter for flat things, fragment, piece"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/葉.svg"
+  },
+  "frequency": 414,
+  "examples": [
+    "言葉",
+    "葉",
+    "千葉",
+    "紅葉",
+    "葉っぱ"
+  ],
+  "explanation": {
+    "id": "7893",
+    "text": "葉 (đọc là \"ha\" hoặc \"yō\") có nghĩa là \"lá\" để chỉ các bộ phận của cây cỏ, thường liên quan đến thực vật.\nVí dụ:\n- 葉っぱ (happa): Lá cây.\n- 葉脈 (yamaku): Gân lá.\n- 落葉 (rakuyō): Lá rụng."
+  },
+  "comments": [
+    {
+      "id": "37180",
+      "lang": "vi",
+      "content_html": "<p>Thế giới (世) bị phủ bởi cỏ và <strong>lá </strong>cây (木).</p>",
+      "content_text": "Thế giới (世) bị phủ bởi cỏ và\nlá\ncây (木).",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd2488cdcf.jpg",
+      "image_path": "assets/images/葉_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156560",
+      "lang": "vi",
+      "content_html": "<p>Cỏ cây trên thế giới đều có chất diệp lục</p>",
+      "content_text": "Cỏ cây trên thế giới đều có chất diệp lục",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156561",
+      "lang": "vi",
+      "content_html": "<p>Cây cối 木 trên Thế Giới 世, trên đỉnh đều có phần màu xanh từ bộ Thảo 艹, gọi là Lá</p>",
+      "content_text": "Cây cối 木 trên Thế Giới 世, trên đỉnh đều có phần màu xanh từ bộ Thảo 艹, gọi là Lá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156562",
+      "lang": "vi",
+      "content_html": "<p>Chất DIỆP Lục có rất nhiều trên lá các loài THảo dược</p>",
+      "content_text": "Chất DIỆP Lục có rất nhiều trên lá các loài THảo dược",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

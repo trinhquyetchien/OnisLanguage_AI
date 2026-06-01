@@ -1,0 +1,90 @@
+{
+  "kanji": "獲",
+  "meta": {
+    "weight": 1729,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カク"
+    ],
+    "kun": [
+      "え.る"
+    ],
+    "am_han": "HOẠCH"
+  },
+  "meaning": {
+    "vi": "nắm bắt, có được, tìm thấy, kiếm được, có thể",
+    "en": "seize, get, find, earn, acquire, can, may, able to"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/獲.svg"
+  },
+  "frequency": 964,
+  "examples": [
+    "獲得",
+    "捕獲",
+    "獲物",
+    "漁獲",
+    "獲る"
+  ],
+  "explanation": {
+    "id": "908",
+    "text": "獲 (đọc là \"kaku\") có nghĩa là \"thu được\", \"nhận được\" để chỉ việc lấy hoặc đạt được điều gì đó, thường liên quan đến săn bắt hoặc thu hoạch.\n\nVí dụ:\n- 獲得 (kakutaku): Sự đạt được, thu nhận.\n-"
+  },
+  "comments": [
+    {
+      "id": "155309",
+      "lang": "vi",
+      "content_html": "<p>Con chó đuổi bắt con chim trên đồng cỏ</p>",
+      "content_text": "Con chó đuổi bắt con chim trên đồng cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155310",
+      "lang": "vi",
+      "content_html": "<p>đi đi lại lại nghĩ kế HOẠCH bắt chim lợn dưới bụi hoa</p>",
+      "content_text": "đi đi lại lại nghĩ kế HOẠCH bắt chim lợn dưới bụi hoa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155311",
+      "lang": "vi",
+      "content_html": "<p>Con chó lại lập kế hoạch lấy đc con chim trong bụi cỏ</p>",
+      "content_text": "Con chó lại lập kế hoạch lấy đc con chim trong bụi cỏ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

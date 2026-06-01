@@ -1,0 +1,91 @@
+{
+  "kanji": "私",
+  "meta": {
+    "weight": 1924,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シ"
+    ],
+    "kun": [
+      "わたくし",
+      "わたし"
+    ],
+    "am_han": "TƯ"
+  },
+  "meaning": {
+    "vi": "tôi, tư nhân",
+    "en": "private, I, me"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/私.svg"
+  },
+  "frequency": 242,
+  "examples": [
+    "私",
+    "私的",
+    "私立",
+    "私見",
+    "私鉄"
+  ],
+  "explanation": {
+    "id": "3119",
+    "text": "私 (đọc là \"watashi\" hoặc \"shi\") có nghĩa là \"tôi\", \"mình\", chỉ người nói trong ngữ cảnh giao tiếp. \n\nVí dụ:\n- 私 (watashi): Tôi.\n- 私たち (watashitachi): Chúng tôi.\n- 私用 (shiyou): Việc riêng, cô"
+  },
+  "comments": [
+    {
+      "id": "945",
+      "lang": "vi",
+      "content_html": "<p><strong>Tôi </strong>đã trồng cây lúa.</p>",
+      "content_text": "Tôi\nđã trồng cây lúa.",
+      "image_url": "https://jpdictionary.com/upload/images/6298c97278dcf.jpg",
+      "image_path": "assets/images/私_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158382",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>私 (わたし): tôi</p>",
+      "content_text": "JLPT N4\n私 (わたし): tôi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221722",
+      "lang": "vi",
+      "content_html": "<p>私 (わたし): tôi</p><p>私立（しりつ）: tư lập</p>",
+      "content_text": "私 (わたし): tôi\n私立（しりつ）: tư lập",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5167",
+        "name": "v v",
+        "image_url": "https://jpdictionary.com/upload/images/681ca46917089.jpg"
+      }
+    }
+  ]
+}

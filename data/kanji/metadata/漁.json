@@ -1,0 +1,91 @@
+{
+  "kanji": "漁",
+  "meta": {
+    "weight": 1604,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ギョ",
+      "リョウ"
+    ],
+    "kun": [
+      "あさ.る"
+    ],
+    "am_han": "NGƯ"
+  },
+  "meaning": {
+    "vi": "đánh cá, ngư nghiệp",
+    "en": "fishing, fishery"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/漁.svg"
+  },
+  "frequency": 1094,
+  "examples": [
+    "漁業",
+    "漁師",
+    "漁船",
+    "漁",
+    "漁港"
+  ],
+  "explanation": {
+    "id": "1598",
+    "text": "漁 (đọc là \"gyo\" hoặc \"ryo\") có nghĩa là \"câu cá\", \"đánh bắt hải sản\" để chỉ các hoạt động liên quan đến việc thu hoạch cá và hải sản.\n\nVí dụ:\n- 漁師 (ryoushi): Ngư dân.\n- 漁業 (gyogyo): Ngành đá"
+  },
+  "comments": [
+    {
+      "id": "155055",
+      "lang": "vi",
+      "content_html": "<p>Tát nước để bắt cá</p>",
+      "content_text": "Tát nước để bắt cá",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155056",
+      "lang": "vi",
+      "content_html": "<p>NGƯ dân xuống NƯỚC bắt CÁ.</p>",
+      "content_text": "NGƯ dân xuống NƯỚC bắt CÁ.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155057",
+      "lang": "vi",
+      "content_html": "<p>Cá gặp nước chẳng khác NGƯ ông đắc lợi</p>",
+      "content_text": "Cá gặp nước chẳng khác NGƯ ông đắc lợi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

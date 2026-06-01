@@ -1,0 +1,84 @@
+{
+  "kanji": "綻",
+  "meta": {
+    "weight": 2090,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "タン"
+    ],
+    "kun": [
+      "ほころ.びる"
+    ],
+    "am_han": "TRÁN"
+  },
+  "meaning": {
+    "vi": "được cho thuê, xé, làm sáng tỏ, chạy, bắt đầu mở, mỉm cười",
+    "en": "be rent, ripped, unravel, run, begin to open, smile"
+  },
+  "stroke": {
+    "count": 14,
+    "svg": "assets/svg/綻.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5150",
+    "text": "綻 (đọc là \"tan\") có nghĩa là \"nở rộ\", \"mở ra\", thường dùng để chỉ sự phô bày, thể hiện cảm xúc hoặc trạng thái vui vẻ.\n\nVí dụ:\n- 綻び (tano): Sự nở hoa, sự nở rộ.\n- 綻ぶ (tanobu): Nở rộ, tươi cư"
+  },
+  "comments": [
+    {
+      "id": "220342",
+      "lang": "vi",
+      "content_html": "<p>sợi chỉ cố Định đường khâu trên TRÁN</p>",
+      "content_text": "sợi chỉ cố Định đường khâu trên TRÁN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220343",
+      "lang": "vi",
+      "content_html": "<p>Dây định trước đã bị bục ra</p>",
+      "content_text": "Dây định trước đã bị bục ra",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220344",
+      "lang": "vi",
+      "content_html": "<p>TRÁN thằng Định thì có đường chỉ khâu.</p>",
+      "content_text": "TRÁN thằng Định thì có đường chỉ khâu.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

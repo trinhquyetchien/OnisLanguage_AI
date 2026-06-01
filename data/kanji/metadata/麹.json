@@ -1,0 +1,52 @@
+{
+  "kanji": "麹",
+  "meta": {
+    "weight": 3021,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キク"
+    ],
+    "kun": [
+      "こうじ"
+    ],
+    "am_han": "KHÚC"
+  },
+  "meaning": {
+    "vi": "mạch nha, men",
+    "en": "malt, yeast"
+  },
+  "stroke": {
+    "count": 15,
+    "svg": "assets/svg/麹.svg"
+  },
+  "frequency": 1988,
+  "examples": [
+    "麹"
+  ],
+  "explanation": {
+    "id": "2625",
+    "text": "麹 (đọc là \"kōji\") có nghĩa là \"nấm mốc\" hoặc \"mốc\", thường dùng để chỉ loại nấm mốc được sử dụng trong quá trình lên men, đặc biệt là trong sản xuất rượu và thực phẩm như miso hay nước tương"
+  },
+  "comments": [
+    {
+      "id": "158094",
+      "lang": "vi",
+      "content_html": "<p>Chữ Hán: Khúc</p>",
+      "content_text": "Chữ Hán: Khúc",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

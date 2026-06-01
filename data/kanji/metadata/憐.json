@@ -1,0 +1,68 @@
+{
+  "kanji": "憐",
+  "meta": {
+    "weight": 1017,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レン"
+    ],
+    "kun": [
+      "あわ.れむ",
+      "あわ.れ"
+    ],
+    "am_han": "LIÊN, LÂN"
+  },
+  "meaning": {
+    "vi": "thương hại, có lòng thương xót, thông cảm, từ bi",
+    "en": "pity, have mercy, sympathise, compassion"
+  },
+  "stroke": {
+    "count": 16,
+    "svg": "assets/svg/憐.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "8274",
+    "text": "憐 (đọc là \"ren\") có nghĩa là \"thương cảm\", \"thương xót\" để chỉ cảm xúc đồng cảm với nỗi đau hoặc sự khó khăn của người khác.  \nVí dụ:  \n- 憐れみ (awaremi): Lòng thương xót, sự đồng cảm.  \n- 憐れる"
+  },
+  "comments": [
+    {
+      "id": "219529",
+      "lang": "vi",
+      "content_html": "<p>trái tim thương tiếc cho người bên cạnh ko có gạo</p>",
+      "content_text": "trái tim thương tiếc cho người bên cạnh ko có gạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "219530",
+      "lang": "vi",
+      "content_html": "<p>thằng Tâm,Lân la đến chỗ em Liên vì THƯƠNG e nó rồi</p>",
+      "content_text": "thằng Tâm,Lân la đến chỗ em Liên vì THƯƠNG e nó rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

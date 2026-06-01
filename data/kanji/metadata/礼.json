@@ -1,0 +1,89 @@
+{
+  "kanji": "礼",
+  "meta": {
+    "weight": 1897,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ",
+      "ライ"
+    ],
+    "kun": [],
+    "am_han": "LỄ"
+  },
+  "meaning": {
+    "vi": "chào, lễ nghi",
+    "en": "salute, bow, ceremony, thanks, remuneration"
+  },
+  "stroke": {
+    "count": 5,
+    "svg": "assets/svg/礼.svg"
+  },
+  "frequency": 1185,
+  "examples": [
+    "失礼",
+    "お礼",
+    "礼拝",
+    "礼儀",
+    "御礼"
+  ],
+  "explanation": {
+    "id": "8227",
+    "text": "礼 (đọc là \"rei\") có nghĩa là \"lễ nghi\", \"tôn trọng\" để chỉ các hành động liên quan đến việc thể hiện lòng biết ơn, tôn kính trong giao tiếp xã hội.\n\nVí dụ:\n- 礼儀 (reigi): Lễ nghi, phong cách "
+  },
+  "comments": [
+    {
+      "id": "155677",
+      "lang": "vi",
+      "content_html": "<p>Lễ là Ne(ネ) Shi(し</p>",
+      "content_text": "Lễ là Ne(ネ) Shi(し",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155678",
+      "lang": "vi",
+      "content_html": "<p>Lờ ê Nê ngã Lễ</p>",
+      "content_text": "Lờ ê Nê ngã Lễ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155679",
+      "lang": "vi",
+      "content_html": "<p>Quỳ trước Bàn thờ để hành LỄ</p>",
+      "content_text": "Quỳ trước Bàn thờ để hành LỄ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

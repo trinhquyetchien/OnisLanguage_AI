@@ -1,0 +1,117 @@
+{
+  "kanji": "向",
+  "meta": {
+    "weight": 457,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ"
+    ],
+    "kun": [
+      "む.く",
+      "む.い",
+      "-む.き",
+      "む.ける",
+      "-む.け",
+      "む.かう",
+      "む.かい",
+      "む.こう",
+      "む.こう-",
+      "むこ",
+      "むか.い"
+    ],
+    "am_han": "HƯỚNG"
+  },
+  "meaning": {
+    "vi": "phương hướng",
+    "en": "yonder, facing, beyond, confront, defy, tend toward, approach"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/向.svg"
+  },
+  "frequency": 182,
+  "examples": [
+    "向け",
+    "方向",
+    "傾向",
+    "向上",
+    "向かう"
+  ],
+  "explanation": {
+    "id": "2398",
+    "text": "向 (đọc là \"kou\" hoặc \"muku\") có nghĩa là \"hướng đến\", \"đối diện\", chỉ việc di chuyển hoặc nhắm tới một hướng nào đó. \n\nVí dụ:\n- 向かう (mukau): Hướng tới, đi về phía.\n- 向き (muki): Hướng, phương"
+  },
+  "comments": [
+    {
+      "id": "152331",
+      "lang": "vi",
+      "content_html": "<p>Xung quanh lời nói HƯỚNG thiện</p>",
+      "content_text": "Xung quanh lời nói HƯỚNG thiện",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158984",
+      "lang": "vi",
+      "content_html": "<p>JLPT N3</p><p>&nbsp;</p><p>方向(ほうこう): Phương hướng</p><p>向こう(むこう): Phía bên kia</p><p>向かう(むかう): Hướng về</p>",
+      "content_text": "JLPT N3\n方向(ほうこう): Phương hướng\n向こう(むこう): Phía bên kia\n向かう(むかう): Hướng về",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    },
+    {
+      "id": "152332",
+      "lang": "vi",
+      "content_html": "<p>Mọi người xung quanh hướng về cái miệng đang nói</p>",
+      "content_text": "Mọi người xung quanh hướng về cái miệng đang nói",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152333",
+      "lang": "vi",
+      "content_html": "<p>Dù ở Biên Giới hay cửa Khẩu thì vẫn Hướng về e</p>",
+      "content_text": "Dù ở Biên Giới hay cửa Khẩu thì vẫn Hướng về e",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

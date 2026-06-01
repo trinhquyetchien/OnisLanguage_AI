@@ -1,0 +1,82 @@
+{
+  "kanji": "痘",
+  "meta": {
+    "weight": 1808,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "トウ"
+    ],
+    "kun": [],
+    "am_han": "ĐẬU"
+  },
+  "meaning": {
+    "vi": "thủy đậu, đậu mùa",
+    "en": "pox, smallpox"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/痘.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5831",
+    "text": "痘 (đọc là \"to\") có nghĩa là \"mụn\", thường chỉ các loại bệnh như đậu mùa. \n\nVí dụ:\n- 痘瘡 (tōsō): Bệnh đậu mùa.\n- 水痘 (suitō): Bệnh thủy đậu.\n- 痘痕 (tōkon): Vết sẹo do mụn để lại."
+  },
+  "comments": [
+    {
+      "id": "220143",
+      "lang": "vi",
+      "content_html": "<p>bệnh + đậu =&#62; bệnh đậu mùa</p>",
+      "content_text": "bệnh + đậu => bệnh đậu mùa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220144",
+      "lang": "vi",
+      "content_html": "<p>thằng nào mà bị bệnh đậu mùa là phải bị nhốt trong nhà, cấm ra ngoài</p>",
+      "content_text": "thằng nào mà bị bệnh đậu mùa là phải bị nhốt trong nhà, cấm ra ngoài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220145",
+      "lang": "vi",
+      "content_html": "<p>Bệnh đậu mùa</p>",
+      "content_text": "Bệnh đậu mùa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

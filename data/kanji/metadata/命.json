@@ -1,0 +1,91 @@
+{
+  "kanji": "命",
+  "meta": {
+    "weight": 477,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "メイ",
+      "ミョウ"
+    ],
+    "kun": [
+      "いのち"
+    ],
+    "am_han": "MỆNH, MẠNG"
+  },
+  "meaning": {
+    "vi": "tính mạng, mệnh lệnh",
+    "en": "fate, command, decree, destiny, life, appoint"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/命.svg"
+  },
+  "frequency": 465,
+  "examples": [
+    "命",
+    "革命",
+    "生命",
+    "命令",
+    "運命"
+  ],
+  "explanation": {
+    "id": "7547",
+    "text": "命 (đọc là \"mei\" hoặc \"myō\") có nghĩa là \"mệnh\", \"số phận\" hoặc \"lệnh\" trong tiếng Nhật, thường chỉ các khía cạnh liên quan đến cuộc sống và sự chỉ đạo.  \nVí dụ:  \n- 命令 (meirei): Lệnh, chỉ th"
+  },
+  "comments": [
+    {
+      "id": "152385",
+      "lang": "vi",
+      "content_html": "<p>dưới mái nhà có 1 lời nói mệnh lệnh mạnh như đao kiếm</p>",
+      "content_text": "dưới mái nhà có 1 lời nói mệnh lệnh mạnh như đao kiếm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152386",
+      "lang": "vi",
+      "content_html": "<p>Một người Khấu (叩) đầu nhận Mệnh lệnh</p>",
+      "content_text": "Một người Khấu (叩) đầu nhận Mệnh lệnh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152387",
+      "lang": "vi",
+      "content_html": "<p>めい-じる:ban hành</p>",
+      "content_text": "めい-じる:ban hành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "kanji": "性",
+  "meta": {
+    "weight": 956,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セイ",
+      "ショウ"
+    ],
+    "kun": [
+      "さが"
+    ],
+    "am_han": "TÍNH"
+  },
+  "meaning": {
+    "vi": "giới tính",
+    "en": "sex, gender, nature"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/性.svg"
+  },
+  "frequency": 104,
+  "examples": [
+    "性",
+    "女性",
+    "男性",
+    "性格",
+    "個性"
+  ],
+  "explanation": {
+    "id": "4300",
+    "text": "性 (đọc là \"sei\") có nghĩa là \"tính chất\", \"bản chất\", thường dùng để chỉ các đặc điểm hoặc thuộc tính của một cái gì đó. \n\nVí dụ:\n- 性質 (seishitsu): Tính chất, đặc điểm.\n- 性格 (seikaku): Tính "
+  },
+  "comments": [
+    {
+      "id": "191022",
+      "lang": "vi",
+      "content_html": "<p><strong>giới tính</strong></p>",
+      "content_text": "giới tính",
+      "image_url": "https://jpdictionary.com/upload/images/648a8f0fe9101.jpg",
+      "image_path": "assets/images/性_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "37216",
+      "lang": "vi",
+      "content_html": "<p>Giới <strong>tính </strong>sẽ được biết lúc sinh (生) ra.</p>",
+      "content_text": "Giới\ntính\nsẽ được biết lúc sinh (生) ra.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd58046c54.jpg",
+      "image_path": "assets/images/性_2.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153554",
+      "lang": "vi",
+      "content_html": "<p>TÂM sẽ SINH ra TÍNH.</p>",
+      "content_text": "TÂM sẽ SINH ra TÍNH.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

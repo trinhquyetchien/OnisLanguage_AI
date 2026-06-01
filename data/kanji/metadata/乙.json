@@ -1,0 +1,90 @@
+{
+  "kanji": "乙",
+  "meta": {
+    "weight": 101,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "オツ",
+      "イツ"
+    ],
+    "kun": [
+      "おと-",
+      "きのと"
+    ],
+    "am_han": "ẤT"
+  },
+  "meaning": {
+    "vi": "thứ hai, trùng lặp, kỳ lạ, dí dỏm, gốc lưỡi câu (số 5)",
+    "en": "the latter, duplicate, strange, witty, fishhook radical (no. 5)"
+  },
+  "stroke": {
+    "count": 1,
+    "svg": "assets/svg/乙.svg"
+  },
+  "frequency": 1841,
+  "examples": [
+    "乙",
+    "乙女",
+    "甲乙"
+  ],
+  "explanation": {
+    "id": "579",
+    "text": "乙 (đọc là \"otsu\") có nghĩa là \"thứ hai\", \"sau\", thường dùng để chỉ thứ tự hoặc nhánh nhỏ trong các hệ thống phân loại. \n\nVí dụ:\n- 乙女 (otome): Cô gái, thiếu nữ.\n- 乙類 (otsurui): Loại thứ hai, "
+  },
+  "comments": [
+    {
+      "id": "151455",
+      "lang": "vi",
+      "content_html": "<p>trong hợp đồng: Bên B</p>",
+      "content_text": "trong hợp đồng: Bên B",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151457",
+      "lang": "vi",
+      "content_html": "<p>Ất là chữ số hai lật ngược 乙</p>",
+      "content_text": "Ất là chữ số hai lật ngược 乙",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151456",
+      "lang": "vi",
+      "content_html": "<p>Hợp đồng của tiểu ẤT là bên B</p>",
+      "content_text": "Hợp đồng của tiểu ẤT là bên B",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

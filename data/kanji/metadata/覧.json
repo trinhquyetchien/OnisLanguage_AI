@@ -1,0 +1,90 @@
+{
+  "kanji": "覧",
+  "meta": {
+    "weight": 2446,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ラン"
+    ],
+    "kun": [
+      "み.る"
+    ],
+    "am_han": "LÃM"
+  },
+  "meaning": {
+    "vi": "mãn nguyện, xem",
+    "en": "perusal, see"
+  },
+  "stroke": {
+    "count": 17,
+    "svg": "assets/svg/覧.svg"
+  },
+  "frequency": 1510,
+  "examples": [
+    "一覧",
+    "ご覧",
+    "閲覧",
+    "展覧",
+    "御覧"
+  ],
+  "explanation": {
+    "id": "7993",
+    "text": "覧 (đọc là \"ran\") có nghĩa là \"nhìn\", \"xem\" để chỉ hành động quan sát hoặc xem xét một cách cẩn thận.\n\nVí dụ:\n- 覧覧 (ranran): Sự xem xét, duyệt xét.\n- 展覧会 (tenrankai): Triển lãm, nơi trưng bày"
+  },
+  "comments": [
+    {
+      "id": "156807",
+      "lang": "vi",
+      "content_html": "<p>ô thần nằm xem triển lãm</p>",
+      "content_text": "ô thần nằm xem triển lãm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156808",
+      "lang": "vi",
+      "content_html": "<p>Triển lãm đi xem người nằm ngang cầm khiên</p>",
+      "content_text": "Triển lãm đi xem người nằm ngang cầm khiên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156809",
+      "lang": "vi",
+      "content_html": "<p>1 người thần nằm xem triển lãm</p>",
+      "content_text": "1 người thần nằm xem triển lãm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

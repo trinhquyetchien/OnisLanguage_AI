@@ -1,0 +1,90 @@
+{
+  "kanji": "海",
+  "meta": {
+    "weight": 1545,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "カイ"
+    ],
+    "kun": [
+      "うみ"
+    ],
+    "am_han": "HẢI"
+  },
+  "meaning": {
+    "vi": "biển, hàng hải",
+    "en": "sea, ocean"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/海.svg"
+  },
+  "frequency": 200,
+  "examples": [
+    "海",
+    "海外",
+    "北海道",
+    "上海",
+    "海岸"
+  ],
+  "explanation": {
+    "id": "792",
+    "text": "海 (đọc là \"umi\") có nghĩa là \"biển\" để chỉ vùng nước lớn, thường liên quan đến các khía cạnh tự nhiên hoặc sinh hoạt hàng hải.\nVí dụ:\n- 海岸 (kaigan): Bờ biển.\n- 海洋 (kaiyō): Đại dương.\n- 海鮮 (k"
+  },
+  "comments": [
+    {
+      "id": "749",
+      "lang": "vi",
+      "content_html": "<p>Đi <strong>biển </strong>bơi mỗi (毎) ngày.</p>",
+      "content_text": "Đi\nbiển\nbơi mỗi (毎) ngày.",
+      "image_url": "https://jpdictionary.com/upload/images/62984b636d25c.jpg",
+      "image_path": "assets/images/海_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154914",
+      "lang": "vi",
+      "content_html": "<p>Mỗi ngày nước đổ ra biển</p>",
+      "content_text": "Mỗi ngày nước đổ ra biển",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158319",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>海 (うみ): biển<br>海岸 (かいがん): bờ biển<br>海外 (かいがい): nước ngoài</p>",
+      "content_text": "JLPT N4\n海 (うみ): biển\n海岸 (かいがん): bờ biển\n海外 (かいがい): nước ngoài",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    }
+  ]
+}

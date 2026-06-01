@@ -1,0 +1,95 @@
+{
+  "kanji": "伐",
+  "meta": {
+    "weight": 156,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "バツ",
+      "ハツ",
+      "カ",
+      "ボチ"
+    ],
+    "kun": [
+      "き.る",
+      "そむ.く",
+      "う.つ"
+    ],
+    "am_han": "PHẠT"
+  },
+  "meaning": {
+    "vi": "rơi, đình công, tấn công, trừng phạt",
+    "en": "fell, strike, attack, punish"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/伐.svg"
+  },
+  "frequency": 1816,
+  "examples": [
+    "伐採",
+    "討伐",
+    "間伐",
+    "征伐",
+    "殺伐"
+  ],
+  "explanation": {
+    "id": "6410",
+    "text": "伐 (đọc là \"batsu\" hoặc \"baru\") có nghĩa là \"chặt\", \"đốn\" để chỉ các hành động liên quan đến việc chặt cây hoặc hủy diệt.  \nVí dụ:  \n- 伐採 (bassai): Chặt cây, khai thác gỗ.  \n- 伐る (baru): Chặt"
+  },
+  "comments": [
+    {
+      "id": "151582",
+      "lang": "vi",
+      "content_html": "<p>Ai Qua đây thì sẽ bị Phạt đánh</p>",
+      "content_text": "Ai Qua đây thì sẽ bị Phạt đánh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151583",
+      "lang": "vi",
+      "content_html": "<p>Người (イ) nào bị Phạt đứng Qua ( 戈) 1 bên</p>",
+      "content_text": "Người (イ) nào bị Phạt đứng Qua ( 戈) 1 bên",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151584",
+      "lang": "vi",
+      "content_html": "<p>Một đoàn Người mang theo Vũ Khí đi Chinh Phạt</p>",
+      "content_text": "Một đoàn Người mang theo Vũ Khí đi Chinh Phạt",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

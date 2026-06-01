@@ -1,0 +1,51 @@
+{
+  "kanji": "寵",
+  "meta": {
+    "weight": 747,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チョウ"
+    ],
+    "kun": [
+      "めぐ.み",
+      "めぐ.む"
+    ],
+    "am_han": "SỦNG"
+  },
+  "meaning": {
+    "vi": "tình cảm, tình yêu, sự bảo trợ",
+    "en": "affection, love, patronage"
+  },
+  "stroke": {
+    "count": 19,
+    "svg": "assets/svg/寵.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5334",
+    "text": "寵 (đọc là \"chou\" hoặc \"tama\") có nghĩa là \"yêu quý\", \"nuông chiều\" để chỉ sự đối xử đặc biệt hoặc âu yếm dành cho ai đó.\n\nVí dụ:\n- 寵愛 (chouai): Yêu quý, nuông chiều.\n- 寵児 (chouji): Đứa trẻ đ"
+  },
+  "comments": [
+    {
+      "id": "219346",
+      "lang": "vi",
+      "content_html": "<p>vì được sủng ái nên chị nguyệt được vị trí hoàng hậu trong cung và được tặng chiếc lược</p>",
+      "content_text": "vì được sủng ái nên chị nguyệt được vị trí hoàng hậu trong cung và được tặng chiếc lược",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

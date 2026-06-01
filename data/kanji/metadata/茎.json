@@ -1,0 +1,89 @@
+{
+  "kanji": "茎",
+  "meta": {
+    "weight": 2275,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ケイ",
+      "キョウ"
+    ],
+    "kun": [
+      "くき"
+    ],
+    "am_han": "HÀNH, KINH"
+  },
+  "meaning": {
+    "vi": "thân cây",
+    "en": "stalk, stem"
+  },
+  "stroke": {
+    "count": 8,
+    "svg": "assets/svg/茎.svg"
+  },
+  "frequency": 2013,
+  "examples": [
+    "茎",
+    "歯茎",
+    "包茎"
+  ],
+  "explanation": {
+    "id": "2013",
+    "text": "茎 (đọc là \"kei\") có nghĩa là \"cọng\", \"thân cây\" để chỉ phần thân hoặc cuống của thực vật, đặc biệt là trong các loại rau và hoa.\n\nVí dụ:\n- 茎菜 (keisai): Rau cọng, thường chỉ các loại rau có c"
+  },
+  "comments": [
+    {
+      "id": "156506",
+      "lang": "vi",
+      "content_html": "<p>Lại được ăn HÀNH dưới Đất</p>",
+      "content_text": "Lại được ăn HÀNH dưới Đất",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156507",
+      "lang": "vi",
+      "content_html": "<p>Thánh biến cỏ thành cái cuống Hành</p>",
+      "content_text": "Thánh biến cỏ thành cái cuống Hành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "156508",
+      "lang": "vi",
+      "content_html": "<p>Đi chân đất hái cuống hành</p>",
+      "content_text": "Đi chân đất hái cuống hành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "飽",
+  "meta": {
+    "weight": 2931,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ホウ"
+    ],
+    "kun": [
+      "あ.きる",
+      "あ.かす",
+      "あ.く"
+    ],
+    "am_han": "BÃO"
+  },
+  "meaning": {
+    "vi": "sated, mệt mỏi, buồn chán, no",
+    "en": "sated, tired of, bored, satiate"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/飽.svg"
+  },
+  "frequency": 1780,
+  "examples": [
+    "飽き",
+    "飽きる",
+    "飽和",
+    "飽食",
+    "飽く"
+  ],
+  "explanation": {
+    "id": "7232",
+    "text": "飽 (đọc là \"hō\") có nghĩa là \"no\", chỉ trạng thái không còn cảm giác đói bụng hoặc thỏa mãn với cái gì đó.  \nVí dụ:  \n- 飽きる (akiru): Chán, không còn hứng thú.  \n- 満腹飽和 (manpuku hōwa): No bụng"
+  },
+  "comments": [
+    {
+      "id": "157943",
+      "lang": "vi",
+      "content_html": "<p>mùa BÃO, cứ ăn Cơm (食） hộp Đóng Gói（ BAO 包 ) =&#62; chán</p>",
+      "content_text": "mùa BÃO, cứ ăn Cơm (食） hộp Đóng Gói（ BAO 包 ) => chán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157944",
+      "lang": "vi",
+      "content_html": "<p>Ăn nguyên bao lương thực bảo sao ko chán</p>",
+      "content_text": "Ăn nguyên bao lương thực bảo sao ko chán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157945",
+      "lang": "vi",
+      "content_html": "<p>Vừa bắt bao quỳ vừa ăn chẳng mệt mỏi bão hoà</p>",
+      "content_text": "Vừa bắt bao quỳ vừa ăn chẳng mệt mỏi bão hoà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

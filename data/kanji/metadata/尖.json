@@ -1,0 +1,89 @@
+{
+  "kanji": "尖",
+  "meta": {
+    "weight": 762,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "とが.る",
+      "さき",
+      "するど.い"
+    ],
+    "am_han": "TIÊM"
+  },
+  "meaning": {
+    "vi": "được nhọn, sắc nét, côn, không hài lòng, tức giận, sắc sảo",
+    "en": "be pointed, sharp, taper, displeased, angry, edgy"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/尖.svg"
+  },
+  "frequency": 2133,
+  "examples": [
+    "尖塔",
+    "尖"
+  ],
+  "explanation": {
+    "id": "4487",
+    "text": "尖 (đọc là \"sen\" hoặc \"suwaru\") có nghĩa là \"nhọn\", \"sắc\" để chỉ các vật có đầu nhọn hoặc tính chất sắc bén.  \nVí dụ:  \n- 尖った (togatta): Nhọn, sắc.  \n- 尖閣諸島 (Senkaku Shotō): Quần đảo Senkaku."
+  },
+  "comments": [
+    {
+      "id": "153068",
+      "lang": "vi",
+      "content_html": "<p>Kim TIÊM thì đầu NHỎ đuôi TO nên rất sắc NHỌN. Chọc cái biết ngay</p>",
+      "content_text": "Kim TIÊM thì đầu NHỎ đuôi TO nên rất sắc NHỌN. Chọc cái biết ngay",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153069",
+      "lang": "vi",
+      "content_html": "<p>Trên nhỏ dưới to thì chắc chắn là nhọn rồi</p>",
+      "content_text": "Trên nhỏ dưới to thì chắc chắn là nhọn rồi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153070",
+      "lang": "vi",
+      "content_html": "<p>Đầu nhỏ đầu to mới nhọn thì Tiêm được,chứ 2 đầu bằng nhau hóa ra thành cái que à?</p>",
+      "content_text": "Đầu nhỏ đầu to mới nhọn thì Tiêm được,chứ 2 đầu bằng nhau hóa ra thành cái que à?",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

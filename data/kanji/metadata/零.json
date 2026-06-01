@@ -1,0 +1,108 @@
+{
+  "kanji": "零",
+  "meta": {
+    "weight": 2868,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "レイ"
+    ],
+    "kun": [
+      "ぜろ",
+      "こぼ.す",
+      "こぼ.れる"
+    ],
+    "am_han": "LINH"
+  },
+  "meaning": {
+    "vi": "số không",
+    "en": "zero, spill, overflow, nothing, cipher"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/零.svg"
+  },
+  "frequency": 1217,
+  "examples": [
+    "零細",
+    "零",
+    "零れ",
+    "零下"
+  ],
+  "explanation": {
+    "id": "8238",
+    "text": "零 (đọc là \"rei\" hoặc \"zero\") có nghĩa là \"không\", chỉ số 0 trong toán học hoặc để chỉ sự vắng mặt, không có gì.\n\nVí dụ:\n- 零下 (reika): Dưới không độ, âm.\n- 零時 (reizji): Giờ không, nửa đêm.\n- "
+  },
+  "comments": [
+    {
+      "id": "37431",
+      "lang": "vi",
+      "content_html": "",
+      "content_text": "",
+      "image_url": "https://jpdictionary.com/upload/images/62cd02d200c3e.jpg",
+      "image_path": "assets/images/零_1.jpg",
+      "audio": null,
+      "like": 9,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157801",
+      "lang": "vi",
+      "content_html": "<p>Dùng LỆNH bài cầu MƯA rơi mà mãi KHÔNG LINH</p>",
+      "content_text": "Dùng LỆNH bài cầu MƯA rơi mà mãi KHÔNG LINH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157802",
+      "lang": "vi",
+      "content_html": "<p>Lệnh hô mưa れい  mà như không</p>",
+      "content_text": "Lệnh hô mưa れい  mà như không",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "157803",
+      "lang": "vi",
+      "content_html": "<p>Cầu thần linh 零 ra mệnh lệnh 命令 cho mưa 雨 cứu hạn hán</p>",
+      "content_text": "Cầu thần linh 零 ra mệnh lệnh 命令 cho mưa 雨 cứu hạn hán",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

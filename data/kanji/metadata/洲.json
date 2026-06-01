@@ -1,0 +1,70 @@
+{
+  "kanji": "洲",
+  "meta": {
+    "weight": 1532,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "シュウ",
+      "ス"
+    ],
+    "kun": [
+      "しま"
+    ],
+    "am_han": "CHÂU"
+  },
+  "meaning": {
+    "vi": "lục địa, bãi cát, đảo, quốc gia",
+    "en": "continent, sandbar, island, country"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/洲.svg"
+  },
+  "frequency": 1979,
+  "examples": [
+    "洲"
+  ],
+  "explanation": {
+    "id": "3490",
+    "text": "洲 (đọc là \"shuu\") có nghĩa là \"hải đảo\", \"vùng đất giữa biển\" để chỉ những vùng đất nằm trong nước hoặc biển.  \nVí dụ:  \n- 洲際 (shukai): Giữa các hải đảo, liên quan đến nhiều đảo.  \n- 大洲 (oo "
+  },
+  "comments": [
+    {
+      "id": "154877",
+      "lang": "vi",
+      "content_html": "<p>Nước sông ngập tràn cả CHÂU âu</p>",
+      "content_text": "Nước sông ngập tràn cả CHÂU âu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154878",
+      "lang": "vi",
+      "content_html": "<p>âu châu :châu âu</p>",
+      "content_text": "âu châu :châu âu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "公",
+  "meta": {
+    "weight": 271,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "コウ",
+      "ク"
+    ],
+    "kun": [
+      "おおやけ"
+    ],
+    "am_han": "CÔNG"
+  },
+  "meaning": {
+    "vi": "công khai, công cộng",
+    "en": "public, prince, official, governmental"
+  },
+  "stroke": {
+    "count": 4,
+    "svg": "assets/svg/公.svg"
+  },
+  "frequency": 118,
+  "examples": [
+    "公開",
+    "公共",
+    "公園",
+    "公式",
+    "主人公"
+  ],
+  "explanation": {
+    "id": "2385",
+    "text": "公 (đọc là \"kō\" hoặc \"ō\") có nghĩa là \"công cộng\", \"công bằng\", \"chính thức\". \n\nVí dụ:\n- 公園 (kōen): Công viên.\n- 公務 (kōmu): Công vụ, công việc chính phủ.\n- 公平 (kōhei): Công bằng, công lý."
+  },
+  "comments": [
+    {
+      "id": "37168",
+      "lang": "vi",
+      "content_html": "<p>Tôi e ngại ở nơi<strong> công cộng</strong>.</p>",
+      "content_text": "Tôi e ngại ở nơi\ncông cộng\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfd0f918681.jpg",
+      "image_path": "assets/images/公_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151868",
+      "lang": "vi",
+      "content_html": "<p>8 việc tư sẽ thành việc Công</p>",
+      "content_text": "8 việc tư sẽ thành việc Công",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158298",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>公園 (こうえん): công viên<br>公務員 (こうむいん): viên chức nhà nước</p>",
+      "content_text": "JLPT N4\n公園 (こうえん): công viên\n公務員 (こうむいん): viên chức nhà nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "158928",
+      "lang": "vi",
+      "content_html": "<p>公の施設(おおやけのしせつ):cơ sở vật chất công cộng<br>公有(こうゆう): sở hữu chung, của chung<br>み公開(みこうかい): chưa công khai<br>公立(こうりつ): công lập</p>",
+      "content_text": "公の施設(おおやけのしせつ):cơ sở vật chất công cộng\n公有(こうゆう): sở hữu chung, của chung\nみ公開(みこうかい): chưa công khai\n公立(こうりつ): công lập",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "246",
+        "name": "Nguyễn Tiến Thành",
+        "image_url": null
+      }
+    }
+  ]
+}

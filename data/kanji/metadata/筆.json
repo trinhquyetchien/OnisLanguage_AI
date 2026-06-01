@@ -1,0 +1,90 @@
+{
+  "kanji": "筆",
+  "meta": {
+    "weight": 1990,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ヒツ"
+    ],
+    "kun": [
+      "ふで"
+    ],
+    "am_han": "BÚT"
+  },
+  "meaning": {
+    "vi": "bút",
+    "en": "writing brush, writing, painting brush, handwriting"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/筆.svg"
+  },
+  "frequency": 1132,
+  "examples": [
+    "筆者",
+    "執筆",
+    "筆",
+    "筆頭",
+    "鉛筆"
+  ],
+  "explanation": {
+    "id": "6672",
+    "text": "筆 (đọc là \"butsu\" hoặc \"hitsu\") có nghĩa là \"bút\", chỉ các công cụ viết hoặc ký. \n\nVí dụ:\n- 筆記 (hikki): Ghi chép, sự ghi lại.\n- 筆者 (hissha): Tác giả, người viết.\n- 万年筆 (mannenbitsu): Bút máy"
+  },
+  "comments": [
+    {
+      "id": "155870",
+      "lang": "vi",
+      "content_html": "<p>Họ Duật làm bút từ cây tre</p>",
+      "content_text": "Họ Duật làm bút từ cây tre",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155871",
+      "lang": "vi",
+      "content_html": "<p>Thời xưa bút làm bằng chổi lông : hình ảnh tay cầm bút viết lên đốt tre</p>",
+      "content_text": "Thời xưa bút làm bằng chổi lông : hình ảnh tay cầm bút viết lên đốt tre",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155872",
+      "lang": "vi",
+      "content_html": "<p>người xưa làm cây BÚT từ cây TRÚC. thân hình cây bút khắc lên chữ DUẬT ...</p>",
+      "content_text": "người xưa làm cây BÚT từ cây TRÚC. thân hình cây bút khắc lên chữ DUẬT ...",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

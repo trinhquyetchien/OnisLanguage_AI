@@ -11,7 +11,7 @@ router = APIRouter()
 @router.post("/translate", response_model=TranslationResponse)
 async def translate(
     request: TranslationRequest,
-    current_user: User = Depends(deps.get_current_user)
+    _current_user: User | None = Depends(deps.get_optional_user)
 ):
     return language_service.translate(request)
 
@@ -19,10 +19,18 @@ async def translate(
 @router.post("/analyze", response_model=AnalyzeTextResponse)
 async def analyze(
     request: AnalyzeTextRequest,
-    current_user: User = Depends(deps.get_current_user)
+    _current_user: User | None = Depends(deps.get_optional_user)
 ):
+    normalized_text = (
+        request.text
+        if request.language == "ja"
+        else language_service.translate_text(request.text, request.language, "ja")
+    )
     return AnalyzeTextResponse(
         text=request.text,
         language=request.language,
-        analysis=language_service.analyze_text(request.text),
+        normalized_text=normalized_text,
+        sentences=language_service.build_sentence_displays(normalized_text),
+        analysis=language_service.analyze_text(normalized_text),
+        kanji=language_service.extract_kanji_items(normalized_text),
     )

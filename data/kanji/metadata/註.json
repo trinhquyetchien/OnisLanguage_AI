@@ -1,0 +1,48 @@
+{
+  "kanji": "註",
+  "meta": {
+    "weight": 2468,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [],
+    "am_han": "CHÚ"
+  },
+  "meaning": {
+    "vi": "ghi chú, bình luận, chú thích",
+    "en": "notes, comment, annotate"
+  },
+  "stroke": {
+    "count": 12,
+    "svg": "assets/svg/註.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "5298",
+    "text": "註 (đọc là \"chū\") có nghĩa là \"chú thích\", \"giải thích\" để chỉ các hành động liên quan đến việc ghi chú, giải thích hoặc làm rõ thông tin.  \nVí dụ:  \n- 註釈 (chūshaku): Chú thích, giải thích.  "
+  },
+  "comments": [
+    {
+      "id": "220683",
+      "lang": "vi",
+      "content_html": "<p>Nói với ông CHÚ để đặt hàng</p>",
+      "content_text": "Nói với ông CHÚ để đặt hàng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "kanji": "沖",
+  "meta": {
+    "weight": 1502,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "チュウ"
+    ],
+    "kun": [
+      "おき",
+      "おきつ",
+      "ちゅう.する",
+      "わく"
+    ],
+    "am_han": "TRÙNG, XUNG"
+  },
+  "meaning": {
+    "vi": "biển khơi, cất cánh, vươn cao lên bầu trời",
+    "en": "open sea, offing, rise high into sky"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/沖.svg"
+  },
+  "frequency": 929,
+  "examples": [
+    "沖縄",
+    "沖",
+    "沖合",
+    "沖合い"
+  ],
+  "explanation": {
+    "id": "555",
+    "text": "沖 (đọc là \"oki\") có nghĩa là \"nơi sâu\" hoặc \"vùng nước xa bờ\", thường chỉ về khu vực nước biển sâu hơn, xa khỏi bờ. \n\nVí dụ:\n- 沖合 (okiai): Vùng nước sâu, cách bờ.\n- 沖縄 (Okinawa): Okinawa, mộ"
+  },
+  "comments": [
+    {
+      "id": "154793",
+      "lang": "vi",
+      "content_html": "<p>giữa 中 nước 水 là biển khơi muôn Trùng con sóng</p>",
+      "content_text": "giữa 中 nước 水 là biển khơi muôn Trùng con sóng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154794",
+      "lang": "vi",
+      "content_html": "<p>Nước Trung có Trùng Khánh nhiều biển khơi</p>",
+      "content_text": "Nước Trung có Trùng Khánh nhiều biển khơi",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154795",
+      "lang": "vi",
+      "content_html": "<p>nước bên trong làm trùng túi rỗng</p>",
+      "content_text": "nước bên trong làm trùng túi rỗng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

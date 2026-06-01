@@ -1,0 +1,92 @@
+{
+  "kanji": "崎",
+  "meta": {
+    "weight": 804,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "さき",
+      "さい",
+      "みさき"
+    ],
+    "am_han": "KHI"
+  },
+  "meaning": {
+    "vi": "mỏm đất, mũi đất",
+    "en": "promontory, cape, spit"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/崎.svg"
+  },
+  "frequency": 533,
+  "examples": [
+    "宮崎",
+    "長崎",
+    "川崎",
+    "崎",
+    "高崎"
+  ],
+  "explanation": {
+    "id": "2874",
+    "text": "崎 (đọc là \"saki\") có nghĩa là \"mũi đất\", \"bán đảo\" để chỉ những vùng đất nhô ra biển hoặc hình dạng địa hình giống như mũi nhọn.  \nVí dụ:  \n- 崎嶇 (saku) : Địa hình gồ ghề, khó đi.  \n- 岬 (misa"
+  },
+  "comments": [
+    {
+      "id": "153171",
+      "lang": "vi",
+      "content_html": "<p>KHI leo núi mà không gặp đường gập ghềnh thì đúng là một điều kì diệu</p>",
+      "content_text": "KHI leo núi mà không gặp đường gập ghềnh thì đúng là một điều kì diệu",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 4,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153172",
+      "lang": "vi",
+      "content_html": "<p>Tự hình là chữ 﨑<br>Âm Hán Việt: khi, kỳ<br>Unicode: U+FA11<br>Tổng nét: 11<br>Bộ: sơn 山 (+8 nét)<br>Hình thái: ⿰山竒<br>Độ thông dụng trong Hán ngữ cổ: rất thấp<br>Độ thông dụng trong tiếng Trung hiện đại: rất thấp<br><br>Dị thể là chữ 崎</p>",
+      "content_text": "Tự hình là chữ 﨑\nÂm Hán Việt: khi, kỳ\nUnicode: U+FA11\nTổng nét: 11\nBộ: sơn 山 (+8 nét)\nHình thái: ⿰山竒\nĐộ thông dụng trong Hán ngữ cổ: rất thấp\nĐộ thông dụng trong tiếng Trung hiện đại: rất thấp\nDị thể là chữ 崎",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153173",
+      "lang": "vi",
+      "content_html": "<p>Nhìn núi Phú Sĩ [山] thì thấy thật kì diệu [奇] nhưng mà  KHI đi đường gập ghềnh lắm</p>",
+      "content_text": "Nhìn núi Phú Sĩ [山] thì thấy thật kì diệu [奇] nhưng mà  KHI đi đường gập ghềnh lắm",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

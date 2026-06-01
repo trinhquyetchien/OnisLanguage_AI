@@ -1,0 +1,105 @@
+{
+  "kanji": "勉",
+  "meta": {
+    "weight": 357,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ベン"
+    ],
+    "kun": [
+      "つと.める"
+    ],
+    "am_han": "MIỄN"
+  },
+  "meaning": {
+    "vi": "nỗ lực, học",
+    "en": "exertion, endeavour, encourage, strive, make effort, diligent"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/勉.svg"
+  },
+  "frequency": 1066,
+  "examples": [
+    "勉強",
+    "勤勉",
+    "勉学"
+  ],
+  "explanation": {
+    "id": "20299",
+    "text": "勉 (đọc là \"sō\") có nghĩa là \"hòa hợp\", \"tương đồng\" để chỉ sự kết hợp hoặc hài hòa giữa các yếu tố khác nhau.\nVí dụ:\n- 勉和 (sōwa): Hòa bình, hòa hợp.\n- 勉調 (sōchō): Hài hòa, cân bằng. \n- 勉音 (s"
+  },
+  "comments": [
+    {
+      "id": "657",
+      "lang": "vi",
+      "content_html": "<p>Người đàn ông đang hết sức (力) <strong>nỗ lực</strong>.</p>",
+      "content_text": "Người đàn ông đang hết sức (力)\nnỗ lực\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62982ecebfb4a.jpg",
+      "image_path": "assets/images/勉_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "152098",
+      "lang": "vi",
+      "content_html": "<p>Dù kết quả ra sao , MIỄN CỐ GẮNG hết SỨC LỰC là được</p>",
+      "content_text": "Dù kết quả ra sao , MIỄN CỐ GẮNG hết SỨC LỰC là được",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158597",
+      "lang": "vi",
+      "content_html": "<p>JLPT N4</p><p>勉強 (べんきょう): học</p>",
+      "content_text": "JLPT N4\n勉強 (べんきょう): học",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "152099",
+      "lang": "vi",
+      "content_html": "<p>Bỏ(免) sức Lực(力) gọi là cố sức(勉)</p>",
+      "content_text": "Bỏ(免) sức Lực(力) gọi là cố sức(勉)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

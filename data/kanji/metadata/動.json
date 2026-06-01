@@ -1,0 +1,91 @@
+{
+  "kanji": "動",
+  "meta": {
+    "weight": 358,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ドウ"
+    ],
+    "kun": [
+      "うご.く",
+      "うご.かす"
+    ],
+    "am_han": "ĐỘNG"
+  },
+  "meaning": {
+    "vi": "chuyển động",
+    "en": "move, motion, change, confusion, shift, shake"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/動.svg"
+  },
+  "frequency": 73,
+  "examples": [
+    "活動",
+    "行動",
+    "運動",
+    "動き",
+    "移動"
+  ],
+  "explanation": {
+    "id": "5901",
+    "text": "動 (đọc là \"dō\") có nghĩa là \"di chuyển\", \"hoạt động\" để chỉ các hành động liên quan đến sự chuyển động hoặc thay đổi trạng thái.\n\nVí dụ:\n- 動物 (dōbutsu): Động vật.\n- 動く (ugoku): Di chuyển, ho"
+  },
+  "comments": [
+    {
+      "id": "36825",
+      "lang": "vi",
+      "content_html": "<p>Dùng sức (力) để <strong>chuyển </strong>đống sách sách nặng (重)</p>",
+      "content_text": "Dùng sức (力) để\nchuyển\nđống sách sách nặng (重)",
+      "image_url": "https://jpdictionary.com/upload/images/62ac7abda6cc7.png",
+      "image_path": "assets/images/動_1.png",
+      "audio": null,
+      "like": 10,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "190913",
+      "lang": "vi",
+      "content_html": "<p><strong>vận động</strong></p>",
+      "content_text": "vận động",
+      "image_url": "https://jpdictionary.com/upload/images/648a6e863d389.jpg",
+      "image_path": "assets/images/動_2.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "63",
+        "name": "I ❤ JP",
+        "image_url": "https://jpdictionary.com/upload/images/648947ee157a8.jpg"
+      }
+    },
+    {
+      "id": "152100",
+      "lang": "vi",
+      "content_html": "<p>Chỉ có LỰC sĩ (力) mới làm cho Vật Nặng (重 TRỌNG) chuyển ĐỘNG (動) được. (bê, vác, đẩy)<br>..性..</p>",
+      "content_text": "Chỉ có LỰC sĩ (力) mới làm cho Vật Nặng (重 TRỌNG) chuyển ĐỘNG (動) được. (bê, vác, đẩy)\n..性..",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 6,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

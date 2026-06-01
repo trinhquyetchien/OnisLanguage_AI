@@ -1,0 +1,92 @@
+{
+  "kanji": "禅",
+  "meta": {
+    "weight": 1914,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ゼン",
+      "セン"
+    ],
+    "kun": [
+      "しずか",
+      "ゆず.る"
+    ],
+    "am_han": "THIỀN, THIỆN, XÈNG"
+  },
+  "meaning": {
+    "vi": "Thiền, thiền im lặng",
+    "en": "Zen, silent meditation"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/禅.svg"
+  },
+  "frequency": 1902,
+  "examples": [
+    "禅",
+    "座禅",
+    "禅師",
+    "禅宗",
+    "禅問答"
+  ],
+  "explanation": {
+    "id": "4598",
+    "text": "禅 (đọc là \"zen\") có nghĩa là \"thiền\", chỉ một trường phái trong Phật giáo tập trung vào thiền định và trực giác.  \nVí dụ:  \n- 禅僧 (zensō): Thiền sư, người tu hành theo phương pháp thiền.  \n- "
+  },
+  "comments": [
+    {
+      "id": "155715",
+      "lang": "vi",
+      "content_html": "<p>Thị giả thường Đơn độc ngồi Thiền.</p>",
+      "content_text": "Thị giả thường Đơn độc ngồi Thiền.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155716",
+      "lang": "vi",
+      "content_html": "<p>mặc áo đơn độc NGỒI THIỀN</p>",
+      "content_text": "mặc áo đơn độc NGỒI THIỀN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155717",
+      "lang": "vi",
+      "content_html": "<p>Đốt nến đơn giản là để ngồi THIỀN</p>",
+      "content_text": "Đốt nến đơn giản là để ngồi THIỀN",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

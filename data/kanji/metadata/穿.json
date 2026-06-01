@@ -1,0 +1,85 @@
+{
+  "kanji": "穿",
+  "meta": {
+    "weight": 1959,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セン"
+    ],
+    "kun": [
+      "うが.つ",
+      "は.く"
+    ],
+    "am_han": "XUYÊN"
+  },
+  "meaning": {
+    "vi": "đeo vào (đến chân), đào, xuyên qua, khoan",
+    "en": "put on (to the feet), dig, pierce, drill"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/穿.svg"
+  },
+  "frequency": null,
+  "examples": [],
+  "explanation": {
+    "id": "4531",
+    "text": "穿 (đọc là \"sen\") có nghĩa là \"mặc\", \"đeo\" để chỉ việc mặc quần áo hoặc mang đồ vật lên người.  \nVí dụ:  \n- 穿く (haku): Mặc (quần, giày).  \n- 穿戴 (sentai): Trang phục, cách ăn mặc.  \n- 穿孔 (senk"
+  },
+  "comments": [
+    {
+      "id": "220259",
+      "lang": "vi",
+      "content_html": "<p>có 8 cái răng xuyên dưới mái nhà</p>",
+      "content_text": "có 8 cái răng xuyên dưới mái nhà",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220260",
+      "lang": "vi",
+      "content_html": "<p>Lấy Răng (nha) XUYÊN phá được 1 cái Lỗ</p>",
+      "content_text": "Lấy Răng (nha) XUYÊN phá được 1 cái Lỗ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    },
+    {
+      "id": "220261",
+      "lang": "vi",
+      "content_html": "<p>cái huyệt mà cũng bị cái răng cái xuyên thủng</p>",
+      "content_text": "cái huyệt mà cũng bị cái răng cái xuyên thủng",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "3327",
+        "name": "諸葛亮",
+        "image_url": "https://jpdictionary.com/upload/images/658b003c8021d.jpg"
+      }
+    }
+  ]
+}

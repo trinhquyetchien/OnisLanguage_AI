@@ -1,0 +1,90 @@
+{
+  "kanji": "救",
+  "meta": {
+    "weight": 1173,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キュウ"
+    ],
+    "kun": [
+      "すく.う"
+    ],
+    "am_han": "CỨU"
+  },
+  "meaning": {
+    "vi": "cứu rỗi, tiết kiệm, giúp đỡ, giải cứu, đòi lại",
+    "en": "salvation, save, help, rescue, reclaim"
+  },
+  "stroke": {
+    "count": 11,
+    "svg": "assets/svg/救.svg"
+  },
+  "frequency": 799,
+  "examples": [
+    "救済",
+    "救い",
+    "救う",
+    "救急",
+    "救助"
+  ],
+  "explanation": {
+    "id": "1524",
+    "text": "救 (đọc là \"kyuu\") có nghĩa là \"cứu giúp\", \"giải cứu\" để chỉ các hành động liên quan đến việc cứu trợ hoặc bảo vệ người khác khỏi nguy hiểm.\n\nVí dụ:\n- 救急 (kyuukyu): Cấp cứu, sơ cứu.\n- 救助 (kyu"
+  },
+  "comments": [
+    {
+      "id": "154086",
+      "lang": "vi",
+      "content_html": "<p>Ông Phộc (攵) Cầu (求) Cứu (救).</p>",
+      "content_text": "Ông Phộc (攵) Cầu (求) Cứu (救).",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154087",
+      "lang": "vi",
+      "content_html": "<p>Bị ĐÁNH nên phải CẦU CỨU</p>",
+      "content_text": "Bị ĐÁNH nên phải CẦU CỨU",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154088",
+      "lang": "vi",
+      "content_html": "<p>Tay tác động cứu giúp người cầu xin nước</p>",
+      "content_text": "Tay tác động cứu giúp người cầu xin nước",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "kanji": "企",
+  "meta": {
+    "weight": 151,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "キ"
+    ],
+    "kun": [
+      "くわだ.てる",
+      "たくら.む"
+    ],
+    "am_han": "XÍ"
+  },
+  "meaning": {
+    "vi": "đảm nhận, kế hoạch, thiết kế, cố gắng",
+    "en": "undertake, scheme, design, attempt, plan"
+  },
+  "stroke": {
+    "count": 6,
+    "svg": "assets/svg/企.svg"
+  },
+  "frequency": 278,
+  "examples": [
+    "企業",
+    "企画",
+    "経済企画庁",
+    "企て",
+    "企図"
+  ],
+  "explanation": {
+    "id": "1241",
+    "text": "企 (đọc là \"ki\") có nghĩa là \"kế hoạch\", \"dự tính\", thường liên quan đến việc lập kế hoạch hoặc tổ chức một hoạt động nào đó.\n\nVí dụ:\n- 企業 (kigyō): Doanh nghiệp, công ty.\n- 企画 (kikaku): Kế ho"
+  },
+  "comments": [
+    {
+      "id": "151571",
+      "lang": "vi",
+      "content_html": "<p>Dừng lại làm ở trong nhà thì là xí nghiệp</p>",
+      "content_text": "Dừng lại làm ở trong nhà thì là xí nghiệp",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "151572",
+      "lang": "vi",
+      "content_html": "<p>dừng lại để đi vệ sinh trong nhà xí</p>",
+      "content_text": "dừng lại để đi vệ sinh trong nhà xí",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "221631",
+      "lang": "vi",
+      "content_html": "<p>Chữ Hán 企 (đọc là \"ki\") có nghĩa là \"kế hoạch,\" \"dự định,\" để chỉ kế hoạch, ý định hoặc dự định một việc gì đó.</p><p>Ví dụ:</p><ol><li><strong>企画する (kikaku suru)</strong>: Lập kế hoạch.</li><li><strong>企てる (hakaru)</strong>: Đề ra, lập kế hoạch.</li><li><strong>企業 (kigyou)</strong>: Doanh nghiệp, công ty.</li><li><strong>企図 (kito)</strong>: Dự định, ý định.</li></ol><p>Chữ Hán 企 thường được sử dụng trong các từ vựng liên quan đến lập kế hoạch, dự định và hoạt động kinh doanh.</p>",
+      "content_text": "Chữ Hán 企 (đọc là \"ki\") có nghĩa là \"kế hoạch,\" \"dự định,\" để chỉ kế hoạch, ý định hoặc dự định một việc gì đó.\nVí dụ:\n企画する (kikaku suru)\n: Lập kế hoạch.\n企てる (hakaru)\n: Đề ra, lập kế hoạch.\n企業 (kigyou)\n: Doanh nghiệp, công ty.\n企図 (kito)\n: Dự định, ý định.\nChữ Hán 企 thường được sử dụng trong các từ vựng liên quan đến lập kế hoạch, dự định và hoạt động kinh doanh.",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "151573",
+      "lang": "vi",
+      "content_html": "<p>Người đứng lại để suy nghĩ về kế hoạch</p>",
+      "content_text": "Người đứng lại để suy nghĩ về kế hoạch",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kanji": "来",
+  "meta": {
+    "weight": 1297,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ライ",
+      "タイ"
+    ],
+    "kun": [
+      "く.る",
+      "きた.る",
+      "きた.す",
+      "き.たす",
+      "き.たる",
+      "き",
+      "こ"
+    ],
+    "am_han": "LAI"
+  },
+  "meaning": {
+    "vi": "đến, tương lai",
+    "en": "come, due, next, cause, become"
+  },
+  "stroke": {
+    "count": 7,
+    "svg": "assets/svg/来.svg"
+  },
+  "frequency": 102,
+  "examples": [
+    "来",
+    "出来",
+    "出来る",
+    "来る",
+    "将来"
+  ],
+  "explanation": {
+    "id": "7946",
+    "text": "来 (đọc là \"rai\" hoặc \"kurai\") có nghĩa là \"đến\", chỉ hành động di chuyển từ nơi này tới nơi khác.  \nVí dụ:  \n- 来る (kuru): Đến.  \n- 来週 (raishuu): Tuần tới.  \n- 来年 (rainen): Năm tới."
+  },
+  "comments": [
+    {
+      "id": "678",
+      "lang": "vi",
+      "content_html": "<p><strong>Đến </strong>tháng 10 thì có thể thu hoạch lúa (米).</p>",
+      "content_text": "Đến\ntháng 10 thì có thể thu hoạch lúa (米).",
+      "image_url": "https://jpdictionary.com/upload/images/6298354f6ca30.jpg",
+      "image_path": "assets/images/来_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "154401",
+      "lang": "vi",
+      "content_html": "<p>tương lai còn 1 hạt gạo</p>",
+      "content_text": "tương lai còn 1 hạt gạo",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "158354",
+      "lang": "vi",
+      "content_html": "<p>JLPT N5</p><p>来る (くる): đến<br>出来る (できる): có thể</p><p>来週 (らいしゅう): tuần sau<br>来月 (らいげつ): tháng sau<br>来年 (らいねん): năm sau</p><p>再来年 (さらいねん): năm sau nữa</p>",
+      "content_text": "JLPT N5\n来る (くる): đến\n出来る (できる): có thể\n来週 (らいしゅう): tuần sau\n来月 (らいげつ): tháng sau\n来年 (らいねん): năm sau\n再来年 (さらいねん): năm sau nữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "55",
+        "name": "Thu Hà",
+        "image_url": "https://jpdictionary.com/upload/images/6486a8e515648.jpg"
+      }
+    },
+    {
+      "id": "221911",
+      "lang": "vi",
+      "content_html": "<p>来ます - LAI (きます): đến</p><p>出来る - XUẤT LAI (できる): có thể</p><p>来週 - LAI CHU (らいしゅう): tuần sau</p><p>来月 - LAI NGUYỆT (らいげつ): tháng sau</p><p>来年 - LAI NIÊN (らいねん): năm sau</p><p>再来年 - TÁI LAI NIÊN (さらいねん): năm sau nữa</p>",
+      "content_text": "来ます - LAI (きます): đến\n出来る - XUẤT LAI (できる): có thể\n来週 - LAI CHU (らいしゅう): tuần sau\n来月 - LAI NGUYỆT (らいげつ): tháng sau\n来年 - LAI NIÊN (らいねん): năm sau\n再来年 - TÁI LAI NIÊN (さらいねん): năm sau nữa",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "5167",
+        "name": "v v",
+        "image_url": "https://jpdictionary.com/upload/images/681ca46917089.jpg"
+      }
+    }
+  ]
+}

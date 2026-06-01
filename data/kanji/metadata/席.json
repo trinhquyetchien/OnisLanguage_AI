@@ -1,0 +1,107 @@
+{
+  "kanji": "席",
+  "meta": {
+    "weight": 837,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "セキ"
+    ],
+    "kun": [
+      "むしろ"
+    ],
+    "am_han": "TỊCH"
+  },
+  "meaning": {
+    "vi": "chỗ ngồi, chủ tịch",
+    "en": "seat, mat, occasion, place"
+  },
+  "stroke": {
+    "count": 10,
+    "svg": "assets/svg/席.svg"
+  },
+  "frequency": 370,
+  "examples": [
+    "席",
+    "出席",
+    "座席",
+    "客席",
+    "欠席"
+  ],
+  "explanation": {
+    "id": "4385",
+    "text": "席 (đọc là \"seki\") có nghĩa là \"chỗ ngồi\" hoặc \"bàn\". Nó thường được sử dụng để chỉ vị trí hoặc không gian để ngồi.\n\nVí dụ:\n- 席 (seki): Chỗ ngồi.\n- 出席 (shusseki): Sự có mặt, tham dự.\n- 席次 (se"
+  },
+  "comments": [
+    {
+      "id": "37302",
+      "lang": "vi",
+      "content_html": "<p>Ở cửa hàng có 21 <strong>chỗ ngồi</strong>.</p>",
+      "content_text": "Ở cửa hàng có 21\nchỗ ngồi\n.",
+      "image_url": "https://jpdictionary.com/upload/images/62bfe217a0765.jpg",
+      "image_path": "assets/images/席_1.jpg",
+      "audio": null,
+      "like": 7,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153254",
+      "lang": "vi",
+      "content_html": "<p>CÂN ĐẦU TRÂU trong NHÀ chủ TỊCH</p>",
+      "content_text": "CÂN ĐẦU TRÂU trong NHÀ chủ TỊCH",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153255",
+      "lang": "vi",
+      "content_html": "<p>dưới mái nhà 广 có 20 廿 cái ghế ngồi 席 bằng vải 巾</p>",
+      "content_text": "dưới mái nhà 广 có 20 廿 cái ghế ngồi 席 bằng vải 巾",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 2,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153256",
+      "lang": "vi",
+      "content_html": "<p>dưới mái  nhà có 21 cái khăn đang trải ở ghế ngồi (tịch)</p>",
+      "content_text": "dưới mái  nhà có 21 cái khăn đang trải ở ghế ngồi (tịch)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

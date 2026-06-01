@@ -1,0 +1,67 @@
+{
+  "kanji": "禎",
+  "meta": {
+    "weight": 1916,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "テイ"
+    ],
+    "kun": [
+      "さいわ.い"
+    ],
+    "am_han": "TRINH"
+  },
+  "meaning": {
+    "vi": "hạnh phúc, may mắn, tốt lành",
+    "en": "happiness, blessed, good fortune, auspicious"
+  },
+  "stroke": {
+    "count": 13,
+    "svg": "assets/svg/禎.svg"
+  },
+  "frequency": 2083,
+  "examples": [],
+  "explanation": {
+    "id": "20331",
+    "text": "禎 (đọc là \"sō\") có nghĩa là \"khí chất\", \"tính cách\" để chỉ những đặc điểm, phẩm chất của con người hoặc một sự vật nào đó.\n\nVí dụ:\n- 禎格 (sōkaku): Tính cách, phẩm cách.\n- 禎操 (sōsō): Khí chất,"
+  },
+  "comments": [
+    {
+      "id": "155721",
+      "lang": "vi",
+      "content_html": "<p>Thị nở bán Trinh là điềm lành</p>",
+      "content_text": "Thị nở bán Trinh là điềm lành",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "155722",
+      "lang": "vi",
+      "content_html": "<p>Thị nở Bán Trinh</p>",
+      "content_text": "Thị nở Bán Trinh",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 0,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}

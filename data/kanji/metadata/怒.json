@@ -1,0 +1,109 @@
+{
+  "kanji": "怒",
+  "meta": {
+    "weight": 950,
+    "source": "tudienjp/jpdictionary",
+    "status": "complete"
+  },
+  "reading": {
+    "on": [
+      "ド",
+      "ヌ"
+    ],
+    "kun": [
+      "いか.る",
+      "おこ.る"
+    ],
+    "am_han": "NỘ"
+  },
+  "meaning": {
+    "vi": "phẫn nộ, tức giận",
+    "en": "angry, be offended"
+  },
+  "stroke": {
+    "count": 9,
+    "svg": "assets/svg/怒.svg"
+  },
+  "frequency": 1221,
+  "examples": [
+    "怒り",
+    "怒る",
+    "激怒",
+    "怒涛",
+    "喜怒哀楽"
+  ],
+  "explanation": {
+    "id": "5757",
+    "text": "怒 (đọc là \"do\") có nghĩa là \"giận dữ\" để chỉ cảm xúc tức giận hoặc phẫn nộ.  \nVí dụ:  \n- 怒り (ikari): Cơn giận, sự tức giận.  \n- 怒鳴る (donaru): La hét, quát mắng.  \n- 怒涛 (dotou): Cơn sóng dữ, "
+  },
+  "comments": [
+    {
+      "id": "37026",
+      "lang": "vi",
+      "content_html": "<p>Tôi đã bị người phụ nữ (女) nổi <strong>giận </strong>đánh.</p>",
+      "content_text": "Tôi đã bị người phụ nữ (女) nổi\ngiận\nđánh.",
+      "image_url": "https://jpdictionary.com/upload/images/62bc512185961.jpg",
+      "image_path": "assets/images/怒_1.jpg",
+      "audio": null,
+      "like": 8,
+      "dislike": 0,
+      "reply_count": 0,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153538",
+      "lang": "vi",
+      "content_html": "<p>NÔ tỳ thường dễ phẫn NỘ vì hay bị xúc phạm tới lương TÂM</p>",
+      "content_text": "NÔ tỳ thường dễ phẫn NỘ vì hay bị xúc phạm tới lương TÂM",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 5,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153539",
+      "lang": "vi",
+      "content_html": "<p>người con gái chân vắt chéo lên là biết con tim đang giận giữ</p>",
+      "content_text": "người con gái chân vắt chéo lên là biết con tim đang giận giữ",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 3,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    },
+    {
+      "id": "153540",
+      "lang": "vi",
+      "content_html": "<p>Người con gái (女) lại (又) NỔI GIẬN từ trái tim (心)</p>",
+      "content_text": "Người con gái (女) lại (又) NỔI GIẬN từ trái tim (心)",
+      "image_url": null,
+      "image_path": null,
+      "audio": null,
+      "like": 1,
+      "dislike": 0,
+      "reply_count": 1,
+      "user": {
+        "id": "50",
+        "name": "Luffy",
+        "image_url": "https://jpdictionary.com/upload/images/64f5f44d50034.jpg"
+      }
+    }
+  ]
+}
